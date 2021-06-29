@@ -1,0 +1,272 @@
+'
+
+
+Programa de clases teóricas
+
+BLOQUE 1: LOS MINERALES EN LOS PROCESOS GEOLÓGICOS.
+BLOQUE 2: CRISTALOGRAFÍA.
+BLOQUE 3: MINERALOGÍA. CONCEPTOS GENERALES.
+BLOQUE 4: CLASIFICACIÓN DE LOS MINERALES.
+MINERALOGÍA DESCRIPTIVA.
+
+Programa de clases prácticas
+
+Estructura interna de los minerales
+Cristalografía óptica
+Reconocimiento de minerales
+ 
+
+
+Programa de clases teóricas
+
+ 
+
+BLOQUE
+  1: LOS MINERALES EN LOS PROCESOS GEOLÓGICOS.
+
+
+
+Tema
+1. Mineralogía y Cristalografía.
+¿Qué
+es un mineral? Los minerales como formadores de rocas. Importancia
+de los minerales en los diferentes procesos geológicos. Los
+minerales como materias primas. Minerales e ingeniería:
+suelos y rocas.
+
+
+
+
+
+BLOQUE
+          2: CRISTALOGRAFÍA.
+
+ 
+
+
+
+
+  
+
+Tema
+2. Redes cristalinas.   
+ 
+Simetría. Habito cristalino. Materia Cristalina.
+Isotropía y anisotropía.Celda Unidad.Operaciones y
+operadores de simetría: Traslación, Inversión,
+Reflexión y Rotación. Simetría puntual y
+simetría espacial. Limitación en el orden de los ejes
+de rotación. Cristalografía y Mineralogía:
+interrelación y desarrollo histórico. La
+Cristalografía como ciencia.
+
+
+
+Tema 3.
+ 
+
+Simetría de las redes cristalinas. Filas y
+planos. Motivo y red. Redes bi y tridimensionales. Redes planas.
+Tipos de redes tridimensionales: las 14 redes de Bravais.
+Clasificación de las redes por su simetría: los
+Sistemas Cristalinos.
+
+
+Tema
+4.
+
+Grupos puntuales y grupos espaciales. Grupos
+puntuales. Combinación de elementos de simetría. Las
+32 Clases Cristalinas. Los 230 grupos de simetría
+espacial. 
+
+
+Tema
+5. Geometría del poliedro cristalino.
+Forma
+externa de los cristales, aproximación histórica.
+Relación entre la forma de los cristales y los elementos
+reticulares. Leyes básicas de la cristalografía
+geométrica: Ley de Steno. Ley de Hauy. Leyes de Bravais.
+Índices de Miller. Formas cristalinas.
+
+
+Tema
+6. El cristal real.
+Formación
+de cristales. Nucleación y crecimiento cristalino. Defectos
+cristalinos y su importancia. Isomorfismo y polimorfismo.
+Maclas.
+
+
+
+
+
+ 
+
+
+BLOQUE
+          3: MINERALOGÍA. CONCEPTOS GENERALES.
+
+
+
+
+
+
+
+Tema
+7. Cristalquímica. Composición química de los
+minerales.
+Tipos
+de enlace. Ejemplos de estructuras cristalinas. Solución
+sólida. Diagramas de composición.
+
+
+Tema
+8.  Control estructural y químico de las propiedades
+físicas de los minerales. 
+Isotropía
+y anisotropía. Propiedades físicas de los minerales.
+Propiedades ópticas. Propiedades eléctricas y
+magnéticas.
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+BLOQUE
+          4: CLASIFICACIÓN DE LOS MINERALES.
+          MINERALOGÍA DESCRIPTIVA.
+
+
+
+
+
+
+
+Tema
+9. Clasificación de los minerales.
+Historia
+de la mineralogía descriptiva. Criterios de
+clasificación.
+
+
+Tema
+10. Clase I: Elementos nativos. Sulfuros.
+Sulfosales.
+Composición,
+propiedades y contexto geológico de formación.
+Aplicaciones.
+
+ 
+
+
+
+Tema
+11. Clase II: Óxidos e hidróxidos.
+Composición,
+propiedades y contexto geológico de formación.
+Aplicaciones.
+
+ 
+
+
+
+Tema
+12. Clase III: Carbonatos. Haluros. Sulfatos. Nitratos. Boratos.
+Fosfatos.
+Composición,
+propiedades y contexto geológico de formación.
+Aplicaciones.
+
+ 
+
+
+
+Tema
+13.  Clase IV: Silicatos.
+Nesosilicatos.
+Sorosilicatos. Ciclosilicatos. Inosilicatos. Filosilicatos.
+Tectosilicatos. Composición, propiedades y contexto
+geológico de formación. Aplicaciones.
+
+
+ 
+
+
+
+Programa
+  de clases prácticas
+
+
+
+Estructura
+  interna de los minerales
+
+
+1.-
+  Estudio de formas cristalinas mediante sólidos
+  cristalográficos.
+
+
+
+ 
+
+
+
+Cristalografía
+  óptica
+
+
+2.-
+  Identificación al microscopio de algunas propiedades
+  ópticas de los minerales.
+
+
+3.-
+  Identificación al microscopio de los minerales formadores
+  de rocas.
+
+
+ 
+
+
+
+Reconocimiento
+  de minerales
+
+
+4.-
+  Elementos nativos.
+
+
+5.-
+  Sulfuros y sulfosales.
+
+
+6.-
+  Oxidos e hidróxidos.
+
+
+7.-
+  Carbonatos y haluros.
+
+
+8.-
+  Sulfatos y fosfatos.
+
+
+9.-
+  Silicatos
+
+'

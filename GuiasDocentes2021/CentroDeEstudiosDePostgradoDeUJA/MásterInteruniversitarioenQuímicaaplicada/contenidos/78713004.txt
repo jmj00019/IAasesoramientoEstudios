@@ -1,0 +1,140 @@
+'
+
+
+Métodos de
+  modelización molecular
+Predicción de propiedades
+  moleculares y macroscópicas
+Aplicación al
+  diseño racional de polímeros con interés en
+  optoelectrónica
+Espectroscopía
+  vibracional de polímeros.
+Propiedades
+  optoelectrónicas de polímeros.
+
+
+
+
+Métodos
+  de modelización molecular
+
+
+Métodos
+  basados en campos de fuerzas
+
+
+Métodos basados en
+  función de ondas (WFT)
+
+
+Métodos
+  basados en la densidad electrónica (DFT)
+
+ 
+
+
+Predicción
+  de propiedades moleculares y macroscópicas
+
+
+Análisis
+  de densidad electrónica
+
+
+Superficies
+  de energía
+
+
+Propiedades
+  eléctricas
+
+
+Cálculo
+  teórico de espectros
+
+
+ 
+
+
+
+Aplicación
+  al Diseño racional de polímeros con interés
+  en optoelectrónica
+
+
+Concepto
+  de diseño racional de materiales y su ámbito de
+  aplicación.
+
+
+Motivos
+  estructurales relacionados con las propiedades de
+  interés.
+
+
+Aplicación
+  de la Química Computacional y el software correspondiente
+  al diseño de materiales poliméricos de
+  interés en optolectrónica.
+
+ 
+
+
+Espectroscopia
+  Vibracional de polímeros.
+
+
+Fundamentos
+  de espectroscopia vibracional aplicada a
+  polímeros. 
+
+
+Instrumentación
+  en Espectroscopía infrarroja y Raman. Aplicaciones en
+  procesos de polimerización y de transformación
+  química. 
+
+
+Caracterización
+  vibracional de polímeros conjugados más relevantes.
+  Polímeros dopados. 
+
+
+Espectros
+  infrarrojo y Raman de polímeros con aplicaciones en
+  electrónica orgánica.
+
+
+ 
+
+
+
+Propiedades
+  optoelectrónicas de polímeros.
+
+
+Transiciones
+  entre estados moleculares. Acoplamiento
+  vibrónico. 
+
+
+Estados
+  electrónicos excitados y cargados. Efectos del
+  acoplamiento electrónico. 
+
+
+Procesos
+  electrónicos y ópticos. Transporte de carga.
+
+
+Efecto
+  de la agregación en las propiedades
+  optoelectrónicas.
+
+
+Polímeros
+  fotocrómicos. Materiales ópticos no
+  lineales.
+
+'

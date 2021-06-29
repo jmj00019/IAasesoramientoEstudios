@@ -1,0 +1,32 @@
+'
+
+TEORICO
+
+Introducción a la estadística
+  computacional.
+Introducción a los paquetes estadísticos
+  apoyados en ordenador
+
+PRACTICOS
+
+Sistema Operativo: Windows, Linux,
+Software informático de uso generalizado.
+Software estadístico de uso generalizado.
+
+
+TEÓRICOS:
+Tema 1. Conceptos básicos
+de informática: Hardware y software, redes,
+sistemas operativos.
+Tema 2. Introducción a la estadística
+computacional.
+Tema 3. Fundamentos de programación y
+programación estadística.
+PRÁCTICOS:
+Práctica 1. Primeros pasos: Uso del sistema operativo y
+entorno de programación.
+Práctica 2. Aspectos básicos de
+Ofimática.
+Práctica 3. Programación estadística
+con R.
+'

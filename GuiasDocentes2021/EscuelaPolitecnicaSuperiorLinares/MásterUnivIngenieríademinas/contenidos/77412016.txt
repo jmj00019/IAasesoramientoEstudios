@@ -1,0 +1,56 @@
+'
+
+1. Caracterización del Terreno.
+2. Estudios de Vibraciones y Prospección
+Sísmica.
+3. Cálculo estructural y estabilidad de Obras
+Subterráneas. Programa Support.
+4. Planificación del método constructivo del
+túnel y fases de ejecución.
+5. Control geotécnico.
+6. Seguridad en los túneles de carreteras del Estado.
+Normativas de seguridad y salud
+
+Seis
+unidades temáticas, teóricas y prácticas:
+
+CARACTERIZACIÓN
+  DEL TERRENO: resistencia y deformación,
+  fracturación, sondeo y estación geotécnica,
+  clasificación geomecánica y geotecnología,
+  criterio de rotura de Mohr-Narvier y Hoek-Brown, geotecnia
+  sísmica en campo y hojas de cálculo.
+ANÁLISIS
+  DE VIBRACIONES Y GEOTECNIA SISMICA: cálculo sísmico
+  y modelos del comportamiento del terreno, deformación
+  inicial y convergencias, diseño de cámaras, pilares
+  y sostenimiento, interpretación de geotecnia
+  sísmica y programa Surfer.
+CÁLCULO
+  ESTRUCTURAL CON EL PROGRAMA SUPPORT Y ESTABILIDAD DE OBRAS
+  SUBTERRANEAS: curvas características con modelos
+  constitutivos, sistemas de sostenimiento y revestimiento,
+  zonificación geotécnica.
+PLANIFICACIÓN
+  Y FASES DEL MÉTODO CONSTRUCTIVO DEL TÚNEL: proceso
+  constructivo, bóveda y destroza con voladuras,
+  tuneladoras, operación y escudos, proyecto de
+  ejecución de hastiales, bóveda, solera,
+  contrabóveda y embocaduras, impermeabilización y
+  revestimiento.
+CONTROL
+  GEOTÉCNICO: control de calidad, control ambiental del aire
+  y ruidos, auscultación y zonificación de
+  patologías, análisis del riesgo, equipamiento de
+  túneles, ventilación y señalización,
+  protección ambiental, estabilidad de taludes en
+  embocaduras, aplicaciones de la geotecnia sísmica.
+SEGURIDAD
+  EN LOS TÚNELES DE CARRETERAS DEL ESTADO: normativas de
+  seguridad y salud, análisis geotécnico para el
+  diseño y construcción de túneles urbanos,
+  riesgo de edificios próximos e instrumentación,
+  asientos y deformación del terreno, recalces, protecciones
+  y mantenimiento. 
+
+'

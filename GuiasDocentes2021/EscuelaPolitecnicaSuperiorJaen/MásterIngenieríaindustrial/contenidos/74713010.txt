@@ -1,0 +1,28 @@
+'
+
+Técnicas numéricas aplicadas a la
+ingeniería.
+Optimización de funciones con condiciones de
+restricción.
+Aproximación de funciones. Aplicación a modelos
+lineales y no lineales.
+
+Técnicas numéricas aplicadas a la
+ingeniería. Optimización de funciones con condiciones
+de restricción Aproximación de funciones.
+Aplicación a modelos lineales y no lineales.
+Tema 1. Optimización y programación.
+Tema 2. Resolución numérica de sistemas de
+ecuaciones
+Tema 3. Resolución numérica de ecuaciones en
+derivadas parciales
+Tema 4. Interpolación y aproximación
+polinomial
+Tema 5. Análisis de Fourier. Transformadas.
+
+Contenidos de prácticas: En las prácticas se
+  tratará todos los contenidos de la asignatura pero con el
+  apoyo del software correspondiente, Mathematica, hoja de
+  cálculo.
+
+'

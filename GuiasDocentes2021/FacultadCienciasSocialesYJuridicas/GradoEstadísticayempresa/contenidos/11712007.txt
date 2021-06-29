@@ -1,0 +1,41 @@
+'
+
+
+Contenidos básicos: Teoría de
+colas. Teoría de grafos. Redes de transporte.
+
+
+Teoría de colas
+
+
+Elementos de un sistema de colas
+Clasificación de los sistemas de colas.
+  Notación de Kendall
+Medidas de rendimiento de un sistema de colas
+Modelos de colas M/M/1 y M/M/c
+Modelos de colas con capacidad limitada: M/M/1/k y
+  M/M/c/k
+Otros modelos de colas
+
+
+Teoría de grafos
+
+
+Concepto de grafo
+Caminos y cadenas. Árboles y arborescencias
+Caminos de longitud mínima
+Árboles y arborescencias de coste mínimo
+Grafos eulerianos
+
+
+Redes de transporte
+
+
+Definición de red de transporte
+Problemas de transporte. Algoritmo 
+  stepping stones
+Problemas de flujo máximo en redes
+Problemas de flujo máximo con costo mínimo
+Problemas de asignación
+
+'

@@ -1,0 +1,45 @@
+'
+
+La asignatura realiza una introducción a las
+infraestructuras de ingeniería de telecomunicación,
+presentando el concepto, los distintos tipos, sus fases de
+desarrollo, elaboración y ejecución, identificado los
+participantes en cada una de las fases.
+
+En cuanto a las clases en grupos de prácticas,
+servirán para hacer ejercicios sobre los conocimientos
+adquiridos durante las clases expositivas en gran grupo, haciendo
+hincapié en el despliegue de infraestructuras comunes de
+telecomunicaciones, cableado estructurado, domótica,
+tecnologías inalámbricas, y otras.
+
+Palabras clave: Despliegue de infraestructuras, cableado
+estructurado, infraestructuas comunes de
+telecomunicación.
+ 
+
+
+TEORIA Y PROBLEMAS.
+
+Tema 1. Teoría general de proyectos.
+Tema 2. Documentación de un proyecto técnico.
+Tema 3. Proyecto de infraestructura común de
+telecomunicaciones.
+Tema 4. Detección de oportunidades de negocio.
+Tema 5. Evaluación del proyecto.
+Tema 6. Preparación y elaboración de una
+oferta.
+ 
+
+PRACTICAS
+
+Práctica 1.- Familiarización con el software de
+gestión de proyectos Microsoft Project.
+Práctica 2.- Estudio inicial y realización de un
+anteproyecto tipo de Ingeniería Telemática.
+Práctica 3.- Realización de un proyecto
+técnico de Ingeniería Telemática (ICT,
+domótica, WIFI, cableado estructurado, etc.).
+Práctica 4.- Preparación y exposición oral
+del proyecto realizado.
+'

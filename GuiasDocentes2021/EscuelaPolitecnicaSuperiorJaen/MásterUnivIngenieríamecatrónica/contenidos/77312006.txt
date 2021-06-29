@@ -1,0 +1,272 @@
+'
+
+
+- Fundamentos del diseño de elementos y actuadores
+mecánicos. - Cálculo de elementos de máquinas:
+elementos flexibles, embragues, frenos, volantes y
+engranajes. 
+- Análisis de vibraciones en máquinas.
+- Vibraciones libres de sistemas de uno y dos grado de
+libertad.
+- Vibraciones forzadas de sistemas con un grado de libertad
+- Vibraciones transitorias de sistemas con un grado de
+libertad.
+- Métodos energéticos.
+- Métodos numéricos para el análisis de
+elementos de máquinas.
+
+
+Tema
+  1. Cálculo de elementos de máquinas: elementos
+  flexibles, embragues, frenos, volantes y engranajes
+
+
+1.1.
+  Elementos mecánicos flexibles.
+
+
+1.1.1
+  Introducción.
+
+
+1.1.2.
+  Bandas o correas de transmisión.
+
+
+1.1.3.
+  Transmisiones de banda plana o redonda.
+
+
+1.1.4.
+  Transmisiones de banda en V o trapeciales.
+
+
+1.1.5.
+  Transmisiones de cadena de rodillos.
+
+
+1.1.6.
+  Cables metálicos.
+
+
+1.1.7.
+  Ejes flexibles.
+
+
+1.2.
+  Embragues, frenos y volantes.
+
+
+1.2.1.
+  Introducción.
+
+
+1.2.2.
+  Consideraciones estáticas.
+
+
+1.2.3.
+  Embragues y frenos de tambor de expansión interna.
+
+
+1.2.4.
+  Embragues y frenos de contracción externa.
+
+
+1.2.5.
+  Embragues y frenos de banda.
+
+
+1.2.6.
+  Embragues de disco.
+
+
+1.2.7.
+  Embragues y frenos cónicos.
+
+
+1.2.8.
+  Volantes de inercia.
+
+
+Tema
+  2. Análisis de vibraciones en máquinas
+
+
+2.1.
+  Introducción.
+
+
+2.2.
+  Conceptos básicos de la vibración.
+
+
+2.3.
+  Clasificación de las vibraciones.
+
+
+2.4.
+  Elementos de los sistemas vibratorios.
+
+
+2.4.1.
+  Elementos de rigidez o resorte.
+
+
+2.4.2.
+  Elementos de masa o inercia.
+
+
+2.4.3.
+  Elementos de amortiguamiento.
+
+
+2.5.
+  Construcción de modelos.
+
+
+2.6.
+  Movimiento armónico.
+
+
+2.6.1.
+  Representación vectorial del movimiento
+  armónico.
+
+
+2.6.2.
+  Representación mediante números complejos del
+  movimiento armónico.
+
+
+2.6.3.
+  Definiciones y terminología.
+
+
+Tema
+  3. Vibraciones libres de sistemas de un grado de libertad.
+
+
+3.1.
+  Introducción.
+
+
+3.2.
+  Vibración libre de un sistema no amortiguado.
+
+
+3.3.
+  Vibración libre con amortiguamiento viscoso.
+
+
+3.4.
+  Decremento logarítmico.
+
+
+3.5.
+  Energía disipada en un amortiguamiento viscoso.
+
+
+3.6.
+  Vibración libre con amortiguamiento seco o de
+  Coulomb.
+
+
+3.7.
+  Vibración libre con amortiguamiento histerético o
+  estructural.
+
+
+3.8.
+  Vibración torsional.
+
+
+Tema
+  4. Vibraciones forzadas de sistemas con un grado de
+  libertad.
+
+
+4.1.
+  Introducción.
+
+
+4.2.
+  Ecuación de movimiento.
+
+
+4.3.
+  Respuesta de un sistema no amortiguado sometido a una fuerza
+  armónica.
+
+
+4.4.
+  Respuesta de un sistema amortiguado sometido a una fuerza
+  armónica.
+
+
+4.5.
+Respuesta de un sistema amortiguado sometido a una fuerza F ( t ) =
+F 
+0 e 
+i(wt+
+
+j
+
+)
+.
+
+4.6.
+  Vibraciones causadas por movimiento armónico de la
+  base.
+
+
+4.7.
+  Vibraciones causadas por rotores desequilibrados.
+
+
+4.8.
+  Desarrollo en series de Fourier.
+
+
+4.9.
+  Espectro de frecuencia.
+
+
+Tema
+5
+.
+Métodos numéricos
+
+5
+.1
+Fundamentos del método de los elementos finitos
+
+5
+.1.1.
+El método de los elementos finitos
+
+5
+.1.2.
+Pasos para el análisis por el MEF
+
+5
+.1.3.
+Sistemas discretos y sistemas continuos
+
+5
+.1.4.
+Hipótesis de discretización
+
+5
+.1.5.
+Funciones de forma o interpolación
+
+5
+.1.6.
+Ecuaciones generales
+
+5
+.2
+Aplicaciones del método de los elementos finitos
+ 
+'

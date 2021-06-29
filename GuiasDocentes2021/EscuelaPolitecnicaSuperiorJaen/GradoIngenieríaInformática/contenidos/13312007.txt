@@ -1,0 +1,107 @@
+'
+
+Metodologías y tecnologías para el desarrollo de
+aplicaciones Web. Integración con sistemas de
+información. Desarrollo de aplicaciones enriquecidas en
+Internet. Nuevas tendencias en el desarrollo Web
+ 
+
+
+CONTENIDOS TEÓRICOS
+
+
+MÓDULO 1: INTRODUCCIÓN AL DESARROLLO DE
+  APLICACIONES WEB
+
+
+- Tema 1.1 Introducción y conceptos
+básicos
+Evolución
+histórica, estándares y tecnologías
+Lenguajes de
+programación para aplicaciones web
+
+- Tema 1.2 Creación de contenidos HTML
+Evolución y conceptos HTML y
+CSS
+Entornos de desarrollo para
+interfaces web
+
+MÓDULO 2: DESARROLLO DE APLICACIONES WEB EN EL
+  SERVIDOR
+
+
+- Tema 2.1. La plataforma Jakarta Enterprise
+Edition. Servlets. JSP.
+
+- Tema 2.2. JakartaEE. Arquitectura MVC.
+Plantillas JSP y JSTL
+
+- Tema 2.3. JarkartaEE. Capa de
+presentación, JSF.
+
+- Tema 2.4. JakartaEE. Introducción a la
+capa de servicios
+
+- Tema 2.5. JakartaEE. Control de estado,
+autenticación y autorización
+
+- Tema 3.1. Entornos de desarrollo web JVM.
+ SpringMVC
+
+MÓDULO 3: DESARROLLO DE APLICACIONES WEB EN EL
+  CLIENTE
+
+
+- Tema 4.1. Programación con Javascript
+
+- Tema 4.2. Programación en el navegador
+con Javascript y y JQuery
+
+- Tema 4.3. Introducción a los servicios
+web con JAX-RS y conexiones asíncronas con el servidor,
+AJAX
+
+- Tema 5.1. Entornos de desarrollo en el cliente:
+AngularJS
+  
+CONTENIDOS PRÁCTICOS
+
+- Práctica 1. Entorno de desarrollo y
+herramientas
+
+- Práctica 2.
+Creación de Interfaces web
+
+
+- Práctica 3.
+Arquitectura MVC clásica JEE
+
+
+- Práctica 4. Desarrollo front-end con JSF
+(I)
+
+- Práctica 5. Desarrollo front-end con JSF
+(II)
+
+- Práctica 6. Modelo de datos:
+patrón DAO y JPA
+
+- Práctica 7. Autenticación y
+autorización
+
+- Práctica 8. Despliegue de aplicaciones
+JEE
+
+- Práctica 9. Desarrollo front-end con
+SpringMVC
+
+- Práctica 10. Programación en
+cliente con Javascript y jQuery
+
+- Práctica 11. Introducción a los
+servicios web con JAX-RS y AJAX
+
+- Práctica 12. Programación
+front-end en cliente con AngularJS
+'

@@ -1,0 +1,71 @@
+'
+
+Bases de cálculo en
+estructuras metálicas y estructuras de hormigón
+armado.
+Nudos: tipología. Uniones atornilladas, uniones
+soldadas.
+Calculo de elementos de hormigón armado.
+Elementos de cimentación. Forjados y muros. 
+
+Tema 1: Introducción.
+
+1.1 Arquitectura industrial.
+1.2 La planta industrial.
+1.3 Características generales de las construcciones
+industriales.
+1.4 Bases de cálculo.
+1.5 Normativa de aplicación.
+
+ Tema 2: Diseño de plantas industriales.
+
+2.1 Bases para el diseño.
+2.2 La viabilidad de una planta industrial.
+2.3 Desarrollo y realización de la planta: fases y
+etapas.
+2.4 Localización y emplazamiento de la planta.
+2.5 Implantación o distribución en planta
+(Layout).
+
+ Tema 3: Diseño de edificios industriales.
+
+3.1 Introducción.
+3.2 Condicionantes del diseño.
+3.3 Etapas del diseño.
+3.4 La ventilación en edificios industriales.
+3.5 El sistema estructural.
+3.6 Elementos del sistema estructural.
+3.7 Estabilidad. Sistemas de arriostramiento.
+
+ Tema 4: Cálculo de elementos estructurales.
+
+4.1 Selección del material de cubierta.
+4.2 Cálculo de vigas y correas.
+4.3 Puentes grúa.
+4.4 Soportes.
+4.5 Forjados.
+4.6 Escaleras.
+4.7 Soleras y pavimentos.
+4.8 Cerramientos verticales o fachadas.
+
+ Tema 5: Uniones estructurales.
+
+ Tema 6: Cimentaciones.
+Tema 7: Polígonos industriales.
+ 
+
+Prácticas:
+Las prácticas consisten en el diseño y
+optimización de la estructura de una construcción
+industrial, apoyándose en software comercial de
+cálculo de estructuras, y siguiendo los siguientes
+pasos:
+P1 - Datos generales. Selección de la cubierta.
+P2 - Dimensionado y optimización de correas.
+P3 - Diseño y optimización de estructura
+porticada.
+P4 - Pandeo y arriostramiento del edificio.
+P5 - Uniones y cimentaciones.
+ 
+ 
+'

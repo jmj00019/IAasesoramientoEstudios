@@ -1,0 +1,33 @@
+'
+
+Estilos arquitectónicos. Principios, métodos y
+herramientas de diseño. Patrones de diseño.
+ 
+
+
+Contenidos desarrollados:
+
+
+a) Teoría
+
+
+Fundamentos del diseño de software basado en
+  patrones
+Diseño arquitectónico
+Diseño de objetos
+Diseño de la interfaz
+Diseño de la persistencia de datos 
+   
+
+
+b) Prácticas
+
+
+Del análisis al diseño
+Diseño arquitectónico
+Diseño de objetos
+Diseño de la interfaz
+Diseño de la persistencia de datos
+
+ 
+'

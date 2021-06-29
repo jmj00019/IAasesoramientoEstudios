@@ -1,0 +1,74 @@
+'
+
+Aspectos químicos de los núcleos atómicos.
+Reacciones nucleares. Uso y producción de energía
+nuclear. Problemas medioambientales derivados del uso de la
+energía nuclear.
+
+Tema 1. Introducción histórica.Evolución y
+desarrollo de la Radioquímica.
+Tema 2. El núcleo. Estructura del núcleo.
+Radioelementos, isótopos y radionúclidos. Carta de
+núclidos. Estabilidad y transmutación de
+núclidos. Energía de enlace del núcleo. Masa
+de los núclidos. Propiedades del núcleo.
+Partículas elementales y fuerzas nucleares.
+Tema 3. Desintegración radioactiva.
+Series de desintegración. Leyes y Energía de
+las transformaciones radioactivas.
+
+Tema 4. Mezclas de isótopos.
+Equilibrio radioactivo. Equilibrio secular. Equilibrio
+temporal o transitorio. No equilibrio. Transformaciones
+sucesivas.
+Tema 5. Formas de desintegración.
+Introducción. Desintegración alfa.
+Desintegración beta. Transiciones gamma. Isomería
+nuclear.
+Tema 6. Las radiaciones y la materia.
+Introducción. Mecanismos de pérdida
+energética. Ionización. Excitación.
+Radiación de frenado o Bremsstrahlung. Poder de
+frenado. Alcance. Interacción de las partículas con
+la materia. Interacción de la radiación gamma.
+Medida de la radiación. Tipos de detectores.
+Tema 7. Reacciones nucleares.
+Introducción. Balance energético.
+Sección eficaz y rendimiento de una reacción nuclear.
+Tipos de reacciones nucleares.
+Tema 8. Fisión y fusión nuclear.
+El descubrimiento de la fisión nuclear. La
+fisión nuclear. Neutrones emitidos en la fisión.
+Energía liberada en
+la fisión. El reactor nuclear. Tipos de reactores
+nucleares. Combustible nuclear y ciclo del combustible.
+La fusión nuclear.
+Tema 9. Dosimetría y Radioprotección.
+Introducción. Exposición o dosis de
+irradiación. Dosis absorbida y dosis equivalente. Fuentes
+de radiación externas e internas. Efectos
+estocásticos y no estocásticos.
+Radioprotección.
+
+SEMINARIOS Y PRÁCTICAS
+Seminario 1: Ejercicios y cuestiones relacionadas con el tema
+2.
+Seminario 2: Ejercicios y cuestiones relacionadas con el tema
+3.
+Seminario 3: Ejercicios y cuestiones relacionadas con el tema
+4.
+Seminario 4: Ejercicios y cuestiones relacionadas con el tema
+5.
+Seminario 5: Ejercicios y cuestiones relacionadas con el tema
+6.
+Seminario 6: Ejercicios y cuestiones relacionadas con el tema
+7.
+
+Práctica 1: Estudio de la radiación de fondo.
+Práctica 2: Medida de la radiactividad de distintos
+compuestos.
+Práctica 3: Influencia de la cantidad de muestra en la
+intensidad de la radiación.
+Práctica 4: Influencia de la distancia en la
+intensidad de la radiación.
+'

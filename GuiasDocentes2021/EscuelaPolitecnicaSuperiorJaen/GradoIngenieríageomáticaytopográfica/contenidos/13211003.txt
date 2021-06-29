@@ -1,0 +1,251 @@
+'
+
+Técnicas de Representación y
+Normalización
+Dibujo Asistido por Ordenador
+Geometría Descript
+Dibujo Topográfico
+
+
+
+BLOQUE I.
+  NORMALIZACIÓN Y SISTEMAS DE
+  REPRESENTACIÓN
+
+
+
+Tema
+1.-
+  
+Introducción
+
+
+La
+  comunicación gráfica en la ingeniería.
+  Normalización: Concepto de Norma. Formatos de papel.
+  Plegado de planos. Márgenes. Acotación.
+  Rotulación. Líneas normalizadas. Escala del dibujo.
+  Cambios de escala. El espacio. Planos principales y bisectores.
+  Cuadrantes. Proyecciones: Concepto. Tipos. Métodos de
+  proyección y sistemas de representación.
+  Croquización: Recursos y técnicas para el trazado a
+  mano alzada.
+
+
+
+Tema
+2
+  
+.-  Sistema
+Diédrico
+
+
+Introducción.
+  Definición y aplicaciones. Conceptos fundamentales y
+  nomenclatura. Vistas principales. Alfabetos de elementos
+  notables: Posiciones del Punto, de la Recta y del
+  Plano.
+
+
+
+Tema
+3
+  
+.-  Sistema
+Diédrico
+
+
+Relaciones de
+  Pertenencia: de un punto en una recta y un plano, de una recta en
+  un plano. Relaciones de Incidencia: entre dos rectas, entre dos
+  planos, entre un recta y un plano. Paralelismo: entre dos rectas,
+  entre dos planos, entre una recta y un plano.
+  Perpendicularidad: entre una recta y un plano, entre dos
+  rectas, entre dos planos. Distancias: entre dos puntos,
+  de un punto y un plano, de un punto a una recta, entre dos
+  rectas, entre dos planos. Mínima distancia entre dos
+  rectas que se cruzan. Ángulos: entre una recta y un plano,
+  entre dos rectas, entre dos planos. Ángulos de rectas y
+  planos con los planos de proyección.
+
+
+
+Tema
+4
+  
+.-  Sistema
+Diédrico
+
+
+Métodos de
+  obtención de Posiciones Favorables (verdadera
+  magnitud de formas). Abatimiento de un plano y posición
+  abatida de los elementos contenidos en él: puntos, rectas,
+  figuras planas, secciones planas. Proceso inverso:
+  fundamentos. Afinidad plana.
+
+
+
+Tema
+5
+  
+.-  Sistema
+Diédrico
+
+
+Proyecciones de
+  piezas. Sombras. Proyecciones de cuerpos. 
+
+
+
+Tema
+6
+  
+.-  Sistema Axonométrico
+
+
+Definición.
+  Fundamentos. Aplicaciones. Plano del cuadro y ejes
+  axonométricos. Triángulo fundamental y
+  órtico. Coeficientes de reducción. Perspectivas
+  isométrica, dimétrica y trimétrica.
+  Representación de puntos, rectas y planos. Alfabetos.
+  Trazas de rectas y planos. Relaciones de Pertenencias e
+  Incidencias: entre puntos, rectas y planos. Representación
+  de piezas. Secciones planas.
+
+
+
+Tema
+7
+  
+.-  Sistema Cónico 
+
+
+Definición.
+  Fundamentos. Aplicaciones. Elementos principales: plano
+  geometral, del horizonte y del cuadro. Líneas de
+  tierra y del horizonte. Puntos de fuga.
+  Representación de cuerpos: puntos métricos,
+  prolongaciones. distancias reducidas, escalas.
+
+
+
+BLOQUE II. DIBUJO
+  TOPOGRÁFICO
+
+
+
+   
+  Tema 1.-  Sistema de Planos
+  Acotados
+
+
+
+Fundamentos:
+  módulo y pendiente. Representación del punto, la
+  recta y el plano. Intersecciones: fundamentos, aplicaciones al
+  trazado de cubiertas y excavaciones.
+
+
+
+Tema
+2
+  
+.-  Sistema de
+Planos Acotados
+
+
+Método de
+  obtención de verdaderas formas y magnitudes. Paralelismo.
+  Perpendicularidad. Abatimientos. Medida de distancias y
+  ángulos.
+
+
+
+Tema
+3
+  
+.-  Representación
+de superficies topográficas
+
+
+Curvas de nivel.
+  Línea de máxima pendiente. Formas del
+  terreno. Superficies en talud.
+
+
+
+Tema
+4
+  
+.- 
+Perfiles y panoramas 
+
+
+Intersecciones con
+  superficies topográficas. Trazado de perfiles. Visibilidad
+  desde una dirección o desde un punto. Trazado de panoramas
+  y cuencas visuales.
+
+
+
+Tema
+5
+  
+.-  Trazado
+de explanaciones
+
+
+Fundamentos y
+  aplicaciones. Desmonte y terraplén. Explanaciones
+  horizontales. Explanaciones inclinadas. Cálculo de
+  volúmenes.
+
+
+
+Tema
+6
+  
+.-   Trazado
+de vías de transporte
+
+
+Planta. Perfil
+  longitudinal. Perfil transversal. Movimiento de tierras. Trazado
+  de la explanación.
+
+
+
+BLOQUE III. DIBUJO
+  ASISTIDO POR ORDENADOR
+
+
+
+Tema
+1
+  
+.-
+ Dibujo en 2D
+
+
+Introducción al
+  CAD: conceptos generales, Interfaz de usuario. Dibujo 2D: dibujo,
+  organización, visualización y
+  edición.
+
+
+
+Tema
+2
+  
+.-
+ Dibujo en 3D
+
+
+Introducción.
+  Software CAD 3D. Herramientas para el modelado de sólidos.
+  Aplicaciones: modelado de piezas, secciones planas, cubiertas,
+  generación de planos.
+
+'

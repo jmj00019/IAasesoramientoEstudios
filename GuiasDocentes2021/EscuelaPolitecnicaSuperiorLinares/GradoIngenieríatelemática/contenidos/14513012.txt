@@ -1,0 +1,194 @@
+'
+
+El objetivo de la asignatura es introducir al alumno en las
+técnicas de análisis de las señales en tiempo
+discreto. Se iniciará con el estudio de las técnicas
+de cambio de frecuencia de muestreo: interpolación,
+decimación, sobre y submuestreo.
+Se recordará la transformada de Fourier discreta, para
+posteriormente analizar el muestreo en frecuencia y las diferentes
+estructuras para el cálculo de la transformada rápida
+de Fourier. Se continuará con transformada z y
+realimentación de sistemas. Una vez conocido el
+análisis en el dominio z, se diseñarán filtros
+digitales FIR e IIR. Finalmente, se estudian las técnicas de
+modelado espectral: AR, MA y ARMA.
+
+
+
+CONTENIDOS
+  TEÓRICOS:
+
+
+TEMA
+  1: INTRODUCCIÓN AL TRATAMIENTO DIGITAL DE
+  SEÑALES
+
+
+Tipos
+  de señales: voz, audio, imagen, video, radar,
+  ultrasónicas y biomédicas.
+
+
+Señales
+  en tiempo discreto. 
+
+
+
+ TEMA 2:
+  ANÁLISIS DE FOURIER EN TIEMPO DISCRETO
+
+
+La
+  transformada de Fourier de tiempo discreto (DTFT)
+
+
+Teorema
+  del muestreo. Conversión A/D y D/A.
+
+
+ 
+TEMA 3: LA
+TRANSFORMADA DISCRETA DE FOURIER (DFT)
+
+La
+  transformada discreta de Fourier para secuencias finitas.
+
+
+Propiedades
+  de la transformada discreta de Fourier.
+
+
+Relación
+  entre la TDFT y DFT
+
+
+Convolución
+  circular y convolución lineal mediante la DFT.
+
+
+Cálculo
+  eficiente de la DFT: algoritmos FFT.
+
+
+TEMA
+  4: ANÁLISIS DE SISTEMAS EN EL DOMINIO TRANSFORMADO
+  Z
+
+
+Introducción
+  a  la transformada Z
+
+
+Análisis
+  de sistemas LTI mediante la transformada Z
+
+
+
+ TEMA 5: FILTROS
+  DIGITALES
+
+
+Distorsión
+  de amplitud y fase en filtros digitales.
+
+
+Sistemas
+  de fase lineal generalizada.
+
+
+Sistemas
+  de ecuaciones en diferencias con coeficientes constantes.
+
+
+Diseño
+  de filtros FIR mediante enventanado: ventana de Kaiser y
+  algoritmo Parks-McClellan.
+
+
+Aplicaciones:
+  filtros paso bajo, paso alto, paso banda y multibanda.
+
+
+Diseño
+  de filtros IIR
+
+
+TEMA 6:
+  APLICACIONES DEL TRATAMIENTO DIGITAL DE SEÑALES
+
+
+Apicaciones
+  para procesado digital de audio.
+
+
+Aplicaciones
+  para procesado de imagen
+
+
+Aplicaciones
+  para comunicaciones
+
+
+Aplicaciones
+  para señales biomédicas y biológicas
+
+
+ 
+
+
+
+CONTENIDOS
+  PRÁCTICOS:
+
+
+PRACTICA
+  1: FILTRADO, INTERPOLACION Y DIEZMADO
+
+
+Desarrollo y
+  uso de aplicaciones y toolboxes de tratamiento de señales
+  para procesado básico de señales.
+
+
+PRACTICA
+  2: ANÁLISIS ESPECTRAL.
+
+
+Cálculo,
+  análisis y representación de la DFT-FFT. Procesado
+  de señales en el dominio de la frecuencia.
+
+
+PRACTICA
+  3: FILTROS DIGITALES
+
+
+Diseño
+  y aplicaciones de los filtros digitales mediante uso de toolboxes
+  de Matlab.
+
+
+PRÁCTICA
+  4: EFECTOS DE PRECISIÓN FINITA EN FILTROS DIGITALES
+
+
+Estudio
+  de los efectos de la cuantificación y del redondeo
+  numérico en la respuesta de los filtros digitales.
+
+
+PRACTICA
+  5: APLICACIONES DEL TDS
+
+
+Tratamiento
+  digital de señales aplicados a señales de audio,
+  imagen, biomédicas y biológicas. Utilización
+  de aplicaciones y toolboxes de procesamiento de
+  señales.
+
+
+ 
+
+'

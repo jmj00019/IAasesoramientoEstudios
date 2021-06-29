@@ -1,0 +1,111 @@
+'
+
+Termodinámica química.Principios. Variables y
+funciones termodinámicas. Termoquímica. Disoluciones
+ideales y reales. Propiedades coligativas. Equilibrios de fases. El
+equilibrio químico. Fundamentos de termodinámica
+estadística.
+
+ 
+
+
+Lección 1. Fundamentos
+
+Conceptos y definiciones previas. El principio cero de la
+termodinámica. Gases Ideales. Ecuación de estado
+del gas ideal. Coeficientes térmicos. Gases reales.
+Ecuaciones de estado de un gas real. Datos críticos. Factor
+de compresibilidad. Ley de los estados correspondientes. Variables
+reducidas.
+
+
+Lección 2. Primera Ley de la
+  Termodinámica
+
+Primera ley de la termodinámica. Energía interna y
+trabajo. Capacidad calorífica, calor y entalpía.
+Experimento de Joule. Experimento de Joule-Thomson. Procesos
+termodinámicos.
+
+
+Lección 3. Segunda y Tercera Ley de la
+  Termodinámica
+
+Principio de Carnot. Entropía y Segunda Ley de la
+Termodinámica. Cálculo de la entropía en
+procesos termodinámicos. Energía libre de Helmholtz.
+Energía libre de Gibbs. Funciones características y
+relaciones de Maxwell. Potencial químico. Equilibrio
+material. Entropías absolutas y Tercera Ley de la
+Termodinámica.
+
+
+Lección 4.
+Termoquímica  
+Calor de reacción. Magnitudes termodinámicas
+de reacción. Ley de Hess. Magnitudes
+termodinámicas estándar de reacción. Calores
+de formación estándar. Dependencia del calor de
+reacción y entropía de reacción con la
+temperatura. Ecuación de Gibbs-Helmholtz.
+
+
+Lección 5.
+  Disoluciones ideales y no ideales.
+
+Magnitudes molares parciales.  Disoluciones ideales. Ley de
+Raoult. Disoluciones diluidas ideales. Ley de Henry. Propiedades
+coligativas. Disoluciones reales. Actividad y coeficiente de
+actividad. Estados de referencia. Convenio Simétrico y
+Asimétrico. Funciones de exceso. Fugacidad. Cálculo
+de la fugacidad de un gas real. Mezclas de gases no
+ideales. 
+ 
+
+
+Lección 6.
+Disoluciones de electrolitos   
+Potencial químico en disoluciones de electrolitos.
+Coeficiente de actividad iónico medio. Asociación
+iónica. Determinación de coeficientes de actividad de
+electrolitos. Teoría de Debye-Hückel en disoluciones de
+electrolito. Propiedades termodinámicas de disoluciones de
+electrolitos.
+
+
+Lección 7.
+  Equilibrio químico
+
+Condición general de equilibrio
+químico. Constantes de equilibrio en reacciones entre
+gases. Respuesta del equilibrio a las condiciones externas.
+Ecuación de Van't Hoff. Equilibrios Heterogéneos.
+ Equilibrio químico en disolución: Producto de
+solubilidad y equilibrio protolítico.
+
+
+Lección 8.
+  Equilibrios de fases condensadas
+
+Condición de equilibrio de fases. Equilibrio de fases de
+sistemas de un componente. Ecuación de Clausius-Clapeyron.
+Equilibrio de fases en sistemas de dos componentes. Equilibrio
+líquido-vapor. Azeótropos. Equilibrio
+líquido-líquido de líquidos parcialmente
+miscibles. Equilibrio sólido-líquido.
+Eutéctico. Peritéctico. Equilibrio sólido-gas.
+Eflorescencia y delicuescencia. Equilibrios
+sólido-sólido.
+
+
+Lección 9.
+  Fundamentos de termodinámica
+  estadística.
+
+Colectivo canónico. Función de partición
+canónica. Ley de distribución de Boltzmann.
+Función de partición molecular.
+Propiedades termodinámicas y constante de
+equilibrio.
+ 
+'

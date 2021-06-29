@@ -1,0 +1,15 @@
+'
+
+
+Diseño de rutas de recogida y reparto, modelos y
+  métodos de solución.
+Asignación y secuenciación de
+  tripulaciones.
+Localización de plantas y centros para la
+  logística.
+Problemas de distribución dinámicos y con
+  incertidumbre.
+
+
+Ya especificados anteriormente
+'

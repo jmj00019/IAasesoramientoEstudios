@@ -1,0 +1,117 @@
+'
+
+Formulación de compuestos
+químicos. Estructura atómico molecular. Reactividad
+química. Termodinámica, cinética y equilibrio
+químico. Introducción al estudio de los compuestos
+orgánicos.
+
+ Tema 1.- Estructura atómica.
+1.1. Estructura atómica. 1.2. Teoría
+Atómica de Dalton. 1.3 Descubrimiento del electrón.
+1.4. Modelo de Rutherford. 1.5. Protones y neutrones. 1.6. El
+átomo. 1.7. Teoría de Planck. 1.8. Teoría de
+Bohr. 1.9. Naturaleza Dual del electrón. 1.10.
+Mecánica Cuantica. 1.11. Números cuánticos.
+1.12.Orbitales atómicos. 1.13. Configuración
+electrónica.
+ Tema 2.- Tabla Periódica. Propiedades
+Periódicas.
+2.1. Desarrollo de la tabla periódica. 2.2.
+Clasificación periódica de los elementos. 2.3.
+Variación periódica de las propiedades
+físicas. 2.3.1. Carga nuclear efectiva. 2.3.2. Radio
+atómico e iónico. 2.3.3. Energía de
+Ionización. 2.3.4. Afinidad electrónica.
+Tema 3.- Enlace Químico.
+3.1. Tipos de Enlace Químico. 3.2. Enlace Covalente. 3.3.
+Teoría de Lewis. 3.4. Moléculas polares y
+electronegatividad. 3.5. Geometría Molecular y Teoria de
+RPECV. 3.6. Teoria de enlace de valencia. 3.7. Hibridación
+de orbitales atómicos y Teoría de Orbitales
+Moleculares.
+Tema 4.- Termoquímica y Cinética
+Química.
+4.1. Introducción. 4.2. Primera Ley de la
+Termodinámica. 4.3. Entalpía de las reacciones
+químicas. 4.4. Procesos espontáneos. 4.5.
+Entropía. 4.6. Segunda Ley de la Termodinámica. 4.7.
+Energía libre de Gibbs. 4.8. Termodinámica en los
+sistemas vivos. 4.9. Introducción a la Cinética
+Química. 4.10. Velocidad de Reacción. 4.11.
+Ecuación y Constante de velocidad. 4.12. Relación
+entre la concentración de reactivos y el tiempo. 4.13.
+Modelos teóricos de la Cinética Química. 4.14.
+Mecanismos de reacción. Molecularidad. 4.15.
+Catálisis.
+Tema 5. Disoluciones.
+5.1. Tipos de disoluciones. 5.2. Visión molecular del
+proceso de disolución. 5.3. Unidades de
+concentración. 5.4. Efectos de la temperatura y
+presión sobre la solubilidad. 5.5. Propiedades
+coligativas.
+ Tema 6.- Equilibrio Químico.
+6.1. Concepto de Equilibrio. 6.2. Expresión de la
+constante de equilibrio. 6.3. Factores que influyen en el
+equilibrio químico.
+ Tema 7.- Reacciones de transferencia de protones.
+7.1. Ácidos y bases de
+Brönsted.7.2. Propiedades ácido-base del agua.
+7.3. pH-una forma de medir la acidez. 7.4. Fuerza de los
+ácidos y las bases. 7.5. Hidrólisis. /.6.
+Disoluciones reguladoras. 7.7. Indicadores ácido-base.
+Tema 8.- Reacciones de transferencia de electrones.
+ 8.1. Concepto de oxidación y reducción.
+Oxidantes y reductores. 8.2. Números de oxidación.
+8.3. Ajuste de reacciones redox. Valoraciones redox. 8.4 Pilas
+galvánicas y potenciales estándar de electrodo. 8.5
+Ecuacion de Nerst.
+Tema 9.- Equilibrios de solubilidad y reacciones de
+precipitación.
+9.1. Solubilidad y precipitación de sales. 9.2. Producto
+de solubilidad. Efecto del ion común. 9.3. Disolución
+de precipitados. 
+Tema 10.- Compuestos orgánicos como soporte de la
+vida.
+10.1. Naturaleza espacial del carbono y caracteristicas de las
+moléculas orgánicas. 10.2. Proppiedades y reactividad
+de grupos funcionales comunes. 10.3. Macromoléculas
+biológicas.
+ 
+ SEMINARIOS
+ Seminario 1.- Nomenclatura en Química
+Inorgánica.
+Seminario 2.- Resolución de ejercicios y cuestiones sobre
+estequiometría.
+Seminario 3. Resolución de ejercicios y cuestiones sobre
+contenidos del Tema 3. 
+Seminario 4. Resolución de ejercicios y cuestiones sobre
+contenidos del Tema 4.
+Seminario 5. Resolución de ejercicios y cuestiones sobre
+contenidos del Tema 5.
+Seminario 6. Resolución de ejercicios y cuestiones
+sobre contenidos del Tema 6.
+Seminario 7. Resolución de ejercicios y cuestiones
+sobre contenidos del Tema 7.
+Seminario 8. Resolución de ejercicios y cuestiones
+sobre contenidos del Tema 8.
+Seminario 9. Resolución de ejercicios y cuestiones
+sobre contenidos del Tema 9.
+Seminario 10. Resolución de ejercicios y cuestiones
+sobre contenidos del Tema 10. 
+ 
+ PRÁCTICAS DE LABORATORIO
+
+Normas de seguridad, higiene y reconocimiento de material en
+  el laboratorio.
+Valoración de un vinagre comercial.
+Determinación de vitamina C en zumos.
+Disoluciones reguladoras e hidrólisis de sales.
+Síntesis de ácido acetilsalicílico
+  (aspirina)
+Técnicas separativas.
+
+ 
+ 
+ 
+'

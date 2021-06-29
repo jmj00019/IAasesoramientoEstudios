@@ -1,0 +1,45 @@
+'
+
+1 Principios de Química
+Verde y uso de fuentes de energía verdes: Microondas,
+ultrasonidos, fotoquímica, HSVM (1 crédito)
+2 Ecodiseño de la
+reacción: Estrategias de síntesis basadas en la
+optimización de la separación, eliminación de
+disolventes orgánicos nocivos, reacciones en agua, en
+ausencia de disolvente, líquidos iónicos,
+catálisis. (1 crédito)
+3 La biomasa como fuente renovable
+de compuestos orgánicos. Valorización de subproductos
+agroalimentarios. Extracción, purificación y
+determinación estructural de compuestos bio-activos. (1,4
+créditos)
+4 Semioquímicos: Control
+biológico y producción sostenible de alimentos (0,6
+créditos)
+
+UNIDAD TEMÁTICA 1:
+Principios de Química Verde. Ecodiseño de la
+reacción: Estrategias de síntesis basadas en la
+optimización de la separación, eliminación de
+disolventes orgánicos nocivos, reacciones en agua, en
+ausencia de disolvente, líquidos iónicos,
+catálisis. 
+UNIDAD TEMÁTICA 2: Fuentes
+de energía Ecosostenibles: Microondas, Ultrasonidos,
+Fotoquímica solar, Mecanoquímica: antecedentes,
+fundamento, instrumentación, aplicaciones.
+
+UNIDAD TEMÁTICA 3: La biomasa como fuente renovable de
+compuestos orgánicos. Industria agroalimentaria y sus
+residuos. Valorización de subproductos agroalimentarios.
+Extracción y purificación de compuestos bioactivos.
+Química y aplicaciones de productos naturales obtenidos a
+partir de subproductos.
+
+UNIDAD TEMÁTICA 4: Semioquímicos: Etapas del
+desarrollo de un semioquímico hasta su integración en
+la metodologías ecocompatibles en la agricultura.
+Técnicas de aislamiento, extracción asistida por US.
+Técnicas de identificación, DHS-HRMS.
+'

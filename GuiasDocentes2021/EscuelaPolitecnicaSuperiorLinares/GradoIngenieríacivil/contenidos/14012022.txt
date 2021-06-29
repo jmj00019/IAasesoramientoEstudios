@@ -1,0 +1,114 @@
+'
+
+Tema 1. Introducción.
+Tema 2. Cracterísticas de las obras de
+construcción.
+Tema 3. Canteras e instalaciones para el tratamiento de
+áridos.
+Tema 4. Movimientos de tierras.
+Tema 5. Procedimientos de construcción de zanjas y
+tuberías.
+Tema 6. Procedimientos de perforación y voladura de
+rocas.
+Tema 7. Procedimientos constructivos de puentes.
+Tema 8. Procedimientos de demolición.
+Tema 9. Maquinaria auxiliar y equipos de elevación.
+Tema 10. Sistemas de gestión de la calidad, medio
+ambiente y prevención de riesgos laborales.
+
+Tema 1. Introducción.
+Objetivos de la asignatura. Se pretende que el alumno
+amplíe los conocimientos adquiridos en Procedimientos de
+Construcción I, para poder aplicarlos tanto en el contexto
+de proyecto como de ejecución de obra. Es decir, como
+ingeniero proyectista o ingeniero jefe de obra. Al finalizar la
+asignatura, el alumno debe tener la capacidad de plantear el
+procedimiento de construcción óptimo que resuelva un
+problema de ingeniería civil, desde el punto de vista
+técnico y económico, seleccionando los materiales, la
+maquinaria y la mano de obra necesarios para llevarlo a cabo.
+Tema 2. Características de las obras de
+construcción.
+Agentes que intervienen en un proyecto de construcción.
+Etapas del proyecto de construcción. Planificación
+técnica y económica de la obra de manera integral,
+que contemple tanto control de ingresos, coste directo, costees
+indirectos y financieros. Importancia de la curva S tanto de
+producción acumulada (ingresos) como de costes.
+Tema 3. Canteras e instalaciones para el tratamiento de
+áridos.
+Tipos de áridos y definiciones. Canteras de áridos
+y graveras. Plantas de tratamiento y almacenamiento de
+áridos. Directrices de seguridad.
+Tema 4. Movimientos de tierras.
+Fases del movimiento de tierras. Cambios de volumen en el
+movimiento de tierras, desde la zona de desmonte a la de
+terraplén. Concepto de esponjamiento del material para el
+transporte. Diagrama de masas en obras lineales. Producción
+en la maquinaria: ciclo de trabajo, producción y costes.
+Clasificación y Tipos de Máquinas en Movimiento de
+Tierras. Dimensionamiento de equipos de movimiento de tierras.
+Sistemas de contención para ejecución del movimiento
+de tierras: muros pantalla continuos de hormigón armado o
+discontinuos mediante pilotes o micropilotes. Sistemas de
+contención y estabilización de taludes para
+garantizar la estabilidad del desmonte y terraplén mediante
+muros, anclajes, pilotes y micropilotes.
+Criterios de selección de equipos. Disponibilidad y
+fiabilidad de los equipos. Estudio del trabajo y producción
+de los equipos. Mantenimiento de los equipos y parques de
+maquinaria. Mecanización de las obras y costes de
+explotación de la maquinaria.
+Tema 5. Procedimientos de construcción de zanjas y
+tuberías.
+Procedimiento de excavación de zanjas. Fases en la
+ejecución de zanjas. Maquinaria de excavación de
+zanjas. Procedimientos de ejecución de zanjas y para la
+instalación de tuberías.
+Tema 6. Procedimientos de perforación y voladura de
+rocas.
+Proyecto y ejecución de voladura de macizos rocosos:
+aspectos generales y fases. Maquinaria de perforación
+así como dimensiones típicas de los barrenos de
+perforación. Características básicas de los
+explosivos. Tipos de explosivos en Obra Civil, prestando
+atención a la sensibilidad de los mismos al agua. Elementos
+auxiliares como detonadores, relés de microrretardo y
+multiplicadores. Perforación y voladura en obra de
+superficie y subterránea: diferencias.
+Tema 7 - Procedimientos constructivos de puentes
+Generalidades. Partes fundamentales de un puente y elementos que
+lo componen: infraestructura y superestructura. Tipologías
+de puentes: según los materiales, en función de la
+posición del tablero, en función de su capacidad de
+variación del gálibo, por el comportamiento
+estructural y por la forma. Procedimientos de construcción
+de puentes: (i) Tablero de losa maciza o aligerada; (ii) Tablero
+nervado de vigas prefabricadas; (iii) Puentes en cajón con
+vigas artesa prefabricadas; (iv) Puentes en cajón de
+hormigón in situ; (v) Puentes en cajón mixtos de
+tablero superior o inferior en puente atirantado; (vi) Puentes en
+cajón en voladizos sucesivos con dovelas prefabricadas;
+(vii) Puentes en cajón en voladizos sucesivos realizados in
+situ; (viii) Puentes en cajón empujados.
+Tema 8. Procedimientos de demolición.
+Introducción. Técnicas de demolición.
+Proceso de demolición de estructuras de hormigón.
+Proceso de demolición de estructuras metálicas.
+Evacuación, carga y transporte de escombros. Seguridad.
+Tema 9. Maquinaria auxiliar, sistemas de encofrado, andamios y
+cimbras.
+Maquinaria elevación: grúas torre y grúas
+móviles. Compresores. Sistemas de encofrado (clásico,
+trepante, autotrepante y deslizante). Tipos de cimbras. Andamios
+fijos y móviles.
+Tema 10. Sistemas de gestión de la calidad, medio
+ambiente y prevención de riesgos laborales.
+Conceptos básicos. Calidad y normalización. El
+aseguramiento de la calidad y del medio ambiente en las obras.
+Seguridad laboral. Sistemas de gestión de la calidad
+según ISO 9001. Sistemas de gestión del medio
+ambiente según ISO 14001. Integración de
+sistemas.
+ 
+'

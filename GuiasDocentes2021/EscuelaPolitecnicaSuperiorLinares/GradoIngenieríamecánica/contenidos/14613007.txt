@@ -1,0 +1,52 @@
+'
+
+
+ANÁLISIS CINEMÁTICO  DE MANIPULADORES
+DINÁMICA DE ROBOTS.
+PROGRAMACIÓN DE ROBOTS.
+ELEMENTOS MOTRICES, TERMINALES Y SENSORES. 
+APLICACIONES DE LOS ROBOTS INDUSTRIALES.
+CRITERIOS DE IMPLANTACIÓN DE SISTEMAS ROBOTIZADOS
+
+
+
+BLOQUE A: CINEMÁTICA DE ROBOTS.
+
+Tema
+I.       Introducción
+Tema
+II.      Análisis de
+posición en manipuladores
+Tema
+III.    Análisis cinemático de
+manipuladores
+Tema
+IV.    Matriz jacobiana
+
+BLOQUE B: DINÁMICA DE ROBOTS.
+
+Tema
+V.     Dinámica de robots
+Tema
+VI.    Control de robots
+Tema
+VII.   Programación de robots
+
+BLOQUE C: COMPONENTES DE ROBOTS
+
+Tema
+VIII. Elementos motrices
+Tema
+IX.    Elementos terminales
+Tema
+X.      Sensores
+
+BLOQUE D: APLICACIONES DE LA ROBÓTICA
+  INDUSTRIAL
+
+Tema
+XI.    Aplicaciones de los robots industriales
+Tema
+XII.   Criterios de implantación de sistemas
+robotizados
+'

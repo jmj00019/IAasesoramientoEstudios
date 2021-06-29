@@ -1,0 +1,73 @@
+'
+
+
+Introducción a las Estructuras.
+Acciones en la Edificación.
+Apoyos y Enlaces en Estructuras.
+Resolución de Estructuras Articuladas por
+  Métodos de Equilibrio y Métodos
+  Energéticos.
+Estructuras Reticulares Traslacionales e Instraslacionales y
+  su Resolución por Métodos de distribución
+  de momentos.
+Cálculo Matricial de Estructuras: Teoría
+  y Resolución Práctica de Estructuras.
+
+
+
+
+BLOQUE TEMÁTICO A: INTRODUCCIÓN A LAS
+    ESTRUCTURAS
+
+
+Tema 1.- Introducción al Cálculo de
+  Estructuras
+Tema 2.- Acciones en la edificación
+Tema 3.- Apoyos y enlaces en las estructuras
+
+  
+
+BLOQUE TEMÁTICO B: ESTRUCTURAS
+ARTICULADAS
+
+Tema 4.- Estructuras articuladas. Celosías
+  isostáticas
+Tema 5.- Teoremas energéticos
+Tema 6.- Estructuras articuladas. Celosías
+  hiperestáticas
+
+  
+
+BLOQUE TEMÁTICO C:
+ESTRUCTURAS RETICULADAS
+
+Tema 7.- Introducción del estudio de las estructuras
+  reticuladas
+Tema 8.- Cálculo de estructuras reticuladas
+  intraslacionales
+Tema 9.- Cálculo de estructuras reticuladas
+  traslacionales
+Tema 10.- Método de Cross
+
+
+
+BLOQUE TEMÁTICO
+  D: INICIACIÓN AL CÁLCULO  
+  MATRICIAL
+
+
+Tema 11.- Generalidades del Cálculo Matricial
+Tema 12.- El método directo de la rigidez
+Tema 13.- Análisis matricial de estructuras en
+  ordenador
+
+
+
+BLOQUE TEMÁTICO
+  E: LÍNEAS DE INFLUENCIA
+
+
+Tema 14.- Líneas de influencia en vigas
+  isostáticas
+
+'

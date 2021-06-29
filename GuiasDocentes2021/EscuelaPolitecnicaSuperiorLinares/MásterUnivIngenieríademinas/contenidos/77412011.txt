@@ -1,0 +1,132 @@
+'
+
+Asignatura donde se exponen los distintos métodos de
+explotaciones mineras, tanto a cielo abierto como
+subterráneos, así como cada una de sus variables.
+Desarrollar las competencias en el ámbito profesional
+de la explotación de los recursos minerales y de la
+ejecución de obras subterráneas con el adecuado
+rigor científico y técnico.
+Estudio de las distintas operaciones mineras, de los
+distintos métodos de explotación de los recursos
+minerales y de las instalaciones y técnicas necesarias
+para su ejecución.
+Asimismo, es objeto de esta asignatura el diseño,
+planificación y dirección de explotaciones
+mineras.
+
+ 
+
+Tema 1.- La ingeniería en el ámbito de la
+industria extractiva
+Introducción. Tecnologías utilizadas en mina:
+Control de voladuras por dron, Control de flotas con RecMin,
+Prototipo de muestreador en campo, Seguimiento de operaciones con
+cámaras, Optimización de voladuras a partir de
+fotogranulometría, Uso de chips en campo para reducir la
+dilución de las voladuras, Uso de chips para la trazabilidad
+del mineral. Tecnologías utilizadas en planta: Uso de
+chips para la trazabilidad del mineral, Tecnología de
+imágenes hiperespectrales para control de mineralogía
+de alimentación, Trazabilidad de voladuras a partir de
+fotogranulometría, Optimización de molienda mediante
+controladores predictivos expertos, Control de operaciones con
+panel de control SCADA en tiempo real, Control de calidad del
+proceso con analizador de concentraciones en tiempo real COURIER,
+Control de flotación mediante cámaras.
+
+Tema 2.- Diseño de los métodos de
+explotación a Cielo Abierto
+Organización del Área de Planificación
+de Minería. La figura (no siempre entendida) del
+técnico de planificación. Optimización de
+minas a cielo abierto. Planificación a largo plazo.
+Diseño de corta final. Errores usuales. Diseño y
+planificación de escombreras e instalaciones de
+estériles. Reporte de recursos y reservas. Código
+JORC y NI43-101. Optimización global de proyectos.
+Tendencias actuales. Software de planificación y
+diseño disponibles en el mercado. Planificación a
+corto y medio plazo. Estrategias de alimentación a Planta:
+directa, stocks de regulación, homogeneización,
+upgrading. Ventajas e inconvenientes. Planificación de la
+producción. Reconciliación de reservas. La
+difícil relación (a veces) entre Mina y Planta.
+
+
+Tema 3.- Selección del método,
+dimensionamiento y mantenimiento de la mina.
+Descripción de métodos de explotación.
+Factores que influyen en la selección del método de
+explotación. Dimensionamiento de la mina y planta de
+tratamiento. Definición y filosofía del mantenimiento
+minero. Mantenimiento preventivo. Mantenimiento correctivo y
+predictivo. Clases de mantenimiento. Ventilación de minas.
+Ventiladores. Circuitos.
+
+
+Tema 4.- Introducción: Evaluación, viabilidad
+y características de los proyectos mineros
+La evaluación de proyectos mineros de
+inversión. Los objetivos de la empresa minera.
+Características especiales de los proyectos mineros. El
+ciclo de vida de una operación minera. Fases de desarrollo
+de un proyecto minero. Estudios de viabilidad económica y de
+evaluación minera. Planificación de la
+ejecución del proyecto.
+
+
+Tema 5.- Diseño de explotaciones e infraestructuras
+subterráneas
+Historia y evolución tecnológica en las obras
+subterráneas. Influencia de las condiciones
+geológicas y geotécnicas en el diseño y
+construcción de una obra subterránea.
+Caracterización geomecánica de un macizo rocoso.
+Clasificación d ellos terrenos según su
+excavabilidad. Excavación en roca: con rozadoras, con
+tuneladoras, con perforación y voladuras. Concepto y
+diseño de sostenimiento: sostenimiento con hormigón
+proyectado y sostenimiento con bulones.
+
+
+Tema 6.- Drenaje de explotaciones mineras y gestión
+de aguas.
+Introducción. Concepto drenaje-desagüe.
+Objetivos. Riesgos asociados al agua en minería. Tipos de
+aguas. Factores condicionantes del grado de afección.
+¿Cómo afecta el agua a la estabilidad de taludes y
+hastiales? Tipos de drenajes (activo/pasivos y
+preventivo/correctivo/compensatorio). Zanjas drenantes. Pozos y
+sondeos. Sondeos sub-horizontales. Características
+especiales en minería de interior. Diseño y
+dimensionamiento. Auscultación (PVC). Marco
+jurídico.
+
+
+Tema 7.- Prevención de riesgos en
+minería.
+Importancia de la seguridad en minería. Normativa
+básica española. El factor humano. Definición
+de accidente. Sistemas de prevención y gestión de
+emergencias. Gestión del riesgo. Salvamento y policía
+minera.
+ 
+
+Tema 8.- Contaminación del aire y actividades
+mineras.
+Por qué se estudia la contaminación del aire.
+Antecedentes históricos. Metodología de estudio.
+Aerosoles atmosféricos en zonas mineras: zonas abandonadas,
+zonas activas, metalurgia del cobre. Conclusiones.
+
+
+Tema 9.- Desarrollo minero sostenible
+Contexto de desarrollo sostenible. Concepto de desarrollo
+sostenible. Enfoque actual hacia el desarrollo minero sostenible.
+Evolución de la importancia social de los recursos minerales
+y su explotación. Integración de la minería en
+las estrategias de desarrollo sostenible.
+ 
+ 
+'

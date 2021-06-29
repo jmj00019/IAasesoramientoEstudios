@@ -1,0 +1,247 @@
+'
+
+
+Clasificación de centrales eléctricas
+Generación eléctrica con energías
+  renovables
+Regulación, control y protección del
+  generador
+Estabilidad transitoria.
+
+
+
+BLOQUE TEMÁTICO I: CONCEPTOS GENERALES
+
+
+ 
+
+
+CAPÍTULO 1. CENTRALES DE PRODUCCIÓN DE
+  ENERGÍA ELÉCTRICA.
+
+
+ 
+
+1.1  Introducción.
+1.2  Las fuentes de energía en España.
+1.3  Producción de energía eléctrica
+en España.
+1.4  Fuentes de energía renovables.
+1.4.1       
+Minihidráulica.
+1.4.2       
+Eólica.
+1.4.3        Solar
+Térmica
+1.4.4        Solar
+Fotovoltaica.
+1.4.5        Biomasa.
+1.5  Definición de generación
+distribuida.
+1.5.1 Ventajas e inconvenientes de la generación
+distribuida.
+1.6  Otras fuentes distribuidas: pilas de combustible,
+microturbinas y grupos diesel.
+ 
+
+CAPITULO 2. EL GENERADOR SÍNCRONO.
+
+ 
+2.1  Descripción básica del generador
+síncrono.
+2.2  Definiciones y clasificaciones del problema de
+estabilidad.
+2.3  Modelo del generador síncrono para
+estabilidad.
+2.4  El generador síncrono conectado a una red de
+potencia infinita.
+2.5  Límites de funcionamiento de la
+máquina.
+ 
+
+ 
+
+
+BLOQUE TEMÁTICO II: REGULACIÓN Y CONTROL
+  DEL ALTERNADOR.  
+
+
+ 
+
+
+CAPITULO 3. CONTROL AUTOMÁTICO DE LA
+  TENSIÓN (AVR).
+
+
+ 
+
+3.1  Introducción.
+3.2  Primer lazo de control. (Automatic Voltage
+Regulator).
+3.2.1    Principales elementos del control
+primario del generador.
+3.2.2    Respuesta en régimen permanente
+del primer lazo de control.
+3.2.3    El primer lazo de control en bucle
+cerrado.
+3.2.4    Respuesta en régimen permanente
+del primer lazo de control en bucle cerrado.
+ 
+
+CAPITULO 4. CONTROL AUTOMÁTICO DE LA
+  GENERACIÓN (AGC).
+
+ 
+4.1     Introducción.
+4.2     Segundo lazo de control. (Automatic
+Generation Control).
+4.3     División del sistema
+eléctrico: concepto de área de control
+4.4     Sistemas con más de un
+área de control.
+4.4.1   Modelo de interconexión elástica
+entre áreas.
+4.4.2   Respuesta en régimen permanente de un
+sistema con dos áreas de control.
+4.4.3   Segundo lazo de control en sistemas
+multiárea.
+4.5     El lazo de control ALFC
+(automatic-load frecuency control).
+
+ 
+
+
+CAPITULO 5. TERCER BUCLE DE CONTROL DE LA
+  GENERACIÓN.
+
+ 
+5.1     Introducción al control
+terciario de tensiones y frecuencia.
+5.2     El flujo de cargas
+óptimo.
+5.3     Despacho económico sin
+pérdidas.
+5.4     Despacho económico con
+pérdidas.
+5.5     El despacho en el nuevo entorno del
+mercado.
+5.6     Restricciones en el funcionamiento
+de centrales: disponibilidad y límites de potencia.
+ 
+
+BLOQUE TEMÁTICO III: PROTECCIONES DEL
+  GENERADOR.
+
+
+ 
+
+
+CAPITULO 6: PROTECCIONES DEL GENERADOR
+  SÍNCRONO.
+
+ 
+6.1  Introducción.
+6.2  Funciones y características de los relés
+de protección.
+6.3  Tipos de protección del generador.
+6.4  Relés de protección frente a faltas
+internas en el generador.
+
+Protección contra faltas a tierra en el estátor
+  (64 G).
+Protección contra cortocircuito entre fases
+  (87G).
+Faltas a tierra del rotor (64R).
+Pérdida de excitación del generador (40).
+
+6.5  Relés de protección frente a faltas
+externas.
+
+Protección de sobreintensidad en el
+  estátor.
+Sobrecargas y sobrecalentamientos en el estátor y
+  rotor (49).
+Protección contra carga desequilibrada (46).
+Protección contra potencia inversa o retorno de
+  energía. (32).
+Protección contra sobretensiones en el estátor
+  (59).
+Protección contra la pérdida de sincronismo
+  (78).
+Protección contra las variaciones de frecuencia (84) y
+  sobrevelocidad.
+Protección contra el fallo del interruptor de
+  línea (50 BF).
+
+ 
+
+BLOQUE TEMÁTICO IV: ESTABILIDAD
+  TRANSITORIA.
+
+
+ 
+
+
+CAPÍTULO 7: ESTABILIDAD TRANSITORIA DE UN SISTEMA
+  ELÉCTRICO.
+
+
+ 
+
+7.1  Introducción.
+7.2  Estabilidad transitoria.
+7.2.1        Ecuación
+de la oscilación de una máquina síncrona.
+7.2.2        Variación
+del ángulo del generador frente a una variación tipo
+escalón en la potencia mecánica.
+7.2.3        Criterio de
+igualdad de áreas.
+7.3     Resolución de la
+ecuación de oscilación mediante métodos
+numéricos.
+7.4     Factores que afectan a la
+estabilidad.
+ 
+ 
+
+
+Prácticas
+
+
+
+P1.
+
+Curva
+de carga y parámetros de la demanda.
+
+
+
+P2.
+Control
+  AVR del generador.
+
+
+
+
+
+P3. 
+Control
+  AGC del generador.
+
+
+
+
+
+
+P4. Despacho 
+   óptimo
+  de generación.
+
+
+
+P5.
+Estabilidad
+transitoria de los sistemas eléctricos de
+potencia.
+'

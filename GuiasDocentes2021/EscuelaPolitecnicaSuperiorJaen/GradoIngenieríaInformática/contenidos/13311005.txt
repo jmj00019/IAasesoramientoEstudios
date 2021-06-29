@@ -1,0 +1,42 @@
+'
+
+
+
+Arquitectura de un computador: niveles y componentes.
+    Interconexión de sistemas. Fundamentos de sistemas
+    operativos. Instalación y configuración de
+    equipos. Evaluación de prestaciones.
+ 
+
+
+
+Aspectos teóricos:
+Módulo 1: Introducción.
+
+Introducción a la arquitectura de computadores
+Representación de información
+
+Módulo 2: Arquitectura de un computador.
+
+Microprocesadores
+Memoria
+
+Módulo 3: Arquitectura de un computador. Aspectos
+Avanzados I.
+
+Memoria
+Buses
+
+ Módulo 4: Arquitectura de un computador. Aspectos
+Avanzados II.
+
+Entrada y Salida
+Periféricos
+
+ Aspectos Prácticos:
+
+Nivel de máquina convencional/ensamblador.
+Instalación y configuración de equipos.
+Evaluación de prestaciones.
+
+'

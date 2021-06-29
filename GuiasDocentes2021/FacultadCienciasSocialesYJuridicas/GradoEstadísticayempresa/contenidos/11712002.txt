@@ -1,0 +1,28 @@
+'
+
+· Modelos matemáticos discretos aplicados a la
+Empresa, basados en ecuaciones y sistemas de ecuaciones en
+diferencias. · Modelos matemáticos continuos
+aplicados a la Empresa, basados en ecuaciones y sistemas de
+ecuaciones diferenciales. · Dinámica de Sistemas.
+
+Tema 1: Ecuaciones en diferencias.
+
+Tema 2: Sistemas dinámicos discretos. Aplicaciones
+
+Tema 3: Modelos discretos matriciales. Aplicaciones
+
+Tema 4: Introducción a las ecuaciones diferenciales.
+
+Tema 5: Modelos continuos. Dinámica de Sistemas.
+Aplicaciones.
+
+Tema 6: Introducción a los sistemas de ecuaciones
+diferenciales.
+
+Tema 7: Introducción a los métodos
+numéricos para la resolución aproximada de ecuaciones
+diferenciales.
+
+ 
+'

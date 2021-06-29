@@ -1,0 +1,66 @@
+'
+
+La asignaturá se
+centrará en el estudio de protocolos que se utilizán
+en las redes IP. Se profundizará en algoritmos de
+encaminamiento, calidad de servicio, configuración de
+equipos y otros aspectos como la movilidad IP. Se estudiarán
+tanto redes fijas como inalámbricas
+móviles. 
+
+THEORY
+
+Unit 1. Introduction.
+
+Functional
+structure of open systems. TCP/IP model. Internet of Things
+IoT.
+
+Unit 2. Internet Protocol IP.
+
+Main
+characteristics. 
+IPv4.
+IPv6. DHCP. NAT. PAT. VLAN. Traffic policing and 
+QoS.
+Routers.
+
+Unit 3. Ethernet based IP networks.
+
+Frame
+structure. Mac address. IP packets in Ethernet networks. IP packet
+fragmentation.
+
+Unit 4. IoT.
+
+IoT
+devices, protocols and networks.
+
+Unit 5. Routing algorithms.
+
+RIP.
+OSPF.
+
+Unit 6. Mobile IP networks.
+
+MIPv4 vs
+MIPv6. Mobile IP functionality.
+
+Unit 7. Mobile Ad Hoc Netoworking and Multi-hop
+  routing.
+
+
+Characteristics and classification. MANET, MESH, WSN, VANET.
+Multi-hop routing protocols: AODV, OLSR.
+ 
+
+PRACTICAL UNITS
+
+Unit 1.
+Configuration of IP networks.
+Unit 2.
+Configuration of IoT devices. Connecting devices to IP
+networks.
+Unit 3.
+Switching. Virtual Local Area Networks.
+'

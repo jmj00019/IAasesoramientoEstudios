@@ -1,0 +1,87 @@
+'
+
+BLOQUE I. EL CICLO DEL AGUA BLOQUE II. HIDROMETEOROLOGÍA
+E HIDROLOGÍA DE SUPERFICIE BLOQUE III. HIDRÁULICA
+SUBTERRÁNEA BLOQUE IV. HIDROQUÍMICA Y
+CONTAMINACIÓN
+BLOQUE V. HIDROGEOLOGÍA REGIONAL BLOQUE VI.
+INVESTIGACIÓN, Evaluación Y GESTIÓN de
+RECURSOS HÍDRICOS BLOQUE VII. ELABORACIÓN E
+INTERPRETACIÓN DE CARTOGRAFÍAS
+HIDROGEOLÓGICAS SOBRE BASE
+TOPOGRÁFICA.              
+
+
+Tema 1. El ciclo del agua. El agua en la
+Naturaleza: ámbitos de aparición e importancia
+relativa. El ciclo hidrológico: concepto, principales
+componentes, expresión cuantitativa simplificada. Factores
+que condicionan el ciclo.
+
+Tema 2. Características hidrogeológicas de
+los materiales. Porosidad: concepto, tipos y factores
+condicionantes. Porosidad efectiva y retención
+específica. Determinación de la porosidad. Valores
+característicos en materiales geológicos. Concepto
+cualitativo de permeabilidad. Perfil del agua en el suelo.
+
+Tema 3. Comportamiento hidrogeológico de los
+materiales. Acuíferos: concepto. Zonas de un
+acuífero. Acuíferos libres y confinados: superficie
+piezométrica. Tipos de acuíferos. Relaciones entre
+los acuíferos y las superficies de agua libre. Fluctuaciones
+del nivel piezométrico. Manantiales.
+
+Tema 4.
+Hidrometeorología e hidrología de
+superficie. Precipitación, evaporación y
+evapotranspiración. Infiltración. Escorrentía
+y aforos en cursos de agua. Hidrogramas.
+
+Tema 5. Ley de Darcy. Experiencia y Ley de Darcy:
+gradiente hidráulico y permeabilidad o conductividad
+hidráulica. Transmisividad y coeficiente de almacenamiento.
+Heterogeneidad y anisotropía. Permeabilidad en secuencias
+heterogéneas.
+
+Tema 6. Principios del flujo subterráneo.
+Líneas de corriente y líneas equipotenciales: red de
+flujo. Sistemas de flujo: esquemas de Hubbert y de Tóth.
+Ecuación diferencial general del flujo. Modelos de
+simulación del flujo subterráneo.
+
+Tema 7. Hidráulica de captaciones. Ensayos
+de bombeo: hipótesis y fórmulas de Dupuit.
+Régimen permanente. Régimen transitorio.
+Métodos de estudio en acuíferos semiconfinados.
+Ensayos de recuperación.
+
+Tema 8. Pérdidas de carga y curvas
+características de pozo. Pérdidas de carga:
+consideraciones generales y método de estimación.
+Bombeos escalonados. Curvas características de pozo y
+cálculo del caudal de explotación aconsejable.
+
+Tema 9. Características
+físico-químicas de las aguas
+subterráneas. Parámetros
+físico-químicos, tipos de constituyentes e
+importancia relativa de los mismos. Interpretación de datos
+hidroquímicos. Normativa española sobre calidad del
+agua.
+
+Tema 10. Contaminación de aguas
+subterráneas. Mecanismos de la
+contaminación. Agentes y fuentes potenciales de
+contaminación. Reacción de los acuíferos
+frente a la contaminación. Protección de las aguas
+subterráneas frente a la contaminación. Control y
+prevención de la contaminación del agua en la
+minería.
+
+Tema 11.
+Hidrogeología regional.
+Hidrogeología de rocas ígneas y metamórficas.
+Hidrogeología de rocas sedimentarias detríticas.
+Hidrogeología kárstica.
+'

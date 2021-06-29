@@ -1,0 +1,94 @@
+'
+
+
+Conceptos Básicos de Calidad.
+Fundamentos de la Gestión de la Calidad.
+ISO 9001.
+Excelencia Empresarial: Modelo EFQM.
+Calidad en los laboratorios de ensayo. ISO 17025:2005.
+Ejercicios de intercomparación; ensayos de aptitud y
+  ejercicios colaborativos.
+Auditorías.
+
+
+
+
+Contenidos desarrollados
+
+
+1. Fundamentos de la Gestión de la
+  Calidad
+
+Conceptos básicos.
+Evolución Histórica del Concepto de Calidad. Sistemas
+de gestión de la calidad. Modelos de Excelencia. Modelo
+EFQM.
+
+2. Mejora Continua
+
+Proceso de mejora continua de la
+calidad. Técnicas y herramientas aplicadas a la
+resolución de problemas y a la mejora continua de la
+calidad. Método Kaizen. Satisfacción del Cliente.
+
+3. Referencias normativas de los Sistemas de
+  Gestión de la Calidad y Medio Ambiente
+
+Conceptos fundamentales:
+Normalización, Certificación y Acreditación.
+Aseguramiento de la calidad. Serie de normas ISO 9000. Normas
+de sistemas de gestión: UNE-EN-ISO 9001, UNE-EN-ISO 17025 y
+UNE-EN-ISO 14001. Las Buenas Prácticas de Laboratorio (BPL,
+GLP). Documentos de los sistemas de Calidad.
+
+4. ISO 9001
+
+Normas de los sistemas de
+Gestión de la calidad. Anexo SL-Estructura de alto nivel.
+Vocabulario: ISO 9000. Principios de la gestión de la
+calidad. ISO 9001 Evolución histórica. Requisitos
+
+5. ISO 17025
+
+Evolución histórica.
+Objeto y campos de aplicación. Normas de consulta.
+Términos y definiciones. Organización e
+Infraestructura de los Laboratorios de ensayo. Requisitos relativos
+a la gestión. Requisitos técnicos
+
+6. Metrología en la Calidad de los
+  Laboratorios
+
+Metrología química.
+Trazabilidad. Referencias analíticas. Materiales de
+referencia certificados. Procedimientos de Calibración y
+Validación. Estimación de incertidumbre. Control
+interno de la calidad. Actividades de control según la ISO
+17025. Gráficos de control.
+
+7. Gestión de equipos en el laboratorio
+  analítico
+
+Requerimientos normativos. El ciclo
+de vida de los equipos de medida. Características,
+selección, adquisición, recepción y puesta a
+punto de un equipo. Etapas de funcionamiento rutinario de los
+equipos. Documentación.
+
+8. Ejercicios de intercomparación
+
+Definición y tipos de
+ejercicio intercomparación. Ensayos de aptitud. Ejercicios
+colaborativos y de certificación. Diseño y
+realización de los ejercicios de
+intercomparación.
+
+9. Evaluación de la calidad: auditorias y
+  acreditación de laboratorios analíticos
+
+Tipos de auditorías.
+Planificación y realización de las auditorías.
+Etapas de la auditoría. Listas de Verificación.
+Organismos de acreditación. Proceso de
+acreditación.
+'

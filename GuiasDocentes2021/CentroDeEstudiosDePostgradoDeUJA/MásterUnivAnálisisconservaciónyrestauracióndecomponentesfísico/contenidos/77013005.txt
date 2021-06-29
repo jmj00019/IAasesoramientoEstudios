@@ -1,0 +1,46 @@
+'
+
+En esta asignatura se estudian los equilibrios dinámicos
+en la superficie terrestre y la repercusión que la actividad
+humana plantea en ellos, abordando las interacciones entre procesos
+internos y externos en laderas y costas; y la evaluación de
+riesgos asociados a estos procesos (deslizamientos, etc.).
+De forma complementaria, se trabaja con la cartografía
+de riesgos y su aplicación en la previsión, alerta
+temprana y respuesta de emergencia.
+
+Tema 0. La superficie dinámica de la Tierra. Velocidad y
+tasas de movimiento de los diferentes procesos geológicos.
+Interacciones entre los procesos y la actividad humana.
+Tema 1. Procesos internos. Desplazamientos tectónicos de
+la superficie. Movimientos continuos frente a bruscos,
+consecuencias directas e indirectas. Procesos en áreas
+volcánicas activas.
+Tema 2. Procesos externos generadores de riesgos (A).
+Movimientos de ladera y erosión. Interacciones activas y
+pasivas del hombre con ellos. El paradigma naciente del
+Antropoceno.
+Tema 3. Nociones básicas de estabilidad. Esfuerzo y
+deformación aplicados a los movimientos de ladera. La
+ecuación de Mohr-Coulomb y los factores que intervienen en
+ella. Condiciones de estabilidad, alteraciones antrópicas y
+medidas sostenibles de estabilización.
+Tema 4. Procesos externos generadores de riesgos (B).
+Ambientes litorales, dinámica natural e influencia
+antrópica. Riesgos y gestión del medio litoral.
+Tema 5. Las cuencas bajas fluviales y desembocaduras de rios.
+Subsidencia y cambios relativos del nivel del
+mar. Alteraciones del equilibrio por la acción del
+hombre. Otras zonas subsidentes: identificación y
+gestión.
+Tema 6. Inventarios y cartografías de riesgos. Bases de
+datos institucionales. Técnicas de identificación,
+seguimiento y análisis, de procesos geológicos que
+modifican la superficie terrestre. Nuevas técnicas
+cartográficas: drones.
+
+Tema 7.
+  Predicción, previsión y prevención.
+  Monitorización. Alerta temprana.
+
+'

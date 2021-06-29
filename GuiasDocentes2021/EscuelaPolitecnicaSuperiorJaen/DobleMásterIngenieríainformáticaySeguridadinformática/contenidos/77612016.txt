@@ -1,0 +1,252 @@
+'
+
+- Introducción a los dispositivos de control industrial
+(automatización, componentes, sensores y actuadores,
+acondicionamiento de señal)
+- Control industrial. Topologías
+- Tecnologías de automatización industrial.
+Ejemplos de aplicación.
+- Sistemas SCADA.
+- Elementos de programación
+- Integración en planta
+- Sistemas de Comunicación Industrial.
+
+
+
+TEORÍA
+
+
+
+
+1.Introducción
+  a los dispositivos de control industrial
+  (6-8horas)
+
+
+
+
+1.1.
+  La automatización.
+
+
+
+
+1.2.
+  Componentes de un sistema automatizado.
+
+
+
+
+1.3.
+  Sistemas de control.
+
+
+
+
+1.4.
+  Sensores y actuadores. Acondicionamiento de
+  señal.
+
+
+
+
+1.5.
+  Control Industrial. Topologías.
+
+
+
+
+ 2.
+
+
+Infraestructuras
+críticas y sistemas industriales.
+(4horas)
+
+
+
+2.1.
+  Infraestructuras críticas
+
+
+
+
+2.2.
+  Componentes en sistemas industriales
+
+
+
+
+2.3.
+  Consideraciones en sistemas industriales
+
+
+
+
+2.4.
+  Ataques de sistemas industriales
+
+
+
+
+2.5.
+  Seguridad en entornos críticos
+
+
+
+
+ 3.
+
+
+Tecnologías
+de automatización. Ejemplos de aplicación.
+(4horas)
+
+
+
+3.1.
+  Clasificación, ventajas e
+  inconvenientes
+
+
+
+
+3.2. 
+  Automatismos mecánicos
+
+
+
+
+3.3.
+  Automatismos neumáticos y
+  electroneumáticos
+
+
+
+
+3.4.
+  Automatismos hidráulicos y
+  electrohidráulicos
+
+
+
+
+3.5.
+  Aumatismos eléctricos
+
+
+
+
+3.6.
+  Automatismos electrónicos
+
+
+
+
+3.7.
+  Automatismos programables: microcontroladores, ordenadores,
+  PLC.
+
+
+
+
+ 4.
+
+
+Sistemas
+SCADA (Supervisión, control y adquisición de datos)(8
+horas)
+
+
+
+4.1.
+  Introducción.
+
+
+
+
+4.2.
+  Arquitectura de un sistema SCADA.
+
+
+
+
+4.3.
+  Componentes de un sistema SCADA.
+
+
+
+
+4.4.
+  SCADA software.
+
+
+
+
+ 5.
+
+
+Sistemas
+de comunicación industrial
+(virtual)
+
+
+
+5.1.
+  Arquitectura jerárquica y
+  distribuida.
+
+
+
+
+5.2.
+  Redes de comunicación. IEEE-488, RS232, RS422 y
+  RS485.
+
+
+
+
+5.3.
+  Sistemas de comunicación para
+  sensores.
+
+
+
+
+5.4.
+  
+  Redes de comunicación
+  industrial.
+
+
+
+
+5.5.
+  Protocolos de comunicación.
+
+ 
+
+PRÁCTICA
+
+
+
+
+
+Protocolos
+    de comunicación para sensores.
+
+
+
+
+Seguridad
+    de comunicación usando
+    microcontroladores.
+
+
+
+
+Sistemas
+    SCADA.
+
+
+'

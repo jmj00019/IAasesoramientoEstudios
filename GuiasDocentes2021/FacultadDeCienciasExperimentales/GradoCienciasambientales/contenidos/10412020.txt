@@ -1,0 +1,453 @@
+'
+
+Introducción conceptual. Propiedades de los ecosistemas:
+estructura, patrones, funciones y procesos. Aspectos
+prácticos relacionados.
+
+
+Bloque
+  temático I. Introducción conceptual.
+
+
+Unidad
+  temática I
+
+
+En la unidad I se
+  presenta esta disciplina y se muestran las raíces,
+  antecedente y corrientes de la Ecología. Se hace
+  hincapié en las diferentes formas en que se concibe la
+  Ecología (ejemplo de 5 ciegos que tratan de describir a un
+  elefante). En este tema se realiza un breve repaso
+  histórico de la Ecología, mostrando las fuentes de
+  pensamiento que han proporcionado ideas para construir los
+  pilares fundamentales de esta disciplina. Se presentan
+  también los niveles de organización que son objetos
+  de estudio de la Ecología y su relación con las
+  distintas subdisciplinas, haciendo hincapié en el
+  carácter transdisciplinar y de síntesis,
+  características singulares de la Ecología. A partir
+  del enfoque histórico, las distintas definiciones de
+  Ecología, y los distintos niveles de organización
+  se introducen la existencia de una dualidad en la escuelas de
+  pensamiento; enfoques bióticos y funcionales (se resaltan
+  los principios básicos que subyacen en cada uno de los
+  enfoques; leyes de la evolución y leyes de la
+  termodinámica) y se expresa la necesidad de complemento
+  entre ellos. Se expone entonces que la conciliación entre
+  ellos puede venir a través de la Teoría
+  Jerárquica y Teoría General de Sistemas,
+  presentando sus ventajas y limitaciones. Es aquí donde se
+  introduce la importancia en considerar las escalas espaciales y
+  temporales.
+
+
+Unidad
+  temática 1 . Ecología: epistemología y
+  objetos de estudio. Raíces: aspectos geográficos,
+  aplicados, fisiológicos y demográficos. Escuelas de
+  pensamiento: enfoque biótico y funcional, numeralismo y
+  energetismo. Niveles de Organización. Ecología:
+  ciencia transdisciplinar y de síntesis. Tendencias de
+  síntesis: i) Teoría Jerárquica: escala y
+  variabilidad espacio-temporal de los fenómenos
+  ecológicos. ii) Marco de la Teoría General de
+  Sistemas; descriptores, estado del sistema, cambio de estado y
+  comportamiento. Visión del ecosistema como sistema
+  termodinámico alejado del equilibrio.
+
+
+Unidad
+  temática 2
+
+
+En la segunda
+  unidad temática se presenta el modelo general que trata de
+  los principios básicos que confieren sostenibilidad a los
+  ecosistemas, tanto naturales como gestionados, desarrollado por
+  Chapin III y colaboradores. Se expone el concepto de
+  sostenibilidad y se presentan los factores externos que imponen
+  los límites groseros a los valores de las variables de
+  estado típicas del ecosistema en cuestión y que
+  condicionan los controladores internos. Se presenta la
+  noción de que se establecen conexiones tipo feedbacks
+  negativos y positivos entre los distintos controladores
+  interactivos a múltiples escalas
+  espacio-temporales.
+
+
+Se sigue con la
+  idea de que la sostenibilidad es posible gracias al control que
+  ejercen los procesos de feedback negativo, que regulan, sobre
+  aquellos positivos, que desregulan. Reconocer la importancia del
+  control que ejercen los controladores interactivos sobre los
+  distintos ecosistemas es el argumento de la parte final de la
+  unidad temática. Finalmente se presenta la idea de que
+  estos principios básicos operan también a escala
+  del paisaje.
+
+
+ Bloque
+  temático II.
+
+
+Las Propiedades de
+  los Ecosistema (I) Estructura y Patrones .
+
+
+Unidad
+  temática 3
+
+
+Antes de pasar a
+  enfocar los problemas de estructura y función del
+  ecosistema tenemos que considerar el punto de vista
+  demográfico, ya que la vida aparece cuantificada en entes
+  discretos que nacen y mueren como unidades. Esta unidad
+  temática se centra en el nivel de organización de
+  la población. El principal argumento de esta unidad
+  temática son los procesos que provocan un cambio en el
+  número de individuos de poblaciones aisladas y mixtas, y
+  cómo se estructuran las poblaciones. En la primer parte de
+  la unidad temática se introduce el concepto de
+  población, mostrándose las dificultades que tiene
+  el establecer sus límites. Se muestra entonces cómo
+  se caracterizan las poblaciones y de qué parámetros
+  puede depender el cambio temporal en el número de los
+  individuos que componen la población. El tema finaliza
+  presentando las distintas estrategias básicas, en
+  términos de diagrama y tabla de vida, que se han descrito
+  para las poblaciones. Se introducen las tablas de vida y de
+  fertilidad como procedimiento para tabular los esquemas de
+  mortalidad y fecundidad en función de edades o fases de
+  desarrollo y se muestran las posibilidades operativas y de
+  predicción de las tablas de vida.
+
+
+Unidad
+  temática 4 
+
+
+El cuerpo
+  temático de la Ecología I se continúa con
+  aspectos de descripción estática y
+  caracterización estructural de los ecosistemas, en base a
+  la presencia de especies y sus distribuciones de abundancia. Se
+  comienza con una exposición sobre el concepto de
+  biodiversidad y se sigue destacando que no sólo el
+  número de especies presentes sino como están
+  distribuidos sus efectivos son importantes para la
+  caracterización estructural de los ecosistemas. Se hace un
+  muy breve repaso histórico en la búsqueda de
+  modelos, empíricos o naturalistas que tratan de dar cuenta
+  de las regularidades observables en la distribución de
+  efectivos en especies. 
+   La derivación desde los mismos de índices de
+  diversidad, y su discusión crítica, desemboca en
+  las formalizaciones de la Teoría de la Información,
+  que se presenta con poca profundidad. Brillouin y Shannon-Weaver
+  proponen índices de diversidad que intentan explicar la
+  complejidad estructural del sistema y se relacionan con la
+  entropía configuracional (nº de ordenaciones
+  alternativas posibles de sus elementos) a través del
+  nº de complexiones implícitas en la
+  ecuación de orden de Boltzmann. La observación de
+  regularidades en la presencia de colectivos, que se manifiesta
+  con la claridad intuitiva en la percepción del paisaje,
+  lleva al intento de sistematizar las comunidades. En este tema se
+  exponen también, aunque brevemente, las aproximaciones
+  fitosociológicas y las posibilidades basadas en
+  métodos estadísticos de clasificación y
+  ordenación, se efectúa un análisis
+  comparativo y se discute cómo el efecto ecosistema influye
+  en el predominio de una u otra tendencia en las escuelas europea
+  y americana. Finalmente, se expone la relación entre
+  diversidad (alfa) y el concepto de nicho.
+
+
+Unidad
+  temática 5
+
+
+Los elementos
+  básicos y los patrones que se reconocen a nivel de Paisaje
+  son el principal argumento de esta unidad temática. Se
+  inicia con el concepto de paisaje reconociendo los distintos
+  elementos que lo conforman que, finalmente, son una
+  colección de ecosistemas entre los que se establecen
+  flujos simétricos y asimétricos de distinta
+  magnitud, tanto de materia como de energía. Después
+  sigue la distribución espacial de poblaciones
+  uniespecíficas en unidades de mayor escala espacio
+  temporal en metapoblaciones. Se aportan las variables a tener en
+  cuenta en los modelos básicos que intentan prever en el
+  tiempo el grado de persistencia de una población a escala
+  de paisaje. Después se sigue con el concepto de diversidad
+  beta y se expone cómo tipificar el grado de conectividad
+  entre los distintos elementos físicos que conforman un
+  paisaje dado.
+
+
+Unidad
+  temática 6
+
+
+El reconocimiento
+  de los patrones a escala espacial más amplia y los
+  principales factores y variables responsables de ellos, es el
+  principal argumento de la unidad temática 6. Se inicia la
+  unidad temática sobre la influencia de los
+  regímenes de precipitación y temperatura en la
+  estructuración de comunidades y unidades de paisaje, a
+  escalas regional y global. Sigue con la relación entre
+  éstos y la distribución biogeográfica. Las
+  regularidades geográficas constatadas en
+  características físicas (o de comportamiento o con
+  base fisiológica) de las especies, tales como la
+  relación entre masa corporal, y lo que ello implica, y la
+  latitud, a las que se atribuye significado ecológico o
+  evolutivo, es otro de los argumentos de esta unidad
+  temática. Las regularidades que se observan en
+  características biológicas de individuos,
+  poblaciones y especies que responden a un gradiente
+  geográfico, tales como aquellas identificadas por
+  Bergmann, Jordan o Thorson, se expondrán también en
+  esta unidad temática. Se pasará posteriormente a
+  identificar los principales biomas y las ecoregiones naturales y
+  principales regiones antropogenizadas. La distribución de
+  especies a escala de paisaje y la gamma diversidad también
+  se presentarán en esta unidad temática.
+
+
+ 
+
+
+Bloque
+  temático III. Las Propiedades de los Ecosistema (I)
+  Procesos y función
+
+
+Este bloque
+  temático está dedicado a identificar los
+  principales procesos y funciones que operan a distintos niveles
+  de organización.
+
+
+Unidad
+  temática 7
+
+
+La
+  modelación matemática de la dinámica de
+  poblaciones aisladas es el argumento de esta unidad
+  temática. Se hace una revisión de modelos simples
+  de crecimiento empezando por los que asumen asunciones irreales y
+  progresando hacia modelos cada vez más complejos pero
+  realistas. El solapamiento o no de generaciones
+  (reproducción continua vs discreta), la competencia
+  intraespecífica y la dependencia de los parámetros
+  poblaciones en función de la edad, son usados como bases
+  para las modificaciones de los modelos. Se pondrá de
+  manifiesto que el objetivo del tema es describir las aportaciones
+  y limitaciones de cada modelo y su realismo. 
+   Al final de tema se presentan las diferencias entre las
+  concepciones deterministas frente a los modelos
+  probabilísticos.
+
+
+Unidades
+  temáticas 8 y 9.
+
+
+Estas unidades
+  están dedicadas a los tipos de interacciones que se
+  establecen entre poblaciones mixtas en el seno de la comunidad y
+  que condicionan su estructura. En la unidad temática 8 se
+  presenta la idea de que las poblaciones no aparecen aisladas sino
+  que se establecen interacciones entre ellas. Este tema
+  está dedicado a la competencia interespecífica y a
+  las relaciones depredador-presa en algunas de sus variantes. Se
+  muestran los mecanismos que generan competencia. Posteriormente
+  se modela matemáticamente tomando como base las ecuaciones
+  de Lotka y Volterra. Se exploran las propiedades del modelo y su
+  ensayo empírico. A partir de una de las soluciones, la
+  coexistencia de ambas poblaciones, se deriva el principio de
+  exclusión competitiva.
+
+
+La parte final de
+  la unidad temática 8 dirige su atención hacia el
+  sistema depredador-presa y al parasitismo. Es un tema
+  relativamente amplio donde se presta atención tanto a las
+  relaciones depredador animal-presa animal como a las consumidor
+  animal- presa vegetal (herbivorismo). Se muestra la
+  modelación matemática de la dinámica
+  depredador-presa, las características del modelo y las
+  limitaciones del mismo, así como las posibles
+  modificaciones; retraso temporal, respuestas funcionales etc. Se
+  muestra también la existencia de otro tipo de modelo
+  gráfico que sirve para introducir a los depredadores
+  eficientes e ineficientes y sus predicciones en términos
+  de estabilidad. En la última parte del tema se hace
+  mención al herbivorismo, haciendo hincapié sobre
+  los mecanismos de defensa de las presas (caracteres
+  físico-mecánicos y químicos), y al
+  parasitismo como caso especial de interacción
+  depredador-presa (se mantiene vivo al hospedador el mayor tiempo
+  posible) y una de las interacciones más compleja de
+  estudiar por el grado de coevolución.
+
+
+La unidad
+  temática 9 está dedicada al mutualismo,
+  interacción que resulta en un aumento de la aptitud 
+   ecológica de las poblaciones interactuantes y que
+  hay que potenciar en el caso de una rápida
+  restauración del ecosistema. Se expondrán los tipos
+  de asociaciones mutualistas y su significado
+  ecológico.
+
+
+Unidad
+  temática 10
+
+
+Tansley redujo un
+  ecosistema relativamente simple en una superposición del
+  ciclo, más o menos cerrado, de la materia y el flujo de la
+  energía que le impulsa. El nivel de organización
+  ahora es el del ecosistema y éste se analiza como una
+  serie de compartimentos interconectados por el ciclo de la
+  materia y el flujo de la energía. Una vez establecido como
+  tiene lugar la entrada primaria de energía, la influencia
+  de la radiación térmica sobre la dinámica de
+  la atmósfera e hidrosfera y en la velocidad de las
+  reacciones metabólicas, la tendencia natural es hablar de
+  los flujos de materia y energía a través de los
+  ecosistemas desde una perspectiva de la ecología
+  energética y trófica. La unidad temática
+  comienza definiendo los conceptos como producción
+  (primaria y secundaria), biomasa y sus unidades. Después
+  se explicará cómo tiene lugar la entrada primaria
+  de energía en los ecosistemas, cómo son las
+  sucesivas transferencias entre compartimentos y terminará
+  con una visión global del ecosistema desde una perspectiva
+  energética, a través de las relaciones
+  tróficas.
+
+
+Unidad
+  temática 11
+
+
+Nociones sobre los
+  flujos de materia y las principales características de los
+  ciclos biogeoquímicos del carbono, nitrógeno y
+  fósforo se presentan en esta unidad temática. La
+  primera parte está dedicado a la biogeoquímica del
+  carbono. Se estudia la difusión del CO2 en el agua, su
+  participación en el equilibrio carbónico-carbonato
+  y su repercusión en los organismos fotosintético,
+  en términos de disponibilidad de C. La segunda parte del
+  tema está enfocado para los ecosistemas terrestres y se
+  insiste en los procesos de descomposición y
+  transformación de la materia orgánica-
+  Posteriormente se trata la importancia del ciclo del N, su
+  diversidad en procesos controlados biológicamente y su
+  sensibilidad frente a la acción antropogénica. Se
+  enfatiza por un lado sobre la importancia de la fijación
+  del N, única fuente biológica de entrada de N, y
+  sus exigentes condiciones. Se evalúa la asimilación
+  del N y las distintas estrategias para su conservación por
+  los organismos frente al carácter limitante que muestra en
+  muchos ecosistemas terrestres. Tras la asimilación se
+  estudian los procesos de mineralización y
+  nitrificación, clave para la regeneración del N. La
+  desnitrificación, proceso clave por cuanto implica una
+  pérdida neta de N del sistema y en la
+  autodepuración por N de los ecosistemas terrestres y
+  acuáticos cada vez más saturados en N, se
+  abordará en el ocaso del tema. Finalmente se
+  describirá el ciclo global del N destacándose las
+  modificaciones que a escala planetaria ha introducido la
+  acción humana. Como ejemplo particular del ciclo del N se
+  presenta el caso de un lago monomíctico cálido. La
+  última parte de esta unidad temática está
+  dedicada a estudiar el ciclo del fósforo. Tras describir
+  sus formas, fuentes y sumideros se pasa a descripción
+  del control físico-químico del ciclo
+  fundamentalmente en ecosistemas terrestres y en el sedimento de
+  los ecosistemas acuáticos. Se insistirá en la
+  inexistencia de un componente gaseoso (se contrastará en
+  este sentido con el ciclo del N) y por tanto en que los cambios
+  globales de P sólo tienen sentido a gran escala temporal.
+  Se pasará entonces al control biológico, en el que
+  el acoplamiento entre uso eficiente y mineralización por
+  enzimas exó o endógenas (fosfatasas) resulta
+  crítico para satisfacer la demanda biológica.
+  Finalmente se presentan dos ejemplos del ciclo de P donde se
+  provocará un análisis comparado entre los
+  patrones de transformación y conservación de
+  P.
+
+
+Unidad
+  temática 12. La asignatura de Ecología I termina
+  con una unidad temática exponiendo los principales
+  procesos que operan a escala regional y global. Se inicia
+  exponiendo los principales procesos a esos niveles que provocan
+  cambios netos en el número de especies, haciendo especial
+  hincapié en la epidemiología de las invasiones y
+  extinciones y sus consecuencias globales, identificando
+  potenciales invasores y las comunidades y ecosistemas más
+  vulnerables. La unidad temática termina con una
+  visión sedimentaria y global de los ciclos
+  biogeoquímicos del carbono, nitrógeno y
+  fósforo.
+
+
+Los contenidos de
+  las prácticas serán:
+
+
+1.-
+  Práctica de campo: El objetivo es familiarizarse con las
+  estrategias de muestreos. Se recopilará información
+  sobre el número de individuos y especies en distintos
+  tipos de muestreos a lo largo de un gradiente altitudinal. Sobre
+  la información recogida se realizarán las
+  siguientes prácticas en el aula de prácticas
+  adscrita al área de Ecología y/o en aulas de
+  informática.
+
+
+2.-
+  Determinación del área mínima cualitativa y
+  cuantitativa. Riqueza específica.
+
+
+3.-
+  Determinación del tipo de distribución espacial de
+  algunas de las especies identificadas en la práctica de
+  campo.
+
+
+4.-Tipificación
+  de la comunidad: Determinación de la alfa diversidad
+  e índices de dominancia en las comunidades a lo largo del
+  gradiente altitudinal.
+
+
+5.-
+  Análisis gradiental: Determinación de beta
+  diversidad e índices de similaridad y
+  disimilaridad.
+
+
+6.-
+  Aplicación de técnicas multivariantes sobre la
+  información recogida en la práctica de
+  campo.
+
+ 
+'

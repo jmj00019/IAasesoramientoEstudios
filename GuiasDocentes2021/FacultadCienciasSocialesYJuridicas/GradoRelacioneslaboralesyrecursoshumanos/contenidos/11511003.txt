@@ -1,0 +1,139 @@
+'
+
+
+----
+
+
+
+Análisis descriptivo de
+    un conjunto de datos
+
+
+Cálculo de
+    probabilidades
+
+
+Inferencia
+    Estadística
+
+
+Fuentes estadísticas
+    sociolaborales
+
+
+
+----
+
+
+
+
+Análisis descriptivo de un
+  conjunto de datos
+
+
+Conceptos fundamentales de
+      estadística descriptiva
+
+
+Variable estadística
+      unidimensional. Representación y descripción
+      numérica
+
+
+
+Introducción al
+  cálculo de probabilidades
+
+
+Definición de
+      probabilidad
+
+
+Probabilidad
+      condicionada
+
+
+Independencia de
+      sucesos
+
+
+Teoremas fundamentales del
+      cálculo de probabilidades
+
+
+
+Variable aleatoria
+
+
+
+
+Definición de
+        variable aleatoria
+
+
+Variables aleatorias
+        discretas y continuas
+
+
+Características de
+        una variable aleatoria
+
+
+Vectores aleatorios.
+        Características
+
+
+
+
+Modelos de distribuciones de
+  probabilidad
+
+
+Modelos de distribuciones
+      discretas
+
+
+Modelos de distribuciones
+      continuas
+
+
+
+Inferencia
+    Estadística
+
+
+
+
+Introducción
+
+
+Estimación puntual y
+        por intervalos de confianza
+
+
+
+
+
+
+Contrastes de
+      hipótesis
+paramétricas y no
+      paramétricas
+
+
+
+Fuentes estadísticas
+  sociolaborales
+
+
+Acceso a bases de
+      datos sobre  estadísticas
+      sociolaborales
+
+
+Definición de
+      indicadores sociolaborales
+
+
+
+'

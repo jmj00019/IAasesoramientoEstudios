@@ -1,0 +1,167 @@
+'
+
+· Propiedades de las rocas y factores que afectan a su
+perforabilidad.
+· Principios, descripción de los equipos y
+técnicas de perforación de los diferentes
+métodos que se realizan.
+· Fluidos de perforación y sus sistemas de
+circulación.
+· Entubación y cementación de sondeos.
+· Medidas de seguridad durante la realización
+de sondeos
+
+
+TEMA
+  1. PROPIEDADES DE LAS ROCAS. FACTORES QUE AFECTAN A SU
+  PERFORABILIDAD
+
+
+Introducción.
+  Propiedades físicas. Perforabilidad de las rocas.
+  Perforación rotopercutiva. Perforación rotativa.
+  Factores que afectan a la velocidad de perforación de las
+  formaciones rocosas.
+
+
+TEMA
+  2. PRINCIPIOS, DESCRIPCIÓN DE LOS EQUIPOS Y
+  TÉCNICAS DE PERFORACIÓN DE LOS DIFERENTES
+  MÉTODOS QUE SE REALIZAN
+
+
+Objeto:
+  
+  Sondeos
+  de captación de aguas. Diseñar el equipo de
+  perforación para la realización de un sondeo de
+  captación de aguas, en función de las
+  especificaciones técnicas. Selección de empaque de
+  gravas, rejillas y filtros. Selección del grupo
+  elevador.
+
+
+Objeto:
+  Sondeos petrolíferos. Calculo de sarta de
+  perforación. Determinar los esfuerzos en la sarta.
+  Calcular la reserva de tracción. Cálculo de pesos
+  aparentes. Longitudes de drill pipe y drill collar.
+
+
+TEMA
+3
+ 
+FLUIDOS
+DE PERFORACIÓN, CONTROL, TIPOS Y SUS SISTEMAS DE
+CIRCULACIÓN
+
+Funciones
+  de los fluidos de perforación. Características de
+  los fluidos de perforación.  Control de lodos:
+  Generalidades. Medida de la densidad. Viscosidad y
+  tixotropía. Viscosímetros. Agua de filtrado y cake.
+  Ensayos. Contenido en arenas. Ph. Contenido en sales. Tipos de
+  lodos: Lodos a base de agua y arcilla. Lodos a base de aceites.
+   Espumas estables. Polímeros. Otros tipos.
+  Circulación del lodo: Líneas de impulsión.
+  Bombas. Potencia necesaria en un equipo de bombeo. Perdidas de
+  carga.
+
+
+Objeto:
+  Determinar las características físicas,
+  químicas y reológicas de los lodos.
+  Fabricación de lodos a base de bentonita-agua en
+  diferentes proporciones.
+
+
+Objeto:
+  Calcular las pérdidas de carga en un circuito de
+  inyección de lodos. Cálculo de la potencia del
+  motor de accionamiento de la bomba.
+
+
+TEMA
+  4 ENTUBACIÓN Y CEMENTACIÓN DE SONDEOS
+
+
+Tubería
+  de revestimiento: Funciones. Tipos de tubería (Casing).
+  Normas A.P.I. Propiedades físicas. Programa de
+  entubación. Operaciones de entubación. Control y
+  accesorios de entubado. Fases de Perforación y entubado.
+  Cementaciones: Objetivos. Equipos de cementación.
+  Bombeabilidad y fraguado de lechadas. Aditivos.
+  Cementación en una sola etapa. Cementación en dos
+  etapas. Centralizadores. Tapones.
+
+
+Objeto:
+Calcular la cementación de la entubación (casing).
+Volumen de lechada. Volumen de desplazamiento.
+Presión final de desplazamiento.
+
+
+ 
+TEMA
+5. CONTROL DE ERUPCIONES
+
+Concepto
+  de invasión. Concepto de erupción. Causas de una
+  invasión. Indicios. Cierre del pozo y control.
+  Presión de formación. Presiones en cabeza.
+  Presión de circulación. Control de una
+  invasión. Método del perforador. Método del
+  ingeniero.
+
+
+Objeto:
+  Realizar las operaciones oportunas en caso de una
+  invasión. Cálculos de volúmenes y tiempos de
+  bombeo. Cálculo de control.
+
+
+TEMA
+  6 MEDIDAS DE SEGURIDAD DURANTE LA REALIZACIÓN DE
+  SONDEOS
+
+
+ Normas
+  básicas de seguridad: Reglamento general. Instrucciones
+  técnicas complementarias I.T.C.. Prescripciones generales.
+  Normas de seguridad en sondeos: Personal. Protección
+  ambiental. Protección contra incendios. Protección
+  contra electrocución. Torres de sondeos. Equipo de
+  perforación. Cables y cabrestantes. Accesos.
+  Circulación de vehículos.
+
+
+Tema
+  7 CONTRATACIÓN de SONDEOS
+
+
+Presupuesto
+  por metro y presupuesto por administración.
+
+
+Tema
+  8 TENDENCIAS EN PERFORACIÓN
+
+
+Perforación
+  dirigida aplicada a la explotación minera,
+  Investigación marina, Perforación en ambientes
+  extremos, Trabajos en clima  desérticos, Trabajo en
+  clima polar y trabajo en gran altitud.
+
+
+PRACTICAS
+  DE CAMPO
+
+
+
+Esta
+  asignatura, estará complementada con una visita
+  a un sondeo de la zona.
+
+'

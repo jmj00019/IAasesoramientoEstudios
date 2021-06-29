@@ -1,0 +1,41 @@
+'
+
+· Comunicaciones industriales. Características.
+Requisitos tiempo real.
+· Soporte físico, transmisión de datos y
+nivel enlace en redes industriales.
+· Comunicaciones serie.
+· Redes de comunicaciones industriales. Buses de
+datos.
+· Buses CAN. Protocolos, niveles, controladores.
+· Ethernet industrial.
+· Redes de sensores.
+· Sistemas de telemonitorización.
+
+TEORIA:
+ Tema 1. COMUNICACIONES INDUSTRIALES.
+ Objetivos. Dispositivos: sensores, microcontroladores,
+autómatas, ordenadores, servidores, etc. Computación
+en la nube, en la niebla. Comunicaciones industriales. Tiempo
+real. 
+ Tema 2. COMUNICACIONES SERIE Y BUSES.
+ Serie 232. Buses 485, CAN. Buses de campo.
+ Tema 3. REDES DE DATOS.
+ Ethernet Industrial.  Redes de sensores.
+Comunicaciones de área extensa.
+ Tema 4. INTERNET DE LAS COSAS (IoT).
+ Dispositivos en IoT. Protocolos y redes utilizados en
+IoT. 
+ Tema 5. SISTEMAS DE TELEMONITORIZACIÓN.
+ Plataformas de desarrollo aplicaciones IoT y
+telemonitorización en Internet.
+
+ 
+ 
+PRÁCTICAS:
+Práctica 1: Comunicaciones serie y/o bus en Arduino
+Práctica 2: Comunicaciones en una red de datos local,
+extensa o de sensores
+Práctica 3: Integración de un nodo sensor en una
+plataforma de Internet. 
+'

@@ -1,0 +1,46 @@
+'
+
+Procesos de la industria química. Aprovechamiento
+químico-industrial de las materias primas. Operaciones
+básicas o unitarias de la industria
+química.  Clasificación de las operaciones
+básicas. Variables de diseño de las operaciones
+básicas. Ecuaciones químicas y variables de
+diseño de los reactores químicos. Diagramas de flujo.
+Elección, especificación y diseño de equipos.
+Análisis y simulación de procesos químicos.
+Optimización de procesos.
+
+TEMA 1: LA INDUSTRIA QUÍMICA
+Procesos químicos industriales. La Industria
+Química actual. Materias primas. Suministro de
+energía y poductos básicos de la Industria
+Química.
+
+TEMA 2: PROCESOS DE LA INDUSTRIA QUÍMICA. OPERACIONES
+BÁSICAS Y REACTORES
+
+Descripción general de un proceso de
+producción. Diagramas de flujo. Concepto de operación
+básica y clasificación. Ecuaciones químicas y
+reactores químicos. Predicción de propiedades
+físicas de los compuestos químicos.
+TEMA 3. BALANCES DE MATERIA Y ENERGÍA
+Ecuación general de conservación o balance.
+Balances de matería sin reacción química.
+Balances de materia en procesos con varias unidades. Balances de
+materia con reacción química. Balances de
+energía en sistema abiertos.
+TEMA 4: DESCRIPCIÓN DE ALGUNOS PROCESOS INDUSTRIALES.
+Industria Química Inorgánica: fabricación
+de fertilizantes. Industria Química Orgánica: refino
+de petróleo y petroquímica.
+TEMA 5: ANÁLISIS Y SIMULACIÓN DE PROCESOS
+QUÍMICOS
+Simulación de procesos: modelización. Programas
+informáticos de simulación de procesos
+químicos. Iniciación a Aspen Plus. Modelos
+termodinámicos: estimación de propiedades de
+sustancias puras y mezclas. Modelos simples de operaciones
+unitarias.
+'

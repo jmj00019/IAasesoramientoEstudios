@@ -1,0 +1,104 @@
+'
+
+Mecánica
+Dinámica
+Trabajo y energía
+- Termodinámica
+Calor y trabajo
+Leyes fundamentales de la Termodinámica
+- Campos y ondas
+Teoría elemental de campos
+Movimiento ondulatorio
+- Electromagnetismo
+Campos eléctrico y magnético
+Ondas electromagnéticas
+Principios de óptica
+- Climatología
+Tiempo y clima
+Factores climáticos y caracterización del
+clima
+ 
+
+CONTENIDOS TEÓRICOS
+Tema 1.- INTRODUCCIÓN La Física y sus
+métodos. Magnitudes escalares y vectoriales. Álgebra
+vectorial. Vectores deslizantes. Derivada de un vector.
+Representación vectorial de las superficies. Teoría
+elemental de campos.
+Tema 2.- CINEMÁTICA DE LA PARTÍCULA Vector de
+posición. Vector velocidad. Vector aceleración.
+Componentes intrínsecas de la aceleración.
+Clasificación de los movimientos. Composición de
+movimientos.
+Tema 3.- DINÁMICA DE LA PARTÍCULA. Leyes de
+Newton. Cantidad de movimiento. Cantidad de movimiento y momento
+cinético: leyes de conservación del momento
+cinético. Fuerzas de rozamiento.
+Tema 4.- TRABAJO Y ENERGÍA. Trabajo y potencia
+mecánica. Energía cinética. Fuerzas
+conservativas. Energía potencial. Conservación de la
+energía mecánica. Fuerzas no conservativas.
+Tema 5.- GRAVITACIÓN Leyes de Kepler. Ley de
+gravitación universal. Campo gravitatorio. Energía
+potencial gravitatoria. Campo gravitatorio terrestre.
+Tema 6.- SISTEMAS DE PARTÍCULAS Y SÓLIDO
+RÍGIDO Fuerzas interiores y exteriores de un sistema de
+partículas. Centro de masas. Teoremas de
+conservación. Sólido rígido. Momento
+cinético. Momento de inercia. Ecuación fundamental de
+la dinámica de rotación. Rotación y
+traslación del sólido rígido.
+Tema 7- MOVIMIENTO OSCILATORIO. Fuerzas de recuperación
+elástica. Cinemática y dinámica del movimiento
+armónico simple. Energía de un oscilador
+armónico. Ejemplos de osciladores.
+Tema 8.- MOVIMIENTO ONDULATORIO. Concepto de onda. Tipos de
+ondas. Ecuación de ondas. Ondas armónicas. Intensidad
+y absorción. Fenómenos de interferencias. Ondas
+estacionarias.
+Tema 9.- CAMPO Y POTENCIAL ELÉCTRICOS Carga
+eléctrica. Ley de Coulomb. Campo eléctrico. Flujo
+eléctrico. Ley de Gauss: aplicaciones. Diferencia de
+potencial. Potencial eléctrico. Cálculo del potencial
+eléctrico. Energía potencial electrostática 
+.
+Tema 10.- EL CAMPO MAGNÉTICO Y SUS FUENTES
+Introducción. Líneas de inducción. Flujo
+magnético. Movimiento de partículas cargadas en un
+campo magnético. Fuerza sobre un conductor. Efecto Hall.
+Pares de fuerzas sobre espiras de corriente.  Campo
+magnético creado por corrientes eléctricas: ley de
+Biot y Savart. Ley de Ampère: aplicaciones 
+.
+Tema 11.- INDUCCIÓN ELECTROMAGNÉTICA
+Introducción. Fuerza electromotriz debida al movimiento. Ley
+de Faraday. Ley de Lenz. Inductancia mutua. Autoinducción.
+Energía magnética. Ecuaciones de Maxwell. Ondas
+electromagnéticas.
+Tema 12.- PRINCIPIOS DE ÓPTICA Conceptos y leyes de la
+óptica geométrica. Reflexión en superficies
+esféricas y planas. Espejos. Refracción en
+superficies esféricas y planas. Prisma óptico. Lentes
+delgadas. Instrumentos ópticos.
+Tema 13.-CALOR Y TEMPERATURA. PRIMER PRINCIPIO DE LA
+TERMODINÁMICA Conceptos básicos. Principio cero de la
+termodinámica. Capacidad calorífica y calor
+específico. Cambios de fase: calor latente. Enunciados del
+primer principio. Energía interna. Transformaciones
+termodinámicas del gas ideal.
+Tema 14.-SEGUNDO PRINCIPIO DE LA TERMODINÁMICA Necesidad
+del segundo principio. Enunciados del segundo principio. Ciclo y
+teorema de Carnot. Escala termodinámica de temperaturas.
+Teorema de Clausius. Entropía. Variaciones de
+entropía de un gas ideal.
+Tema 15.-: CLIMATOLOGÍA Tiempo y clima. Factores
+climáticos y caracterización del clima.
+CONTENIDOS PRÁCTICOS
+
+Movimiento rectilíneo; - Péndulo simple; -
+  Constante elástica del muelle; - Momentos de inercia; -
+  Campo eléctrico; - Campo magnético; - Optica
+  geométrica; - Calorimetría; -
+  Termómetro.
+
+'

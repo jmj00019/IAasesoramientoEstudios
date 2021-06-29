@@ -1,0 +1,88 @@
+'
+
+
+La función de producción de la empresa.
+Objetivos de la función de producción.
+La determinación de la capacidad de
+  producción.
+Ubicación de instalaciones productivas.
+Diseño del sistema productivo y distribución en
+  planta.
+Planificación y programación de la
+  producción.
+Gestión de inventarios.
+Diseño y medición del trabajo.
+Producción justo a tiempo.
+
+Estos contenidos se estructurarán en 8 capítulos.
+Cada capítulo incluirá también un caso
+práctico y 1 relación de preguntas.
+
+Tema 1.La función de producción en la empresa
+1. Introducción
+2. Evolución histórica de la dirección
+de operaciones
+3. Toma de decisiones en el ámbito de la
+dirección de la producción
+4. El objeto de la función de producción:
+bienes y servicios
+5. Los objetivos de la función de
+producción
+Tema 2. El producto y la estrategia de producción
+1. Introducción
+2. El proceso de diseño del producto
+3. El modelo del ciclo de vida del producto
+4. La estrategia empresarial y la estrategia de
+producción
+5. Tipología de la estrategia de producción
+
+Tema 3. Capacidad y Localización de las instalaciones:
+logística
+1. Introducción
+2. La capacidad de producción
+3. Planificación y control de la capacidad
+4. las decisiones de localización: causas
+5. Métodos cuantitativos para la
+localización
+Tema 4. El diseño del sistema productivo:
+Tecnología, selección de equipos y
+distribución en planta
+1. Introducción
+2. Tipos de procesos productivos y su distribución en
+planta
+3. Otras diferencias entre distribución en planta por
+producto y por proceso
+4. Decisiones de selección de la tecnología y
+el proceso. Estrategia de producto-proceso
+5. Tipos híbridos de distribución en planta
+Tema 5. Planificación y programación de la
+producción
+1. Introducción
+2. Conceptos y objetivos
+3. La programación lineal
+4. Planificación de las necesidades de materiales
+5. Teoría de las limitaciones:Tecnología de
+producción optimizada
+6. Programación de proyectos
+Tema 6. La gestión de inventarios
+1. El papel de los inventarios en la empresa
+2. Los costes de los inventarios y su tamaño
+3. Tipos de demanda
+4. Tipos de sistemas y modelos de inventarios
+5. Modelo determinista
+6. Modelo probabilístico
+7. Sistemas de control de inventarios
+Tema 7. La producción Justo a Tiempo (J.I.T.) y la mejora
+continua
+1. Introducción
+2. Los elementos básicos del J.I.T.
+3. La mejora continua
+4. La puesta en práctica del J.I.T.
+5. El J.I.T. y los servicios
+Tema 8. El elemento humano en la producción
+1. Introducción
+2. Diseño del trabajo
+3. El estudio de métodos del trabajo
+4. Medición del trabajo
+5. Métodos de compensación
+'

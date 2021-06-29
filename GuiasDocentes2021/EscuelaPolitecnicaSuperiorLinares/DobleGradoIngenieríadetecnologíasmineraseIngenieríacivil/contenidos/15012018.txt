@@ -1,0 +1,34 @@
+'
+
+
+1. Integrales de línea y
+  superficie.
+
+
+2. Variable compleja.
+  Transformadas integrales.
+
+
+3. Resolución de
+  Ecuaciones en Derivadas Parciales.
+
+
+
+4. Resolución
+  numérica de Ecuaciones en Derivadas
+  Parciales.
+
+
+Contenidos desarrollados:
+1. Integral de línea. Teorema de Green. Teorema
+fundamental de las integrales de línea.
+2. Integral de superficie. Teorema de la divergencia. Teorema
+de Stokes.
+3. Funciones de variable compleja.
+4. Diferenciabilidad de funciones de variable compleja.
+5. Integraciónde funciones de variable compleja.
+6. Transformadas integrales.
+7. Resolución de ecuaciones en derivadas parciales.
+8. Resolución numérica de ecuaciones en
+derivadas parciales.
+'

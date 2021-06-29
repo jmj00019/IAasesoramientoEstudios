@@ -1,0 +1,64 @@
+'
+
+
+Contenidos básicos: Modelos de
+distribuciones multidimensionales. Distribuciones muestrales y
+límite. Estimación puntual y por intervalos.
+Contrastes de hipótesis. Técnicas de
+exploración intensiva de la muestra.
+
+Modelos de Distribuciones de Probabilidad
+
+Conceptos básicos
+Distribuciones asociadas a la normal: Chi-cuadrado, t de
+  Student y F de Snedecor
+Distribución multinomial
+Distribución normal multivariante
+Otras distribuciones multidimensionales asociadas a la normal
+  multivariante: Wishart,  
+  
+
+T 
+  2
+de Hotelling
+  y Lambda
+
+
+
+de
+  Wilks
+
+ Introducción a la Inferencia Estadística
+
+Población y muestra. Técnicas de muestreo
+Estadísticos muestrales
+Distribuciones muestrales 
+
+Estimación Puntual
+
+Propiedades de los estimadores
+Métodos de estimación puntual:
+  estimación por máxima verosimilitud y método
+  de los momentos
+
+Estimación por intervalos de confianza
+
+Construcción de un intervalo de confianza
+Intervalos de confianza en poblaciones normales
+Intervalos de confianza para muestras grandes
+
+Contrastes de hipótesis estadísticas
+
+Lema de Neyman-Pearson
+Test de razón de verosimilitudes
+Contrastes de hipótesis en poblaciones normales
+Contrastes sobre proporciones
+
+Técnicas de exploración intensiva de la
+muestra
+
+El método autosuficiente o Bootstrap
+El método herramental o Jackknife
+
+ 
+'

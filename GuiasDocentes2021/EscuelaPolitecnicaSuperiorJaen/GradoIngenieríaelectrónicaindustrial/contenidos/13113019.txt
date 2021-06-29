@@ -1,0 +1,58 @@
+'
+
+Fundamentos de la domótica/inmótica.
+Situación actual y tendencias.
+Componentes hardware utilizados en la automatización
+de viviendas y edificios.
+Buses de comunicación.
+Programación de aplicaciones
+domóticas/inmóticas.
+Diseño de interfaces de usuario.
+
+Los contenidos básicos de la asignatura se
+organizarán en los siguientes bloques temáticos:
+
+INTRODUCCIÓN: FUNDAMENTOS. SITUACIÓN ACTUAL
+  Y TENDENCIAS.
+
+-  Introducción de conceptos.
+-  Justificación
+-  Gestión técnica en la
+edificación.
+-  Integración arquitectónica.
+
+BLOQUE I: ARQUITECTURAS OPEN-HARDWARE APLICADAS A LA
+  DOMÓTICA/INMÓTICA
+
+- Buses y arquitecturas de comunicación
+- Componentes hardware
+- Programación de aplicaciones
+- Diseño de interfaces de usuario
+
+BLOQUE II: ARQUITECTURAS HARDWARE INDUSTRIALES APLICADAS
+  A LA DOMÓTICA/INMÓTICA
+
+- Buses y arquitecturas de comunicación
+- Componentes hardware
+- Programación de aplicaciones
+- Diseño de interfaces de usuario
+
+BLOQUE III: ARQUITECTURAS HARDWARE COMERCIALES APLICADAS
+  A LA DOMÓTICA/INMÓTICA 
+
+- Buses y arquitecturas de comunicación
+- Componentes hardware
+- Programación de aplicaciones
+- Diseño de interfaces de usuario
+
+ 
+
+Practicas:
+
+Práctica 1 y 2 guiadas. Hardware libre
+Proyecto con hardware libre.
+Práctica 3 y 4 guiadas. Hardware PLC
+Proyecto con hardware PLC.
+Práctica 5 guiada. Hardware KNX
+
+'

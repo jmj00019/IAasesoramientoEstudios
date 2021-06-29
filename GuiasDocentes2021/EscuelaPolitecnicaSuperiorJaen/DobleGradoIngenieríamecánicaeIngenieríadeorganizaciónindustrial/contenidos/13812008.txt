@@ -1,0 +1,180 @@
+'
+
+Teoría de la Elasticidad. Planteamiento Energético
+de la Elasticidad.
+Sistemas Hiperestáticos en Resistencia de Materiales y
+su resolución.
+Solicitaciones Combinadas en elementos estructurales y de
+máquinas.
+Estados Límite últimos y de servicio.
+Teoría de Placas y Láminas.
+
+
+Bloque Temático A: Conceptos Avanzados de
+  Elasticidad
+
+
+TEMA I.- Aspectos avanzados sobre Tensiones y
+  Deformaciones.
+
+
+Introducción.
+Lema de Cauchy.
+Transformación de coordenadas.
+Tensiones Octaédricas. Tensor Esférico y
+  Desviador.
+Elipsoide de Lamé.
+Componentes Generales del Campo de Desplazamiento.
+  Interpretación Geométrica.
+
+
+TEMA II.- Planteamiento general del problema
+  elástico.
+
+
+El Problema Elástico.
+Constantes Elástica. Ecuaciones de Lamé.
+Formulación del problema elástico en
+  desplazamientos. Ecuaciones de Navier
+Formulación del problema elástico en tensiones.
+  Ecuaciones de Beltrami-Michel
+Unicidad de la solución del problema
+  elástico.
+Influencia de la Temperatura. El problema
+  Termoelástico.
+
+
+TEMA III.- Teoremas  Energéticos de la
+  Elasticidad.
+
+
+Introducción. Energía de
+  Deformación.
+El Teorema de Castigliano.
+El Principio de los Trabajos Virtuales
+El Teorema de Reciprocidad de Maxwell-Betti.
+
+
+TEMA IV.- Elasticidad bidimensional en coordenadas
+  cartesianas.
+
+
+Tensión plana
+Deformación plana
+Función de Airy.
+Flexión de una viga en voladizo cargada en su
+  extremo
+Presa de gravedad de perfil rectangular
+
+
+Bloque Temático B: Conceptos Avanzados de
+  Resistencia de Materiales
+
+
+
+TEMA V.- Elementos Hiperestáticos.
+
+
+Grado de Hiperestaticidad de un Sistema.
+Resolución de Axiles Hiperestáticos.
+Método basado en los Teoremas de Mohr.
+El Teorema de los Tres Momentos.
+Método basado en el Principio de los Trabajos
+  Virtuales.
+Método basado en la aplicación del Teorema de
+  Castigliano
+
+
+
+TEMA VI: Temas avanzados en flexión
+
+
+Introducción
+Esfuerzos cortantes en secciones de pequeño
+  espesor
+Centro de cortante
+Vigas curvas
+Vigas compuestas
+Agotamiento plástico de las secciones.
+
+
+
+TEMA VII: Temas avanzados de pandeo
+
+
+Flexión compuesta en vigas esbeltas
+Pandeo lateral
+Pandeo de anillos, arcos y barras curvas.
+Pandeo de placas
+Pandeo de envolventes
+
+
+
+TEMA VIII.- Torsión.
+
+
+Torsión Pura. Torsión en prismas de
+  sección circular.
+Determinación de Momentos Torsores.
+Torsión en prismas de sección no circular.
+Analogía de la membrana
+Torsión en perfiles cerrados de pared delgada.
+Torsión en perfiles abiertos de pared delgada.
+Expresión del potencial interno asociado a la
+  torsión.
+
+
+Bloque Temático C: Normativa Vigente:
+  EAE-2011
+
+
+
+TEMA IX.- Bases de Proyecto.
+
+
+Verificaciones sobre el elemento. ELU y ELS.
+Material Acero.
+Criterios de Ejes y Notaciones.
+Métodos de Cálculo
+Tipos de Secciones
+
+
+
+Tema X.- ELU. Resistencia de las Secciones.
+
+
+Resistencia de las Secciones y Términos de
+  Sección
+Resistencia de las Secciones a Tracción.
+Resistencia de las Secciones a Esfuerzo Cortante.
+Resistencia de las Secciones a Compresión.
+Resistencia de las Secciones a Flexión.
+Resistencia de las Secciones a Torsión.
+Interacción de Esfuerzos
+
+
+
+Tema XI.- ELU Resistencia de las Barras
+
+
+Tracción
+Compresión
+Flexión
+Interacción de Esfuerzos
+
+
+
+Tema XII.- Estados Límite de Servicio y
+  Fatiga
+
+
+Deformaciones, Flechas y Desplome
+Vibraciones
+Fatiga
+
+Práctica I: Calculadora de Problemas de Elasticidad
+Práctica 2: Flexión Hiperestática
+Práctica 3: Clasificación de Secciones
+Práctica 4: Flexión Lateral o Pandeo
+Práctica 5: Pandeo Lateral
+'

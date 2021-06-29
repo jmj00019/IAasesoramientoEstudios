@@ -1,0 +1,66 @@
+'
+
+Sistemas de Referencia en Geodesia Espacial.
+Órbitas de Satélites Artificiales.
+GNSS: GPS, GLONASS, Galileo.
+Sistema DORIS.
+Altimetría por Satélites.
+SLR y LLR.
+VLBI.
+Geodesia Planetaria.
+Servicios Científicos de la IAG. Proyectos de
+Cooperación Internacional.
+La Geodesia Espacial y su relación con otras disciplinas
+científicas: Geodinámica, Oceanografía,
+Meteorología, etc.
+ 
+ 
+
+1. Introducción a la Geodesia Espacia: La Tierra vista
+desde el espacio, técnicas de Geodesia Espacial, SLR, GNSS,
+DORIS, altimetría por satélite, satélites y
+misiones para el estudio del campo de la gravedad
+2. Sistemas de referencia: definición y
+materialización de un sistema de referencia, sistemas de
+referencia celestes y terrestres, sistemas de referencia globales y
+locales, las redes IVS, ILRS, IGS, IDS. Transformación entre
+marcos de referencia.
+Prácticas del tema 2: Ejercicios de transformación
+entre marcos de referencia, de propagación de coordenadas en
+el tiempo y de transformación de coordenadas. 
+3. Movimiento orbital de los satélites: posición
+de los satélites, determinación de órbitas,
+efemérides.
+Prácticas tema 3:Ejercicios de cálculo de la
+posición de un satélite en un sistema de referencia
+ECEF.
+4. Sistema GNSS: GPS, Glonass, Galileo, Beidou, SBAS. Conceptos
+básicos de posicionamiento y navegación GNSS.
+5. Observables GNSS: código y fase, efectos de medida,
+simples dobles y triples diferencias.
+Prácticas tema 5: Ejercicios sobre el cálculo del
+efecto ionosférico y  troposférico 
+6. Modelos matemáticos de posicionamiento:
+posicionamiento absoluto y relativo, posicionamiento RTK, PPP.
+Prácticas tema 6: Ejercicios de posicionamiento absoluto
+y relativo
+7. Diseño de redes GNSS
+8. Análisis estadístico de redes GNSS.
+Prácticas tema 8: Ejercicios sobre el análisis
+estadístico de redes GNSS
+9.Procesado y compensación de datos GNSS: preproceso,
+proceso, ajuste de líneas de base.
+Prácticas tema 9: Procesado y compensación de una
+red GNSS 
+10. SLR: fundamentos de la técnica SLR, ecuación
+de observación, aplicaciones, productos, misiones
+11. Sistema Doris: Objetivos, red, IDS, errores
+sistemáticos, aplicaciones
+12. Altimetría por satélite: ecuación de
+observación, correcciones y precisión,
+determinación de la superficie media del mar, aplicaciones
+en Geodesia, Geofísica y Oceanografía
+13. Otras técnicas de Geodesia Espacial: INSAR y VLBI.
+Conceptos básicos, ecuaciones de observación,
+aplicaciones
+'

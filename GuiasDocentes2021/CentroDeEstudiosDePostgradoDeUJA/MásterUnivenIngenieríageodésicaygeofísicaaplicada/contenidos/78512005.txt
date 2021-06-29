@@ -1,0 +1,147 @@
+'
+
+Ingeniería Geodésica:
+· Introducción a la Ingeniería
+Geodésica.
+· Definición y objeto de la Ingeniería
+Geodésica
+Metodología.
+Instrumentación:
+· Niveles digitales para nivelación de alta
+precisión
+· Estaciones totales robotizadas
+· Sensores de satélites
+· Otros sensores
+Equipamiento auxiliar:
+· Miras invar codificadas
+· Prismas de precisión
+· Sondas meteorológicas
+· Soportes y sistemas de centrado forzado
+· Otro equipamiento complementario
+Técnicas de medición de precisión:
+· Técnica NAP
+· Técnicas de medición angular y
+distanciométrica.
+· Técnicas de medición GNSS
+Evaluación de la calidad.
+Normas técnicas.
+Sistemas automáticos de control en tiempo real.
+· Software
+· Conexiones
+· Comunicaciones
+· Sistemas de alerta
+
+
+Ingeniería
+  Geodésica. Metodología. Instrumentación:
+  Niveles digitales para nivelación de alta
+  precisión, estaciones totales robotizadas, sensores de
+  satélites, otros sensores, etc.; equipamiento auxiliar:
+  miras invar codificadas, prismas de precisión, sondas
+  meteorológicas, etc. Técnicas de medición de
+  precisión. Evaluación de la calidad. Normas
+  técnicas. Sistemas automáticos de control en tiempo
+  real. Conexión entre sensores geodésicos y
+  geotécnicos.
+
+
+ 
+
+
+
+Temario
+:
+
+Tema
+  1. 
+  Introducción a la Ingeniería
+  Geodésica.
+
+
+*
+  Definición y objeto de la Ingeniería
+  Geodésica
+
+
+*
+  Instrumentación
+
+
+*
+  Metodología
+
+
+*
+  Normas técnicas
+
+
+*
+  Sistemas automáticos de control
+
+
+Tema
+  2. 
+  Instrumentación y técnicas de
+  medición angular y
+  distanciométrica.
+
+
+*
+  Estaciones totales, estaciones totales robotizadas,
+
+
+*
+  Distanciómetros, distanciómetros
+  submilimétricos,
+
+
+*
+  Técnicas de medición de precisión.
+
+
+*
+  Equipamiento auxiliar: psicrómetros, sondas
+  meteorológicas, prismas de precisión, placas de
+  puntería, bases nivelantes,
+
+
+Tema
+  3. 
+  Instrumentación y técnicas de
+  nivelación de alta precisión.
+
+
+*
+  Niveles digitales de alta precisión
+
+
+*
+  Técnica NAP
+
+
+*
+  Señalización
+
+
+*
+  Equipamiento auxiliar: miras invar codificadas, puntales,
+  trípodes no extensibles.
+
+
+Tema
+  4. 
+  Sensores de satélites
+
+
+*
+  Receptores y antenas GNSS
+
+
+*
+  Técnicas de medición de precisión.
+
+
+*
+  Equipamiento auxiliar.
+
+'

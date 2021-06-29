@@ -1,0 +1,167 @@
+'
+
+Introducción al control de deformaciones en la
+Ingeniería
+Principios de ajuste de redes libres
+Metodología geodésica. Diseño de redes para
+control de deformaciones
+Control geodésico con monitorización
+episódica
+Control geodésico con monitorización continua
+El método de colocación aplicado al estudio de
+deformaciones
+Soluciones avanzadas y sistemas de alerta para el control en
+tiempo real en Ingeniería y Arquitectura
+Análisis específico de aplicaciones:
+metodología y resultados
+Análisis de deformaciones por métodos
+fotogramétricos terrestres y aéreos. Análisis
+de aplicaciones y resultados
+Análisis de deformaciones mediante Lídar terrestre
+(láser escáner) y aéreo. Análisis de
+aplicaciones y resultados
+Control mediante interferometría de radar (InSAR)
+ 
+ 
+
+
+
+Contenidos teóricos
+
+
+TEMA
+  1.- Introducción al control de deformaciones en la
+  ingeniería.
+   1. Introducción.
+   2. Metodología geodésica.
+   3. Metodología fotogramétrica y
+  Lídar.
+   4. Metodología InSAR.
+
+
+TEMA
+  2.- Principios de ajuste de redes libres.
+   1. Revisión de modelos matemáticos de
+  ajuste.
+   2. Ajuste con constreñimientos minimales e
+  internos.
+
+
+TEMA
+  3.- Redes para control geodésico de deformaciones.
+   1. Diseño y optimización de redes.
+   2. Problemas de diseño.
+   3. Métodos de simulación aplicados al
+  diseño de redes.
+   4. Concepto control geodésico de
+  deformaciones.
+
+
+5.
+  Control geodésico con monitorización
+  episódica y continua
+
+
+6.
+  Sistemas de alerta y soluciones avanzadas para
+  monitorización en tiempo real.
+
+
+7.
+  Propósitos del control geodésico de
+  deformaciones.
+
+
+8.
+  Pasos a seguir en el control geodésico de
+  deformaciones.
+
+
+TEMA
+  4.- Análisis de deformaciones con metodología
+  geodésica.
+   1. Principales etapas en el análisis de
+  deformaciones por métodos geodésicos.
+   2. Ajuste de una época.
+   3. Ajuste combinados.
+   4. Aplicación del test de congruencia.
+   5. Ajuste final y gráficos.
+   6. Determinación de modelos de deformación.
+   7. Análisis detallado de ejemplos de
+  aplicación.
+   8. El método de colocación aplicado al
+  control geodésico de deformaciones.
+
+
+TEMA
+  5.- Análisis de aplicaciones geodésicas.
+   1. Metodología
+   2. Instrumentación.
+   3. Resultados.
+
+
+TEMA
+  6.- Control de deformaciones mediante Interferometría
+  Radar de Satélites
+   1. Introducción
+   2. Principios y técnicas de radar
+   3. Radar de apertura real
+   4. Radar de apertura sintética
+   5. Características de las imágenes SAR
+   6. Principio de la interferometría SAR
+   7. Interferometría SAR (InSAR)
+   8. Interferometría diferencial (DInSAR)
+   9. Fuentes de error
+   10.Técnicas avanzadas
+
+
+TEMA
+  7.- Análisis de deformaciones mediante técnicas
+  fotogramétricas.
+   1. Consideraciones generales
+   2. Metodología de trabajo
+   3. Ejemplo de aplicaciones
+
+
+TEMA
+  8.- Análisis de deformaciones mediante técnicas de
+  escáner láser.
+   1. Consideraciones generales
+   2. Metodología de trabajo
+   3. Ejemplo de aplicaciones
+
+
+
+
+Contenidos
+  prácticos
+
+
+ P1. Resolución de ejercicios.
+
+
+P2.
+  Actividad práctica: Diseño de red para control de
+  deformaciones.
+
+
+P3.
+  Actividad práctica: Control de deformaciones en obras de
+  ingeniería.
+
+
+P4.
+  Trabajos sobre aplicaciones de control geodésico de
+  deformaciones en ingeniería.
+
+
+P5.
+  Análisis de deformaciones por métodos
+  fotogramétricos.
+
+
+P6.
+  Análisis de deformaciones con escáner
+  láser.
+
+'

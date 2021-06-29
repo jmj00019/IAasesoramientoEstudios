@@ -1,0 +1,65 @@
+'
+
+· Bases matemáticas de la Criptografía.
+· Cifrados de Bloques.
+· Cifrados de Flujo.
+· Funciones Hash.
+· Criptografía Asimétrica.
+· Generación de números aleatorios.
+
+
+Bases matemáticas de la Criptografía 
+  
+Teoría de la Información
+Aritmética Modular
+Curvas Elípticas
+
+Cifrados de Bloques 
+  
+Conceptos Básicos
+Algoritmos de Cifrado por Bloques
+Modos de Operación
+Criptoanálisis
+
+Cifrados de Flujo 
+  
+Cuadernos de un solo uso
+Generadores síncronos y asíncronos
+Generadores basados en algoritmos simétricos
+Algoritmos de cifrado de flujo
+
+Funciones hash 
+  
+Funciones MDC y MAC
+Familia SHA y SHA3
+Funciones de 
+    Proof of Work
+
+Esteganografía 
+  
+Métodos Esteganográficos
+Procedimientos de Estegoanálisis
+
+Criptografía Asimétrica 
+  
+Protocolo Diffie-Hellman
+RSA
+Criptografía de Curva Elíptica
+
+Generación de Números Aleatorios 
+  
+Secuencias Aleatorias y Pseudoaleatorias
+Generación de secuencias Criptográficamente
+    Aleatorias.
+
+
+Programa Práctico:
+
+Práctica 1: Algoritmos clásicos de cifrado y
+  criptoanálisis.
+Práctica 2: Aritmética modular.
+Práctica 3: Recomendaciones de cifrado.
+Práctica 4: Funciones resumen y cifrados
+  asimétricos.
+
+'

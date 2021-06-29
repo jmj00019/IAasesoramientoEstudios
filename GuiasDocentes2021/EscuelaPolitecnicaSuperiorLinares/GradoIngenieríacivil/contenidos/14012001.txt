@@ -1,0 +1,21 @@
+'
+
+Cálculo matricial de estructuras. Inestabilidad.
+Cálculo plástico. Elementos finitos.
+
+Cálculo matricial de estructuras. Inestabilidad.
+Cálculo plástico. Elementos finitos.
+Tema 1: Introducción al cálculo de estructuras
+Tema 2: Acciones en la edificación
+Tema 3: Flexión hiperestática
+Tema 4: Líneas de influencia
+Tema 5: Estructuras reticuladas
+Tema 6: Iniciación al método matricial
+Tema 7: Introducción al método de elementos
+finitos
+Tema 8: Introducción al cálculo plástico de
+estructuras.
+Tema 9: Introducción a la inestabilidad estructural
+Tema 10: Introducción al cálculo dinámico
+de estructuras.
+'

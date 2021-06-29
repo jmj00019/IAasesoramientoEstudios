@@ -1,0 +1,29 @@
+'
+
+Bloque I: Op eraciones básicas de transferencia de
+calor.
+Bloque II: Operaciones básicas de transferencia de
+materia y calor.
+
+ Bloque I: Operaciones de transferencia de calor.
+- Curva de secado.
+- Convección natural.
+- Determinación de la conductividad térmica.
+- Bomba calorimétrica.
+Seminarios:
+Transmisión de calor
+Bloque II: Operaciones básicas de transferencia de
+materia y calor. Propiedades físicas
+
+Destilación diferencial.
+Destilación por arrastre de vapor.
+Rectificación en columna de platos
+Rectificación en Columna de relleno
+Extracción líquido-líquido.
+Adsorción con carbón activo
+Índice de Refracción: Sistema Etanol-Agua
+
+Seminarios
+Representación gráfica de datos de equilibrio
+Proyecto emprendimiento
+'

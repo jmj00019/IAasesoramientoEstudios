@@ -1,0 +1,170 @@
+'
+
+Conocer las áreas de distribución (actual/real y
+potencial) de especies es una herramienta básica para su
+manejo, especialmente en el ámbito de la
+conservación. En este contexto, la asignatura se estructura
+en bloques temáticos dedicados a: generación,
+obtención y preparación de información
+georreferenciada sobre distribución de especies;
+herramientas analíticas para la generación de modelos
+de distribución o adecuación del hábitat,
+mé- todos de validación de modelos y
+presentación de resultados en formato
+cartográfico.
+
+
+
+Bloque I. Introducción a los SDMs. Conceptos
+  básicos y usos de los SDMs.
+
+- Tema 1. Introducción a los
+SDMs. Conceptos básicos y usos de los SDMs.
+
+Definición de SDM.
+Bases
+conceptuales.
+Para qué
+se utilizan actualmente.
+- Tema 2. Generación,
+obtención y preparación de información
+georreferenciada.
+Tipos de
+datos
+Diseño
+de muestreo de datos
+- Tema 3. Herramientas
+analíticas para la generación de modelos de
+distribución o adecuación del hábitat.
+Modelos de
+envoltorio
+Modelos de
+regresión
+- Tema 4. Procedimientos de
+validación de modelos y representación
+cartográfica de los resultados.
+Procedimientos
+de validación.
+
+Representación cartográfica.
+ 
+
+
+Bloque II. Generación, obtención y
+  preparación de información
+  georreferenciada
+
+                 
+   - Aspectos básicos de los datos
+georreferenciados:
+
+                              
+- Proyección (UTM, Lat/Long).
+
+                              
+- Sistemas de Referencia de Coordenadas (p. ej.: WGS, ETRS).
+   
+              
+- Fuentes de obtención de datos georreferenciados.
+
+                              
+- Bases de datos online sobre distribución de especies (p.
+ej.: GBIF).
+
+                              
+- Depuración de la base de datos.
+
+                              
+- Capas climáticas del presente, pasado y futuro (p. ej.:
+WorldClim).
+
+                              
+- Información de satélites (p. ej.: MODIS).
+
+                              
+- Modelo digital de elevaciones (p. ej.: Instituto
+Geográfico Nacional).
+
+                              
+- Usos del Suelo
+
+                   
+- Preparación de información georreferenciada
+
+                              
+- Datos de distribución.
+
+                              
+- Delimitación del marco de estudio y recorte/ajuste de
+capas raster.
+
+                              
+- Extracción de datos ambientales para cada punto de
+distribución.
+Los contenidos del bloque se impartirán en sesiones de
+informática. Cada sesión comenzará con una
+hora de teoría y seguirá con 2 horas de
+prácticas en las que se obtendrán datos de GBIF, se
+visitarán las webs fuentes de capas raster (las capas a usar
+en las prácticas se proporcionarán por el profesor
+para ahorrar tiempo, pero los alumnos verán cómo se
+accede a la información online) y se preparará un
+proyecto en QGIS para la obtención de los datos ambientales
+asociados a los datos de distribución.
+ 
+
+
+Bloque III.- Herramientas analíticas para la
+  generación de modelos de distribución o
+  adecuación del hábitat y Métodos de
+  validación de modelos.
+
+                -
+Modelos basados solo en presencias: BioClim, Domain,
+Mahalanobis.
+
+               
+- Modelos basados en presencia/ausencia (o background): GLM,
+MaxEnt, CART
+
+               
+- Métodos de crosvalidación
+
+               
+- Umbrales de predicción
+
+               
+- Matriz de confusión: sensitivity, specificity, CCR.
+
+               
+- AUC
+
+               
+- TSS
+
+               
+- Combinación de modelos: consenso, model weighting 
+and averaging
+ 
+Los contenidos del bloque se impartirán en sesiones de
+informática. Cada sesión comenzará con una
+hora de teoría y seguirá con 2 horas de
+prácticas en las que se aplicarán los modelos a los
+casos de estudio de los alumnos.
+ 
+
+
+Bloque IV.- Presentación de resultados en formato
+  cartográfico.
+
+Responsable: Julio M. Alcántara
+ 
+
+               
+- Ortoimágenes (ortofotos y Google Earth) como imagen
+aérea de la zona de estudio o de lugares de
+interés.
+
+               
+- Uso de QGIS para generar mapas.
+'

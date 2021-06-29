@@ -1,0 +1,138 @@
+'
+
+
+Procesado de
+  señal para comunicaciones es una asignatura que permite al
+  alumno adquirir conocimientos acerca de comunicaciones digitales
+  avanzados utilizadas en la mayoría de los sistemas de
+  comunicaciones digitales actuales. Los contenidos que componen
+  esta asignatura se enumeran a continuación:
+
+
+ 
+BLOQUE TEÓRICO
+
+ 1.
+Introducción a
+los sistemas de comunicaciones digitales. Ecualización de
+canal. Implementación y análisis de técnicas
+de comunicaciones digitales
+
+2.
+  Comunicaciones basadas en espectro ensanchado
+
+
+3.
+  Comunicaciones basadas en transmisión multiportadora.
+  Multiplexación por division de frecuencia ortogonal
+  (OFDM)
+
+
+4.
+Fundamentos de la
+codificación de canal.
+
+BLOQUE PRÁCTICO
+
+
+
+
+Práctica
+1. Ecualización de canal
+
+Práctica
+  2. Comunicaciones basadas en espectro ensanchado mediante
+  secuencia directa (DSSS)
+
+
+Práctica
+  3. Comunicaciones basadas en transmisión multiportadora
+  mediante OFDM
+
+
+
+SEMINARIO
+
+
+Seminario de
+MATLAB
+
+Next, the Units of the subject are detailed in the following
+sections:
+
+
+THEORY
+  AND PROBLEMS (S2-S3)
+
+
+Unit 0. Presentation of the subject
+
+
+Unit 1. Introduction to digital communication
+  systems.
+
+ 1.1
+Digital communication systems
+1.2 Modulation not using the concept
+of memory
+1.3 Modulation using the concept of
+memory
+1.4 Channel equalization
+
+Unit 2. Spread spectrum communications
+
+2.1.
+Introduction
+2.2. Spread
+spectrum communications
+2.3.
+Synchronization
+2.4. RAKE
+receiver 
+2.5. Code
+Division Multiple Access (CDMA)
+2.6. Spread
+spectrum applications
+
+Unit 3. Multicarrier communications
+
+3.1.
+Introduction
+3.2.
+Multicarrier systems
+3.3.
+Characteristics of propagation in mobile radio channels
+3.4. Orthogonal
+Frequency Division Multiplexing (OFDM)
+3.5. Coded
+Orthogonal Frequency Division Multiplexing (COFDM)
+3.6.
+Multicarrier communication standards
+
+ 4. Channel coding
+
+4.1
+Introduction
+4.2.
+Convolutional coding
+4.3.
+Reed-Solomon coding 
+
+ 
+
+PRACTICES  
+-
+Practice 1. Channel Equalization
+-
+Practice 2. Communications based on Spread Spectrum
+-
+Practice 3. Communications based on Multicarrier transmission
+
+ 
+
+SEMINARS
+
+
+-  Seminar about the use and programming with the software
+MATLAB.
+'

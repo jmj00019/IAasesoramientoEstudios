@@ -1,0 +1,33 @@
+'
+
+Introducción e importancia del transporte.
+Modos de transporte.
+Manutención industrial: transporte discontinuo y
+continuo.
+Cálculo de grúas.
+Introducción al transporte en el interior de
+edificios.
+Introducción a la ingeniería del embalaje:
+materiales, resistencia a impacto y vibraciones.
+
+1.Introducción e importancia del transporte.
+2.Modos de transporte.
+3.Manutención industrial: transporte discontinuo
+(grúas). 3.1. Elementos de suspensión. 3.2. Cables.
+3.3. Poleas, Aparejos y tambores. 3.4. Ruedas y Carriles. 3.5.
+Equipo Eléctrico 3.6. Estructura.
+4.Tipos de Grúas. 4.1. Puentes grúa. 4.2.
+Grúas pórtico. 4.3. Grúas Consola. 4.4.
+Grúas giratorias de columna. 4.5. Grúas giratorias de
+Plataforma. 4.6. Grúas Porta Contenedores. 4.7. Grúas
+Torre. 4.8. Vehículos Grúa.
+5.Manutención Industrial: transporte continuo. 5.1.
+Material a granel. 5.2. Material a granel y en bultos. 5.3.
+Carretillas industriales. 5.4. Elementos complementarios.
+6.Transporte en el interior de edificios. 6.1. Dimensionado de
+un sistema de ascensores. 6.2. Ascensores mecánicos. 6.3.
+Ascensores hidráulicos. 6.4. Otros tipos de ascensores. 6.5.
+Escaleras mecánicas. 6.6. Andenes.
+7.Flujo de tráfico, modelo de seguimiento, modelo de
+colas
+'

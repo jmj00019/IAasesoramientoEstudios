@@ -1,0 +1,34 @@
+'
+
+Hardware para servidores: placas base, procesadores,
+almacenamiento e interconexión. Instalación,
+configuración, administración y mantenimiento de
+servidores. Conexión remota. Virtualización. Centros
+de Proceso de Datos. Monitorización y Evaluación de
+prestaciones. Seguridad y normativas.
+ 
+
+Teoría:
+Tema 1. Introducción
+Tema 2. Internet. Administración y servicios
+Tema 3. Rendimiento, monitorización y
+referenciación
+Tema 4. Servidores de altas prestaciones
+Tema 5. Hardware de servidores y CPDs
+ 
+Prácticas:
+Práctica 1. Introducción a la
+administración de un servidor en Linux
+Práctica 2. Configuración avanzada del protocolo
+TCP/IP
+Practica 3. Configuración de servicios DHCP y DNS
+Practica 4. Configuración de un cortafuegos con
+IPTables
+Práctica 5. Virtualización
+Práctica 6. Configuración de servidores en
+máquinas virtuales
+Práctica 7. Contenedores
+Práctica 8. Monitorización
+Práctica 9. Referenciación
+Proyectos de prácticas
+'

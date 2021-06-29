@@ -1,0 +1,108 @@
+'
+
+Síntesis y Caracterización Estructural de
+Compuestos Orgánicos. Métodos
+espectroscópicos. Síntesis multietapa y
+caracterización estructural de los compuestos que
+intervienen en el proceso.
+
+- 
+MÓDULO TEÓRICO correspondiente a:
+Determinación estructural de compuestos orgánicos por
+métodos espectroscópicos: IR, EM, RMN, UV.
+ 
+
+Tema 1.
+  Introducción a la espectroscopía. La
+  espectroscopía Ultravioleta y visible (3 horas):
+  Introducción a la determinación estructural. El
+  espectro electromagnético. Interacción de la
+  materia con las radiaciones electromagnéticas:
+  Características generales, el ejemplo de la
+  espectroscopía ultravioleta (UV) y visible (V),
+  excitación electrónica y Reglas de
+  selección. Los espectros de absorción y de
+  emisión, el ejemplo de UV-VIS, Tipos de transiciones
+  electrónicas, Grupos cromóforos y auxocromos.
+  Espectrómetros y Resolución. Espectroscopía
+  UV-Vis: Relación estructura y espectro, conjugación
+  y efecto en el espectro.
+
+
+Tema 2. Conceptos
+  básicos de Resonancia Magnética Nuclear
+  (RMN).  (5 horas): Introducción a la RMN: El spin
+  nuclear, Estados de spin y campo magnético,
+  parámetros a tener en cuenta. Instrumentación.
+  Desplazamiento químico y factores que lo modifican.
+  Equivalencia química. La intensidad de la señales.
+  Acoplamiento spin-spin.
+
+
+Tema 3.
+  Espectroscopía Infrarroja (IR). (4 horas): Conceptos
+  básicos: Vibración de moléculas
+  diatómicas. Modos normales de vibración de
+  moléculas poliatómicas. Interacción de la
+  materia con la luz infrarroja. Instrumentación y
+  preparación de muestra. Espectros de absorción en
+  infrarrojos, frecuencias características. Factores que
+  afectan a la frecuencia característica de un grupo.
+  Regiones del espectro de IR y tipos de enlaces, análisis
+  de un espectro de IR.
+
+
+ Tema 4.
+  Profundizando en la Resonancia Magnética Nuclear (RMN). (4
+  horas): Aproximación a la RMN de "pulsos" y la
+  transformada de Fourier. La relajación: T1 y T2. Efecto
+  NOE. Espectroscopía de 13C: desplazamiento químico
+  e intensidades, determinación de la multiplicidad.
+  Quiralidad y RMN. Efectos Dinámicos en RMN.
+  Espectroscopía de RMN 2D: homonuclear y heteronuclear,
+  tipos de experimentos, como obtener información.
+
+
+Tema 5. La
+  espectrometría de masas (EM). Fundamentos y aplicaciones.
+  (3,5 h): Fundamento: discriminación de fragmentos cargados
+  en función de su relación "carga/masa". El
+  espectrómetro de masas: descripción general,
+  cámara de ionización, sistema de
+  aceleración, analizador, detector y registrador.
+  Técnicas de Ionización: CI, FAB, APCI, ESI, MALDI.
+  Procesos que ocurren en el interior de un espectrómetro de
+  masas: las fragmentaciones. El espectro de masas:
+  descripción general, elementos que lo componen y
+  terminología. La regla del nitrógeno.
+  Determinación de la fórmula molecular:
+  relación isotópica y masa exacta. Fragmentaciones
+  comunes. Como analizar un espectro de masas.
+
+
+Tema 6:
+  Sistemática en la determinación Estructural de
+  sustancias desconocidas. (0,5 h) Uso combinado de las diferentes
+  técnicas espectroscópicas-espectrométricas
+  para resolver la estructura de una sustancia. Empleo de la
+  informática.
+
+
+MÓDULO DE  SEMINARIOS y ACTIVIDADES
+ACADÉMICAMENTE DIRIGIDAS:
+
+ - Bloque I: Resolución de ejercicios y supuestos
+prácticos propuestos en relación a cada tema (17 h).
+Seminarios 1 a 8: UV, IR, RMN I, RMN II, MS y sistemática
+ - Bloque II: Empleo de herramientas informáticas para
+el análisis espectroscópico (1 h).
+
+ 
+
+
+MÓDULO DE PRÁCTICAS DE LABORATORIO
+
+- Técnicas avanzadas en síntesis orgánica.
+Síntesis multietapa y caracterización estructural de
+los compuestos que intervienen en el proceso. (20 h)
+'

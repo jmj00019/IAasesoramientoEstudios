@@ -1,0 +1,43 @@
+'
+
+NORMALIZACIÓN
+DIBUJO INDUSTRIAL
+DIBUJO ASISTIDO POR ORDENADOR.
+
+TEORÍA.
+
+Tema 1. Dibujo Industrial.- Normalización. Normas
+Generales de representación. Vistas principales. - Otras
+vistas normalizadas. - Cortes, secciones y
+roturas.         
+
+Tema 2. Normas de representación en la
+fabricación de productos industriales.- Acotación
+normalizada. - Estados superficiales. - Tolerancias de
+fabricación: tolerancias dimensionales y
+geométricas.        
+ 
+
+Tema 3. Representación convencional de elementos
+industriales normalizados. Elementos de unión desmontable:
+roscas, tornillos, tuercas y espárragos. Chavetas y
+chaveteros. Arandelas y pasadores. Ejes y árboles. Resortes.
+Elementos de unión fija: soldadura y remaches. - Otros
+elementos normalizados:cojinetes y engranajes.     
+       
+
+Tema 4. Representación de productos
+industriales.-Conjuntos.- Despieces. - Lista de
+elementos.          
+
+Tema 5: Representación de instalaciones y procesos
+industriales.   
+PRÁCTICAS.
+
+1. Dibujo asistido por ordenador.
+2. Normalización en el dibujo de piezas y mecanismos
+industriales. 
+3. Normalización en el dibujo de conjuntos.
+4. Normalización en el dibujo de instalaciones
+industriales.
+'

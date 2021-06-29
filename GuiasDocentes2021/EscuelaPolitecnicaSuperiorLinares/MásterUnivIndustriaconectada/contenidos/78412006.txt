@@ -1,0 +1,32 @@
+'
+
+
+Interconectando las M's fabriles; Men, Maquina,
+  Método, Materias Primas.
+Control en tiempo real: Desviaciones, Control de
+  averías, Control de procesos.
+Planificación: Organización eficiente del
+  tiempo real (secuenciación). Predicción en tiempo
+  real.
+Diagnóstico de la empresa.
+Roadmap hacia la industria 4.0.
+Desarrollo de personas ante los nuevos retos y
+  procedimientos.
+Gestión de proyectos.
+Herramientas Lean en la Industria 4.0.
+
+
+Tema 1: Interconectando las M's fabriles; Men, Maquina,
+Método, Materias Primas.
+Tema 2: Control en tiempo real: Desviaciones, Control de
+averías, Control de procesos.
+Tema 3: Planificación: Organización eficiente del
+tiempo real (secuenciación). Predicción en tiempo
+real.
+Tema 4: Diagnóstico de la empresa.
+Tema 5: Roadmap hacia la industria 4.0.
+Tema 6: Desarrollo de personas ante los nuevos retos y
+procedimientos.
+Tema 7: Gestión de proyectos.
+Tema 8: Herramientas Lean en la Industria 4.0.
+'

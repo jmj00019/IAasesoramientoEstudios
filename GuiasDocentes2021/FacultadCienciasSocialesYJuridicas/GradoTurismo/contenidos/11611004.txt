@@ -1,0 +1,72 @@
+'
+
+Análisis descriptivo de un conjunto de datos. Series
+temporales
+Cálculo de probabilidades. Variable aleatoria
+Estimación puntual y por intervalos
+Contrastes de hipótesis paramétricos y no
+paramétricos
+
+ 1.- Introducción a la estadística
+descriptiva.
+      1.1. Conceptos fundamentales de
+estadística descriptiva.
+      1.2 Variables estadísticas
+unidimensionales.
+             1.2.1. Tablas
+de frecuencias y representaciones gráficas.
+             1.2.2.
+Medidas de posición, dispersión y forma.
+             1.2.3.
+Medidas de concentración.
+      1.3. Introducción a la
+estadística descriptiva bidimensional.
+
+ 2.- Aspectos descriptivos de las series
+cronológicas.
+      2.1. Introducción.
+      2.2. Componentes de una serie
+cronológica.
+      2.3. Determinación de la
+tendencia.
+      2.4. Determinación de las
+variaciones estacionales.
+      2.5. Desestacionalización.
+
+ 3.- Introducción al cálculo de
+probabilidades.
+      3.1. Definición de probabilidad.
+      3.2. Probabilidad condicionada.
+      3.3.
+Independencia estocástica de sucesos.
+      3.4. Teoremas fundamentales del
+cálculo de probabilidades.
+
+ 4.- Variable aleatoria.
+       4.1. Variable aleatoria discreta.
+Definición. Función masa de probabilidad.
+       4.2. Modelos más comunes de
+distribuciones de tipo discreto.
+       4.3. Variable aleatoria continua.
+Definición. Función de densidad.
+       4.4. Modelos más comunes de
+distribuciones de tipo continuo.
+
+ 5.- Estimación puntual y por intervalos de
+confianza.
+       5.1. Introducción a la
+inferencia estadística.
+       5.2. Estimación puntual.
+       5.3. Estimación por
+intervalos de confianza.
+       5.4. Intervalos de confianza para
+medias y varianza.
+
+ 6.- Contrastes de hipótesis.
+       6.1. Definición y
+características de un contraste de hipótesis.
+       6.2. Contrastes para medias y
+varianzas.
+       6.3. Contrastes de bondad de
+ajuste.
+'

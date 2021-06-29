@@ -1,0 +1,130 @@
+'
+
+Al finalizar el curso el alumno que haya superado la asignatura
+tendrá los conocimientos teóricos necesarios y
+será capaz de resolver problemas en relación a:
+· El uso de líneas de transmisión y
+guías de ondas en régimen permanente sinusoidal.
+· El manejo de la carta de Smith y sus aplicaciones.
+· Analizar y diseñar redes de
+transformación y adaptación de impedancias.
+· La caracterización de redes de microondas
+empleando parámetros S y otros.
+· Componentes pasivos de microondas.
+· Análisis y diseño de amplificadores y
+osciladores de microondas.
+Además el alumno deberá ser capaz de manejar
+adecuadamente el Analizador Vectorial de Redes y software CAD para
+el análisis y diseño de circuitos de alta frecuencia.
+Palabras clave: Parámetros Z. Parámetros Y.
+Parámetros ABCD. Parámetros híbridos.
+Parámetros S y T. Balance de potencias en líneas de
+transmisión. Carta de Smith. Redes de adaptación.
+Atenuadores. Desfasadores. Aisladores. Inversores. Divisores.
+Circuladores. Acopladores direccionales. Híbridos.
+Amplificadores de microondas. Osciladores de microondas. Analizador
+de redes (NVA). Software de diseño asistido por ordenador
+para circuitos de microondas (CAD de Microondas).
+
+
+1. INTRODUCCIÓN A LA INGENIERÍA DE
+  MICROONDAS Y A LA TRANSMISIÓN POR SOPORTE
+  FÍSICO
+
+Introducción a la ingeniería de microondas.
+Introducción al estudio de la transmisión por soporte
+físico: Revisión de los modos TEM, TE y TM en
+líneas de transmisión y guías de ondas.
+Líneas de transmisión más comunes:
+línea bifilar, cable coaxial, biplaca paralela, stripline,
+microstrip, otras líneas de transmisión.
+Guíaondas más comunes: rectangular, circular,
+elíptica y  con resalto ('ridge'). Tecnologías
+integradas de radiofrecuencia y microondas.
+
+2. REVISIÓN DE ALGUNOS CONCEPTOS DE LA
+  TEORÍA DE CIRCUITOS: TEOREMA DE MÁXIMA
+  TRANSFERENCIA DE POTENCIA. TEORÍA DE REDES
+  BIPUERTOS
+
+Teorema de Máxima Transferencia de potencia y
+Adaptación Conjugada. Teorema de Everitt. Redes de un puerto
+de acceso (bipolo), redes de dos puertos (cuadripolo) y redes
+multipuerto. Parámetros descriptivos de un bipuerto:
+parámetros impedancia 'z', parámetros admitancia 'y',
+parámetros híbridos 'h', parámetros
+híbridos 'g', parámetros de transmisión
+directa 'ABCD'.  Topologías de interconexión de
+bipuertos y parámetros privilegiados. Propiedades de los
+redes a partir de sus matrices de admitancia e impedancia:
+pasividad, reciprocidad, simetría, pérdidas.
+Equivalente en PI y en T de bipuertos recíprocos.
+Pérdidas de transmisión e inserción en
+bipuertos pasivos.
+
+3.  TEORÍA DE LÍNEAS DE
+  TRANSMISIÓN Y CARTA DE SMITH.
+
+Características de la onda en líneas de
+transmisión terminadas. Relaciones de potencia en
+líneas de transmisión. Respuesta en frecuencia de la
+línea de transmisión. Carta de Smith. La línea
+de transmisión como elemento de circuito.   
+
+4.  TRANSFORMACIÓN Y ADAPTACIÓN DE
+  IMPEDANCIAS.
+
+Introducción a las
+técnicas de transformación y adaptación de
+impedancias. Transformación de impedancias reales en banda
+estrecha (transformador en lambda/4 y transformación de
+resistencias mediante 'L' reactiva).  Transformación de
+impedancias complejas en banda estrecha (absorción,
+resonancia, L reactiva, transformador corto, sintonizador simple,
+sintonizador con doble 'stub').  
+
+5.  ONDAS DE POTENCIA Y PARÁMETROS S. 
+  REDES DE MICROONDAS.
+
+Introducción a las redes de
+microondas. Teorema de Foster. Ondas de potencia y matriz de
+scattering 'S'.  Propiedades de la matriz de parámetros
+'S'. Matrices de transmisión de de ondas de potencia.
+Coeficientes de reflexión a la entrada y salida de un
+bipuerto de microondas. Modelado de un generador de microondas.
+Relaciones de potencia en bipuertos pasivos (pérdidas de
+retorno, pérdidas de reflexión, pérdidas de
+inserción, pérdidas de transducción).
+Relaciones de potencia en bipuertos activos (ganancia de potencia,
+ganancia disponible y ganancia de transducción). 
+Bipuertos y multipuertos pasivos de microondas (atenuador,
+desfasador, aislador, girador, inversor de inmitancias, divisores
+de potencia, circuladores,  acopladores direccionales,
+híbridos....). Introducción a los dispositivos
+activos para microondas. 
+
+
+CONTENIDOS
+  PRÁCTICOS DE LABORATORIO:
+
+
+
+PRÁCTICA 1: Desarrollo de una toolbox de
+  Matlab para la caracterización numérica de un medio
+  de transmisión guiado.
+
+PRÁCTICA 2: Introducción al uso de
+  Microwave Office y el formato Touchstone. Teoría de redes
+  bipuerto. Teorema de máxima transferencia de
+  potencia.
+
+PRÁCTICA 3: Línea de
+  transmisión 'microstrip'. Diseño y análisis
+  de redes de transformación de impedancias empleando
+  Microwave Office.
+
+PRÁCTICA 4: Circuitos pasivos de
+  microondas y su medida mediante el analizador vectorial
+  de redes.
+
+'

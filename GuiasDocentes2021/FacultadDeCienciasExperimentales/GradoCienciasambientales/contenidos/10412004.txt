@@ -1,0 +1,251 @@
+'
+
+
+Bloque
+  I. INTRODUCCIÓN A LA INGENIERÍA
+  AMBIENTAL
+
+
+Tema
+  1. La industria de procesos y el medio ambiente
+
+
+Tema
+  2. Operaciones Unitarias
+
+
+Tema
+  3. F
+  enómenos de
+  transporte
+
+ 
+
+Bloque
+  II BALANCES DE MATERIA
+
+ 
+Tema
+4. Balances de materia en sistemas sin reacción
+química
+
+Tema
+  5. Balances de materia en sistemas con reacción
+  química.
+
+ 
+
+Bloque
+  III. BALANCES DE ENERGÍA
+
+ 
+Tema
+7. Balances macroscópicos de energía en sistemas sin
+reacción química
+
+Tema
+  8. Balances macroscópicos de energía en
+  sistemas con reacción química.
+
+ 
+
+Bloque
+  IV OPERACIONES UNITARIAS DE SEPARACIÓN
+
+
+Tema
+  8 Dedimentación.
+
+
+Tema
+  9 Separación por membranas. Ósmosis inversa
+
+
+Tema
+  10 Destilación de mezclas binarias y
+  multicomponentes
+
+
+Tema
+  11 Adsorción sólido-fluido
+
+
+Tema
+  12 Absorción de gases
+
+
+
+TEMA 1:
+  Introducción a la Ingeniería Ambiental.
+
+
+1.1.
+  Definición y objetivos de la Ingeniería
+  Ambiental.
+
+
+1.2.
+  Ámbito de actuación del Graduado en Ciencias
+  Ambientales. Ejemplo.
+
+
+1.3.
+  Representación esquemática de los procesos
+  industriales.
+
+
+TEMA 2:
+  Operaciones Unitarias.
+
+
+2.1.
+  Definición y clasificación de las Operaciones
+  Unitarias.
+
+
+TEMA 3:
+  Balances de Materia. Conceptos Generales.
+
+
+3.1.
+  Principio de conservación.
+
+
+3.2. Tipos
+  de balances de materia.
+
+
+3.3.
+  Concepto y selección de base de cálculo.
+
+
+3.4.
+  Procedimiento general de resolución de problemas de
+  balances de materia.
+
+
+TEMA 4:
+  Balances de Materia en Sistemas sin Reacción
+  Química.
+
+
+4.1.
+  Balances macroscópicos de materia en estado estacionario.
+  Unidad sin reacción química.
+
+
+4.2.
+  Balances macroscópicos de materia en estado estacionario.
+  Sistemas sin reacción química.
+
+
+TEMA 5:
+  Balances de Materia en Sistemas con reacción
+  Química.
+
+
+5.1.
+  Balances macroscópicos de materia en estado estacionario.
+  Unidades con reacción química.
+
+
+5.2.
+  Balances macroscópicos de materia en estado estacionario.
+  Sistemas con reacción química.
+
+
+TEMA 6:
+  Equilibrio Líquido-Vapor.
+
+
+6.1.
+  Introducción. Fase.
+
+
+6.2.
+  Relación de equilibrio entre fases.
+
+
+6.3.
+  Equilibrio líquido-vapor.
+
+
+6.4.
+  Volatilidad relativa.
+
+
+TEMA 7:
+  Destilación.
+
+
+7.1.
+  Destilación de mezclas binarias.
+
+
+7.2.
+  Destilación simple continua de equilibrio.
+
+
+7.3.
+  Destilación de equilibrio en serie.
+
+
+7.4.
+  Destilación súbita.
+
+
+TEMA 8:
+  Balances de Energia en Sistemas sin Reacción
+  Química.
+
+
+8.1.
+  Introducción
+
+
+8.2.
+  Balances macroscópicos de energía en sistemas
+  cerrados.
+
+
+8.3.
+  Balances macroscópicos de energía en sistemas
+  abiertos.
+
+
+8.3.1.
+  Cálculos de cambios de entalpía.
+
+
+8.3.2.
+  Evaporación.
+
+
+TEMA 9:
+  Balances de Energía en Sistemas con Reacción
+  Química.
+
+
+9.1.
+  Balances macroscópicos de energía en estado
+  estacionario. Sistemas con reacción química.
+
+
+9.2. Reactor
+  de combustión.
+
+
+PRÁCTICAS:
+
+
+Práctica
+  nº 1: Determinación de los datos para la
+  realización gráfica de equilibrio
+  líquido-vapor,
+
+
+Práctica
+  nº 2: Realización de una destilación
+  diferencial.
+
+'

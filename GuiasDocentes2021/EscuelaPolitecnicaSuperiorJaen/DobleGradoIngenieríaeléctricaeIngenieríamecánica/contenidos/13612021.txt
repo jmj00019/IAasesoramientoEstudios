@@ -1,0 +1,177 @@
+'
+
+Clasificación y aplicaciones
+Máquinas térmicas volumétricas:
+análisis, caracterización y dimensionado, modelos.
+Turbomáquinas térmicas: análisis de
+transformaciones, caracterización, dimensionado, modelos
+Motores de combustión interna alternativos:
+análisis, caracterización, dimensionado, modelos.
+Motores de turbinas de gas: análisis,
+caracterización, dimensionado, modelado
+Otros motores térmicos: máquinas de vapor,
+motores Stirling, motores Wankel
+
+
+U.D.1. GENERALIDADES
+
+
+ 
+TEMA 1.- GENERALIDADES DE MÁQUINAS
+TÉRMICAS; 1.1.- Introducción,
+Clasificación y Aplicaciones; 1.2.- Tecnología y
+funcionamiento; 1.2.1.- Turbomáquinas térmicas;
+1.2.2.- Turbinas de gas; 1.2.3.- Máquinas térmicas
+volumétricas. Compresores; 1.2.4.- Máquinas
+térmicas volumétricas. Motores alternativos; 1.2.5.-
+Plantas de potencias; 1.3.- Características generales.
+Ensayos y curvas; 1.3.1.- Ensayos; 1.3.2.- Características
+en Máquinas térmicas; 1.3.3.- Características
+en Motores térmicos y plantas de potencia; 1.3.3.1.- Curvas
+características de motores alternativos; 1.3.3.2.- Curvas
+características de turbinas de gas; 1.3.3.3.- Curvas para
+plantas de potencia; 1.4.- Contaminación
+
+ 
+TEMA 2.- MODELADO EN MÁQUINAS
+TÉRMICAS; 2.1.- Aspectos generales; 2.1.1.-
+Modelado matemático; 2.1.2.- Clasificación de
+modelos; 2.1.3.- Validación de modelos.
+Identificación de parámetros; 2.2.-
+Utilización de curvas características de
+funcionamiento en estado estacionario para propósitos de
+diagnóstico y predicción; 2.2.1.- Modelos predictivos
+en sistemas donde se involucra trabajo; 2.2.2.- Sistemas que
+incluyen energía calorífica; 2.3.- Propiedades
+termofísicas; 2.4.- Modelado de flujo de gases; 2.4.1.-
+Modelos de valor medio; 2.4.2.- Modelos de llenado y vaciado;
+2.4.3.- Flujo unidimensional en conductos; 2.5.- Modelado de
+transformaciones y ciclos termodinámicos; 2.5.1.-
+Análisis de ciclos termodinámicos en modelos
+cerodimensionales o cuasidimensionales; 2.5.2.- Modelos
+físicos dimensionales (CFD); 2.6.- Combustión;
+2.6.1.- Estequimetría; 2.6.2.- Reacciones en equilibrio;
+2.6.3.- Cinética de las reacciones; 2.6.4.- Temperatura de
+llama y rendimiento de la combustión; 2.7.- Pérdidas
+de calor; 2.8.- Cinemática y dinámica de
+máquinas; 2.8.1.- Cinemática del mecanismo
+biela-manivela en máquinas con movimiento alternativo;
+2.8.2.- Principales pares transmitidos a lo largo de la cadena
+cinemática de la máquina alternativa; 2.8.3.-
+Dinámica de rotores; 2.8.4.- Pares transmitidos por la
+cadena cinemática flexible
+ 
+
+U.D. 2.- MÁQUINAS TÉRMICAS
+  VOLUMÉTRICAS
+
+  
+TEMA 3.- MOTORES DE COMBUSTIÓN INTERNA
+ALTERNATIVOS; 3.1. Introducción; 3.1.1.-
+Geometría; 3.1.2.- Ciclos operativos; 3.1.3.- Propiedades
+del fluido operante.; 3.2.- Ciclos teóricos; 3.2.1.- Ciclo
+ideal OTTO; 3.2.2.- Ciclo ideal DIESEL; 3.2.4.- Ciclo ideal mixto o
+de SABATHE; 3.2.5.- Otros ciclos ideales; 3.2.6.- Ciclos de aire
+equivalente y aire-combustible; 3.3.- Parámetros
+principales; 3.3.1.- Potencias y presiones medias; 3.3.2.-
+Rendimientos; 3.3.3.- Curvas características; 3.4.-
+Renovación de la carga; 3.4.1.- Coeficientes y Rendimientos;
+3.5.- Requerimientos de mezcla; 3.5.1.- Motores de encendido
+provocado; 3.5.2.- Motores de encendido por compresión;
+3.6.- Combustión; 3.6.1.- Motores de encendido provocado;
+3.5.2.- Motores de encendido por compresión; 3.8.-
+Pérdidas; 3.9.- Sobrealimentación
+
+ 
+TEMA 4.- COMPRESORES VOLUMÉTRICOS; 4.1.-
+Introducción; 4.2.- Compresores alternativos; 4.2.1.-
+Diagrama p-V; 4.2.2.- Influencia del espacio perjudicial en la
+potencia y tamaño del compresor; 4.2.3.- Rendimiento
+volumétrico; 4.2.4.- Potencias y rendimientos; 4.2.5.-
+Compresión en varias etapas; 4.2.6.- Regulación de
+los compresores alternativos; 4.3.- Compresores rotativos; 4.3.1.-
+Compresores de paletas; 4.3.2.- Compresor de rodillo; 4.3.3.-
+Compresores de tornillo; 4.3.4.- Compresores tipo Roots; 4.3.5.-
+Compresor frigorífico rotativo tipo Scroll; 4.3.6.-
+Regulación de los compresores volumétricos
+rotativos.
+
+ 
+TEMA 5.- OTRAS MÁQUINAS
+VOLUMÉTRICAS; 5.1.- Introducción; 5.2.-
+Motor rotativo Wankel; 5.3.- Motor Stirling; 5.4.- Máquina
+de vapor; 5.5.- Motor de aire
+
+ 
+ 
+
+UD. 3.- MÁQUINAS TÉRMICAS BASADAS EN
+  TURBOMÁQUINAS
+
+  
+TEMA 6.- TURBOMÁQUINAS TÉRMICAS;
+6.1.- Introducción; 6.2.- Dirección del flujo en el
+rodete de una turbomáquina.; 6.3.- Transformación de
+energía mecánica y de fluido en el rodete; 6.4.-
+Deducción de la ecuación de Euler para las
+turbomáquinas motoras; 6.5.- Deducción de la
+ecuación de Euler para las turbomáquinas generadoras;
+6.6.- Grado de reacción de un escalonamiento de una
+turbomáquina; 6.7.- Casos característicos de
+turbomáquinas; 6.7.1.- Turbinas axiales; 6.7.2.- Turbina
+centrípeta; 6.7.3.- Turbocompresor axial; 6.7.4.- Compresor
+centrífugo; 6.8.- Escalonamientos en las
+turbomáquinas; 6.8.1.- Escalonamientos en las turbinas;
+6.8.2.- Relación entre el rendimiento de un escalonamiento y
+el del conjunto de la máquina; 6.8.3.- Escalonamientos en
+los turbocompresores; 6.9.- Estudio termodinámico del
+escalonamiento de acción; 6.9.1.- Escalonamiento de
+acción con presión constante en el rotor; 6.9.2.-
+Escalonamiento de acción con entalpía constante en el
+rotor; 6.9.3.- Escalonamientos de velocidad; 6.10.- Estudio
+termodinámico del escalonamiento de reacción;
+6.10.1.- Escalonamiento de grado de reacción 0,5 con
+recuperación de la velocidad de salida; 6.10.3.-
+Álabes torsionados; 6.10.4.- Otros números
+adimensionales empleados en el estudio de las turbomáquinas;
+6.10.5.- Consideraciones generales sobre el empleo de los
+diferentes escalonamientos; 6.11.- Curvas características y
+regulación de las turbomáquinas
+
+ 
+TEMA 7.- TURBINAS DE GAS; 7.1.-
+Introducción; 7.2.- Turbinas de gas para usos industriales.
+ciclos simples y avanzados; 7.2.1.- Ciclo teórico simple;
+7.2.2.- Ciclo teórico regenerativo; 7.2.3.- Ciclo
+teórico con postcombustión; 7.2.4.- Ciclo
+teórico con refrigeración intermedia; 7.2.5.- Ciclo
+teórico regenerativo con refrigeración intermedia y
+postcombustión; 7.2.6.- Ciclos reales; 7.3.- Motores de
+reacción; 7.3.1.- Motores cohete; 7.3.2.- Aerorreactores; 
+7.3.2.1.- Potencias y rendimientos. Empuje; 7.3.2.2.-
+Transformaciones termodinámicas; 7.4.-
+Combustión; 7.5.- Regeneradores; 7.6.- Curvas
+características. Pérdidas y regulación
+
+TRABAJOS
+  DIRIGIDOS (incorporan prácticas y trabajo de
+  modelado)
+
+
+
+Curvas
+    características en máquinas
+    volumétricas
+
+
+Modelos
+    termodinámicos de máquinas
+    volumétricas
+
+
+Modelos
+    y características en sistemas que integran
+    turbomáquinas
+
+
+'

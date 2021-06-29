@@ -1,0 +1,138 @@
+'
+
+
+MECÁNICA.
+FENÓMENOS ONDULATORIOS.
+
+
+
+Contenidos
+  Teóricos:
+
+
+ BLOQUE
+  I: MECÁNICA
+
+
+Tema 1.-
+  INTRODUCCIÓN. La Física y sus métodos.
+  Magnitudes escalares y vectoriales. Álgebra vectorial.
+  Vectores deslizantes. Derivada de un vector.
+  Representación vectorial de las superficies. Teoría
+  elemental de campos
+
+
+Tema 2.-
+  CINEMÁTICA DE LA PARTÍCULA Vector de
+  posición. Vector velocidad. Vector aceleración.
+  Componentes intrínsecas de la aceleración.
+  Clasificación de los movimientos. Composición de
+  movimientos. Movimiento relativo.
+
+
+Tema 3.-
+  DINÁMICA DE LA PARTÍCULA. Leyes de Newton. Cantidad
+  de movimiento y momento angular: leyes de conservación.
+  Fuerzas de rozamiento.
+
+
+Tema 4.-
+  TRABAJO Y ENERGÍA. Trabajo realizado por una fuerza.
+  Potencia. Trabajo y energía cinética. Fuerzas
+  conservativas. Energía potencial. Principio de
+  conservación de la energía mecánica. Fuerzas
+  no conservativas.
+
+
+Tema 5.-
+  DINÁMICA DE LOS SISTEMAS DE PARTÍCULAS. Fuerzas
+  interiores y exteriores. Centro de masas. Cantidad de movimiento
+  y momento cinético: teoremas de
+  conservación. Sistema de referencia del centro de
+  masas. Energía cinética de un sistema de
+  partículas. Colisiones.
+
+
+Tema 6.-
+  MECÁNICA DEL SÓLIDO RÍGIDO. Concepto de
+  sólido rígido. Cinemática del sólido
+  rígido. Dinámica de rotación del
+  sólido rígido. Momentos de inercia: cálculo.
+  Momento angular. Energía cinética de
+  rotación.
+
+
+Tema 7.-
+  EQUILIBRIO ESTÁTICO Y ELASTICIDAD Condiciones de
+  equilibrio. Centro de gravedad. Esfuerzo y deformación.
+  Módulos de elasticidad. Tema 8.- FLUIDOS Densidad.
+  Presión en un fluido. Principio de Arquímedes.
+  Dinámica de fluidos ideales. Viscosidad.
+
+
+BLOQUE
+  II: FENÓMENOS ONDULATORIOS
+
+
+Tema 9.-
+  MOVIMIENTO OSCILATORIO. Fuerzas de recuperación
+  elástica. Cinemática y dinámica del
+  movimiento armónico simple. Energía de un oscilador
+  armónico. Ejemplos de osciladores. Oscilaciones
+  amortiguadas. Oscilaciones forzadas y resonancia.
+
+
+Tema
+  10.- MOVIMIENTO ONDULATORIO. Concepto de onda. Tipos de ondas.
+  Ecuación de ondas. Ondas armónicas. Intensidad y
+  absorción. Fenómenos de interferencias. Ondas
+  estacionarias.
+
+
+ Contenidos
+  Prácticos:
+
+
+Se
+  realizarán: Un seminario de Introducción a la
+  Teoría de la Medida y prácticas de laboratorio
+  seleccionadas de la siguiente lista:
+
+
+1.-
+  Estudio del péndulo simple
+
+
+2.-
+  Movimiento circular.
+
+
+3.-
+  Momento de inercia de un cuerpo: Péndulo de
+  torsión.
+
+
+4.-
+  Péndulo balístico.
+
+
+5.-
+  Plano inclinado
+
+
+6.-
+  Estudio de la constante elástica de un resorte
+
+
+7.-
+  Conservación de la energía mecánica
+
+
+8.-
+  Composición de momentos de torsión.
+
+
+9.-
+  Estática
+
+'

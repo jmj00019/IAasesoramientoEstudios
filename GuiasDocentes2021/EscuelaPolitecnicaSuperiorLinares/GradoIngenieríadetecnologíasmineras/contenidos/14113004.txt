@@ -1,0 +1,54 @@
+'
+
+- Orientación en el espacio de elementos
+geológicos.
+- Interpretación de Mapas Geológicos.
+Realización de Cortes y Columnas Geológicas.
+- Análisis Regional a partir de Mapas
+Geológicos.
+- Fotogeología.
+
+
+
+
+
+Bloque I: Análisis Geológico
+Regional: Se analizará la geología de
+distintas regiones y estilos tectónicos a partir de
+cartografías geológicas publicadas por el Instituto
+Geológico y Minero. Se realizarán distintos
+itinerarios de campo donde poder analizar in situ estas estructuras
+y deducir las unidades geológicas del subsuelo.
+
+Bloque II: Fotointerpretación
+Geológica. Introducción a la
+Fotogeología. Visión estereoscópica.
+Mediciones en fotografías aéreas. Aplicaciones a la
+Ingeniería de Minas (interpretación
+litológica, tipos de contactos, estructuras
+geológicas, localización de fracturas y de
+yacimientos minerales) y aplicaciones a la Ingeniería Civil
+(localización de deslizamientos, estudio de redes
+hidrográficas).
+
+Bloque III:  
+Trabajo de Campo. Estudios litológicos en
+campo. Columnas estratigráficas, secciones geológicas
+y paneles de correlación. Técnicas de muestreo para
+el posterior tratamiento en laboratorio.
+
+Bloque IV. Análisis de las distintas técnicas
+de estudio indirecto del subsuelo y su aplicación a la
+resolución de problemas geológicos.
+Introducción a las distintas técnicas de estudio.
+Análisis de campo de ejemplos directamente relacionados con
+la Ingeniería de Minas (investigación de yacimientos
+minerales, localización de acuíferos), con la
+Ingeniería Civil (estudio de deslizamientos, subsidencias,
+localización de huecos...) o con el Medio Ambiente
+(intrusiones marinas, contaminación de niveles
+acuíferos...). Estudio geológico de los
+afloramientos, toma de datos en campo e interpretación de
+resultados en gabinete. Manejo de software de medida y procesado.
+Elaboración de informes de trabajo de campo.
+'

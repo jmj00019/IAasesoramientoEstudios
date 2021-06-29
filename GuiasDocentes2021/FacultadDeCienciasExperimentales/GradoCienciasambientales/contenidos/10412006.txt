@@ -1,0 +1,135 @@
+'
+
+
+BLOQUE
+  1. TRATAMIENTO DE AGUAS RESIDUALES
+
+
+Unidad
+  1. Contaminación y calidad de las aguas
+
+
+Unidad
+  2. Tratamientos físicos y químicos de aguas
+  residuales
+
+
+Unidad
+  3. Tratamiento biológico de aguas residuales
+
+
+Unidad
+  4. Tratamiento y valoración de fangos
+
+
+BLOQUE
+  2. TRATAMIENTO DE EFLUENTES GASEOSOS
+
+
+Unidad
+  5. Contaminantes y fuentes de contaminación
+  atmosférica
+
+
+Unidad
+  6. Control de partículas
+
+
+Unidad
+  7. Depuración de gases por transferencia de materia
+
+
+Unidad
+  8. Control de óxidos de azufre, óxidos de
+  nitrógeno y compuestos volátiles
+
+ 
+
+
+BLOQUE
+  1. TRATAMIENTO DE AGUAS RESIDUALES
+
+
+
+TEMA 1. Contaminación y calidad de las
+  aguas:  Tipos de aguas residuales. Tratamiento de
+  aguas residuales.
+
+
+
+TEMA 2. Tratamientos físicos y químicos de
+  las aguas residuales:  Plantas de
+  potabilización. Aireación. Coagulación.
+  Floculación. Sedimentación. Filtración.
+  Cloración.
+
+
+
+TEMA 3. Tratamientos biológicos de las aguas
+  residuales: Caracteristicas básicas de las
+  aguas residuales urbanas.Procesos biológicos de
+  depuración. Diseño de una estación
+  depuradora de aguas residuales.
+
+
+
+TEMA 4. Tratamiento y valoración de
+  fangos:  Espesado de fangos. Estabilización
+  y acondicionamiento. Deshidratación.
+
+
+ 
+
+
+BLOQUE
+  2. TRATAMIENTOS DE EFLUENTES GASEOSOS.
+
+
+
+TEMA 5. Contaminantes y fuentes de contaminación
+  atmosférica: Conceptos fundamentales sobre
+  contaminación atmosférica. Clasificación de
+  las fuentes de contaminación atmosférica.
+  
+
+
+
+TEMA 6. Control de
+  partículas: Caracteristicas y principales
+  contaminantes atmosféricos. Evaluación de la
+  calidad del aire. Efectos de los contaminantes atmoféricos
+  en los seres vivos y las cosas.
+
+
+
+TEMA 7. Depuración de gases por transferencia de
+  materia: Velocidad terminal de sedimentación. Ley
+  de Stokes. Cámaras de sedimentación. Ciclones.
+  Precipitadores electrostáticos. Equipos de
+  filtración. Lavadores de gases.
+
+
+
+TEMA 8. Control de óxidos de azufre, óxidos
+  de nitrógeno y compuestos
+  volátiles:   Control de óxidos
+  de azufre y nitrógeno. Incineración para el control
+  de compuestos orgánicos volátiles.
+
+
+ Prácticas:
+
+
+Práctica
+  nº 1: Realización de coagulación y
+  floculación y determinación del pH, la turbidez, la
+  conductividad y la DBO7 en un agua residual urbana.
+
+
+Práctica
+  nº 2: Realización de una absorción
+  física y tres con reacción química de CO 
+  2.
+
+ 
+'

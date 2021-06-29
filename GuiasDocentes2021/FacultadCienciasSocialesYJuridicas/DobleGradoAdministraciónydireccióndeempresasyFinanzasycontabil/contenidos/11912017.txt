@@ -1,0 +1,166 @@
+'
+
+
+Modelo lineal general.
+Extensiones.
+Especificación del modelo.
+Heterocedasticidad.
+Autocorrelación.
+
+
+
+1.
+  Introducción a los modelos econométricos
+
+
+
+Concepto
+    de Econometría
+
+
+E
+l
+  método econométrico
+
+M
+odelos
+  econométricos
+
+
+2.
+  Modelo de regresión lineal general
+
+
+
+Planteamiento
+    del modelo
+
+
+Estimación
+    mínimo-cuadrática
+
+
+Propiedades del
+    los estimadores MCO
+
+
+Bondad del
+    ajuste
+
+
+Estimación
+    por intervalos
+
+
+Contrastes de
+    hipótesis
+
+
+Predicción
+
+
+
+3. Extensiones del
+  MLG
+
+
+
+Extensión
+    a modelos linealizables
+
+
+Regresión
+    con variables ficticias
+
+
+Introducción a
+    los modelos lineales generalizados
+
+
+
+4. Selección
+  del modelo
+
+
+
+Errores de
+    especificación
+
+
+Construcción de
+    un modelo
+
+
+
+5. Violación
+  de los supuestos básicos: perturbaciones no
+  esféricas
+
+
+
+Estimación
+    mínimo-cuadrática generalizada.
+    Propiedades
+
+
+Intervalos de
+    confianza y contrastación de hipótesis
+
+
+
+6.
+  Heterocedasticidad
+
+
+
+Naturaleza del
+    problema. Causas y consecuencias de la
+    heterocedasticidad
+
+
+Detección
+    de la heterocedasticidad
+
+
+Soluciones al
+    problema de la heterocedasticidad
+
+
+
+7.
+  Autocorrelación
+
+
+
+Naturaleza del
+    problema. Causas y consecuencias de la
+    autocorrelación
+
+
+Detección
+    de la autocorrelación
+
+
+Soluciones al
+    problema de la autocorrelación
+
+
+
+8.
+  Multicolinealidad
+
+
+
+Naturaleza de la
+    multicolinealidad
+
+
+Detección
+    de la multicolinealidad
+
+
+Soluciones al
+    problema de la multicolinealidad
+
+
+'

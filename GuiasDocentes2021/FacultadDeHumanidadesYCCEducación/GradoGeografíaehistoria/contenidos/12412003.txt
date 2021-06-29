@@ -1,0 +1,45 @@
+'
+
+- Conocimiento de las bases conceptuales y metodológicas
+de la Geografía Física. Fuentes y métodos.
+- Conocimiento y análisis de los elementos
+abióticos del territorio.
+- Conocimiento de los factores que inciden en los elementos
+abióticos y de las relaciones que se producen entre ellos a
+distintas escalas.
+- Conocimiento de las fuentes y técnicas necesarias para
+el análisis de los elementos abióticos del
+territorio.
+
+
+- Cimatología.
+  Radiación solar. Presión y vientos.
+  Circulación general de la atmósfera. Mapas
+  meteorológicos. Clasificaciones climáticas. Riesgos
+  climáticos. Representación
+  cartográfica.
+
+
+- Geomorfología.
+  Geomorfología estructural. Geomorfología
+  dimámica y climática. Grandes dominios
+  geomorfológicos. Riesgos geológicos
+  y geomorfológicos. Representación
+  cartográfica.
+
+
+- Hidrología. Factores
+  determinantes del funcionamiento hídrico.
+  Hidrología continental y marina. Grandes dominios
+  hidrológicos. Riesgos hidrológicos.
+  Representación cartográfica.
+
+
+- La concepción integrada
+  de los componentes abióticos de la Geografía
+  Física. El geosistema. Paisaje
+  y Geografía Física global. Introducción
+  al estudio teórico y aplicado del
+  paisaje.   
+
+'

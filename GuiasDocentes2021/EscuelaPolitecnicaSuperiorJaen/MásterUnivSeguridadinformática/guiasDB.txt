@@ -1,0 +1,12 @@
+(77216001,'Trabajo fin de Máster','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77216001/es/2020-21-77216001_es.html'),
+(77212009,'Seguridad de los dispositivos de control industrial','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212009/es/2020-21-77212009_es.html'),
+(77212004,'Protocolos de seguridad','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212004/es/2020-21-77212004_es.html'),
+(77212005,'Criptografía avanzada','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212005/es/2020-21-77212005_es.html'),
+(77212010,'Ingeniería inversa y análisis de malware','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212010/es/2020-21-77212010_es.html'),
+(77212007,'Aplicaciones seguras en la nube','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212007/es/2020-21-77212007_es.html'),
+(77212008,'Hacking ético','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212008/es/2020-21-77212008_es.html'),
+(77212006,'Seguridad en las redes','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212006/es/2020-21-77212006_es.html'),
+(77215001,'Prácticas de empresa','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77215001/es/2020-21-77215001_es.html'),
+(77212003,'Identidad digital','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212003/es/2020-21-77212003_es.html'),
+(77212002,'Detección de intrusiones','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212002/es/2020-21-77212002_es.html'),
+(77212011,'Auditoría del software','50','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/4/772A/77212011/es/2020-21-77212011_es.html')

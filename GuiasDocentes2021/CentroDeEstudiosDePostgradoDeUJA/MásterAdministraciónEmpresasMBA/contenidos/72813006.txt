@@ -1,0 +1,16 @@
+'
+
+1. Introduction to firm valuation.
+2. Firm valuation and market efficiency
+3. DCF Valuation models
+4. Multiple Valuation models
+5. Real option models
+
+
+Introducción a la valoración de empresas
+Valoración por DFC (Generalidades)
+Las tasas de descuento
+Estimación de FC futuros
+Valoración por múltiplos
+
+'

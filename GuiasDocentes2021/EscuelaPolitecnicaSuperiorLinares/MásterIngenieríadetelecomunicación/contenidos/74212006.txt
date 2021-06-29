@@ -1,0 +1,223 @@
+'
+
+
+Historia de los Circuitos Digitales Configurables
+Introducción al Diseño con FPGA
+Teoría básica sobre FPGAs
+Tecnologías de las FPGAs
+Etapas de diseño con FPGAs
+Arquitectura de las FPGAs de la familia Cyclone de
+  Altera
+Introducción al método de diseño de
+  sistemas digitales con FPGAs
+Acoplamiento entre FPGAs y otros componentes, circuitos y
+  sistemas
+Diseño síncrono con FPGAs
+Aplicaciones de las FPGAs
+Introducción al diseño de sistemas digitales
+  complejos
+Sincronización de las entradas
+Análisis de retardos de sistemas digitales
+Tutorial de diseño con FPGAs en la herramientas
+  Quartus II de Altera
+Técnicas avanzadas de diseño
+
+ 
+
+History Configurable Digital Circuits
+Introduction to FPGA Design
+Basic theory on FPGAs
+FPGA Technology
+Stages of design with FPGAs
+Architecture of FPGAs Altera Cyclone family
+Introduction to the design method of digital systems with
+  FPGAs
+Coupling between FPGAs and other components, circuits and
+  systems
+Synchronous Design with FPGAs
+Applications of FPGAs
+Introduction to the design of complex digital systems
+Sync entries
+Analysis of delays of digital systems
+Tutorial Design with FPGAs in Altera Quartus II tools
+Advanced Design Techniques
+
+ 
+
+
+Historia de los Circuitos Digitales Configurables
+Introducción al Diseño con FPGA 
+  
+Introducción
+Antecedentes de los CDCs (PLDs)
+Definición y clasificación de los Circuitos
+    Digitales Configurables
+Características generales
+Fases del diseño con CDCs
+Ventajas de los CDCs
+Aplicaciones
+
+Teoría básica sobre FPGAs 
+  
+Introducción a las FPGAs
+Arquitecturas de las FPGAs
+Recursos lógicos 
+    
+Bloques lógicos internos básicos
+Bloques de entrada / salida
+Circuitos dedicados
+
+Recursos de interconexión 
+    
+Líneas de interconexión
+Conexiones configurables
+
+Características de las FPGAs
+
+Tecnologías de las FPGAs 
+  
+Introducción
+Memoria de configuración
+Tecnología de configuración 
+    
+Tecnología de memoria pasiva EEPROM
+Tecnologías de memoria activa SRAM
+Tecnologías de antifusible
+
+Métodos de configuración
+Comparativa
+Comprobación de las FPGAs
+
+Etapas de diseño con FPGAs 
+  
+Introducción
+Etapas de diseño y realización de un sistema
+    digital mediante FPGAs
+Descripción del diseño
+Compilación y síntesis
+Implementación
+Programación del circuito
+Verificación
+Herramientas CAD
+
+Arquitectura de las FPGAs de Ia familia Cyclone de Altera 
+  
+Introducción
+Subfamilias de la familia Cyclone
+Arquitectura básica
+Recursos lógicos internos
+Circuitos de reloj
+Recursos de entrada/salida (E/S)
+Recursos de interconexión
+Subfamilia Cyclone II
+Otras características comunes
+Características eléctricas y temporales
+Normas de diseño
+
+Introducción al método de diseño de
+  sistemas digitales con FPGAs 
+  
+Introducción
+Diseño de sistemas digitales
+
+Acoplamiento entre FPGAs y otros componentes. circuitos y
+  sistemas 
+  
+Introducción
+Interruptores y pulsadores
+LEDs
+Visualizadores de 7 segmentos
+Circuitos 
+    
+Buses de 3 estados
+Temporizadores
+Convertidor D/A
+Convertidor A/D
+Memorias
+Microprocesadores y microcontroladores
+
+Interfaces de comunicaciones
+
+Diseño síncrono con FPGAs 
+  
+Introducción
+Normas de diseño de S.S.S. con FPGAs
+Transitorios de salidas
+Herramientas de ayuda
+
+Aplicaciones de las FPGAs 
+  
+Ámbito de aplicación
+Campos de aplicación
+Tipos de circuitos implementados
+Características de las FPGAs
+Ejemplos de aplicación real
+Análisis de aplicaciones
+
+Introducción al diseño de sistemas digitales
+  complejos 
+  
+Introducción
+Análisis previo
+Aplicaciones de las FPGAs
+Sistemas complejos
+Método sistemático de diseño
+Contrate del método sistemático de
+    diseño
+Elección del flanco activo de reloj
+
+Sincronización de las entradas 
+  
+Introducción
+Sincronización de las variables de entrada 
+    
+Variables asíncronas independientes
+Detección de flancos
+Variables asíncronas relacionadas
+Variables con señal de reloj propia
+Variables autosincronizadas
+
+S.S.S. con diferentes relojes
+Detección de pulsos cortos
+
+Análisis de retardos de sistemas digitales 
+  
+Introducción
+Tipos de retardos
+Informes de retardos
+Análisis de retardos 
+    
+Retardos de un S.S.S. de control
+Ejemplos de cálculo de retardos de sistemas
+      digitales
+
+
+Tutorial de diseño con FPGAs en la herramientas
+  Quartus II de Altera 
+  
+Introducción
+Creación de proyectos
+Descripción mediante VHDL
+Visor RTL
+Biblioteca de Altera. Componentes parametrizables
+Compilación. Síntesis. Visor de bajo
+    nivel
+Simulación funcional
+Implementación
+Simulación temporal
+Prueba de la placa
+Programación del circuito
+
+Técnicas avanzadas de diseño 
+  
+Introducción
+Diseño de sistemas digitales: 
+    
+Diseño jerárquico. Compilación
+      incremental
+Diseño trasladable a otras tecnologías
+
+
+
+ 
+'

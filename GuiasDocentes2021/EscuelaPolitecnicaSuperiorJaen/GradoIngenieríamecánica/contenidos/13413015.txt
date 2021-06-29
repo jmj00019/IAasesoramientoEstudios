@@ -1,0 +1,127 @@
+'
+
+Topografía
+Introducción a la Topografía y Geodesia.
+Introducción a la Cartografía.
+Incertidumbre de las medidas topográficas.
+Instrumentos topográficos.
+Métodos topográficos: planimetría y
+altimetría.
+Materiales de construcción
+Aceros de construcción. Clasificación.
+El cemento. Proceso de fabricación.
+Fabricación de hormigones. Tipos.
+Ensayos en hormigones.
+Cerámicas convencionales. Proceso de
+fabricación.
+La madera. Tipos. Ensayos. Propiedades mecánicas
+
+  
+
+
+CONTENIDOS DESARROLLADOS
+
+
+
+TEORÍA  
+
+
+
+BLOQUE I: TOPOGRAFÍA
+
+
+Tema 1.- INTRODUCCIÓN A LA
+TOPOGRAFÍA. Conceptos fundamentales. Representación
+de superficies topográficas. Sistema de planos acotados.
+Geodesia. Sistemas de Referencia. Ángulos y distancias.
+Cálculo y transformación de coordenadas.
+Tema 2.- PRINCIPIOS FUNDAMENTALES. La
+Tierra: figura y dimensiones. Proyecciones
+cartográficas.
+Tema 3.- TEORÍA DE ERRORES.
+Introducción. Clasificación de errores. Medidas
+directas.
+Tema 4.- INSTRUMENTOS
+TOPOGRÁFICOS. Instrumentación expedita. Instrumentos
+topográficos. Elementos comunes. Niveles. Medida indirecta
+de distancias. Teodolitos-taquímetros. Medida
+electrónica de distancias.
+Tema 5.- MÉTODOS
+TOPOGRÁFICOS. Métodos planimétricos.
+Métodos altimétricos.
+ 
+
+
+
+BLOQUE II: MATERIALES DE CONSTRUCCION
+
+
+ 
+Tema 6.- MATERIALES DE
+CONSTRUCCIÓN. Concepto de material de construcción.
+Evolución. La calidad de los materiales de
+construcción y su control. Materiales de construcción
+sostenible y aplicaciones.
+Tema 7.- MADERA. Introducción.
+Estructura y propiedades. Tratamientos. Proceso de
+fabricación. Durabilidad. Ensayos. Aplicaciones.
+Tema 8.- MATERIALES CERÁMICOS.
+Introducción. Aspectos generales. Clasificación.
+Propiedades mecánicas y térmicas. Formas comerciales,
+descripción y propiedades. Ladrillos. Tejas. Azulejos y
+Gres. Refractarios. Vidrios. Defectos y alteraciones. Ensayos.
+Tema 9.- METALES Y ALEACIONES.
+Introducción. Generalidades y propiedades. Procesado de
+materiales metálicos. Fundiciones. Aceros. Aluminio y sus
+aleaciones. Cobre y sus aleaciones. Oxidación y
+corrosión. Protección frente a la
+corrosión.
+Tema 10.- CEMENTO Y HORMIGON.
+Introducción. Cemento Portland. Tipos de cementos.
+Clasificaciones. Producción. Propiedades mecánicas.
+Durabilidad. Aglomerantes. Aditivos. Clasificaciones y tipos.
+Hormigón. Mezclas y producción. Hormigones
+especiales. Deterioro y su prevención. Inspección y
+ensayos.
+Tema 11.- MATERIALES BITUMINOSOS.
+Introducción. Naturaleza. Componentes de los materiales
+bituminosos. Viscosidad, rigidez y deformación. Resistencia,
+fallo y durabilidad. Producción. Inspección y
+control. Aplicaciones.
+Tema 12.- MATERIALES
+POLIMÉRICOS. Conceptos. Clasificación. Procesado de
+materiales plásticos. Fabricación. Propiedades
+mecánicas y térmicas. Degradación y
+durabilidad. Inspección y ensayos. Criterios de
+selección y diseño. Aplicaciones.
+
+
+PRÁCTICAS  
+ 
+1.- Práctica 1 - Cálculo y transformación
+de coordenadas.
+2.- Práctica 2 - Definición de proyecciones
+cartográficas.
+3.- Práctica 3 - Puntos y observación de
+ángulos y distancias.
+4.- Práctica 4 - Cálculo de áreas y
+distancias indirectas. Nivelación geométrica.
+5.- Práctica 5 - Radiación, Intersecciones e
+Itinerarios. 
+6.- Práctica 6 - Determinación del tamaño
+de partícula.
+7.- Práctica 7 - Análisis granulométrico de
+áridos.
+8.- Práctica 8 - Caracterización de ladrillos.
+9.- Práctica 9 - Aglomerantes y conglomerantes.
+10.- Práctica 10 - Determinación de la densidad
+aparente del cemento.
+11.- Práctica 11 - Método de ensayo de cementos.
+Determinación del tiempo de fraguado.
+12.- Práctica 12 - Ensayos de hormigón fresco:
+ensayo de asentamiento.
+13.- Práctica 13 - Ensayos de hormigón en
+estructuras. Ensayos no destructivos. Determinación del
+índice de rebote.
+ 
+'

@@ -1,0 +1,65 @@
+'
+
+
+Sistemas de
+  Información aplicados a la logística. Estos
+  sistemas de información permiten una gestión global
+  e incidir en cada fase de la cadena de valor logística
+  para una
+   gestión especializada e integrada en un sistema de
+  gestión basado en SAP.
+   Sistemas de información aplicados al transporte
+  terrestre
+   o Sistemas de información mediante la radio: RDS
+  (Radio Data System) y TMC (Traffic Message Channel).
+   o Paneles de información variable.
+   o Sistemas de información basados en Internet.
+  Aplicación para información sobre tráfico,
+  fomento de transporte público, control de
+  mercancías.
+   o Sistemas de navegación (GPS y Galileo).
+  Aplicación en transportes públicos, sistemas de
+  navegación, mensajería de socorro,
+  recuperación de vehículos robados.
+   o Problemática asociada: sobrecarga de
+  información, distracción, interacción
+  hombre-máquina, interpretación de la
+  información. 
+  
+
+
+
+
+Sistemas para
+  la simulación. Aplicaciones en lógistica.
+
+
+Bloque 1. Sistemas de Información. (Francisco Feito)
+Introducción y características fundamentales.
+Sistemas de Información geográfica.
+Introducción y características fundamentales.
+Ejemplos de sistemas de información aplicados a la
+Logística y el Transporte.
+  Bloque 2. Sistemas de información aplicados al
+transporte terrestre. (Antonio J. Yuste)
+  Envíos de mensajes de tráfico en tiempo
+real. Sistemas RDS ( Radio Data System ) y TMC ( Traffic Message
+Channel ). Descripción y aspectos
+técnicos. Problemática asociada: sobrecarga de
+información, distracción, interacción
+hombre-máquina, interpretación de la
+información.
+  Obtención de información sobre el
+transporte terrestre a través de Internet. Aplicaciones con
+información sobre tráfico rodado. Control de flotas y
+vehículos.
+  Sistemas de navegación. Aspectos técnicos
+sobre los sistemas GPS ( Global Position System) y Galileo.
+ Introducción a los sistemas basados en SAP (Ana
+Licerán Gutiérrez).
+  Bloque 3. Aplicaciones prácticas de los sistemas
+de información orientados a la logística y el
+transporte. Técnicas actuales y futuras. Uso de la
+inteligencia artificial. (Jesús Bermejo y Luis
+Magdalena)
+'

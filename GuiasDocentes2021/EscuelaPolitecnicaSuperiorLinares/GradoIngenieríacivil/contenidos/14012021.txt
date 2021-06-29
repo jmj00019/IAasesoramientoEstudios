@@ -1,0 +1,386 @@
+'
+
+BLOQUE I: Contexto técnico-económico legal en el
+que se desarrollan las obras
+BLOQUE II: Movimientos de tierras. Desmonte y
+terraplén. Técnicas de ejecución. Equipos de
+obra y medios auxiliares.
+BLOQUE III: Excavadoras y dragalinas. Características
+y práctica operativa.
+BLOQUE IV: Palas cargadoras y rotopalas.
+Características y práctica operativa.
+BLOQUE V: Tractores. Características y práctica
+operativa.
+BLOQUE VI: Mototraillas. Características y
+práctica operativa.
+BLOQUE VII: Camiones y dumperes. Características y
+práctica operativa.
+BLOQUE VIII: Prevención de riesgos laborales.
+
+  
+  
+
+
+
+BLOQUE I
+  
+
+CAPITULO I: Obras
+de  tierra
+  1.-  Generalidades
+  
+2.-  Terraplenes
+a)   Tipos de terraplenes
+b)   Relleno vertido
+c)   Relleno seleccionado
+d)   Terraplenes compactados con maquinaria
+e)   Relleno de tierra apisonada
+f)   Terraplenes compactados con tractor
+g)   Relleno de tierra mezclado
+h)   Relleno de suelo modificado
+i)   Relleno hidráulico
+
+ 3.-  Revestimientos y tapices
+a)   Generalidades
+b)   Tapices de roca
+c)   Tapices de arena y grava o de roca machacada
+d)   Tapices y revestimientos impermeables
+e)      Zonas o tapices de
+terrenode  recubrimiento
+ 
+
+ 4.-  Relleno
+a)   Generalidades
+b)   Relleno compacto
+ 
+
+ 5.- 
+Tuberías 
+ 1.-  Características 
+del proyecto
+2.-  Cláusulas del pliego de condiciones
+a)   Generalidades
+b)   Excavaciones para conducciones
+c)   Relleno de la zanja para conducciones
+d)   Compactación del relleno en zanjas
+paraconducciones
+e)   Relleno compactado para el apoyo
+
+ 6.- Maquinaria de arranque, carga y
+transporte
+ 
+
+
+
+
+BLOQUE II
+
+  
+
+CAPITULO II: 
+Construcciones metálicas.
+  
+1.-  Castilletes mineros
+a)      Generalidades
+b)      Hipótesis de carga
+ybases de cálculo
+c)      Directrices sobre
+elcálculo de la estructura y estabilidad del sistema
+d)     Comparación de diferentestipos
+de celosía empleados
+e)      Sistemas y dispositivos
+deseguridad
+
+2.- Castilletes para tendido eléctrico
+a)      Generalidades
+b)     
+Clasificaciónsegún su naturaleza y
+composición
+c)      Esfuerzos y cargas
+queactúan sobre un apoyo. Cálculo de los mismos
+d)     Directrices para sucálculo
+e)      Flecha de los cables y
+longituddel vano
+f)       Cálculo deanclajes
+y cimientos
+
+3.- Naves industriales
+a)      Organización de la
+scubiertas. Materiales de cubierta
+b)      Sobrecarga de
+cálculo
+c)      Estructuración de los
+elementos fundamentales
+d)     Estructuración de cerchas
+e)      Detalles constructivos:
+denudos, cartelas, de apoyos, de canalón y bajantes
+f)       Arriostramiento de las
+cubiertas. Frontales y Laterales
+(organizaciónconstructiva)
+g)      Pilares. Ideas generales en
+nave a dos aguas sin puente-grúa
+h)      Determinación de los
+esfuerzos producidos por la acción del viento.
+i)        Efectos
+producidospor variación de temperatura
+j)        Proporcionamientode
+los pilares de las naves
+k)      Detalles constructivos de base
+de pilares y cimentación
+  
+4.- Tablestacados y entibaciones.
+a)      Tablestacas. Materiales.
+Otrasaplicaciones
+b)      Tablestacas de madera
+c)      Tablestacas de
+hormigónarmado
+d)     Tablestacas metálicas
+e)      Cálculo de pantallas de
+tablestacas
+f)      
+Entibaciones.Introducción
+g)      Sistemas de
+entibación
+h)      Empuje sobre las
+entibaciones
+ 
+ 
+  
+
+
+
+BLOQUE III
+ 
+
+
+CAPITULO III : 
+Construcciones de cimentaciones de
+hormigón.
+   
+1.-EHE-08. Estudio de los articulados mas
+relevantes en relacion al proceso constructivo.
+a)      R.C.- 08. Cementos
+utilizables.
+b)      Agua de amasado y agua
+decurado.
+c)     
+Áridos.Clasificación
+d)    
+Condicionesfísico-químicas y
+físico-mecánicas
+e)      Granulometría y
+coeficiente de forma
+f)       Almacenamiento
+g)      Aditivos. Generalidades
+h)      Armaduras. Tipo. Suministro
+yalmacenamiento
+
+2.- Dosificación del hormigón.
+a)      Generalidades
+b)      Método Simplistas y
+clasificaciones tipo.
+c)      Resistencia
+media.Relación agua/cemento
+d)     Docilidad del hormigón
+e)     
+Característicasmecánicas. Valor mínimo de
+resistencia
+
+3.- Ejecución del hormigón
+armado.
+a)      Cimbras, encofrados
+ymoldes.
+b)      Doblado de las armaduras
+c)      Colocación de
+lasarmaduras
+d)     Fabricación del
+hormigón. In-situ. En central
+e)      Falso fraguado del 
+hormigón
+f)       Hormigonado en tiempo
+frío. En tiempo caluroso
+g)      Curado del hormigón
+h)      Prevención
+yprotección contra acciones físicas
+yquímicas
+
+4.- Control de calidad en el Hormigón.
+a)    Especificaciones, ensayos ycriterios de
+rechazo del cemento, del agua de amasado, de   
+losáridos, de los aditivos y de las armaduras
+b)      Control de consistencia
+delhormigón. Especificaciones, ensayos y criterios
+deaceptación o rechazo.
+c)      Control de la resistencia
+delhormigón. Previos al hormigonado y con
+hormigónendurecido.
+d)     Control de ejecución y ensayos
+no destructivos
+
+5.-  Anexos.
+
+ 6.- Hormigón proyectado
+
+
+
+
+BLOQUE IV
+
+
+CAPITULO IV  Cimentaciones
+superficiales
+I
+
+1.-Cimentaciones superficiales. C.T.E.
+a.-   Introducción
+b.-   Tipología
+   Zapatas
+   Losas
+c.-   Metodología del proyecto de
+cimentaciones
+d.-  Factores a considerar
+e.-   Aspectos constructivos
+
+2.- La zapata aislada
+a.-   Introducción
+b.-   Tipología
+c.-   Dimensiones en planta
+d.-   Zapatas rectangulares
+e.-   Aspectos constructivos
+
+3.-  Zapatas de medianería
+a.-   Introducción
+b.-   Soluciones constructivas.
+   Solución de zapata de medianería con
+biela
+   Solución de zapata de medianería con
+viga tirante
+   Solución de zapata de medianería con
+viga centradora
+   Solución de zapata de medianería con
+zapata combinada
+
+4.-   Zapatas combinadas
+a.-  Aspectos constructivos
+  
+
+CAPITULO  V: 
+Cimentaciones superficiales (II)
+
+1.- Zapatas corridas
+a.-   Introducción
+b.-   Distribución de presiones bajo
+zapatascorridas
+c.-   Algunas soluciones prácticas:
+  Zapata corrida bajo muro
+  Zapata corrida con un pilar central
+  Zapata con dos pilares de borde
+  Zapata con pilares equidistantes igualmente cargados
+  Zapata corrida rígida
+d.-   Aspectos constructivos
+
+2.- Losas de cimentación
+a.-   Definición y condiciones
+deutilización
+b.-   Normativa
+c.-   Tipología
+d.-   Aspectos constructivos
+ 
+
+
+CAPITULO VI:
+Muros    de contención.
+Pantallas. 
+
+ 1.- Muros de contención
+a.-   Generalidades
+b.-   Tipos de estructuras de contención
+c.-   Proyecto y construcción de muros
+   Condiciones generales para el proyecto
+ 
+            Dimensionado
+previo y resistencia estructural
+    Detalles constructivos
+d.-  Aspectos constructivos
+
+2.- Estructuras de retención flexibles
+a.-   Generalidades
+b.-   Pantallas continuas de hormigón
+c.-   Acciones y situaciones a considerar
+d.-   Pantallas con un apoyo
+e.-   Pantallas con un apoyo y base libre
+f.-   Pantallas con un apoyo y base fija
+g.-   Pantallas con varios apoyos
+h.-  Estabilidad global del conjunto pantalla - anclaje
+i.-   Disposición de anclajes
+j.-   Aspectos constructivos
+
+  
+CAPITULO VI
+
+I: 
+- Cimentaciones por
+pilotaje.
+
+1.- Cimentación por pilotes.
+a.-   Introducción
+b.-   Tipos de pilotes
+c.-   Formas de trabajo y solicitaciones de
+lospilotes
+d.-   Grupos de pilotes. Encepados y riostras
+e.-   Diseño estructural
+f.-   Encepados
+g.-   Vigas riostras
+h.-   Aspectos constructivos
+ 
+
+
+BLOQUE V  
+ 
+  
+
+CAPITULO
+VIII:  Medicion y valoración de
+obra.
+a.-Introducción al concepto de partida de obra,
+descompuesto, etc. Programa de mediones y presupuestos. Bancos de
+precios de la construcción etc.
+b.-Desarrollo práctico sobre plano de la medición
+y valoración de las distintas partidas de obra. 
+ 
+
+
+PRACTICAS
+DE    LABORATORIO. 
+ 
+
+
+INDICE DE PRACTICAS 
+ 
+PRACTICA Nº 1.- Ensayo de tracción de aceros
+paraconstrucción.
+PRACTICA Nº 2.- Inspección de defectos en
+materialesmetálicos y en soldadura  mediante la
+técnica de los líquidospenetrantes.
+PRACTICA Nº 3.- Elección del acero en
+estructurasmetálicas soldadas.
+PRACTICA Nº 4 .- Ensayo de barras de acero
+parahormigón: tracción
+PRACTICA Nº 5.- Toma de muestras de
+hormigónfresco
+PRACTICA Nº 6.- Ejecución de probetas
+dehormigón
+PRACTICA Nº 7.- Extracción de probetas testigo
+PRACTICA Nº 8.- Refrenado de probetas con mortero de
+azre
+PRACTICANº9.- Determinación de la resistencia
+acompresión del hormigón endurecido
+PRACTICA Nº10.- Ensayo de flexo-tracción
+PRACTICA Nº11.- Ensayo de rotura por tracción
+indirecta. ensayo brasileño
+PRACTICA Nº12.- Determinación del índice de
+rebote
+PRACTICA Nº13.- Ensayo del cono de abrams
+
+ 
+'

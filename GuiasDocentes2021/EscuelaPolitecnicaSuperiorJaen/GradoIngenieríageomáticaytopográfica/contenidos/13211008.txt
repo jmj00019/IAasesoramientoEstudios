@@ -1,0 +1,72 @@
+'
+
+Ecuaciones diferenciales ordinarias.
+Ecuaciones en derivadas parciales.
+Algorítmica numérica.
+Geometría Diferencial: Teoría local de curvas y
+superficies.
+Variable compleja: Transformaciones conformes.
+Inferencia estadística: estimación de
+parámetros, intervalos de confianza, contraste de
+hipótesis.
+ 
+
+
+Bloque I. Ecuaciones diferenciales
+ordinarias. Ecuaciones en derivadas parciales. Algorítmica
+numérica.
+
+Tema 1. Introducción a las ecuaciones
+diferenciales.
+
+Tema 2. Ecuaciones diferenciales ordinarias de primer
+orden.
+
+Tema 3. Ecuaciones diferenciales ordinarias de orden
+superior.
+
+Tema 4. Introducción a las ecuaciones
+diferenciales en derivadas parciales.
+
+Bloque II. Variable compleja:
+Transformaciones conformes.
+
+Tema 5. Funciones de variable compleja.
+
+Tema 6. Transformaciones de Moebius.
+
+Bloque III. Geometría Diferencial:
+Teoría local de curvas y superficies.
+
+Tema 7. Curvas planas.
+
+Tema 8. Curvas alabeadas.
+
+Tema 9. Superficies parametrizadas.
+
+Bloque IV. Inferencia estadística:
+estimación de parámetros, intervalos de confianza,
+contraste de hipótesis.
+
+Tema 10. Inferencia estadística.
+
+Contenidos prácticos
+
+
+1. 
+Prácticas 1 a 3: Ecuaciones Diferenciales con
+Mathematica
+
+2.  
+Prácticas 4 y 5: Variable Compleja con
+Mathematica
+
+3. 
+Prácticas 6 a 9: Geometría Diferencial con
+Mathematica
+
+4.
+Práctica 10: Inferencia Estadística con
+Mathematica
+ 
+'

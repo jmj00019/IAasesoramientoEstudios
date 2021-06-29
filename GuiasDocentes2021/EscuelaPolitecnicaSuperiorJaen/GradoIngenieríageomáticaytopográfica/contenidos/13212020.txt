@@ -1,0 +1,128 @@
+'
+
+Introducción a los SIG
+Bases de la modelización cartográfica.
+Herramientas para la modelización cartográfica
+(UML (ISO 19501), GML (19136))
+Topología e indexación espacial
+Modelo espacial y temporal (ISO 19107, 19108).
+SIG vectorial: estructuras, procesos, algoritmos y
+análisis.
+SIG ráster: estructuras, procesos, algoritmos y
+análisis.
+MDT: estructuras, procesos, algoritmos y análisis.
+Los proyectos SIG
+
+
+Tema 1.- Introducción a los SIG.
+
+
+
+ Definiciones. Componentes.
+Ámbitos
+Limitaciones y Tendencias.
+
+
+Tema 2.- Bases y herramientas de la modelización
+  cartográfica.
+
+
+Sistema y modelo. Los datos geográficos.
+Diccionarios.
+UML (ISO 19501)
+
+
+
+Tema 3.- Topología e indexación
+espacial.
+
+Topología (bases, modelo 9I, modelo de las relaciones
+  de equivalencia)
+Grafos.
+Árboles para la indexación (segmet/interval
+  tree o equivalentes)
+
+
+
+Tema 4.- Modelo espacial y temporal en ISO.
+
+ISO 19107, 19136, 19137, 19108
+
+
+Tema 5.- SIG Vectorial.
+
+
+Capas, geodatabases y objetos.
+Almacenamiento (gráfico, topológico y
+  temático).
+Segmentación dinámica.
+Tiempo y 3D.
+Algoritmos (intersección, superposición, punto
+  en polígono, topología).
+
+
+Tema 6.- SIG Ráster.
+
+
+Bases de la teselación.
+Estructuras de almacenamiento.
+Tiempo y 3D.
+Conversión entre estructuras.
+Algoritmos (ventana deslizante, MM, agrupación,
+  distancias).
+
+
+Tema 7.- Modelos Digitales.
+
+
+Modelo CN, RU, RTI
+Estructuras de almacenamiento.
+Algoritmos creación RTI
+Algoritmos de cálculo (pendientes, orientaciones,
+  flujos, cuencas visuales, cuencas hidrográficas).
+
+
+Tema 8.- Anál
+isis SIG
+
+Análisis espacial vectorial.
+Análisis espacial ráster.
+Análisis sobre modelos digitales del terreno.
+
+
+Tema 9.- Los proyectos SIG.
+
+
+Paradigma y etapas del proyecto SIG
+Viabilidades.
+La información en los proyectos.
+Personal y formación.
+Selección de la herramienta (software).
+
+
+
+PROGRAMA DE PRÁCTICAS
+
+
+1.- Introducción de datos. Georreferenciacion.
+2.- Gestion de una base de datos espacial
+3.- Analisis vectorial.
+4.- Analisis Raster
+5.- Analisis de redes
+6.- Generación de modelos de procesos
+7.- Analisis multicriterio
+8.- Programación en Phyton
+
+En esta asignatura se realiza un aprendizaje basado en proyectos
+en coordinación con las asignaturas de este
+grado: CARTOGRAFIA, CARTOGRAFIA MATEMATICA, PRODUCCION
+CARTOGRAFICA, INFRAESTRUCTURA DE DATOS ESPACIALES, CARTOGRAFIA
+TEMATICA Y SOLUCIONES SIG. En particular, en el curso
+2018/2019 se concedió un Proyecto de Innovación
+Docente solicitado y coordinado por profesores del Departamento de
+Ingeniería Cartográfica, Geodésica y
+Fotogrametría, titulado: PRODATO: UN CONJUNTO DE PRACTICAS
+DE CARTOGRAFIA ENLAZADAS PARA LOS ESTUDIANTES DEL GRADO EN
+GEOMATICA Y TOPOGRAFIA para la realización de un aprendizaje
+basado en proyectos
+'

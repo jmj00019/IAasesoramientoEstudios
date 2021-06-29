@@ -1,0 +1,37 @@
+'
+
+Estructuras de datos en problemas de ingeniería.
+Herramientas orientadas a la visualización de datos.
+Programación aplicada a problemas de ingeniería.
+Modelado y simulación de sistemas Tecnologías de
+redes.
+
+
+CONTENIDO PARTE TEÓRICA
+
+Bloque 1: Componentes de un sistema informático.
+Sistema operativo
+Bloque 2. El sistema de ficheros. Gestión de
+ficheros. 
+Bloque 3: Estructuras básicas de programación.
+Funciones. Excepciones. Iterables
+Bloque 4: Estructuras de datos. Matrices, cadenas de
+caracteres, diccionarios y objetos. Código
+vectorizado.
+Bloque 5: Visualización de datos
+científicos.
+Bloque 6: Programación orientada a objetos
+
+CONTENIDO PARTE PRÁCTICA
+
+Tema 1: Variables y estructuras de programación
+secuenciales
+Tema 2: Estructuras de datos generales
+Tema 3: Estructuras condicionales y repetitivas
+Tema 4: Funciones y recursividad
+Tema 5: Bibliotecas de cálculo científico
+Tema 6: Visualización de datos mediante
+gráficos
+Tema 7: Estructuras de datos y objetos
+ 
+'

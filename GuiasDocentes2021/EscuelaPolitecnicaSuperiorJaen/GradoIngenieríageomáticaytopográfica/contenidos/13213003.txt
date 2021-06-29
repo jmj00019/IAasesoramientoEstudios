@@ -1,0 +1,93 @@
+'
+
+Adquisición, tratamiento y representación de los
+datos en Cartografía temática
+Mapas del medio físico y biótico
+Mapas de la geografía humana
+Cartografía ambiental y ordenación del
+territorio
+Cartografía histórica
+Neocartografías
+Cartografía y datos por minería
+Cartografía mediante web de sensores (sensor web)
+Cartografía animada y en tiempo real
+Cartografía a la demanda
+Cartografía 3D
+
+
+Cartografía
+  cooperativa:
+
+
+
+crowd-sourcing
+
+
+
+e
+  información geográfica voluntaria, VGI
+
+Cartografía sobre dispositivos móviles y
+especiales
+ 
+ 
+
+
+CONTENIDOS DESARROLLADOS
+
+
+Tema1. Cartografía temática.
+
+Cartografía temática y tipos de mapas. Mapas del
+medio físico y biótico. Mapas de la geografía
+humana.
+Cartografía ambiental y ordenación del
+territorio.
+Adquisición, tratamiento y adquisición de los
+datos en Cartografía temática. Cartografía
+mediante símbolos puntuales, lineales y zonales. Mapas de
+símbolos proporcionales. Mapas de coropletas. Mapas de
+isolíneas.
+Cartodiagramas.
+
+Tema 2. Cartografía de nuevas fuentes.
+
+Cartografía y datos por minería.
+Cartografía mediante web de sensores (sensor web). Redes
+de sensores inalámbricos (WSN).
+Neocartografías. Cartografía cooperativa y por
+voluntarios.
+
+Tema 3. Nuevas formas de expresión de la
+  cartografía.
+
+Cartografía a la demanda.
+Cartografía 3D.
+Cartografía animada y en tiempo real.
+
+Tema 4. Cartografía sobre nuevos dispositivos de
+  salida.
+
+Navegadores.
+Dispositivos móviles.
+Otros dispositivos especiales.
+CONTENIDOS PARA ACTIVIDADES PRÁCTICAS
+
+Prácticas del Tema 1.
+Prácticas del Tema 2.
+Prácticas del Tema 3.
+Prácticas del Tema 4.
+
+En esta asignatura se realiza un aprendizaje basado en proyectos
+en coordinación con las asignaturas de este
+grado: CARTOGRAFIA, CARTOGRAFIA MATEMATICA, SISTEMAS DE
+INFORMACION GEOGRAFICA, PRODUCCION CARTOGRAFICA, INFRAESTRUCTURA DE
+DATOS ESPACIALES Y SOLUCIONES SIG. En particular, en el curso
+2018/2019 se concedió un Proyecto de Innovación
+Docente solicitado y coordinado por profesores del Departamento de
+Ingeniería Cartográfica, Geodésica y
+Fotogrametría, titulado: PRODATO: UN CONJUNTO DE PRACTICAS
+DE CARTOGRAFIA ENLAZADAS PARA LOS ESTUDIANTES DEL GRADO EN
+GEOMATICA Y TOPOGRAFIA para la realización de un aprendizaje
+basado en proyectos.
+'

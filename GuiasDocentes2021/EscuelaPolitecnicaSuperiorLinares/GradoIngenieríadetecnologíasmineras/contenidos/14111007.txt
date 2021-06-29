@@ -1,0 +1,130 @@
+'
+
+Teórico: Tema 1: Introducción. Tema 2:
+Funcionamiento de un computador. Tema 3: Representación
+interna de la información. Tema 4: Lenguajes de
+programación. Tema 5: Metodología y tecnología
+de la programación.
+Tema 6: Internet. Práctico: Familiarizar al alumno con
+el uso del ordenador, su sistema operativo (familia Windows),
+herramientas de edición de textos, y funcionalidades
+básicas de comunicación mediante Internet
+(navegación
+y correo, además de uso del aula virtual). Sesiones
+destinadas al manejo de un entorno y lenguaje de
+programación estructurada para ayudar a entender los
+conceptos desarrollados en la parte teórica de la
+asignatura.
+
+
+
+Contenidos desarrollados:
+
+
+Módulo 1. Introducción
+
+
+Conceptos Básicos
+Elementos de un sistema
+  informático
+Soporte físico o
+  hardware
+Soporte lógico o
+  software
+Representación de la
+  información
+Resumen
+
+
+Módulo 2. Conocimientos básicos de
+  programación Informática
+
+Tema 1. Tipos de datos básicos
+y estructuras de control
+
+Metodología de la
+  programación.
+Concepto de tipo de dato.
+  Clasificación.
+Tipo de dato entero, real,
+  lógico o booleano y carácter.
+Tipo de dato array.
+Elementos de un programa.
+Plantilla de un
+  algoritmo/programa.
+Estructuras secuenciales.
+Estructuras condicionales.
+Estructuras repetitivas.
+Utilización de arrays.
+Resumen.
+
+Tema 2. Programación
+modular
+
+Definición.
+Proceso de invocación.
+Módulos.
+Sintaxis.
+Nombre de un módulo.
+Llamada a un módulo.
+Ejemplos.
+Errores típicos.
+Resumen
+
+Tema 3. Gestión de
+Archivos
+
+Definición de archivo.
+Motivos por los que usar
+  archivos.
+Tipos de archivos.
+El descriptor de archivo.
+Comandos save y load.
+Otras operaciones con
+  archivos.
+Ejercicios.
+Resumen.
+
+
+Modulo 3. Conocimientos Básicos de
+  Informática
+
+Tema 4. Bases de Datos. Conceptos
+
+Introducción.
+Modelos de Datos: Modelo
+  Relacional.
+Diseño de una BD.
+Diagramas E/R.
+Paso a Tablas.
+
+Tema 5. Arquitectura de un ordenador,
+sistemas operativos y redes de ordenadores
+
+Estructura de un ordenador.
+Periféricos.
+Redes de ordenadores.
+Internet.
+
+Tema 6. Sistemas operativos
+
+Introducción
+¿Qué es un S.O.?.
+   Gestión de Recursos. Máquina Virtual
+Jerarquía de capas.
+  Interfaz del S.O.
+Tipos de Sistemas Operativos
+Características deseables
+  de los S.O.
+Algunos Sistemas Operativos
+Funciones de un S.O.
+Intérprete de
+  órdenes. Programa de Ventanas. Sistema de
+  Protección.
+Gestión de Procesos.
+  Gestión de la Memoria Principal. Gestión de
+  Entradas/Salidas. Gestión de Ficheros.
+Justificación de los
+  archivos. Concepto de archivo/fichero. Directorios.
+
+'

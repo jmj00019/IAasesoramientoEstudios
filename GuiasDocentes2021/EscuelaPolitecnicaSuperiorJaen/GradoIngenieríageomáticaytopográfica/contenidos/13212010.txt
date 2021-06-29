@@ -1,0 +1,110 @@
+'
+
+- Geomagnetismo
+Física del Magnetismo. Propiedades magnéticas de
+la materia
+Campo magnético interno. Variaciones
+Campo magnético externo. Variaciones
+Instrumentación. Magnetómetros
+Prospección magnética. Anomalías
+magnéticas
+Paleomagnetismo
+- Sismología e Ingeniería Sísmica
+Sismicidad
+Ondas sísmicas. Parámetros focales de los
+terremotos
+Instrumentación. Sismógrafos
+Prospección sísmica. Sísmica de
+refracción y reflexión
+Movimientos sísmicos fuertes
+Espectros de respuesta y de diseño
+Peligrosidad sísmica, vulnerabilidad sísmica y
+riesgo sísmico
+- Gravimetría
+Gravitación. Campo de gravedad. Rotación de la
+Tierra
+Medidas absolutas y relativas de la gravedad.
+Instrumentación
+Reducción de la gravedad. Anomalía de la
+gravedad
+Prospección gravimétrica
+Introducción a la gravimetría geodésica
+ 
+
+
+1. SISMOLOGÍA
+
+     1. Sismicidad. 2.
+Instrumentación. Sismógrafos. 3. Ondas
+sísmicas. Parámetros focales de los terremotos. 4.
+Prospección sísmica. Sísmica de
+refracción y reflexión.
+
+2. INGENIERÍA SÍSMICA
+
+     1. Movimientos sísmicos fuertes.
+Acelerógrafos y acelerogramas. 2. Espectros de respuesta y
+de diseño. 3. Estimación del movimiento del suelo. 4.
+Peligrosidad sísmica. 5. Vulnerabilidad sísmica. 6.
+Riesgo sísmico. 7. NCSR-02
+
+3. GEOMAGNETISMO
+
+
+    
+  1. Física del magnetismo. 2. Propiedades magnéticas
+  de la materia. 3. Geomagnetismo. Introducción. 4. Campo
+  magnético interno. 5. Variaciones del campo
+  magnético interno. 6. Campo magnético externo.
+  7. Variaciones del campo magnético externo. 8.
+  Paleomagnetismo.
+
+
+
+4.
+  INSTRUMENTACIÓN Y PROSPECCIÓN
+  MAGNÉTICA
+
+
+    
+  1. Instrumentación. 2. Magnetómetros. 3.
+  Anomalías magnéticas. 4. Prospección
+  magnética.
+
+
+5. GRAVIMETRÍA. CAMPO GRAVITATORIO Y MEDIDA
+  DE LA GRAVEDAD.
+
+
+    
+  1. Gravitación. Campo de gravedad. 2. Rotación de
+  la Tierra. 3. Introducción a la Gravimetría
+  Geodésica (1ª parte). 4. Medidas absolutas y
+  relativas de la gravedad. Instrumentación. 5.
+  Introducción a la Gravimetría de
+  Satélite.
+
+
+
+6.
+  GRAVIMETRÍA. REDUCCIONES Y PROSPECCIÓN
+  GRAVIMÉTRICA.
+
+
+    
+  1. Reducción de la gravedad. Anomalía de la
+  gravedad. 2. Isostasia. 3. Introducción a la
+  Gravimetría Geodésica (2ª parte). 4.
+  Prospección Gravimétrica.
+
+
+ 
+
+
+
+PRÁCTICAS: 1. Sísmica de
+  refracción e interpretación. 2. Medición del
+  campo magnético y tratamiento de datos. 3. Medición
+  del campo gravitatorio y tratamiento de datos.
+
+'

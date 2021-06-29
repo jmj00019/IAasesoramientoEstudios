@@ -1,0 +1,147 @@
+'
+
+En esta asignatura los alumnos trabajarán con
+herramientas estadísticas útiles para diseñar
+muestreos y experimentos, así como para formular
+hipótesis y predicciones. En análisis de datos, se
+prestará particular atención al análisis de
+varianza y covarianza, modelos lineales generalizados,
+análisis de frecuencias, técnicas exploratorias
+multivariantes y análisis basados en métodos de
+aleatorización, así como técnicas avanzadas
+basadas en data mining a partir de bases de datos ambientales.
+Se tratarán técnicas de análisis
+espacial de datos ambientales mediante técnicas
+geoestadísticas.
+Finalmente, también se trabajará en
+relación a la presentación de resultados.
+
+
+
+
+Diseño experimental.  La
+    importancia de un buen diseño. Hipótesis y
+    predicciones. Manipulación experimental frente a
+    variación natural. Variación entre individuos y
+    replicación. Ejemplos de diseño experimental.
+    Datos, observaciones y variables. .
+
+
+
+Análisis exploratorio de datos.
+    Asunciones de los modelos lineales paramétricos.
+    Outliers, transformación y estandarización. Datos
+    perdidos y censurados.
+
+
+
+Comparación entre grupos o
+    tratamientos. Tipos de Modelos Lineales.
+    Regresión. Análisis de la varianza. Modelos
+    lineales generalizados. Análisis de frecuencias.
+
+
+
+Introducción a la estadística
+    multivariante. Regresión múltiple.
+    Análisis multivariante de la varianza (MANOVA).
+    Análisis de Ordenación y clustering.
+    Análisis de Componentes Principales.
+    Representación gráfica y visualización de
+    datos. 
+
+
+
+Análisis de correspondencia.
+    Análisis canónicos. Análisis
+    discriminante. Representación gráfica y
+    visualización de datos. 
+
+
+
+Matrices de distancia. Test asociados a las
+  relaciones entre matrices de distancia: Test de Mantel, Test de
+  Mantel Parcial. Problemática del Test de Mantel. db-RDA
+  análisis. Non-metric multidimensional scaling.
+  Representación gráfica y visualización de
+  datos. 
+
+
+
+
+
+
+
+Introducción a la
+      geoestadística. Teoría de las
+      variables regionalizadas. Modelos estocásticos de
+      variables geológicas. Modelos estacionarios. Modelos
+      con deriva
+
+
+
+
+
+Concepto de variograma: análisis
+      estructural. Propiedades del variograma.
+      Cálculo del variograma experimental. Detección
+      de anisotropías espaciales. Modelos teóricos de
+      variogramas. Ajuste de un modelo teórico a un
+      variograma experimental
+
+
+
+
+
+Interpolación espacial por kriging.
+      Principales métodos de estimación por kriging:
+      variables estacionarias y no estacionarias.
+
+
+
+
+
+Aplicaciones de la geoestadística a las
+      variables ambientales.
+
+
+
+
+Introducción
+  a la Minería de Datos.
+Minería
+  de Datos.
+Relación
+  de DM con otras disciplinas.
+Fases
+  del Knowledge Discovery in Databases.
+Retos
+  para la Minería de Datos. 
+Introducción
+  al uso del software RapidMiner
+
+
+Selección
+  de Atributos.
+Fases
+  del análisis de datos.
+Taxonomía
+  de métodos de selección de atributos.
+Transformación
+  de atributos
+
+
+Técnicas
+  de Minería de Datos.
+Tipología
+  de Técnicas de Minería de Datos.
+Taxonomía
+  de Técnicas de Minería de Datos.
+Métodos
+  descriptivos.
+Métodos
+  predictivos.
+Análisis
+  de datos geoambientales con RapidMiner
+
+'

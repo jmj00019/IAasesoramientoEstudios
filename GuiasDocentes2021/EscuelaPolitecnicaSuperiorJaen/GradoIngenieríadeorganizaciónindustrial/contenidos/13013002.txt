@@ -1,0 +1,190 @@
+'
+
+Autómatas programables.
+Programación AWL.
+Interfaz Gráfico con el usuario (GUI).
+Sistemas SCADA.
+Sistemas de control distribuido.
+Introducción a la Robótica industrial.
+Configuraciones básicas.
+Programación de robots industriales.
+ 
+ 
+
+Teoría
+Bloques Temáticos
+
+1. 
+        
+  Introducción a la Robótica industrial.
+  Configuraciones básicas y programación.
+
+
+2. 
+       
+  Autómatas programables. Programación KOP.
+
+
+3. 
+       
+  Interfaz Gráfico con el usuario (GUI) y Sistemas
+  SCADA.
+
+
+4. 
+       
+  Sistemas de control distribuido.
+
+ 
+ 
+1. 
+      
+Introducción a la Robótica industrial.
+Configuraciones básicas y programación.
+
+Principales
+  configuraciones de los robots industriales.
+
+
+Programación
+  de un robot industrial FANUC. Ejemplos prácticos.
+
+
+Sincronización
+  entre robots. Robots cooperantes.
+
+2. 
+     
+Autómatas programables. Programación KOP.
+
+Recordatorio
+  de programación con KOP.
+
+
+Características
+  del PLC S7-1200 de Siemens.
+
+
+Programación
+  de Autómatas Programables con Grafcet.
+
+
+Traducción
+  a lenguaje KOP.
+
+
+Recursos
+  compartidos.
+
+3. 
+     
+Interfaz Gráfico con el usuario y Sistemas SCADA
+
+Dispositivos
+  tradicionales de interfaz con el usuario.
+
+
+Visualizadores
+  y Paneles táctiles.
+
+
+Definición
+  de un Sistema SCADA.
+
+4. 
+     
+Sistemas de control distribuido.
+
+Redes
+  de comunicación industriales. Conceptos
+  básicos.
+
+
+Principales
+  redes de comunicaciones industriales.
+
+
+Comunicación
+  entre autómatas programables y paneles táctiles
+  empleando Profinet.
+
+Prácticas
+
+Las prácticas
+  se realizarán semanalmente, en grupos de dos personas, y
+  serán de dos horas de duración.
+
+
+Previo a la
+  práctica se proporcionará un guión con un
+  ejercicio que el alumno debe plantear. A lo largo de las dos
+  horas de prácticas, se completará y probará
+  el ejercicio, comprobando su funcionamiento.
+
+
+Están
+  previstas las siguientes prácticas.
+
+
+
+Manejo de un robot
+    industrial Fanuc. Diseño de un programa de
+    manipulación sencillo
+
+
+Manejo de un robot
+    industrial Fanuc. Diseño de programa de
+    manipulación II.
+
+
+Software de
+    programación de robot Roboguide I. Diseño de
+    célula y programa sencillo de manipulación
+
+
+Software de
+    programación de robots Roboguide II.
+    Sincronización entre robots
+
+
+Comunicación entre
+    autómatas programables mediante buses de
+    comunicación industrial. Profinet. Comunicación
+    con paneles táctiles.
+
+
+Programación con
+    autómatas 
+    programables I.
+    Configuración de red Profinet 
+
+
+Programación con
+    autómatas programables II. Ejercicio de
+    automatización en KOP con contadores. Paneles
+    neumáticos 
+
+
+Programación con
+    autómatas programables III. Ejercicio de
+    automatización con funciones. Paneles
+    neumáticos
+
+
+Programación con
+    autómatas programables IV. Ejercicio de
+    automatización en KOP con bloques de
+    función.
+
+
+Diseño de
+    un sistema SCADA I
+
+
+Diseño de
+    un sistema SCADA II
+
+
+ 
+ 
+'

@@ -1,0 +1,41 @@
+'
+
+Las telecomunicaciones en la señalización.
+ Conceptos fundamentales de señalización
+ferroviaria. Sistemas SAE.
+Señalización Ferroviaria: Sistemas ATP y Alta
+Velocidad (LZB y ERTMS).
+Conducción Automática: Sistemas ATO y CBTC.
+Comunicaciones Móviles: PMR, TETRA, GSM-R, y
+Satélite.
+Telemandos para la explotación ferroviaria.
+ Señalización en los pasos a nivel.
+Señalización en las puertas de andén.
+Ticketing/Sistemas Tarificación.
+Centros de Control de Tráfico (CTC).
+Integración de los sistemas tranviarios en los CTC.
+Tendencias futuras
+ 
+
+Tema 1. Introducción a la
+señalización ferroviaria (Pedro J. Reche - UJA)
+Tema 2. Fundamentos de los sistemas
+ATP. Sistemas ATP empleados en España y la Unión
+Europea (Pedro
+J. Reche - UJA)
+Tema 3. Las telecomunicaciones en
+la señalización ferroviaria. (Pedro J. Reche -
+UJA)
+Tema 4. Sistemas CBTC
+(Communications-Based Train Control) (Raúl Mata Campos -
+UJA).
+Tema 5. Centros de Control de
+Tráfico Centralizado (CTC). (Raúl Mata Campos -
+UJA).
+Tema 6. Aspectos y casos
+prácticos: Sistema europeo de control de trenes (ERTMS)
+(Alfonso Lozano- ALSTOM). Sistemas de control de
+señalización (Jesús Alberto Carrasco -
+ALSTOM). Proyectos en el ámbito del transporte ferroviario
+urbano (Alejandro Castro - ALSTOM).
+'

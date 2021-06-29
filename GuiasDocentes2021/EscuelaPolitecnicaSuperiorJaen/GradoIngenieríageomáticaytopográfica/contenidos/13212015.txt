@@ -1,0 +1,210 @@
+'
+
+
+  
+
+ 
+
+     
+Introducción a las metodologías
+topográficas
+Levantamiento por métodos expeditos
+Radiación
+Poligonación
+Intersecciones
+Aplicación del ajuste por mínimos cuadrados a las
+metodologías planimétricas básicas
+Introducción a la altimetría
+Nivelación geométrica
+Nivelación trigonométrica
+Métodos de posicionamiento GNSS
+ 
+
+
+ 
+
+      - CONTENIDOS DESARROLLADOS
+-
+
+ 
+Tema 1. Introducción
+
+Metodologías
+  topográficas. Estimación de la incertidumbre
+  estándar de los mensurandos más frecuentes en
+  Topografía.
+
+
+
+ 
+
+
+
+BLOQUE I.
+  MÉTODOS PLANIMÉTRICOS.
+
+
+
+Tema 2. Levantamiento de pequeñas
+  superficies
+
+
+Concepto
+  de métodos expeditos. Instrumentación. Medida con
+  cinta. Errores sistemáticos y accidentales. Método
+  de las mediciones. Cálculo de superficies.
+  Estimación de su incertidumbre.
+
+
+
+Tema 3. Método de Radiación
+
+
+Fundamento
+  del método de radiación.
+  Instrumentación.Evaluación de la incertidumbre de
+  medida. Ventajas e inconvenientes del método de
+  radiación. Distancia máxima de radiación
+  según las incertidumbres planimétricas.
+
+
+
+Tema 4. Método de
+  poligonación
+
+
+Fundamento
+  y metodología del método de itinerario o poligonal.
+  Instrumentación, señalización, croquis y
+  reseñas. Evaluación de incertidumbre de un
+  itinerario. Cálculo de acimutes y coordenadas. Casos
+  especiales.
+
+
+
+Tema 5.  Métodos de
+  intersección
+
+
+Clasificación
+  de los métodos de intersección.  Fundamento
+  del método de Intersección Directa.
+  Evaluación de la incertidumbre estándar de la
+  Intersección Directa y de distancias.  Soluciones
+  numéricas. Fundamento del método de
+  Intersección Inversa. Evaluación de la
+  incertidumbre de la Intersección Inversa. Soluciones
+  numéricas. Intersección Inversa
+  múltiple.
+
+
+
+Tema
+  6. Ajustes por mínimos cuadrados
+
+
+Modelos
+  matemáticos. Ajuste de observaciones indirectas.
+  Método de ecuaciones  de observación.
+  Ecuaciones de observación utilizadas frecuentemente en
+  Topografía.  Aplicaciones topográficas.
+
+
+
+Prácticas de campo del Bloque I:
+  Levantamiento con cinta (P1), Radiación (P2), Itinerario
+  (P3), Intersección directa (P4), Intersección
+  inversa (P5)
+
+
+ 
+
+
+
+BLOQUE II. MÉTODOS
+  ALTIMÉTRICOS
+
+
+
+Tema 7. Sistema altimétrico de
+  referencia
+
+
+Superficies
+  de nivel.  Cota, altitud y desnivel.  Sistemas de
+  altitudes. Cota geopotencial.  Particularidades en el
+  ámbito de la Topografía.  Esfericidad
+  terrestre. Corrección. Refracción
+  atmosférica. Corrección. Corrección conjunta
+  por esfericidad y refracción.  Reducción de
+  visuales al terreno. Determinación experimental del
+  coeficiente de refracción. Incertidumbre estándar.
+  Clasificación de los métodos
+  altimétricos.
+
+
+
+Tema
+  8. Nivelación geométrica
+
+
+Introducción.
+  Nivelación geométrica simple. Metodologías.
+  Nivelación geométrica compuesta. Método del
+  punto medio. Cálculo del error de cierre de una
+  nivelación. Evaluación de la incertidumbre,
+  tolerancias, compensación y cálculo de altitudes.
+   Líneas de doble nivelación.
+
+
+
+Tema
+  9. Nivelación trigonométrica
+
+
+Introducción.
+  Nivelación trigonométrica simple.
+  Metodologías. Nivelación trigonométrica
+  compuesta. Metodologías. Cálculo del error de
+  cierre de una nivelación. Evaluación de la incertid
+  umbre, tolerancias, compensación y cálculo de
+  altitudes. Nivelación trigonométrica con visuales
+  recíprocas y simultáneas.
+
+
+
+Prácticas de campo del Bloque
+  II: Nivelación geomátrica (P6),
+  Nivelación trigonométrica (P7)
+
+
+ 
+
+
+
+BLOQUE III. MÉTODOS DE POSICIONAMIENTO GLOBAL
+  GNSS
+
+
+
+Tema 10.  Métodos de Posicionamiento Global
+  GNSS
+
+
+Introducción.
+  Posicionamiento. Propagación de emisiones
+  radioeléctricas. Constitución del sistema G.P.S.
+  Sistemas de medida. Incertidumbre. Métodos de
+  posicionamiento.  Planificación de las observaciones.
+  Sistemas de referencia.
+
+
+
+Prácticas de campo del Bloque III:
+  Levantamiento con GPS-RTK (P8)
+
+
+
+ 
+
+'

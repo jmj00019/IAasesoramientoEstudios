@@ -1,0 +1,30 @@
+'
+
+Evolución y rasgos básicos
+Tipos de servicios ferroviarios.
+Nuevas tecnologías: vehículos con pila de
+combustible de hidrogeno, nuevos sistemas de electrificación
+y señalización, almacenadores en tierra y embarcados,
+subestaciones reversibles.
+Legislación: autorizaciones, licencias y concesiones.
+Modelización de la demanda. Modelos de
+optimización del transporte ferroviario.
+Unidades móviles en el transporte ferroviario.
+Aspectos básicos de fabricantes y proveedores.
+Fabricación de material rodante para ferrocarriles.
+Ingeniería de productos y
+procesos. Normativa aplicable: validaciones, pruebas y
+ensayos.
+Estructura de costes
+Calidad y seguridad del transporte ferroviario (sistema de
+bloqueo y pasos a nivel).
+Mantenimiento de la vía férrea y su
+adecuación para alta velocidad.
+Mantenimiento, Gestión y Seguridad de Máquinas
+y Equipos.
+Perspectivas futuras: la Red Transeuropea de Transporte
+Ferroviario de Mercancías, la red europea de trenes de alta
+velocidad.
+
+-
+'

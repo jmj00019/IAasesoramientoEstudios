@@ -1,0 +1,49 @@
+'
+
+- Simetría en Química
+(UJA)
+Nociones de Teoría de
+Grupos. Representaciones de Grupos. Reducción de
+Representaciones. Producto directo. Simetría en
+Química Cuántica. Operadores de proyección.
+Simetría de los orbitales moleculares. Factorización
+de ecuaciones seculares. Aplicación en la Teoría del
+Campo Cristalino. Diagramas de correlación. Simetría
+en el análisis de las vibraciones moleculares.
+Aplicación en el estudio de reacciones químicas.
+- Interacción
+Materia-Radiación (UMA)
+Características de la
+radiación electromagnética: Cuantización
+energética de la materia y la radiación
+electromagnética. Interacción luz-materia sin
+intercambio de energía: Efectos ópticos lineales y no
+lineales. Interacción luz-materia con intercambio de
+energía: Absorción de la radiación
+electro-magnética. Interacción fotoquímica:
+Procesos de desactivación de estados, vidas medias de los
+estados y procesos fotovoltaicos y fotocatalíticos.
+- Cinética
+Electródica. (UHU)
+Cinética de la
+reacción de transferencia electrónica. Transporte de
+masa. Cinética y transporte en las reacciones
+electródicas. Técnicas voltamperométricas:
+fundamentos y aplicaciones.
+- Termodinámica de
+Superficies e Interfases (UCO)
+Tensión superficial:
+Ecuación de Young-Laplace. Presión de vapor en
+superficies curvas. Modelos de Gibbs y Guggenheim. Isoterma de
+Gibbs. Interfases electrificadas: Ecuación de Lippmann.
+Evaluación experimental de excesos superficiales.
+Potenciales de Volta y Galvani. Potenciales de electrodo. Modelos
+de la doble capa. Adsorción específica y de
+moléculas orgánicas. Transporte a través de
+membranas. Potencial de membrana, potencial Donnan,
+exclusión Donnan. Electrodiálisis.
+Electroósmosis. Electrodos selectivos. Ecuación de
+Nikolsky-Eisenman.
+
+.
+'

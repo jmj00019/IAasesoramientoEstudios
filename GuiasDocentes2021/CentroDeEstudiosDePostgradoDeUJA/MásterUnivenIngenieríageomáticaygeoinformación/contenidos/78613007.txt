@@ -1,0 +1,43 @@
+'
+
+1. Fundamentos de Marketing. Evolución de mercados y
+clientes. Factores.
+2. Distribución espacial y temporal como factor
+básico en la comercialización. Geomarketing.
+3. Fuentes de información. Bases de datos.
+4. Principios de localización óptima y toma de
+decisiones en SIG.
+5. Aplicaciones del Geomarketing a la localización de
+negocios (clientes, puntos de venta, sucursales, etc.).
+
+1. Conceptos básicos de Marketing.
+
+Concepto de Marketing.
+Fundamentos de Marketing.
+Evolución de mercados y clientes.
+Factores. Fuentes de información.
+
+2. La información geoespacial como elemento básico
+en el Marketing. Geomarketing.
+
+Concepto de Geomarketing.
+Análisis espacial y temporal de la información
+  de mercados.
+
+3. Fuentes de información. Bases de datos.
+
+Estructura de información.
+Fuentes de información.
+Características y depuración de datos.
+
+4. Principios de localización óptima y toma de
+decisiones en SIG.
+
+5. Aplicaciones del Geomarketing.
+
+Localización de negocios (clientes, puntos de venta,
+  sucursales, etc.).
+Análisis de ventas.
+Toma de decisiones.
+
+'

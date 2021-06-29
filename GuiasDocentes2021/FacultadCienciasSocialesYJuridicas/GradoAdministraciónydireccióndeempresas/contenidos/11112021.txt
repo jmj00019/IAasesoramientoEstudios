@@ -1,0 +1,81 @@
+'
+
+
+Programación lineal.
+Programación no lineal.
+Programación multicriterio.
+Teoría de la decisión y teoría de
+  juegos.
+
+
+
+Introducción a la Investigación
+  Operativa
+
+
+Programación lineal
+
+
+Introducción
+Planteamiento del Problema
+Interpretación y Resolución Gráfica
+Conjuntos convexos
+Propiedades de una solución del problema de
+  Programación Lineal
+
+
+El método Simplex
+
+
+Introducción
+El algoritmo del Simplex
+Métodos para la localización de una
+  solución básica inicial
+
+
+El problema dual 
+
+El problema dual
+Interpretación económica del problema de
+  programación lineal y su dual asociado
+El algoritmo dual del Simplex
+
+
+Análisis de postóptimo o de
+  sensibilidad
+
+
+Introducción
+Cambio en un coeficiente de costo
+Cambio en un recurso
+Cambios en los coeficientes tecnológicos
+Incorporación de una nueva restricción
+Incorporación de una nueva variable
+
+
+Programación multiobjetivo
+
+
+ Introducción
+Planteamiento del problema de PL multiobjetivo
+Métodos de resolución
+
+
+Introducción al análisis de decisión
+  y teoría de juegos
+
+
+Ambientes de decisión
+Toma de decisiones
+Teoría de juegos
+
+
+Programación no lineal
+
+
+El problema general de Programación
+  Matemática
+Problemas no restringidos
+Problemas con restricciones
+
+'

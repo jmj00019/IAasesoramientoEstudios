@@ -1,0 +1,55 @@
+'
+
+Técnicas avanzadas de
+procesado de datos GNSS. Programas científicos para el
+procesado de datos GNSS en modalidad relativa: Bernese,
+Gamit.Programas científicos para el procesado de datos GNSS
+en modalidad PPP: Gipsy, Bernese. Redes GNSS permanentes aplicadas
+al control de deformaciones.
+Software para el análisis de
+series temporales: CAT, NEVE. Representación del campo de
+velocidades. Análisis de los desplazamientos GNSS y
+correlación con modelos geodinámicos. Análisis
+de casos prácticos.
+
+Tema 1: Introducción. Planteamiento del problema. Redes
+GNSS permenentes y episódicas. Programas científicos
+para el procesado de datos GNSS.  Series temporales.
+Interpretación.
+
+Tema 2 
+. Sistemas multi-GNSS y técnicas avanzadas de
+procesado de datos GNSS. GPS modernizado, Galileo, GLONASS,
+BEIDOU-2/COMPASS. Interoperabilidad.
+ Procesado de datos GNSS: posicionamiento absoluto y relativo
+
+Tema 3: Programas científicos para el procesado de datos
+GNSS en modalidad PPP.  Concepto de PPP. Procesado de datos
+GNSS en modalidad PPP: Gipsy, Bernese, CSRS - PPP, Magic
+Productos precisos
+Caso práctico de procesado de datos GNSS en modo PPP
+
+Tema 4: Programas científicos para el procesado de
+datos GNSS en modalidad relativa. Concepto de posicionamiento
+relativo.
+Programas científicos para el procesado de datos GNSS
+en modalidad relativa: Bernese, Gamit. Productos IGS y MGEX.
+Tema 5.  Software Bernese. Estructura del programa
+Preparación de una campaña. Preproceso y
+proceso de los datos. BPE
+Caso práctico de procesado de datos GNSS en modo
+relativo
+ Tema 6: Series temporales GNSS y velocidades.
+Aproximación mínimo cuadrática.
+Transformación de Helmert. Red libre. Covarianza.
+Herramientas PPDS y NEVE.
+Caso práctico de procesado de serie temporal con PPDS y
+NEVE
+
+Tema 7: GNSS, cinemática y deformaciones. Modelos
+geológicos. Representación del campo de velocidades.
+Software GMT. Análisis de los desplazamiento GNSS y
+correlación con modelos geodinámicos.
+Caso práctico de representación con GMT e
+interpretación geodinámica de resultados
+'

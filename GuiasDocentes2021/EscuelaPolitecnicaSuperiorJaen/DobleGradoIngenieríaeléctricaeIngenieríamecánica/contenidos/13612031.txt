@@ -1,0 +1,45 @@
+'
+
+Materiales para la Ingeniería
+Tecnología de la fabricación
+Comportamiento en servicio
+Control de Calidad
+
+ 
+BLOQUE 1: MATERIALES PARA LA INGENIERÍA
+Tema 1. TRATAMIENTOS TÉRMICOS
+Tema 2. ACEROS DE ALTA ALEACION
+Tema 3. FUNDICIONES FÉRREAS
+Tema 4. MATERIALES METÁLICOS NO FÉRREOS
+Tema 5. PLÁSTICOS
+Tema 6. CERÁMICOS
+Tema 7. MATERIALES COMPUESTOS
+ 
+BLOQUE 2. TECNOLOGÍA DE LA FABRICACIÓN
+Tema 8. DEFECTOLOGÍA EN LOS PROCESOS DE
+FABRICACIÓN
+ 
+BLOQUE 3. COMPORTAMIENTO EN SERVICIO
+Tema 9. DETERIORO DE LOS MATERIALES. CORROSIÓN
+Tema 10. FRACTURA
+Tema 11. FATIGA
+Tema 12. TERMOFLUENCIA
+Tema 13. FRICCIÓN Y DESGASTE
+ 
+BLOQUE 4. CONTROL DE CALIDAD
+Tema 14. CALIDAD. INSPECCIÓN. ENSAYOS.
+ 
+PRÁCTICAS
+1. Ensayo de líquidos penetrantes
+2. Ensayo de partículas magnéticas
+3. Ensayo de ultrasonidos
+4. Propiedades mecánicas de polímeros
+5. Propiedades térmicas de polímeros
+6. Identificación de zonas anódicas y
+catódicas
+7. Ensayo de corrosión en cámara de niebla
+salina
+8. Selección de materiales (prácticas de
+ordenador)
+ 
+'

@@ -1,0 +1,34 @@
+'
+
+Generalidades del trtamiento fenomenológico de la materia
+en electromagnetismo.
+Propiedades dieléctricas de materiales.
+Propiedades magnéticas de materiales.
+Propiedades electromagnéticas y ópticas de
+materiales
+
+1. INTRODUCCIÓN
+Tratamiento fenomenológico de la materia en
+electromagnetismo. Ondas electromagnéticas. Estructura de
+los cristales. Bandas de energía en sólidos,
+Interacción de la radiacion con la materia.
+2. DIELÉCTRICOS Y FERROELÉCTRICOS
+Introducción. Campo eléctrico
+macroscópico Ley de Gauss en un dieléctrico. Vector
+desplazamiento, Susceptibilidad y constante
+dieléctrica. Campo molecular en un dieléctrico.
+Polarizabilidad Polarización permanente: Ferroelectricidad
+piezoelectricidad.
+3. MAGNETISMO EN LA MATERIA
+Introducción. Materiales magnéticos Corrientes
+atómicas, dipolos magnéticos y magnetización.
+Vector excitación magnética Susceptibilidad y
+permeabilidad magnética, Díamagnetismo y
+paramagnetismo.
+Ferromagnetismo, Dominios magnéticos
+Antiferromagnetismo y ferrimagnetismo.
+4. PROPIEDADES ÓPTICAS DE LOS MATERIALES.
+Introducción. Propagación de ondas
+electromagnéticas. Polarización. Birrefrigerancia.
+Interferencias y Difracción.
+'

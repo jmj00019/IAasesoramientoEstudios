@@ -1,0 +1,40 @@
+'
+
+-Tecnologías para a la salud y bienestar:
+tecnologías actuales y tendencias futuras para la mejora de
+calidad de vida y el bienestar
+-Aplicaciones de las tecnologías de la
+información y de la comunicación para la
+tele-asistencia.
+· Sistemas de tele-asistencia
+· Sistemas de monitorización
+· Diseño de soluciones socio-sanitarias
+integradas
+
+
+Tecnologías para a la salud y bienestar 
+  
+Datos en términos de salud y bienestar
+El papel de la tecnología en la salud y el
+    bienestar
+
+Sistemas de monitorización / Sistemas de
+  tele-asistencia 
+  
+Internet de las Cosas.
+Sensores y actuadores
+Dispositivos inteligentes en tele-asistencia
+Seguridad y Privacidad.
+El papel del usuario en el diseño, desarrollo y
+    evaluación del sistema.
+
+Diseño de soluciones socio-sanitarias integradas.
+  Metodología de implantación de soluciones TIC. 
+  
+Identificación del objetivo.
+Análisis del contexto (persona, espacio, etc.).
+Elección de solución TIC.
+Adaptación de solución TIC.
+
+
+'

@@ -1,0 +1,74 @@
+'
+
+Seguridad en las Tecnologías de la Información.
+Amenazas de Seguridad. Políticas y Estándares de
+Seguridad
+Criptografía Básica. Seguridad en SS.OO.: Sistemas
+de Confianza, autentificación y control de accesos.
+Seguridad en Redes: Protocolos, detección de Intrusiones.
+Protección de datos de Carácter Personal.
+ 
+
+Programa teórico
+
+Seguridad en las Tecnologías de la Información.
+  Amenazas de Seguridad 
+  
+Conceptos básicos
+La Seguridad como Proceso.
+
+Políticas y Estándares de Seguridad 
+  
+Políticas Procesales
+Políticas Formales
+Estándares.
+
+Criptografía Básica 
+  
+Introducción
+Criptografía Clásica
+Cifrados por Bloques
+Cifrados de Flujo
+Funciones Resumen
+Criptografía Asimétrica.
+
+Seguridad en SS.OO., Sistemas de Confianza y Control de
+  Accesos 
+  
+El Sistema Operativo
+Gestión de Usuarios
+El Sistema de Ficheros
+Archivos de Registro
+Controles de Acceso
+Programación Segura.
+
+Seguridad en Redes, Protocolos, Detección de
+  Intrusiones 
+  
+Introducción
+Arquitectura de Red
+Protocolos de Comunicación Segura
+Sistemas de Detección de Intrusiones
+Sistemas Trampa.
+
+Protección de datos de Carácter Personal 
+  
+Legislación.
+
+
+Programa práctico
+
+Práctica 1: Vulnerabilidades.
+Práctica 2: PGP.
+Práctica 3: Herramientas de criptografía
+  básica.
+Práctica 4: Herramientas de algoritmos
+  asimétricos.
+Práctica 5: Manejo de contraseñas.
+Práctica 6: Ingeniería inversa.
+Práctica 7: Detección de Intrusiones.
+Práctica 8: Trabajo relacionado con la
+  asignatura.
+
+ 
+'

@@ -1,0 +1,53 @@
+'
+
+-Los dialectos históricos hispánicos.
+Justificación histórica.
+-Caracterización fonético-fonológica,
+morfológica y sintáctica del mozárabe, el
+leonés, el aragonés, el riojano y el
+judeoespañol.
+-Metodología de trabajo en geografía
+lingüística y cartografía
+lingüística.
+
+
+1. Hablas y dialectos de España
+
+
+1.1. Introducción
+
+
+1.2. Mozárabe
+
+1.2.1. El dialecto
+mozárabe
+1.2.2. Diptongación
+1.2.3. Consonantes
+1.2.4. Morfología
+
+1.3. Leonés
+
+1.3.1. Hablas leonesas
+1.3.1.1. Hablas asturianas
+1.3.1.2. Gallego-asturiano
+1.3.1.3. Leonés
+1.3.1.4. Extremeño
+
+1.4. Aragonés
+
+1.4.1. Hablas aragonesas
+1.4.2. Vocalismo
+1.4.3. Consonantismo
+1.4.4. Morfología
+1.4.5. Sintaxis
+
+1.5. Riojano
+
+
+1.6. Judeoespañol
+
+1.6.1. Vocalismo
+1.6.2. Consonantismo
+1.6.3. Morfología
+1.6.4. Léxico
+'

@@ -1,0 +1,33 @@
+'
+
+
+Normalización en el dibujo de la especialidad y
+  creación de planos.
+Dibujo geométrico bi-tridimensional en entorno
+  CAD.
+Creación de sólidos. Modelado de
+  superficies.
+
+
+Tema 1. DISEÑO EN INGENIERÍA MECÁNICA.
+1.1. Introducción al diseño industrial.
+1.2. Las especificaciones de diseño.
+1.3. La metodología en el proceso de diseño.
+Validación de alternativas.
+1.4. Ingeniería de diseño y fabricación.
+Técnicas de prototipado.
+Tema 2. DIBUJO EN LA ESPECIALIDAD.
+2.1. Principios generales para la representación de
+elementos en la especialidad.
+2.2. Representación de planos en la especialidad.
+Tema 3. GENERACIÓN DE DOCUMENTACIÓN GRÁFICA
+MEDIANTE TÉCNICAS CAD 2D.
+3.0. Introducción al diseño industrial. 3.1.
+Software de diseño. la interfaz de trabajo. 3.2. Las
+operaciones básicas de dibujo. 3.3. Los modificadores. 3.4.
+Las capas. 3.5. Operaciones de Acotado. 3.6. Las anotaciones. 3.7.
+Las escalas anotativas. 3.8. Presentaciones. La impresión de
+planos. 3.9. Diseño mecánico con Autocad Mechanical
+2020.
+Tema 4. DIBUJO TRIDIMENSIONAL: ENTORNOS CAD Y BIM.
+'

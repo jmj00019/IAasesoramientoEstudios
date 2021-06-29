@@ -1,0 +1,87 @@
+'
+
+
+1. Student-centered methodologies
+1.1. Definition
+1.2 Background
+1.3 Lifelong learning
+
+1.4. Individual differences: Multiple intelligences
+1.5 Practical examples of student-centered methodologies
+
+2. Information and Communication Technologies (ICTs)
+2.1 Definition: CLIL and ICTs methodologies
+2.2 ICTs for CLIL teaching: Assets, challenges and pitfalls
+2.3 Digital resources and tools for CLIL teaching
+2.4 CLIL materials and ICTs
+2.5 Practical examples of ICT for CLIL teaching
+
+
+
+1.
+  Student-centered methodologies
+
+
+1.1. General
+  overview
+
+
+1.1.1.
+  Background
+
+1.1.2.
+Definition
+1.1.3.
+In relation to Life Long Learning
+1.1.4.
+Requirements for a CLIL classroom setting
+1.2.
+Practical examples
+1.2.1.
+Collaborative vs. cooperative learning
+1.2.2.
+Task-based learning vs. project-based learning
+1.2.3.
+Flipped classroom techniques
+ 
+
+2. Multiple Intelligence Theory
+
+ 
+2.1.
+Multiple intelligence theory
+2.2.
+Multiple intelligence theory in the classroom
+2.2.1.
+Teaching
+2.2.2.
+Assessment
+ 
+
+3. CLIL Methodology and ICTs
+
+ 
+3.1.
+General considerations
+3.1.1.
+General overview: ICT vs. LTK
+3.1.2.
+Basic concepts in ICTs
+3.1.3.
+ICTs and CLIL implementation
+3.1.4.
+Computer-mediated teaching/learning (CALL)
+3.1.5.
+Challenges and pitfalls of using ICTs in the CLIL classroom
+3.2.
+Using ICTs in the classroom
+3.2.1.
+Selecting the right application, tool or resource
+3.2.2.
+CLIL materials and ICTs: how to use and where to find
+3.2.3.
+Storing materials, resources and apps
+3.2.4.
+Sharing and safety
+ 
+'

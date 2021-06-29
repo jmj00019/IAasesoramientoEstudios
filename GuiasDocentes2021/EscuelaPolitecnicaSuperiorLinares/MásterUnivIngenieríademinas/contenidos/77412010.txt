@@ -1,0 +1,57 @@
+'
+
+· Introducción y conceptos generales.
+· Diseño de una explotación minera.
+· Planificación y control de producción.
+· Evaluación de proyectos mineros.
+
+Tema 1:
+INTRODUCCIÓN Y CONCEPTOS GENERALES.
+
+ 
+    Criterios y parámetros básicos de
+  planificación y desarrollo minero, los recursos y las
+  reservas minerales. El proyecto minero integral y sus etapas. La
+  fase de planificación. La fase de estimación
+  inicial de costes. Aguas, terrenos, y escombreras. Servicios e
+  infraestructuras mineras. El planeamiento ambiental.
+
+ 
+Tema 2: EL
+DISEÑO DE LAS EXPLOTACIONES MINERAS.
+
+ 
+   La información geológica y minera.
+  Métodos y modelos para el diseño de una
+  explotación minera; el krigeaje. Los límites del
+  hueco minero y el dimensionamiento de la mina, curvas
+  tonelaje-ley. Desarrollo del proceso de minado, el banco minero y
+  el descubrimiento de la mena. Los taludes y las pistas mineras.
+  Construcción de pistas. Los factores ambientales y de
+  sostenibilidad en el diseño, la integración
+  ambiental.
+
+Tema 3: LA
+PLANIFICACIÓN Y EL CONTROL DE PRODUCCIÓN.
+
+ 
+   La fase de producción y la planificación de
+  la ejecución. La capacidad de producción de los
+  equipos mineros y la estimación de la producción.
+  Selección y dimensionamiento de los parques de maquinaria
+  minera, control de la producción, eficiencia, ciclos.
+  Costes de capital y de financiación de los equipos. La
+  gestión de los stocks.
+
+Tema
+4: ECONOMÍA MINERA Y FINANCIACIÓN DE PROYECTOS
+MINEROS.
+Conceptos
+e índices de economía minera. Determinación de
+costes en minería. La estimación de los ingresos, y
+los precios. El algoritmo de Lane. Los factores de los proyectos
+mineros de inversión. Toma de decisiones y
+financiación de los proyectos mineros. Las ayudas fiscales,
+el factor de agotamiento y la amortización acelerada.
+ 
+'

@@ -1,0 +1,65 @@
+'
+
+Técnicas Criptográficas Avanzadas. Protocolos
+criptográficos. Infraestructuras de Clave Pública y
+Certificados Digitales. Identidad digital. Identificación de
+agentes y usuarios en entornos complejos. Vulnerabilidades en el
+software y medidas de protección. Sistemas de
+Detección de Intrusiones y Sistemas Trampa.
+Ingeniería Inversa y Análisis Forense de
+computadores.
+ 
+
+
+Técnicas Criptográficas
+Avanzadas. Cifrados asimétricos -
+Criptografía de Curva Elíptica - Funciones resumen -
+Números Aleatorios
+
+Protocolos Criptográficos.
+Introducción a los Protocolos Criptográficos -
+Diseño de un Protocolo - Consideraciones Prácticas -
+Ejemplos
+
+Infraestructuras de Clave Pública y Certificados
+Digitales. Papel del Reloj - Servidores de Claves -
+Infraestructuras de Clave Pública - PKIs en el mundo
+real
+
+Identidad Digital. Identificación de Agentes y
+usuarios en entornos complejos.  El problema de la
+Identificación - Identificación mediante
+Contraseñas
+
+Vulnerabilidades en el Software y medidas de
+protección. Vulnerabilidades - Detección y
+Eliminación - Programación Segura
+
+Sistemas de Detección de Intrusiones y Sistemas
+Trampa. Introducción - Sistemas de Detección
+de Intrusiones - Cortafuegos - Sistemas Trampa 
+
+
+
+
+Ingeniería Inversa y Análisis Forense de
+Computadores. Introducción - Análisis
+Forense - Adquisión y Análisis de la
+Información - Ingeniería Inversa
+ 
+
+Práctica 1: Uso avanzado de GnuPG
+
+Práctica 2: Compromiso local de
+equipos.
+
+Práctica 3: Compromiso remoto de
+sistemas.
+
+Práctica 4: Sistemas de
+Detección de Intrusiones.
+
+Práctica 5: Ingeniería
+Inversa.
+ 
+'

@@ -1,0 +1,10 @@
+(75512008,'Mindfulness y flow  (conciencia plena y flujo)','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75512008/es/2020-21-75512008_es.html'),
+(75512001,'Los pilares de la psicología positiva y su metodología','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75512001/es/2020-21-75512001_es.html'),
+(75512004,'La inteligencia emocional: entrenamiento en el ámbito de la salud','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75512004/es/2020-21-75512004_es.html'),
+(75512005,'Resiliencia y afrontamiento: resistencia ante la adversidad','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75512005/es/2020-21-75512005_es.html'),
+(75512003,'Potencial humano: las fortalezas','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75512003/es/2020-21-75512003_es.html'),
+(75515001,'Prácticas externas','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75515001/es/2020-21-75515001_es.html'),
+(75512002,'El sistema emocional','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75512002/es/2020-21-75512002_es.html'),
+(75516001,'Trabajo fin de Máster','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75516001/es/2020-21-75516001_es.html'),
+(75512006,'Optimismo y humor','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75512006/es/2020-21-75512006_es.html'),
+(75512007,'Entrenamiento en inteligencia emocional en los ámbitos educacional y organizacional','36','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/755A/75512007/es/2020-21-75512007_es.html')

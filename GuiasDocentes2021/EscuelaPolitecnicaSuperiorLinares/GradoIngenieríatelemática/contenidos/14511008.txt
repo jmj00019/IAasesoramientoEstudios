@@ -1,0 +1,75 @@
+'
+
+
+Teórico:
+
+Módulo 1. Introducción a la Informática
+
+                
+Fundamentos de Sistemas operativos y Bases de datos
+Módulo 2. Programación Modular y estructurada
+     
+Práctico:
+
+Familiarizar al alumno con el uso del ordenador y su sistema
+  operativo (Window, linux,..)
+Sesiones destinadas al uso y
+  menejo de un lenguaje de programación esturcturada para
+  ayudar a entender los conceptos desrrollados en la parte
+  teórica de la asignatura
+
+
+
+Teórico:
+
+Módulo 1:
+1.Introducción a la Informática
+    Computadores y programas
+    Ciclo de Vida de un programa
+    Fundamentos de sistemas operativos y bases de
+datos
+Módulo 2:
+2. Programación modular y estructurada
+   2.1  Tipos de datos, expresiones, y
+operadores
+
+Variables
+Operaciones aritméticas
+Operadores
+Expresiones
+Acceso a miembros
+Sentencias y bloques
+
+ 
+   2. 2 Estructuras de Control
+
+Estructuras selectivas
+Estructuras repetitivas
+
+   2.3  Programación Modular y
+Funciones
+    2.4  Array y vectores
+
+Array
+Array Multidimensionales
+Vectores
+
+ 2.5 . Entrada/salida
+
+E/S básica
+Clases de flujos
+Entrada por consola
+Salida por consola
+Archivos
+
+ 2.6  Recogida de basura y gestión de
+memoria
+  
+Práctico:  
+
+Práctica 1: Estructuras Secuenciales
+Práctica 2: Estructuras condicionales
+Práctica 3: Estructuras cíclicas
+Práctica 4: Funciones y Procedimientos
+
+'

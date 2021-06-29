@@ -1,0 +1,50 @@
+'
+
+
+Álgebra
+Lineal: Espacios vectoriales y espacios afines. Aplicaciones
+lineales. Matrices. Diagonalización. Autovalores y
+autovectores. Norma y aplicaciones lineales acotadas. Ejemplos
+importantes de espacios de señales. Sistemas LTI.
+
+Geometría:
+Espacios vectoriales con producto interior. Ángulos. Teorema
+de Pitágoras. Espacio de Hilbert. Bases ortogonales y
+ortonormales. Introducción a la dft. Teorema del muestreo
+digital uniforme. Caracterización de filtros como operadores
+de convolución.
+
+Algoritmica
+Numérica: Introducción a la teoría de
+algoritmos. Eficiencia. Límites de lo computable. Estudio de
+algunos casos particulares: algoritmos en grafos, fft.
+
+
+Clases expositivas en gran grupo:
+
+1. Matrices.
+2. Determinantes.
+3. Sistemas lineales.
+4. Espacios vectoriales.
+5. Aplicaciones lineales.
+6. Producto escalar.
+7. Diagonalización de matrices.
+8. Geometría afín
+
+Clases en grupos de prácticas:
+
+1.Números naturales. Sistemas de numeración.
+Prácticas con Mathematica.
+2. Divisibilidad en el conjunto de los enteros. Prácticas
+con Mathematica.
+3. Ecuaciones en diferencias. Prácticas con
+Mathematica.
+4. Formas cuadráticas. Signo de una forma
+cuadrática. Prácticas con Mathematica.
+5. Algoritmia numérica. Grafos. Prácticas con
+Mathematica.
+6. Transformada de Fourier discreta. Prácticas el
+Mathematica.
+7. Problemas de la asignatura. Prácticas con
+Mathematica
+'

@@ -1,0 +1,81 @@
+'
+
+1. Introducción al estudio de la Mecánica de
+Fluidos.
+2. Fluidostática.
+3. Cinemática de los fluidos.
+4. Leyes de conservación en forma integral:
+ecuación de continuidad, ecuación de
+conservación de la cantidad de movimiento, ecuación
+de conservación de la energía.
+5. Análisis dimensional y semejanza física.
+6. Flujo en conductos.
+7. Introducción al flujo en canales abiertos.
+
+-- CONTENIDOS DESARROLLADOS--
+Introducción al estudio de la Mecánica de Fluidos.
+Fluidostática.
+Cinemática de los fluidos.
+Leyes de conservación en forma integral:
+ecuación de continuidad, ecuación de
+conservación de la cantidad
+de movimiento, ecuación de conservación de la
+energía.
+Análisis dimensional y semejanza física.
+Flujo en conductos.
+Introducción al flujo en canales abiertos
+Profesora responsable de la asignatura: María
+Victoria Ortega Garrido.
+1.Introducción al estudio de la Mecánica de
+Fluidos. Introducción a la asignatura.- ¿Qué
+es un fluido?.- Propiedades.- Viscosidad y ley de Newton.-
+¿Qué necesita el técnico saber sobre fluidos?
+Objetivos y simplificaciones fundamentales.- Conceptos
+básicos.- Estrategia en el estudio de los fluidos.
+2. Fluidostática.- Ecuación fundamental de la
+hidrostática. Implicaciones.- Fuerzas sobre superficies.-
+Arquímedes.- Ejemplos.
+3. Cinemática de los fluidos.- Campo fluido. Flujo
+estacionario. Flujo uniforme. Trayectoria, senda, línea,
+superficie y tubo de corriente y línea, superficie y
+volumen fluidos.
+4. Leyes de conservación. Introducción.- Leyes de
+conservación.- Teorema de transporte de Reynolds.-
+Ecuación de continuidad.-Ecuación de cantidad de
+movimiento y momento cinético.- Ecuación de la
+energía.- Interpretación física de las
+ecuaciones.- Aplicaciones.
+5. Análisis dimensional y semejanza física.-
+Fundamento del análisis dimensional.- Teorema de Buckinham.-
+Cálculo de parámetros adimensionales.-
+Interpretación física.- Semejanza.
+6. Flujo en conductos. Introducción.- Pérdidas de
+energía en flujos internos y externos.- Pérdidas de
+carga en tuberías: ecuaciones empíricas.-
+Pérdidas de carga en tuberías: ecuación de
+Darcy-Weissbach.- Factor de fricción.- Dependencia del
+factor de fricción con la rugosidad.- Dependencia del factor
+de fricción con el número de Reynolds:
+solución laminar y el problema turbulento.- Ecuaciones para
+calcular el factor de fricción.- La ecuación de
+Colebrook.- Rugosidad natural y artificial.- Métodos de
+cálculo del factor de fricción en régimen
+turbulento: iteraciones, fórmulas aproximadas y diagramas.-
+El diagrama de Moody.- Pérdidas locales.- Interferencia.
+7. Introducción al flujo en canales abiertos.-
+Introducción y conceptos básicos.- Análisis
+Dimensional del problema general.-Clasificación de flujos en
+canales abiertos.- Flujo uniforme: pérdidas; análisis
+y diseño deinstalaciones; sección óptima.-
+Flujo variado:energía específica; profundidad
+crítica; flujo sin fricción en canales rectangulares;
+resaltos hidráulicos.- Flujo gradualmente variado:
+planteamiento de la ecuación general y soluciones
+básicas.- Medidores y vertederos.
+Prácticas: se realizarán diferentes
+prácticas relacionadas con fluidostática, ecuaciones
+de conservación, flujo ideal, introducción al CFD o
+flujo en conductos. Se deberá obtener una
+calificación mínima en la realización de las
+memorias de prácticas para superar la asignatura.
+'

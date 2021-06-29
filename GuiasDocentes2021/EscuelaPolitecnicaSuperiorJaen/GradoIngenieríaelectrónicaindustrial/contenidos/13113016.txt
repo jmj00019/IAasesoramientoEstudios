@@ -1,0 +1,97 @@
+'
+
+
+Tecnología
+  de la iluminación en automoción y
+  electrónica utilizada
+
+
+Tecnología
+  Led y elementos de protección
+
+
+Driver
+  de alimentación de corriente lineales
+
+
+Driver
+  PWM
+
+
+Driver
+  de alimentación conmutados. Estabilidad y lazos de
+  realimentación
+
+
+Aplicación
+  circuitos integrados fabricantes y herramientas de
+  diseño
+
+
+Futuro
+  de los sistemas de iluminación en
+  automoción.
+
+
+
+
+TEORÍA
+
+
+
+Tema 1.- Tecnología de la
+  iluminación en automoción y electrónica
+  utilizada 
+   Tema 2.- Tecnología de la luz I (Fundamentos Y
+  aplicaciones) 
+   Tema 3.- Tipos de lámparas en iluminación.
+  Automoción evolución (pasado, presente y futuro)
+   Tema 4.- Tecnología Led . Tipos  de Led
+   Tema 5.- Tecnologías ópticas de la
+  iluminación en automóviles
+   Tema 6.- Driver de alimentación de diodos led y
+  Driver lineales de corriente
+   Tema 7.- Fuentes de alimentación reguladas
+  discretas 
+   Tema 8.- Fuentes de alimentación reguladas con
+  circuitos integrados
+   Tema 9.- Driver PWM. Driver de alimentación
+  conmutados. Configuraciones
+   Tema 10.- Estabilidad y lazos de realimentación
+   Tema 11.- Aplicación circuitos integrados
+  fabricantes y herramientas de diseño
+
+
+ 
+
+PRÁCTICAS
+LABORATORIO
+
+
+1.- Caracterización de
+led  
+ 2.- Simulaciones  ópticas
+ 3.- Fuentes de Corriente   
+
+4.- Fuentes de
+corriente con circuitos integrados lineales  
+
+5.- Fuente
+conmutada reductor con CI 2575
+
+6.- Medida
+configuración dc-dc reductora 
+
+7.- medida
+configuración dc-dc elevadora 
+
+8.-
+Simulación de convertidores de potencia.
+Realimentación
+
+9.- Proyecto
+de iluminación Led ( 6h)
+
+ 
+
+'

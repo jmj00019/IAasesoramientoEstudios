@@ -1,0 +1,27 @@
+'
+
+Realización y defensa ante un tribunal universitario de
+un proyecto, memoria o estudio en el que se integren y desarrollen
+los contenidos formativos re- cibidos y que debe estar orientado a
+la aplicación de las competencias asociadas al título
+de Máster.
+
+Realización, presentación y defensa, una vez
+obtenidos todos los créditos del plan de estudios, de un
+ejercicio original realizado individualmente ante un tribunal
+universitario, consistente en un proyecto integral de seguridad
+informática en el que se sinteticen las competencias 
+adquiridas en las enseñanzas.
+El TFM podrá pertenecer a una de las tres siguientes
+modalidades contempladas :
+a) Proyectos de ingeniería
+b) Estudios técnicos
+c) Trabajos teóricos/experimentales
+El estudiante deberá entregar en el Registro auxiliar de
+la EPSJ el TFM por el procedimiento, formatos y soportes
+establecidos por la Comisión de Coordinación
+Académica del Máster (encargada de aprobar las
+propuestas de TFM) y en las normas de estilo que publique el
+Centro. En cualquier caso, al menos se deberá entregar una
+copia digital de la memoria del TFM.
+'

@@ -1,0 +1,76 @@
+'
+
+Termodinámica
+Electromagnetismo
+
+Contenidos teóricos:
+BLOQUE I: TERMODINÁMICA
+Tema 1:TEMPERATURA Y CALOR: Conceptos básicos. Principio
+cero de la termodinámica. Concepto de temperatura y escalas
+termométricas. Tipos de termómetros. Ecuaciones de
+estado de un sistema. Coeficientes térmicos. Calor.
+Capacidad calorífica y calor específico. Cambios de
+fase: calor latente. Tema 2: PRIMER PRINCIPIO DE LA
+TERMODINÁMICA: Trabajo termodinámico. Energía
+interna. Enunciados del primer principio. Transformaciones
+termodinámicas del gas ideal. Tema 3: SEGUNDO PRINCIPIO DE
+LA TERMODINÁMICA:Necesidad del segundo principio. Enunciados
+del segundo principio. Ciclo y teorema de Carnot. Escala
+termodinámica de temperaturas. Teorema de Clausius.
+Entropía. Variaciones de entropía de un gas
+ideal.
+ BLOQUE II: ELECTROMAGNETISMO
+ Tema 4:CAMPO Y POTENCIAL ELÉCTRICOS: Carga
+eléctrica. Ley de Coulomb. Campo eléctrico. Flujo
+eléctrico. Ley de Gauss: aplicaciones. Diferencia de
+potencial. Potencial eléctrico. Cálculo del potencial
+eléctrico. Energía potencial electrostática .
+Tema 5: CAMPO ELÉCTRICO EN LA MATERIA: Conductores y
+aislantes. Conductores en equilibrio electrostático.
+Capacidad de un conductor. Condensadores y capacidad.
+Energía almacenada en un condensador. Dipolo
+eléctrico en un campo externo. Condensadores con
+dieléctrico. Tema 6:CORRIENTE ELÉCTRICA Y CIRCUITOS
+DE CORRIENTE CONTINUA: Corriente eléctrica: intensidad y
+densidad de corriente. Resistencia y ley de Ohm. La energía
+en los circuitos eléctricos: fuerza electromotriz y
+baterías. Análisis de circuitos de corriente
+continua. Circuitos RC: carga y descarga de un condensador.
+Instrumentos de medida: galvanómetro, amperímetro y
+voltímetro. Tema 7: EL CAMPO MAGNÉTICO Y SUS FUENTES:
+Introducción. Líneas de campo magnético. Flujo
+magnético. Movimiento de partículas cargadas en un
+campo magnético. Fuerza sobre un conductor. Efecto Hall.
+Pares de fuerzas sobre espiras de corriente. Campo magnético
+creado por una carga móvil. Campo magnético creado
+por corrientes eléctricas: ley de Biot y Savart. Ley de
+Ampère: aplicaciones . Tema 8: INDUCCIÓN
+ELECTROMAGNÉTICA: Introducción. Fuerza electromotriz
+debida al movimiento. Ley de Faraday. Ley de Lenz. Inductancia
+mutua. Autoinducción. Energía magnética.
+Circuitos RL. Magnetismo en la materia. Tema 9: CORRIENTE ALTERNA:
+Introducción. Alternador elemental. Fuerza electromotriz
+sinusoidal. Circuito serie RLC. Valores medios y eficaces. Ley de
+Ohm aplicada a las magnitudes eficaces. Potencia en los circuitos
+de corriente alterna. El transformador Tema 10: ONDAS
+ELECTROMAGNÉTICAS: Introducción. La ecuación
+de onda para los campos eléctrico y magnético. Ondas
+electromagnéticas. Intensidad de una onda
+electromagnética. Emisión de ondas
+electromagnéticas. El espectro electromagnético.
+Contenidos prácticos:
+Se realizarán: Un seminario de Introducción a la
+Teoría de la Medida y cinco prácticas de laboratorio
+seleccionadas de la siguiente lista:
+1.- Calibrado de un termómetro
+2.- Calor específico de un sólido
+3.- Ecuación de estado de los gases ideales
+4.- Campo y potencial eléctricos entre las placas de un
+         condensador 
+5.- Ley de Ohm. Asociación de resistencias
+6.- Carga y descarga de un condensador
+7.- Campo magnético en espiras y bobinas
+8.- Resonancia en circuitos RLC: Circuito sintonizador
+ 
+ 
+'

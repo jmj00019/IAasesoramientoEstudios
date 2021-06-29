@@ -1,0 +1,158 @@
+'
+
+Introducción a la Metrología: Sistema
+Internacional de unidades. Función metrológica en los
+sistemas de calidad. Metrología legal. Evaluación de
+la incertidumbre de medida. Cadena e instrumentos de medida. Medida
+de las magnitudes fundamentales
+ 
+
+
+
+
+Introducción
+  a la Metrología: Sistema Internacional de
+  unidades.
+
+
+Tema
+  1. Introducción a la Metrología.
+
+
+Tema
+  2. Sistema Internacional de unidades.
+
+
+Tema
+  3. Vocabulario y conceptos
+
+
+
+Resultado
+  31
+
+
+ 
+
+
+
+
+Función
+  metrológica en los sistemas de calidad y Metrología
+  legal.
+
+
+Tema
+  4. Metrología en la industria: Inspección y
+  ensayo-conformidad (riesgo del cliente, riesgo del fabricante),
+  control de calidad, concepto de tolerancia, aspectos legales
+  básicos.
+
+
+Tema
+  5. Industria 4.0. Medición y minería de
+  datos.
+
+
+Práctica
+  1. Extracción de información de un número
+  elevado de medidas
+
+
+
+Resultado
+  32
+
+
+ 
+
+
+
+
+Cadena
+  e instrumentos de medida.
+
+
+Tema
+  6. Clasificación de los sistemas de medida.
+
+
+Tema
+  7. Características metrológicas de los sistemas de
+  medida.
+
+
+Práctica
+  2 Utilización de instrumentos de medida
+  básicos.
+
+
+
+Resultado
+  33
+
+
+ 
+
+
+
+
+Medida
+  de las magnitudes fundamentales
+
+
+Tema
+  8. Medidas dimensionales.
+
+
+Tema
+  9. Medidas de masa, tiempo, temperatura y corrientes.
+
+
+Tema
+  10. Utilización de las medidas para la mejora de los
+  procesos: diseño de experimentos básico.
+
+
+Práctica
+  3. Análisis de medidas para mejora de un proceso de
+  impresión 3D.
+
+
+
+Resultado
+  COPT1R
+
+
+ 
+
+
+
+
+Evaluación
+  de la incertidumbre de medida.
+
+
+Tema
+  11. Calidad de una medida.
+
+
+Tema
+  12. Estimación de la incertidumbre de medida:
+  Estándar, tipo A, tipo B, combinada y expandida.
+
+
+Práctica
+  4 Estimación de la incertidumbre
+
+
+Práctica
+  5 Ejemplo de calibración de un sensor de
+  ultrasonidos
+
+
+
+Resultados
+  34 y 35
+
+'

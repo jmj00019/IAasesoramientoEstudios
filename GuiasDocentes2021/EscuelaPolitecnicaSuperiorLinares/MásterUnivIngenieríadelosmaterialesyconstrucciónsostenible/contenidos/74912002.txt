@@ -1,0 +1,30 @@
+'
+
+Fundamentos de los materiales metálicos. Mecanismos de
+endurecimiento y transformaciones de fase. Modificación de
+propiedades. Comportamiento en condiciones de servicio.
+Características de las principales familias de materiales
+metálicos. Nuevas aleaciones metálicas utilizadas en
+función de las: i) aplicaciones (Alta
+temperatura-refractarios, intermetálicos, componentes
+eléctricos-electrónicos); ii) sectores Industriales
+(Energía, transporte, industria biomédica, Industria
+química, alimentación, deporte). Tendencias
+actuales.
+
+Tema 1: Deformación plástica. Propiedades
+mecánicas de los materiales
+Tema 2: Mecanismos de endurecimiento.  Efecto de los
+elementos de aleación
+Tema 3: Deformación a alta temperatura. Comportamiento de
+los materiales
+Tema 4: Materiales para alta temperatura.
+Tema 5: Introducción al conformado de materiales, tipos,
+aplicaciones
+Tema 6: Ensayos específicos para la
+caracterización de tratamientos térmicos
+Tema 7: Modelización matemática del ensayo
+Jominy.
+Tema 8: Simulación de procesos industriales.
+Actividad Práctica: Visita empresa
+'

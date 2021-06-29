@@ -1,0 +1,127 @@
+'
+
+Fuentes de energía: Energía primaria, intermedia y
+final. Combustibles. Características
+
+Tecnologías asociadas a las aplicaciones
+energéticas: Funcionamiento y características
+fundamentales. Modelos
+
+Gestión de la energía: Procedimientos asociados
+a la gestión energética. Termoeconomía.
+
+
+UNIDAD DIDÁCTICA  I : LA ENERGÍA Y SUS
+  FUENTES
+
+
+ 
+TEMA 1 :  ENERGÍA Y DESARROLLO. 1.1.-
+Introducción. 1.2.- Consumos de energía. 1.3.-
+Consumo de energía por sectores. 1.4.- Comercio
+energético internacional. 1.5.- Actividad reguladora de los
+organismos energéticos. 1.6.- Impacto medioambiental.
+Contaminación. 1.7.- Gestión energética
+
+ 
+TEMA 2 : FUENTES DE ENERGÍA. 2.1.-
+Introducción. 2.2.- Combustibles fósiles y
+biomásicos. Características. 2.3.- Combustibles
+Sólidos. 2.4.- Combustibles Líquidos. 2.5.-
+Combustibles Gaseosos. 2.6.- Biomasa. 2.7.- Almacenamiento,
+transporte y distribución de combustibles. 2.8.-
+Combustibles nucleares. 2.9.- Energía solar. 2.10.- Otras
+fuentes de energía.
+
+UNIDAD DIDÁCTICA II : TECNOLOGÍAS Y
+  TRANSFORMACIONES ENERGÉTICAS
+
+
+TEMA 3 : TRANSFORMACIONES TÉRMICAS. 3.1.-
+Introducción; 3.2.- Combustión. 3.3.- Quemadores y
+hogares. 3.4.- Calderas. 3.5.- Tiro y chimeneas. 3.6.- Hornos
+industriales. 3.7.- Secaderos. 3.8.- Torres de
+refrigeración. 3.9.- Intercambiadores de calor. 3.10.-
+Almacenamiento de calor (y frío). 3.11.- Transporte y
+distribución del calor. 3.12.- Frío Industrial y aire
+acondicionado. 3.13.- Obtención de energía
+térmica por reacciones nucleares. 3.14.- Obtención de
+calor por energía solar. 3.15.- Balances y rendimientos de
+equipos de producción de calor y frío.
+
+TEMA 4: TRANSFORMACIONES MECÁNICAS. 4.1.-
+Introducción. 4.2.- Energía hidráulica. 4.3.-
+Centrales de vapor. 4.4.- Turbinas de gas. 4.5.- Motores
+Alternativos de Combustión Interna. 4.6.- Centrales
+Nucleares. 4.7.- Instalaciones eólicas de producción
+de energía eléctrica. 4.8.- Pilas de combustible.
+4.9.- Otros sistemas de producción de trabajo. 4.10.-
+Consideraciones adicionales sobre balances y rendimientos
+
+UNIDAD DIDÁCTICA III : CONSERVACIÓN DE LA
+  ENERGÍA
+
+
+ 
+TEMA 5 : AHORRO ENERGÉTICO. 5.1.-
+Introducción. 5.2.- Medios para el ahorro energético.
+5.3.- Tecnologías y actuaciones básicas para el
+ahorro y aprovechamiento de energía. 5.4.-
+Cogeneración. 5.5.- Transportes.
+
+TEMA 6 : ECONOMÍA DE LA ENERGÍA.
+6.1.- Introducción. 6.2.- Balances económicos
+globales y criterios de selección de inversiones. 6.3.-
+Valoración económica en base energética y
+exergética. 6.4.- Bases termoeconómicas del ahorro de
+energía
+
+
+ANEXO I:  GLOSARIO DE
+  TÉRMINOS
+
+
+
+ANEXO II: VALORACIÓN
+  ENERGÉTICA
+
+
+
+ANEXO III: CONCEPTOS E
+  INDICADORES
+
+
+
+ANEXO IV: COMPLEMENTOS DE
+  EXERGÍA
+
+
+
+ANEXO V: PRODUCCIÓN DE
+  CALOR
+
+
+
+ANEXO VI: APROXIMACIÓN DE
+  PROPIEDADES TERMODINÁMICAS
+
+
+
+ANEXO VII: COMPLEMENTOS DE
+  PLANTAS DE POTENCIA
+
+
+
+ANEXO VIII: FUNDAMENTOS DE
+  GESTIÓN ENERGÉTICA
+
+
+
+ANEXO IX: EL COSTE DE LA
+  ENERGÍA
+
+
+TRABAJO DIRIGIDO DE CLASE (clases grupos
+prácticos): REALIZACIÓN DE
+DIAGNÓSTICO ENERGÉTICO EN UNA UNIDAD FAMILIAR
+'

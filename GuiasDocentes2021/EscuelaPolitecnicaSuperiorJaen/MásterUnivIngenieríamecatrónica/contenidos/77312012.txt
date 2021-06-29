@@ -1,0 +1,71 @@
+'
+
+- Gestión de control de versiones.
+- Gestión de proyectos software.
+- Software de gestión de proyectos.
+- Paradigmas de desarrollo de software.
+- Desarrollo clásico frente a desarrollo ágil.
+- Modelado de software.
+- Diagramas UML.
+
+
+
+Módulo
+  I: Introducción a los Proyectos
+  Informáticos
+
+
+ Tema
+  1. Introducción a la Gestión y Control de Proyectos
+  Informáticos
+
+  
+
+Módulo
+II: Desarrollo de un Proyecto
+  
+Tema
+2. Gestión y Control de Proyectos Informáticos:
+procesos centrales
+ Módulo
+III: Desarrollo de software
+Tema
+3. Paradigmas de desarrollo de software
+Módulo
+IV: Modelado de
+Software                                       
+Tema
+4. Diagramas de Diseño
+
+
+PRACTICOS
+
+
+Módulo
+  I. Gestión de Control de Versiones
+
+
+Tema
+  1. Herramientas para el Control de Versiones
+
+
+Tema
+  2. GIT
+
+
+Módulo
+  II. Gestión de Proyectos
+
+
+Tema
+  3. Herramientas para la gestión de Proyectos:
+  Redmine
+
+Módulo
+III. Desarrollo de software
+Tema
+4. Herramientas para el desarrollo de software
+Tema
+5. Desarrollo de una aplicación
+                                  
+'

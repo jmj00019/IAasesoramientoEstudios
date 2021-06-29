@@ -1,0 +1,60 @@
+'
+
+I. ¿Qué es un problema en Matemáticas?
+Técnicas y métodos generales de resolución de
+problemas.
+II. Problemas clásicos en la Matemática y su
+influencia en el desarrollo de las mismas.
+III. Evolución histórica de los grandes campos
+de las Matemáticas.
+IV. El problema de los fundamentos de las Matemáticas:
+crisis y soluciones aportadas en la historia. Las limitaciones
+internas de los sistemas formales.
+
+
+
+Problemas,
+    técnicas y conceptos básicos del Análisis
+    Matemático y el Álgebra.
+
+
+Problemas
+    clásicos. Fundamentos de las Matemáticas.
+
+
+Análisis
+    de problemas actuales de la matemática y su
+    relación con otras ciencias.
+
+
+Técnicas
+  y métodos de resolución de problemas.
+
+
+Introducción
+      a la resolución de problemas.
+
+
+Técnicas
+      de paridad, invariantes y coloraciones.
+
+
+Técnicas
+      de extremos.
+
+
+El
+      principio del palomar. Técnicas combinatorias.
+
+
+Problemas
+      de aritmética y Teoría de
+      números.
+
+
+Otras
+      técnicas.
+
+
+
+'

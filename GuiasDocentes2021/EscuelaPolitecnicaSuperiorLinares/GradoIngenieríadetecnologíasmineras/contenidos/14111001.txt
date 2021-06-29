@@ -1,0 +1,161 @@
+'
+
+BLOQUE I.- TÉCNICAS DE REPRESENTACIÓN Y
+NORMALIZACIÓN.
+BLOQUE II.- GEOMETRÍA MÉTRICA Y PROYECTIVA.
+BLOQUE III.- GEOMETRÍA DESCRIPTIVA.
+
+
+
+BLOQUE I.-
+  TÉCNICAS DE REPRESENTACIÓN Y
+  NORMALIZACIÓN.
+
+Tema 1: Técnicas de representación.
+Tema 2: Normalización básica. Escritura en los
+dibujos técnicos. Formatos y Escalas. Principios generales
+de representación en los dibujos técnicos.
+
+
+BLOQUE II.-
+  GEOMETRÍA MÉTRICA Y PROYECTIVA.
+
+Tema 3: Tangencias.
+Tema 4: Curvas cónicas. Cíclicas
+Tema 5: Homología plana. Afinidad.
+
+
+BLOQUE III.-
+  GEOMETRÍA DESCRIPTIVA.
+
+
+Sistema Diédrico:
+
+Tema 6: Punto. Recta. Plano. Intersecciones.
+Tema 7: Paralelismo. Perpendicularidad. Distancias.
+Tema 8: Métodos para la obtención de verdaderas
+magnitudes.
+Tema 9: Proyecciones de cuerpos. Secciones planas.
+Tema 10: Intersecciones de cuerpos.
+
+Sistema de Planos Acotados:
+
+Tema 11: Punto. Recta. Plano. Intersecciones.
+Tema 12: Paralelismo. Perpendicularidad. Distancias
+
+Sistema Axonométrico:
+
+Tema 13: Fundamentos. Clases de axonometrías.
+Perspectivas axonométricas, partiendo de las proyecciones
+diédricas.
+
+
+CONTENIDOS
+  PRÁCTICOS
+
+
+
+
+Práctica
+  1.
+ 
+Principios
+  de normalización.
+
+
+
+
+Práctica
+  2.
+ 
+Principios
+  de normalización.
+
+
+
+Práctica
+3.
+  Representación
+de piezas.
+
+
+Práctica
+4.
+ 
+Geometría
+métrica, plana, proyectiva. Cónicas
+
+
+Práctica
+5.
+ 
+Sistema
+Diédrico I.
+
+
+
+Práctica
+  6.
+ 
+Sistema
+  Diédrico II.
+
+
+
+
+Práctica
+  7.
+ 
+Sistema
+  Diédrico. Verdaderas magnitudes.
+
+
+
+Práctica
+8.
+ 
+Sistema
+Diédrico. Representación de cuerpos.
+Secciones planas.
+
+
+
+Práctica
+  9.
+Sistema
+  Diédrico. Intersección de cuerpos I.
+
+
+
+Práctica
+10.
+Sistema
+Diédrico. Intersección de cuerpos II.
+
+
+Práctica
+11.
+ 
+Sistema
+de Planos Acotados. Incidencias.
+
+
+
+Práctica
+  12.
+ 
+Sistema
+  Axonométrico Ortogonal. Representación de cuerpos
+  I
+
+
+
+
+Práctica
+  13.
+ 
+Sistema
+  Axonométrico Ortogonal. Representación de cuerpos
+  II
+
+'

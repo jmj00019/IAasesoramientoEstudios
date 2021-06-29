@@ -1,0 +1,47 @@
+'
+
+Este es un curso básico de introducción a los
+protocolos de red. Se describen los principales organismos de
+estandarización en el ámbito de las
+telecomunicaciones asociados con la definición de los
+protocolos e interfaces de red, como puede ser la familia de
+protocolos TCP/IP desarrollada en el ámbito del IETF. En los
+niveles inferiores se estudian aspectos básicos de las
+tecnologías de redes de área local.
+En la parte práctica de la asignatura se realiza la
+configuración básica del acceso a Internet en redes
+cableadas e inalámbricas y el análisis del
+tráfico generado por distintas aplicaciones como navegadores
+web, gestores de correo electrónico, y otros.
+Palabras clave: protocolo, interfaz, estándar,
+Internet.
+
+Tema 0. Introducción.
+Tema 1. Estandarización.
+Tema 2. Tecnologías básicas de las redes de
+comunicaciones.
+Tema 3. Protocolos de telecomunicación elementales.
+Tema 4. Servicios de telecomunicación.
+Práctica 1. Acceso a red en el Laboratorio de
+Telemática.
+Práctica 2. Cableado en el Laboratorio
+deTelemática.
+Práctica 3. Software para análisis de
+tráfico.
+Práctica 4. Modelo cliente/servidor.
+Práctica 5. Emulación de LANs.
+Práctica 6. Simulación de redes con ns-3.
+Se dotará al alumno de la capacidad para estar al
+día en las novedades en ciencia y tecnología, sobre
+todo en este tipo de materias, tan ligadas a un entono tan
+dínamico como son las telecomunicaciones, y en concreto la
+Ingeniería Telemática. Además, se
+desarrollarán habilidades de comunicación
+información, ideas, problemas y soluciones en el
+ámbito de ingeniería y la sociedad en general a
+través de procesos de entrega de documentación o
+presentaciones orales. Con respecto a la organización del
+trabajo, se fomentará la colaboración y trabajo en
+equipo a través del propio diseño de las
+prácticas.
+'

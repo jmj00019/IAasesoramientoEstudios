@@ -1,0 +1,109 @@
+'
+
+Concepto de Fundamentos de Psicobiología.
+Neurobiología celular. Neurofisiología celular.
+Introducción a la Neuroquímica y Farmacología
+del Sistema Nervioso. Principios de Genética.
+Anatomía macroscópica general del Sistema Nervioso y
+Sistema Vascular. La Médula Espinal: estructura y funciones
+reflejas. El Tronco Cerebral y el Sistema nervioso Autónomo.
+El Cerebelo. Diencéfalo: Tálamo, Subtálamo,
+Epitálamo e Hipotálamo. Telencéfalo I:
+Ganglios de la Base y Sistema Límbico. Telencéfalo
+II: Corteza Cerebral.
+
+
+BLOQUE I: ESTRUCTURA Y FUNCIÓN NEURONAL Y BASES
+  GENÉTICAS DE LA CONDUCTA:
+
+
+Tema 1.- Concepto de Fundamentos de
+Psicobiología: La Psicobiología en un programa de
+Psicología; Psicobiología y Neurociencia; Etapas
+claves en la investigación del Sistema Nervioso (SN);
+Introducción al concepto de Plasticidad neural.
+
+Tema 2.- Neurobiología celular: La neurona:
+sus componentes básicos comunes a otras células;
+Procesos neuronales: axón y dendritas; Sistemas de
+transporte en la neurona; Concepto de sinapsis: tipos; Otro tipo de
+células en el SN: Las glías; Degeneración y
+Regeneración en el SN.
+
+Tema 3.- Neurofisiología celular: El
+potencial de reposo: bases iónicas; bomba Na/K; El potencial
+de acción: bases iónicas; periodos refractarios;
+Propagación del impulso nervioso; Potenciales
+postsinápticos; Integración sináptica:
+sumación espacial y temporal; Inhibición y
+facilitación presináptica.
+
+Tema 4.- Introducción a la
+Neuroquímica y Farmacología del Sistema Nervioso:
+Neurotransmisores: criterios para su identificación; Pasos
+en la transmisión neuroquímica; Segundos mensajeros
+en el cerebro: función y tipos; Concepto de neuromodulador.
+concepto de cotransmisión; Formas generales de alterar la
+transmisión neuroquímica mediante drogas; Tipos de
+neurotransmisores
+
+Tema 5.- Principios de Genética:
+Introducción histórica; Genética estructural:
+conceptos básicos; División celular: mitosis y
+meiosis; Genética molecular: ADN, ARN; replicación,
+transcripción y traducción del ADN; Código
+genético; Control de la expresión
+genética.
+
+BLOQUE II: NEUROANATOMÍA.
+
+
+Tema 6.- Anatomía macroscópica
+general del Sistema Nervioso y Sistema vascular: Conceptos y
+términos básicos en neuroanatomía; Divisiones
+generales del sistema nervioso; Las meninges; El liquido
+cefalorraquídeo: función, secreción y
+circulación; Patologías de las meninges; Principales
+sistemas vasculares del encéfalo; La barrera
+hematoencefálica y hematorraquídea.
+
+Tema 7.- La Médula Espinal: estructura y
+funciones reflejas: Introducción; Estructura externa de la
+medula espinal; Estructura interna: sustancia gris, sustancia
+blanca; Conexiones centrales: sistemas ascendentes y descendentes;
+Consideraciones funcionales y clínicas.
+
+Tema 8.- El Tronco Cerebral y Sistema
+Autónomo: Introducción; Anatomía
+macroscópica: estructura externa; Estructura interna: bulbo
+raquídeo, protuberancia, mesencéfalo; Nervios
+craneales; Divisiones del Sistema autónomo: Simpático
+y Parasimpático (características); Consideraciones
+funcionales y clínicas.
+
+Tema 9.- El Cerebelo: Anatomía
+macroscópica; Corteza del cerebelo: histología;
+Núcleos profundos; Conexiones cerebelosas: aferencias y
+eferencias; Consideraciones funcionales y clínicas.
+
+Tema 10.- Diencéfalo: Tálamo,
+Subtálamo, Epitálamo e Hipotálamo:
+Anatomía macroscópica; Tálamo:
+características generales, núcleos talámicos,
+conexiones, consideraciones funcionales y clínicas;
+Núcleos subtalámicos y epitálamo;
+Hipotálamo: divisiones anatómicas, conexiones,
+sistema hipotálamo-hipofisario, consideraciones funcionales
+y clínicas.
+
+Tema 11.- Telencéfalo I: Ganglios de la
+base y Sistema Límbico: Ganglios de la base, conexiones y
+circuitos funcionales; Amígdala, Hipocampo y Área
+Septal: consideraciones funcionales.
+
+Tema 12.- Telencéfalo II: Corteza Cerebral:
+Anatomía macroscópica: lóbulos, surcos,
+circunvoluciones; Estructura de la corteza cerebral; Áreas
+funcionales corticales; Consideraciones funcionales y
+clínicas.
+'

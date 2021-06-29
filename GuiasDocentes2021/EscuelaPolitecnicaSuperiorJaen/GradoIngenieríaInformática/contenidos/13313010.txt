@@ -1,0 +1,66 @@
+'
+
+Introducción al Procesamiento del Lenguaje Natural.
+Análisis del contenido: Léxico, Sintáctico,
+Semántico. Recursos lingüísticos: Entidades
+(NER), Ontologías. Resolución de la ambigüedad
+léxica. Técnicas y herramientas. Aplicaciones
+actuales del PLN.
+ 
+
+
+Teoría
+
+
+Módulo 1
+
+
+Introducción al Procesamiento del Lenguaje
+  Natural
+Análisis del contenido: Léxico,
+  Sintáctico, Semántico
+Recursos lingüísticos: Entidades (NER),
+  Ontologías
+
+
+Módulo 2
+
+
+Resolución de la ambigüedad léxica
+
+
+Módulo 3
+
+
+Análisis de opiniones y sentimientos
+
+
+Módulo 4
+
+
+Aplicaciones del PLN
+
+
+Prácticas
+
+Se realizarán diferentes actividades en el laboratorio de
+prácticas al objeto de aclarar, profundizar y afianzar los
+contenidos prácticos de la asignatura. Estos contenidos
+serán desarrollados tanto en las sesiones de teoría
+en gran grupo como en las sesiones de prácticas en el
+laboratorio. 
+
+Bloque 1.
+  Introducción al entorno de desarrollo. 
+   Bloque 2. Preprocesamiento
+   Bloque 3. Análisis  
+   Bloque 4. Extracción de entidades
+
+
+Bloque
+  5. Aplicación (proyecto)
+
+ 
+Cada alumno realizará prácticas obligatorias
+incrementales en las sesiones de laboratorio.
+'

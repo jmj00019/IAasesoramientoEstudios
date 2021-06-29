@@ -1,0 +1,66 @@
+'
+
+1. Introduction: basic concepts in syntax
+2. A multi-faceted approach to syntax: the
+syntax-semantics-pragmatics interface
+2.1. Dependency, valency and argument structure
+2.2. Minimalist syntax
+2.3. A constructionist approach to syntax
+2.4. Explorations in functional syntax
+
+Module 1: INTRODUCTION: BASIC CONCEPTS IN SYNTAX
+1. Definition of syntax and of some basic syntactic notions
+2. Constituent structure
+3. Syntactic categories
+4. Grammatical functions:
+4.1. Sentence level
+4.2. Phrase level
+
+Module 2: A MULTI-FACETED APPROACH TO SYNTAX: THE
+SYNTAX-SEMANTICS-PRAGMATICS INTERFACE
+Module 2.1: DEPENDENCY, VALENCY AND ARGUMENT STRUCTURE
+1. Preliminary notions
+2. Definition of key terms: valency, dependency and argument
+structure
+3. Dependents of the verb
+4. Syntactic and semantic valency
+
+Module 2.2: X-BAR SYNTAX AND PRINCIPLES-AND-PARAMETERS THEORY
+1. Introduction
+2. Basic concepts of Chomskyan linguistics:
+2.1. Universal Grammar
+2.2. The Language Faculty
+2.3. Competence
+2.4. I-Language and E-Language
+3. Principles-and-Parameters Theory
+4. X-Bar Theory and the description of English syntax:
+projections
+ 
+Module 2.3: A CONSTRUCTIONIST APPROACH TO SYNTAX
+1. Introduction
+2. Origins of the theory and general tenets
+3. Key features of constructions:
+3.1. Definition
+3.2. The integration of verb and construction
+4. Typology of constructions
+5. Some common syntactic constructions of English:
+5.1. The ditransitive construction
+5.2. The caused-motion construction
+5.3. The resultative construction
+5.4. The way-construction
+
+Module 2.4: EXPLORATIONS IN FUNCTIONAL SYNTAX
+1. Introduction
+2. Theoretical framework: formalist-functionalist linguistics
+3. Functional Sentence Perspective
+4. Thematic structure and information structure of the
+sentence
+5. The packaging of information in the sentence:
+5.1. Communicative factors
+5.2. Prosodic factors
+5.3. Grammatical factors
+6. Noncanonical syntactic constructions:
+6.1. Preposing constructions
+6.2. Postposing constructions
+6.3. Processes of preposing and postposing.
+'

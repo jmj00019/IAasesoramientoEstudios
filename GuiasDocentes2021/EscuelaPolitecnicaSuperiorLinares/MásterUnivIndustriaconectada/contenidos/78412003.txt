@@ -1,0 +1,55 @@
+'
+
+En esta asignatura se
+desarrollarán conceptos relacionados tanto con la
+robótica industrial como la de servicios. Se
+comenzarán con los conceptos claves e introductorios de la
+robótica, de qué elementos se componen, tipos y
+funcionalidades, arquitecturas de control y programación
+así como aplicaciones
+actuales tanto desde el punto de vista de
+investigación como comercial. Para la parte correspondiente
+a los sistemas ciberfísicos desde un punto de vista general,
+y partiendo de que un sistema robótico es un claro ejemplo
+de este tipo de dispositivos mecatrónicos, se
+introducirán y desarrollarán
+conceptos relacionados con los sistemas de percepción,
+el control automático, el control inteligente, los sistemas
+computacionales determinísticos y la programación de
+este tipo de sistemas. Se obviará la parte relacionada con
+la mecánica aplicada y de fabricación por impartirse
+en otras asignaturas.
+Con respecto a la parte
+práctica de la asignatura, se trabajará, a nivel de
+laboratorio e incluso durante parte de las lecciones de
+teoría, desarrollando un pequeño proyecto en equipo
+de un robot de servicios que permita la asimilación y
+afianzamiento de los conceptos mencionados.
+
+Tema 1. Introducción a la robótica y los sistemas
+ciberfísicos
+- Conceptos básicos y definiciones.
+- Elementos que componen un robot.
+- Tipologías de robots.
+- Integración física de robots: sensores y
+elementos de actuación y comunicación.
+- Integración cognitiva.
+- Contexto social e industrial.
+
+Tema 2. Robótica industrial y de servicios aplicados a
+la industria
+- Configuración y selección de robots
+manipuladores.
+- Diseño y programación de células
+robotizadas utilizando herramientas 3D.
+- Robots colaborativos
+- Nuevos robots aplicados a la industria.
+
+Tema 3. Diseño, desarrollo y validación de
+robots de servicios
+- Definición de especificaciones y cuaderno de carga
+- Modelado cinemático.
+- Arquitecturas software de control.
+- Programación y control dinámico.
+- Soluciones comerciales actuales.
+'

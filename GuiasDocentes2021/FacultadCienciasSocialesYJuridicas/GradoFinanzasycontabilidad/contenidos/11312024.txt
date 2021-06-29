@@ -1,0 +1,120 @@
+'
+
+
+Contenidos de teoría:
+
+
+Introducir conceptos básicos de
+  Informática.
+Sistemas y tecnologías de la información en la
+  empresa.
+Herramientas de soporte para los procesos de análisis
+  financiero.
+Explotación de los sistemas de gestión:
+  Aplicación al análisis financiero.
+Sistemas de gestión financiera y su integración
+  en la empresa.
+
+
+Contenidos de prácticas:
+
+
+Herramientas de resolución de problemas de
+  gestión empresarial y que ayuden a resolver problemas
+  propios del análisis de información.
+Herramientas para explotatación de los sistema de
+  gestión empresarial: aplicación al análisis
+  financiero. Software de gestión financiera.
+
+
+
+CONTENIDOS DE TEORÍA
+
+
+
+Módulo 1: Introducción.
+
+Conceptos básicos de informática.
+Sistemas de información.
+Sistemas de información empresarial.
+Estrategia y sistemas de información.
+Sistemas de información y la estructura organizativa
+    de la empresa: la empresa virtual.
+La dimensión electrónica de la empresa.
+
+
+Módulo 2: Herramientas informáticas de
+  soporte para los procesos de análisis financiero.
+
+Bases de datos.
+DataWarehouse.
+Datamart.
+
+
+
+
+Módulo 3: Explotación de los sistemas de
+  gestión: Herramientas para el análisis
+  financiero.
+
+Inteligencia de negocio (Business Intelligence).
+Consultas e informes simples (Queries y reports).
+OLAP (On-Line Analytic Processing).
+Data mining o minería de datos.
+Sistemas de soporte a la decisión (DSS).
+Análisis de datos: Data Science.
+
+
+
+
+Módulo 4: Sistemas de gestión financiera y
+  su integración en la empresa.
+
+Back-office.
+Front-Office.
+Software de gestión financiera.
+    
+
+
+
+
+
+
+CONTENIDOS DE PRÁCTICAS
+
+
+
+Bloque 1: Herramientas de resolución de problemas
+  de gestión empresarial y que ayuden a resolver problemas
+  propios del análisis de información.
+
+Búsquedas de información en la Web.
+Sistemas de Gestión de Bases de Datos.
+Acceso a bases de datos en línea para el
+    análisis financiero: SABI.
+
+
+Bloque 2: Herramientas para explotatación de los
+  sistema de gestión empresarial: aplicación al
+  análisis financiero. Software de gestión
+  empresarial.
+
+
+Realización de balances y gráficos
+    explicativos de los mismos.
+Uso de funciones para cálculos complejos.
+Análisis de distintos escenarios de un problema
+    concreto.
+Realización de simulaciones.
+Cálculo de objetivos.
+Uso de funciones propias del análisis
+    financiero.
+Bases de datos y tablas dinámicas.
+Desarrollo de estados financieros previsionales.
+Software de gestión financiera.
+Consultas e informes simples.
+OLAP (On-Line Analytic Processing).
+Análisis de grandes conjuntos de datos.
+
+
+'

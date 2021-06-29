@@ -1,0 +1,147 @@
+'
+
+Introducción a los Sistemas Integrados de
+Fabricación.
+Diseño para la Fabricación
+Fabricación Integrada por Ordenador CIM
+Planificación y Control de la Fabricación
+
+
+
+
+Bloque
+  1. Introducción a los Sistemas Integrados de
+  Fabricación.
+
+
+Tema
+  1. Introducción: Definiciones, Evolución de la
+  fabricación, Sistemas de producción,
+  Automatización y trabajo manual.
+
+
+Tema
+  2. Sistemas de fabricación: Tipos de industrias. Tipos de
+  procesos. Organización de procesos. Parámetros
+  básicos.
+
+
+Tema
+  3. Métricas y coste en procesos de
+  fabricación.
+
+
+
+
+Bloque
+  2. Diseño para la fabricación
+  DFM.
+
+
+Tema
+  4. Introducción al DFM: Ventajas e inconvenientes.
+  Herramientas para la toma de decisiones: Proceso Analítico
+  Jerárquico.
+
+
+Tema
+  5. Ingeniería concurrente: Priorización,
+  racionalización y otras estrategias. Composición de
+  equipos concurrentes. Tipos de organización. 
+
+
+Tema
+  6. Guías DFM: Reglas para el diseño de componentes.
+  Reglas para el diseño de productos: métricas para
+  cuantificar el ensamblaje. Reglas para la fabricación
+  aditiva.
+
+
+
+
+Bloque
+  3. Fabricación integrada por ordenador
+  CIM
+
+
+Tema
+  7. Introducción al CIM: Definición, Objetivos,
+  Componentes, Modelos.
+
+
+Tema
+  8. Diseño y Fabricación Asistidas por
+  Ordenador.
+
+
+Tema
+  9. Introducción a la automatización de la
+  producción.
+
+
+Tema
+  10. PLCs, Control Numérico y Robots industriales.
+
+
+Tema
+  11. Sistemas Automáticos de Manutención.
+
+
+
+
+Bloque
+  4. Planificación y control de la
+  fabricación
+
+
+Tema
+  12. Planificación de procesos
+
+
+Tema
+  13. Aseguramiento de la calidad.
+
+
+
+Contenidos Prácticos
+
+
+Práctica
+  1. Diseño para la fabricación y el ensamblaje.
+  Sesión 1. Ingeniería concurrente: Desarrollo de
+  producto basado en ingeniería concurrente. Sesión
+  2. Implementación de guías de diseño en
+  software CAD
+
+
+Práctica
+  2. Software CAE. Sesión 3. Introducción a la
+  utilización de software de análisis numérico
+  de ingeniería aplicado a la fabricación.
+
+
+Práctica
+  3. Simulación procesos de doblado. Sesión 4.
+  Introducción al software de elementos finitos ABAQUS.
+  Sesión 5. Simulación en ABAQUS de proceso de
+  doblado incremental.
+
+
+Práctica
+  4. CAM. Sesión 6. Utilización de software CAM para
+  la obtención de código G a partir de modelo
+  3D.
+
+
+Práctica
+  5. Ingeniería inversa. Sesión 7. Escaneado 3D.
+  Sesión 8. Impresión 3D.
+
+
+Práctica
+  6. Simulación de procesos mediante eventos discretos.
+  Sesión 9. Introducción a la simulación de
+  eventos discretos en el entorno NetLogo. Sesión 10.
+  Modelado de una línea de proceso.
+
+'

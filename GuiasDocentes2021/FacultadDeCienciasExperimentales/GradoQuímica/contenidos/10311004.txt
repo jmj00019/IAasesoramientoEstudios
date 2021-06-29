@@ -1,0 +1,68 @@
+'
+
+Manejo del material de laboratorio.
+Introducción a las técnicas básicas en el
+laboratorio químico.
+
+
+Bloque
+  I:
+
+
+1. Determinación de la masa
+  atómica del magnesio.
+
+
+2. Determinación de la masa
+  molecular del dióxido de carbono.
+
+
+3. Determinación de la
+  fórmula del clorato de potasio.
+
+
+4. Obtención y estudio de
+  las propiedades ácido-base del cloruro de hidrógeno
+  y del amoniaco.
+
+
+5. Obtención y estudio de
+  las propiedades rédox del peróxido de
+  hidrógeno. 
+
+
+6. Obtención y estudio de
+  las propiedades físicas del complejo [Cu(NH 
+  3) 
+  4]SO 
+  4·H 
+  2O.
+
+
+Bloque
+  II
+
+
+7. Técnicas de
+  destilación: separación e identificación de
+  los componentes volátiles de un vino mediante
+  destilación fraccionada.
+
+
+8. Aislamiento de aceites
+  esenciales de plantas aromáticas mediante arrastre de
+  vapor e identificación de grupos funcionales mediante
+  ensayos colorimétricos.
+
+
+9. Técnicas
+cromatográficas: identificación de los principios
+activos contenidos en una analgésico comercial
+mediante cromatografía en capa fina y aislamiento.
+10. Aislamiento e
+identificación de la cafeina contenida en diferentes fuentes
+comerciales.
+11. Síntesis y
+purificación mediante recristalización de
+ácido acetilsalicílico (Aspirina®).
+'

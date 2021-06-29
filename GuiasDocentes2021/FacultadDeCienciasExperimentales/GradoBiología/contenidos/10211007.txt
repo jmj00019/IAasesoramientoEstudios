@@ -1,0 +1,353 @@
+'
+
+
+1. Variables indicadoras de estado.
+
+2. Diseño del muestreo y de la
+experimentación en el medio natural.
+
+
+3
+
+.
+Instrumentación para el muestreo y la experimentación
+en campo y en mesocosmos
+
+
+4
+
+.
+Técnicas de laboratorio aplicadas al estudio de plantas,
+animales y ecosistemas
+
+
+ 5
+
+.
+Datos no georeferenciados: Tipos, presentación e
+interpretación de la información
+
+
+6
+
+.
+Cartografía ambiental y teledetección
+
+
+7
+
+.
+Introducción a los sistemas de información
+geográfica (SIG)
+
+
+
+
+Tema
+1.
+
+Diseño
+experimental en Biología de campo.
+
+
+¿Por
+    qué es necesario preocuparse por el diseño
+    experimental?
+
+
+Comenzar
+    con una hipótesis bien definida
+
+
+Manipulación
+    experimental frente a variación natural
+
+
+Variación
+    entre individuos y replicación
+
+
+Aleatorización
+
+
+¿Cuántas
+    réplicas son necesarias?
+
+
+Ejemplos
+    de diseño experimental
+
+
+Tipos
+    de datos, observaciones y variables
+
+
+
+
+
+Tema
+2.
+
+Métodos
+de muestreo
+
+
+Planificación
+    de un muestreo: consideraciones iniciales
+
+
+Tipos
+    de estimas de abundancias.
+
+
+Definición
+    de la unidad de hábitat
+
+
+Métodos
+    de muestreo
+
+
+¿Cómo
+    determinar el número adecuado de muestras?
+
+
+Tipos
+    de muestreo de vegetación y organismos
+    sésiles
+
+
+Métodos
+    de captura y recaptura.
+
+
+Métodos
+    de distancia para organismos móviles
+
+
+
+
+
+Tema
+3 .
+
+Instrumentación
+para el muestreo y la experimentación en campo y en
+mesocosmos
+
+
+¿Qué
+    es un mesocosmos?
+
+
+Inexactitud
+    e imprecisión
+
+
+Cómo
+    reducir la inexactitud y la imprecisión
+
+
+Registro
+    de datos, continuo o puntual, de factores ambientales
+
+
+Observación
+    de ejemplares
+
+
+Captura
+    de ejemplares o muestras
+
+
+Medición
+    de ejemplares o muestras
+
+
+
+
+
+Tema
+4 .
+
+Técnicas
+de laboratorio aplicadas al estudio de plantas, animales y
+ecosistemas
+
+
+Tratamiento
+    y preparación de muestras.
+
+
+Conservación
+    de muestras: colecciones.
+
+
+Mantenimiento
+    de ejemplares vivos en condiciones controladas.
+
+
+Instrumental
+    específico.
+
+
+
+
+
+Tema
+5 .
+
+Datos
+no georeferenciados: Tipos, presentación e
+interpretación de la información
+
+
+Listados,
+    tablas y matrices de datos
+
+
+Representación
+    gráfica
+
+
+Abundancias
+
+
+Gráficos
+    de relaciones
+
+
+Relaciones
+    causales vs. correlacionales, significación
+    estadística vs. relevancia biológica.
+
+
+
+
+
+Tema
+6 .
+
+Cartografía
+ambiental y teledetección
+
+
+Mapa
+    topográfico como fuente de información en
+    biología.
+
+
+Fuentes
+  de cartografía temática.
+
+
+Atlas
+
+
+Cartografía
+      de la vegetación
+
+
+Usos
+      del territorio
+
+
+Mapas
+      edáficos
+
+
+Mapas
+      climáticos
+
+
+
+Parámetros
+  de interés biológico en
+  teledetección.
+
+
+Tipos
+      de vegetación
+
+
+Coberturas
+      y biomasa
+
+
+Estrés
+      de la vegetación
+
+
+Tipos
+      de roca
+
+
+
+
+
+
+Tema
+7
+
+.
+Introducción a los sistemas de información
+geográfica (SIG)
+
+
+Componentes
+    de los SIGs
+
+
+Los
+    SIGs como fuentes de información.
+
+
+Los
+    SIGs como métodos de análisis y
+    modelación.
+
+
+  
+
+PRÁCTICAS
+
+A continuación se exponen
+  los contenidos prácticos que se desarrollarán en
+  una o varias sesiones de laboratorio y/o campo y/o
+  informática:
+
+
+
+Diseños experimentales
+    factoriales
+
+
+Tamaño de muestra y tipos
+    básicos de distribución de organismos
+
+
+Métodos de
+    captura-recaptura
+
+
+Conservación y
+    mantenimiento de especímenes y muestras
+
+
+Técnicas de muestreo y
+    toma de datos en Ecología Acuática
+
+
+Bioindicadores de calidad
+    ambiental
+
+
+Técnicas de muestreo y
+    análisis de vegetación
+
+
+Sistemas de Información
+    Geográfica
+
+
+'

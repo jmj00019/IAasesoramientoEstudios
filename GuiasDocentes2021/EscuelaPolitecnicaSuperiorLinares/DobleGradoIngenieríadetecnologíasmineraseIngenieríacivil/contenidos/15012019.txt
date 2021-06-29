@@ -1,0 +1,88 @@
+'
+
+I. Estructuras geológicas de interés para
+laIngeniería de Minas y Civil
+II: Esfuerzo y deformación en
+materialesgeológicos
+III. Descripción, clasificación
+ycaracterización de suelos geotécnicos
+IV. Mecánica de suelos: condiciones de estabilidad
+ensuelos
+V. Mecánica de rocas: condiciones de estabilidad
+enmacizos rocosos
+VI. Caracterización geomecánica de macizos
+rocosos
+
+
+TEMA 0. Introducción: Rasgos generales
+delcomportamiento mecánico de suelos y rocas. Tipos
+ydefiniciones de suelos y rocas. Factores geológicos
+yproblemas geotécnicos. 
+
+TEMA 1. Estructuras geológicas
+deinterés para la Ingeniería de Minas y
+Civil.Fábricas de los materiales geológicos
+ydiscontinuidades. Estructuras primarias y secundarias. Tipos
+deterrenos y substratos geológicos en función de
+sunaturaleza y estructura (pdp*). Identificación en campo
+dedeformaciones recientes (pdp*). 
+
+TEMA 2. Esfuerzo y deformación enmateriales
+geológicos. Fuerza y esfuerzo. Esfuerzo en unpunto, tensor
+esfuerzo y esfuerzos principales. Elipse y elipsoidede esfuerzos.
+Esfuerzo normal y de cizalla sobre un plano; elCirculo de Mohr
+(pdp*). Concepto de esfuerzo efectivo (pdp*).Conceptos
+básicos sobre deformación. Componentes dela
+deformación. Elipse y elipsoide de
+deformación.Relaciones esfuerzo-deformación.
+Comportamientoelástico, viscoso y plástico.
+Mecanismos de ladeformación. Transición
+dúctil-frágil.Influencia del tiempo en la
+deformación.
+  
+TEMA 3. Descripción, clasificación
+ycaracterización de suelos geotécnicos. Tipos
+yestados de los suelos: granulometría, plasticidad
+ysaturación (pdp*). Influencia de la mineralogía y
+lafábrica en las propiedades
+geotécnicas.Características geotécnicas de los
+sedimentos. Sueloscon problemática especial: expansivos,
+dispersivos, salinosy agresivos, colapsables, permafrost,
+sensitivos ylicuaefactables.
+  
+TEMA 4. Mecánica de suelos: condiciones
+deestabilidad de suelos (pdp*). Permeabilidad, filtraciones y
+redesde flujo. Tensiones efectivas. Consolidación.
+Resistencia alcorte. Taludes en suelos: análisis de la
+estabilidad.Medidas de estabilización. 
+
+TEMA 5. Mecánica de rocas: condiciones
+deestabilidad en macizos rocosos. Propiedades físicas
+ymecánicas de los materiales rocosos. Resistencia de
+lamatriz (pdp*). Tipos y resistencia de las discontinuidades
+(pdp*).Permeabilidad y presión de agua. Resistencia
+ydeformabilidad de macizos rocosos. Tensiones naturales. 
+
+TEMA 6. Caracterización
+geomecánicade macizos rocosos (pdp*). Descripción y
+zonificacióndel afloramiento. Caracterización de la
+matriz rocosa enafloramiento. Descripción de
+discontinuidades.Parámetros del macizo. Clasificaciones
+geomecánicasen diferentes tipos de obras.
+Caracterización global.
+ *(pdp) "para desarrollar en prácticas": 
+los apartados marcados con esta nota son desarrollados en una
+ovarias de las prácticas ya sea en laboratorio, aula
+deproblemas, o salida de campo, o bien en una combinación
+deellas. Cuando el asterisco está en el encabezado del
+tema,afecta a todo él.
+  
+PRÁCTICAS DE LABORATORIO
+A. Descripción y clasificación de suelos.
+B. Ensayos mecánicos de suelos y rocas.
+C. Problemas de análisis de estabilidad  y
+clasificaciones geomecánicas.
+D. Representación y análisis de datos
+estructurales.
+F. Salida de Campo.
+'

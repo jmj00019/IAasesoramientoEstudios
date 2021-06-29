@@ -1,0 +1,39 @@
+'
+
+La Hacienda Pública
+Funciones del sector público.
+El presupuesto público.
+El gasto público.
+Los ingresos públicos.
+
+Bloque I. Introducción al Sector Público
+Tema 1. Economía del Sector Público
+1.1 Hacienda Pública
+1.2 Funciones del Sector Público
+1.3 Presupuesto Público
+1.4 Gasto Público
+1.5 Ingresos Públicos
+Bloque II. Ingresos Tributarios
+Tema 2. Introducción
+2.1 Elementos básicos
+2.2 Tipología de ingresos tributarios
+2.3 Sistema tributario español y
+descentralización
+Tema 3. Recursos tributarios autonómicos
+3.1 Impuesto sobre el Patrimonio
+3.2 Impuesto sobre Sucesiones y Donaciones
+3.3 Impuesto sobre Transmisiones Patrimoniales y Actos
+Jurídicos Documentados
+3.4 Impuestos propios de la Comunidad Autónoma de
+Andalucía
+Tema 4. Recursos tributarios locales
+4.1 Impuesto sobre Bienes Inmuebles
+4.2 Impuesto sobre Actividades Económicas
+4.3 Impuesto sobre Vehículos de Tracción
+Mecánica
+4.4 Impuesto sobre Construcciones, Instalaciones y Obras
+4.5 Impuesto sobre el Incremento de Valor de los Terrenos de
+naturaleza Urbana
+4.6 Impuestos de otras entidades locales distintas a los
+municipios
+'

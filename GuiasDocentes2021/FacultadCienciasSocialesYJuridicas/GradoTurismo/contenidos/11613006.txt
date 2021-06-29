@@ -1,0 +1,99 @@
+'
+
+Esta Asignatura pretende abordar Gestión la
+gestión de la calidad total como sistema integral de
+gestión, con atención especial a la
+problemática que se plantea al respecto en una empresa
+turística. Se comenzará con la problemática
+específica de las empresas de servicios y el acercamiento de
+las particularidades de la calidad en los servicios, en especial a
+los servicios ligados al turismo.
+Se abordarán cuestiones relacionadas con la
+filosofía de gestión subyacente en la Gestión
+de Calidad, los factores clave que determinarán el sistema
+de calidad a diseñar e implantar según los objetivos
+perseguidos y la incidencia de todo ello sobre los siste- mas de
+información de la empresa y sus finanzas. Gestión de
+Calidad y prestación de servicios.
+Fundamentos de Gestión de la Calidad en la empresa
+turística. Trabajo en equipo y Herramientas básicas
+de apoyo en Gestión de Calidad. Sistemas de aseguramiento y
+gestión de calidad. Gestión de la Excelencia y TQM en
+el sector turístico. Investigación de Mercados
+Turísticos
+El proceso de investigación de mercados y el Sistema de
+Información de Marketing. Investigación
+cualitativa.
+Investigación cuantitativa.
+
+Tema 1. la calidad en sector turístico.
+1.1. Concepto de calidad.
+1.2. Evolución de la gestión de la calidad.
+1.3. La calidad del servicio y sus dimensiones.
+ 
+Tema 2. Del aseguramiento a la excelencia en las organizaciones
+turísticas.
+2.1. Norma ISO 9000/2000
+2.2. Norma ISO 9001
+2.3. Modelo EFQM
+2.4. Modelo Iberoamericano de Excelencia en la
+Gestión.
+2.5. Análisis de Peligros y Puntos de control
+críticos (APPCC).
+2.6. Sistema de gestión integrada de la calidad.
+ 
+Tema 3. La autorregulación de la calidad en el sector
+turístico español.
+Justificación de la existencia de sistemas de
+autorregulación de la calidad.
+3.1. El ICTE  y la "Q" de calidad.
+3.2. El SICTED y el distintivo de compromiso de calidad
+turística.
+3.3. Los clubes de calidad en el turismo español.
+3.4. El ICHE y el ICRE.
+ 
+Tema 4. Las expectativas de la calidad del turista.
+4.1. Expectativas sobre la calidad del servicio.
+4.2. Formación de expectativas sobre la calidad del
+servicio turístico.
+4.3. Las expectativas en la valoracion de la calidad del
+servicio turístico.
+4.4. Influencia de las expectativas en la elección del
+turista.
+ 
+Tema 5. Gestión por procesos y mejora continua.
+5.1. Introducción y concepto.
+5.2. Mapa de procesos.
+5.3. Gestión por procesos.
+5.4. Costes en la calidad.
+ 
+Tema 6. Factores organizativos como soporte a la gestión
+de la calidad.
+6.1. Cultura organizativa.
+6.2. Gestión del cambio.
+6.3. Liderazgo.
+6.4. Equipos de trabajo.
+ 
+Tema 7. Herramientas de la calidad en las organizaciones
+turísticas.
+7.1. Benchmarking.
+7.2. Diagramas causa-efecto.
+7.3. Diagramas de control de proceso.
+7.4. Checklist.
+7.5. Diagramas de Pareto.
+7.6. Diagramas de dispersión.
+7.7. Técnicas de Taguchi.
+7.8. Otras técnicas.
+ 
+Tema 8. Medición de la calidad del servicio
+turístico.
+8.1. Modelo GAP
+8.2. Técnica de la viñeta.
+8.3. Blueprinting.
+8.4. Método secuencial de incidentes
+8.5. Encuestas a clientes.
+8.6. Modelo SERVQUAL
+8.7. Modelo SERVPERF
+8.8. Modelo HOTELQUAL
+8.9. Otros modelos
+'

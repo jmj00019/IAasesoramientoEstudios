@@ -1,0 +1,85 @@
+'
+
+Trigonometría plana y esférica.
+Algebra Lineal: Espacios Vectoriales, matrices, sistemas de
+ecuaciones lineales.
+Geometría Analítica del plano y del espacio:
+Cónicas y cuádricas.
+Cálculo Diferencial e Integral para funciones de una
+variable.
+Cálculo Diferencial e Integral para funciones de varias
+variables.
+Métodos numéricos.
+Estadística Descriptiva.
+ 
+
+
+CONTENIDOS DE
+  TEORÍA.
+
+
+Tema
+1.
+Trigonometría
+plana y esférica.
+
+Tema
+  2. Sistemas de ecuaciones lineales.
+
+
+Tema
+  3. Matrices y determinantes.
+
+
+Tema
+  4. Espacios vectoriales.
+
+
+Tema
+  5. Diagonalización de matrices.
+
+
+Tema
+  6. Funciones de una variable. Cálculo diferencial e
+  integral.
+
+
+Tema
+  7. Funciones de varias variables. Cálculo diferencial e
+  integral.
+
+
+Tema
+  8. Resolución numérica de ecuaciones.
+
+
+Tema
+  9. Aproximación de funciones.
+
+
+Tema
+  10. Integración numérica.
+
+
+Tema
+  11. Geometría Analítica del plano y del espacio:
+  Cónicas y cuádricas.
+
+
+Tema
+12.
+Estadística
+Descriptiva.
+
+ 
+
+
+CONTENIDOS DE
+  PRÁCTICAS.
+
+
+Se desarrollan los
+  contenidos teóricos de la materia utilizando el programa
+  Mathematica.
+
+'

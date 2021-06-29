@@ -1,0 +1,64 @@
+'
+
+- Introducción a la Mecánica de Fluidos.
+Ecuaciones de Navier-Stokes.
+- Fluidostática: Tensión superficial.
+Ecuación de Laplace. Número de Bond: meniscos de
+separación aire-agua. Límites de número de
+Bond grande y pequeño frente a la unidad.
+- Procesos de formación de gotas y burbujas. Regimen
+de Rayleigh. Ecuación de Rayleigh-Plesset.
+- Procesos de formación de gotas y burbujas: efecto
+del uso de corrientes externas. Dispositivos en coflujo,
+dispositivos de flujo cruzado, dispositivos de flujo localizado.
+- Sistemas de generación de micro gotas y
+microburbujas con forzado acústico.
+- Sistemas gobernados por campos eléctricos:
+electrosprays.
+- Microfluídica: técnicas de fabricación
+de nanofibras y nanotubos.
+- Encapsulamiento y recubrimiento de micro burbujas.
+
+ 
+
+CONTENIDOS DESARROLLADOS
+
+ 1) Introducción a la Mecánica de Fluidos.
+Descripción de las ecuaciones de conservación de la
+masa, cantidad de movimiento y energía.
+
+2)  Fluidostática: Concepto de tensión
+superficial y descripción la línea de contacto y el
+ángulo de contacto de entrefases
+sólido-líquido-gas. Condiciones de equilibrio en la
+entrefase de dos fluidos inmiscibles. Casos de fluidos en reposo.
+Ecuación de Young-Laplace. Descripción de los
+efectos  del número de Bond: meniscos
+deseparación aire-agua. Soluciones de la ecuación de
+Laplace a altos y bajos números de Bond. Resolución
+de ejemplos.
+
+3) Procesos de formación de gotas y burbujas.
+Inestabilidad de Rayleigh-Plateau y aplicación a la rotura
+de chorros y la formación de gotas. Ecuación de
+Rayleigh-Plesset: comportamiento de burbujas en medios
+líquidos.
+
+4)  Procesos de formación de gotas y burbujas:
+efecto del uso de corrientes externas para la generación de
+gotas y burbujas de tamaños micrométricos
+controlados. Descripción de técnicas de
+generación de gotas y burbujas  en configuración
+de coflujo, flujo cruzado, y flujo enfocado.
+
+5) Sistemas de generación de micro gotas y
+microburbujas con forzado acústico. Sistemas gobernados por
+campos eléctricos:electrosprays.
+6)  Microfluídica: técnicas de
+fabricaciónde nanofibras y nanotubos. Encapsulamiento y
+recubrimiento de micro burbujas. Uso de 
+sustancias
+anfifílicas, o surfactantes, que poseen un extremo
+hidrofílico y otro hidrofóbico para
+estabilización de emulsiones.
+'

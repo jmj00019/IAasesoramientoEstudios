@@ -1,0 +1,95 @@
+'
+
+1. Metodologías de captura y/u obtención de
+modelos digitales de superficies. Características de los
+MDS.
+2. Obtención de modelos digitales del terreno (MDT) a
+partir de modelos digitales de superficies (MDS) o nube de puntos
+originales. Métodos de clasificación y filtrado de
+datos LiDAR.
+3. Control de calidad de modelos digitales de elevaciones
+(MDE).
+4. Procesos de fusión de información
+altimétrica de distinta resolución, procedencia y
+temporalidad para análisis multitemporal de diferentes
+fenómenos mediante modelos digitales de elevaciones.
+
+
+Tema 1. Conceptos Generales sobre
+Modelización.
+1.1 Modelos en las Ciencias y en la Ingeniería.
+1.2 Modelos Digital del Terreno. Modelos Digitales de
+Elevaciones. Modelos Digitales de Edificios y otros modelos
+derivados. Terminología y características.
+1.3 Etapas de generación de un modelo digital de
+elevaciones.
+1.4 Estructuras de almacenamiento de la
+información.
+
+Tema 2. Métodos de captura de la
+información.
+2.1 Métodos indirectos y directos.
+2.2 Métodos fotogramétricos para la
+generación de MDE.
+2.3 Métodos basados en el empleo de sistemas LiDAR.
+2.4 Métodos basados en el empleo de imágenes
+satélite y RADAR.
+
+Tema 3. Modelización. Conceptos de
+Geoestadística.
+3.1 Introducción a la Geoestadística.
+3.2 Métodos básicos de interpolación.
+3.3 Análisis variográfico.
+3.4 Estimación y Simulación
+Geoestadística.
+
+Tema 4. Modelos derivados.
+4.1 Aplicación de los MDE
+4.1.1 Descripción y
+caracterización del relieve.
+4.1.2 Estadísticos básicos basados en variables
+lineales.
+4.1.3 Estadísticos básicos basados en variables
+circulares.
+4.1.4 Descriptores estadísticos globales y
+locales.
+4.2 Modelos topográficos derivados.
+4.2.1 Gradiente. Pendiente.
+Orientación. Curvatura. Rugosidad.
+4.2.2 Clasificación morfométrica del terreno.
+4.2.3 Otros descriptores: entropía, coeficiente de
+correlación, variograma, dimensiones fractales.
+4.3 Simulación de procesos: cuencas hidrológicas y
+visuales.
+4.3.1 Perfiles topográficos.
+4.3.2 Intervisibilidad entre 2 puntos.
+4.3.3 Modelos climáticos.
+4.3.4 Visualización del relieve.
+4.3.5 Reflectancia. Insolación potencial.
+4.3.6 Ocultamiento topográfico.
+4.3.7 Índices de exposición.
+4.3.8 Irradiancia.
+
+Tema 5. Métodos de obtención de MDT a partir
+de MDS
+5.1 Introducción.
+5.2 Métodos de filtrado.
+5.2.1 Filtrado morfológico.
+5.2.2 Filtrado basado en superficies.
+5.2.3 Filtrado basado en segmentación
+5.2.4 Otros tipos de filtrados (FDP-TS, Filtrado basado en
+full-waveform).
+5.3 Comparativa entre los métodos de filtrado.
+
+Tema 6. Calidad en los MDT
+6.1 Introducción. Conceptos básicos.
+6.2 Calidad de la información de entrada
+6.2.1 Mapas de densidad. Histograma
+de densidad. Mapas de distancias.
+6.2.2 Mapa de calidades.
+6.2.3 Exactitud y Consistencia.
+6.3 Calidad del modelo
+6.3.1 Calidad interna.
+Propagación del error. Análisis de residuos.
+6.3.2 Calidad externa.
+'

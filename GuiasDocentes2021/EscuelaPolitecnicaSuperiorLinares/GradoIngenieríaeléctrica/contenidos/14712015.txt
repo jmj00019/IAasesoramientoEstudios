@@ -1,0 +1,143 @@
+'
+
+Reglamentación de las instalaciones eléctricas de
+baja tensión
+Representación gráfica de la instalación
+eléctrica
+Diseño de la topología de la instalación
+eléctrica
+Previsión de potencia de la instalación
+eléctrica
+Cálculo de secciones
+Cálculo de corrientes de cortocircuito
+Aparamenta eléctrica
+Protección contra sobreintensidades
+Instalaciones de puesta a tierra
+Protección de personas frente a contactos directos e
+indirectos
+
+
+TEMA 1: SISTEMAS DE ENERGÍA
+  ELÉCTRICA
+
+
+Introducción
+La energía eléctrica
+  en el panorama energético global
+La producción y demanda de
+  energía eléctrica
+El sector eléctrico
+  español Datos fundamentales
+Descripción general de los
+  sistemas de energía eléctrica
+
+
+TEMA 2. LÍNEAS ELÉCTRICAS. CÁLCULO
+  DE SECCIONES
+
+
+Introducción
+Tipos de líneas
+  eléctricas
+Parámetros y modelos de
+  líneas
+Corrientes de cortocircuito
+Cálculo de cortocircuitos
+  trifásicos equilibrados
+Cálculo de secciones de los
+  conductores
+Sistemas de conexión del
+  neutro y de las masa en redes de distribución
+
+
+TEMA 3. APARAMENTA Y PROTECCIÓN
+
+
+Introducción
+Sistemas y dispositivos de
+  protección
+Protección frente a
+  sobrecargas
+Protección frente a
+  cortocircuitos
+Efectos fisiológicos de la
+  corriente eléctrica y puesta a tierra
+Parámetros de las puestas a
+  tierra
+Protección frente a
+  contactos directos e indirectos
+Protección contra
+  sobretensiones
+
+
+TEMA 4. REDES DE DISTRIBUCIÓN
+
+
+Introducción
+Redes de distribución
+  aéreas
+Redes de distribución
+  subterráneas
+Redes de alumbrado exterior
+
+
+TEMA 5. INSTALACIONES ELÉCTRIAS EN EDIFICIOS DE
+  VIVIENDAS
+
+
+Introducción
+Instalaciones de enlace
+Acometidas
+Centralización de
+  contadores
+Derivaciones individuales
+Dispositivos generales de mando y
+  protección
+Instalaciones interiores o
+  receptoras
+Otras instalaciones
+Instalaciones de puesta a
+  tierra
+
+
+TEMA 6. INSTALACIONES ELECTRICAS EN EDIFICIOS COMERCIALES
+  E INDUSTRIALES
+
+
+Introducción
+Instalaciones de enlace
+Instalaciones interiores o
+  receptoras 
+  
+Locales de pública
+    concurrencia
+Locales con riesgo de incendio o
+    explosión
+Locales de
+    características especiales
+Instalaciones con fines
+    especiales 
+
+Instalaciones de puesta a
+  tierra
+
+ 
+
+PRACTICAS.
+
+TC1 Formación de grupos y descripción actividades
+a realizar en prácticas. Definición de trabajo a
+realizar en actividad académica dirigida.
+P1: Redes de distribución urbanización.  
+P2: Cálculo de instalaciones eléctricas 1:
+edificio de viviendas
+P3: Cálculo de instalaciones eléctricas 2: local
+de pública concurrencia  
+P4: Cálculo de instalaciones eléctricas 3.
+Industria clasificada
+TC2: Actividad académica dirigida: Revisión
+final
+
+ 
+
+'

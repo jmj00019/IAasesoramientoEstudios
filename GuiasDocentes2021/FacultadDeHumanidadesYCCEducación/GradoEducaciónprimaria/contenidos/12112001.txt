@@ -1,0 +1,94 @@
+'
+
+Fundamentación curricular de la Estadística y la
+Probabilidad en Educación Primaria. Contenidos elementales
+de Estadística y Probabilidad (estadística
+descriptiva, el azar en la vida cotidiana, conceptos de
+probabilidad, experimentos compuestos). Problemas que resuelven de
+la vida cotidiana; relación de dichos contenidos con las
+otras áreas del curriculum. Enseñanza y aprendizaje
+de la Estadística y la Probabilidad en Educación
+Primaria. Propuestas de enseñanza-aprendizaje, diseño
+y evaluación.
+
+CONTENIDOS DESARROLLADOS:
+Tema 1: Fundamentación curricular.
+* ¿Qué es la Estadística?
+* Algunas notas históricas sobre Estadística y
+Probabilidad.
+* Aplicaciones de la Estadística, el hombre en su
+mundo biológico, político, social y físico.
+Estadísticas
+nacionales.
+* ¿Por qué enseñar estadística?
+* Objetivos básicos en la enseñanza de la
+estadística.
+* La Estadística y Probabilidad en el
+currículum de Educación Primaria de España y
+de algunos países de
+nuestro entorno.
+* Consideraciones metodológicas: La Estadística
+como tema interdisciplinar; recursos; enfoque exploratorio en
+el análisis de datos; uso del ordenador en la
+enseñanza. Hoja de cálculo Microsoft Excel.
+Tema 2: Organización y representación de datos.
+2.1. Experimentos deterministas y aleatorios.
+2.2. Población y muestra.
+2.3. Estadística descriptiva e inductiva.
+2.4. Tipos de datos y escalas de medida.
+2.5. Variables estadísticas.
+2.6. Frecuencias absolutas, relativas y acumuladas.
+2.7. Tablas de frecuencias de una variable
+estadística.
+2.8. Gráficos de variables cualitativas y discretas.
+2.9. Tablas y gráficos de variables continuas.
+Tema 3: Resúmenes estadísticos.
+3.1. Medidas de tendencia central: media, mediana y moda.
+3.2. Medidas de dispersión: rango, desviación
+media, varianza, desviación típica, coeficiente de
+variación.
+3.3. Estadísticos de orden.
+3.4. Medidas de forma.
+3.5. Proyectos; recogida de datos; realización de una
+encuesta.
+Tema 4. Enseñanza aprendizaje de la Estadística
+en Educación Primaria.
+4.1. Comprensión de tablas y gráficos
+estadísticos.
+4.2. Construir e interpretar gráficos. Investigaciones
+sobre la comprensión de las medidas de tendencia
+central. Investigaciones sobre la comprensión de los
+estadísticos de orden.
+4.3. Errores y dificultades en la comprensión de los
+conceptos estadísticos fundamentales: media,
+dispersión,
+estadísticos de orden, comparaciones, muestreo.
+4.4. Materiales y recursos.
+4.5. Construcción y análisis didáctico
+de situaciones de enseñanza-aprendizaje.
+TEMA 5. Nociones elementales de Probabilidad.
+5.1. El azar en la vida cotidiana.
+5.2. Experimentos y sucesos aleatorios.
+5.3. Conceptos de probabilidad: teoría clásica,
+probabilidad frecuencial o empírica, probabilidad subjetiva,
+probabilidad formal.
+5.4. Asignación de probabilidades: Regla de Laplace.
+Estimación de la probabilidad a partir de la frecuencia
+relativa. Asignación subjetiva de probabilidades.
+5.5. Experimentos compuestos.
+5.6. Probabilidad condicional.
+Tema 6: Enseñanza aprendizaje de la Probabilidad en
+Educación Primaria.
+6.1. Génesis de las ideas probabilísticas.
+6.2. La intuición del azar.
+6.3. La estimación de la frecuencia relativa.
+6.4. Estimación de posibilidades y la noción de
+probabilidad.
+6.5. Las operaciones combinatorias y efecto de la
+instrucción.
+6.6. Sesgos y estrategias en la estimación de
+probabilidades.
+6.7. Materiales y recursos.
+6.8. Análisis didáctico de situaciones de
+enseñanza-aprendizaje.
+'

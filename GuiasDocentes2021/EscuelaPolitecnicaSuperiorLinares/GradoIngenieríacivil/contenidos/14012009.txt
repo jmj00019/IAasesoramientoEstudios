@@ -1,0 +1,21 @@
+'
+
+Diseño, proyecto y construcción de líneas
+ferroviarias. Líneas de alta velocidad. Implantación
+de sistemas ferroviarios interoperables de comunicaciones, control
+de tráfico, electrificación. Proyecto,
+construcción y explotación de estaciones
+intermodales, así como los ramales de acceso a las mismas y
+a los polígonos industriales. Proyecto, construcción,
+mantenimiento y explotación de funiculares,
+teleféricos, metropolitanos y tranvías.
+
+BLOQUE A: INTRODUCCIÓN AL SISTEMA FERROVIARIO
+BLOQUE B: TRAZADO Y GEOMETRÍA DE LA VÍA
+BLOQUE C: ESTRUCTURA DE LA VÍA
+BLOQUE D: MECÁNICA DE LA VÍA
+BLOQUE E: CALIDAD Y MANTENIMIENTO DE LA VÍA
+BLOQUE F: DINÁMICA FERROVIARIA
+BLOQUE G: EXPLOTACIÓN TÉCNICA
+ 
+'

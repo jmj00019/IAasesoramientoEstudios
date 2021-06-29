@@ -1,0 +1,42 @@
+'
+
+- Fundamentos teóricos de la inteligencia
+turística
+- Herramientas Big Data
+- Open Data
+
+
+En
+  esta asignatura se va a abordar el uso de la tecnología al
+  servicio del análisis de la inteligencia turística.
+  Concretamente, se plantearán los fundamentos
+  teóricos de la inteligencia turística y cómo
+  desde ellos se evoluciona al concepto de destinos
+  turístico inteligente, así como el cambio que este
+  modelo supone desde el punto de vista de los sistemas de
+  información.
+
+
+Asimismo,
+  se introducirán los principios básicos de los
+  procesos Big Data, y se estudiarán distintas aplicaciones
+  del mismo a la gestión de los destinos turísticos
+  inteligentes, tanto desde la perspectiva del profesional comoo
+  desde la perspectiva de las autoridades gestoras competentes en
+  materia de turismo.
+
+
+Se
+  abordarán también algunas técnicas y
+  herramientas de análisis de datos especialmente
+  útiles para ayudar a la planificación y la toma de
+  decisiones en el ámbito turístico.
+
+
+Se
+  presentará el concepto de Open Data como posibles fuentes
+  a incorporar a la gestión inteligente del turismo y
+  posibles problemas recurrentes para su integración y
+  explltación.
+
+'

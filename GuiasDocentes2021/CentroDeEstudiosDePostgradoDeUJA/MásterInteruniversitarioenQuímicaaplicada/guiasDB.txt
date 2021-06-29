@@ -1,0 +1,11 @@
+(78713004,'Espectroscopía y modelización molecular. Aplicación al diseño racional de polímeros','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78713004/es/2020-21-78713004_es.html'),
+(78712003,'Química inorgánica avanzada','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78712003/es/2020-21-78712003_es.html'),
+(78716001,'Trabajo fin de Máster','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78716001/es/2020-21-78716001_es.html'),
+(78715001,'Prácticas externas','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78715001/es/2020-21-78715001_es.html'),
+(78713005,'Cualimetría y quimiometría aplicada en medioambiente y alimentos','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78713005/es/2020-21-78713005_es.html'),
+(78712004,'Avances en química orgánica','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78712004/es/2020-21-78712004_es.html'),
+(78712002,'Avances en química física','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78712002/es/2020-21-78712002_es.html'),
+(78713002,'Química de polímeros','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78713002/es/2020-21-78713002_es.html'),
+(78712001,'Avances en química analítica','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78712001/es/2020-21-78712001_es.html'),
+(78713001,'Materiales avanzados de carbón. Aplicaciones tecnológicas y ambientales','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78713001/es/2020-21-78713001_es.html'),
+(78713003,'Procesos orgánicos ecosostenibles','10','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/787A/78713003/es/2020-21-78713003_es.html')

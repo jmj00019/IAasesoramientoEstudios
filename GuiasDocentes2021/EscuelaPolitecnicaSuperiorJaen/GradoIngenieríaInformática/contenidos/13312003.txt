@@ -1,0 +1,63 @@
+'
+
+
+
+Arquitecturas distribuidas. Diseño lógico y
+    físico de una base de datos distribuida. Procesamiento
+    distribuido de consultas. Administración y
+    gestión de bases de datos distribuidas.
+
+
+
+CONTENIDOS DE TEORÍA
+Tema 0. Visión general.
+Tema 1. Arquitecturas distribuidas.
+
+Conceptos básicos sobre bases de datos
+  distribuidas.
+Ventajas y desventajas.
+Arquitecturas de referencia y funcional de un sistema de
+  gestión de bases de datos distribuidas.
+Bases de datos distribuidas y bases de datos federadas:
+  Diferencias y semejanzas.
+
+Tema 2. Diseño lógico y físico de una base
+de datos distribuida.
+
+Estrategias de diseño.
+Tipos de fragmentación.
+Diseño de la fragmentación.
+Asignación de fragmentos.
+
+Tema 3. Procesamiento distribuido de consultas.
+
+Procesamiento de consultas distribuidas: transformaciones de
+  equivalencia.
+Descomposición de consultas.
+Localización de datos distribuidos.
+Agrupación distribuida: evaluación de funciones
+  de conjunto.
+Consultas paramétricas.
+Optimización de consultas distribuidas.
+
+Tema 4. Administración y gestión de bases de datos
+distribuidas.
+
+Administración de bases de datos distribuidas.
+Recuperación y restauración en bases de datos
+  distribuidas.
+Protocolos de compromiso.
+Control de concurrencia.
+Gestión de bloqueos.
+Seguridad en bases de datos distribuidas.
+
+CONTENIDOS DE PRÁCTICAS
+
+Diseño e implementación de una base de datos
+  distribuida.
+Gestión e implementación de restricciones de
+  integridad.
+Implementación de actualizaciones.
+Implementación de consultas.
+
+'

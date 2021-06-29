@@ -1,0 +1,65 @@
+'
+
+La presente asignatura ofrece al alumno una panorámica
+integrada de los principales mecanismos implicados en los procesos
+de defensa celular mediados
+por radicales de oxígeno (ROS) y nitrógeno
+reactivo (RNS). En la actualidad, se conoce la implicación
+de los radicales libres de oxígeno y nitrógeno
+en numerosos procesos metabólicos relevantes y se sabe
+que son los principales responsables de determinados mecanismos de
+daño celular en
+los seres vivos, participando en la patogénesis de
+distintas enfermedades y en numerosas situaciones de estrés.
+En esta asignatura se estudia la producción
+de radicales libres de oxígeno y nitrógeno
+reactivo, así como las distintas funciones celulares de
+estas especies de oxígeno y nitrógeno reactivo
+y su implicación en diversas patologías.
+
+La presente asignatura ofrece al alumno una panorámica
+integrada de los principales mecanismos implicados
+en los procesos de defensa celular mediados
+por radicales de oxígeno (ROS) y nitrógeno
+reactivo (RNS). En la actualidad, se conoce la implicación
+de los
+radicales libres de oxígeno y nitrógeno
+en numerosos procesos metabólicos relevantes y se sabe
+que son los principales responsables de
+determinados mecanismos de daño celular en
+los seres vivos, participando en la patogénesis de
+distintas enfermedades y en numerosas situaciones de
+estrés. En esta asignatura se estudia la
+producción
+de radicales libres de oxígeno y nitrógeno
+reactivo, así como las distintas funciones celulares de
+estas
+especies de oxígeno y nitrógeno reactivo
+y su implicación en diversas patologías.
+1. Funciones biológicas de los radicales libres de
+oxígeno, nitrógeno y de azufre en el metabolismo
+celular.
+2. Química de la molécula de oxígeno:
+formas excitadas y formas reducidas.
+3. Toxicidad del oxígeno.
+4. Reactividad bioquímica del óxido
+nítrico.
+5. Enzimología de especies de oxígeno reactivo
+(ROS).
+6. Enzimología de especies de nitrógeno
+reactivo (RNS).
+7. Estrés oxidativo y estrés nitrosativo.
+8. Daño celular y citotoxicidad.
+9. Producción subcelular de radicales de
+oxígeno (ROS) y nitrógeno (RNS).
+10.Producción de radicales de oxígeno y
+nitrógeno en situaciones de estrés celular.
+11.Papel del óxido nítrico en los sistemas
+biológicos. Aplicaciones biotecnológicas.
+12.ROS, RNS y señalización celular en
+biomedicina.
+13.Sistemas celulares de defensa antioxidante. Aplicaciones
+biotecnológicas.
+14.Metodologías de detección de ROS y RNS en
+biomedicina.
+'

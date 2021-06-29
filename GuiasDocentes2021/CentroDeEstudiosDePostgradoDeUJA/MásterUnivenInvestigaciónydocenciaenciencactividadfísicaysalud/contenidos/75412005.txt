@@ -1,0 +1,90 @@
+'
+
+Instrucciones básicas y de inicio al trabajo con SPSS
+Trabajos descriptivos y exploratorios con los datos
+Trabajos con medias (contraste de hipótesis) y tablas de
+contingencia
+Trabajos con relaciones entre variables (correlación
+lineal simple)
+Explicaciones y predicciones a partir de las relaciones entre
+variables
+Análisis de varianza
+Análisis Factorial
+Pruebas no paramétricas
+
+Instrucciones básicas y de
+inicio al trabajo con SPSS
+
+Análisis
+  estadístico: procedimiento básico
+Editar, transformar y modificar
+  datos
+Trabajar con archivos de
+  sintaxis
+
+Trabajos descriptivos y
+exploratorios con los datos
+
+Frecuencias y
+  estadísticos descriptivos
+Generación de
+  gráficos
+
+Trabajos con medias (contraste de
+hipótesis) y tablas de contingencia
+
+Prueba t de Student
+Chi-cuadrado de Pearson
+
+Trabajos con relaciones entre
+variables (correlación lineal simple)
+
+Correlaciones bivariadas
+Correlaciones parciales
+
+
+Explicaciones y predicciones a partir
+  de las relaciones entre variables
+
+
+
+Regresión lineal simple y
+    múltiple
+
+
+Regresión
+    logística
+
+
+Análisis de varianza
+
+Anova de un factor
+Análisis de efecto
+  principal y de interacción
+Análisis post hoc del
+  efecto principal y la interacción
+
+Análisis Factorial
+
+Resultados de validación
+  del cuestionario
+Análisis de fiabilidad
+  del cuestionario
+Valoración de cada
+  factor
+Análisis de diferencias
+  entre grupos por factor mediante análisis
+  multivariado.
+Análisis de diferencias
+  entre grupos mediante tablas de contingencia
+
+Pruebas no paramétricas
+
+Características de las
+  pruebas no paramétricas
+Prueba de Kolmorov-smirnov
+Test de Mann-whitney
+Test de Wilconxon
+
+ 
+'

@@ -1,0 +1,165 @@
+'
+
+- Introducción y Conceptos Básicos - Conceptos
+básicos de Hidrología
+- Conceptos hidrogeológicos básicos: aguas
+subterráneas
+- Hidrogeología específica
+- Hidrogeoquímica y contaminación
+- Investigación, evaluación y gestión de
+acuíferos
+
+
+
+PROGRAMA DE TEORÍA
+
+
+
+Introducción y Conceptos Básicos
+
+
+
+Tema 1.  
+  Análisis geomorfológico de una cuenca
+  hidrográfica. Introducción a la
+  Geomorfología de cuencas. Conceptos básicos sobre
+  la cuenca hidrográfica: definición y
+  delimitación.
+
+Tema 2. El agua  
+  como recurso renovable. El ciclo del agua.
+  Ecuación de entradas y gastos. Aguas superficiales vs.
+  aguas subterráneas. Ventajas de las aguas
+  subterráneas.
+
+
+
+Conceptos básicos de Hidrología
+
+
+
+Tema 3. Precipitaciones. Tipos de
+  precipitaciones. Medida. Completado y detección de errores
+  en series pluviométricas. Estimación de la
+  precipitación media sobre una cuenca.
+
+Tema 4. Evaporación y
+  transpiración. Introducción: concepto de
+  evapotranspiración. Evapotranspiración potencial y
+  real. Balance hídrico.
+
+Tema 5. Escorrentía. Definición de
+  escorrentía. Los aforos. El hidrograma y su
+  descomposición. Estimación de la escorrentía
+  de una cuenca.
+
+Tema 6. Infiltración. Concepto y factores
+  condicionantes de la infiltración. Métodos de
+  estimación y medida.
+
+
+
+Conceptos hidrogeológicos básicos: aguas
+  subterráneas
+
+
+
+Tema 7. Recursos hídricos subterráneos:
+  acuíferos. Concepto y tipos de acuíferos.
+  Concepto de nivel y superficie piezométricas. Recarga y
+  descarga natural de un acuífero. Manantiales.
+
+Tema 8. Características hidrogeológicas de
+  los materiales. Porosidad. Permeabilidad. Conductividad
+  hidráulica. Coeficiente de almacenamiento.
+  Transmisividad.
+
+Tema 9. Flujo de agua en medios porosos: ley de
+  Darcy. Experiencia y ley de Darcy: gradiente
+  hidráulico y permeabilidad o conductividad
+  hidráulica. Principios del flujo subterráneo:
+  Potencial hidráulico. Líneas de corriente y
+  líneas equipotenciales: red de flujo. Sistemas de flujo.
+  Superficie piezométrica, nivel piezométrico y mapas
+  piezométricos.
+
+  
+
+Hidrogeología específica
+
+
+Tema  
+  10.  
+  Hidrogeología de rocas ígneas y
+  metamórficas  
+  . El modelo conceptual.  Metodología
+  de estudio. Captación.
+
+Tema 11.  
+  Hidrogeología de rocas detríticas.
+  Depósitos sueltos. Métodos de estudio.
+  Depósitos cementados.  Captación.
+
+Tema 12. Hidrogeología
+  kárstica.  Concepto de
+  karstificación. Los acuíferos kársticos.
+  Modelo conceptual. Metodología de estudio.
+  Captación.
+
+  
+
+Hidrogeoquímica y contaminación
+
+
+Tema 13. Características
+  físico-químicas de las aguas
+  subterráneas. Concentración de
+  solutos en el agua. Principales parámetros
+  físico-químicos: temperatura, pH, TSD, residuo seco
+  y conductividad eléctrica. Composición de las aguas
+  subterráneas. Análisis químico y error de
+  balance. Toma de muestras.
+
+Tema 14. Interpretación de datos
+  hidroquímicos. Concepto de facies
+  hidroquímica. Calidad química del agua en
+  función de su uso. Normativa española sobre calidad
+  de agua. Representaciones gráficas.
+
+Tema 15. Contaminación de aguas
+  subterráneas. Concepto. Mecanismos de
+  contaminación. Los agentes contaminantes.Los focos
+  potenciales de contaminación. Reacción de los
+  acuíferos frente a la contaminación.
+  Protección, control y lucha de las aguas
+  subterráneas frente a la contaminación.  
+  
+ PROGRAMA DE PRÁCTICAS:
+
+1. Identificación y cartografía con Google Earth
+  de morfologías fluviales y de hidráulica
+  superficial (Aula de Informática).
+2. Completado y detección de errores de series
+  climáticas. Mapas de isoyetas (Aula de
+  Informática).
+3. Cálculo de evaportranspiración potencial y
+  real. Estimación del caudal de un río mediante
+  datos de aforos directos (Aula de Informática).
+4. Elaboración de un mapa de isopiezas. Análisis
+  cuantitativo de superificies de isopiezas (Laboratorio
+  docente).
+
+5. Aplicación de la Ley de Darcy en acuíferos
+    de porosidad intergranular: cálculo de parámetros
+    hidrogeológicos (Laboratorio docente).
+6. Tratamiento de datos hidrogeoquímicos y Diagramas
+    hidrogeoquímicos (Laboratorio docente).
+ 
+
+7. Trabajo bibliográgico
+
+8. Salidas de campo: dos salidas de campo durante el
+    cuatrimestre.
+
+
+'

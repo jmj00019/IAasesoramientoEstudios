@@ -1,0 +1,147 @@
+'
+
+Conocer los fundamentos y manejo de los distintos tipos de
+microscopios y su aplicación en los diferentes campos de la
+investigación, así como los
+métodos más usuales de captura y tratamiento de
+las imágenes obtenidas.
+
+Introducir al alumno en las técnicas relacionadas con
+cultivos de células animales, así como sus
+aplicaciones en el campo de la investigación biomé-
+dica y biotecnológica. Conocimiento de la importancia
+del uso de células cultivadas en investigación.
+Ventajas y desventajas de los cultivos celulares.
+
+Utilidad clínica e industrial. Conocimiento de los
+procesos de diferenciación "in vitro" de células
+madre embrionarias
+
+
+Introducir
+  al alumno en las técnicas relacionadas con cultivos de
+  células animales, así como sus aplicaciones en el
+  campo de la investigación biomédica y
+  biotecnológica. Conocimiento de la importancia del uso de
+  células cultivadas en investigación. Utilidad
+  clínica e industrial.
+
+
+ 
+
+
+BLOQUE
+  TEMÁTICO I
+
+
+
+Introducción.
+    Biología de las células en cultivo. Equipamiento
+    mínimo y consideraciones prácticas. Los cultivos
+    celulares como método alternativo a la
+    experimentación animal.
+
+
+Tipos
+    de      cultivos.  Medios de
+         cultivo. Sustratos: papel de la matriz
+    extracelular. Papel del suero en      los
+    cultivos celulares.
+
+
+Líneas
+    celulares. Crecimiento y mantenimiento de las células en
+    cultivo. Subcultivo de las líneas celulares.
+    Congelación y descongelación.
+
+
+Sincronización
+    celular. Estimulación por factores de crecimiento del
+    paso quiescencia-proliferación. Estudio del ciclo
+    celular.
+
+
+Diferenciación
+    celular
+
+
+Transfección
+    celular.
+
+
+Utilización
+         de la microscopia de fluorescencia y
+    la microscopia confocal en relación
+        con el cultivo de
+    células.
+
+
+
+BLOQUE
+  TEMÁTICO II
+
+
+ 
+
+
+Conocer
+  los fundamentos y manejo de los distintos tipos de microscopios y
+  su aplicación en los diferentes campos de la
+  investigación, así como los métodos
+  más usuales de captura y tratamiento de las
+  imágenes obtenidas.
+
+
+ 
+
+
+
+El
+    microscopio óptico biológico. Componentes
+    ópticos y mecánicos.
+
+
+Otros
+    tipos de microscopios ópticos, elementos que los
+    integran, manejo y aplicaciones de los mismos
+
+
+Microscopios
+    electrónicos: bases de su funcionamiento y
+    componentes.
+
+
+Métodos
+    de preparación de muestras con destino a los diferentes
+    tipos de microscopios electrónicos.
+
+
+Técnicas
+    especializadas en detección y análisis aplicadas
+    a la microscopía.
+
+
+Sistemas
+    de captura de imágenes en microscopía
+    óptica y electrónica
+
+
+Tratamiento
+    y gestión de las imágenes digitales.
+
+
+Fundamentos
+    del análisis de imagen y manejo de aplicaciones
+    informáticas al efecto
+
+
+Técnicas
+    de reconstrucción fotográfica en
+    microscopía óptica, tanto en 2D como en
+    3D.
+
+
+
+ 
+
+'

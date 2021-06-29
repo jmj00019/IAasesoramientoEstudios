@@ -1,0 +1,63 @@
+'
+
+ Representación de la información.
+Microprocesadores: arquitectura, interrupciones, buses, y juego de
+instrucciones. Diseño de sistemas digitales basados en
+microprocesador: conexión de la memoria y los dispositivos
+de entrada/salida. Microcontroladores: arquitectura, juego de
+instrucciones, memoria y dispositivos de entrada/salida
+integrados. Sistemas digitales de hardware configurable. Lenguajes
+de descripción de hardware.
+
+
+TEORÍA.
+
+Tema 0: Introducción.
+
+Evolución tecnológica del hardware digital.
+Introducción a los sistemas digitales complejos.
+Tema 1: Dispositivos lógicos
+programables.
+
+Descripción de dispositivos lógicos programables
+simples (ROM, PAL, PLA) y complejos (CPLD y FPGA).
+Tecnologías y evolución.
+Tema 2: Diseño de sistemas
+digitales con FPGA: lenguajes HDL.
+Lenguaje VHDL.
+Desarrollo de aplicaciones en FPGA mediante VHDL.
+Tema 3: Diseño digital
+mediante lógica de transferencia de registros.
+Elementos para
+el diseño RTL. Camino de datos y de control.
+Tema 4: Procesadores
+programables.
+Arquitecturas.
+Descripción a nivel RTL de un procesador. Lenguaje
+ensamblador. Microprocesadores y microcontroladores.
+Tema 5: Arquitectura AVR.
+
+Descripción del microcontrolador ATMEGA 328: arquitectura,
+memoria, dispositivos de E/S y juego de instrucciones.
+ 
+
+PRÁCTICAS.
+
+Bloque 1: Programación de
+FPGA mediante VHDL.
+Desarrollo de
+diversas aplicaciones digitales mediante FPGA programando en
+lenguaje VHDL.
+Bloque 2: Programación en
+ensamblador.
+
+Programación en lenguaje ensamblador de un procesador
+diseñado mediante VHDL trabajando en una FPGA.
+Bloque 3: Programación en
+ensamblador del ATMEGA 328.
+
+Programación en ensamblador del microcontrolador ATMEGA 328
+contenido en la placa Arduino UNO. Realización de ejercicios
+utilizando los dispositivos de E/S disponibles (Puertos,
+temporizadores, conversores AD, etc.)
+'

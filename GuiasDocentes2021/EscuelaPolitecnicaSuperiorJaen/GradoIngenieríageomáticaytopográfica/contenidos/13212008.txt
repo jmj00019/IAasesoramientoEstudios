@@ -1,0 +1,84 @@
+'
+
+Modelado del campo de la gravedad.
+Observables de la Geodesia Física y su
+representación analítica.
+Anomalía de la altitud y ondulación del
+geoide.
+Determinación clásica de la figura
+matemática de la Tierra.
+Concepto de eliminación-restitución.
+Modelos globales de la gravedad.
+Modelado local del campo de la gravedad (efectos del
+terreno).
+Modelado local del campo de la gravedad por
+colocación.
+Control de geoide/quasigeoide gravimétrico por
+técnicas GNSS.
+Nivelación GNSS.
+Mareas terrestres.
+Misiones de gravedad por satélite.
+Organismos Internacionales: IGFS, IGeS, etc
+ 
+
+
+Contenidos
+  desarrollados:
+
+T1. Introducción a la Geodesia Física: Problema de
+la Figura de la Tierra. Evolución histórica. Ramas de
+la Geodesia. Definición de Geodesia Física.
+Relación de la Geodesia Física con otras disciplinas
+científicas. Situación actual y perspectivas de
+futuro. Organismos y servicios de carácter internacional:
+BGI, IGFS, IGes, ICET, etc.
+T2. Potencial y campo de gravedad terrestre: Atracción y
+potencial. Potencial de un cuerpo sólido. Ecuación de
+Laplace. Fórmulas de Gauss y Green. Funciones
+armónicas. Gravedad. Superficies de nivel y líneas de
+la plomada.
+T3. Mareas terrestres: Aceleración y potencial de
+marea.
+T4. Potencial y campo de gravedad normal: Campo de gravedad del
+elipsoide de nivel. Gravedad normal. Campo de gravedad
+anómalo. Ondulación del Geoide. Desviación de
+la vertical. Ecuación fundamental de la Geodesia
+Física. Fórmula de Stokes.
+T5. Medida y reducción de la gravedad: Medidas absolutas
+y relativas. Redes gravimétricas. Reducción
+Airelibre. Reducción Bouguer. Corrección
+topográfica. Reducción isostática. Efecto
+indirecto. Otras reducciones de la gravedad.
+T6. Sistemas de altitudes. Nivelación: Cota geopotencial.
+Altitud dinámica. Altitud ortométrica. Altitud
+normal. Nivelación geométrica. Nivelación
+GNSS.
+T7. Determinación de la figura de la Tierra: Misiones de
+gravedad por satélite (CHAMP, GRACE, GOCE).
+Determinación de un modelo de geopotencial. Modelos globales
+de la gravedad. Modelado local del campo de la gravedad: Concepto
+de Stokes. Modelado local del campo de la gravedad: Concepto de
+Molodensky. Aplicación de la colocación a la
+determinación del Geoide. Concepto de
+eliminación-restitución (RemoveRestore). Ejemplos de
+geoides locales.
+T8. Control del geoide/quasigeoide por técnicas GNSS
+
+Contenidos
+  prácticos:
+
+P1. Actividad práctica: búsqueda de
+información en páginas web relacionadas con la
+Geodesia Física.
+P2. Actividad práctica: aplicación del modelo de
+geoide EGM08-REDNAP.
+P3. Resolución de ejercicios.
+P4. Resolución de ejercicios
+P5. Actividad práctica: utilización de
+herramientas de cálculo disponibles en internet.
+P6. Resolución de ejercicios.
+P7. Resolución de ejercicios.
+P8. Resolución de ejercicios.
+P9. Actividad práctica: comparación de modelos de
+geopotencial
+'

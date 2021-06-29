@@ -1,0 +1,94 @@
+'
+
+1. Preparación de material y reactivos. Seguridad en el
+laboratorio.
+2. Preparación de muestras biológicas.Manejo del
+instrumental y aparataje básico del laboratorio.
+3. Cultivo de células
+4. Cultivo de plantas en condiciones controladas.
+5. Técnicas de tinción de tejidos y métodos
+de observación.
+6. Espectrofotometría.
+7. Cromatografía.
+8. Electroforesis. 
+
+
+PROGRAMA DE TEORÍA
+
+1.Preparación de material y reactivos. Métodos
+generales de procesamiento de muestras biológicas. Seguridad
+en el laboratorio.
+2.Espectrofotometría: El espectrofotómetro.
+Conceptos generales. Espectro de absorción. Ley de
+Lamber-Beer. Espectrofluorimetría. Aplicaciones.
+3.Cromatografía: Conceptos generales. Clases de
+cromatografía. Cromatografías en columna.
+Aplicaciones.
+4.Electroforesis: Conceptos generales. Tipos de electroforesis:
+electroforesis en geles de acrilamida (PAGE) en condiciones nativas
+y desnaturalizantes (SDS-PAGE) y electroforesis en geles de
+agarosa. Aplicaciones.
+5.Cultivo de células. Equipamiento necesario. Medios de
+cultivo y optimización. Control del pH. Técnicas para
+cultivos celulares. Contaminaciones.
+6.Cultivo de plantas en condiciones controladas. Cultivo in
+vitro de plantas. Micropropagación. Organogénesis y
+embriogénesis. Cultivos hidropónicos. Tipos.
+Sustratos utilizados.
+7.Procesamiento de muestras para su observación al
+microscopio. Fijación. Microtomía y
+ultramicrotomía. Microscopio óptico y
+electrónico
+8.Técnicas de tinción de tejidos y métodos
+de observación. Composición y tipos de colorantes.
+Mecanismos de acción. Tipos de tinción. Tinciones
+para microscopía electrónica. Métodos
+citológicos. Técnicas especiales de
+tinción.
+Los temas 1-4 serán impartidos por el Área de
+Bioquímica y Biología Molecular, los temas 5-8
+serán impartidos por el Área de Fisiología
+Vegetal.
+PROGRAMA DE PRÁCTICAS:
+1.Identificación y manejo del material y aparatos de uso
+general en el laboratorio. Preparación de reactivos y
+tampones. Determinación del pH.
+2. Procesamiento de muestras biológicas:
+Homogenización y centrifugación diferencial.
+3. Espectrofotometría: Espectro de absorción de
+una sustancia. Relación entre concentración y
+absorbancia.
+4. Cromatografía en soporte plano y cromatografía
+en columna de exclusión molecular.
+5. Electroforesis en geles de agarosa y en geles de
+poliacrilamida (PAGE).
+6. Preparación de medios para cultivo in vitro de plantas
+I: Preparación de soluciones madres. Medios MS y DKW.
+7. Preparación de medios para cultivo in vitro de plantas
+II: Medios específicos para cultivo de callos,
+organogénesis y rescate de embriones en diferentes tejidos
+vegetales.
+8. Cultivo in vitro de callos, micropropagación
+vegetativa y cultivo de embriones maduros. Manejo de la
+cámara de Neubauer como técnica de contaje
+celular.
+9. Procesamiento de muestras histológicas animales y
+vegetales I: Tejidos vivos: colorantes vitales y observación
+al microscopio óptico.
+10. Preparación de cortes histológicos animales y
+vegetales II. Fijación, inclusión, microtomía,
+coloración, montaje y observación al microscopio
+óptico.
+Las Prácticas 1-5 serán impartidas por el
+Área de Bioquímica y Biología Molecular, las
+Prácticas 6-10 serán impartidas por el Área de
+Fisiología Vegetal.
+ 
+PROGRAMA DE SEMINARIOS:
+* Aplicación práctica de los conocimientos
+adquiridos a la realización de actividades. 
+ 
+
+ 
+
+'

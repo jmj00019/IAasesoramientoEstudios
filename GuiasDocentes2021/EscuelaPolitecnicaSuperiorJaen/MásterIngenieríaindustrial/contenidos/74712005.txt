@@ -1,0 +1,33 @@
+'
+
+Descripción de las máquinas hidráulicas y
+condiciones de operación. Instalaciones de transporte de
+fluidos, climatización y ventilación. Flujo en
+canales abiertos.
+Simulación numérica del flujo en el interior de
+máquinas hidráulicas: modelos numéricos y
+técnicas de post-procesado.
+
+
+CONTENIDOS DESARROLLADOS
+
+1) Revisión de flujos en conductos: pérdidas de
+carga en conductos, diagrama de Moody.
+2) Sistemas de tuberías. Tuberías simples,
+tuberías en serie y tuberías en paralelo.
+Análisis de redes ramificadas. Análisis de redes
+malladas. Desarrollo de métodos de resolución de
+redes malladas y su implementación numérica.
+3) Introducción a las máquinas hidráulicas.
+Descripción de las condiciones de operación de
+turbomáquinas
+4) Flujo en canales abiertos. Flujo uniforme y gradualmente
+variado. Curvas de remanso. Desagüe por orificios, compuertas
+y vertederos. Resalto hidráulico
+5) Introducción al flujo de gases en conductos. Tobera
+convergente-divergente. Ondas de choque. Efecto de la
+fricción y la adicción de calor.
+6) Introducción a los métodos numéricos en
+mecánica de fluidos. Aplicación a la
+turbomáquinas.
+'

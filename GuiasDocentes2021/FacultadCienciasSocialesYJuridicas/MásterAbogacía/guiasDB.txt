@@ -1,0 +1,13 @@
+(73515001,'Prácticas externas I','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73515001/es/2020-21-73515001_es.html'),
+(73512008,'Derecho internacional público y relaciones internacionales','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512008/es/2020-21-73512008_es.html'),
+(73512006,'Derecho penal','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512006/es/2020-21-73512006_es.html'),
+(73512003,'Derecho mercantil','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512003/es/2020-21-73512003_es.html'),
+(73512007,'Derecho administrativo','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512007/es/2020-21-73512007_es.html'),
+(73515002,'Prácticas externas II','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73515002/es/2020-21-73515002_es.html'),
+(73516001,'Trabajo fin de Máster','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73516001/es/2020-21-73516001_es.html'),
+(73512004,'Derecho civil','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512004/es/2020-21-73512004_es.html'),
+(73512001,'Ejercicio de la abogacía','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512001/es/2020-21-73512001_es.html'),
+(73512009,'Derecho del trabajo y de la Seguridad Social','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512009/es/2020-21-73512009_es.html'),
+(73512002,'Derecho constitucional','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512002/es/2020-21-73512002_es.html'),
+(73512005,'Derecho procesal','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512005/es/2020-21-73512005_es.html'),
+(73512010,'Derecho financiero y tributario','79','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/3/735A/73512010/es/2020-21-73512010_es.html')

@@ -1,0 +1,522 @@
+'
+
+- Función de la auditoría en la sociedad.
+Evolución histórica, concepto y clases de
+auditoría
+- El actual marco jurídico y profesional de la
+auditoría
+- El informe de auditoría
+- Proceso y desarrollo de una auditoría de cuentas
+anuales
+- Auditoría del ciclo contable. Introducción a
+ajustes contables de auditoría por áreas basados en
+casos prácticos
+
+
+
+PRIMERA PARTE: FUNDAMENTOS Y CARACTERÍSTICAS DE LA
+  AUDITORÍA FINANCIERA
+
+
+CAPÍTULO
+  1: LA FUNCIÓN DE LA AUDITORÍA EN LA SOCIEDAD.
+  EVOLUCIÓN HISTÓRICA, CONCEPTO Y CLASES DE
+  AUDITORÍA
+
+
+1.1.
+        LA FUNCIÓN DE LA
+  AUDITORÍA EN LA SOCIEDAD ACTUAL
+
+
+1.2.
+        CONCEPTO DE AUDITORÍA.
+  OBJETIVO Y SITUACIÓN ACTUAL
+
+
+1.3.
+        CONCEPTOS CLAVE EN
+  AUDITORÍA FINANCIERA
+
+
+1.4.
+        CLASIFICACIÓN DE LA
+  AUDITORÍA FINANCIERA
+
+
+1.5.
+        DIFERENCIAS ENTRE LA
+  FILOSOFÍA ANTIGUA Y MODERNA DE LA AUDITORÍA
+
+
+ 
+
+
+CAPÍTULO
+  2: EL ACTUAL MARCO JURÍDICO Y PROFESIONAL DE LA
+  AUDITORÍA
+
+
+2.1.
+        ¿QUÉ SE CONSIDERAN
+  PRINCIPIOS Y NORMAS CONTABLES GENERALMENTE ACEPTADOS Y NORMAS DE
+  AUDITORÍA GENERALMENTE ACEPTADAS?
+
+
+2.2.
+        LA AUDITORÍA EN LAS
+  NORMAS
+
+
+2.2.1.
+     Normas Internacionales de Auditoría
+
+
+2.2.2.
+     Normas europeas
+
+
+2.2.3.
+     Leyes españolas
+
+
+2.3.
+        LEY Y REGLAMENTO DE
+  AUDITORÍA. SÍNTESIS DE SU ARTICULADO
+
+
+2.4.
+        LAS NORMAS TÉCNICAS DE
+  AUDITORÍA
+
+
+2.4.1.
+     Normas Técnicas de carácter
+  general
+
+
+2.4.2.
+     Normas Técnicas sobre ejecución del
+  trabajo
+
+
+2.4.3.
+     Normas Técnicas sobre preparación,
+  contenido y presentación de informes
+
+
+2.5.
+        RESUMEN DE LAS PRINCIPALES NORMAS
+  TÉCNICAS DE AUDITORÍA DE CARÁCTER
+  PARTICULAR
+
+
+ 
+
+
+CAPÍTULO
+  3: LA EVALUACIÓN DE LA EVIDENCIA: EL INFORME DE
+  AUDITORÍA
+
+
+3.1.
+        INTRODUCCIÓN: LA
+  EVALUACIÓN DE LA EVIDENCIA
+
+
+3.2.
+        RESULTADOS DEL TRABAJO DEL
+  AUDITORÍA: LA CARTA DE RECOMENDACIONES Y EL INFORME
+
+
+3.3.
+        ELEMENTOS BÁSICOS DEL
+  INFORME DE AUDITORÍA
+
+
+3.4.
+        OBJETIVO, CARACTERÍSTICAS Y
+  AFIRMACIONES QUE CONTIENE EL INFORME DE AUDITORÍA
+
+
+3.5.
+        CIRCUNSTANCIAS CON EFECTO EN LA
+  OPINIÓN DEL AUDITOR
+
+
+
+
+A. 
+      Limitaciones al alcance
+
+
+
+
+B. 
+      Incertidumbres
+
+
+
+
+C. 
+      Errores o incumplimientos de los principios y normas
+      contables generalmente aceptados
+
+
+
+
+3.6.      
+  TIPOS DE OPINIÓN
+
+
+           
+  A. Opinión favorable
+
+
+           
+  B. Opinión con salvedades
+
+
+           
+  C. Opinión desfavorable
+
+
+           
+  D. Opinión denegada
+
+
+3.7.      
+  REFLEJO DE CIRCUNSTANCIAS PARTICULARES EN EL INFORME DE
+  AUDITORÍA
+
+
+3.8.      
+  PUBLICIDAD DEL INFORME
+
+
+3.9.      
+  PRÁCTICAS DE INFORMES DE AUDITORÍA
+
+
+ 
+
+
+CAPÍTULO
+  4: PROCESO Y DESARROLLO DE UNA AUDITORÍA DE CUENTAS
+  ANUALES
+
+
+4.1.      
+  PLANTEAMIENTO DE LAS ETAPAS DE UNA AUDITORÍA DE CUENTAS
+  ANUALES ENTENDIDA COMO PROCESO
+
+
+4.2.      
+  ETAPAS DE UNA AUDITORÍA EXTERNA DE CUENTAS ANUALES
+
+
+4.2.1.
+     Primera etapa: contactos preliminares
+
+
+4.2.2.
+     Segunda etapa: redacción del contrato de
+  auditoría
+
+
+4.2.3.
+     Tercera etapa: planificación
+
+
+
+
+A. 
+      Cuestionario preliminar
+
+
+
+
+B. 
+      Plan global
+
+
+
+
+C. 
+      Programa de auditoría
+
+
+
+
+4.2.4.
+     Cuarta etapa: desarrollo del programa de
+  auditoría
+
+
+4.2.5.
+     Quinta etapa: supervisión
+
+
+4.2.6.
+     Sexta etapa: confirmaciones con asesores
+  externos
+
+
+4.2.7.
+     Séptima etapa: obtención de la carta
+  de manifestaciones de la dirección
+
+
+4.2.8.
+     Octava etapa: entrega de la carta de
+  recomendaciones
+
+
+4.2.9.
+     Novena etapa: entrega del informe
+
+
+4.2.10.
+  Décima etapa: fase posterior
+
+
+ 
+
+
+CAPÍTULO
+  5: PROCESO Y DESARROLLO DE UNA AUDITORÍA DE CUENTAS POR
+  ORDENADOR
+
+
+5.1.
+        UTILIZACIÓN DE SISTEMAS
+  EXPERTOS EN AUDITORÍA
+
+
+5.2.      
+  DESCRIPCIÓN DEL PROCESO QUE SIGUE UN SISTEMA EXPERTO DE
+  AUDITORÍA
+
+
+5.3.      
+  CASO PRÁCTICO: PROCESO DE LA AUDITORÍA POR
+  ORDENADOR
+
+
+5.3.1.
+     Primera y segunda etapa: contactos preliminares y
+  redacción del contrato de auditoría
+
+
+5.3.2.
+     Tercera etapa: planificación
+
+
+A.
+  Cuestionario preliminar
+
+
+B.
+  Plan global
+
+
+C.
+  Programa de auditoría
+
+
+5.3.3.   
+  Cuarta etapa: desarrollo del programa de auditoría
+
+
+5.3.4.
+     Quinta y sexta etapa: supervisión y
+  confirmaciones con asesores externos
+
+
+5.3.5.
+     Séptima etapa: obtención de la carta
+  de manifestaciones de la dirección
+
+
+5.3.6.
+     Octava etapa: entrega de la carta de
+  recomendaciones
+
+
+5.3.7.
+     Novena etapa: entrega del informe
+
+
+
+ 
+
+
+
+SEGUNDA PARTE: AUDITORÍA DEL CICLO
+  CONTABLE
+
+
+ 
+
+
+
+CAPÍTULO 6:
+  AUDITORÍA DEL CICLO DE INVERSIÓN
+
+
+6.1.
+        AUDITORÍA DEL INMOVILIZADO
+  MATERIAL
+
+
+6.1.1.
+     Introducción
+
+
+6.1.2.
+     Supuestos prácticos
+
+
+6.2.
+        AUDITORÍA DEL INMOVILIZADO
+  INTANGIBLE
+
+
+6.2.1.
+     Introducción
+
+
+6.2.2.
+     Supuestos prácticos
+
+
+6.3.
+        AUDITORÍA DE LAS
+  INVERSIONES FINANCIERAS
+
+
+6.3.1.
+     Introducción
+
+
+6.3.2.
+     Supuestos prácticos
+
+
+ 
+
+
+
+CAPÍTULO 7:
+  AUDITORÍA DEL CICLO DE FINANCIACIÓN
+
+
+7.1.
+        AUDITORÍA DE LOS FONDOS
+  PROPIOS
+
+
+7.1.1.
+     Introducción
+
+
+7.1.2.
+     Supuestos prácticos
+
+
+7.2.
+        AUDITORÍA DE LAS DEUDAS A
+  LARGO PLAZO
+
+
+7.2.1.
+     Introducción
+
+
+7.2.2.
+     Supuestos prácticos
+
+
+           
+
+
+
+CAPÍTULO 8:
+  AUDITORÍA DEL CICLO DE CONVERSIÓN
+  (EXISTENCIAS)
+
+
+8.1.
+        Introducción
+
+
+8.2.
+        Supuestos prácticos
+
+
+           
+
+
+
+CAPÍTULO 9:
+  AUDITORÍA DEL CICLO DE INGRESOS Y CUENTAS A
+  COBRAR
+
+
+9.1.
+        Introducción
+
+
+9.2.
+        Supuestos prácticos
+
+
+ 
+
+
+
+CAPÍTULO 10:
+  AUDITORÍA DEL CICLO DE GASTOS Y CUENTAS A
+  PAGAR
+
+
+10.1.
+      Introducción
+
+
+10.2.
+      Supuestos prácticos
+
+
+ 
+
+
+
+CAPÍTULO 11:
+  AUDITORÍA DE LA TESORERÍA
+
+
+11.1.
+      Introducción
+
+
+11.2.
+      Supuestos prácticos resueltos
+
+
+ 
+
+
+
+CAPÍTULO 12:
+  AUDITORÍA FISCAL
+
+
+12.1.
+      Introducción
+
+
+12.2.
+      Supuestos prácticos resueltos
+
+'

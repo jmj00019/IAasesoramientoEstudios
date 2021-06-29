@@ -1,0 +1,42 @@
+'
+
+· Diseño y desarrollo de robots.
+· Robots manipuladores.
+· Robots colaborativos y cooperativos.
+· Integración de robots en entornos humanos.
+· Robótica de servicios. Aplicaciones y nuevos
+desarrollos
+
+Tema 1. Introducción a la robótica (6)
+- Conceptos básicos y definiciones.
+- Elementos que componen un robot.
+- Tipologías de robots.
+- Integración física de robots: sensores y
+elementos de actuación y comunicación.
+- Integración cognitiva.
+- Contexto social e industrial.
+Tema 2. Robótica industrial y de servicios aplicados a
+la industria 
+- Configuración y selección de robots
+manipuladores.
+- Diseño y programación de células
+robotizadas utilizando herramientas 3D.
+- Robots colaborativos
+- Nuevos robots aplicados a la industria.
+Tema 3. Diseño, desarrollo y validación de
+robots de servicios 
+- Definición de especificaciones y cuaderno de carga
+- Modelado cinemático.
+- Arquitecturas software de control.
+- Programación y control dinámico.
+- Soluciones comerciales actuales.
+Práctica 1: Diseño 3D de una célula
+robótica real (2 horas)
+Práctica 2: Programación de robots
+manipuladores coordinados (2 horas)
+Práctica 3: Introducción a la
+programación en Sistema operativo ROS (2 horas)
+Práctica 4: Programación práctica de un
+robot móvil (2 horas).
+ 
+'

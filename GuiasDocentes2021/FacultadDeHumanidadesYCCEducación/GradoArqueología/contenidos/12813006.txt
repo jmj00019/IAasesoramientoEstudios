@@ -1,0 +1,104 @@
+'
+
+Bloque I. Introducción a la Geomática
+Concepto de Geomática y técnicas
+relacionadas
+Bloque II. Sistemas de referencia
+Sistemas locales y globales. Transformaciones de coordenadas.
+Métodos de orientación. Arqueogeodesia.
+Bloque III. Técnicas topográficas
+Metodologías de adquisición de datos
+geográficos. Técnicas de agrimensura.
+Topografía clásica. Técnicas
+planimétricas y altimétricas. Posicionamiento
+GPS.
+Bloque IV. Sistemas de Información Geográfica
+Datos geográficos. Modelos de datos. Fuentes de datos.
+SIG vectoriales y SIG ráster. Análisis.
+Integración de datos. Presentación y difusión
+de resultados
+Prácticas
+Establecimiento de sistemas de referencia locales en un
+yacimiento arqueológico. Métodos de
+transformación de coordenadas. Aplicación de
+métodos expeditos de orientación. Levantamiento
+topográfico de un yacimiento arqueológico. Proyecto
+SIG aplicado a un yacimiento arqueológico.
+
+
+Bloque I. Introducción a la
+  Geomática
+
+Tema 1. Concepto de Geomática. Introducción
+histórica. Técnicas relacionadas. Cartografía.
+Geografía. Técnicas de adquisición de datos
+geográficos.
+Tema 2. Fuentes de datos. Cartografía analógica y
+cartografía digital. Sistemas de información
+Geográfica. Infraestructuras de Datos Espaciales. Servidores
+de mapas. Globos y mapas virtuales.
+
+Bloque II. Sistemas de referencia
+
+Tema 3. Sistemas de referencia. Concepto y tipos. Geodesia.
+Forma de la Tierra.
+Tema 4. Sistemas globales y regionales. WGS84. ETRS89.
+Transformaciones de coordenadas.
+Tema 5. Sistemas locales. Sistemas de coordenadas rectangulares.
+Sistemas de coordenadas polares. Problemas.
+Tema 6. Métodos de orientación. Métodos
+astronómicos. Métodos expeditos. Arqueogeodesia.
+
+Bloque III. Técnicas topográficas
+
+Tema 7. Sistemas y técnicas de adquisición de
+datos geográficos. Topografía y GPS.
+Fotogrametría y Teledetección. Sistemas
+láser.
+Tema 8. Topografía clásica. Instrumentos
+topográficos. Métodos planimétricos y
+altimétricos. Métodos de agrimensura.
+Tema 9. Posicionamiento GPS. Sistemas GNSS.
+Instrumentación. Métodos de posicionamiento.
+Navegación por satélites.
+Tema 10. Sistemas fotogramétricos y LiDAR.
+Fotogrametría. Aspectos geométricos y
+radiométricos. Sistemas láser (LiDAR) terrestres y
+áereos.
+
+Bloque IV. Sistemas de Información
+  Geográfica
+
+Tema 11. Sistemas de Información Geográfica.
+Elementos de un SIG. Datos geográficos o geoespaciales.
+Tipos de datos. Modelos de datos.
+Tema 12. SIG vectoriales. Introducción y almacenamiento
+de datos, análisis y modelización.
+Tema 13. SIG raster. Introducción y almacenamiento de
+datos, análisis y modelización.
+Tema 14. Modelos Digitales del Terreno y de Superficies. Tipos.
+Modelos Digitales de Elevación y modelos derivados.
+Tema 15. Integración de datos. Conversión de
+datos. Representación cartográfica.
+Elaboración de mapas temáticos. Difusión de
+resultados.
+
+Prácticas
+
+Práctica 1. Presentación de las prácticas.
+Software SIG empleado. Fuentes de datos.
+Práctica 2. Sistemas de referencia globales.
+Transformaciones de coordenadas.
+Práctica 3. Ejercicios de coordenadas locales.
+Coordenadas rectangulares y polares.
+Práctica 4. Aplicación de métodos expeditos
+de orientación.
+Práctica 5. Posicionamiento GPS
+Práctica 6. Levantamiento topográfico de un
+yacimiento arqueológico.
+Práctica 7. Proyecto SIG aplicado a un yacimiento
+arqueológico.
+Práctica 8. Elaboración de cartografía
+temática.
+     
+'

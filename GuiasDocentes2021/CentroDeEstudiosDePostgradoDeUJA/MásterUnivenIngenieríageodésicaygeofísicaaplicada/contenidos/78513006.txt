@@ -1,0 +1,54 @@
+'
+
+Principios y técnicas radar.
+Radar de apertura sintética (SAR). Características de
+las imágenes SAR. Principios de la interferometría
+radar de satélite (InSAR). Registro de las imágenes
+radar y creación de interferogramas. MDE obtenidos con
+InSAR. Resolución del InSAR. Decorrelación y efectos
+atmosféricos.R. Técnicas
+multi-interferométricas avanzadas (MT-InSAR). Casos
+prácticos de control de deformaciones en ingeniería
+civil y geociencias (DInSAR, MT-InSAR)
+
+
+Contenidos de
+  teoría
+
+
+Introducción.
+Principios y técnicas radar.
+Sistemas radar formadores de imágenes de apertura
+  real.
+Resolución de los sistemas radar formadores de
+  imágenes.
+Radar de apertura sintética (SAR).
+Características de las imágenes SAR.
+Principios de la interferometría radar (InSAR).
+Registro de las imágenes radar.
+Creación de interferogramas.
+Eliminación de los efectos debidos a la
+  geometría de adquisición y la
+  topografía.
+Interferometría de doble, triple y cuádruple
+  pasada.
+MDE obtenidos con InSAR.
+Resolución del InSAR.
+Decorrelación y efectos atmosféricos.
+Software.
+Aplicaciones InSAR y DInSAR.
+Técnicas
+  multiinterferométricas avanzadas.
+Aplicaciones.
+
+
+Contenidos de
+  prácticas
+
+
+Creación de un MDE con InSAR
+Creación de un mapas de deformaciones con DInSAR
+Técnicas avanzadas multiinterferométricas.
+Aplicaciones y casos prácticos
+
+'

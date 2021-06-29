@@ -1,0 +1,112 @@
+'
+
+I. Fenómenos de transporte y de superficie.
+II. Cinética química: cinética formal y
+cinética molecular. Mecanismos. Catálisis.
+III. Electroquímica: Equilibrios iónicos.
+Conductividad electrolítica. Equilibrios
+electroquímicos. Cinética electródica.
+IV. Macromoléculas y coloides.
+ 
+
+
+
+Tema 1.
+FENÓMENOS SUPERFICIALES Y DE
+ADSORCIÓN.
+  Superficie:
+Interfase. Tensión superficial. Interfases curvas:
+Ecuación de Young-Laplace y capilaridad.
+Termodinámica de superficies en sistemas multicomponentes:
+Isoterma de adsorción de Gibbs. Adsorción sobre
+superficies sólidas. Fisisorción y
+quimisorción. Tipos de isotermas de adsorción.
+Isotermas de Langmuir, B.E.T., Freundlich, Temkin. Calor de
+adsorción.
+
+
+Tema 2.
+TEORÍA CINÉTICA DE LOS GASES IDEAL Y FENÓMENOS
+DE TRANSPORTE.  
+Función de
+distribución de la velocidad molecular. Valores promedio.
+Colisiones con las paredes y efusión. Frecuencia de
+colisiones intermoleculares y recorrido libre medio.
+Ecuación general de flujo. Conductividad térmica.
+Viscosidad. Difusión.
+
+
+Tema
+3.
+   
+CINÉTICA FORMAL.  Velocidad de la
+reacción química. Ecuaciones integradas de velocidad.
+Periodo de semirreacción y tiempo de vida medio.
+Métodos para la determinación del orden de
+reacción. Efecto de la temperatura sobre las velocidades de
+reacción. Mecanismos de reacción. Reacciones
+consecutivas. Aproximación del estado estacionario. Etapa
+limitante de la velocidad. Reacciones paralelas. Reacciones
+reversibles y equilibrio. Técnicas experimentales en
+cinética química.
+
+
+Tema 4.
+TEORÍAS DE LAS VELOCIDADES DE
+REACCIÓN. 
+ Teoría
+de Arrhënius. Teoría de colisiones para reacciones en
+fase gaseosa. Superficies de energía potencial.
+Teoría del Estado de Transición para reacciones entre
+gases. Formulación termodinámica de la Teoría
+del Estado de Transición.
+
+
+Tema 5.
+CINÉTICA DE LAS REACCIONES EN FASE GASEOSA Y EN
+DISOLUCIÓN. 
+ Reacciones
+unimoleculares. Reacciones termoleculares. Mecanismos de reacciones
+en cadena. Explosiones. Efecto del disolvente en reacciones en
+disolución. Aplicación de la Teoría del Estado
+de Transición a reacciones en disolución. Reacciones
+entre iones: efecto salino primario.
+
+
+Tema 6.
+CATALISIS.
+ Mecanismo
+general de catálisis. Catálisis homogénea.
+Catálisis heterogénea. Catálisis
+enzimática.
+
+
+Tema 7.
+CONDUCTIVIDAD IÓNICA. SISTEMAS
+ELECTROQUÍMICOS.
+  Conductividad
+de las disoluciones electrolíticas. Movilidad iónica.
+Tipos de sistemas electroquímicos. Potencial
+electroquímico. Termodinámica de las células
+galvánicas. Potencial de electrodo. Tipos de electrodos.
+Pilas galvánicas: tipos y aplicaciones. Potenciales de
+unión líquida.
+
+
+Tema 8. LA INTERFASE
+ELECTRIFICADA.
+  Equilibrio
+termodinámico en la interfase electrodo disolución.
+Modelos de la doble capa: Helmholtz, Gouy-Chapman y Stern.
+Velocidad de transferencia de carga.
+Sobrepotencial. 
+
+
+Tema 9.
+MACROMOLÉCULAS Y COLOIDES.
+  Tipos de
+macromoléculas. Pesos Moleculares y su distribución.
+Índice de polidispersidad. Cinética y mecanismo de
+polimerización. Coloides. Clasificación y
+estabilidad.
+'

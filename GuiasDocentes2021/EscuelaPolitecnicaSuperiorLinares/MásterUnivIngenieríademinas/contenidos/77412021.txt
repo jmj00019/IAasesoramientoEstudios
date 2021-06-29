@@ -1,0 +1,311 @@
+'
+
+· Métodos gravimétricos
+· Métodos magnéticos
+· Métodos eléctricos y
+electromagnéticos
+· Flotación
+· Métodos hidrometalúrgicos
+
+
+PROGRAMA
+  DE TEORÍA
+
+
+
+FUNDAMENTOS DE LOS PROCESOS Y PLANTAS DE TRATAMIENTO DE
+  MINERALES Y ROCAS INDUSTRIALES.
+
+
+FUNDAMENTOS
+  DE LA CONCENTRACIÓN: Introducción a los procesos de
+  concentración. Propiedades físicas y
+  químicas empleadas. Introducción a los distintos
+  procesos empleados en la concentración de minerales:
+  Procesos por gravedad, magnéticos, eléctricos,
+  magnéticos, flotación, otros.
+
+
+DIAGRAMAS
+  DE FLUJO: Flow Sheet de una planta de concentración
+  mineral: Por gravimetría y por medio denso. Flow Sheet de
+  una planta de lavado de caolines: Caolines cerámicos para
+  porcelana, cerámica sanitaria y carga de papel. Planta de
+  clasificación de yesos.
+
+
+
+BLOQUE I: CONCENTRACIÓN POR
+  GRAVEDAD
+
+
+
+Tema 1: CLASIFICACIÓN POR
+  SEDIMENTACIÓN O CLASIFICACIÓN INDIRECTA.
+  Resistencia ofrecida por un fluido al desplazamiento de un
+  sólido. Velocidad límite de caída.
+  Sedimentación libre y sedimentación obstaculizada.
+  La razón de sedimentación. Aceleración
+  diferencial. Caída libre de granos en líquidos en
+  reposo. Fórmula de Rittinger. Isodromía. Series de
+  clasificación previa. Caída en corriente
+  ascensional.
+
+
+
+Tema 2: CLASIFICADORES HIDRÁULICOS:
+  Clasificadores hidráulicos de corriente horizontal:
+  Propiamente isodrómicos: cajas en punta, canales
+  convergentes, cono Reichert, espirales, ejemplos de uso (lavado
+  de carbón, concentración de wolframio, fluoritas de
+  Órgiva). Clasificadores isodrómicos con medios
+  mecánicos: Akins, draga, rastrillos. Clasificadores
+  hidráulicos de corriente vertical: conos,
+  hidroclasificadores, espesadores, clasificadores de lamelas,
+  fahrenwald, rheax.
+
+
+
+Tema 3: CLASIFICADORES NEUMÁTICOS:
+  Conceptos generales de la clasificación neumática.
+  Clasificación sin corriente ascendente de aire:
+  cámaras de captación. Clasificadores con corriente
+  ascendente de aire: captador Birtley, zick-zack. Clasificadores
+  centrífugos: selector en espiral, Whizzer, ciclones
+  neumáticos.
+
+
+
+Tema 4: HIDROCICLONES: Generalidades. Estudio
+  dinámico del hidrociclón. Características de
+  los hidrociclones, curvas de eficiencia, variables de
+  diseño, relaciones, parámetros de control,
+  variables de las que depende el dc, ventajas e incovenientes.
+  Funciones del hidrociclón. Forma de instalación.
+  Formas de descarga. Centrífugas. Ejemplos de
+  aplicación de hidrociclones: en construcción de
+  balsas mineras. Recuperación de bentonitas por
+  hidrociclonado en la ejecución de pantallas con
+  hidrofresa. Clasificación de caolines.  
+
+
+
+Tema 5: CONCENTRACIÓN
+  GRAVIMÉTRICA: Principio de la concentración por
+  aceleración diferencial. Fases de la clasificación.
+  El método inglés, sin clasificación previa.
+  Cribas hidráulicas o jigs: Cribas de tamiz fijo (Hartz y
+  Denver). Cribas de tamiz móvil con lecho o cama filtrante
+  (tipo Hancock). Jigs neumáticos (carbón). Ejemplos:
+  lavaderos gravimétricos en el distrito minero de
+  Linares-La Carolina (el caso del lavadero del Cobre),
+  concentración de fluoritas, concentración de
+  baritas.
+
+
+
+Tema 6: CONCENTRACIÓN POR MESAS DE
+  SACUDIDAS:
+
+
+Principio
+  fundamental de las mesas concentradoras. Mesas con impulsos
+  mecánicos alternativos. Parámetros que regulan la
+  máquina. Ejemplos: concentración de menas
+  metálicas y baritas.
+
+
+
+Tema 7: CONCENTRACIÓN POR MEDIOS DENSOS:
+  Principio de concentración por medios densos. Ensayos del
+  laboratorio. Etapas del medio denso: Preparación del
+  mineral y mezcla con el medio, preparación y
+  recuperación del medio, control de la densidad y
+  separación de los productos en hundidos y flotados.
+  Diagramas de flujo. Separadores estáticos: Wenco, cono,
+  Hardinge. Separadores dinámicos: cinclón tubular
+  Dyna-Whirlpool, ciclón HMS. Ejemplos: Concentración
+  de fluoritas. Concentración de celestina.  
+
+
+
+BLOQUE II: SEPARACIÓN EN CAMPO
+  MAGNÉTICO
+
+
+
+Tema 8: PRINCIPIOS FÍSICOS DE LA
+  SEPARACIÓN MAGNÉTICA: Principios fundamentales de
+  la separación magnética. Clasificación de
+  los sólidos y de las sustancias minerales en
+  función de sus propiedades magnéticas. Sistemas de
+  generación del campo magnético.  
+
+
+
+Tema 9: SEPARADORES MAGNÉTICOS: en
+  seco-baja intensidad: separador magnético de imanes
+  rotativos, Ball Norton, imanes alternativos. En seco-alta
+  intensidad: Whetherill, rodillo inducido. En húmedo-baja
+  intensidad: hidráulico de tambor. Húmedo-alta
+  intensidad: Jones, Smaith, VMS. Alta y baja intensidad en
+  húmedo: rueda Norton. 
+
+
+
+BLOQUE III: SEPARACIÓN EN CAMPO
+  ELÉCTRICO
+
+
+
+Tema 10: CONCENTRACIÓN
+  ELECTROSTÁTICA: Principio fundamental. Separadores
+  electrostáticos de alta tensión: de rodillo, de
+  placa y de criba. Diagrama de flujo de planta de tratamiento de
+  arenas de playa.
+
+
+
+BLOQUE IV: CONCENTRACIÓN POR
+  FLOTACIÓN
+
+
+
+Tema 11: FUNDAMENTOS DE LA FLOTACIÓN:
+  Principio de la concentración por flotación; en
+  superficie y por espuma, interfases Líquido-gas,
+  sólido-gas y sólido-líquido. Minerales
+  hidrófilos, hidrófobos y aerófilos. Factores
+  a tener en cuenta en la flotación. 
+
+
+
+Tema 12: REACTIVOS EN FLOTACIÓN:
+  Espumantes. Colectores. Reguladores o modificadores.
+  Flotación de minerales oxidados.
+
+
+
+Tema 13: MÁQUINAS DE FLOTACIÓN:
+  Principios generales de las celdas de flotación.
+  Clasificación de las celdas o máquinas de
+  flotación, máquinas sin agitación
+  (flotación en superficie), con agitación
+  mecánica subaireadas y neumáticas. Funciones de una
+  celda de flotación. Parámetros de selección
+  de una celda de flotación. Aspectos generales sobre la
+  metalurgia de las celdas. Diferentes tanques y mecanismos. Las
+  columnas de flotación.
+
+
+
+Tema 14: FLOTACIÓN SIMPLE Y SELECTIVA:
+  Flotación simple, un sólo mineral. Flotación
+  selectiva o diferencial, dos o más minerales. Ejemplos de
+  diagramas de flujo de una flotación simple y selectiva de
+  minerales sulfurados. Curvas de agotamiento.
+
+
+
+BLOQUE V: CONCENTRACIÓN POR PROCESOS
+  QUÍMICOS Y ELECTROQUÍMICOS
+
+
+
+Tema 15: HIDROMETALURGIA. Introducción.
+  Tostación de los minerales: tostación oxidante,
+  reductora y clorurante. Forma de extracción de sustancias
+  disueltas. Estudio de la hidrometalurgia de algunas asociaciones
+  minerales: Hidrometalurgia de los metales preciosos.
+  Hidrometalurgia del cobre. Hidrometalurgia del zinc. Ejemplo de
+  Cobre las Cruces.  
+
+
+PROGRAMA
+  DE PRÁCTICAS
+
+
+
+Ejercicios y problemas
+
+
+1º)
+  Leyes fundamentales que rigen la concentración
+  mineral
+
+
+2º)
+  Problemas de pulpas. % en sólidos de una pulpa.
+
+
+3º)
+  Cálculo del número de celdas de
+  flotación.
+
+
+
+Prácticas de laboratorio
+
+
+1ª)
+  Determinación de la densidad de un sólido con el
+  picnómetro.
+
+
+2ª)
+  Determinación de la densidad de una pulpa con la balanza
+  de pulpas Marcy.
+
+
+3ª)
+  Preparación del todo uno. Trituración primaria
+  (machacadora de mandíbulas) y secundaria  (cono
+  Simons).
+
+
+4ª)
+  Clasificación volumétrica. Criba vibrante.
+
+
+5ª)
+  Clasificación gravimétrica. Jig
+  hidráulico.
+
+
+6ª)
+  Molienda. Molinos de bolas: Carcasa cerrada. Cerámico.
+  Bicónico Hardinge. Molino de martillos.
+
+
+7ª)
+  Clasificador hidráulico tipo Akins.
+
+
+8ª)
+  Espiral de clasificación.
+
+
+9ª)
+  Clasificadores centrífugos. Hidrociclones.
+
+
+10ª)
+  Mesas concentradoras. Mesa Wilfley.
+
+
+11ª)
+  Clasificador electromagnético de alta intensidad.
+
+
+12ª)
+  Transporte hidráulico de pulpas. Cálculo de
+  bombas.
+
+
+13ª)
+  Flotación. Práctica de flotación de
+  sulfuros: concentrado de cobre y sulfuro de plomo (galena).
+  Reactivos. Práctica de flotación de carbón.
+  Reactivos utilizados.
+
+'

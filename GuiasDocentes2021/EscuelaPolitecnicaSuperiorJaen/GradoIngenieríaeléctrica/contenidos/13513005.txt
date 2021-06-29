@@ -1,0 +1,49 @@
+'
+
+Centrales de energía eléctrica eólica
+Centrales de energía eléctrica termosolar
+Centrales de energía eléctrica de la biomasa
+Otras centrales de energía eléctrica
+renovables
+
+
+PROGRAMA DE TEORÍA.
+
+Tema 1. Introducción a la
+generación eléctrica con energías
+renovables.
+Tema 2. Generación
+eléctrica con energía eólica.
+Tema 3. Generación
+eléctrica termosolar: tipologías de centrales.
+Tema 4. Generación
+eléctrica con recursos biomásicos.
+Tema 5. Otras fuentes de
+generación renovables: geotérmica, marina, etc.
+CONTENIDOS PRÁCTICOS (P)
+
+P1:1ª
+  Sesión práctica: visita técnica UNIVER
+  -UJA 
+
+
+P2:
+  2ª Sesión práctica: Visita técnica
+  VISUALab- UJA.
+
+
+P3:
+  3ª Sesión práctica (2 h): Software
+  simulación recurso solar 
+
+
+P4:
+  4ª Sesión práctica (2 h) : Software de
+  simulación RETSCREEN
+
+
+P5:
+  5ª Sesión práctica (2h): Manejo de PVGIS-
+  software de recursos minihidráulicos.
+
+'

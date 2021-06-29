@@ -1,0 +1,167 @@
+'
+
+Catastro multifinalitario. Evolución histórica de
+los procedimientos técnicos empleados
+Marco legislativo y tributario nacional
+Geomática catastral
+Gestión catastral
+Relación Catastro / Registros de la Propiedad /
+Notaría
+Proceso técnico de elaboración, gestión y
+explotación del catastro. Procesos de valoración
+catastral
+Otros modelos catastrales internacionales
+Calidad en catastro
+Aplicaciones de la documentación catastral en
+ámbitos no tributarios
+Valoración y tasación inmobiliaria
+Conceptos, definiciones y teorías relacionadas con el
+mercado inmobiliario
+Finalidad de la valoración, tipos de propiedades y
+derechos sobre los bienes
+Criterios de valoración
+Métodos valorativos: métodos sintéticos,
+métodos analíticos, métodos de
+reposición y residual, métodos estadísticos,
+econométricos y redes neuronales
+Aplicaciones e informes a efectos: hipotecarios,
+administrativos, urbanísticos, expropiatorios y civiles
+
+Antecedentes y evolución técnica del catastro.
+Cartografía catastral.
+Valoración catastral.
+Tributación inmobiliaria.
+Catastro multipropósito.
+Valoración inmobiliaria.
+Criterios y conceptos básicos.
+Métodos de valoración.
+Informes
+Tema I:
+- Evolución técnica de los modelos catastrales
+más destacados
+- Catastro del Marqués de la Ensenada.
+- Contribución Territorial Rústica y Pecuaria.
+- Catastros geométricos.
+Tema II:
+- El Catastro topográfico parcelario en España.
+- Catastros jurídicos.
+- Catastros sobre fotografía aérea.
+Tema III:
+- Geomática catastral.
+- Titularidad catastral.
+- Organización y funcionamiento del catastro en
+España.
+- Marco legislativo catastral.
+- Marco tributario catastral y relacionado.
+Tema IV:
+- Cartografía catastral rústica.
+
+-
+  Cartografía catastral urbana.
+
+
+-
+  Catastro unificado.
+
+
+-
+  Catastro 3D.
+
+
+-
+  Aplicaciones de la cartografía catastral en ordenamiento
+  territorial.
+
+
+Tema
+  V:
+
+
+-
+  Conceptos y definiciones económicas.
+
+
+-
+  Criterios de valoración inmobiliaria.
+
+
+Tema
+  VI:
+
+
+-
+  Conocimientos básicos sobre los diferentes métodos
+  de valoración: comparativos, analíticos, de
+
+
+coste,
+  residuales, econométricos y RNA
+
+
+-
+  Estudios de mercado inmobiliario
+
+
+Tema
+  VII:
+
+
+-
+  Valoración catastral rústica
+
+
+-
+  Valoración catastral urbana
+
+
+-
+  Valoración catastral de bienes de características
+  especiales.
+
+
+-
+  Ponencias de valores.
+
+
+Tema
+  VIII:
+
+
+- Las
+  Haciendas Locales
+
+
+-
+  Tributación inmobiliaria: Impuesto sobre Bienes
+  Inmuebles.
+
+
+-
+  Valoración catastral rústica
+
+
+Tema
+  IX:
+
+
+-
+  Gestión y explotación catastral.
+
+
+-
+  Procesos de conservación catastral.
+
+
+Tema
+  IX:
+
+
+-
+  Catastro / Notaría / Registro de la Propiedad.
+
+
+-
+  Aplicaciones de un catastro multipropósito.
+
+ 
+'

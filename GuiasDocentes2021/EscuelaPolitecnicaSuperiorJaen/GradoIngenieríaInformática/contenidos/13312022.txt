@@ -1,0 +1,88 @@
+'
+
+Metaheurísticas: Introducción y
+Clasificación. Algoritmos de Búsqueda Local
+Básicos. Algoritmos de Búsqueda Tabú
+Métodos Basados en Trayectorias. Métodos Basados
+en Poblaciones. Algoritmos Evolutivos. Metaheurísticas
+paralelas. Adaptación de Metaheurísticas a la
+Resolución de Problemas.
+ 
+
+Metaheurísticas: Introducción y
+Clasificación. Algoritmos de Búsqueda Local
+Básicos. Algoritmos de Búsqueda Tabú
+Métodos Basados en Trayectorias. Métodos Basados
+en Poblaciones. Algoritmos Evolutivos. Metaheurísticas
+paralelas. Adaptación de Metaheurísticas a la
+Resolución de Problemas.
+ 
+
+TEORÍA
+
+
+Unidad 1. Introducción a las
+Metaheurísticas
+
+Resolución de problemas mediante búsquedas
+Conceptos básicos y clasificación
+Conceptos avanzados
+
+
+Unidad 2. Metaheurísticas basadas en
+trayectorias
+
+Enfriamiento simulado
+Búsqueda tabú
+Trayectorias múltiples
+Conceptos avanzados
+
+
+Unidad 3. Metaheurísticas basadas en
+poblaciones
+
+Algoritmos genéticos
+Evolución diferencial
+Conceptos avanzados
+
+
+Unidad 4. Metaheurísticas basadas en
+adaptación social
+
+Algoritmos basados en colonias de hormigas
+Optimización basada en nubes de partículas
+Conceptos avanzados
+
+
+Unidad 5. Metaheurísticas híbridas
+
+Algoritmos meméticos
+Búsqueda dispersa
+Conceptos avanzados
+
+
+Unidad 6. Metaheurísticas paralelas
+
+Paralelismo en metaheurísticas
+Estrategias de metaheurísticas paralelas
+Map-Reduce
+
+
+PRÁCTICAS Y TUTORÍAS COLECTIVAS
+
+
+Práctica 1. Metaheurísticas basadas en
+trayectorias.
+
+Práctica 2. Metaheurísticas basadas en
+poblaciones.
+
+Práctica 3. Metaheurísticas avanzadas.
+
+Seminario 1. Software de metaheurísticas y prueba
+inicial de conceptos.
+
+Seminario 2. Problemas de optimización.
+
+Seminario 3. Presentación de trabajos.
+'

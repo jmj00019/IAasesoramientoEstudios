@@ -1,0 +1,40 @@
+'
+
+--La transmisión del texto literario y su edición.
+Tradición manuscrita y tradición impresa. Los
+problemas de la transmisión.
+--Introducción a la crítica textual. Los
+orígenes. De la práctica humanística a
+nuestros días. Los distintos tipos de edición. La
+edición crítica. Fundamentos teóricos de la
+crítica textual. 
+--Ecdótica y hermenéutica. La fijación,
+la anotación, el sentido literal del texto y la
+interpretación de los códigos
+literarios.  
+
+1. Introducción: historia de la crítica textual.
+Definición de conceptos
+-Los orígenes
+-De la práctica humanística a nuestros
+días
+ 2. La Transmisión textual
+-La transmisión de los textos a lo largo de la historia.
+Tradición manuscrita  y tradición impresa.
+-Los problemas de la transmisión (original y copias,
+errores y variantes)
+ 3. Tipos de edición
+-Ediciones diplomáticas y facsimilares
+-Ediciones críticas
+ 4. La edición crítica (fases,
+método)
+-La 
+recensio
+-La 
+constitutio textus
+-La 
+dispositio textus
+5. Anotación e interpretación del texto
+-El aparato crítico
+-La anotación del texto
+'

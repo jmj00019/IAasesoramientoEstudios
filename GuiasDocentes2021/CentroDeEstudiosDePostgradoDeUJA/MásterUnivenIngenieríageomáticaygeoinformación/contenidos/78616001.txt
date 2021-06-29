@@ -1,0 +1,20 @@
+'
+
+Elaboración de un trabajo individual, de carácter
+profesional o investigador, en el que se integren diferentes
+técnicas y métodos adquiridos y relacionados con la
+Ingeniería Geomática y la Geoinformación y de
+defenderlo ante un tribunal académico.
+
+Presentación por parte del Coordinador del Máster
+de los objetivos de esta asignatura, y de los aspectos normativos
+ligados a la elaboración y defensa de los TFM.
+Recomendaciones en cuanto a la temática, estilo y
+elaboración de TFM.
+Elaboración de la propuesta de TFM mediante trabajo
+supervisado por parte del Director del TFM.
+Desarrollo del trabajo. Elaboración de la Memoria del
+TFM.
+Revisión por parte del Director.
+Presentación, defensa y evaluación del TFM.
+'

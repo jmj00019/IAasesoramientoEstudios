@@ -1,0 +1,568 @@
+'
+
+Control y regulación de máquinas de corriente
+continua
+Control y regulación de máquinas de corriente
+alterna
+Circuitos de control y maniobra de aparamenta
+eléctrica
+Fundamentos y aplicaciones de Electrónica de
+Potencia
+
+
+
+TEMARIO PARTE 1:
+  ELECTRÓNICA DE POTENCIA
+
+
+TEMA 1: Fundamentos de electrónica de
+potencia
+
+TEMA 2: Semiconductores de potencia
+- Diodo, tiristor y GTO
+- Transistores BJT, MOSFET e IGBT
+
+TEMA 3: Rectificadores
+- Rectificadores no controlados
+- Rectificadores controlados
+
+TEMA 4: Convertidores DC/DC
+- Convertidor DC/DC reductor
+- Convertidor DC/DC elevador
+
+TEMA 5: Convertidores
+*Convertidores DC/AC. Inversores
+- Inversor de onda cuadrada
+- Inversor PWM
+*Convertidores AC/AC. Cicloconvertidores
+- Control todo/nada
+- Control de fase
+
+PRÁCTICAS PARTE 1:
+
+PRÁCTICA 1: Diodos y tiristores
+PRÁCTICA 2: Transistores BJT y MOSFET
+
+  
+
+
+TEMARIO PARTE 2:
+  ACCIONAMIENTOS ELÉCTRICOS
+
+
+
+Tema
+  6.         Dispositivos
+  Relés Y Protección
+
+
+
+Introducción.
+    Los Accionamientos en la Ingeniería
+    Eléctrica
+
+
+Generalidades
+    sobre los accionamientos eléctricos (AAEE)
+
+
+Aplicaciones
+    de los AAEE
+
+
+Actuación
+    de los AAEE y tipos de carga.
+
+
+La
+    conexión en los elementos de protección
+
+
+Clasificación
+    de los AAEE
+
+
+Relés
+    y Contactores
+
+
+Motores
+
+
+Otros
+    accionamientos
+
+
+Elementos
+    de mando y protección. Fusibles. Otros
+
+
+Detectores
+
+
+Dispositivos
+    de regulación y actuadores
+
+
+Dispositivos
+    de conmutación
+
+
+Simbología
+
+
+Novedades
+    de AAEE
+
+
+
+
+Tema
+  7.         Generalidades
+  sobre Accionamientos Eléctricos
+
+
+
+Introducción
+    y aplicaciones
+
+
+Objetivos
+
+
+Funcionamiento
+    en cuatro cuadrantes
+
+
+Dinámica
+    de la combinación motor-carga. Estabilidad
+
+
+Reducción
+    de variables mecánicas al eje del motor
+
+
+Ecuaciones.
+    Sistemas típicos
+
+
+Tipos
+    de servicio de los AAEE
+
+
+Elección
+    de la potencia asignada al motor de un AE
+
+
+Resolución
+    de problemas
+
+
+Conclusiones
+    y bibliografía
+
+
+
+
+Tema
+  8: Arrancadores
+
+
+
+Generalidades
+    sobre arrancadores en sistemas de AAEE
+
+
+Definiciones.
+    Normativas
+
+
+Seccionamiento
+
+
+Protección
+
+
+Conmutación
+
+
+Composición
+    de un arrancador
+
+
+Esquemas
+    de arrancadores, tipología.
+
+
+Arranque
+    Directo
+
+
+Arranque
+    Estrella-Triángulo
+
+
+Arranque
+    Estatórico por resistencias
+
+
+Arranque
+    por Autotransformador
+
+
+Arranque
+    de motores de rotor bobinado
+
+
+Arranque
+    Electrónico
+
+
+Otros
+    tipos de Arranque.
+
+
+Arrancadores
+    y Variadores de Velocidad electrónicos
+
+
+Convertidor
+    de frecuencia para motor asíncrono
+
+
+Regulador
+    de tensión para motor asíncrono
+
+
+Tipos
+    de servicio de arranque
+
+
+Conclusiones
+    y bibliografía
+
+
+
+
+Tema
+  9: Accionamientos Eléctricos con Motores de corriente
+  alterna asíncronos 
+  .
+
+
+
+Introducción.
+
+
+La
+    Máquina Asíncrona en régimen
+    permanente
+
+
+La
+    Máquinas Asíncrona en régimen
+    transitorio
+
+
+Tipos
+    de regulación de velocidad de motores
+    asíncronos
+
+
+Regulación
+    de la velocidad por control de la tensión de
+    línea aplicada al estator
+
+
+Regulación
+    de la velocidad por control de la tensión y la
+    frecuencia de línea. Control Escalar.
+
+
+Regulación
+    de la velocidad por medio de un cicloconvertidor.
+
+
+Regulación
+    de velocidad por control estático de una resistencia
+    adicional en el rotor.
+
+
+Regulación
+    de velocidad por recuperación de la potencia de
+    deslizamiento.
+
+
+Control
+    Vectorial de Motores Asíncronos
+
+
+Frenado
+    Eléctrico de motores asíncronos
+    trifásicos.
+
+
+Resolución
+    de problemas
+
+
+Conclusiones
+    y bibliografía
+
+
+
+
+Tema
+  10: Accionamientos Eléctricos con Motores de corriente
+  alterna -  Síncronos.
+
+
+
+Introducción.
+
+
+Tipos
+    de motores síncronos
+
+
+El
+    motor síncrono en régimen permanente
+
+
+El
+    motor síncrono de polos salientes en régimen
+    transitorio
+
+
+Modelos
+    de motores síncronos de imanes permanentes.
+
+
+Introducción
+    a los AAEE con motores síncronos
+
+
+Regulación
+    de velocidad de motores síncronos en lazo
+    abierto.
+
+
+Regulación
+    de velocidad de motores síncronos en lazo cerrado. Motor
+    Síncrono Autopilotado.
+
+
+Control
+    Vectorial de un motor síncrono de imanes
+    permanentes.
+
+
+Resolución
+    de problemas
+
+
+Conclusiones
+    y bibliografía
+
+
+
+
+Tema
+11: Accionamientos Eléctricos con Motores de Corriente
+Continua
+.
+
+
+Introducción
+
+
+Estructura
+    y modelo de la máquina de corriente continua
+
+
+Funcionamiento
+    de una máquina de corriente continua en cuatro
+    cuadrantes
+
+
+Regulación
+    de la velocidad de motores de corriente continua por medio de
+    rectificadores controlados
+
+
+Regulación
+    de la velocidad de motores de corriente continua por medio de
+    Choppers
+
+
+Regulación
+    de la velocidad de motores de corriente continua mediante
+    realimentación.
+
+
+Resolución
+    de problemas.
+
+
+Conclusiones
+    y bibliografía.
+
+
+
+
+Tema
+  12: Selección de un accionamiento más
+  adecuado
+
+
+
+Introducción
+
+
+Instalación
+    y configuración de un sistema de accionamiento de
+    potencia
+
+
+Dimensionado
+    de un sistema de accionamiento
+
+
+
+
+Tema
+  13: Selección y mantenimiento de una máquina
+  eléctrica
+
+
+
+Introducción
+
+
+Teoría
+    y marco normativo
+
+
+Requisitos
+    de la directiva de máquinas
+
+
+Seguridad
+    Funcional
+
+
+Conclusiones
+    y bibliografía
+
+
+
+
+Tema
+  14: Alimentación de emergencia. Sistemas de
+  alimentación ininterrumpida
+
+
+
+Introducción
+
+
+Marco
+    teórico y normativo
+
+
+Guía
+    para la selección de un SAI
+
+
+Tecnologías
+    y clasificación
+
+
+Aplicaciones
+
+
+Baterías
+
+
+Arquitectura
+    del sistema
+
+
+Dimensionamiento
+    de la instalación
+
+
+Protecciones
+
+
+Rendimiento
+
+
+Gestión
+    de la energía
+
+
+Distorsiones
+
+
+Comunicación
+    e integración en la red
+
+
+Características
+    técnicas
+
+
+Conclusiones
+    y bibliografía
+
+
+
+
+PRÁCTICAS
+
+
+P1.
+  Simbología, esquemas.
+  Simulador.       
+
+
+P2. Marcha-Paro.
+  Temporización.               
+
+
+P3. Control
+  Iluminación. Secuencial. 
+            
+
+
+P4. Ascensor.
+  Puertas. 
+                                 
+
+
+P5. Arranque
+  directo.                        
+
+
+P6. Inversor. 
+                                      
+
+
+P7.Arranque
+  Estrella-Triángulo. 
+                    
+
+
+P8. Arranque
+  Resistencias.
+
+
+P9. Variador
+  Velocidad.
+
+
+P10. Arranque
+  varios motores.
+
+'

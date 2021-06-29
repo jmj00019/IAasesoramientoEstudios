@@ -1,0 +1,134 @@
+'
+
+El análisis de datos en psicología.
+Organización, representación y descripción de
+datos univariados y bivariados en Psicología.
+Transformaciones de datos. Correlación y regresión.
+Modelos probabilísticos de distribución de datos
+más utilizados en psicología. Técnicas de
+muestreo en Psicología.
+
+
+Tema1.- La medición en
+  Psicología y el análisis de datos.
+
+
+
+¿Qué es y para
+    qué sirve el Análisis de Datos?
+
+
+La medición en
+    Psicología
+
+
+Definición y
+    clasificación de variables.
+
+
+Definiciones: Población,
+    muestra, parámetro y estadístico.
+
+
+Notación
+    estadística.
+
+
+
+Tema 2.- Organización,
+representación, descripción y transformación
+de datos en Psicología. Datos univariados
+
+
+Introducción.
+
+
+Organización de
+    datos.
+
+
+Representaciones
+    gráficas.
+
+
+La descripción de los datos,
+    índices de: posición, dispersión y
+    forma.
+
+
+Transformaciones de Datos
+
+
+
+Tema 3.- Correlación y
+  regresión. 
+
+
+
+Organización y
+    representación de datos bivariados.
+
+
+Correlación
+
+
+Regresión 
+
+
+
+Tema 4.- Introducción a la
+  teoría de la probabilidad.
+
+
+
+Objetivo de la estadística
+    inferencial y del cálculo de probabilidades.
+
+
+Definiciones previas
+
+
+Operaciones con sucesos
+
+
+Combinatoria
+
+
+Concepto de probabilidad
+
+
+Variables aleatorias
+
+
+Momentos
+
+
+
+Tema 5.- Introducción a las
+  técnicas de muestreo.
+
+
+
+Introducción
+
+
+Diferentes métodos de
+    muestreo
+
+
+
+Tema 6.- Modelos
+  probabilísticos de distribución de datos más
+  utilizados en Psicología.
+
+
+
+Distribuciones de probabilidad
+    discretas.
+
+
+Distribuciones de probabilidad
+    continuas
+
+
+'

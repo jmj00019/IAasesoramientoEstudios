@@ -1,0 +1,49 @@
+'
+
+Nomenclatura química: inorgánica y orgánica
+Estructura atómica Tabla periódica de los elementos.
+Propiedades periódicas. Estequiometría Enlace
+Químico Termodinámica química Cinética
+química Equilibrio químico Equilibrios iónicos
+en disolución
+
+ 
+
+
+
+ 
+Programa teórico desarrollado
+Tema 1. Química: la ciencia central.
+Tema 2. Átomos, compuestos e iones.
+Tema 3. Reacciones químicas: estequiometría.
+Tema 4. Reacciones químicas: termoquímica.
+Tema 5. Reacciones químicas: cinética.
+Tema 6. Estructura electrónica de los átomos y
+propiedades periódicas.
+Tema 7. El enlace químico.
+Tema 8. Estados de la materia.
+Tema 9. Sistemas multicomponentes.
+Tema 10. Equilibrio químico.
+Tema 11. Reacciones ácido-base.
+Tema 12. Reacciones de precipitación.
+Tema 13. Reacciones de oxidación-reducción.
+Tema 14. Introducción a los compuestos de
+coordinación.
+Tema 15. Introducción a la Química
+Orgánica.
+
+ 
+
+
+Programa práctico desarrollado
+
+1. Seguridad en un laboratorio químico y manejo del
+material.
+2. Preparación de disoluciones y medidas de propiedades
+físico químicas.
+3. Reacciones en disolución. Solubilidad y
+precipitación.
+4. Determinación de la dureza del agua por
+complexometría.
+5. Celda electroquímica.
+'

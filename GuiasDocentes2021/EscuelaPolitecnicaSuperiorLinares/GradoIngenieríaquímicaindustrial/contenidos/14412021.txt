@@ -1,0 +1,107 @@
+'
+
+
+BLOQUE DE
+TEORÍA:
+METODOLOGÍA DE ANÁLISIS
+EQUILIBRIOS IÓNICOS EN DISOLUCIÓN. ANÁLISIS
+VOLUMÉTRICO Y GRAVIMÉTRICO
+TÉCNICAS INSTRUMENTALES DE ANÁLISIS
+ 
+
+BLOQUE DE
+  PRÁCTICAS:
+
+TÉCNICAS DEL LABORATORIO INTEGRADO DE QUÍMICA
+ANALITICA
+APLICACIÓN DE LAS TECNICAS ANALÍTICAS
+TRATAMIENTO DE DATOS
+
+
+BLOQUE DE
+  TEORÍA
+
+Bloque I. METODOLOGÍA DE ANÁLISIS
+TEMA 1.-INTRODUCCIÓN A LA QUÍMICA
+ANALÍTICA. Objeto y finalidad de la Química
+Analítica. Su división. El problema analítico.
+Propiedades analíticas: sensibilidad, selectividad,
+precisión y exactitud. Metodología.
+Clasificación de las técnicas analíticas.
+Etapas de un análisis cuantitativo.
+TEMA 2.-TRATAMIENTO DE DATOS. Conceptos de exactitud,
+precisión y reproducibilidad. Clasificación de los
+errores analíticos: errores determinados e indeterminados.
+Introducción al estudio de los métodos
+estadísticos. Límites de confianza. Criterios de
+rechazo de resultados. Expresión de los resultados.
+Validación de métodos analíticos.
+Comparación de métodos analíticos.
+Bloque II. EQUILIBRIOS IÓNICOS EN DISOLUCIÓN
+TEMA 3.-EQUILIBRIOS ÁCIDO-BASE. Conceptos fundamentales:
+ácidos y bases, constante de equilibrio, fuerzas de
+ácidos y bases. Cálculo del pH de disoluciones
+acuosas de ácidos y bases. Hidrólisis. Efecto del ion
+común y efecto salino. Disoluciones reguladoras.
+Aplicaciones al análisis volumétrico:
+volumetrías de neutralización.
+TEMA 4.-EQUILIBRIOS DE FORMACIÓN DE COMPLEJOS. Complejos:
+conceptos fundamentales, terminología y consideraciones
+generales. Factores que afectan a la estabilidad de un complejo.
+Aplicaciones al análisis volumétrico:
+volumetrías de formación de complejos.
+TEMA 5.-EQUILIBRIOS DE PRECIPITACIÓN. Producto de
+solubilidad. Relación entre solubilidad, producto de
+solubilidad y concentraciones iónicas. Factores que afectan
+a la  recipitación. Aplicaciones analíticas: a)
+volumetrías de precipitación y b)
+gravimetrías.
+TEMA 6.-EQUILIBRIOS DE OXIDACIÓN-REDUCCIÓN.
+Concepto de reacción redox. Semirreacciones. Sistemas redox.
+Pila galvánica y electrolítica. Potencial redox.
+Relación entre los potenciales normales y la constante de
+equilibrio. Factores que afectan al potencial de un sistema
+redox.  Aplicaciones analíticas: volumetrías
+redox.
+Bloque III. TÉCNICAS INSTRUMENTALES DE
+ANÁLISIS
+TEMA 7.-TÉCNICAS ESPECTROSCÓPICAS: Fundamentos
+teóricos de las técnicas ópticas de
+análisis. Clasificación de las técnicas
+ópticas. Espectroscopía ultravioleta-visible.
+Espectrofluorimetría. Espectroscopía Atómica.
+Aplicaciones analíticas.
+TEMA 8.- TÉCNICAS ELECTROANALÍTICAS.
+Clasificación de las técnicas
+electroanalíticas. Potenciometría.
+Conductimetría. Voltametría. Aplicaciones
+analíticas.
+TEMA 9.- TÉCNICAS ANALÍTICAS DE SEPARACIÓN.
+Clasificación de las técnicas analíticas de
+separación. Técnicas no cromatográficas.
+Técnicas cromatográficas. Aplicaciones
+analíticas.
+
+BLOQUE DE
+  PRÁCTICAS
+
+PRÁCTICA 1: Volumetría de neutralización:
+Determinación de la acidez total de un vinagre.
+PRÁCTICA 2: Volumetría de precipitación.
+Determinación de cloruros en sal de mesa por el
+Método de Mohr.
+PRACTICA 3: Determinación de la dureza del agua por
+complexometría
+PRÁCTICA 4: Obtención de un espectro de
+absorción molecular. Cálculo del coeficiente de
+extinción molar.
+PRÁCTICA 5: Valoración ácido-base usando un
+electrodo de pH.
+PRÁCTICA 6: Determinación del contenido de
+ácido acético en un vinagre por valoración
+conductimétrica.
+PRÁCTICA 7: Separación de iones metálicos
+por cromatografía en papel.
+ 
+ 
+'

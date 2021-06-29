@@ -1,0 +1,112 @@
+'
+
+Lenguajes y entornos de programación en la Web.
+Desarrollo cliente-servidor en la Web. Integración con
+fuentes de información. Tecnologías emergente en el
+desarrollo de aplicaciones Web.
+ 
+
+
+Teoría
+
+0. Presentación de la asignatura
+1. La World Wide Web
+
+Historia de la WWW
+El consorcio W3C
+Arquitectura de la WWW
+Tecnologías del lado servidor
+Tecnologías del lado cliente
+
+2. Tecnologías web
+
+HTTP
+HTML
+CSS
+Javascript
+Servidores web
+Navegadores web
+
+
+3. Diseño de aplicaciones web
+
+Arquitectura frontend/backend
+Mockups
+Storyboards
+Modelos de datos
+Diagramas de secuencia
+Experiencia de usuario (usabilidad, accesibilidad,
+  internacionalización...)
+
+
+4. Patrones de diseño para aplicaciones web
+
+Introducción
+El patrón MVC
+Arquitectura
+El patrón PAC
+Otros patrones
+Programación reactiva
+
+
+5. Desarrollo backend
+
+Introducción
+Conceptos
+Comparativa
+Comparativa
+Otras tecnologías para el desarrollo
+  backend (APIs, servicios web, CDNs...)
+
+
+6. Desarrollo frontend
+
+Introducción
+Conceptos
+Más allá de JS: nuevos lenguajes
+Frameworks
+Comparativas
+
+
+7. Seguridad en las aplicaciones web
+
+Ataques (Inyección SQL, XSS, CSRF, hijacking...)
+Conexión segura con HTTPS
+Gestión de tokens
+
+
+8. Despliegue de aplicaciones web
+
+Control de versiones
+Infraestructuras
+El plan de despliegue
+
+
+9. Monitorización de aplicaciones web
+
+Indicadores de capacidad
+Indicadores de uso
+Gestión de logs
+Herramientas de monitorización
+
+
+Prácticas
+
+
+Introducción, SCRUM
+HTTP, HTML y CSS
+PHP
+Diseño de la aplicación
+Code Igniter
+Diseño MVC
+Conexión a base de datos
+Assets y bootstrap
+JQuery
+Autenticación y autorización
+Despliegue
+Informe de seguridad
+Ajax
+Websockets
+Entrega final
+
+'

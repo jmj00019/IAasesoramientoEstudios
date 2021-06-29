@@ -1,0 +1,59 @@
+'
+
+Gráficos generados por ordenador. Representación
+gráfica de datos e información. Técnicas
+estáticas. Técnicas dinámicas y animadas.
+Métodos de visualización e interacción
+eficiente de datos complejos.
+ 
+
+
+TEMARIO
+
+
+TEORIA
+
+Tema 1. Introducción a la Informática
+gráfica
+
+Informática Gráfica y Aplicaciones
+Hardware Gráfico
+Software Gráfico
+
+Tema 2. El proceso de visualización 3D
+
+Vectores
+Matrices de transformación
+La cámara de visión
+Proyecciones
+Recorte 3D
+Detección de superficies visibles
+
+Tema 3. Representación de modelos 3D e
+interacción
+
+Modelado y esquemas de representación
+Descomposición del modelo
+Grafos de escena
+Selección e interacción con la escena
+
+Tema 4. Iluminación y texturas
+
+Fuentes de luz
+Modelos de iluminación
+Sombreado de polígonos
+Mapeo básico de texturas
+
+
+PRÁCTICAS
+
+
+Práctica 1. La librería gráfica
+  OpenGL
+Práctica 2. Visualización 3D
+Práctica 3. Representación de Modelos e
+  Interacción
+Práctica 4. Iluminación y texturas
+Práctica 5. Proyecto
+
+'

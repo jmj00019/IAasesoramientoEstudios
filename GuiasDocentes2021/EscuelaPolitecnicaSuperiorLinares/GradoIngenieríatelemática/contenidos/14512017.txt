@@ -1,0 +1,129 @@
+'
+
+Esta asignatura aborda los conocimientos relacionados con los
+sistemas de telefonía convencionales, así como los de
+última generación que hacen uso de las redes de
+conmutación de paquetes para la transmisión de voz.
+Se estudiarán en profundidad los protocolos de
+señalización asociados a cada uno de los sistemas de
+telefonía estudiados.
+Las prácticas se centran en la configuración de
+equipos, intermedios y finales, que soportan el servicio
+telefónico.
+Palabras Clave: Voz sobre IP, Señalización,
+Telefonía.
+
+El programa incluye contenidos de actualidad, teóricos y
+prácticos.
+
+
+Contenidos de actualidad
+  
+
+Se trabaja con noticias de actualidad que proporcionan a los
+alumnos la capacidad para estar al día en las novedades en
+ciencia y tecnología, sobre todo en este tipo de materias,
+tan ligadas a un entorno tan dinámico como son las
+telecomunicaciones, y en concreto la Ingeniería
+Telemática. La búsqueda de noticias que deben
+realizar los alumnos proporcionan la capacidad de recoger e
+interpretar datos y manejar conceptos complejos dentro de su
+especialidad. Cuando las comentan en clase y en el foro adecuado
+para ello emiten juicios que implican reflexión sobre temas
+éticos y sociales. Además, proporcionan a los alumnos
+la capacidad para comunicar eficazmente información, ideas,
+problemas y soluciones en el ámbito de ingeniería y
+con la sociedad en general.
+
+
+Teoría
+
+
+Tema 1. Introducción. Evolución.
+
+Introducción a términos básicos
+relacionados con los sistemas de telefonía y
+presentación de los orígenes de los primeros sistemas
+de telefonía así como su evolución hasta el
+presente.
+
+
+Tema 2. Fundamentos de los Sistemas de
+Telefonía.
+
+Recordatorio breve de conceptos, tecnologías,
+técnicas, protocolos y sistemas estudiados en otras
+asignaturas del grado que son utilizados por los sistemas de
+telefonía constituyendo sus principios de funcionamiento.
+
+
+Tema 3. Centralitas de VoIP y Asterisk.
+
+Presentación del concepto de centralita y
+explicación de las características propias de las
+centralitas de VoIP. Presentación de la PBX Asterisk con sus
+características básicas y opciones más
+comunes.
+
+
+Tema 4. Arquitectura básica de VoIP, VoLTE y
+Vo5G.
+
+Explicación de la arquitectura básica de un
+sistema deVoIP (Voz sobre IP), VoLTE y Vo5G y conceptos
+básicos sobre las mismas.
+
+
+Tema 5. Arquitectura de VoIP SIP.
+
+Se explicará cual es la arquitectura básica de
+un sistema de VoIP (Voz sobre IP) SIP y conceptos básicos
+sobre el mismo.
+
+
+Tema 6. Arquitectura de VoIP H.323.
+
+Se explicará cual es la arquitectura básica de
+un sistema de VoIP (Voz sobre IP) H.323 y conceptos básicos
+sobre el mismo.
+ 
+
+
+Prácticas.
+
+
+Práctica 1. Skype y samples 
+
+Práctica con sw estándar de VoIP y estudio de
+muestras
+
+Práctica 2. Comunicaciones VoIP con
+  Netmeeting
+  
+
+Práctica en laboratorio con softphone Netmeeting
+
+Práctica 3. Instalación de Asterisk y
+  Configuración SIP básica de Asterisk y Llamada por
+  softphone.
+
+Instalación y pruebas del sw asterisk en entorno Linux.
+Establecimiento de llamadas SIP usando softphones.
+
+Práctica 4. Instalación de FreePBX y
+  Configuración SIP básica con pruebas de
+  llamadas por softphone.
+
+Instalación y pruebas del sw FreePBX en entorno Linux.
+Establecimiento de llamadas SIP usando softphones.
+
+Práctica 5. Comunicaciones VoIP con
+  Centralita PBX de VoIP
+  
+
+Práctica en laboratorio con Centralita Panasonic
+KX-NS500NE y teléfonos de VoIP
+ 
+ 
+ 
+'

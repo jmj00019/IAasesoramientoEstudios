@@ -1,0 +1,56 @@
+'
+
+Concepto de contabilidad El patrimonio Los hechos contables y
+las cuentas El proceso contable La normalización
+contable
+
+TEMA 1: CONCEPTO DE CONTABILIDAD 1.1. Importancia de la
+información económica. 1.2. La Contabilidad como
+instrumento de la gestión empresarial. 1.3. Concepto de
+Contabilidad. 1.4. División de la Contabilidad. 1.5.
+Objetivos de la Contabilidad. Los estados financieros. TEMA 2: EL
+PATRIMONIO 2.1. Concepto de patrimonio. 2.2. Conceptos de activo,
+pasivo y patrimonio neto. 2.3. Concepto de rendimiento financiero o
+resultado. Una primera aproximación. 2.4. La ecuación
+patrimonial y su desarrollo: elementos y masas patrimoniales. 2.5.
+Inventario: concepto, clasificación, fases en su
+elaboración y estructura formal. 2.6. Equilibrio patrimonial
+y financiero. TEMA 3: LOS HECHOS CONTABLES Y LA CUENTA 3.1.
+Concepto y clasificación de los hechos contables. 3.2.
+Concepto de cuenta. 3.3. Clases de cuentas: cuentas de activo,
+pasivo, neto, gastos e ingresos. 3.4. Tecnicismos de las cuentas.
+3.5. El método de la partida doble. TEMA 4:
+CLASIFICACIÓN DE LAS CUENTAS SEGÚN SU FUNCIONAMIENTO:
+CUENTAS ADMISTRATRATIVAS Y ESPECULATIVAS 4.1. Clasificación
+de las cuentas según su funcionamiento: cuentas
+administrativas y especulativas. 4.2. El procedimiento contable de
+las mercaderías como cuenta única administrativa.
+4.3. El procedimiento contable de las mercaderías como
+cuenta única especulativa. 4.4. El procedimiento contable de
+las mercaderías como cuentas divisionarias especulativas.
+TEMA 5: EL RENDIMIENTO FINANCIERO 5.1. El resultado obtenido por el
+enfoque de las transacciones. 5.2. Concepto y clases de ingresos.
+Una primera idea. 5.3. Concepto y clases de gastos. Una primera
+idea. 5.4. La cuenta de pérdidas y ganancias del ejercicio.
+5.5. Otros resultados no recogidos en la cuenta de pérdidas
+y ganancias. TEMA 6: EL PROCESO CONTABLE GENERAL 6.1. Apertura de
+la Contabilidad. 6.2. Operaciones diarias y el IVA. 6.3. Balance de
+comprobación e inventario real. 6.4. El proceso de
+regularización: la determinación del resultado. 6.5.
+El proceso de agregación. 6.6. Cierre de la Contabilidad.
+TEMA 7: LOS LIBROS DE CONTABILIDAD 7.1. Los libros de Contabilidad,
+soportes materiales de la información. 7.2. El circuito
+documental. 7.3. Normativa legal sobre los libros de contabilidad.
+7.4. Requisitos formales de los libros de contabilidad. TEMA 8: LA
+NORMALIZACION CONTABLE EN ESPAÑA 8.1. Concepto de
+normalización contable. 8.2. Evolución de la
+normalización contable en España. 8.3. Las directivas
+contables europeas, como soporte de la normativa española.
+8.4. Las Normas Internacionales de Contabilidad. Una breve
+referencia. 8.5. El Plan General de Contabilidad y el Plan General
+de Pequeñas y Medianas Empresas. TEMA 9: LAS CUENTAS ANUALES
+EN EL PGC.9.1 Aspectos generales de las cuentas anuales. 9.2. El
+balance. 9.3. La cuenta de resultados. 9.4. La memoria. 9.5. El
+estado de cambios en el patrimonio neto. 9.6. El estado de flujos
+de efectivo.
+'

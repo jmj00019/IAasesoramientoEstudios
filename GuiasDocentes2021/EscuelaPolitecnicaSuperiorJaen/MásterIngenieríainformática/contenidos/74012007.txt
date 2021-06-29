@@ -1,0 +1,26 @@
+'
+
+Análisis, diseño e implementación de
+aplicaciones en dispositivos móviles.
+Despliegue de aplicaciones móviles; Usabilidad de las
+aplicaciones móviles.
+
+Apartado 1. Dispositivos móviles
+Apartado 2. Android Studio
+Apartado 3. Arquitectura SO Android
+Apartado 4. Componentes de una app. Ciclo de vida de las
+actividades.
+Apartado 5. Introduccion al diseño mediante widgets
+Apartado 6. Layouts
+Apartado 7. Log, Toast, Snackbar, Pickers, Dialog
+Apartado 8. Programacion con widgets (views)
+Apartado 9. Listview
+Apartado 10. Intents
+Apartado 11. Fragments
+Apartado 12. Almacenamiento
+Apartado 13. Análisis de una app
+Apartado 14. Localización y sensores
+Apartado 15. Firebase
+Apartado 16. Desarrollo de una aplicación para smartWatch
+con Wear OS 
+'

@@ -1,0 +1,60 @@
+'
+
+GGOS : Sistema de
+observación geodésico global. Servicio Internacional
+de Rotación de la Tierra y Sistemas de Referencia. Otros
+Servicios Oficiales de la IAG: IGS, ILRS, IVS, etc. Sistemas de
+Tiempo.
+ 
+Sistema y Marcos de Referencia
+Celestes Convencionales. Sistema y Marcos de Referencia Terrestres
+Convencionales. Transformaciones entre Marcos. Marcos de
+Referencia: establecimiento, mantenimiento y mejora.
+Adquisición moderna de datos gravimétricos: misiones
+GRACE, CHAMP, GOCE. Aplicaciones de los datos gravimétricos
+de satélite. Modelado del campo de la gravedad global y
+local. Uso de observaciones gravimétricas de satélite
+para la unificación de sistemas de altitudes.
+
+
+Tema
+  1. Introducción, El sistema de observación
+  geodésico global. Sistema internacional de rotación
+  de la Tierra y sistemas de referencia. Servicios oficiales de la
+  asociación internacional de Geodesia.
+
+
+Tema
+  2. Sistema y Marcos de Referencia Convencionales. Sistema y
+  Marcos de Referencia Terrestres. Transformaciones entre marcos.
+  Marcos de Referencia: establecimiento, mantenimiento y
+  mejora.
+
+
+Casos
+  prácticos.
+
+
+Tema
+  3. Adquisición moderna de datos gravimétricos:
+  misiones GRACE, CHAMP, GOCE. Aplicaciones de los datos
+  gravimétricos de satélite. Uso de observaciones
+  gravimétricas de satélite para la
+  unificación de sistemas de altitudes.
+
+
+Casos
+  prácticos.
+
+
+Tema
+  4. Modelado del campo de la gravedad global y local. Uso de
+  observaciones gravimétricas de para la
+  determinación de la figura matemática de la
+  Tierra.
+
+
+Casos
+  prácticos
+
+'

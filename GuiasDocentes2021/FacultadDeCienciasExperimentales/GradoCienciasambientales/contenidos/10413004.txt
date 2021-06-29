@@ -1,0 +1,36 @@
+'
+
+- Microscopía óptica.
+ - Difracción de rayos X.
+ - Microscopía electrónica.
+ 
+ 
+
+CONTENIDOS TEÓRICOS. 
+1. Microscopio polarizante por luz transmitida y reflejada.
+Propiedades ópticas de los minerales. Relaciones
+texturales.
+2. Difracción de rayos X. Interacción de los rayos
+X con la materia cristalina. Análisis cualitativo y
+semicuantitativo de fases minerales.
+3. Microscopía electrónica. Microscopía
+electrónica de barrido y de transmisión.
+Análisis químico puntual. Microsonda de
+electrones.
+4. Aplicaciones en materiales geológicos de las
+técnicas de análisis elemental. Tratamiento de
+datos.
+CONTENIDOS PRÁCTICOS
+
+Prácticas de microscopía óptica.
+Práctica de preparación de muestras para
+  difracción de rayos X (polvo, agregado orientado y
+  tratamientos).
+Visita al difractómetro de rayos X del CICT.
+Práctica en el SEM del CICT.
+
+ACTIVIDADES DIRIGIDAS  
+Casos de estudio para la integración de datos procedentes
+de diversas técnicas para la caracterización y
+resolución de problemas ambientales.
+'

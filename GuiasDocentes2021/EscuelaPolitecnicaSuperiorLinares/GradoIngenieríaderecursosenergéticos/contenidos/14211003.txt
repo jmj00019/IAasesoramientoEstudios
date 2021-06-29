@@ -1,0 +1,46 @@
+'
+
+TEMA 1: FENÓMENOS ONDULATORIOS. 1.1. Introducción.
+1.2. Movimiento armónico simple. 1.3. Análisis del
+péndulo simple. 1.4. Características de las ondas.
+1.5. Ondas armónicas. 1.6. Ondas sonoras. 1.7.
+Audición. 1.8. Control del ruido. TEMA 2: TEMPERATURA. 2.1.
+Introducción. 2.2. Equilibrio termodinámico y
+principio cero de la Termodinámica. 2.3. Definición
+operacional de temperatura: termómetro de gas a volumen
+constante. 2.4. Dilatación térmica. 2.5. Ley de los
+gases ideales. 2.6. Interpretación molecular de la
+temperatura. TEMA 3: CALOR Y PRIMER PRINCIPIO DE LA
+TERMODINÁMICA. 3.1. Introducción. 3.2. Calor
+específico y calor latente. 3.3. Transferencia de
+energía térmica. 3.4. Trabajo y diagrama PV para un
+gas. 3.5. Primer principio de la termodinámica. 3.6. Ley de
+Mayer. 3.7. Proceso adiabático de aun gas ideal. TEMA 4:
+SEGUNDO PRINCIPIO DE LA TERMODINÁMICA. 4.1.
+Introducción. 4.2. Máquinas térmicas y
+refrigeradores. 4.3. Segundo principio de la Termodinámica.
+4.4. Teorema de Carnot. 4.5. Entropía y segundo principio de
+la Termodinámica. Energía utilizable. TEMA 5: CAMPO Y
+POTENCIAL ELÉCTRICO. 5.1. Introducción. 5.2. Ley de
+Coulomb. 5.3. Campo eléctrico. Líneas de fuerza. 5.4.
+Ley de Gauss. 5.5. Potencial eléctrico y energía
+potencial eléctrica. 5.6. Dipolo eléctrico. TEMA 6:
+CONDUCTORES Y DIELÉCTRICOS. 6.1. Introducción. 6.2.
+Conductores en equilibrio electrostático. 6.3. Condensadores
+6.4. Combinaciones de condensadores. 6.5. Energía de un
+condensador cargado. 6.6. Dieléctricos. TEMA 7: CORRIENTE
+ELÉCTRICA. 7.1. Introducción. 7.2. Flujo de carga.
+7.3. Resistencia eléctrica y Ley de Ohm. 7.4.
+Asociación de resistencias. TEMA 8: CIRCUITOS DE CORRIENTE
+CONTINUA. 8.1. Introducción. 8.2. Fuerza electromotriz y
+resistencia interna de una fuerza electromotriz. 8.3.
+Energía eléctrica y potencia. 8.4. Reglas de
+Kirchhoff. 8.5. Carga y descarga de un condensador. TEMA 9: EL
+CAMPO MAGNÉTICO Y SUS FUENTES. INDUCCIÓN
+MAGNÉTICA. 9.1. Introducción. 9.2. El campo
+magnético. 9.3. La ley de Biot-Savart. 9.4. La ley de
+Ampère. 9.5. La ley de Faraday. 9.6. Estudio del generador
+de corriente alterna.
+
+No se requiere desarrollar contenidos
+'

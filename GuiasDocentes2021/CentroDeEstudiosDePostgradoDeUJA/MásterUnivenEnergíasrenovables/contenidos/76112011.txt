@@ -1,0 +1,131 @@
+'
+
+Bloque 1. El recurso eólico: evaluación y
+predicción.
+Bloque 2. Conversión de la energía del viento
+Bloque 3. Generador eólico.
+Bloque 4. Sistemas de regulación y control del
+aerogenerador.
+Bloque 5. Integración de los parque eólicos en
+el sistema eléctrico de potencia
+Bloque 6. Diseño de parques eólicos.
+Implantación.
+
+
+ 
+
+
+Contenidos Desarrollados:
+
+
+ 
+
+
+
+Introducción
+
+
+
+Introducción a la
+  energía eólica. Introducción a la
+  Mecánica de Fluidos. Régimen laminar y turbulento.
+  Capa límite atmosférica. Perfiles de viento.
+
+ 
+
+
+El recurso eólico
+
+
+
+El viento a escala global,
+  regional y local. Variación del viento con la altura.
+  Turbulencia atmosférica y valores extremos.
+  Medición del recurso eólico. Análisis y
+  modelización del recurso eólico. Variabilidad
+  temporal y espacial del recurso eólico. Mapas
+  eólicos. El recurso eólico en el mar. Micrositing.
+  Predicción de la energía eólica.
+  Complementariedad entre la energía eólica y la
+  solar.
+
+                                                                                                            
+
+
+Conversión de la energía del
+    viento
+
+
+
+Conversión de la
+  energía del viento. Estimación de la Energía
+  Anual Esperada. Teoría del disco actuador. Parques
+  eólicos. Aspectos medioambientales y económicos de
+  la energía eólica. Presente y futuro de la
+  energía eólica. Fuerzas sobre el perfil
+  aerodinámico; Fuerzas sobre la pala; Fuerzas sobre la
+  torre
+
+ 
+
+
+Generador eólico
+
+
+
+Estructura general;
+  Cimentación; Torre;  Góndola;  Rotor
+  eólico;  Sistema de transmisión;  Eje
+  principal;  Caja multiplicadora;  Freno
+  mecánico;  Mecanismo de orientación; 
+  Instalación; Anemómetro y veleta;  Puente
+  grúa;  Instalación eléctrica de media
+  tensión.
+
+
+ 
+
+
+
+Sistemas de regulación y control del
+    aerogenerador
+
+
+
+ 
+Introducción; Sistema de
+supervisión del aerogenerador; Sistema de
+orientación;  Sistema aerodinámico de
+regulación; Sistemas de regulación de
+velocidad.
+
+
+Control del generador
+  eléctrico
+
+
+ 
+Control en generadores
+asíncronos: rotor bobinado; Control en generadores
+asíncronos: jaula de ardilla; Control en generadores
+síncronos: excitación independiente; Control en
+generadores síncronos de imanes permanentes
+ 
+
+
+Integración de los parque eólicos en el
+    sistema eléctrico de potencia
+
+
+
+Requisitos técnicos del
+  sistema eléctrico de potencia; Grado de penetración
+  de la energía eólica en el sistema
+  eléctrico; Dificultades o retos de la generación
+  eólica; Dificultades asociadas a la sustitución de
+  generación síncrona clásica por
+  generación eólica; Centro de control de
+  régimen especial (CEGRE);Control automático de
+  generación
+
+'

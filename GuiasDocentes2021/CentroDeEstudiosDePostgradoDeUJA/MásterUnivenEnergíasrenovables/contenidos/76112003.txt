@@ -1,0 +1,70 @@
+'
+
+Fundamentos de la Energía Solar Fotovoltaica
+BLOQUE 1.- INTRODUCCIÓN A LA ENERGÍA SOLAR FV.
+BLOQUE 2.- LA CÉLULA SOLAR. PRINCIPIOS DE FUNCIONAMIENTO
+Y CARACTERIZACIÓN.
+BLOQUE 3.- INTRODUCCIÓN A LOS SISTEMAS FV
+
+
+Desarrollo del contenido
+
+1 Introducción
+1.1 Introducción general al
+curso
+1.2 Conversión de
+Energía
+1.3 Introducción a la
+Energía Solar Fotovoltaica
+1.4 Historia de la Energía
+Solar FV
+1.5 La Luz Solar
+2 Principio de funcionamiento de una célula solar
+2.1 Cómo transformar la luz
+en electricidad
+2.2 Banda Prohibida - electrones en
+átomos y moléculas
+2.3 Excitación de portadores
+de carga
+2.4 Transporte de portadores de
+carga
+2.5 La unión p-n. La
+Célula Solar
+2.6 Ejercicios y consideraciones
+prácticas
+3 Características eléctricas, comportamiento y
+diseño de la célula solar
+3.1 Funcionamiento de la
+célula solar. La curva I-V
+3.2 Parámetros externos de
+una Célula Solar Ideal
+3.3 Resistencia serie y
+paralelo
+3.4 Normas de Diseño -
+Utilización de la banda de energía prohibida,
+Eficiencia Cuántica Externa, Límite de eficiencia de
+Shockley-Queisser
+3.5 Confinamiento de la luz.
+   3.6
+iniciación a la simulación.
+4 Introducción a los sistemas fotovoltaicos: componentes,
+conceptos, aplicaciones y diseño
+4.1 Sistemas FV:
+Introducción
+4.2 Módulos PV:
+Parámetros Módulo, orientación e
+inclinación. Dependencia con la temperatura
+4.3 Sistemas fotovoltaicos
+autónomos
+4.4 Sistemas fotovoltaicos
+conectados a red
+5 Caracterización experimental y Herramientas de
+Simulación
+5.1 Obtención experimental
+de la curva I-V de una célula solar. Medida a sol real de un
+módulo FV
+5.2 Simulación de una
+célula solar, módulo y sistema mediante pspice.
+5.3 Ejemplo de utilización
+de software libre de simulación (v.g.: PVGIS del JRC-EC)
+'

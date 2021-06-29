@@ -1,0 +1,92 @@
+'
+
+Fundamentos de proteómica: Plegamiento, transporte,
+recambio, maduración, degradación de proteínas
+e interacciones-proteína ligando. Técnicas y
+métodos de preparación de muestra, separación
+(2-D, HPLC-MS, otros), identificación y
+cuantificación en proteómica. Microarrays de
+proteínas. ProteoRed. Aplicaciones de la proteómica
+en el diagnóstico, descubrimiento de medicamentos,
+agricultura, industria, etc. Genómica estructural.
+Genómica funcional. Bases de datos y aplicaciones
+informáticas de genómica y proteómica.
+Entornos de programación en bioinformática:
+intérpretes de comandos. Análisis e
+integración de datos de 'ómicas': agrupamiento,
+estadística multivariante y minería de datos.
+Modelización: redes moleculares y dinámica de
+sistemas.
+
+1. Fundamentos de proteómica: Plegamiento, transporte,
+recambio, maduración, degradación de proteínas
+e interacciones proteína-lingando.
+2. Técnicas y métodos de preparación de
+muestra, separación (2-DE, HPLC-MS, otros),
+identificación y cuantificación en proteómica.
+Microarrays de proteínas. ProteoRed.
+3. Aplicaciones de la espectrometría de masas en
+proteómica.
+4. Aplicaciones de la proteómica en el
+diagnóstico, descubrimiento de medicamentos, agricultura,
+industria, etc.
+5. Prácticas de Laboratorio: Realización en el
+laboratorio de una electroforesis bidimensional (2-DE) y su
+análisis posterior para estudiar el efecto del ayuno sobre
+el proteoma de hígado de rata. 5.1. Preparación de la
+muestra. 5.2. Isoelectroenfoque sobre tiras IPG. 5.3. Equilibrado
+de las tiras y preparación de la SDS-PAGE. 5.4. SDS-PAGE.
+5.5. Tinción y análisis de proteínas.
+Tinción con azul Coomasie y Sypro-Rubi. 5.6.
+Introducción a PDQuest 
+R (BioRad Laboratories). 5.7. Métodos de
+análisis por espectrometría de masas de las manchas
+expresadas diferencialmente. 5.8. Presentación de
+resultados. Identificación de proteínas y
+proteómica funcional. 5.9. Métodos y equipos
+disponibles en la Universidad de Jaén para
+realización de estudios de proteómica.
+6. Diseño computacional de fármacos.
+7. Introducción a la genómica estructural:
+secuenciación de genomas completos, estructuras de los
+genomas de bacterias, hongos, plantas y animales.
+8. Introducción a la genómica funcional:
+principales técnicas de medida de la expresión
+génica masiva y anotación funcional de genomas.
+9. Bases de datos de Genética Molecular: 9.1.
+Nucleótidos: EMBL y Genbank con sus subdivisiones (dbGSS,
+dbSTS, dbSNP). 9.2. Proteínas: NCBI, Expasy, EMBL;
+estructura molecular de proteínas: NCBI, RELIBASE, 3Dee.
+9.3. Bases de datos del proyecto genoma humano (centro Sanger), de
+proyectos de secuenciación de genomas completos (S.
+cerevisiae, B. subtilis, A. Thaliana, etc). 9.4.
+Bibliográficas (PubMed). 9.5. OMIM (On line Mendelian
+Inheritance in Man): enferemedades hereditarias humanas y sus
+mutaciones asociadas.
+10. Obtención y análisis de secuencias de ADN y
+proteínas. 10.1. Secuenciación práctica de ADN
+en secuenciados automático; alineamiento y
+comparación de secuencias (BLAST, FASTA, CLUSTAL). 10.2.
+Análisis de secuencias de ADN (seqaid, DNAsis, GCG).
+11. Otros programas informáticos en genética
+Molecular: 11.1. Búsqueda de genes, exones, y promotores
+(Genscan, BCM search launcher). 11.2. Cálculo de condiciones
+de PCR (oligo, Melting). 11.3. Cálculo de estructura
+secundaria del ARN (Fold). 11.4. Análisis de
+proteínas y motivos funcionales (EMBOSS, Prosite, Expasy).
+11.5. Estudios de asociación genética de marcadores
+simples, haplotipos y Genome Wide
+12. Análisis de datos: Análisis de datos de
+expresión génica obtenidos por microarrays. Uso de R
+y NIHDAVID.
+13. Integración de datos biológicos:
+estadística multivariante, y minería de datos.
+14. Análisis, modelización y
+caracterización de la expresión génica: redes
+moleculares.
+15. Biotecnología de sistemas: combinación de
+análisis in silico y ómicos en aplicaciones
+industriales.
+16. Dinámica de sistemas
+biológicos: modelización y simulación
+'

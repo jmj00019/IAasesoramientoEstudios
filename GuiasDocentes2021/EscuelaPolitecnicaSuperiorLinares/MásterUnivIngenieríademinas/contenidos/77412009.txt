@@ -1,0 +1,92 @@
+'
+
+· Bloque I. El ciclo del agua
+· Bloque II. Hidrometeorología e
+hidrología de superficie.
+· Bloque III. Hidráulica subterránea
+· Bloque IV. Hidroquímica y
+contaminación
+· Bloque V. Hidrogeología regional
+
+
+Bloque
+  I. El ciclo del agua.
+
+
+ 
+
+
+
+Tema
+    1. El ciclo del agua: concepto, principales componentes,
+    expresión cuantitativa simplificada. Comportamiento
+    hidrogeológico de los materiales. Relaciones entre
+    acuíferos y superficies de agua libre. Balance
+    hídrico.
+
+
+
+ 
+
+Bloque
+II. Hidrometeorología e hidrología de superficie.
+
+Tema
+  2. Precipitación, evaporación y
+  evapotranspiración. Escorrentía e
+  infiltración. Aforos directos y estaciones de aforo.
+  Hidrogramas.
+
+Bloque
+III. Hidráulica subterránea.
+
+Tema
+  3. Ley de Darcy, gradiente hidráulico y conductividad
+  hidráulica.  Principios del flujo subterráneo:
+  redes de flujo. Modelización hidrogeológica.
+
+
+ 
+
+
+Tema
+  4. 
+  Hidráulica
+  de captaciones. Ensayos de bombeo: hipótesis y
+  fórmulas de Dupuit. Régimen permanente.
+  Régimen transitorio. Ensayos de
+  recuperación.
+
+ 
+
+Tema
+  5. El agua en la minería. Balance hídrico:
+  particularidades. Control de la piezometría.
+  Métodos de drenaje de minas. Modificaciones del sistema
+  hidrogeológico.
+
+Bloque
+IV. Hidroquímica y contaminación.
+ 
+
+Tema
+  6. Interpretación de datos hidroquímicos.
+  Transporte de solutos y ensayos de trazadores. Técnicas
+  isotópicas ambientales en hidrogeología.
+  Modelización hidrogeoquímica.
+
+ 
+
+Tema
+  7. Calidad de los recursos hídricos. Contaminación
+  de los recursos hídricos. Efluentes contaminantes y aguas
+  ácidas. Control y prevención de la
+  contaminación del agua en la minería.
+
+Bloque
+V. Hidrogeología regional.
+ 
+ Tema
+8. Caracterización y explotación de los diferentes
+sistemas hidrogeológicos. 
+'

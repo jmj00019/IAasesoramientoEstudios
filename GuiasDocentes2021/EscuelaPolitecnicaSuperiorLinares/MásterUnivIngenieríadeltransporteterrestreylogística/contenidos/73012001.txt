@@ -1,0 +1,59 @@
+'
+
+Diseño y planificación de infraestructuras de
+transporte ferroviario
+¿ Ingeniería ferroviaria centrada
+fundamentalmente en la interacción
+energía-ferrocarril: nuevos sistemas de tracción,
+gestión anticipativa del freno regenerativo,
+interacción
+inteligente con la red eléctrica y diseño de
+nuevos materiales y sistemas de operación.
+¿ Sistemas de electrificación ferroviaria
+actuales y futuros. Simuladores de electrificación.
+¿ Vehículos y material móvil:
+locomotoras, unidades de tren, material móvil para
+tranvías y metros, bogies, etc.
+¿ Elementos de la infraestructura ferroviaria (caminos
+de rodadura, raíles, ruedas, cables, etc).
+¿ Gestión y mantenimiento de
+máquinas.
+Obra civil de la infraestructura ferroviaria
+
+
+Manuel Ortega.
+
+1.-Introducción a la signatura y los sistemas
+ferroviarios.
+2.-Subestaciones 3300 CC, (Líneas de llegada de alterna,
+rectificación, pórtico de feeders, control y
+maniobra).
+
+ 
+
+
+Juan Carlos.
+
+1.- El vehículo ferroviario, locomotoras, metros y
+tranvías, vehículos de media y larga distancia.
+Gestión y mantenimiento de máquinas.
+2.-  Vehículo Alta Velocidad, Tracción
+Eléctrica, Freno. 4 H.
+
+Antonio Gómez.
+
+1.-Tracción Ferroviaria Eléctrica, sistemas de
+alimentación red ferroviaria 1 x 25 y 2 x 25, interruptores
+de alta tensión, tratamiento de armonicos. protecciones
+ferroviarias. puestas a tierra.
+
+Fernando Rodríguez García.
+
+1.- Catenaria de alta velociad.
+
+Luis Felipe Sese y Jesús Donaire
+  Ávila
+
+1.- Elementos de la infraestructura ferroviaria (caminos de
+rodadura, raíles, ruedas, cables, etc).
+'

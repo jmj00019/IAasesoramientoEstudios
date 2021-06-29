@@ -1,0 +1,169 @@
+'
+
+· Introducción a los circuitos
+electrónicos.
+· Introducción al diseño
+electrónico.
+· Sensores y acondicionamiento de señal.
+· Metodologías de diseño de sistemas
+electrónicos.
+· Herramientas de diseño: prototipado,
+herramientas CAD-EDA.
+
+
+
+CONTENIDOS
+  TEÓRICOS: (Desarrollo de temas)
+
+
+Tema
+  1. Introducción a los circuitos electrónicos
+
+
+
+ 
+       Electrónica Analógica.
+    Potencia
+
+
+ 
+       Electrónica Digital
+
+
+ 
+       Integración Electrónica. Diagramas
+    de bloques
+
+
+
+Tema
+  2. Introducción al diseño electrónico
+
+
+
+ 
+       Lógica programable: Tipos, ventajas e
+    inconvenientes
+
+
+ 
+       Microcontroladores y microprocesadores
+
+
+ 
+       Plataformas hardware
+
+
+
+Tema
+  3. Sensores y acondicionamiento de señal
+
+
+
+ 
+       Introducción a los sistemas de
+    medida
+
+
+ 
+       Sensores analógicos. Tipos
+
+
+ 
+       Sensores inteligentes
+
+
+ 
+       Acondicionamiento de señal
+
+
+
+Tema
+  4. Metodologías de diseño de hardware
+
+
+
+ 
+       Diseño Bottom-up
+
+
+ 
+       Diseño Top-down
+
+
+
+Tema
+  5. Herramientas de diseño: prototipado, herramientas
+  CAD-EDA
+
+
+
+ 
+       Programas de simulación
+    electrónica
+
+
+ 
+       Programas de diseño PCB
+
+
+
+ 
+
+
+
+CONTENIDOS
+  PRÁCTICOS: (Desarrollo de
+  prácticas)
+
+
+Bloque
+  1: Programas de simulación electrónica
+
+
+
+ 
+       Práctica 1. Introducción
+    Pspice
+
+
+ 
+       Práctica 2. Pspice Avanzado
+
+
+ 
+     Práctica 3. Prototipado PCB
+  (guiada-puntuable) 
+
+
+Bloque
+  2: Diseños electrónicos sencillos
+
+
+
+ 
+     Práctica 4. Circuitos con Plataforma Arduino
+  (guiada-puntuable) 
+
+
+Bloque
+  3: Integración electrónica
+
+
+
+ 
+       Práctica 5. Diseños con
+    acondicionamiento de señal I (guiada-puntuable)
+
+
+ 
+       Práctica 6. Diseños con
+    acondicionamiento de señal II (guiada-puntuable)
+
+
+ 
+       Práctica 7. Diseño final
+    (guiada-puntuable)
+
+
+'

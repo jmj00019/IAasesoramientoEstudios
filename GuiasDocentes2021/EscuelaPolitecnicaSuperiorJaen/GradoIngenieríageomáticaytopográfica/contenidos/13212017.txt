@@ -1,0 +1,115 @@
+'
+
+Procesos generales en producción cartográfica
+digital
+Generalización cartográfica
+Conflación cartográfica.
+Reproducción cartográfica. Soportes. Medias
+tintas
+Tecnologías de reproducción
+Publicación electrónica
+Introducción a la Calidad en Cartografía.
+Calidad de la Información Geográfica
+Evaluación de las componentes de la calidad de la
+Información Geográfica
+Control de procesos.
+ 
+
+
+CONTENIDOS DESARROLLADOS
+
+T1. Procesos generales en producción
+cartográfica
+
+Introducción.
+Productos, servicios y actores.
+Ciclo de vida del dato y del producto
+Modelo para la producción de calidad
+Modelado de actividades mediante UML
+
+ T2. Control de procesos en
+producción cartográfica y SIG
+
+Introducción.
+Propagación de la incertidumbre.
+Digitalización.
+Georreferenciación.
+Vectorización y rasterización.
+Interpolación.
+Superposición y álgebra de mapas.
+Otras operaciones.
+Modelo probabilístico.
+
+ T3. Generalización cartográfica
+
+Introducción.
+Modelos conceptuales.
+Generalización del modelo y de los datos.
+Generalización vectorial.
+Generalización ráster.
+Generalización de MDT.
+Generalización de Toponimia.
+Ejemplos.
+
+ T4. Integración de datos
+
+Introducción
+Modelo conceptual.
+Proceso general y análisis de casos.
+Transformaciones espaciales.
+Detección de homólogos.
+Semejanza de geometrías.
+Integración semántica.
+Integración de redes.
+
+ T5. Introducción a la Calidad. Calidad en
+Cartografía.
+
+Introducción.
+Factores y costes de la calidad.
+Gestión de la calidad.
+Normas ISO sobre calidad de la IG (19157).
+
+T6. Evaluación de las componentes de la calidad de la
+Información Geográfica
+
+Introducción.
+Evaluación de las componentes (posición, tema,
+  compleción, tiempo, cosistencia, etc.).
+Reporte de la calidad como metadatos y como informe
+  independiente.
+
+T7. Reproducción cartográfica.
+
+Introducción.
+Soportes y tintas.
+Medias tintas.
+Tecnologías analógicas.
+Tecnologías digitales.
+Impresión 3D.
+Publicación electrónica.
+
+CONTENIDOS PARA ACTIVIDADES PRÁCTICAS
+
+Prácticas del Tema 1
+Prácticas del Tema 2
+Prácticas del Tema 3
+Prácticas del Tema 4
+Prácticas del Tema 5
+Prácticas del Tema 6
+Prácticas del Tema 7
+
+En esta asignatura se realiza un aprendizaje basado en proyectos
+en coordinación con las asignaturas de este grado:
+CARTOGRAFIA, CARTOGRAFIA MATEMATICA, SISTEMAS DE INFORMACION
+GEOGRAFICA, PRODUCCION CARTOGRAFICA, INFRAESTRUCTURA DE DATOS
+ESPACIALES. En particular, en el curso 2018/2019 se concedió
+un Proyecto de Innovación Docente solicitado y coordinado
+por profesores del Departamento de Ingeniería
+Cartográfica, Geodésica y Fotogrametría,
+titulado: PRODATO: UN CONJUNTO DE PRACTICAS DE CARTOGRAFIA
+ENLAZADAS PARA LOS ESTUDIANTES DEL GRADO EN GEOMATICA Y TOPOGRAFIA
+para la realización de un aprendizaje basado en
+proyectos.
+ 
+'

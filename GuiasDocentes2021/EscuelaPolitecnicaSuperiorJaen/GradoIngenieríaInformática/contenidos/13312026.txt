@@ -1,0 +1,34 @@
+'
+
+Capas inferiores del Modelo de referencia OSI de ISO. Redes de
+comunicaciones y sus infraestructuras. Normas y/o protocolos a
+nivel físico, enlace y red. Redes de área local.
+Redes de área personal y redes de sensores. Protocolos de
+seguridad en red. Infraestructuras de comunicaciones en
+organizaciones.
+ 
+
+UNIDADES TEÓRICAS
+TEMA 1. Introducción. Modelos OSI y TCP/IP. Calidad de
+Servicio. Estructura de Internet.
+TEMA 2. Redes de área local. Características
+principales. Redes locales virtuales. Conmutación nivel 2.
+Redes jerárquicas. 
+TEMA 3. Protocolo IP. Direccionamiento
+y enrutamiento. Calidad de servicio. Redes privadas
+virtuales. 
+TEMA 4. Tecnologías de seguridad en nivel de red.
+Protocolos de seguridad. Equipos de comunicaciones.
+TEMA 5. Tecnologías de acceso a Internet.
+TEMA 6. Internet de las Cosas IoT. Protocolos. Redes de
+sensores y área personal.
+TEMA 7. Infraestructuras de comunicaciones.
+  
+UNIDADES PRÁCTICAS
+P1.- Configuración de redes de área local.
+Conmutadores de nivel 2.
+P2.- Configuración de redes deárea extensa.
+Conmutadores de nivel 3.
+P3.- Configuración y programación de dispositivos
+IoT.
+'

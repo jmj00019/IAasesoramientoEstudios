@@ -1,0 +1,96 @@
+'
+
+La asignatura tiene como objetivo presentar las
+tecnologías relacionadas con los servicios y protocolos de
+comunicaciones para sistemas móviles. En concreto se
+abordarán aspectos de servicios y protocolos en
+comunicaciones celulares, y movilidad en protocolos
+clásicos.
+En la parte práctica, se desarrollan aplicaciones y
+servicios para terminales inalámbricos. 
+
+
+En
+  esta asignatura se estudian las tecnologías más
+  importantes para el desarrollo, despliegue e integración
+  de protocolos y servicios de comunicaciones empleados en los
+  dispositivos y terminales móviles, así como dentro
+  del marco de Internet de las Cosas.
+
+
+ 
+
+
+En la
+  parte práctica, se desarrollan aplicaciones para la
+  implementación y/o despliegue de servicios para terminales
+  móviles, inalámbricos y/o IoT.
+
+
+  
+
+Palabras
+  clave: servicios móviles, computación ubicua,
+  recolección de datos, servicios para IoT.
+
+Bloque teórico
+
+Tema 1. Introducción a los servicios y aplicaciones
+  móviles.
+Tema 2. Tecnologías de comunicación
+  inalámbrica para terminales móviles.
+Tema 3. Diseño y gestión de acceso a servicios
+  remotos.
+Tema 4. Servicios y comunicaciones multimedia para terminales
+  móviles.
+
+Bloque práctico
+El bloque práctico de la asignatura se compone de
+prácticas en el laboratorio, y su carácter es
+obligatorio.
+El objetivo fundamental de las prácticas es la
+consecución de las habilidades y competencias necesarias
+para el diseño, implementación y prueba de
+aplicaciones de comunicaciones para terminales móviles. El
+conjunto de las actividades realizadas en las prácticas
+corresponderán con un proyecto de diseño e
+implementación de una aplicación para un dispositivo
+móvil que permita acceder a un servicio remoto a
+través de Internet.
+Además, se desarrollarán habilidades de
+comunicación información, ideas, problemas y
+soluciones en el ámbito de ingeniería y la sociedad
+en general a través de procesos de entrega de
+documentación de las actividades prácticas,
+así como la realización de presentaciones orales.
+Con respecto a la organización del trabajo, se
+fomentará la colaboración y trabajo en equipo a
+través del propio diseño de las prácticas,
+así como con el empleo de plataformas de gestión de
+proyectos empleadas en entornos profesionales.
+Práctica 1. Introducción al desarrollo de
+servicios y aplicaciones móviles.
+
+Sesiones en el laboratorio: 3,5 (7 horas).
+Tiempo de trabajo autónomo: 10,5 horas.
+
+Práctica 2. Desarrollo de una aplicación cliente
+básica
+
+Sesiones en el laboratorio: 5 (10 horas).
+Tiempo de trabajo autónomo: 15 horas.
+
+Práctica 3. Desarrollo de un servicio de
+comunicaciones.
+
+Sesiones en el laboratorio: 5 (10 horas).
+Tiempo de trabajo autónomo: 15 horas.
+
+Seminarios (Tutorías colectivas)
+
+Sistemas de desarrollo de servicios y aplicaciones
+  móviles Android. 2 horas
+Software de control de versiones. 1 hora.
+Opcional - Pruebas unitarias. 2 horas
+
+'

@@ -1,0 +1,122 @@
+'
+
+Introducción a la
+exploración geofísica. Prospección
+gravimétrica. Prospección magnética.
+Prospección eléctrica y electromagnética.
+Prospección sísmica de refracción y de
+reflexión. Prospección radiométrica y
+geotérmica. Testificación de sondeos. Ambigüedad
+de las técnicas e interpretación conjunta de datos
+geológicos, geofísicos y de testificación de
+sondeos. Resolución de problemas habituales en
+Ingeniería. Contribución de los métodos de
+geofísica aplicada al conocimiento del subsuelo
+terrestre.
+
+
+
+Tema
+1.
+Introducción a la
+exploración geofísica.
+Geofísica
+pura y prospección geofísica. Sondeos. Principales
+propiedades físicas de rocas y minerales.
+Características generales de las observaciones
+geofísicas: resolución, adquisición y
+ambigüedad de los datos geofísicos.
+Clasificación de los métodos de prospección
+geofísica. Aplicaciones de la prospección
+geofísica.
+
+ 
+
+
+
+Tema
+2
+.
+Prospección gravimétrica y magnética.
+Principios físicos. Propiedades físicas de los
+materiales geológicos. Equipos de medida. Correcciones
+gravimétricas y magnéticas, Anomalías
+gravimétricas y magnéticas. Fundamentos de la
+interpretación y principales aplicaciones en
+ingeniería y geología.
+
+ 
+
+
+
+Tema
+3.
+Prospección
+eléctrica y electromagnética. Principios
+físicos. Propiedades físicas de los materiales
+geológicos. Métodos eléctricos y
+electromagnéticos: de campo natural,
+eléctrico-resistivos, polarización inducida,
+electromagnéticos. Equipos de medida en determinaciones de
+resistividad y polarizabilidad. El Georadar. Fundamentos de la
+interpretación y principales aplicaciones en
+ingeniería y geología.
+
+
+Tema
+4.
+Prospección
+sísmica. Principios físicos. Sismología,
+símica de reflexión y refracción. Equipos de
+medida y procesado. Fundamentos de la interpretación de
+datos sísmicos y principales aplicaciones en
+ingeniería y geología.
+
+ 
+
+
+ 
+
+
+
+Tema
+5.
+Prospección
+radiométrica y geotérmica. Principios físicos.
+Equipos de medida y procesado. Fundamentos de la
+interpretación y principales aplicaciones en
+ingeniería y geología.
+
+ 
+
+
+ 
+
+
+
+Tema
+6
+.
+Testificación de sondeos. Principios físicos.
+Instrumental y procesado. Fundamentos de la interpretación y
+principales aplicaciones en ingeniería y
+geología.
+
+ 
+
+
+ 
+
+
+
+
+Tema
+  7.
+Integración
+  e interpretación conjunta de datos geológicos,
+  geofísicos y geodésicos. Ambigüedad en la
+  interpretación. Resolución de problemas habituales
+  en ingeniería. Contribución de la geofísica
+  aplicada al conocimiento del subsuelo terrestre.
+
+'

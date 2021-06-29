@@ -1,0 +1,331 @@
+'
+
+Procesadores integrados para computación y control.
+Sistemas de Memoria y Entrada/Salida. Aplicaciones de Control
+ 
+
+
+
+
+TEORÍA
+
+
+
+
+
+Introducción a la
+  asignatura
+
+
+Embedded
+      systems.
+
+
+
+ASIC. PLD.
+
+
+Microprocesador.
+      Microcontrolador.
+
+
+Microcontroladores
+      PIC / Atmel.
+
+
+Diseño
+      con microcontroladores.
+
+
+
+
+Programación de los microcontroladores
+  Atmel
+
+
+
+Código
+      máquina.
+
+
+Programación
+    en ensamblador.
+
+
+Instrucciones.
+
+
+Directivas.
+
+
+Programación
+        estructurada.
+
+
+Entorno
+        de programación.
+
+
+
+Programación
+    en C.
+
+
+Estructura
+        de un programa.
+
+
+Tipos
+        de datos.
+
+
+Las
+        constantes.
+
+
+Variables.
+
+
+Operadores.
+
+
+Funciones.
+
+
+Declaraciones
+        de control.
+
+
+Comentarios.
+
+
+Directivas
+        y funciones C básicas.
+
+
+
+
+
+
+Memoria de los Atmel
+  ATmegaXXXX 
+
+
+
+Terminales
+      y arquitectura de los ATmegaXXXX.
+
+
+Organización
+      de la memoria.
+
+
+
+FlashROM de
+      programa.
+
+
+Contador
+      de programa.
+
+
+Programación
+      en varias páginas de memoria de programa.
+
+
+Tablas
+      en la memoria de programa. Directiva DT.
+
+
+Pila.
+
+
+
+SRAM de datos.
+
+
+Registros
+      de funciones especiales del núcleo.
+
+
+Modos
+      de direccionamiento de los datos.
+
+
+
+
+
+Hardware
+
+ de los
+  ATmegaXXXX
+
+
+
+Palabra
+      de configuración.
+
+
+Oscilador
+      y ciclo de instrucción.
+
+
+Temporizador.
+
+
+Modo
+      de bajo consumo 
+      (sleep).
+
+
+Arranque
+      y reinicio  
+      (reset).
+
+
+El
+      temporizador perro guardián 
+      (watchdog timer).
+
+
+Protección
+      de memoria.
+
+
+Grabación.
+      Depuración.
+
+
+Sistema
+      de interrupciones.
+
+
+
+
+Puertos de los ATmegaXXXX
+
+
+
+Terminales
+      digitales.
+
+
+Terminales
+      analógicos.
+
+
+Interrupciones.
+
+
+PWM.
+
+
+Características
+      generales de los puertos serie.
+
+
+Norma
+      RS232C.
+
+
+SPI.
+      Interrupción.
+
+
+I2C.
+      Interrupción. 
+
+
+
+
+Empleo de periféricos en los  
+  ATmegaXXXX
+
+
+Interruptores
+      y pulsadores.
+
+
+Teclados
+      matriciales.
+
+
+Adaptación
+      de señales de potencia.
+
+
+LED
+      y módulos LED-7-segmentos.
+
+
+Displays
+      de cristal líquido (LCD).
+
+
+Sensores
+
+
+Actuadores
+
+
+
+
+PLD 
+
+
+
+EEPROM
+      serie y otros dispositivos I2C.
+
+
+SPLD.
+
+
+OrCAD
+      PLD.
+
+
+CPLD.
+
+
+FPGA.
+
+
+VHDL.
+
+
+
+
+
+PRÁCTICAS
+
+
+0.-
+  Introducción. Metodología.
+  Evaluación.
+
+
+1.-
+  Microprocesadores vs microcontroladores
+
+
+2.-
+  Herramientas de desarrollo
+
+
+3.-
+  Puertos E/S
+
+
+4.-
+  Periféricos
+
+
+5.-
+  Interrupciones
+
+
+6.-
+  Práctica Libre
+
+'

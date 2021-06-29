@@ -1,0 +1,92 @@
+'
+
+En esta asignatura se
+estudiarán los distintos servicios proporcionados por la
+computación en la nube (cloud computing), identificando los
+elementos fundamentales que los integran. Se proporcionan
+herramientas para diseñar, crear y determinar las
+características necesarias para proporcionar servicios
+cloud. Así mismo, se presentarán las diferentes
+soluciones de virtualización y el papel que
+desempeñan dentro del cloud computing.
+
+En esta asignatura se
+estudiarán los distintos servicios proporcionados por la
+computación en la nube (cloud computing), identificando los
+elementos fundamentales que los integran. Se proporcionan
+herramientas para diseñar, crear y determinar las
+características necesarias para proporcionar servicios
+cloud. Así mismo, se presentarán las diferentes
+soluciones de virtualización y el papel que
+desempeñan dentro del cloud computing.
+
+Módulo 1: Introducción a Cloud Computing
+  (8  horas)
+
+En este módulo, se presenta
+el concepto de cloud computing y las razones económicas que
+lo justifican. Se estudian algunos conceptos fundamentales que
+incluyen las arquitecturas definidas (identificando los elementos
+que las integran) y los distintos servicios proporcionados por
+la computación en la nube o "cloud
+computing"  
+Como práctica se
+realizarán el siguiente  
+proyecto: Ejercicio para determinar y elegir los
+servicios cloud en función de las necesidades de una
+empresa.
+
+Módulo 2: Virtualización (8 horas)
+
+En este módulo se
+estudiará el concepto de virtualización y
+términos relacionados. Se conocerán  las
+diferentes soluciones de virtualización y el papel que
+desempeñan dentro del cloud computing. Se comparará
+la infraestructura como servicio ofrecida por los tres grandes:
+Amazon, Google y Microsoft.
+Como práctica se
+realizarán  
+dos proyectos:
+
+Creación de una máquina virtual con VirtualBox,
+  exportándola a distintos formatos.
+La puesta en marcha de un servicio de computación
+  cloud de bajo nivel o IaaS (infraestructura como
+  servicio). 
+
+   
+Módulo 3: PaaS y servicios cloud (14 
+horas)
+Se estudiará el concepto de
+Plataforma como Servicio, que es una categoría de servicios
+cloud que proporciona una plataforma y un entorno que permiten a
+los desarrolladores crear aplicaciones y servicios que funcionen a
+través de internet.
+Así mismo, se
+estudiarán distintos servicios como son  
+Google cloud IoT Core (servicio completamente para
+conectar, administrar y transferir datos de manera fácil y
+segura desde dispositivos en todo el mundo) y  
+Google Data Studio (herramienta de Analytics Suite de
+Google para crear de informes).
+Dos son los  
+proyectos propuestos como
+práctica:
+
+Aplicación práctica de contenedores
+  software.
+Manejo de bases de datos en Cloud.
+Creación y despliegue de una aplicación con
+  PaaS.
+
+   
+Módulo 4: SaaS y servicios cloud (2 
+horas)
+En este módulo se
+presentará el concepto de Software y como servicio y se
+estudiarán algunos ejemplos de aplicaciones más
+utilizadas.
+
+Proyecto propuesto: aplicaciones SaaS.
+'

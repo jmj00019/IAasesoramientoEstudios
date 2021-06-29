@@ -1,0 +1,48 @@
+'
+
+Introducción a la computación móvil.
+Evolución. Sistemas operativos para dispositivos
+móviles. Tecnologías de desarrollo software para
+dispositivos móviles. Emuladores. Gestión y
+optimización de recursos computacionales. Interfaces de
+usuario en dispositivos móviles. Gráficos.
+ 
+
+
+Tema 1. Fundamentos
+
+
+Tema 2. El lenguaje de programación
+
+
+Tema 3. Herramientas de desarrollo
+
+
+Tema 4. El proceso de desarrollo de apps
+
+
+Tema 5. Diseño de la Interfaz de Usuario
+
+
+Tema 6. Diseño del Modelo de Datos
+
+
+Tema 7. Diseño de los Controladores
+
+
+Tema 8. Gestión de recursos en dispositivos
+  móviles
+
+
+PRÁCTICAS
+
+Introducción de Herramientas
+Tutoriales
+Proyecto de programación:
+
+Diseño de aplicaciones
+Diseño de interfaz de usuario
+Implementación de aplicaciones
+
+ 
+'

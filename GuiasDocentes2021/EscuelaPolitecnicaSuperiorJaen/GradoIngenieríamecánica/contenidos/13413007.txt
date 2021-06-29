@@ -1,0 +1,255 @@
+'
+
+Instalaciones de calefacción, climatización y aire
+acondicionado. Cálculos, modelado y diseño
+Integración de energía solar en la
+edificación. Cálculos, modelado y diseño
+Condiciones de confort en la edificación
+Ahorro y eficiencia energética en la
+edificación. Sistemas y procedimientos
+Calificación energética de edificios
+
+
+PARTE I : FUNDAMENTOS TEORICOS
+
+
+
+Tema 1: Máquinas térmicas en el contexto
+  energética.
+
+
+· Introducción.
+· Tipos de energía.
+· Fuentes de energía.
+· Interconversión de energía.
+· Máquinas térmicas, Directa e
+  Inversa
+
+
+
+Tema 2: Intercambiadores de calor.
+
+
+· Conceptos Básicos
+· Balances de Energía
+· Tipos de intercambiadores.
+· Diseño y cálculo de un intercambiador
+  de calor.
+
+
+
+Tema 3: Descripción de las instalaciones de
+  calefacción y aire
+
+
+
+acondicionado.
+
+
+· Introducción.
+· Sistemas por Agua.
+
+_ Calefacción por Agua
+_ Refrigeración por Agua
+_ Climatización por Agua
+
+· Sistemas por Aire.
+
+_ Calefacción por Aire
+_ Refrigeración por Aire
+_ Climatización por Aire
+
+
+Tema 4: Psicometría.
+
+
+· Introducción. Termodinámica del aire
+  húmedo
+· Temperatura de bulbo húmedo.
+· Temperatura de saturación
+  adiabática.
+· Diagrama Psicrométrico.
+· Cálculos analíticos en
+  Psicometría.
+· Procesos básicos en el Diagrama
+  Psicrométrico.
+· Análisis psicrométrico de algunos
+  equipos y sistemas.
+
+ 
+
+PARTE II : EQUIPOS Y SISTEMAS PARA INSTALACIONES
+  TÉRMICAS
+
+
+
+ Tema 5: Equipos de Producción de
+  calor.
+
+
+· Introducción. Tipos de equipos.
+· Calderas. Quemadores.
+· Combustibles. Rendimiento de calderas.
+· Generadores de aire caliente.
+
+
+
+Tema 6: Equipos de Producción de
+  frío.
+
+
+· Introducción. Tipos de equipos.
+· Acondicionadores de aire (compactos y
+  partidos).
+· Plantas enfriadoras de agua.
+· Equipos de absorción.
+
+
+
+Tema 7: Bombas de calor.
+
+
+· Introducción. Tipos de bombas de calor.
+· Bombas de calor eléctricas.
+· Bombas de calor reversibles.
+· Bombas de calor térmicas.
+· Principales coeficientes de evaluación C.E.E.
+  (COP)
+
+ ( CCOP ),(HCOP ).
+
+
+Tema 8: Sistemas de distribución de frío y
+  calor
+
+
+· Tipos de sistemas.
+· Unidades centrales.
+· Unidades terminales.
+· Sistemas por aire.
+· Sistemas por agua.
+· Sistemas mixtos.
+· Sistemas por refrigerante.
+
+
+
+ 
+
+
+PARTE III : CLIMATIZACIÓN
+
+
+
+Tema 9: Instalaciones térmicas de
+  calefacción
+
+
+· Cálculo de cargas de Calefacción
+· Normativa
+· Dimensionado de instalaciones de
+  calefacción
+· Sistemas por agua Aplicación suelo
+  radiante
+· Principios básicos de Regulación
+· Sistemas de regulación y control en
+  calefacción
+
+ 
+
+
+Tema 10: Cálculo de cargas de
+  Climatización
+
+ 
+
+· Concepto de carga térmica.
+· Proceso de cálculo.
+· Carga térmica debida a cerramientos.
+· Carga térmica debida a infiltraciones /
+  ventilación.
+· Carga de refrigeración debida a ganancias
+  internas.
+· Necesidades térmicas del local.
+· Factor de calor sensible.
+
+
+
+Tema 11: Dimensionado de instalaciones de Aire
+  en
+
+
+
+Climatización.
+
+
+· Metodología general de cálculo.
+· Selección de equipos.
+· Cálculo de conductos de aire.
+  Selección de ventiladores.
+· Distribución del aire en el ambiente.
+
+
+
+Tema 12 : Dimensionado de instalaciones de Agua
+  en
+
+
+
+Climatización.
+
+
+· Metodología general de cálculo.
+· Selección de equipos.
+· Dimensionado de las unidades terminales.
+· Cálculo de redes de tuberías.
+  Selección de bombas.
+
+
+
+Tema 14: Ejemplo de cálculo de una instalación
+  de
+
+
+
+Climatización.
+
+
+· Especificaciones constructivas del edificio. Datos
+  de diseño.
+· Cálculo de la carga de
+  refrigeración.
+· Selección del equipo de producción de
+  frío.
+· Selección del equipo de producción de
+  calor.
+· Selección de equipos de regulación y
+  control.
+· Dimensionado de conductos.
+· Estimación del consumo
+  energético.
+
+
+PARTE IV : AGUA CALIENTE SANITARIA.
+
+
+
+Tema 15: Agua Caliente Sanitaria (ACS).
+
+
+· Descripción general de instalaciones de
+  ACS.
+· Normativa.
+· Dimensionado de instalaciones de ACS.
+
+
+PARTE V : PRÁCTICAS.
+
+
+· Diseño de uns Instalación Solar
+  Térmica.
+· Varios casos de análisis de sistemas.
+· Cálculo , diseño y
+  calificación de una instalación
+  específica
+
+'

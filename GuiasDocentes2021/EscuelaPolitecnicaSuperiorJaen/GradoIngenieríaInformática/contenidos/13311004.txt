@@ -1,0 +1,71 @@
+'
+
+Estadística descriptiva. Probabilidad. Probabilidad
+condicionada. Variables aleatorias. Principales modelos
+teóricos. Vectores aleatorios. Distribuciones
+conjunta, marginales y condicionadas. Independencia. Normal
+multidimensional. Inferencia estadística. Estimación
+puntual. Contraste de hipótesis. Regresión lineal
+simple.
+ 
+
+
+Introducción a la estadística.
+Estadística descriptiva univariante
+  * Tipos de variables estadísticas
+  * Construcción de tablas de frecuencias
+  * Métodos gráficos para el análisis de
+  datos
+  * Medidas descriptivas para el análisis de
+  datos
+Introducción al cálculo de probabilidades
+  * Definición de probabilidad
+  * Probabilidad condicionada
+  * Independencia
+  * Teoremas fundamentales
+Variable aleatoria
+  * Variables discretas. Función masa de probabilidad
+  * Variables continuas. Función de densidad de
+  probabilidad
+  * Función de distribución
+  * Características: Media y varianza.
+Vectores aleatorios
+  * Distribuciones conjunta, marginales y condicionadas
+  * Vector de medias y matriz de varianzas-covarianzas.
+  Correlación
+  * Independencia
+Modelos de distribuciones de probabilidad
+  * Modelos de distribuciones discretas: uniforme, binomial,
+  Poisson, otros modelos
+  * Modelos de distribuciones continuas: exponencial, normal,
+  otros modelos.
+  * Normal multidimensional
+Introducción a la inferencia estadística
+  * Población y muestra. Estadísticos
+  * Distribuciones en el muestreo en poblaciones
+  normales
+Estimación
+  * Definición y propiedades de un estimador puntual
+  * Métodos de estimación puntual
+  * Definición de intervalo de confianza
+  * Intervalos de confianza para medias, varianzas y
+  proporciones
+Contrastes de hipótesis
+  * Contrastes de hipótesis sobre la media, la
+  varianza o la proporción de una población
+  * Contrastes de hipótesis para la comparación
+  de medias, varianzas o proporciones de dos poblaciones
+  * ANOVA (un factor) para la comparación de medias de
+  más de dos poblaciones
+  * Contrastes de hipótesis no paramétricas:
+  contrastes de bondad de ajuste, contrastes de independencia,
+  otros
+  contrastes de interés.
+Modelo de regresión lineal simple
+  * Planteamiento del modelo
+  * Inferencia sobre los parámetros del modelo
+  * Correlación
+  * Predicción
+  * Diagnosis
+
+'

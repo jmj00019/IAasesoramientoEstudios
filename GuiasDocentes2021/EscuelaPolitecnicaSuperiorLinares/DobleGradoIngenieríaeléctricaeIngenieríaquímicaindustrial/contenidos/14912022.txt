@@ -1,0 +1,110 @@
+'
+
+
+Máquina
+  de corriente continua
+
+
+Máquina
+  síncrona
+
+
+
+UNIDAD DIDÁCTICA I: CONCEPTOS FUNDAMENTALES SOBRE
+MÁQUINAS ELÉCTRICAS. 
+
+TEMA 1. - PRINCIPIOS BÁSICOS DE LAS
+MÁQUINAS ELÉCTRICAS. 
+1.1.- Descripción del campo magnético
+uniforme.
+1.2.- El campo magnético giratorio.
+1.3.- Fuerza magnetomotriz y distribución de flujo
+en las máquinas de corriente alterna.
+1.4.- Tensión inducida en las máquinas de
+corriente alterna.
+1.5.- Par en una máquina de corriente alterna.
+1.6.- Regulación de tensión y velocidad.
+1.7.- Conmutación en las máquinas de corriente
+continua.
+1.8.- Reacción de inducido en las máquinas de
+corriente continua.
+1.9.- Problemas derivados de la conmutación.
+1.10.- Ecuaciones de fuerza electromotriz generada y par
+inducido en las máquinas de corriente continua.
+1.11.- La construcción de máquinas de corriente
+continua.
+1.12.- Flujos de potencia y pérdidas de las
+máquinas de corriente alterna y continua.
+ 
+
+UNIDAD DIDÁCTICA II: MÁQUINA DE CORRIENTE
+CONTINUA. 
+
+TEMA 2. - MOTOR DE CORRIENTE CONTINUA.
+
+2.1.- Introducción.
+2.2.- Circuito equivalente de un motor de corriente
+continua.
+2.3.- Curva de magnetización de una máquina de
+corriente continua.
+2.4.- Motores de corriente continua con excitación
+independiente y en derivación.
+2.5.- Motor de corriente continua de imanes
+permanentes.
+2.6.- Motor de corriente continua con excitación en
+serie.
+2.7.- Motor de corriente continua con excitación
+compuesta.
+2.8.- Proceso de arranque de los motores de corriente
+continua.
+2.9.- El sistema Ward-Leonard y variadores de velocidad.
+2.10.- Cálculos de eficiencia del motor de corriente
+continua.
+ 
+
+TEMA 3. - GENERADOR DE CORRIENTE CONTINUA.
+
+3.1.- Introducción.
+3.2.- Generador de corriente continua con excitación
+independiente.
+3.3.- Generador de corriente continua con excitación en
+derivación.
+3.4.-Generador de corriente continua con excitación en
+serie.
+3.5.- Generador de corriente continua con excitación
+compuesta de carácter acumulativo.
+3.6.- Generador de corriente continua con
+excitación compuesta de
+carácter diferencial.
+ 
+
+UNIDAD DIDÁCTICA III: MÁQUINA
+SÍNCRONA. 
+
+TEMA 4. - GENERADOR SÍNCRONO.
+
+4.1.- Introducción. Aspectos constructivos.
+4.2.- Velocidad de rotación de un generador
+síncrono.
+4.3.- Fuerza electromotriz generada en un generador
+síncrono.
+4.4.- Circuito equivalente de un generador síncrono.
+4.5.- Diagrama fasorial de un generador síncrono.
+4.6.- Potencia y par en los generadores síncronos.
+4.7.- Medición de los parámetros de un
+generador síncrono.
+4.8.- Funcionamiento aislado.
+4.9.- Funcionamiento en paralelo.
+4.10.- Transitorios en el generador síncrono.
+4.11.- Valores nominales de un generador síncrono.
+ 
+
+TEMA 5.- MOTOR SÍNCRONO.
+
+5.1.- Principio básico de funcionamiento del motor
+síncrono.
+5.2.- Funcionamiento en régimen permanente.
+5.3.- Arranque del motor síncrono.
+5.4.- Generadores y motores síncronos .
+5.5.- Valores nominales del motor síncrono.
+'

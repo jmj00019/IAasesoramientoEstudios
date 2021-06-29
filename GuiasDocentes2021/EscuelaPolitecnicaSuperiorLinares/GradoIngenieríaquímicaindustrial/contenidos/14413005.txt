@@ -1,0 +1,37 @@
+'
+
+
+BLOQUE I: INTRODUCCIÓN.
+BLOQUE 2: MATERIALES CERAMICOS AVANZADOS.
+BLOQUE 3: NUEVOS MATERIALES METALICOS.
+BLOQUE 4: MATERIALES POLIMERICOS AVANZADOS.
+BLOQUE 5: MATERIALES COMPUESTOS AVANZADOS.
+
+
+I. Introducción Tema 1. Introducción. Concepto de
+los nuevos materiales. Necesidades de la introducción de
+Nuevos Materiales en la industria. Clasificación. Tema 2.
+Pulvimetalurgia. Obtención de polvos. Conformado.
+Sinterización. Técnicas especiales. II. Materiales
+Cerámicos Tema 3. Materiales cerámicos avanzados.
+Materiales cerámicos. Definición, teoría y
+propiedades. Alúminas y mullitas. Nitruro de silicio.
+Vidrios y Vitrocerámicas. Cerámicas tenaces. III.
+Nuevos Materiales Metálicos Tema 4. Nuevos materiales
+metálicos. Comportamientos a temperaturas elevadas
+(oxidación y fluencia). Superaleaciones base niquel.
+Superaleaciones base cobalto. Superaleaciones base hierro. Otros
+materiales metálicos. IV. Materiales Poliméricos Tema
+5. Materiales poliméricos. Materiales poliméricos.
+Definición. Teoría y propiedades. Fabricación.
+Clasificación. Aplicaciones. V. Materiales Compuestos Tema
+6. Materiales compuestos. Definición. Teoría y
+propiedades. Materiales compuestos de matriz cerámica.
+Materiales compuestos de matriz metálica. VI. Materiales con
+propiedades especiales Tema 7. Materiales con propiedades
+especiales. Materiales para usos nucleares. Materiales con
+capacidad de amortiguación. Materiales con propiedades
+térmicas. Materiales con propiedades eléctricas
+especiales. Materiales con propiedades magnéticas.
+Materiales para la utilización a bajas temperaturas.
+'

@@ -1,0 +1,148 @@
+'
+
+- Oscilaciones y ondas
+- Fluidos
+- Termodinámica
+- Electromagnetismo
+- Física moderna
+
+BLOQUE TEMÁTICO 0: INTRODUCCIÓN. CONCEPTOS
+PREVIOS
+
+TEMA 0.- Introducción
+
+La Física y sus métodos.- Análisis
+dimensional.- Magnitudes escalares y vectoriales. Álgebra
+vectorial.- Vector de posición, velocidad y
+aceleración.- Leyes de Newton.- Trabajo y energía.-
+Principio de conservación de la energía
+mecánica
+  
+BLOQUE TEMÁTICO I: FLUIDOS
+
+TEMA 1.- Estática de fluidos
+
+Concepto de fluido.- Presión y densidad.- Ecuación
+fundamental de la estática de fluidos. Principio de Pascal.-
+Principio de Arquímedes
+
+TEMA 2.- Dinámica de fluidos
+
+Introducción.- Líneas de corriente:
+ecuación de continuidad.- Teorema de Bernouilli:
+aplicaciones.- Viscosidad: pérdida de carga de una
+conducción.- Régimen laminar: ley de Poiseuille.-
+Régimen turbulento: número de Reynolds.- Movimiento
+relativo de sólidos en el seno de un fluido
+
+TEMA 3.- Fenómenos de superficie
+
+Fuerzas intermoleculares: tensión superficial.-
+Presión debida a la cuvatura. Fórmula de Laplace.-
+Ángulo de contacto.- Capilaridad: ley de Jurin
+ 
+BLOQUE TEMÁTICO II: OSCILACIONES Y ONDAS
+
+TEMA 4.- Oscilaciones
+
+Introducción.- Oscilaciones armónicas.-
+Energía de un oscilador armónico.- Oscilaciones
+amortiguadas.- Oscilaciones forzadas: Resonancia
+
+TEMA 5.- Ondas
+
+Introducción.- Tipos de ondas.- Ecuación de ondas.
+Ondas armónicas.- Intensidad y absorción.-
+Fenómenos ondulatorios.- Ondas estacionarias
+ 
+BLOQUE TEMÁTICO III: TERMODINÁMICA
+
+TEMA 6.- Temperatura y calor
+
+Introducción.- Sistemas: variables de estado, equilibrio
+y procesos.- Principio cero de la termodinámica.
+Termometría.- Coeficientes térmicos:
+dilatación.- Ecuación térmica: modelo de gas
+ideal y de van der Waals.- Calor y trabajo.- Capacidad
+calorífica y calor específico.- Cambios de fase:
+calor latente
+
+TEMA 7.- Principios de termodinámica
+
+Enunciado del primer principio. Energía interna.-
+Energía interna de un gas ideal.- Máquinas
+térmicas y frigoríficas. Rendimiento y coeficiente de
+funcionamiento.- Enunciados del segundo principio.- Ciclo y teorema
+de Carnot.- Temperatura termodinámica.- Entropía.-
+Cálculo de variaciones de entropía. Procesos
+reversibles e irreversibles
+ 
+BLOQUE TEMÁTICO IV: ELECTROMAGNETISMO
+
+TEMA 8.- Campo eléctrico
+
+Carga eléctrica. Ley de Coulomb.- Campo
+eléctrico.- Ley de Gauss.- Potencial eléctrico.-
+Filtros electrostáticos.- Ley de Ohm y efecto Joule.
+
+TEMA 9.- Campo magnético
+
+Campo magnético.- Fuerza de Lorentz.- Campo
+magnético creado por un conductor rectilíneo.-
+Inducción electromagnética.- Generación de
+corriente alterna.
+
+TEMA 10.- Ondas electromagnéticas
+
+Ondas electromagnéticas.- Intensidad de una onda
+electromagnética.- El espectro electromagnético
+ 
+BLOQUE TEMÁTICO V: FÍSICA MODERNA
+
+TEMA 11.- Introducción a la Física
+  Moderna
+
+Introducción.- Radiación del cuerpo negro.-
+Teoría de Planck de la cavidad radiante.- Interacción
+de la radiación con la materia.- Modelo de Bohr.- Ondas de
+materia. Postulado de De Broglie.- La ecuación de
+Schrödinger.- Interpretación de las ecuaciones de
+onda.- Orbitales atómicos
+
+TEMA 12.- Radiactividad
+
+El núcleo atómico.- La radiactividad.
+Descubrimiento y naturaleza.- Ley de decaimiento radiactivo.- Tipos
+de emisión radiactiva.- Esquemas de desintegración.-
+Medidores de radiactividad
+ 
+
+PROGRAMA DE PRÁCTICAS: Se
+realizarán: 1 seminario de teoría de errores + 4
+prácticas de laboratorio seleccionadas de la siguiente
+lista:
+ 1.- Medida de densidades de sólidos con el
+picnómetro
+ 2.- Estudio mediante la fórmula de Stokes de la
+viscosidad de un líquido
+ 3.- Estudio de la tensión superficial por la ley de
+Jurin
+ 4.- Obtención de la tensión superficial por
+el método del anillo
+ 5.- Calibrado de un termómetro
+ 6.- Ecuación de estado de los gases ideales
+ 7.- Calor específico de un sólido
+ 8.- Péndulo simple
+ 9.- Estudio de la constante elástica de un
+resorte
+10.- Estudio del campo eléctrico de un condensador
+plano
+11.- Estudio de la ley de Ohm: asociación de
+resistencias
+12.- Campo magnético creado por un solenoide
+13.- Resonancia en circuitos RLC: circuito sintonizador
+14.- Ley de Stefan-Bolztmann
+15.- Ley del decaimiento radiactivo: vida media
+16.- Determinación de la radiación ambiental de
+fondo
+'

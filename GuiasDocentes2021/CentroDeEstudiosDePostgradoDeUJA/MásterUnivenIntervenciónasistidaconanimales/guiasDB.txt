@@ -1,0 +1,11 @@
+(75312008,'Ámbito médico/sanitario','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75312008/es/2020-21-75312008_es.html'),
+(75312007,'Ámbitos psicológico/psiquiátrico','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75312007/es/2020-21-75312007_es.html'),
+(75312004,'Bienestar animal','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75312004/es/2020-21-75312004_es.html'),
+(75312001,'Fundamentos de la intervención asistida con animales y gestión de proyectos','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75312001/es/2020-21-75312001_es.html'),
+(75315001,'Prácticas externas','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75315001/es/2020-21-75315001_es.html'),
+(75312002,'Investigación en intervención asistida con animales','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75312002/es/2020-21-75312002_es.html'),
+(75312006,'El trabajo específico de la intervención asistida con animales','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75312006/es/2020-21-75312006_es.html'),
+(75312003,'Aprendizaje y adiestramiento animal','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75312003/es/2020-21-75312003_es.html'),
+(75312005,'Intervención asistida con perros y caballos','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75312005/es/2020-21-75312005_es.html'),
+(75316001,'Trabajo fin de Máster','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75316001/es/2020-21-75316001_es.html'),
+(75312009,'Ámbito socio-educativo','26','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/753A/75312009/es/2020-21-75312009_es.html')

@@ -1,0 +1,49 @@
+'
+
+
+Encuestas por muestreo y muestreo en poblaciones
+  finitas.
+Inferencia en el muestreo en poblaciones finitas.
+Métodos de difusión de grandes bases de
+  datos.
+Fuentes estadísticas en la Administración
+  Pública. Obtención de información
+  númerica y aplicación práctica de la
+  misma.
+
+
+
+
+Tema
+    1: Diseño de una encuesta por muestreo. 1.1. El muestreo
+    en la sociedad: censos y encuestas. 1.2. Fases de una encuesta
+    por muestreo. 1.3. Fuentes de error. 1.4. Diseño del
+    cuestionario. 1.5. Métodos de recolección de
+    datos.
+
+
+Tema
+    2: Muestreo en poblaciones finitas. 2.2. Diseño
+    muestral. 2.3. Inferencia en el Muestreo en Poblaciones
+    Finitas.
+
+
+Tema
+    3: Técnicas de difusión de grandes bases de
+    datos. 3.1. El Instituto Nacional de Estadística. 3.2.
+    La estadística pública: una fuente de
+    conocimiento en la sociedad de la información. 3.3.
+    Objetivos de la difusión de los Censos de
+    Población y Viviendas. 3.4. Revisión de las
+    tecnologías disponibles para la difusión de datos
+    estadísticos.
+
+
+Tema
+    4: Fuentes estadísticas en la Administración
+    Pública: 4.1. Organización de los Servicios
+    Públicos de Estadística. 4.2. Órganos
+    Estadísticos en la Unión Europea.
+
+
+'

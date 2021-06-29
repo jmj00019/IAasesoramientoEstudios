@@ -1,0 +1,88 @@
+'
+
+Características Básicas del Sistema Viario.
+Planeamiento de Carreteras. Estudios de Tráfico. Capacidad y
+niveles de servicio. Elementos de trazado. La sección
+transversal. Estudios de Carreteras. Explotación:
+Ordenación, Regulación y Control del Tráfico.
+Explotación: Seguridad Vial. Infraestructura. Drenaje.
+Superestructura: Firmes y Pavimentos. Señales, marcas viales
+y balizas. Conceptos básicos de conservación y
+mantenimiento. Conceptos generales y criterios de dimensionamiento
+de pavimentos aeroportuarios.
+
+
+
+PARTE 1.- 
+  TRÁFICO
+
+
+Definiciones.
+Relaciones de las variables.
+Capacidad y Niveles de Servicio.
+
+
+
+PARTE 2.- 
+  TRAZADO
+
+
+Definiciones. Parámetros fundamentales. Velocidad y
+  visibilidad. Trayectoria.
+Instrucción de Trazado 3.1.-I.C.: Planta y
+  Alzado.
+Optimización de soluciones y diseño.
+Sección transversal.
+
+
+
+PARTE 3.- 
+  EXPLANACIONES Y DRENAJE
+
+
+Explanaciones, geotecnia y métodos constructivos.
+Hidrología superficial. Relación
+  precipitación-escorrentía. Hietograma. Tiempo de
+  concentración.
+Método racional para cálculo de avenidas:
+  aplicación de la Instrucción 5.2.-I.C Drenaje
+  Superficial.
+Dimensionamiento de obras de drenaje transversal según
+  la Instrucción 5.2.-I.C.
+
+
+
+PARTE 4.-
+   FIRMES
+
+
+Conceptos básicos: estructura según Normativa
+  (6.1.-I.C. e Instrucción de la Junta de Andalucía),
+  características fundamentales, mecanismos de deterioro,
+  tipos de firme, cargas del tráfico, marco
+  normativo.
+Dimensionamiento: catálogo de secciones, nomogramas,
+  diseño analítico y diseño
+  mecánico-empírico, factores de dimensionamiento,
+  Norma 6.1.-I.C. del Ministerio
+          de Fomento e 
+  Instrucción para el diseño de firmes de la Junta de
+  Andalucía.
+Diseño Analítico de Firmes: planteamiento
+  básico teórico, modelo de respuesta estructural,
+  modelo de deterioro.
+Control de Calidad en Explanadas: requisitos y ensayos,
+  suelos estabilizados in situ.
+Características superficiales de los firmes:
+  macrotextura, resistencia al deslizamiento, regularidad
+  internacional (IRI), ruido, capacidad de drenaje.
+Mezclas bituminosas en caliente: ensayos fundamentales,
+  componentes, tipos de mezclas, contenidos de ligante, filler
+  y huecos, espesores de capa, resistencia a las roderas.
+
+
+ 
+
+ 
+ 
+'

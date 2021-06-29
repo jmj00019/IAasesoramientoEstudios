@@ -1,0 +1,30 @@
+'
+
+.- Ecuaciones Diferenciales.
+.- Métodos Numéricos.
+.- Algorítmica Numérica.
+
+CONTENIDOS DE TEORÍA.
+BLOQUE I: ECUACIONES DIFERENCIALES ORDINARIAS.
+Tema 1. Introducción a las ecuaciones diferenciales.
+Tema 2. Ecuaciones diferenciales de primer orden.
+Tema 3. Ecuaciones diferenciales lineales de orden superior con
+coeficientes constantes.
+Tema 4. Introducción a la Transformada de Laplace.
+Tema 5. Sistemas de ecuaciones diferenciales lineales con
+coeficientes constantes.
+BLOQUE II: MÉTODOS NUMÉRICOS.
+Tema 6. Introducción al Cálculo Numérico.
+Resolución de ecuaciones no lineales.
+Tema 7. Aproximación de funciones.
+Tema 8. Integración numérica.
+Tema 9. Resolución numérica de problemas de valor
+inicial.
+CONTENIDOS PRÁCTICOS.
+
+Se
+  desarrollan los contenidos que aparecen en el Bloque II de
+  teoría (Métodos Numéricos) utilizando el
+  programa Mathematica.
+
+'

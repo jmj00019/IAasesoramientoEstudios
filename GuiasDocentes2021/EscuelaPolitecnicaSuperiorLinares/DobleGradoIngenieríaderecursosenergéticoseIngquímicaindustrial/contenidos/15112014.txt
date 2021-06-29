@@ -1,0 +1,475 @@
+'
+
+     I.  La Geología del
+Petróleo
+    II.  Exploración Y
+Técnicas Aplicadas
+   III.  Perforaciones Petrolíferas.
+Control Geológico. Interpretación de
+Diagrafías
+   IV. Los Fluidos y Mecanismos de
+Producción
+    V. Distribución Geografica del
+Petróleo
+   VI. Concepto y Objetivos de la Preparacion Mecanica
+de las Menas
+ VII. Carbones y Curvas de Lavabilidad
+VIII. Métodos de Concentración
+
+UNIDAD TEMATICA I. LA GEOLOGIA DEL PETROLEO
+
+Competencias especificas Procedimentales/Instrumentales:
+
+Elaboración e interpretación de planos y mapas
+topográficos, geológicos, temáticos y de
+ingeniería, Modelización de yacimientos: recursos
+mineros, energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+ 
+
+Competencias especificas Aptitudinales/Actitudinales:
+
+Capacidad de interrelacionar todos los conocimientos adquiridos,
+Capacidad de adaptarse a la evolución tecnológica y
+Capacidad para organizar, interpretar, asimilar y elaborar la
+información, Capacidad para desarrollar investigación
+aplicada en el ámbito de formación. 
+ 
+TEMA 1.- INTRODUCCION A LA GEOLOGIA DEL PETROLEO. Generalidades.
+Breve referencia histórica de la exploración y
+explotación de hidrocarburos. Actualidad de la
+exploración y explotación. Relación con otras
+ciencias. Condiciones de los yacimientos de hidrocarburos.
+Variables geológicas.
+TEMA 2.- GENESIS DE LOS HIDROCARBUROS. Introducción.
+Teorías del origen inorgánico del petróleo.
+Teorías orgánicas del petróleo.
+Producción y preservación de la materia
+orgánica.  Ciclo del carbono. Tipos de compuestos 
+químicos  que existen en los sedimentos.
+TEMA 3.- NATURALEZA Y CARACTERISTICAS DEL PETROLEO. Los crudos.
+Propiedades físicas de los crudos. Naturaleza y
+composición química del petróleo.
+Hidrocarburos constituyentes del petróleo.
+TEMA 4.- PRODUCTIVIDAD BIOLOGICA. Productividad biológica
+de los medios acuáticos. Productores primarios de materia
+orgánica. Factores que influyen en la productividad
+primaria. Producción primaria en los océanos.
+TEMA 5.- LOS PROCESOS SEDIMENTARIOS. Procesos sedimentarios y la
+acumulación de la materia orgánica. Sedimentos
+actuales y fósiles ricos en materia orgánica y su
+implicación geológica. Papel de la materia
+orgánica en partículas y disuelta. Mecanismos de
+acumulación para la materia orgánica
+sedimentaría. Las rocas-madre y sus
+características.
+TEMA 6.- FORMACION DEL PETROLEO. Transformaciones tempranas de
+la materia orgánica. La diagénesis y sus
+etapas:  degradación bioquímica,
+policondensación e insolubilización.  Kerogeno
+como  precursor del petróleo y sus diferentes tipos y
+características. Transformación del kerogeno. Esquema
+general de la formación del petróleo.
+Catagénesis. Metagénesis. La
+grafitización.
+TEMA 7.- LAS MIGRACIONES. Introducción. Realidad de la
+migración. Nominaciones según los movimientos 
+de los fluidos. Los mecanismos de la migración. Dis-tancias
+recorridas. Migración primaria y secundaria.
+Migración horizontal y vertical. Origen del movimiento del
+agua en los terrenos. Importancia de la compresión y
+compactación de los terrenos. Efecto de la subsidencia.
+TEMA 8.- DESPLAZAMIENTOS Y ACUMULACIONES. Etapas de los
+desplazamientos y acumulaciones de los hidrocarburos. Relieves
+sincrónicos. Teoría anticlinal. Principales agentes
+de la migración y acumulación. Teoría del
+entrampamiento diferencial. Fenómenos  que
+actúan sobre el conjunto de fluidos. Hidrodinamismo. Origen
+del movimiento del agua en los terrenos.
+TEMA 9.- LAS ROCAS ALMACEN. Concepto y  consideraciones
+generales.  Tipos de rocas almacén. 
+Formación  y destrucción  de  los
+depósitos de petróleo y gas. Características
+físicas de la rocas almacén. Porosidad, permeabilidad
+y relaciones entre ambas. Medidas de la porosidad y permeabilidad.
+Otras características de los almacenes. Saturación de
+agua. Capilaridad.
+TEMA 10.- PETROGRAFIA DE LA ROCAS-ALMACEN. Rocas
+detríticas, arenas y areniscas. Tamaño,
+clasificación y forma de los granos. Naturaleza
+mineralógica de los componentes. El cemento en las
+areniscas. Compactación. Rocas carbonatadas: Calizas y
+dolomías. Porosidad y permeabilidad primaria y secundaria.
+Otros tipos de rocas almacén: Cap-rook de los domos de sal;
+rocas  silíceas, metamórficas y
+volcánicas.
+TEMA 11.- CONSERVACION Y CIERRE DE YACIMIENTOS. Rocas
+coberteras. Litologías apropiadas. Coberturas arcillosas y
+salino-anhídricas. Potencia de las coberteras. Cierre y sus
+diferentes tipos. Concepto de trampa, yacimiento y campo.
+TEMA 12.- LAS TRAMPAS PETROLIFERAS. Concepto y consideraciones
+generales. Importancia de la estructura y estratigrafía.
+Clasificación. Trampas estructurales.  Formas
+anticlinales: anticlinal simple, fallado, complejo y repliegue
+sinclinal. Fracturas: monoclinal fallado y pliegue fallado.
+Diapirísmo: domos de sal y anticlinales diapíricos.
+Trampas paleográficas: erosionados bajo discordancia,
+acuñamientos, relieves fósiles. Trampas
+litológicas. Trampas mixtas.
+ 
+UNIDAD TEMATICA II.    EXPLORACION Y TECNICAS
+APLICADAS
+ 
+
+Competencias especificas Procedimentales/Instrumentales:
+
+Elaboración e interpretación de planos y mapas
+topográficos, geológicos, temáticos y de
+ingeniería, Modelización de yacimientos: recursos
+mineros, energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+ 
+
+Competencias especificas Aptitudinales/Actitudinales:
+
+Capacidad de interrelacionar todos los conocimientos adquiridos,
+Capacidad de adaptarse a la evolución tecnológica y
+Capacidad para organizar, interpretar, asimilar y elaborar la
+información, Capacidad para desarrollar investigación
+aplicada en el ámbito de formación. 
+ 
+ 
+TEMA 13.- LA EXPLOTACION PETROLIFERA. Papel de la
+Geología. Geología de superficie y del subsuelo.
+Exploración  geológica de superficie.
+Exploración geofísica. Perforaciones exploratorias.
+Consideraciones generales sobre series y facies
+petrolíferas. Los grandes tipos de series:
+detríticas, arcillosas-arenosas y carbonatadas.
+TEMA 14.- TECNICAS DE EXPLOTACION PETROLIFERA. Técnicas
+de descubrimiento. Indicios superficiales. Indicios directos,
+activos y fósiles. Indicios indirectos y falsos.
+Inspección del suelo. Volcanes de lodo. Técnicas
+geológicas de descubrimiento. Levantamiento de planos
+geológicos. Investigación por fotografía
+aérea. Paleontología. Petrología. Pruebas
+subterráneas.
+TEMA 15.- PROSPECCION GEOQUIMICA DE HIDROCARBUROS (I).
+Introducción y objetivos. Carbono orgánico total.
+Riqueza orgánica. Fundamentos teóricos. Tipos de
+materia orgánica. Diagrama de Van Krevelen. Campo de
+aplicación y técnicas de análisis:
+Métodos ópticos, luz reflejada, luz transmitida y
+fluorescencia. Métodos químicos: Análisis
+elemental, espectrofotometría  de infrarrojos,
+análisis isotópico del carbono y
+microdifracción de electrones.
+TEMA 16.- PROSPECCION GEOQUIMICA  DE HIDROCARBUROS (II).
+Grado de madurez de la materia orgánica. Métodos
+ópticos: Carbonificación de palinomorfos,
+reflectancia de la vitrinita, fluorescencia. Métodos basados
+en la pirolisis: Pirolisis  Rock-Eval. Relación carbono
+residual/carbono total. Métodos químicos:
+análisis elemental, resonancia del espín
+electrónico. Métodos físico-químicos.
+Contenido y composición del bitumen. Indicadores
+químicos basados en el bitumen. Estudio de
+correlaciones.
+TEMA 17.- TECNICAS GEOFISICAS (I). Método
+gravimétrico. Adquisición de datos. Procesado.
+Interpretación. Métodos magnéticos.
+Principios. Instrumentación. Aeromagnetismo.
+Adquisición, procesado e interpretación de datos.
+Métodos magneto-telúrico.  El S.E.V. en la
+investigación petrolífera.
+TEMA 18.- TECNICAS GEOFISICAS (II). Métodos
+sísmicos. Dispositivos especiales. Sísmica de
+refracción. Sísmica de reflexión. La
+estratigrafía sísmica. Aplicaciones.
+ 
+UNIDAD TEMATICA III. PERFORACIONES PETROLIFERAS. INTERPRETACION
+DE DIAGRAFIAS
+ 
+
+Competencias especificas Procedimentales/Instrumentales:
+
+Elaboración e interpretación de planos y mapas
+topográficos, geológicos, temáticos y de
+ingeniería, Modelización de yacimientos: recursos
+mineros, energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+ 
+
+Competencias especificas Aptitudinales/Actitudinales:
+
+Capacidad de interrelacionar todos los conocimientos adquiridos,
+Capacidad de adaptarse a la evolución tecnológica y
+Capacidad para organizar, interpretar, asimilar y elaborar la
+información, Capacidad para desarrollar investigación
+aplicada en el ámbito de formación. 
+ 
+TEMA 19.- PERFORACIONES PETROLIFERAS. Generalidades.
+Métodos de profundización y tipos de pozos.
+Componentes esenciales del sistema rotativo. Programación de
+un pozo: Datos de base, programa de entubaciones y cementaciones,
+programa de perforación, geología y
+producción. Otras programaciones. Equipo  de
+perforación: Torre, subestructura, malacate, sistema de
+elevación, swivel, mesa de rotación, bombas y balsas
+de lodos, equipos de separación de sólidos y
+desgasificación.
+TEMA 20.- PRACTICA DE LA PERFORACION. Utiles de
+perforación, varillaje, cabeza de pozo, entubaciones y
+cementaciones. Parámetros de perforación. Problemas
+de perforación: Pérdidas de circulación,
+a-garres de la sarta,  roturas por fatiga, pesca de
+herramientas. Erupciones. Extracción de testigos. Control de
+desviaciones y técnicas de corrección.
+Perforación dirigida. Instalaciones y perforaciones
+marítimas.
+TEMA 21.- CONTROL GEOLOGICO. Objetivos. Control de los
+parámetros de perforación: Velocidad de
+rotación y avance, peso sobre el tricono, caudal de
+inyección de lodo, densidad, temperatura y resistividad del
+lodo, control de balsas. Descripción de la columna
+geológica perforada: Litología, color, tamaño
+y forma de los granos. Toma de muestras: Detritus y testigos.
+Indicios de hidrocarburos: Detección, análisis y
+evaluación. Detección previa de indicios anormales
+durante la perforación. La cabina del geólogo. Log
+litológico.
+ 
+UNIDAD TEMÁTICA IV. LOS FLUIDOS Y MECANISMOS DE
+PRODUCCIÓN
+  
+Competencias especificas
+Procedimentales/Instrumentales:
+Elaboración e interpretación de planos y mapas
+topográficos, geológicos, temáticos y de
+ingeniería, Modelización de yacimientos: recursos
+mineros, energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+ 
+
+Competencias especificas Aptitudinales/Actitudinales:
+
+Capacidad de interrelacionar todos los conocimientos adquiridos,
+Capacidad de adaptarse a la evolución tecnológica y
+Capacidad para organizar, interpretar, asimilar y elaborar la
+información, Capacidad para desarrollar investigación
+aplicada en el ámbito de formación. 
+ 
+ TEMA 22.- CALCULO DE RESERVAS. Definición de
+reservas. Evolución de las reservas de un yacimiento.
+Reservas recuperables. Métodos para determinar las reservas.
+Estimación de reservas previas a la perforación.
+Petróleo y gas recuperable en condiciones standard.
+Estimación de las reservas durante los ensayos e inicio de
+la producción. Ecuación general del balance de
+materiales.
+ 
+UNIDAD TEMATICA V. DISTRIBUCION GEOGRAFICA DEL PETROLEO
+  
+Competencias especificas
+Procedimentales/Instrumentales:
+Elaboración e interpretación de planos y mapas
+topográficos, geológicos, temáticos y de
+ingeniería, Modelización de yacimientos: recursos
+mineros, energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+ 
+
+Competencias especificas Aptitudinales/Actitudinales:
+
+Capacidad de interrelacionar todos los conocimientos adquiridos,
+Capacidad de adaptarse a la evolución tecnológica y
+Capacidad para organizar, interpretar, asimilar y elaborar la
+información, Capacidad para desarrollar investigación
+aplicada en el ámbito de formación. 
+ 
+TEMA 23.- DISTRIBUCION MUNDIAL. Desarrollo de la
+exploración y explotación de petróleo en el
+mundo. Regularidad de propagación del petróleo y gas.
+Divisor de los territorios petrolíferos-gasíferos.
+Reservas de petróleo y gas. Consideraciones sobre el
+petróleo en: América del Norte, Rusia, Oriente Medio,
+Africa y Europa. Las grandes compañías
+petrolíferas.
+TEMA 24.- EL PETROLEO EN ESPAÑA. Esquema geológico
+de España. Cuencas españolas de investigación
+petrolífera. Evolución de la investigación y
+sus diferentes etapas. Resultados obtenidos. Aportación del
+petróleo al consumo energético de España.
+Relación importaciones/Producción nacional.
+ 
+UNIDAD TEMATICA VI. CONCEPTO Y OBJETIVOS DE LA PREPARACION
+MECANICA DE LAS MENAS
+  
+Competencias especificas
+Procedimentales/Instrumentales:
+Elaboración e interpretación de planos y mapas
+topográficos, geológicos, temáticos y de
+ingeniería, Modelización de yacimientos: recursos
+mineros, energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+ 
+
+Competencias especificas Aptitudinales/Actitudinales:
+
+Capacidad de interrelacionar todos los conocimientos adquiridos,
+Capacidad de adaptarse a la evolución tecnológica y
+Capacidad para organizar, interpretar, asimilar y elaborar la
+información, Capacidad para desarrollar investigación
+aplicada en el ámbito de formación. 
+  TEMA 25.- CONSIDERACIONES GENERALES. Definición,
+objetivos e importancia de la Preparación Mecánica.
+Clasificación y designación de los tamaños de
+los minerales a tratar. Productos finales e intermedios.
+Características del mineral bruto.
+TEMA 26.- PROCESO DE UNA PLANTA DE CONCENTRACION. Procedimientos
+de concentración. Liberación del mineral.
+Sobretriturados. Beneficio de los subproductos. Límite
+económico de la concentración y ecuaciones de la
+preparación mecánica. Coeficientes clásicos de
+alcance económico. Conjunto de operaciones de la
+Preparación Mecánica. Esquema del flujo de una planta
+mineralúrgica.
+TEMA 27.- LA MINERALURGIA EN EL DESARROLLO DE UN PROYECTO
+MINERO. Medios de la mineralurgia. Impacto ambiental y tratamiento
+para su defensa. Especificaciones del mercado. Condiciones
+económicas. Tendencia actual del desarrollo de la
+investigación mineralúrgica.
+ 
+UNIDAD TEMATICA VII. CARBONES Y CURVAS DE LAVABILIDAD
+  
+Competencias especificas
+Procedimentales/Instrumentales:
+Elaboración e interpretación de planos y mapas
+topográficos, geológicos, temáticos y de
+ingeniería, Modelización de yacimientos: recursos
+mineros, energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+ 
+
+Competencias especificas Aptitudinales/Actitudinales:
+
+Capacidad de interrelacionar todos los conocimientos adquiridos,
+Capacidad de adaptarse a la evolución tecnológica y
+Capacidad para organizar, interpretar, asimilar y elaborar la
+información, Capacidad para desarrollar investigación
+aplicada en el ámbito de formación. 
+ 
+TEMA 28.- CARBONES. Origen y constitución. Componentes
+del carbón. Componentes inorgánicos. Otros
+componentes. Poder calorífico. Clasificación del
+carbón por tamaños comerciales. Marcha general y
+operaciones que comprende la depuración del carbón,
+en una planta de tratamiento.
+TEMA 29.- REPRESENTACION DE LOS RESULTADOS TEORICOS DE UNA 
+DEPURACION DEL CARBON. Generalidades. Curvas de lavabilidad en
+función del contenido de cenizas. Curva de las cenizas
+elementales. Curva de las cenizas acumuladas (carbón
+lavado). Curva de los estériles. Curva de las densidades.
+Interpretación y aplicación. Condiciones
+teóricas en una depuración de carbón.
+Relavado. Dificultad del lavado.
+TEMA 30.- RESULTADOS CARACTERISTICOS DE UNA DEPURACION
+INDUSTRIAL. Curvas de lavabilidad en función de las
+densidades. Aparatos que dan dos o tres productos. Bruto
+reconstruido. Densidad de corte equivalente. Error por
+desclasificados. Triángulos de error. Curva y densidad de
+partición. Coeficientes característicos de una
+depuración: error probable e imperfección. Curva de
+Mayer
+ 
+UNIDAD TEMÁTICA VIII. MÉTODOS DE
+CONCENTRACIÓN
+ 
+
+Competencias especificas Procedimentales/Instrumentales:
+
+Elaboración e interpretación de planos y mapas
+topográficos, geológicos, temáticos y de
+ingeniería, Modelización de yacimientos: recursos
+mineros, energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+ 
+
+Competencias especificas Aptitudinales/Actitudinales:
+
+Capacidad de interrelacionar todos los conocimientos adquiridos,
+Capacidad de adaptarse a la evolución tecnológica y
+Capacidad para organizar, interpretar, asimilar y elaborar la
+información, Capacidad para desarrollar investigación
+aplicada en el ámbito de formación. 
+ 
+TEMA 31.- CRIBAS HIDRAULICAS. Fundamento, clasificación y
+tratamiento. Cribas hidráulicas o "jigs" de émbolo
+lateral. Funcionamiento. Cribas con lecho filtrante. Factores de
+regulación. Cribas de tamiz fino continuo y tamiz
+móvil. Diferentes modelos. Normas generales. Capacidad y
+conservación de las cribas. Advertencias prácticas a
+tener en cuenta. Cajas de lavado para carbón: granos y
+menudos. Cajas de pulsación neumática.
+TEMA 32.- CONCENTRACION POR MEDIOS DENSOS. Consideraciones sobre
+el principio de separación. El medio. Condiciones del medio.
+Preparación y ensayos de laboratorio. Plantas industriales.
+Etapas del proceso de tratamiento. Preparación del producto
+a tratar. Separación del producto en hundidos y flotados.
+Recuperación y regeneración del medio. Aparatos
+utilizados en la separación. Aparatos estáticos.
+Aparatos dinámicos.
+TEMA 33.- CONCENTRACIÓN POR FLOTACIÓN.
+Consideraciones generales, fenomenos y factores a tener en cuenta,
+los reactivos de flotacion, aplicaciones de la flotacion, flotacion
+diferencial, maquinas de flotacion.
+ 
+Prácticas:
+ 
+a)        
+Geología estructural relacionados con la exploración
+petrolífera.
+- Direcciones y buzamientos de capas: reales y aparentes
+- Fallas y saltos
+- Pliegues y rotaciones
+- Ejercicios con falsillas
+- Dibujos de isolíneas, isópatas, isópacas,
+con aplicación a determinados yacimientos.
+b)        
+Prospección geoquímica
+Determinados por el método Rock-Eval, la serie de
+parámetros: pirolisis, TOC y la reflectancia de la
+vitrinita, que caracteriza su potencial generador; confeccionar un
+informe que contenga:
+1) Realización de log. geoquímico
+2) Diagrama de Van Krevelen
+3) Definir el potencial generador de la serie con:
+- Intervalo y su potencia
+- Tipos de potencial generador
+- Madurez de los mismos
+c)         -
+Cálculos relativos a técnicas geofísicas
+- Empleo del método de sísmica de
+refracción, para la determinación de la roca firme
+bajo recubrimiento
+- Discusión de ejemplos  de registros
+sísmicos reales, obtenidos en sísmica de
+reflexión aplicada a la investigación de
+hidrocarburos.
+d)        - Deducciones
+relativas a perforaciones petrolíferas
+- Cálculo de la sarta de perforación
+- Cálculo de lodos
+- Cálculo de la cementación
+- Significado y comentario del master log.
+- Interpretación de diagrafías con el empleo de
+ejemplos prácticos
+'

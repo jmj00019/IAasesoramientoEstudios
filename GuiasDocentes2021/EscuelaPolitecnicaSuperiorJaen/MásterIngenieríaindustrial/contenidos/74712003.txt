@@ -1,0 +1,192 @@
+'
+
+Diseño de elementos de máquinas
+Análisis de vibraciones
+Análisis experimental el tensiones y deformaciones
+
+ 
+
+
+BLOQUE
+TEMÁTICO 1. DISEÑO DE ELEMENTOS DE
+MÁQUINAS
+
+Tema 1. Fundamentos del diseño de
+  máquinas.
+
+1.1.
+Introducción al diseño.
+1.2.
+Materiales para la construcción de máquinas.
+1.3.
+Análisis de tensiones y deformaciones.
+
+Tema 2. Elementos mecánicos flexibles.
+
+2.1.
+Introducción.
+2.2. Bandas o
+correas de transmisión.
+2.3.
+Transmisiones de banda plana o redonda.
+2.4.
+Transmisiones de banda en V o trapeciales.
+2.5.
+Transmisiones de cadena de rodillos.
+2.6. Cables
+metálicos.
+2.7. Ejes
+flexibles.
+
+Tema 3. Embragues, frenos y volantes.
+
+
+3.1. Introducción.
+
+3.2. Consideraciones estáticas.
+
+3.3. Embragues y frenos de tambor de expansión interna.
+
+3.4. Embragues y frenos de contracción externa.
+
+3.5. Embragues y frenos de banda.
+
+3.6. Embragues de disco.
+
+3.7. Embragues y frenos cónicos.
+3.8. Volantes de
+inercia.
+BLOQUE
+TEMÁTICO 2. ANÁLISIS DE VIBRACIONES
+
+Tema 4. Fundamentos de la vibración.
+
+4.1.
+Introducción.
+4.2.
+Conceptos básicos de la vibración.
+4.3.
+Clasificación de las vibraciones.
+4.4.
+Elementos de los sistemas vibratorios.
+4.4.1.
+Elementos de rigidez o resorte.
+4.4.2.
+Elementos de masa o inercia.
+4.4.3.
+Elementos de amortiguamiento.
+4.5.
+Construcción de modelos.
+4.6.
+Movimiento armónico.
+4.6.1.
+Representación vectorial del movimiento armónico.
+4.6.2.
+Representación mediante números complejos del
+movimiento armónico.
+4.6.3.
+Definiciones y terminología.
+
+Tema 5. Vibraciones libres de sistemas de un grado de
+  libertad.
+
+5.1.
+Introducción.
+5.2.
+Vibración libre de un sistema no amortiguado.
+5.3.
+Vibración libre con amortiguamiento viscoso.
+5.4.
+Decremento logarítmico.
+5.5.
+Energía disipada en un amortiguamiento viscoso.
+5.6.
+Vibración libre con amortiguamiento seco o de Coulomb.
+5.7.
+Vibración libre con amortiguamiento histerético o
+estructural.
+5.8.
+Vibración torsional.
+
+Tema 6. Vibraciones forzadas de sistemas con un grado de
+  libertad.
+
+6.1.
+Introducción.
+6.2.
+Ecuación de movimiento.
+6.3.
+Respuesta de un sistema no amortiguado sometido a una fuerza
+armónica.
+6.4.
+Respuesta de un sistema amortiguado sometido a una fuerza
+armónica.
+6.5.
+Respuesta de un sistema amortiguado sometido a una fuerza de tipo
+exponencial.
+6.6.
+Vibraciones causadas por movimiento armónico de la base.
+6.7.
+Vibraciones causadas por rotores desequilibrados.
+6.8.
+Desarrollo en series de Fourier.
+6.9. Espectro
+de frecuencia
+
+Tema 7. Sistemas de dos grados de libertad.
+
+7.1.
+Introducción.
+7.2.
+Ecuaciones de movimiento.
+7.3.
+Cálculo de los términos de las matrices del
+sistema.
+7.4.
+Vibraciones libres de sistemas no amortiguados.
+7.5.
+Acoplamiento de las coordenadas y coordenadas normales.
+7.6. Vibraciones libres de sistemas
+amortiguados.
+7.7.
+Vibraciones forzadas.
+7.8. Absorsor
+dinámico de vibraciones.
+BLOQUE
+TEMÁTICO 3. ANÁLISIS EXPERIMENTAL DE TENSIONES Y
+DEFORMACIONES
+
+Tema 8. Técnicas experimentales para el
+  análisis de tensiones y deformaciones.
+
+8.1.
+Introducción.
+8.1.1.
+Historia del análisis de tensiones.
+8.1.2.
+Tipos de análisis de tensiones.
+8.2.
+Justificación del análisis de tensiones.
+8.3.
+Métodos extensométricos.
+8.3.1.
+Introducción.
+8.3.2.
+Galgas extensométricas.
+8.3.3.
+Extensómetros.
+8.4.
+Métodos ópticos para la medida de deformaciones.
+8.4.1.
+Introducción.
+8.4.2.
+Fundamentos de óptica.
+8.4.3.
+Fotoelasticidad.
+8.4.4.
+Termoelasticidad (TSA).
+8.4.5.
+Interferometría láser.
+8.4.6.
+Correlación Digital de Imágenes (DIC).
+'

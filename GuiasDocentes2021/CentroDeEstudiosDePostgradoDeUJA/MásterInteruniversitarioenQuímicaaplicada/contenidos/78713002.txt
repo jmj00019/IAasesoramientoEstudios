@@ -1,0 +1,100 @@
+'
+
+- Introducción a los polímeros: estructura
+molecular y propiedades.
+- Biopolímeros (macromoléculas naturales):
+caracterización, aplicaciones y nuevas tendencias en su
+utilización.
+- Técnicas de caracterización: estructura ,
+dimensiones de la cadena y morfología
+- Métodos de determinación de la masa molecular de
+polímeros
+- Espectroscopía de polímeros: RMN, IR, etc.
+- Análisis térmico.
+- Reología y propiedades mecánicas.
+- Síntesis de polímeros. Nomenclatura
+sintética, definiciones y perspectiva general de la
+síntesis de polímeros.
+- Principales mecanismos de polimerización (radicalaria,
+catiónica, aniónica y apertura de anillo).
+- Algunos tipos de polímeros de especial interés.
+Poliuretanos y dendrimeros, polímeros conductores.
+- Polímeros Inorgánicos.
+- Polímeros inorgánicos de interés basados
+en elementos metálicos y no metálicos.
+
+
+TEMA 1.
+  Introducción a los polímeros: estructura molecular
+  y propiedades.
+
+
+ 
+
+
+TEMA 2.
+  Biopolímeros (macromoléculas naturales):
+  caracterización (tacticidad, punto isoeléctrico,
+  presión osmótica, etc), aplicaciones y nuevas
+  tendencias en su utilización.
+
+
+ 
+
+
+TEMA 3.
+  Técnicas de caracterización y análisis:
+  estructura, dimensiones de la cadena y morfología.
+  Métodos de determinación de la masa molecular de
+  polímeros.
+
+
+ 
+
+
+TEMA 4.
+  Espectroscopía de polímeros: RMN, IR,
+  espectroscopía uv-visible y de fluorescencia.
+
+
+ 
+
+
+TEMA 5.
+  Análisis térmico. Reología y propiedades
+  mecánicas.
+
+
+ 
+
+
+TEMA 6.
+  Síntesis de polímeros. Nomenclatura
+  sintética, definiciones y perspectiva general de la
+  síntesis de polímeros.
+
+
+ 
+
+
+TEMA 7.
+  Principales mecanismos de polimerización (radicalaria,
+  catiónica, aniónica y apertura de anillo).
+
+
+ 
+
+
+TEMA 8.
+  Algunos tipos de polímeros de especial interés.
+  Poliuretanos y dendrimeros, polímeros conductores.
+
+
+ 
+
+
+TEMA 9.
+  Polímeros inorgánicos de interés basados en
+  elementos metálicos y no metálicos.
+
+'

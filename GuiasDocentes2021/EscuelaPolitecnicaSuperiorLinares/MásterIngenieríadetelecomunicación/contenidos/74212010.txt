@@ -1,0 +1,46 @@
+'
+
+Multidisciplinary and integration of technologies. New
+technologies related to telecommunication engineering. Novel
+applications with integrated technologies.
+Project work: Design and development of an application that
+requires the integration of technologies.
+
+Multidisciplinary and integration of technologies. New
+technologies related to telecommunication engineering. Novel
+applications with integrated technologies.
+Project work: Design and development of an application that
+requires the integration of technologies.
+Theoretical contents:
+
+Multidisciplinary and integration of technologies.
+  Multidisciplinarity, interdisciplinarity and transdisciplinarity.
+  Multidisciplinary Perspectives on telecommunications
+Innovation and technology applied to disabilities. Assistive
+  Technologies. Assistive devices: computer, devices, GPS... World
+  Wide Web Consortium W3C. Web Validation.
+Bioengineering and Biomedicine. Application of Digital Signal
+  Processing to biomedical and biological images. Medical image
+  acquisition. Augmented reality and virtual reality. Hardware and
+  software for AR and VR. Applications of AR and VR.
+New technologies related to telecommunication engineering:
+  Photovoltaic system, Nanotechnology, Neuronal networks...
+Project work: Design and development of an application that
+  requires the integration of technologies.
+
+Practical contents:
+
+Web accessibility. Tools for web validation.
+Biomedical and Biological images. Toolboxes for Biological
+  and Medical images. Applications in Medicine and Biology.
+Augmented reality and virtual reality. AR SDK. Development
+  ToolKit for AR and VR. Commercial applications in AR and VR.
+Project work: Implementation of an application that requires
+  the integration of technologies.
+
+Seminars:
+
+Software Defined Radio (SDR).
+Communication structure of a sport event. 
+
+'

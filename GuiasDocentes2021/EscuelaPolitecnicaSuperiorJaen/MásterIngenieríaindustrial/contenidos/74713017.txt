@@ -1,0 +1,256 @@
+'
+
+Reglamentación de las instalaciones
+eléctricas.
+Diseño y cálculo de instalaciones
+eléctricas de baja tensión.
+Diseño y cálculo de instalaciones
+eléctricas de media tensión: centros de
+transformación.
+Diseño y cálculo de instalaciones
+eléctricas de alta tensión: líneas
+eléctricas
+ 
+
+
+
+CONTENIDOS
+TEÓRICOS:
+
+
+UNIDAD DIDÁCTICA I. INTRODUCCIÓN
+ Tema 1.- Introducción.
+ * Objeto de la asignatura.
+ * Programa de la asignatura.
+ * Metodología de teoría y prácticas.
+ * Evaluación.
+
+UNIDAD DIDÁCTICA II . INSTALACIONES
+ELÉCTRICAS DE BAJA TENSIÓN
+
+
+Bloque 1 .- Introducción.
+ Tema 2.- Normativa y representación gráfica de
+las instalaciones eléctricas.
+ * Seguridad y calidad de las instalaciones
+ * Normativa
+ * Símbolos eléctricos
+ * Esquema eléctrico
+ * Tipos de esquemas eléctricos
+ Tema 3.- Topología de instalaciones
+eléctricas.
+ * Topología de instalaciones eléctricas de
+edificios de viviendas
+ * Topología de instalaciones eléctricas en
+edificios comerciales/industriales
+ Tema 4.- Suministro de seguridad y alumbrado de emergencia.
+ * Tipos de suministros
+ * Servicios de seguridad
+ * Inversor de redes
+ Tema 5.-Previsión de potencia de las instalaciones
+eléctricas de baja tensión.
+ * Previsión de potencia en edificios con receptores
+conocidos
+ * Previsión de potencia en edificios con receptores
+no conocidos
+ * Características de los receptores
+
+
+Bloque 2 .- Cálculo de líneas en instalaciones
+eléctricas de baja tensión.
+ Tema 6.- Canalizaciones eléctricas.
+ * Red aérea de distribución en baja
+tensión
+ * Red subterránea de distribución en baja
+tensión
+ * Red de alumbrado exterior
+ * Instalaciones interiores
+ Tema 7.- Características de las líneas
+eléctricas.
+ * Estructura del cable aislado
+ * Estructura del cable desnudo
+ * Conductores aislados de baja tensión
+ * Canalizaciones prefabricadas
+
+Tema
+  8.- Cálculo de líneas eléctricas.
+
+
+*
+  Calentamiento de conductores
+   * Dimensionado por criterios térmicos
+   * Dimensionado por criterios de caída de
+  tensión (método de los momentos eléctricos)
+  
+
+Bloque 3 .- Corrientes de cortocircuito en instalaciones
+  eléctricas de baja tensión.
+ Tema 9.- Conceptos generales de corrientes de
+  cortocircuito.
+   * Definición y clasificación de los
+  cortocircuitos
+   * Efectos de un cortocircuito
+   * Identificación de corrientes de cortocircuito en
+  las instalaciones eléctricas (BT)
+   * Cortocircuito trifásico equilibrado
+   Tema 10.- Métodos de cálculo de corrientes
+  de cortocircuito.
+   * Métodos de cálculo
+   * Método de las impedancias
+  
+
+Bloque 4 .- Aparamenta eléctrica.
+ Tema 11.- Aparamenta eléctrica de baja
+  tensión: Interruptores Automáticos
+   * Definición, función y clasificación
+  de la aparamenta
+   * Interruptor automático.
+   * Interruptores automáticos frente a fusibles
+  
+
+Bloque 5 .- Protección de sobreintensidades en
+  instalaciones eléctricas de baja
+  tensión.
+ Tema 12.- Protección de sobreintensidades.
+   * Introducción.
+   * Protección de sobrecargas.
+   * Protección de cortocircuitos.
+  
+
+Bloque 6 .- Instalaciones de puesta a tierra.
+ Tema 13.- Instalaciones de puesta a tierra.
+   * Definición, objetivo y partes de una
+  instalación de puesta a tierra (IPT)
+   * Funcionamiento de una instalación de puesta a
+  tierra
+   * Parámetros característicos de una
+  instalación de puesta a tierra
+   * Clasificación de las instalaciones de puesta a
+  tierra según su función
+   * Cálculo de la resistencia de una
+  instalación de puesta a tierra
+   * Relación de instalaciones de puesta a tierra en
+  un sistema MT-BT
+   * Estructura y dimensionado de la instalación de
+  puesta a tierra de masas de BT
+   * Estructura y dimensionado de la instalación de
+  puesta a tierra del neutro del trafo
+  
+
+Bloque 7 .- Protección de personas frente a contactos
+  directos e indirectos.
+ Tema 14.- Riesgos del uso de la energía
+  eléctrica. Medidas de protección generales.
+  Protección de contactos
+   directos.
+   * Efectos de la corriente sobre el cuerpo humano.
+   * Concepto de contacto directo e indirecto.
+   * Reglas fundamental de protección de choques
+  eléctricos.
+   * Protección frente a contactos directos.
+
+
+Tema
+  15.- Protección de contactos indirectos.
+
+
+*
+  Esquemas de distribución.
+   * Medidas de protección.
+   * Protección de contactos indirectos por corte
+  automático.
+  
+UNIDAD DIDÁCTICA III . CENTROS DE
+  TRANSFORMACIÓN
+ Tema 16.- Centros de transformación.
+   * Introducción
+   * Definición y clasificación.
+   * Aparamenta eléctrica en centros de
+  transformación.
+   * Centro de transformación de intemperie.
+   * Centro de transformación interior.
+   * Dimensionado de centros de transformación
+  
+UNIDAD DIDÁCTICA IV . LÍNEAS AÉREAS
+  DE ALTA TENSIÓN
+
+
+Bloque 1.- Elementos constitutivos de las líneas
+  aéreas.
+ Tema 17.- Conductores
+   * Introducción
+   * Características eléctricas y
+  mecánicas
+   * Conductores de fase
+   * Conductores de tierra
+   Tema 18.- Apoyos
+   * Introducción y características generales
+   * Clasificación
+   * Tipos de apoyos
+   Tema 19.- Aisladores y herrajes
+   * Introducción
+   * Aisladores
+   * Herrajes
+   * Cadenas tipo
+   * Nivel de aislamiento
+   * Cálculo eléctrico de la cadena de
+  aisladores
+   * Cálculo mecánico de la cadena de
+  aisladores
+  
+
+Bloque 2.- Cálculos mecánicos en líneas
+  aéreas de alta tensión.
+ Tema 20.- Cargas y sobrecargas a considerar en una
+  línea aérea de alta tensión
+   * Introducción
+   * Cargas permanentes
+   * Esfuerzo del viento sobre las líneas
+  aéreas
+   * Efecto del hielo sobre las líneas aéreas
+   * Efecto combinado del viento y hielo
+   Tema 21.- Cálculo de conductores
+   * Catenaria
+   * Vano de regulación o cantón
+   * Tracción máxima admisible
+   * Fenómenos vibratorios
+   * Flechas máximas en conductores de fase y cables
+  de tierra
+
+
+Tema
+  22.- Cálculo de apoyos
+   * Esfuerzos que se producen en los apoyos
+   * Hipótesis de cálculo
+   * Coeficientes de seguridad
+   * Desarrollo de las hipótesis de cálculo por
+  tipo de apoyo
+   Tema 23.- Elección de apoyos normalizados
+   * Utilización de catálogos
+   * Paso de esfuerzos verticales a horizontales
+   * Cambio de esfuerzos según coeficientes de
+  seguridad
+   * Elección de crucetas y montajes
+   * Elección de apoyos por esfuerzos
+   * Optimización de la elección
+   Tema 24.- Cálculo de cimentaciones
+   * Características generales
+   * Comprobación al arranque
+   * Comprobación a compresión
+   * Cimentaciones monobloque
+   * Cimentaciones fraccionadas
+  
+
+
+
+
+CONTENIDOS
+PRÁCTICOS
+
+ Práctica 1. Diseño y cálculo de una
+instalación eléctrica de baja tensión.
+ Práctica 2. Diseño y cálculo de un
+centro de transformación.
+ Práctica 3. Diseño y cálculo de una
+línea aérea de alta tensión.
+'

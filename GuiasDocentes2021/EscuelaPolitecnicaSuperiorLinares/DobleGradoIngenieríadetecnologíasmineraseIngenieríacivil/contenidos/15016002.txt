@@ -1,0 +1,17 @@
+'
+
+Ejercicio original a realizar individualmente y presentar y
+defender ante un tribunal universitario, consistente en un proyecto
+en el ámbito de las tecnologías específicas de
+la Ingeniería de Minas de naturaleza profesional en el que
+se sinteticen e integren las competencias adquiridas en las
+enseñanzas.
+En el caso que el estudiante realice un itinerario el Trabajo
+Fin de Grado será de 18 ECTS.
+El alumno que realice los dos itinerarios conjuntos,
+tendrá que realizar un Trabajo de Fin de Grado de 18 ECTS,
+en el que se atiendan las competencias adquiridas en cada una de
+las tecnologías.
+
+-
+'

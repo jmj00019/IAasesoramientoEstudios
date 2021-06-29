@@ -1,0 +1,37 @@
+'
+
+En esta asignatura el alumno estudiará las amenazas a la
+seguridad en entornos industriales y las tecnologías que
+permiten contrarrestar intrusiones o ataques externos. En el
+laboratorio se configurarán aplicaciones y dispositivos para
+ofrecer servicios de seguridad en contextos industriales
+actuales.
+· Una perspectiva de la seguridad en entornos
+industriales.
+· Criptografía.
+· Aplicaciones y servicios para el soporte de la
+seguridad.
+· Hardware empleado en entornos seguros.
+
+Tema 0. Introducción.
+
+Tema 1. Arquitectura e implementación de redes
+industriales seguras.
+
+Tema 2. Seguridad en protocolos para redes industriales.
+
+Tema 3. Análisis de debilidades y
+monitorización de redes industriales.
+
+Tema 4. Criptografía.
+
+Práctica 1. Configuración de equipos
+interconexión.
+
+Práctica 2. Configuración de equipos de
+seguridad.
+
+Práctica 3. Protección de la
+información.
+ 
+'

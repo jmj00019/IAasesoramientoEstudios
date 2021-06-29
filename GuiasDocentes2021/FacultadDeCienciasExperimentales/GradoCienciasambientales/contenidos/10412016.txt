@@ -1,0 +1,136 @@
+'
+
+1-Análisis descriptivo de un conjunto de datos.
+Distribución de frecuencias, características y
+gráficos.
+3- Cálculo de probabilidades.Variable aleatoria.
+Características de una variable aleatoria. Principales
+distribuciones discretas y continuas.
+3- Inferencia estadística.
+Estimación puntual y por intervalos. Contrastes de
+hipótesis paraméticas y no paramétricas.
+4- Análisis de datos multivariantes.
+Técnicas de dependencia: modelos de regresión
+lineal
+Técnicas de reducción de la dimensión:
+análisis de componentes principales y análisis
+factorial
+Técnicas de agrupamiento: análisis discriminante y
+análisis cluster
+Programa de prácticas:
+Resolución de problemas con objeto de profundizar y
+aclarar los contenidos del programa teórico.
+Seminario de informática:
+Introducción al uso del ordenador en Estadística.
+Resolución de casos prácticos utilizando software
+estadístico
+
+
+
+Programa teórico:
+
+
+1.
+  Análisis descriptivo de un conjunto de datos.
+
+
+1.1.
+  Definición y representaciones gráficas .
+
+
+1.2.
+  Medidas de posición, dispersión y forma.
+
+
+2.
+  Probabilidad.
+
+
+2.1.
+  Definición de probabilidad.
+
+
+2.2
+  Teoremas fundamentales.
+
+
+3.
+  Variable aleatoria y distribuciones.
+
+
+3.1.
+  Definición de variable aleatoria discreta y
+  continua.
+
+
+3.2.
+  Caracterización de una variable aleatoria.
+
+
+3.3.
+  Distribuciones de probabilidad más importantes.
+
+
+4.
+  Inferencia estadística.
+
+
+4.1.
+  Estimación puntual y mediante intervalos de
+  confianza.
+
+
+4.2.
+  Contrastes de hipótesis (paramétricos y no
+  paramétricos).
+
+
+4.3.
+  Análisis de la varianza (paramétrico y no
+  paramétrico).
+
+
+5.
+  Técnicas de análisis multivariante.
+
+
+5.1.
+  Regresión lineal simple.
+
+
+5.2.
+  Regresión  lineal múltiple.
+
+
+5.3.
+  Técnicas de reducción de la
+  dimensión:análisis de componentes principales y
+  análisis factorial.
+
+
+5.4.
+  Técnicas de agrupamiento: análisis
+  discriminante y análisis clúster.
+
+  
+Programa de prácticas:
+ Resolución de problemas con objeto de profundizar y
+aclarar los contenidos del programa teórico.
+1. Estadística descriptiva.
+2. Probabilidad, variable aleatoria y distribuciones.
+3. Inferencia estadística.
+4. Técnicas multivariantes.
+  
+Seminario de informática:
+ Introducción al uso del ordenador en
+Estadística. Resolución de casos prácticos
+utilizando software estadístico.
+1. Introducción al uso de ordenador en
+Estadística.
+2. Estadística descriptiva en ordenador.
+3. Probabilidad, variable aleatoria y distribuciones en
+ordenador.
+4. Inferencia estadística en ordenador.
+5. Técnicas multivariantes en ordenador.
+ 
+'

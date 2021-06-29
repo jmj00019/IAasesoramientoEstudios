@@ -1,0 +1,61 @@
+'
+
+Identificación y análisis de problemas.
+Principios, métodos y herramientas para el análisis y
+especificación de requisitos. Gestión de requisitos.
+Criterios de aceptación. Estudios de viabilidad.
+ 
+
+ 
+CONTENIDOS TEÓRICOS:
+Tema 1: Introducción a la Ingeniería de requisitos
+* Ingeniería de software: revisión
+* Ingeniería de requisitos
+* Definiciones y conceptos
+Tema 2: Contexto y límites del sistema
+* Límite del sistema
+* Límite del contexto
+Tema 3: Técnicas de adquisición de requisitos
+* Entrevistas
+* Workshops
+* Otras técnicas: Brainstorming, Prototipado, etc.
+Tema 4: Artefactos para documentación de requisitos
+* Modelos orientados a objetivos 
+* Modelo de casos de uso. Escenarios.
+* Modelo del dominio
+* Otros estándares
+Tema 5: Negociación de requisitos
+* Técnicas Win-win
+Tema 6: Validación de requisitos
+
+CONTENIDOS PRÁCTICOS:
+Módulo 1: Técnicas y herramientas para la
+especificación de requisitos.
+- Especificación de requisitos funcionales y no
+funcionales
+- Especificación de requisitos mediante herramienta
+REM
+Módulo 2: Técnicas y herramientas para
+adquisición de requisitos.
+- Prácticas grupales utilizando la técnica de
+entrevistas
+Módulo 3: Técnicas y herramientas para modelado de
+objetivos
+- Prácticas individuales y grupales usando la
+herramienta OpenOME
+Módulo 4: Técnicas y herramientas para documentar
+escenarios
+- Documentación de escenarios utilizando plantillas
+- Prácticas individuales y grupales usando la
+herramienta Visual Paradigm
+Módulo 5: Técnicas y herramientas para modelado
+del dominio
+- Prácticas individuales y grupales usando la
+herramienta Visual Paradigm
+Módulo 6: Otras técnicas y herramientas para
+adquisición de requisitos.
+- Prácticas grupales de brainstorming
+- Prácticas grupales con herramientas de mapas
+mentales
+ 
+'

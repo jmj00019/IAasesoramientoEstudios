@@ -1,0 +1,32 @@
+'
+
+Introducción a los sistemas avanzados en dirección
+y administración de la producción. JIT y sistema de
+producción Toyota. la Producción en masa
+Personalizada. Producción ligera o Lean Production. Sistemas
+avanzados de gestión de calidad: gestión de la
+calidad total, la calidad en los servicios, seis sigma, el modelo
+de las 5s, acuerdos de calidad del servicio. Modelos ITIL
+
+Tema 1.- Introducción a los sistemas avanzados en
+dirección y administración de la
+producción.
+Tema 2.- Sistemas de producción Justo a Tiempo (JIT).
+Tema 3.- Produccion en masa personalizada.
+Tema 4.- Producción Ligera o Producción Flexible
+(Lean Production).
+Tema 5.- Sistemas de planificación de requerimiento de
+materiales (MRP).
+Tema 6.- Tecnología de la producción
+optimizada.
+Tema 7.- Planificación, programación y control de
+proyectos.
+Tema 8.- Sistemas de gestión de la Calidad. Calidad
+Total.
+Tema 9.- Herramientas de gestión de la calidad.
+Tema 10.- Normalización de la calidad.
+Tema 11.- La calidad en los servicios. Herramientas y procesos
+avanzados de gestión.
+ 
+ 
+'

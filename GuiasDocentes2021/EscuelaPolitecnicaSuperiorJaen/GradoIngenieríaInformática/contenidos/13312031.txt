@@ -1,0 +1,35 @@
+'
+
+Fundamentos de Sistemas de Información Espacial.
+Diseño y gestión de Bases de Datos Espaciales.
+Análisis espacial. Servidores de mapas y servicios web
+asociados. Aplicaciones en el entorno de las Organizaciones.
+ 
+
+INTRODUCCIÓN
+DEFINICIONES BASICAS
+COMPONENTES EN SIE: HARDWARE Y SOFWARE
+MODELOS DE DATOS: VECTOR - RASTER - OTROS
+PROYECCIONES
+ENTRADA Y EDICION DE DATOS. FUENTES DE DATOS
+GESTION DE TABLAS
+ANALISIS ESPACIAL I
+ANALISIS ESPACIAL II
+CONCLUSIONES
+ 
+ 
+ CONTENIDOS DE PRACTICAS:
+Practica I:
+ a) Tablas y consultas espaciales.
+b) Fuentes de datos públicas. c) Mapas temáticos.
+d) Análisis espacial vectorial. e) Análisis y
+diseño de bases de datos espaciales. f) Raster. g)
+Infraestructuras de datos espaciales   Práctica II
+2:
+-Desarollo bajo la guía del profesor de un
+trabajo practico  previamente asignado sobre Sistemas de
+Información Espacial -Preparación de
+presentación y defensa de contenidos realizados
+-Evaluación de presentaciones de resto de estudiantes
+ 
+'

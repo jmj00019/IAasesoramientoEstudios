@@ -1,0 +1,54 @@
+'
+
+
+La Calidad en los laboratorios
+  analíticos: metrología en Química
+Validación de
+  métodos analíticos, propiedades analíticas y
+  metrológicas. Trazabilidad.
+Incertidumbre en las medidas y
+  resultados analíticos. Referencias analíticas.
+Actividades de control interno
+  de la calidad en el laboratorio analítico.
+Quimiometría:
+  definición y evolución. La matriz
+  objetos-variables.
+Exploración de datos
+  experimentales.
+Tratamientos de preprocesado de
+  datos experimentales.
+Análisis de componentes
+  principales.
+Técnicas de
+  clasificación supervisadas y no supervisadas.
+Calibración y
+  regresión multivariantes.
+
+
+
+Contenidos desarrollados
+
+1. Metrología en Química. Calidad en el
+laboratorio analítico: propiedades analíticas.
+Trazabilidad metrológica: referencias analíticas.
+Cuantificación de la incertidumbre en medidas
+analíticas. Referencias normativas aplicables.
+2. Validación de métodos analíticos:
+establecimiento de propiedades analíticas y
+metrológicas. 
+3. Actividades de control interno de la calidad en el
+laboratorio analítico. Validez de los resultados
+analíticos, actividades para su comprobación.
+Ejercicios de intercomparación.
+4. Quimiometría. Definición y evolución.
+Establecimiento de la matriz objetos-variables.
+5. Exploración de datos experimentales. Obtención
+de información no condicionada. Examen preliminar de la
+matriz de datos. Correlaciones y distancias como medidas de la
+similitud. Dendrograma. Análisis de componentes principales.
+Tratamientos de preprocesado de datos experimentales.
+6. Técnicas de clasificación Análisis
+supervisado (kNN, SIMCA, LDA) y no supervisado (PCA, HCA)
+7. Calibración y regresión multivariantes: PCR y
+PLS.
+'

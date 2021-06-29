@@ -1,0 +1,143 @@
+'
+
+
+
+Tipos y variables. Expresiones y operaciones primitivas.
+    Estructuras de control. Funciones y recursividad. Tipos de
+    datos compuestos. Memoria dinámica. Flujos de datos.
+
+
+
+
+
+Programa
+  Teórico:
+
+
+Tema 1.
+  Introducción a la programación.
+
+
+Tema 2.
+  Tipos de datos básicos y expresiones.
+
+
+
+Concepto de
+    tipo de dato. Clasificación.
+
+
+Tipos
+    de dato elementales: entero, real, lógico y
+    carácter.
+
+
+Elementos
+    de un programa: variables, constantes y literales.
+
+
+Expresiones
+
+
+
+Tema 3.
+  Estructuras de control.
+
+
+
+Estructuras
+    secuenciales. Asignación y flujos de
+    entrada-salida.
+
+
+Estructuras
+    condicionales.
+
+
+Estructuras
+    cíclicas.
+
+
+
+Tema 4.
+  Tipos de datos compuestos.
+
+
+
+Vectores.
+
+
+String.
+
+
+Estructuras.
+
+
+
+Tema 5.
+  Programación modular.
+
+
+
+Funciones y
+    procedimientos
+
+
+Paso
+    de parámetros
+
+
+Recursividad
+
+
+
+Tema
+  6. Punteros y memoria dinámica
+
+
+
+Uso
+    de la memoria.
+
+
+Variable
+    tipo puntero.
+
+
+Gestión
+    de memoria dinámica.
+
+
+
+
+
+Programa
+  Práctico:
+
+
+
+Práctica 1.
+  Entorno de programación
+
+
+
+Práctica 2.
+  Estructuras de control.
+
+
+
+Práctica 3. Tipos
+  de datos compuestos.
+
+
+
+Práctica 4.
+  Programación modular.
+
+
+
+Práctica 5.
+  Memoria dinámica
+
+ 
+'

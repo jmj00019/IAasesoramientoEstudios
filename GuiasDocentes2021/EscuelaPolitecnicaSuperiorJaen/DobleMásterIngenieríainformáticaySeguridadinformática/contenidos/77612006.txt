@@ -1,0 +1,60 @@
+'
+
+Frameworks y entornos de desarrollo para juegos y
+simulación en entornos de escritorio, web o móvil.
+Serious games y gamificación. 
+
+
+TEORÍA
+
+Tema 1. Introducción.
+
+Introducción a la gamificación y a los serious
+  games.
+Introducción a los entornos virtuales.
+Introducción a la simulación. Motivación
+  y aplicaciones. Taxonomía de modelos de
+  simulación.
+
+Tema 2. Gamificación y Serious Games
+
+Gamificación. Motivación y aplicaciones.
+Diseño de Serious Games.
+
+Tema 3: Entornos virtuales.
+
+Diseño de entornos y escenarios virtuales.
+  Diseño 3D y elementos gráficos.
+Desarrollo de entornos virtuales interactivos.
+Navegación e interacción.
+Herramientas y frameworks.
+
+Tema 4: Simulación.
+
+Simulación de eventos discretos. Aplicaciones.
+Simulación en entornos virtuales interactivos.
+
+
+PRÁCTICAS
+
+
+
+Aplicación de
+    técnicas de gamificación para la mejora de la
+    experiencia de usuario en distintos ámbitos.
+
+
+Diseño de serious
+    games.
+
+
+Creación de entornos
+    virtuales interactivos para serious games y
+    simulación.
+
+
+Creación de modelos de
+    simulación basados en eventos discretos.
+
+
+'

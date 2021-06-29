@@ -1,0 +1,71 @@
+'
+
+Topografía para el replanteo y control de puentes.
+Viaductos y puentes de ferrocarril y carreteras.
+Redes externas de replanteo y control.
+Cálculo de longitudes de vigas.
+Prueba de carga de una estructura.
+Topografía en presas.
+Redes externas de replanteo y control.
+Cálculo de cubicaciones.
+Control de presas.
+Topografía en Túneles y obras
+subterráneas.
+Evolución constructiva.
+Redes externas e internas. Guiado. Cubicaciones. Empleo del rayo
+láser.
+Automatismos de auto-orientación. Control de
+túneles y obras subterráneas.
+ 
+
+CONTENIDOS DESARROLLADOS
+
+TEORÍA.-
+
+
+1. Tema 1 -
+Puentes: Antecedentes históricos. Composición.
+Tipos. Redes externas de replanteo y control. Ejemplos.
+Cálculo de longitudes de vigas. Ejemplos. Prueba de carga de
+una estructura.
+
+
+2. Tema 2 -
+Presas: Sistemas específicos. Antecedentes
+históricos. Composición. Tipos. Redes externas
+de replanteo y control. Ejemplos. Cálculo de
+longitudes.
+
+
+3. Tema 3 -
+Túneles y obras subterráneas: Diseño y
+cálculo del replanteo. Antecedentes históricos.
+Evolución constructiva. Materialización de ejes
+y pasos de líneas externas. Sistemas de ejecución.
+Redes externas e internas. Casos. Guiado cotidiano
+según tipos. Empleo del rayo láser. Automatismos de
+autorientación.
+PRÁCTICAS.-
+1. Práctica 1 - Diseño de una obra lineal y
+cálculo del movimiento de tierras con software
+específico.
+2. Práctica 2 - Obtención del levantamiento
+topográfico de la zona de estudio mediante técnicas
+GNSS.
+3. Práctica 3 - Cálculo y compensación
+de la red externa de replanteo y control.
+4. Práctica 4 - Diseño de la planta y alzado de
+un puente.
+5. Práctica 5 - Replanteo de la cimentación de
+las pilas del puente proyectado.
+6. Práctica 6 - Diseño de la planta y alzado de
+una presa de materiales sueltos.
+7. Práctica 7 - Toma de perfiles transversales del
+trazado de la presa.
+8. Práctica 8 - Dibujo de los perfiles transversales
+cajeados y cálculo de la cubicación.
+9. Práctica 9.- Diseño de la planta y alzado de
+un túnel.
+10.Práctica 10 - Materialización del paso de
+línea.
+'

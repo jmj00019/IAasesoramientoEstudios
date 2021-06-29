@@ -1,0 +1,52 @@
+'
+
+Geometría Diferencial
+Ecuaciones Diferenciales en Derivadas Parciales
+Integración de funciones de varias variables: Integrales
+de línea y superficie.
+
+
+CONTENIDOS TEÓRICOS
+
+
+Tema 1. Introducción a las funciones de varias
+  variables.
+
+Topología del espacio euclídeo. Límites de
+funciones de varias variables. Derivación de funciones de
+varias variables. Regla de la cadena. Teorema de la función
+implícita. Extremos de funciones de varias variables.
+
+Tema 2. Geometría diferencial.
+
+Curvas parametrizadas. Fórmulas de Frenet. Superficies
+parametrizadas.
+ 
+
+Tema 3. Integración en varias variables.
+
+Integral doble. Integral triple. 
+
+Tema 4. 
+Integral de línea. Integral de
+superficie 
+ Integral de línea. Integral de superficie.Teoremas
+integrales del cálculo vectorial.
+
+Tema 5. Ecuaciones en derivadas parciales.
+
+Conceptos básicos. Series de Fourier. Ecuaciones
+clásicas en derivadas parciales.
+ 
+
+CONTENIDOS PRÁCTICAS
+
+Las clases de prácticas se centrarán en los
+siguientes contenidos:
+
+Ejercicios, prácticas y modelos de apoyo a la parte
+  teórica desarrollados en modo paralelo a esta.
+Profundizar en el uso del software Mathematica de Wolfram
+  Research.
+
+'

@@ -1,0 +1,49 @@
+'
+
+1. Matrices y sistemas de ecuaciones lineales.
+2. Espacios vectoriales y aplicaciones lineales.
+3. Geometría afín y euclídea.
+Cónicas y cuádricas.
+4. Funciones de variable real. Derivación e
+integración.
+5. Resolución numérica de ecuaciones.
+Teoría de errores.
+
+  
+
+CONTENIDOS
+DESARROLLADOS:
+
+TEMA 1. Matrices y sistemas de
+  ecuaciones lineales.
+
+
+ 
+
+
+TEMA 2. Espacios vectoriales y
+  aplicaciones lineales.
+
+
+ 
+
+
+TEMA 3. Geometría
+  afín y euclídea. Cónicas y
+  cuádricas.
+
+
+ 
+
+
+TEMA 4. Funciones de variable
+  real. Derivación e integración.
+
+
+ 
+
+
+TEMA 5. Resolución
+  numérica de ecuaciones. Teoría de errores.
+
+'

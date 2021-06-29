@@ -1,0 +1,147 @@
+'
+
+Al finalizar el curso el alumno que haya superado la asignatura
+tendrá los conocimientos teóricos necesarios y
+será capaz de resolver problemas en relación a:
+· La electrodinámica y las ondas planas.
+· Las líneas de transmisión y las
+guías de ondas.
+· La radiación electromagnética y las
+antenas. 
+Además el alumno deberá ser capaz de medir y
+caracterizar líneas de transmisión, antenas y
+guías de ondas y manejar software para la resolución
+de problemas de medios de transmisión.
+Palabras Clave : Teorema de Poynting. Ondas planas
+homogeneas. Incidencia de ondas planas. Línea de
+transmisión. Parámetros primarios y secundarios de la
+línea de transmisión. Cable coaxial. Línea
+bifilar. Líneas de transmisión planares. Guía
+metálica rectangular. Guía metálica circular.
+Guías dieléctricas. Radiación
+electromagnética. Parámetros de antenas en
+transmisión. Parámetros de antenas en
+recepción. Análisis de antenas de hilo.
+Ecuación de transmisión de Friis. Ecuación
+radar.
+
+
+Tema 1 (T1)  Análisis Vectorial (repaso de
+  contenidos previos)
+
+
+     
+1.0       Sistemas coordenados:
+Cartesiano, cilíndrico, esférico
+      1.1    
+  Repaso a operadores vectoriales: Gradiente,
+Divergencia, Rotacional, Laplaciana
+      1.3      Campos
+con variación armónica con el tiempo: Amplitud
+Compleja (fasor).
+ 
+
+Tema 2 (T2) Electrodinámica y Ondas
+  planas.
+
+
+    
+
+      
+2.1       Ecuaciones de Maxwell:.
+Fuentes con variación armónica en el tiempo 
+      2.2       Teorema de
+Poynting
+      
+2.3       Resolución de la
+ecuación de Helmhotz en un medio sin fuentes y no confinado:
+Onda plana homogenea (OPH) 
+      
+2.4       Polarización de una
+OPH monocromática
+      
+2.5       Incidencia normal  de
+OPHs sobre discontinuidades.
+       2.6      
+Introducción al estudio de Ondas esféricas
+monocromáticas generadas por antenas.
+ 
+
+Tema 3 (T3). Lineas de Transmisión.
+
+ 
+       3.1     
+Linea de Transisión como medio guiado
+       3.2      
+Estudio electromagnético de lineas de transmisión con
+simetría de traslación en el eje z :Modos
+TEM 
+        3.3    
+ Onda de corriente y tensión en una línea de
+Transmisión
+       
+3.4      Modelo circuital de la
+línea de transmisión: Parámetros primarios y
+secundarios de la línea.
+       
+3.5      Tipos de líneas de
+transmisión
+ 
+
+Tema 4 (T4)  Guias de Onda 
+        4.1  
+Guías de onda (GO) rectangulares metálicas
+        4.2   Modos
+TE y TM
+        4.3   Longitud
+de onda: Frecuencia de corte
+        4.4   Otros
+tipos de guías metálicas
+        4.5  
+Introducción al estudio de las guías
+dieléctricas.
+ 
+
+Tema 5 (T5)  Fundamentos de antenas
+
+
+         5.1      
+Características de una antena: Parámetros en
+transmisión y recepción.
+         5.2  
+    Introducción a antenas lineales:
+
+         5.3      
+Fórmula de Friis para el enlace
+   
+
+BLOQUE PRÁCTICO
+
+El bloque práctico de la asignatura se compone de
+prácticas en el laboratorio, y su carácter es
+obligatorio
+Se desarrollan habilidades de comunicación,
+información, ideas, problemas y soluciones en el
+ámbito de ingeniería y la sociedad en general a
+través de procesos de entrega de documentación o
+presentaciones orales
+Con respecto a la organización del trabajo, se
+fomentará la colaboración y trabajo en equipo a
+través del propio diseño de las prácticas.
+ 
+ 
+
+Practica 1:  Estudio de la
+polarización de OPH monocromáticas haciendo uso del
+programa EMANIM ó alternativamente, estucio de la incidencia
+normal de Ondas Planas en Discontinuidades (haciendo uso del
+programa MATLAB)
+
+Practica 2:  Obtención experimental de
+los parámetros primarios de una línea de
+transmisión. 
+
+Practica 3:  Uso del programa TXLINE para el
+análisis y diseño de líneas de
+transmisión
+'

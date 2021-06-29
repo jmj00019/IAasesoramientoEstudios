@@ -1,0 +1,108 @@
+'
+
+Química cuántica: aplicación de la
+mecánica cuántica al estudio de sistemas sencillos,
+de los átomos y de las moléculas. La
+interacción entre la radiación
+electromagnética y la materia. Espectroscopias de
+absorción, emisión y de dispersión Raman.
+Espectroscopias de resonancia magnética de espín.
+
+Tema 1.- Fundamentos de la Mecánica Cuántica (3
+horas)
+*Orígenes de la mecánica cuántica
+*Operadores. Ecuaciones en valores propios
+*Operadores hermíticos. Conmutabilidad
+*Postulados de la Mecánica Cuántica
+*Principio de superposición
+Tema 2.- Aplicación de la Mecánica Cuántica
+a algunos sistemas sencillos (2 horas)
+*La partícula libre en una dimensión
+*La partícula en la caja de potencial unidimensional
+*La partícula en la caja de potencial bi y
+tridimensional. Degeneración
+*El efecto túnel
+*El oscilador armónico
+Tema 3.- El momento angular en Mecánica Cuántica
+(3 horas)
+*Operadores de momento angular
+*El rotor rígido
+*Acoplamiento de momentos angulares
+*Operadores Ladder. Funciones propias de momento angular
+acoplado
+Tema 4.- Estructura atómica. Átomo de
+hidrógeno (3 horas)
+*El átomo de hidrógeno
+*Propiedades de la función radial
+*Momento angular orbital
+*El spin electrónico
+*Orbitales atómicos y estados en el átomo de
+hidrógeno.
+Tema 5. Estructura atómica. Átomos
+polielectrónicos (3 horas)
+*Métodos aproximados en Mecánica
+Cuántica. Variaciones. Perturbaciones
+*Configuración electrónica. Principio del
+aufbau
+*Interacción spin-orbita en átomos
+polielectrónicos
+Tema 6.- Estructura electrónica de moléculas
+diatómicas (3 horas)
+*La molécula de hidrógeno y otras
+diatómicas homonucleares: Métodos CLOA y EV
+*Interacción de configuraciones
+*Términos electrónicos moleculares
+*Moléculas diatómicas heteronucleares
+Tema 7.- Estructura electrónica de moléculas
+poliatómicas (3 horas)
+*Enlaces localizados
+*Hibridación de orbitales. Diversos esquemas de
+hibridación
+*Enlaces deslocalizados
+*Compuestos orgánicos conjugados. Método
+Hückel
+Tema 8.- Interacción radiación-materia (3 horas)
+*Procesos de absorción y emisión de
+radiación. Coeficientes de Einstein
+*Reglas de selección
+*Anchura e intensidad de las líneas espectrales. Ley
+de Lambert Beer
+*Dispersión inelástica de la luz. Efecto
+Raman
+Tema 9.- Espectroscopía de
+vibración-rotación de moléculas
+diatómicas (3 horas)
+*Tratamiento básico de la vibración y de la
+rotación
+*Distorsión centrífuga
+*Acoplamiento vibración-rotación
+*Anarmonicidad vibracional. Reglas de selección
+*Constantes espectroscópicas a partir de los espectros
+vibracionales
+*Análisis de los espectros de microondas
+Tema 10.- Espectros de vibración y rotación de
+moléculas poliatómicas (3 horas)
+*Espectroscopía rotacional de moléculas
+lineales
+*Espectroscopía vibracional de moléculas
+poliatómicas
+*Frecuencias características
+*Estados rotacionales de moléculas poliatómicas
+no lineales
+Tema 11.- Espectroscopía electrónica (3 horas)
+*Espectros atómicos. Características generales
+y reglas de selección
+*Espectros electrónicos de moléculas
+diatómicas. Estructura vibracional y principio de
+Franck-Condon
+*Moléculas poliatómicas: grupos
+cromóforos y transiciones d-d
+*Espectros de emisión: Fluorescencia y
+fosforescencia
+Tema 12.- Espectroscopía de resonancia magnética
+(3 horas)
+*El spin nuclear
+*Energías de los estados de spin nuclear
+*Acoplamiento spin-spin
+*Espectros de resonancia de spin electrónico
+'

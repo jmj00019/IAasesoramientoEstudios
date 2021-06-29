@@ -1,0 +1,68 @@
+'
+
+Captura de datos topográficos
+Elementos de Topografía y colectores de datos
+Formatos en los colectores de datos.
+Comunicación de datos.
+Tratamiento de datos topográficos.
+Formato y edición de ficheros
+Edición de la nube de puntos. Definición de
+líneas de rotura. Interpolación.
+Creación del MDT y generación de curvas de
+nivel.
+Aplicaciones en Proyectos Topográficos.
+Diseño de un vial.
+Obtención de datos para el replanteo de un vial.
+Cálculo de volúmenes y explanaciones.
+ 
+ 
+
+UNIDAD TEMÁTICA I. Dispositivos de captura de datos.
+
+Tema 1 Dispositivos de la captura de datos.
+
+PRÁCTICAS DE GABINETE.
+
+P-1 Dispositivos de capturas de datos.
+ 
+UNIDAD TEMÁTICA II. Configuración de la
+Instrumentación Topográfica. Transferencia
+automática de datos.
+
+Tema 2 Estaciones totales.
+
+Tema 3 GNSS.
+
+Tema 4 Niveles digitales.
+
+PRÁCTICAS DE CAMPO.
+
+P-2 Configuración de Estaciones Totales.
+
+P-3 y P-4 Utilización de programas de Estaciones
+Totales.
+
+P-5 Configuración de GPS.
+
+P-6 Utilización de programas de GPS.
+
+PRÁCTICAS DE GABINETE.
+
+P-7 y P-8 Transferencia de datos de campo.
+
+UNIDAD TEMÁTICA III. Tratamiento automatizado de datos
+topográficos.
+
+Tema 5.- Programas de cálculos y edición de
+datos topográficos.
+
+Tema 6.- Elementos integrantes de un modelo digital del
+terreno. Aplicaciones.
+
+PRÁCTICAS DE GABINETE.
+
+P-9. P-10. P-11 P-12 P-13 Utilización del programa
+MDT.
+
+P-14 Integración de un modelo digital del terreno.
+'

@@ -1,0 +1,46 @@
+'
+
+Propiedades, características y ensayos de
+determinación de los explosivos industriales.
+Procesos de fabricación y uso de los explosivos.
+Criterios para la elección de explosivos. Métodos de
+cálculo de las diferentes técnicas de voladura a
+cielo abierto y de interior, las medidas de control de las
+alteraciones. Normas de seguridad y manejo.
+
+1. INTRODUCCIÓN
+Fundamentos de la ingeniería
+de explosivos. Tipos fundamentales de explosivos. Accesorios.
+2. LEGISLACIÓN
+ESPECÍFICA EN MATERIA DE EXPLOSIVOS
+Reglamento General de Normas
+Básicas de Seguridad Minera. Instrucciones Técnicas
+Complementarias (ITC´s) específicas. Reglamento
+General de Explosivos.
+3. TIPOLOGÍAS ESPECIALES DE
+VOLADURA Y SU DISEÑO.
+Voladuras de producción.
+Grandes voladuras. Voladuras de máximos desplazamiento.
+Voladuras submarinas. Voladuras de contorno. Demoliciones.
+4. MINIMIZACIÓN DE EFECTOS
+ADVERSOS DE LAS VOLADURAS DE SEGURIDAD.
+Secuencias de encendido y tiempos
+de retardo. Evaluación de los resultados de la voladura.
+Proyecciones. Vibraciones. Onda aérea.Seguridad en el manejo
+de explosivos.
+5. LOS PROYECTOS DE VOLADURAS.
+El proyecto de voladura.
+Tramitación.
+6. NUEVAS TECNOLOGÍAS.
+Aplicación de nuevas
+tecnologías en el dise´ño, optimización
+y ejecución de voladuras. Herramientas informáticas
+de cálculo y simulación. Optimización de la
+fragmentación, concepto "Mine-to-Mill".
+7. FABRICACIÓN Y
+GESTIÓN DE EXPLOSIVOS Y MATERIAL PIROTÉCNICO.
+Legislación. Materias primas
+utilizadas. Clasificación. Manipulación y uso.
+Ensayos y certificación. Eliminación. Transporte.
+Seguridad.
+'

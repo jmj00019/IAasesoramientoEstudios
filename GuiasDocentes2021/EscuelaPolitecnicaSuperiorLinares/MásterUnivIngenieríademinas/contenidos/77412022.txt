@@ -1,0 +1,101 @@
+'
+
+· Bloque I. Ingeniería metalúrgica:
+Metalurgia de aleaciones metálicas de gran interés
+(aceros y aleaciones no férreas).
+· Bloque II. Ingeniería de Materiales:
+Procesado de Materiales por métodos convencionales y no
+convencionales. Principales materiales de ingeniería de
+aplicación
+en la ingeniería.
+
+BLOQUE I.
+Ingeniería metalúrgica: Metalurgia de aleaciones
+metálicas de gran interés
+1.-
+Procesos de obtención de alecciones férreas. El acero
+y sus aleaciones
+
+
+  Fundamentos de los procesos de elaboración del hierro y el
+  acero a partir de la materia prima.
+Materias
+  primas utilizadas en la fabricación del hierro y acero.
+  Parque de minerales.
+
+  Baterías de cok. Aglomeración de finos de material.
+  Sinterización. Reducción de las materias primas
+  férricas con gases o con coque siderúrgico. El
+  horno alto. Proceso en el horno.
+Afino de
+  fundidos metálicos contaminados. Conversión del
+  arrabio: convertidor. Tipos de convertidor. Metalurgia
+  secundaria. Procedimientos convencionales de
+  solidificación del acero. Colada continua. Acería
+  eléctrica.
+
+2.-
+Procesamiento de Cobre por Hidrometalurgia
+
+Materias
+  Primas
+Preparación
+  de Minerales
+Extracción
+  de Cobre. Lixiviación,
+  purificación/concentración, electrolisis-
+  Electrodeposición
+
+ 
+BLOQUE II.
+Ingeniería de Materiales. Procesado de materiales por medios
+convencionales y no convencionales. Principales materiales de
+Ingeniería de aplicación a la ingeniería
+minera.
+1.-
+Conformado por colada continua
+
+
+  Principales factores metalúrgicos. Defectos. Ventajas e
+  inconvenientes
+
+  Conformado por deformación plástica.
+  Definición de deformación plástica
+  (mecanismo principal por el que tiene lugar). Endurecimiento por
+  deformación, mecanismo. Definición de acritud y
+  formas de evaluarla. Recocido de recristalización.
+Procesos
+  de deformación plástica.
+
+  Laminación
+
+ 
+2.-
+Conformado por pulvimetalurgia:
+
+
+  Definición de proceso de sinterización o
+  pulvimetalurgia,
+PM.
+  Ventajas e inconvenientes desde el punto de vista
+  industrial.
+
+  Principales tipos de materiales sinterizados, aplicaciones y
+  ventajas.
+Etapas
+  del procesado convencional de los polvos. Mezclado del material.
+  Prensado. Sinterizado. Aspectos microestructurales.
+  Sinterización en fase líquida.
+
+  Tendencias modernas en pulvimetalurgia.
+
+Se
+complementará la parte teórica con dos clases de
+laboratorio
+1.-
+Procesado del cobre. Visita a Atlantic Cooper
+
+2.-
+  Práctica de procesado por pulvimetalurgia.
+
+'

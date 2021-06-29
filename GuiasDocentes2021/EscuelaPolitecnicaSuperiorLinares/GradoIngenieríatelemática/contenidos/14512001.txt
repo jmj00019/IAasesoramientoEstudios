@@ -1,0 +1,66 @@
+'
+
+
+Teórico:
+
+
+Introducción a las Bases de Datos.
+Modelo Relacional y Bases de Datos Relacionales.
+Normalización.
+Lenguaje de Consulta SQL.
+
+
+Práctico:
+
+
+Familiarizar al alumno con el diseño y
+  normalización de Bases de Datos relacionales.
+Utilización del lenguaje de consulta SQL utilizando
+  MySQL. Creación de tablas, adquisición de datos y
+  consultas.
+Integración de las Bases de Datos dentro de las
+  aplicaciones telemáticas
+
+
+
+Contenidos desarrollados:
+
+
+Contenido Teórico
+
+Tema 1. Introducción a las Bases de Datos
+Tema 1.1. Introducción a los
+SGBD.
+Tema 1.2. Arquitectura y modelos de
+un SGBD
+Tema 2. Modelo Relacional y Bases de Datos Relacionales.
+Tema 2.1. El Modelo relacional
+Tema 3. Normalización.
+Tema3. 1. Diseño de Bases de
+Datos.
+Tema 4. Lenguaje de Consulta SQL
+Tema 4.1. Introducción a SQL
+y herramientas
+Tema 4.2. El lenguaje SQL DDL
+Tema 4.3. El lenguaje SQL DML
+Tema 4.4. El lenguaje SQL DCL
+Tema 4.5. Introducción a la
+lógica en BDD.  Procedimientos almacenados, funciones y
+desencadenadores
+
+Contenido  práctico
+
+
+Práctica 1. Familiarizar al alumno con el
+  diseño y normalización de Bases de Datos
+  relacionales. 
+Práctica 2. Utilización del lenguaje de
+  consulta SQL utilizando MySQL. Creación de tablas,
+  adquisición de datos y consultas. 
+Práctica 3. Integración de las Bases de Datos
+  dentro de las aplicaciones telemáticas.
+Práctica 4. Programación en JAVA y uso de la
+  tecnología de acceso a BD en JAVA: JDBC.
+
+ 
+'

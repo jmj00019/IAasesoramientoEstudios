@@ -1,0 +1,68 @@
+'
+
+
+Factores
+  de estado externos a los ecosistemas y sostenibilidad. Mesoclima,
+  sustrato litológico, biota potencial. Controles
+  interactivos y dinámica de los ecosistemas. Condiciones
+  ambientales. Recursos y nutrientes. Grupos funcionales.
+  Régimen de perturbación. Dinámica de
+  poblaciones y comunidades. Ecología humana y del Cambio
+  Global. Aspectos prácticos relacionados
+
+
+Contenidos de Teoría
+Bloque temático I. Factores de Estado Externos que
+determinan el Rango de Sostenibilidad en las Propiedades de los
+Ecosistemas.
+Tema 1. Principales elementos de modificación del clima:
+El Mesoclima.
+Tema 2. El sustrato litológico como determinante de la
+potencialidad de un ecosistema. Breve reseña a los factores
+formadores y estructura del suelo. Suelos de dominio
+Mediterráneo.
+Tema 3. Biota potencial, barreras y proceso evolutivos que
+determinan la presencia de organismos.
+ 
+Bloque II. Controles Interactivos Internos que regulan la
+Dinámica de las Propiedades de los Ecosistemas.
+Tema 4. Condiciones Ambientales (Microclima, pH y Alcalinidad,
+Potencial Redox, Toxicidad y salinidad, metales pesados, otros-).
+Condición y recurso. Ley de Tolerancia de Shelford.
+Tema 5. Recursos del Suelo ó Calidad del Agua.
+Ecología de la disponibilidad de nutrientes. Ley del
+Mínimo de Liebig.
+Tema 6. Principales grupos Funcionales de Organismos.
+Tema 7. Régimen de Perturbación. Tipos de
+perturbaciones, atributos del régimen de
+perturbación, conceptos de estabilidad. Peculiaridades
+ecológicas de las perturbaciones antropogénicas.
+Tema 8. Dinámica de las Poblaciones.
+Tema 9. Sucesión ecológica y Dinámica de
+Comunidades.
+Bloque III. La Dimensión Ecológica del Desarrollo
+Sostenible. El Papel Ecológico de la Especie Humana.
+Tema 10. Singularidades Ecológicas de la Especie Humana y
+nociones generales sobre el Cambio Global. Socioecosistemas.
+Componentes y procesos del Cambio Global antropogénico.
+Tema 11. Consecuencias Ecológicas de la alteración
+antropogénica de los ciclos Biogeoquímicos
+(contaminación, eutrofización, saturación de N
+y lluvia ácida, reforzamiento del efecto invernadero,
+agujero de ozono, otros).
+Tema 12. Consecuencias Ecológicas de la
+Transformación del Territorio y de la eliminación y/o
+adición de especies (crisis de la biodiversidad, invasiones
+biológicas, otros).
+ Contenidos de Prácticas
+
+Excursión de campo. Muestreo de estructura forestal y
+  toma de muestras para análisis de laboratorio
+Cuatro prácticas de laboratorio y una práctica
+  en aula de informática. i, montaje de sistema
+  experimental  y aplicación de tratamientos
+  experimentales; ii, análisis de tasas de
+  respiración; iii y iv, análisis de contenido en N y
+  P inorgánicos; v, análisis de resultados.
+
+'

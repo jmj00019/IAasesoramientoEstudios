@@ -1,0 +1,37 @@
+'
+
+1. Conceptos fundamentales y resultados básicos del
+Álgebra Lineal
+2. Ecuaciones en diferencias en el contexto de la
+Biología
+3. Conceptos fundamentales y resultados básicos del
+Cálculo Diferencial e Integral
+4. Ecuaciones y sistemas de ecuaciones diferenciales en el
+contexto de la Biología
+
+Tema 1: Sistemas de ecuaciones lineales. Matrices.
+Determinantes. Espacios vectoriales. Aplicaciones.
+Tema 2: Diagonalización de matrices. Modelos
+matriciales.
+Tema 3: Funciones reales de una variable. Continuidad.
+Límites. Derivación. Aplicaciones.
+Tema 4: Introducción a las funciones de varias variables.
+Aplicaciones.
+Tema 5: Integral indefinida. Métodos de
+integración. Integral definida. Aplicaciones.
+Tema 6: Ecuaciones diferenciales ordinarias. Modelos continuos
+del crecimiento de poblaciones. Sistemas de ecuaciones
+diferenciales.
+Tema 7: Ecuaciones en diferencias. Sistemas dinámicos
+discretos.
+ 
+ 
+Práctica 1.- Introducción al entorno de trabajo:
+Mathematica.
+Práctica 2.- Sistemas de ecuaciones y
+diagonalización. Modelos matriciales.
+Práctica 3.- Funciones reales de una y varias
+variables.
+Práctica 4.- Ecuaciones diferenciales ordinarias.
+Aplicaciones.
+'

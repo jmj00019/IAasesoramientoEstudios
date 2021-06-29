@@ -1,0 +1,70 @@
+'
+
+Síntesis avanzada de compuestos inorgánicos.
+Técnicas instrumentales para la caracterización de
+compuestos inorgánicos.
+
+0.- Presentación de la asignatura: Objetivos, contenidos,
+metodología. Evaluación.
+1.- Síntesis avanzada de compuestos
+inorgánicos.
+- Complejos de Co(III)
+[Co(NH 
+3) 
+6]Cl 
+3
+[CoCl(NH 
+3) 
+5]Cl 
+2
+[Co(CO 
+3)(NH 
+3) 
+4]NO 
+3
+[Co(NO 
+2)(NH 
+3) 
+5Cl 
+2
+[Co(ONO)(NH 
+3) 
+5]Cl 
+2
+- Complejos de Ni(II)
+[Ni(NH 
+3) 
+6]Cl 
+2
+K 
+2[Ni(CN) 
+4]·H 
+2O
+[Ni(en) 
+3]Cl 
+2
+- Otros compuestos
+K 
+3[Fe(C 
+2O 
+4) 
+3]·3H 
+2O
+Sólidos termocrómicos Cu 
+2[HgI 
+4] y Ag 
+2[HgI 
+4]
+Aducto BH 
+3:NH 
+2C(CH 
+3) 
+3
+2. Técnicas instrumentales para la caracterización
+de compuestos inorgánicos.
+- Medidas de conductividad de compuestos de coordinación
+- Espectroscopía UV-VIS-NIR
+- Espectroscopía infrarroja
+- Medidas de susceptibilidad magnética
+- Análisis térmico
+'

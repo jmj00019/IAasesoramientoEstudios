@@ -1,0 +1,42 @@
+'
+
+1. Planificación y gestión urbanística.
+Legislación aplicable. Planes urbanísticos.
+Tipología
+2. Modelos 3D de ciudades (3D City Models). CityGML (OGC).
+3. BIM (Building Information Modeling). Normativas nacionales
+e internacionales. Aplicaciones.
+4. Fundamentos de la Domótica e Inmótica.
+Aspectos geomáticos de la gestión inteligente de
+edificios.
+
+
+CONTENIDOS
+  DESARROLLADOS.
+
+
+Tema 1.
+  Estudio de legislación urbana, planificación y
+  diversas tipologías.
+
+
+Tema 2.
+  Conceptos y desarrollo de BIM, infraestructuras y
+  edificación. Modelización. Normas. Aplicaciones
+  urbanas.
+
+
+Tema 3.
+  Conceptos sobre la modelización 3D urbana,
+  edificación y servicios. GML. Estructura, aplicaciones y
+  estándares.
+  
+
+
+Tema 4.
+  Introducción a la domótica e inmótica.
+  Aspectos generales. Incorporación de las técnicas
+  geomáticas a la gestión inteligente de
+  edificios.
+
+'

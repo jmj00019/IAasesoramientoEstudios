@@ -1,0 +1,96 @@
+'
+
+Fundamentos de lógica. Conjuntos y órdenes.
+Álgebras de Boole. Funciones booleanas. Introducción
+a la teoría de números: aritmética modular.
+Complejidad computacional.
+ 
+
+
+TEMARIO DE TEORÍA:
+
+
+Tema 1. Fundamentos de lógica.
+Enunciados, conectivas y tablas de verdad. Formas normales.
+Conjuntos adecuadosde conectivas. Tipos de demostración:
+directa, contrarrecíproco y reducción al absurdo.
+Argumentaciones y validez
+
+Tema 2. Conjuntos y relaciones de orden.
+Conceptos básicos. Álgebra de las partes de un
+conjunto. Aplicaciones. Relaciones binarias: de equivalencia y de
+orden.
+
+Tema 3. Álgebras de Boole. Funciones
+booleanas.
+Retículos. Tipos de retículos. Álgebras de
+Boole. Funciones booleanas elementales: formas canónicas.
+Aplicaciones: circuitos booleanos.
+
+Tema 4. Introducción a la teoría de
+números: aritmética modular.
+Los números naturales: inducción y primeras
+propiedades. Los números enteros. Divisibilidad y
+congruencias. Aplicaciones del teorema de Bezout. Sistemas de
+congruencias y de numeración.
+
+Tema 5. Nociones de complejidad computacional.
+Algoritmos. Crecimiento de funciones. Complejidad de un
+algoritmo. Las clases P y NP.
+ 
+
+TEMARIO DE PRÁCTICAS
+
+
+Práctica
+  1. El entorno de trabajo: Mathematica
+
+
+Práctica
+  2. Aritmética básica. Variables y funciones
+
+
+Práctica 3.
+  Listas: Tablas, matrices y vectores
+
+
+Práctica
+  4. Programación en Mathematica
+
+
+Práctica
+  5. Lógica proposicional: Conectivas y tablas de
+  verdad.
+
+
+Práctica
+  6. Lógica proposicional: Tautologías,
+  contradicciones, formas normales. Equivalencias lógicas e
+  implicaciones lógicas y argumentaciones.
+
+
+Práctica
+  7. Conjuntos y Aplicaciones.
+
+
+Práctica
+  8. Relaciones binarias y conjuntos ordenados
+
+
+Práctica
+  9. Retículos y Álgebras de Boole finitas
+
+
+Práctica
+  10. Funciones booleanas
+
+
+Práctica
+  11. Números naturales y enteros.Divisibilidad .
+
+
+Práctica
+  12. Números naturales y enteros. Congruencias y sistemas
+  de numeración.
+
+'

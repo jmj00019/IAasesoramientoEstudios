@@ -1,0 +1,63 @@
+'
+
+- Dibujo topográfico mediante planos acotados.
+- Técnicas para la representación
+cartográfica.
+- Herramientas gráficas asistidas por ordenador para el
+análisis locacional e inventario de los datos
+arqueológicos.
+
+
+Dibujo topográfico mediante planos
+  acotados
+
+ 
+Tema
+1.- Representación de elementos por vistas planas.
+Tema
+2.- Sistema de planos acotados. Fundamentos. Representación
+de elementos notables.
+Tema
+3.- Representación de superficies topográficas y
+relieve: Curvas de nivel. Línea de máxima pendiente.
+Formas del terreno. Superficies en talud.
+Tema
+4.- Perfiles y panoramas: Intersecciones con superficies
+topográficas. Trazado de perfiles. Visibilidad desde un
+punto. Trazado de panoramas y cuencas visuales.
+ 
+
+Técnicas para la representación
+  cartográfica
+
+ 
+Tema
+4. Introducción. Cartografía: Modelo
+Cartográfico, Datos Geográficos, Escala y
+Resolución del modelo. Sistemas de coordenadas.
+Tema
+6. Componente temática de los datos.
+Tema
+7. Principios de la simbolización cartográfica. El
+color en Cartografía.
+Tema
+8. Composición del mapa. Rotulación
+cartográfica.
+ 
+
+Herramientas gráficas asistidas por ordenador para
+  el análisis locacional e inventario de los datos
+  arqueológicos
+
+Tema
+9.- Antecedentes, definición y componentes. Modelos y
+estructuras de datos.
+Tema
+10.- Recogida de la Información Geográfica.
+Organización de la Información Geográfica.
+Tema
+11. Bases de datos.
+Tema
+12.- Herramientas para las gestión y análisis de los
+datos arqueológicos.
+'

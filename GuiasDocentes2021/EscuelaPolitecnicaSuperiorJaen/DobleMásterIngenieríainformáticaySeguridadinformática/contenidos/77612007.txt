@@ -1,0 +1,30 @@
+'
+
+Gestión de servicios TI. Gobernanza TI. 
+
+El contenido de la asignatura se estructura en los siguientes
+capítulos, que incluyen tanto conceptos teóricos como
+relaciones de prácticas y casos de estudio:
+Capítulo 1. Perfiles profesionales TI
+Capítulo 2. Marcos de trabajo y estándares para
+las TI. Visión general.
+Capítulo 3. Gobierno corporativo de las TI.
+En el mundo actual el impacto de la tecnología en el
+éxito de una empresa u organización es cada vez
+mayor. Por este motivo, se hace imprescindible un gobierno
+corporativo TI que permita evaluar, diseñar y monitorizar
+las decisiones estratégicas de la corporación de
+manera conjunta. En este capítulo se trabajarán las
+herramientas que una organización tiene a su
+disposición en materia de gobierno corporativo.
+Concretamente, el contenido de este capítulo incluye, entre
+otros, la norma ISO38500, COBIT y arquitectura empresarial.
+Capítulo 4. Gestión de un departamento TI.
+Debido a las mayores necesidades a nivel de tecnología,
+las exigencias al departamento TI de una organización son
+también mayores. Es importante disponer de herramientas que
+permitan la gestión de los servicios que proporciona un
+departamento TI. Este capítulo se basa en ITIL y la norma
+ISO 20000.
+Capítulo 5. Procesos de certificación.
+'

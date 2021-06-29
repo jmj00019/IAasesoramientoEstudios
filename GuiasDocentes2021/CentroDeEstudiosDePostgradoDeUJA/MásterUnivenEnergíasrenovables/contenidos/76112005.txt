@@ -1,0 +1,104 @@
+'
+
+
+Tema 1.- Introducción a los SFCR
+
+
+Tema 2.- Dimensionado de los SFCR (I). Adecuación
+  Generador fotovoltaico e inversor
+
+
+Tema 3.- Dimensionado de los SFCR (II). Cableado,
+  seguridad y protecciones
+
+
+Tema 4.- Balance energético de los SFCR. Uso de un
+  software de simulación y dimensionado de SFCR.
+
+
+Tema 5.- La experiencia empresarial en el campo de la
+  generación de energía eléctrica convencional
+  utilizando tecnología FV.
+
+ 
+
+
+
+Tema 1)
+  Introducción a los SFCR y componentes
+  principales
+
+
+Revisión
+  del panorama de los SFCR. Generalidades sobre los SFCR: generador
+  fotovoltaico, inversor, protecciones de continua y de alterna y
+  sistema de control y visualización de datos. 
+  Configuraciones posibles de un SFCR: inversor central, inversor
+  orientado a cadena e inversor integrado en módulo. Resumen
+  de la legislación aplicable en España para este
+  tipo de sistemas.
+
+
+
+Tema 2)
+  Dimensionado de los SFCR (I). Adecuación Generador
+  fotovoltaico e inversor
+
+
+Dimensionado del
+  inversor: potencia del inversor en función del generador
+  fotovoltaico y del enclave del sistema. Dimensionado del
+  generador fotovoltaico: a) número mínimo y
+  máximo de módulos a ser conectados en serie en cada
+  cadena y b) elección del número de cadenas de
+  módulos a ser asociadas en paralelo. Ejemplos
+  prácticos.
+
+
+
+Tema 3)
+  Dimensionado de los SFCR (II). Cableado, seguridad y
+  protecciones
+
+
+Dimensionado de la
+  sección de los conductores: criterio de máxima
+  caída de tensión y criterio de máxima
+  intensidad admisible. Dimensionado de interruptores. Ejemplos
+  prácticos. Diseño de la red de puesta a tierra de
+  la instalación. Esquemas de conexiones respecto a tierra
+  del generador. Protecciones de las personas frente a contactos
+  directos e indirectos en la red DC: análisis del riesgo;
+  medidas de protección. Diseño de la
+  protección frente a sobretensiones en la red DC y AC:
+  protección externa; protección interna;
+  especificación e instalación  de descargadores
+  de sobretensión. Diseño de la protección
+  frente a sobreintensidades: protección con fusibles;
+  protección con interruptores; especificación e
+  instalación de dispositivos de protección.
+  Protección de la interconexión: conexión en
+  baja tensión; conexión en alta
+  tensión.
+
+
+
+Tema 4) Balance
+  energético de los SFCR. Uso de un software de
+  simulación y dimensionado de SFCR.
+
+
+Necesidad del
+  software de ayuda al dimensionado de SFCR. Principios
+  básicos de manejo de un software profesional de amplia
+  difusión en el sector orientado al diseño y a la
+  estimación de la producción de este tipo de
+  sistemas.
+
+
+
+Tema 5) Los SFCR
+  en condiciones reales de operación. Puesta en marcha,
+  caracterización y mantenimiento.
+
+'

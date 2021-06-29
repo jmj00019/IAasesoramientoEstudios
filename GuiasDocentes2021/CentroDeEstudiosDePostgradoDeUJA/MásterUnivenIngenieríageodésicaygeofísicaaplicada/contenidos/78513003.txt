@@ -1,0 +1,85 @@
+'
+
+La Tomografía
+eléctrica aplicada al medio ambiente. Fundamentos de la
+prospección eléctrica. El sondeo eléctrico
+vertical. Las calicatas eléctricas. Fundamento de la
+Tomografía eléctrica. Objetivo del método.
+Distintos tipos de dispositivos: ventajas y limitaciones.
+Instrumentación y procedimiento de medida. Profundidad de
+investigación. Adquisición de datos de campo.
+Criterios para la elección del dispositivo a utilizar.
+Trabajo de gabinete. Software y procedimiento de
+interpretación. Pseudosección de resistividad
+aparente. Inversión de los datos. El georrádar
+aplicado al medio ambiente. Fundamentos de la prospección
+electromagnética: conceptos de las técnicas de
+prospección. El georrádar o método GPR (Ground
+Penetrating Radar): conceptos. Características de los
+equipos. Toma de datos y limitaciones. Ventajas y desventajas del
+uso de esta técnica. Aplicaciones: localización y
+cubicación de vertederos, intrusiones marinas, vertidos,
+etc. Índices fisicoquímicos de calidad de las aguas
+subterráneas.Introducción. Parámetros
+utilizados en los índices fisicoquímicos de calidad
+de aguas. Testificación en sondeos: caracterización
+hidrogeológica e hidroquímica. Diagrafía de
+pozos: concepto, análisis de las distintas técnicas
+de testificación e interés de las mismas.
+
+
+TEORIA
+
+Unidad 1: La Tomografía
+Eléctrica (J. Martínez)
+Fundamentos de la prospección eléctrica. El
+sondeo eléctrico vertical. Las calicatas eléctricas.
+Fundamento de la Tomografía eléctrica. Objetivo del
+método. Distintos tipos de dispositivos: ventajas y
+limitaciones. Instrumentación y procedimiento de medida.
+Profundidad de investigación. Adquisición de datos de
+campo. Criterios para la elección del dispositivo a
+utilizar. Trabajo de gabinete. Software y procedimiento de
+interpretación. Pseudosección de resistividad
+aparente. Inversión de los datos. Aplicaciones al medio
+natural, ejemplos.
+Unidad 2: El Georradar (J. Rey)
+El georrádar aplicado al medio ambiente. Fundamentos
+de la prospección electromagnética: conceptos de las
+técnicas de prospección. El georrádar o
+método GPR (Ground Penetrating Radar): conceptos.
+Características de los equipos. Toma de datos y
+limitaciones. Ventajas y desventajas del uso de esta
+técnica. Aplicaciones: localización y
+cubicación de vertederos, intrusiones marinas, vertidos,
+etc.
+Unidad 3: Índices
+Fisicoquímicos de Calidad de las aguas subterráneas
+(C. Hidalgo)
+Introducción.
+Parámetros utilizados en los índices
+fisicoquímicos de calidad de aguas. Testificación en
+sondeos: caracterización hidrogeológica e
+hidroquímica. Diagrafía de pozos: concepto,
+análisis de las distintas técnicas de
+testificación e interés de las mismas. Equipos de
+testificación en pozos. Adquisición de datos, uso de
+software e interpretación en gabinete. Análisis de
+casos.
+
+PRÁCTICAS DE CAMPO: se realizarán
+dos jornadas completas de campo, en las que se
+abordarán:
+
+Uso de la Tomografía
+  eléctrica para la caracterización de emplazamientos
+  afectados por actividades antrópicas.
+Uso del georrádar para la
+  caracterización de emplazamientos afectados por
+  actividades antrópicas.
+Testificación en sondeos:
+  caracterización hidrogeológica y
+  determinación de parámetros
+  físico-químicos de las aguas.
+
+'

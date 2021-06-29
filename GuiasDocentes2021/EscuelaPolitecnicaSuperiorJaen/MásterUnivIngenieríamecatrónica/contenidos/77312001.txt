@@ -1,0 +1,149 @@
+'
+
+- Diseño de productos.
+- Metodología para el desarrollo de nuevos productos.
+- Aplicaciones del prototipado 3D al diseño.
+- Integración de diseño y manufactura.
+- Diseño para el montaje de productos.
+- Aplicaciones del modelado CAD para el desarrollo de
+productos.
+- Ensamblajes CAD aplicados al diseño de productos.
+- Planos y gestión de la información en el
+diseño de productos.
+
+
+Tema
+  1.Creatividad e Innovación en el diseño de
+  productos. 
+
+
+Definición
+  de diseño industrial
+
+
+Importancia
+  de la creatividad y la innovación en el diseño de
+  productos
+
+
+Proceso
+  de desarrollo de productos 
+
+
+Tema
+  2. Definición del reto del diseño. Obtención
+  de requerimientos del diseño
+
+
+Localización
+  de necesidades
+
+
+Definición
+  del reto de diseño
+
+
+Experiencia
+  del cliente y diseño industrial
+
+
+Metodología
+  para la obtención de requerimientos de
+  diseño
+
+
+ 
+
+
+Tema
+  3. Generación de especificaciones técnicas.
+  Obtención del cuaderno de cargas del producto
+
+
+Definición
+  de especificaciones técnicas
+
+
+Obtención
+  de especificaciones a partir de los requerimientos
+
+
+Metodología
+  de obtención de especificaciones
+
+
+ 
+
+
+Tema
+  4. Arquitectura del producto. Generación del concepto del
+  diseño
+
+
+División
+  del problema de diseño en subproblemas
+
+
+Diagrama
+  de flujo en arquitectura del producto
+
+
+Análisis
+  de la competencia
+
+
+Revisión
+  de patentabilidad
+
+
+ 
+
+
+Tema
+  5. Selección del concepto del diseño
+
+
+Metodología
+  para la selección del concepto de diseño
+
+
+ 
+
+
+Tema
+  6. Validación del diseño. Obtención de
+  prototipos físicos del diseño. Prototipado
+  rápido para validación. 
+
+
+Prototipos
+  físicos para validación del diseño
+
+
+Aplicaciones
+  de prototipado rápido para diseño
+
+
+ 
+
+
+Tema
+  7. Integración de diseño y manufactura. BOM.
+  Diseño de la línea de montaje para el nuevo
+  producto. Revisión de la manufactura de componentes desde
+  el punto de vista del diseño
+
+
+Validación
+  continua producto-proceso
+
+
+ 
+
+
+ 
+
+
+ 
+
+'

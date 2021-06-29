@@ -1,0 +1,52 @@
+'
+
+
+Sistemas de generación de energía
+  eléctrica: centrales y grupos electrógenos.
+Líneas de transporte y distribución de potencia
+  eléctrica.
+Análisis de flujos de carga en la red
+  eléctrica.
+Operación y control automático en
+  generación y transporte.
+Instalaciones eléctricas en BT en minas.
+  Protecciones.
+
+
+TEMA 1. SISTEMAS DE GENERACIÓN DE ENERGÍA
+ELÉCTRICA.
+1.1. Centrales térmicas (carbón, nuclear)
+1.2. Centrales de turbina de gas y ciclo combinado.
+1.3. Centrales hidráulicas y eólicas.
+1.4. Centrales solares.
+1.5. Asignación de potencias en el mercado
+eléctrico.
+TEMA 2. LÍNEAS DE TRANSMISIÓN
+2.1. El sistema por unidad.
+2.2. Análisis en valores por unidad del sistema de
+potencia.
+2.3. Tipos de líneas de transporte eléctrico.
+2.4. Resistencia e inductancia de las líneas.
+2.5. Conductancia y capacitancia paralelo.
+2.6. Modelado de líneas de transmisión.
+TEMA 3. MODELO DE LA RED Y ANÁLISIS DE FLUJOS DE POTENCIA
+3.1. Matriz de admitancias de una red eléctrica.
+3.2. El problema del flujo de potencias.
+3.3. Solución con médodo de Gauss-Seidel.
+3.4. Solución con Newton-Raphson y método
+Desacoplado Rápido
+3.5. Cálculo de flujos de potencias y pérdidas.
+3.6. Medios de control de tensiones.
+TEMA 4. INSTALACIONES ELÉCTRICAS EN MINERÍA
+4.1. Instalaciones eléctricas de BT.
+4.2. Instalaciones eléctricas en minas.
+4.3. Grupos electrógenos.
+4.4. Protecciones y control en instalaciones mineras
+4.5. Facturación eléctrica.
+ 
+PRÁCTICAS (con Powerworld)
+1. Métodos de cálculo en un sistema
+eléctrico.
+2. Líneas, modelo de red y análisis de flujos
+de potencias.
+'

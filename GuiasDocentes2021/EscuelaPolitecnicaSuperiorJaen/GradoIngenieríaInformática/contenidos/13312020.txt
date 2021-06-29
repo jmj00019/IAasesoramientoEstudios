@@ -1,0 +1,41 @@
+'
+
+Fundamentos de la Inteligencia Artificial. Representación
+del Conocimiento. Resolución de problemas basada en el
+modelo de espacio de estado. Aprendizaje. Aplicaciones de la
+Inteligencia Artificial.
+ 
+
+Programa de Teoría:
+Módulo I. Fundamentos de la Inteligencia Artificial.
+
+Introducción a la Inteligencia Artificial.
+Agentes inteligentes
+
+Módulo II. Resolución de problemas.
+
+Resolución de problemas mediante búsqueda.
+Optimización.
+Teoría de juegos.
+Problemas de satisfacción de restricciones.
+
+Módulo III. Representación del conocimiento
+
+Representación del conocimiento.
+
+Módulo IV. Aprendizaje
+
+Aprendizaje.
+
+Programa de Prácticas:
+P0. Práctica de introducción al lenguaje de
+programación sobre el que trabajar
+P1. Práctica vinculada a los contenidos del Módulo
+1
+P2. Práctica vinculada a los contenidos del Módulo
+2
+P3. Práctica vinculada a los contenidos del Módulo
+3
+P4. Práctica vinculada a los contenidos del Módulo
+4
+'

@@ -1,0 +1,24 @@
+'
+
+Normativa. Materiales. Características resistentes.
+Características reológicas. Durabilidad.
+Teoría de seguridad y bases de cálculo. Estados
+límites últimos. Estados límites de servicio.
+Modelo de bielas y tirantes. Elementos estructurales. Aplicaciones
+a la obra pública, edificación y
+prefabricación. Mantenimiento
+
+Tema 1.- Principios fundamentales y procedimientos generales de
+cálculo
+Tema 2.- Descripción y características del
+hormigón y del acero
+Tema 3.- Análisis de la sección en
+flexión
+Tema 4.- Método de bielas y tirantes
+Tema 5.- Cortante
+Tema 6.- Torsión y punzonamiento
+Tema 7.- Análisis estructural. Estado Límite
+Último de Inestabilidad
+Tema 8.- Estados Límite de Servicio
+Tema 9.- Elementos estructurales
+'

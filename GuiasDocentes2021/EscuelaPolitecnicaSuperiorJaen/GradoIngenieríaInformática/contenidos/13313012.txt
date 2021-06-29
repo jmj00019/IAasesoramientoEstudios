@@ -1,0 +1,97 @@
+'
+
+Hardware de computadores. Programación a bajo nivel.
+Programación de interfaces de E/S. Programación de
+buses. Programación de GPUs. Diseño e
+implementación de drivers.
+ 
+
+
+
+Programa de teoría
+
+Módulo 1: Programación hardware
+
+Controladores de dispositivo
+  
+
+Tipos de drivers
+Estructura de drivers en GNU/Linux y Windows
+
+Programación de E/S y buses
+  
+
+E/S mapeada y no mapeada
+Interrupciones, DMA
+Servicios BIOS y UEFI
+
+
+Módulo 2: Hardware reconfigurable
+
+Introducción al hardware reconfigurable 
+  
+Dispositivos lógicos programables
+Lenguajes de descripción de hardware
+
+Tecnologías de hardware reconfigurable 
+  
+Dispositivos lógicos simples: PAL, PLA, GAL
+Dispositivos lógicos complejos: CPLD y FPGAs
+
+Programación de hardware reconfigurable 
+  
+Tipos de circuitos y sus componentes
+Diseños hardware con el lenguaje VHDL
+
+
+Módulo 3: Procesadores gráficos
+programables
+
+Introducción a la computación GPU 
+  
+Evolución de las unidades de proceso gráfico
+    (GPUs)
+GPGPU y computación GPU
+Evolución de la computación GPU. Hardware y
+    entornos de desarrollo
+
+Programación de shaders
+
+
+Arquitectura del pipeline gráfico
+Evolución de las capacidades de
+      programación en las GPUs mediante shaders
+Vertex shaders y pixel shaders. Shaders avanzados.
+      Lenguajes de programación de shaders
+
+
+Programación de shaders mediante OpenGL Shading
+      Language (GLSL)
+Resolución de problemas de propósito
+      general mediante programación de shaders (GPGPU)
+
+
+Computación GPU en arquitecturas unificadas 
+  
+Arquitecturas unificadas en GPUs
+Introducción a la tecnología CUDA de
+    NVIDIA
+Shaders para computación GPU
+Programación de arquitecturas multicore mediante
+    OpenCL
+
+
+
+
+Programa de prácticas
+
+
+Desarrollo de controladores de dispositivo
+Uso de interrupciones y servicios BIOS/UEFI
+Simulación y síntesis de circuitos hardware
+  VHDL/Verilog
+Programación de shaders
+Programación en CUDA
+Programación en OpenCL
+
+'

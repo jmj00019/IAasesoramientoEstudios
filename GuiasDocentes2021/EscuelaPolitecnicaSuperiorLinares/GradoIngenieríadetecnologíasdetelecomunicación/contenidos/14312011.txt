@@ -1,0 +1,119 @@
+'
+
+Al finalizar el curso el alumno que haya superado la asignatura
+tendrá los conocimientos teóricos necesarios y
+será capaz de resolver problemas en relación a:
+· La gestión del espacio radioeléctrico
+y la asignación de frecuencias.
+· Las características y parámetros de
+las antenas y el ruido en sistemas radioeléctricos.
+· El balance de potencias en un radioenlace y la
+propagación en condiciones de espacio libre.
+· Los principales mecanismos de propagación:
+Propagación por onda de superficie. Propagación por
+onda ionosférica. Modelo de rayos. Difracción y
+obstáculos. Propagación de ondas en la troposfera.
+· Disponibilidad de un radioenlace y técnicas
+de diversidad.
+Además el alumno deberá ser capaz de
+caracterizar y medir antenas y otros elementos en sistemas de
+radiocomunicaciones y determinar experimentalmente las
+pérdidas de transmisión radio. El alumno será
+capaz de manejar software para el análisis y diseño
+de sistemas de radiocomunicación y equipamiento e
+instrumentación propia de la ingeniería de
+radiofrecuencia.
+Palabras Clave : Parámetros de antena. Temperatura de
+antena. Potencia isótropa radiada equivalente (PIRE).
+Potencia radiada aparente (PRA). Perdidas básicas.
+Radioenlace por satélite. Ecuación radar.
+Reflexión en tierra plana. Pérdidas por
+difracción. Zonas de Fresnel. Onda de superficie. Efecto de
+la troposfera. Atenuación por hidrometeoros.
+Refracción. Atmósfera de referencia.
+Propagación por conductos. Propagación por
+difusión troposférica. Propagación
+ionosférica. Rotación de Faraday. Distribuciones
+estadísticas de propagación.
+
+
+1.
+Introducción a los Sistemas de
+Radiocomunicación
+Términos y definiciones
+básicas. Magnitudes logarítmicas. Comparativa cable
+vs. radio. Elementos de un sistema de radiocomunicaciones.
+Servicios de radiocomunicaciones. Gestión del espectro
+radioeléctrico. Bandas de frecuencia. Ejemplos de sistemas
+de radiocomunicaciones.
+
+2.   
+Ruido en los Sistemas de
+Radiocomunicación
+Introducción al ruido en
+comunicaciones. Ruido en redes de un puerto (dipolo). Ruido en
+redes bipuerto (cuadripolo). Ruido en bipuertos en cascada. Calidad
+de la señal.
+
+3.   
+Fundamentos de Radiación electromagnética y
+Antenas
+Definición de antena. Tipos
+de antenas. Mecanismo y regiones de radiación. Densidad de
+potencia radiada. Intensidad de radiación. Diagrama de
+radiación. Directividad. Impedancia y adaptación en
+transmisión. Ganancia. Ancho de banda. Teorema de
+reciprocidad. Impedancia y adaptación en recepción.
+Área y longitud efectiva. Polarización. Factor de
+Antena. Antenas vs frecuencia. Dipolo y espira elemental. Dipolos.
+Antenas de cuadro. Monopolos. Hélices. Agrupaciones de
+antenas. Aperturas. Bocinas. Reflectores parabólicos.
+Balunes o redes simetrizadoras . Ruido en una antena.
+
+4.   
+Balance de potencias de un radioenlace
+Ecuación de
+transmisión. Ecuación radar. Sección
+recta-radar. Radioenlace por satélite.
+
+5.   
+Mecanismos básicos de propagación
+radioeléctrica
+Introducción a la
+propagación radioeléctrica. Reflexión en
+Tierra plana. Características del suelo. Coeficiente de
+reflexión. Modelo de propagación en Tierra plana.
+Difracción en obstáculos. Zonas de Fresnel.
+Difracción en un obstáculo aislado. Onda de
+superficie. Atenuación troposférica.
+Atenuación por gases y vapores atmosféricos.
+Atenuación por lluvia. Indisponibilidad de un
+radioenlace debido a la lluvia.  Atenuación por
+vegetación. Refracción troposférica. Conductos
+troposféricos. Modelo de Tierra ficticia. Modelo de Tierra
+curva. Dispersión troposférica. Propagación
+ionosférica. Ionogramas. Propagación en entornos
+complejos. Modalidades de propagación. Introducción
+al estudio de los desvanecimientos en los enlaces radio.
+Estadísticas de desvanecimiento. Técnicas de
+diversidad.
+ 
+
+
+CONTENIDOS DE
+  LABORATORIO:
+
+
+
+PRÁCTICA 1: Recomendaciones y
+  normativa relacionada con las radiocomunicaciones. El analizador
+  de espectros y el generador de funciones.
+
+PRÁCTICA 2: Características de
+  radiación de dipolos y monopolos.
+
+PRÁCTICA 3: Ecuación de
+  transmisión de Friis: Técnicas de medida de la
+  ganancia de una antena.
+
+'

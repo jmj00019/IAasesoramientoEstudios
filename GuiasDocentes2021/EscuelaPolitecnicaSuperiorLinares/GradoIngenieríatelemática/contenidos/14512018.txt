@@ -1,0 +1,107 @@
+'
+
+Bloque I. Electrónica digital
+Bloque II. Lenguajes de descripción de hardware
+Bloque III. Sistemas basados en
+microprocesador/microcontrolador
+
+
+El
+  objetivo de estos contenidos es la consecución de las
+  competencias establecidas, incluidas las habilidades necesarias
+  para el análisis y el diseño de sistemas
+  electrónicos digitales.
+
+
+ 
+
+
+BLOQUE
+  DE TEORÍA
+
+
+BLOQUE
+  1. ÁLGEBRA DE BOOLE. ELECTRÓNICA DIGITAL
+
+
+*Tema
+  1. Sistemas de numeración y códigos
+
+
+*Tema
+  2. Álgebra de Boole y puertas lógicas. Sistemas
+  combinacionales
+
+
+*Tema
+  3. Sistemas combinacionales integrados
+
+
+*Tema
+  4. Sistemas secuenciales síncronos. Sistemas secuenciales
+  integrados
+
+
+BLOQUE
+  2. DISPOSITIVOS LÓGICOS PROGRAMABLES. VHDL
+
+
+*Tema
+  5. Dispositivos Lógicos Programables (PLD)
+
+
+*Tema
+  6. Lenguajes de Descripción de Hardware
+
+
+*Tema
+  7. Síntesis de circuitos combinacionales con VHDL
+
+
+*Tema
+  8. Síntesis de circuitos secuenciales con VHDL
+
+
+BLOQUE
+  3. SISTEMAS BASADOS EN MICROCONTROLADOR/MICROPROCESADOR
+
+
+*Tema
+  9. Introducción a los MCU
+
+
+*Tema
+  10. Programación de sistemas Arduino
+
+
+*Tema
+  11. Puertos de E/S de sistemas Arduino
+
+
+*Tema
+  12. Conversión A/D con sistemas Arduino
+
+
+*Tema
+  13. Comunicaciones en sistemas Arduino
+
+
+ 
+
+
+BLOQUE
+  DE PRÁCTICAS
+
+
+Bloque
+  1. Sistemas combinacionales y secuenciales
+
+
+Bloque
+  2. Lenguaje de Descripción de Hardware. VHDL
+
+
+Bloque
+  3. Arduino
+
+'

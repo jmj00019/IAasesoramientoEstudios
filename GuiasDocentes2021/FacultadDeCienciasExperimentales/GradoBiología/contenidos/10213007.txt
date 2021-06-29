@@ -1,0 +1,65 @@
+'
+
+1. Introducción a la microbiología clínica,
+microorganismos y enfermedad en humanos. conceptos Bacterias y
+virus de interés clínico 2. Bacteriología. 3.
+Virología Organismos eucariotas de interés
+clínico 4. Micología 5. Parasitología
+PRÁCTICAS BLOQUE 1: Técnicas de preparación
+de medios de cultivo específicos, toma de muestras, siembra
+y aislamiento de microorganismos
+potencialmente patógenos. BLOQUE 2: Observación
+macro y microscópica de cultivos microbianos y pruebas
+específicas de identificación de los distintos grupos
+de microorganismos. BLOQUE 3: Medidas de sensibilidad de los
+microorganismos a agentes antimicrobianos.
+
+TEORIA
+BLOQUE 1: INTRODUCCIÓN A LA MICROBIOLOGÍA
+CLÍNICA  - TEMA 1. Introducción a la
+microbiología clínica  - BLOQUE 2:
+VIROLOGÍA - TEMA 2. Virología: introducción -
+TEMA 3. Virus ARN - TEMA 4. Virus ADN - TEMA 5. Retrovirus - TEMA
+6. Priones - BLOQUE 3: BACTERIOLOGÍA - TEMA 7.
+Bacteriología: introducción - TEMA 8. Cocos Gram
+positivos y Gram negativos - TEMA 9. Bacilos Gram positivos - TEMA
+10. Bacilos Gram negativos - TEMA 11. Espiroquetas, micoplasmas,
+rickettsias y clamidias - BLOQUE 4: MICOLOGÍA Y
+PARASITOLOGÍA- TEMA 12. Micología:
+introducción. Principales infecciones por hongos
+- TEMA 13. Parasitología: introducción.
+Principales infecciones por parásitos
+SEMINARIOS: Principios generales de diagnóstico
+microbiológico
+PRÁCTICAS
+PRACTICA 1. Métodos de preparación de medios de
+cultivo específicos para identificación de
+microorganismos de importancia clínica. Medios
+sólidos y semisólidos. Medios líquidos
+(sesiones 1 y 2).
+PRACTICA 2. Métodos de toma de muestras de aparato
+respiratorio. Observación macro y microscópica de las
+muestras respiratorias. Siembra en medios generales y selectivos.
+Aislamiento de microorganismos. Obtención de cultivos puros
+(sesión 3). Siembra de pruebas bioquímicas
+específicas para la identificación de muestras de
+aparato respiratorio (sesión 4). Lectura e
+interpretación de los resultados. Identificación de
+los microorganismos aislados (sesión 5).
+PRACTICA 3. Métodos de toma de muestras de orina.
+Observación macro y microscópica de las muestras de
+orina. Siembra en medios generales y selectivos. Aislamiento de
+microorganismos (sesión 6). Recuento de microorganismos en
+medio CLED y obtención de cultivos puros (sesión
+7).Siembra de pruebas bioquímicas específicas para la
+identificación de muestras de orina (sesión 8).
+Lectura e interpretación de los resultados.
+Identificación de los microorganismos aislados
+(sesión 9).
+PRACTICA 4. Medida de sensibilidad de los microorganismos a
+agentes antimicrobianos. Método de difusión en disco
+y microtitulación (sesiones 10 y 11).
+PRACTICA 5. Visita al Servicio de Microbiología del
+Hospital Universitario Ciudad de Jaén (sesión
+12). 
+'

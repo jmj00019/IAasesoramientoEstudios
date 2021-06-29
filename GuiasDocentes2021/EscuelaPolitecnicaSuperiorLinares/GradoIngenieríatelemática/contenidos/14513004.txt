@@ -1,0 +1,57 @@
+'
+
+BLOQUE I: INTRODUCCIÓN AL E-BUSINESS Y E-COMMERCE
+BLOQUE II: ESTRATEGIAS Y APLICACIONES DE E-BUSINESS
+BLOQUE III: IMPLEMENTACIÓN DEL E-BUSINESS
+BLOQUE IV: E-BUSINESS EN LA WEB DE LAS REDES SOCIALES
+
+BLOQUE I: INTRODUCCIÓN AL E-BUSINESS.
+Tema 1: Introducción. Las tecnologías de la
+información y la comunicación
+Tema 2: E-business: conceptos y relaciones
+Tema 3: Negocios electrónicos: tipología de los
+negocios electrónicos
+Tema 4: Comercio electrónico
+4.1.- Concepto de comercio electrónico
+4.2.- Tipos de comercio electrónico
+4.3.- El comercio electrónico entre empresas (b2b)
+4.4.- Markeplaces
+4.4.- El comercio electrónico entre empresa y consumidor
+final (b2c)
+4.5.- Las tiendas virtuales
+4.5.1.- Elementos básicos de una tienda virtual
+4.5.2.- El front-end
+4.5.3-  El catálogo de productos
+4.5.4.- Mecanismos de promoción y ofertas
+4.5.5.- Carrito de la compra
+4.5.6.- Motor de búsqueda
+4.5.7.- Proceso de compra
+4.5.8.- Información corporativa
+4.5.9.- registro y área de usuario
+4.5.10.- El back-office
+4.5.11.- Zona de administración
+ 
+4.6.- Software para comercio electrónico b2c
+4.6.1.- Productos en modalidad software como un servicio
+4.6.2.- Productos open source
+4.6.3.- Productos comerciales
+ 
+BLOQUE II: ESTRATEGIAS Y APLICACIONES DE E-BUSINESS
+Tema 5: Seguridad y legislación.
+Tema 6: Planificación y estrategia de negocio.
+ 
+BLOQUE III: IMPLEMENTACIÓN DEL E-BUSINESS
+Tema 7. Recursos humanos.
+Tema 8. Financiación.
+Tema 9. Gestión de la producción.
+Tema 10: Sistemas y aplicaciones E-business.
+ 
+BLOQUE IV: E-BUSINESS EN LA WEB DE LAS REDES SOCIALES
+Tema 11. E-business, Web y Redes Sociales
+Tema 12. E-marketing
+ 
+ 
+SEMINARIO:
+ 
+LA LOGÍSTICA EN LOS ENTORNOS DEL E-BUSINESS
+'

@@ -1,0 +1,59 @@
+'
+
+· Dirección estratégica de operaciones.
+· Programación de la Producción y
+gestión de inventarios.
+· Gestión de calidad.
+· Gestión del Mantenimiento.
+
+
+
+Dirección
+  estratégica de operaciones. Relevancia estratégica
+  de la dirección de operaciones Características y
+  evolución de los sistemas productivos Decisiones
+  estratégicas en el ámbito de las operaciones
+  Medición de resultados en el área de operaciones
+  Concepto y principios básicos de Lean
+  Managemen. Dirección de operaciones en el
+  sector de la minería.
+
+
+
+Programación
+    de la producción y gestión de inventarios
+
+
+
+Planificación
+  de las necesidades de materiales (MRP) Modelos de control de
+  inventarios
+
+
+
+Gestión
+    de la calidad
+
+
+
+Fundamentos
+  y conceptos básicos relacionados con la gestión de
+  la calidad Herramientas para la gestión de la
+  calidad
+
+
+Control
+  estadístico de procesos
+
+
+
+Gestión
+    del mantenimiento. Concepto y tipos de mantenimiento
+    Mantenimiento autónomo Mantenimiento preventivo
+
+
+
+Medidas
+  de fiabilidad
+
+'

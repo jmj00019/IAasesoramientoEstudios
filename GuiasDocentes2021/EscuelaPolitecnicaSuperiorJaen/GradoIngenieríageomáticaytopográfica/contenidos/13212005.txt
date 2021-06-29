@@ -1,0 +1,161 @@
+'
+
+Programas espaciales de Teledetección espacial.
+Fundamentos físicos de la respuesta espectral.
+El efecto atmosférico. Calibración
+radiométrica.
+Metodologías para el tratamiento de las
+imágenes.
+Filtrados. Operadores morfológicos.
+Transformaciones globales.
+Técnicas de clasificación digital.
+Extracción automática de elementos
+cartográficos.
+Verificación de resultados.
+LIDAR. Principios y aplicaciones.
+RADAR. Principios y aplicaciones.
+ 
+
+
+Bloque 0.
+  INTRODUCCIÓN                   
+
+
+Tema 1. Introducción a la
+teledetección.
+Definiciones. Bosquejo histórico. Aplicaciones.
+ 
+
+Bloque I. FUNDAMENTOS FÍSICOS      
+          
+
+
+Tema 2. Fundamentos físicos.
+
+Espectro electromagnético. Leyes de la
+radiación
+
+Tema 3. Interacción REM-materia.
+
+Interacción subatómica y macroscópica.
+Respuesta espectral de los suelos. Respuesta espectral de la
+vegetación.
+
+Tema 4. Interacción REM-atmósfera.
+
+Constituyentes atmosféricos. Óptica
+atmosférica. Efectos atmosféricos: dispersión
+y absorción. Correcciones atmosféricas en el VIS y en
+el IR. Modelos atmosféricos
+
+ 
+
+
+Bloque II. TRATAMIENTO DIGITAL DE IMÁGENES  
+       
+  
+
+
+Tema 5. La imagen digital.
+
+Concepto. Formato y soporte de grabación.
+Resolución y tipos de resolución. Tipos de sensores.
+Programas espaciales de Teledetección.
+
+Tema 6. El color en la imagen digital.
+
+Composiciones en color. Color real y falso color.
+
+Tema 7. Correcciones y realce
+  radiométrico
+
+Anomalías radiométricas. Correcciones. Histograma
+de la imagen. Contraste. Expansión del contraste. Tipos de
+expansión. Normalización radiométrica.
+ 
+
+Tema 8. Filtrado.
+
+Filtros de convolución. Filtros texturales. Filtrado en
+el dominio de la frecuencia. Restauración de
+imágenes.
+
+Tema 9. Georreferenciación.
+
+Correcciones geométricas mediante modelización.
+Procedimientos de georreferenciación. Corrección
+topográfica.
+
+                       
+
+Bloque III.
+  MÉTODOS                  
+
+
+Tema 10. Álgebra de banda y transformaciones
+  globales.
+
+Indices de vegetación. Transformación a
+componentes principales. Otras transformaciones.
+
+Tema 11. Clasificación digital.
+
+Métodos. Clasificación hiperespectral.
+Clasificación experta.
+
+Tema 12. Análisis multitemporal.
+
+Composiciones multitemporarales. Diferencia de imágenes.
+Cociente de imágenes. Cocientes multiemporales. Componentes
+principales. Regresión. Vectores multiemporales.
+              
+
+Bloque IV. SENSORES
+  ACTIVOS                   
+
+
+Tema 13. Radar.
+
+Principios del radar. Radar de apertura real. Radar de apertura
+sintética. Radar no formador de imágenes.
+Polarimetría. DInSAR.
+
+Tema 14. Lidar.
+
+Principios. Adquisición de los datos. Tratamiento de los
+datos. Aplicaciones.
+ 
+
+Bloque V.
+  APLICACIONES                    
+
+
+Tema 15. Metodología y aplicaciones.
+
+Estructuración del proyecto de teledetección.
+Aplicaciones en diversos tipos de estudios.
+ 
+
+
+PRÁCTICAS
+
+
+Práctica 1. Presentación de las
+prácticas. Software de visualización y
+tratamiento. 
+
+Práctica 2. Respuesta espectral. Suelos y
+vegetación. Librerías espectrales.
+
+Práctica 3. Correcciones
+radiométricas y atmosféricas.
+
+Práctica 4. Conversión a radiancia y
+reflectancia. Temperatura radiométrica.
+
+Práctica 5.  Proyecto de
+Teledetección (especificación producto, esquema de
+clasificación, selección imagen,
+clasificación, evaluación e informe).
+ 
+'

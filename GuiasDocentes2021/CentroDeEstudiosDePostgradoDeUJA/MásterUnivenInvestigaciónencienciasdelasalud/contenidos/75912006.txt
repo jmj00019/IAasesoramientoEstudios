@@ -1,0 +1,107 @@
+'
+
+
+
+Introduccion al analisis
+    estadístico.
+
+
+Análisis
+    descriptivo.
+
+
+Funciones de probabilidad y test
+    de hipótes
+
+
+Estimación de
+    tamaño muestral
+
+
+Análisis inferencial
+    bivariado: diferencias de proporciones  y diferencias de
+    dos medias.
+
+
+Contraste de hipotesis
+
+
+Correlaciones
+    
+
+
+
+Análisis
+    de la varianza
+    
+
+
+
+Regresión
+    lineal.
+
+
+
+
+TEMARIO
+  DESARROLLADO:
+
+
+Introduccion
+  al analisis estadístico
+  
+
+
+Conceptos
+  de significación estadistica
+
+
+Interpretación
+  de la significación estadística
+
+
+Codificación
+  de bases de datos
+
+
+Análisis
+  descriptivo
+
+
+Calculo
+  del tamaño muestral
+
+
+Análisis
+  inferencial bivariante
+
+
+Análisis
+  bivariante de variables nominales
+
+
+Análisis
+  bivariante de variables ordinales
+
+
+Análisis
+  bivariante de variables continuas
+
+
+Estimación
+  de tamaño muestral para contraste de
+  hipótesis
+
+
+Análisis
+  de la varianza
+
+
+ANOVA 
+  bifactorial
+
+
+Regresión
+  lineal
+
+'

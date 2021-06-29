@@ -1,0 +1,76 @@
+'
+
+
+BLOQUE CONCEPTUAL:
+
+
+BASES DE LA NANOQUÍMICA.
+TÉCNICAS DE CARACTERIZACIÓN EN
+  NANOCIENCIA.
+NANOCOMPUESTOS MOLECULARES INORGÁNICOS.
+NANOCOMPUESTOS MOLECULARES ORGÁNICOS.
+
+
+BLOQUE PRÁCTICO:
+
+
+TÉCNICAS GENERALES DE CARACTERIZACIÓN EN
+  NANOCIENCIA.
+SÍNTESIS DE NANOCOMPUESTOS QUÍMICOS.
+
+
+BLOQUE CONCEPTUAL:
+
+INTRODUCCIÓN 
+  
+Bases de la nanoquímica.
+Técnicas de nano fabricación.
+
+TÉCNICAS DE CARACTERIZACIÓN EN NANOCIENCIA 
+  
+Microscopio de sonda de barrido. 
+    
+Microscopia de efecto túnel.
+Microscopia de Fuerza Atómica.
+
+Microscopia electrónica: 
+    
+TEM.
+SEM.
+
+
+NANOCOMPUESTOS MOLECULARES INORGÁNICOS 
+  
+Nanotubos de Carbón.
+Nanopartículas Metálicas.
+Puntos cuánticos.
+
+NANOCOMPUESTOS MOLECULARES ORGÁNICOS 
+  
+Polímeros conductores.
+OLED
+
+
+ BLOQUE PRÁCTICO:
+
+SÍNTESIS DE NANOCOMPUESTOS QUÍMICOS 
+  
+Síntesis de Nanopartículas
+    metálicas
+Síntesis de Puntos Cuanticos
+Síntesis de Nanopartículas
+    Magnéticas
+Síntesis de laminas delgadas mediante  
+    spin- 
+    coating
+
+TÉCNICAS GENERALES DE CARACTERIZACIÓN EN
+  NANOCIENCIA 
+  
+Estudio por AFM de nanopartículas
+    metálicas
+Estudio por MFM de Nanopartículas
+    Magnéticas.
+
+
+'

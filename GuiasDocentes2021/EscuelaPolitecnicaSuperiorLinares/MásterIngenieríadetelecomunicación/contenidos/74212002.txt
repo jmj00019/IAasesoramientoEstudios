@@ -1,0 +1,31 @@
+'
+
+1. Introduction to the communication systems
+2. S parameters in microwave networks
+3. Design of microwave amplifiers and oscillators
+4. Transmitter and receiver
+5. Frequency mixer
+6. Oscillator, PLL and frequency synthesizer
+7. Digital modulator and demodulator    
+  
+8. Lab work: Implementation and characterization of
+communications systems 
+
+Unit 1. Introduction to the communication systems.
+Unit 2. S parameters in microwave networks.
+Unit 3. Design of microwave amplifiers and oscillators.
+Unit 4. Characterization of communications systems.
+Practise 1. Instrumentation.
+Practise 2. Communications between MATLAB and the
+Programmable Function Generator. 
+Practise 3. GNU Radio Digital modulator.
+Practise 4. Measurements of one-port networks with the
+network analyser. 
+Practise 5. Computer-Aided Design for Microwave
+Circuits. 
+Practise 6. Wide-band matching circuits. 
+Seminar 1. Transmitter and receiver.
+Seminar 2. Frequency mixer.
+Seminar 3. Oscillator, PLL and frequency synthesizer.
+Seminar 4. Digital modulator and demodulator.
+'

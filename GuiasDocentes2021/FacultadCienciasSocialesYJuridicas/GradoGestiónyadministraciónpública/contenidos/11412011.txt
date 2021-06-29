@@ -1,0 +1,54 @@
+'
+
+Estimación puntual
+ Estimación por intervalos de confianza
+ Contrastes de hipótesis paramétricas
+ Contrastes de hipótesis no paramétricas
+ Modelo de regresión lineal simple
+
+ CONTENIDOS DESARROLLADOS
+1.     Introducción a la Inferencia
+Estadística
+
+Conceptos fundamentales
+Muestreo aleatorio simple
+Distribuciones asociadas al muestreo
+
+2.     Estimación puntual.
+
+Conceptos fundamentales
+Propiedades de los estimadores
+Métodos de estimación puntual
+
+3.     Estimación por intervalos.
+
+Conceptos fundamentales
+Intervalos de confianza para medias, varianzas y
+  proporciones
+
+4.     Contrastes de hipótesis
+paramétricas.
+
+Conceptos fundamentales
+Contrastes de hipótesis para medias y varianzas
+Constrastes de hipótesis para proporciones
+Análisis de la varianza
+
+5.     Contrastes de hipótesis no
+paramétricas.
+
+Contrastes de bondad de ajuste
+Contrastes de independencia
+Otros contrastes de interés
+
+6.     El modelo de regresión lineal
+simple.
+
+Conceptos fundamentales
+Estimación de los parámetros. Propiedades
+Inferencia sobre los parámetros del modelo
+Correlación
+Predicción
+
+ 
+'

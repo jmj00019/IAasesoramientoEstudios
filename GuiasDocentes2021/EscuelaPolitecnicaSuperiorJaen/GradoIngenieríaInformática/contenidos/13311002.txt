@@ -1,0 +1,152 @@
+'
+
+Análisis Matemático: El cuerpo de los
+números reales. Los números complejos. Sucesiones y
+series de números reales. Derivación de funciones
+reales de variable real. Integración. Introducción
+a las funciones de varias variables. Métodos
+Numéricos: Introducción al Cálculo
+Numérico. Resolución
+numérica de ecuaciones. Interpolación.
+Integración numérica. Resolución
+numérica de ecuaciones diferenciales ordinarias.
+ 
+
+
+
+Análisis
+  Matemático:
+
+
+Tema 1.
+  Números reales.
+
+
+Tema 2.
+  Números complejos.
+
+
+Tema 3. Sucesiones
+  de números reales.
+
+
+Tema 4. Funciones
+  reales de variable real.
+
+
+Tema 5.
+  Derivación de funciones reales.
+
+
+Tema 6.
+  Integración de funciones reales de variable
+  real. 
+
+
+Tema 7. Series de
+  números reales.
+
+
+Tema 8.
+  Introducción a las funciones reales de varias
+  variables.
+
+
+Tema 9.
+  Introducción a las ecuaciones diferenciales
+  ordinarias.
+
+
+
+Métodos
+Numéricos:
+ 
+
+Tema 10.
+  Introducción al Cálculo Numérico.
+
+
+Tema 11.
+  Interpolación de funciones reales.
+
+
+Tema 12.
+  Resolución numérica de ecuaciones no
+  lineales.    
+        
+   Tema 13.  Integración numérica de
+  funciones reales.   
+
+
+Tema
+  14.  Resolución numérica de ecuaciones
+  diferenciales ordinarias.
+
+ 
+
+
+Programa de
+  Prácticas:
+
+
+Tema 1.
+  Introducción al Programa Mathematica
+
+
+Tema 2.
+  Números reales y complejos. Desigualdades. Valor
+  absoluto.
+
+
+Tema 3. Sucesiones
+  de números reales.
+
+
+Tema 4. Funciones
+  reales de variable real.
+
+
+Tema 5.
+  Derivación de funciones reales.
+
+
+Tema 6.
+  Integración de funciones reales de variable
+  real. 
+
+
+Tema 7. Series de
+  números reales.
+
+
+Tema 8.
+  Introducción a las funciones reales de varias
+  variables.
+
+
+Tema 9.
+  Introducción a las ecuaciones diferenciales
+  ordinarias.
+
+
+Tema 10.
+  Introducción al Cálculo Numérico.
+
+
+Tema 11.
+  Interpolación de funciones reales.
+
+
+Tema 12.
+  Resolución numérica de ecuaciones no
+  lineales.    
+        
+   Tema 13.  Integración numérica de
+  funciones reales.   
+
+
+Tema
+  14.  Resolución numérica de ecuaciones
+  diferenciales ordinarias.
+
+'

@@ -1,0 +1,167 @@
+'
+
+BLOQUE I. MECÁNICA: Leyes de Newton; trabajo y
+energía, cantidad de movimiento
+BLOQUE II. TERMODINÁMICA: Temperatura, leyes de la
+termodinámica.
+BLOQUE III. FENÓMENOS ONDULATORIOS: Oscilaciones,
+ondas armónicas.
+BLOQUE IV. ELECTROMAGNETISMO: campo y potencial
+eléctrico, conductores y dieléctricos, circuitos de
+corriente continua, el campo magnético y sus fuentes,
+inducción magnética.
+
+
+
+CONTENIDOS DESARROLLADOS
+
+
+
+BLOQUE:
+  MECÁNICA.
+
+
+TEMA
+  1. INTRODUCCIÓN. Magnitudes físicas. Magnitudes
+  escalares y vectoriales. Operaciones con vectores.
+  
+
+
+TEMA
+  2. DINÁMICA DE LA PARTÍCULA. Leyes de Newton.
+  Trabajo. Fuerzas conservativas y energía potencial.
+
+
+
+BLOQUE:
+  FENÓMENOS ONDULATORIOS.
+
+
+TEMA
+  3. MOVIMIENTO OSCILATORIO. Movimientos periódicos.
+  Movimiento armónico simple (MAS). Dinámica del MAS:
+  Ecuación diferencial del MAS. Oscilaciones amortiguadas.
+  Oscilaciones forzadas: Resonancia.
+
+
+TEMA
+  4. ONDAS MECÁNICAS. Concepto de onda. Tipos de ondas.
+  Descripción matemática de las ondas
+  armónicas. Ondas en varias dimensiones. Ecuación
+  diferencial de ondas. Interferencia. Ondas estacionarias.
+  Resonancia.
+
+
+TEMA
+  5. ONDAS SONORAS. Propagación de ondas sonoras: Ondas de
+  presión. Velocidad de propagación de una onda
+  sonora. Intensidad de una onda sonora armónica. Ondas
+  estacionarias y resonancia en tubos.
+
+
+
+BLOQUE:
+  ELECTROMAGNETISMO.
+
+
+TEMA
+  6. CAMPO Y POTENCIAL ELÉCTRICO. Ley de Coulomb. Campo
+  eléctrico. Ley de Gauss. Potencial eléctrico.
+  Cálculo del potencial eléctrico.
+
+
+TEMA
+  7. CONDUCTORES Y CONDENSADORES. Conductores en equilibrio
+  electrostático. Condensadores. Condensadores con
+  dieléctrico.
+
+
+TEMA
+  8. CORRIENTE ELECTRICA. Magnitudes que describen la corriente.
+  Ley de Ohm: Resistividad y resistencia. Energía en
+  circuitos eléctricos. Análisis de circuitos de
+  corriente continua. Circuitos con condensadores.
+
+
+TEMA
+  9. EL CAMPO MAGNÉTICO Y SUS FUENTES. Magnetismo. Ley de
+  Gauss para el magnetismo. Fuerza magnética sobre una carga
+  en movimiento. Movimiento de partículas cargadas en campos
+  magnéticos. Fuerza magnética sobre un cable de
+  corriente. Ley de Biot-Sarvat. Ley de Ampère. Ley de
+  Ampère-Maxwell.
+
+
+TEMA
+  10. INDUCCIÓN MAGNÉTICA. Ley de Faraday: Campos
+  eléctricos inducidos. Inductores.
+
+
+TEMA
+  11: ECUACIONES DE MAXWELL Y ONDAS ELECTROMAGNÉTICAS.
+  Ecuaciones de Maxwell en forma diferencial (en el vacío).
+  Ondas electromagnéticas planas en medios no conductores.
+  Energía de las ondas electromagnéticas.
+
+
+
+BLOQUE:
+  TERMODINÁMICA.
+
+
+TEMA
+  12. TEMPERATURA, CALOR Y PRIMER PRINCPIO. Conceptos
+  básicos de Termodinámica. Temperatura. Calor.
+  Capacidad calorífica y calor específico. Cambios de
+  fase: Calor latente. El trabajo en Termodinámica. Primer
+  principio.
+
+
+
+PRÁCTICAS
+  DE
+LABORATORIO
+
+
+Se realizan cuatro
+  de entre las siguientes:
+
+
+
+Circuitos de
+    corriente continua
+
+
+Carga de un
+    condensador
+
+
+Campo
+    magnético de un solenoide
+
+
+Inducción
+    magnética
+
+
+Campo electrico
+    en un condensador
+
+
+Condensador con
+    material dieléctrico
+
+
+Momento de
+    torsión magnético
+
+
+Ley de Ohm
+
+
+Oscilador
+    armónico
+
+
+ 
+'

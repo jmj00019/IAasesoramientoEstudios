@@ -1,0 +1,119 @@
+'
+
+Dimensionado del cableado de instalaciones fotovoltaicas
+Protección de personas y equipos de instalaciones
+fotovoltaicas
+Diseño de la conexión a red de instalaciones
+fotovoltaicas
+
+
+
+
+CONTENIDOS
+  TEÓRICOS:
+
+
+TEMA 0. FUNDAMENTOS DE ENERGÍA
+  FOTOVOLTAICA
+
+
+Célula solar fotovoltaica
+Efectos de condiciones medioambientales en fotovoltaica
+Determinación de parámetros del modelo
+  fotovoltaico
+Módulo fotovoltaico
+Generador fotovoltaico
+Sistema fotovoltaico
+
+
+TEMA 1. GENERALIDADES
+
+
+Introducción
+El generador fotovoltaico: Comportamiento eléctrico y
+  esquema de conexiones
+Conexión a la red eléctrica
+Riesgo eléctrico en C.C y C.A.
+Protección
+Puestas a tierra
+
+
+TEMA 2. ASPECTOS LEGALES DE LA GENERACIÓN
+  FOTOVOLTAICA
+
+
+Introducción. 
+Directiva 2009/28/ce del Parlamento Europeo 
+Plan de energías renovables 2011-2020. 
+Autoconsumo 
+Evolución del marco regulatorio
+  español 
+Marco legal actual
+Normas técnicas para la conexión a
+  red. 
+Exigencia básica HE 5 del código técnico
+  de la edificación, contribución fotovoltaica
+  mínima de energía eléctrica. 
+Normas une  
+
+
+TEMA 3. DIMENSIONADO DE CONDUCTORES
+
+
+Estructura de un cable eléctrico aislado
+Criterios de dimensionado de conductores
+Dimensionado de conductores
+Características técnicas y selección del
+  cableado DC
+
+
+TEMA 4.PROTECCIÓN DE EQUIPOS.
+  SOBREINTENSIDADES
+
+
+Posibles faltas eléctricas en generadores FVs
+Funcionamiento del generador FV bajo condiciones de falta
+  eléctrica
+Medidas de protección adaptadas para el generador FV
+  frente a la sobreintensidad
+
+
+TEMA 5.PROTECCIÓN DE EQUIPOS.
+  SOBRETENSIONES
+
+
+Origen de las sobretensiones
+Capacidad de los equipos para soportar sobretensiones
+Medidas y diseño de la protección en DC
+Medidas y diseño de la protección en AC
+
+
+TEMA 6. PROTECCION DE PERSONAS
+
+
+Riesgo eléctrico por contacto directo e indirecto
+Medidas y diseño de la protección en DC
+Medidas y diseño de la protección en AC
+
+
+TEMA 7.CONEXIÓN A LA RED ELECTRICA
+
+
+Esquemas de interconexión
+Condiciones de conexión
+Protección de la interconexión
+
+ 
+
+
+
+CONTENIDOS PRÁCTICOS
+ (P).
+
+Práctica 1 (P1): Simulación de conexión a
+red de un sistema FV (2 H)
+Prácticas 2 y 3 (P2 y P3): Visita a instalaciones (4
+H)
+Práctica 4 (P4): Simulación de la conexión
+a red de un sistema FV y faltas en el lado DC y AC (4H)
+'

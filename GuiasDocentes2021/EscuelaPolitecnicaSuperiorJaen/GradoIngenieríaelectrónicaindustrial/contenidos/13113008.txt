@@ -1,0 +1,25 @@
+'
+
+Herramientas y lenguajes de programación de alto nivel
+orientados al cálculo técnico y científico.
+Representación gráfica y visualización de
+datos. Bibliotecas de software específicas para
+ingeniería. Resolución de problemas comunes en las
+ingenierías. Comunicación e integración de
+software desarrollado en diferentes lenguajes.
+
+Contenidos:
+Módulo 1: Programación orientada a objetos.
+ 1.1.- Introducción
+ 1.2.- Conceptos fundamentales y notación UML
+ 1.3.- Relaciones entre clases
+ 1.4.- Polimorfismo
+ 1.5.- Plantillas y manejo de excepciones
+Módulo 2: Bibliotecas de software específicas para
+ingeniería.
+Módulo 3: Resolución de problemas comunes en
+ingeniería.
+En prácticas aplicaremos los conceptos aprendidos en
+teoría usando Java o algunos de los lenguajes más
+comunes usados en ingeniería (C# o C++).
+'

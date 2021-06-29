@@ -1,0 +1,28 @@
+'
+
+Asignatura que abarca los conceptos necesarios para abordar la
+ingenieria del trafico en todas sus vertientes.
+
+Asignatura que abarca los conceptos
+necesarios para abordar la ingenieria del trafico en todas sus
+vertientes.
+Tema 1. Ciudad. Conceptos generales y desarrollo
+histórico.
+Tema 2. Marco legal.
+Tema 3. La ordenación urbanística y
+territorial.
+Tema 4. Diseño de redes de transporte. El caso urbano.
+Tema 5. Movilidad urbana.
+Tema 6. Modos de transporte colectivo.
+Tema 7. Transporte público. Legislación y
+organización.
+Tema 8. Gestión del tráfico urbano.
+Tema 9. Planes de movilidad sostenible y ecomovilidad.
+Tema 10. Ferrocarriles urbanos. Tranvías, metros
+ligeros y metro convencional.
+Tema 11. Autobuses y tranvías. Análisis
+comparativo.
+Tema 12. Carreteras urbanas. Diseño y
+planificación.
+Tema 13. Proyecto del viario urbano.I
+'

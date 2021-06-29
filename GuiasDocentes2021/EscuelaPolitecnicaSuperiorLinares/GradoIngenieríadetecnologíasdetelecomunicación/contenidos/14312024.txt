@@ -1,0 +1,220 @@
+'
+
+El alumno adquirirá conocimientos sobre las
+características de los diferentes esquemas de
+codificación de la señal, así como de las
+técnicas para su posterior transmisión digital. Se
+estudiarán varias transformadas, prestando especial
+interés a la transformada discreta de Fourier y su
+implementación rápida (FFT). Dentro de las
+técnicas de transmisión, se estudiará, entre
+otras, la modulación digital OFDM.
+Igualmente, el alumno simulará diferentes esquemas de
+codificación de señal y de transmisión digital
+al objeto de caracterizarlos.
+Palabras Clave: transformada discreta de Fourier, DFT,
+transformada rápida de Fourier, FFT, codificación de
+fuente, técnicas de transformación, modulación
+digital, OFDM.
+
+
+Además,
+  se dotará al alumno de la capacidad para estar al
+  día en las novedades en ciencia y tecnología, sobre
+  todo en este tipo de materias, tan ligadas a un entono tan
+  dinámico como son las telecomunicaciones, y en concreto
+  las Tecnologías de Telecomunicación.
+
+
+El
+  programa se divide en tres partes:
+
+
+
+BLOQUE TEÓRICO
+
+
+Tema
+  1. TÉCNICAS DE TRANSFORMACIÓN
+
+
+
+Introducción,
+    Redundancia, Irrelevancia y Clasificación de las
+    técnicas de transformación.
+
+
+Modulación
+    por impulsos codificados, Tratamiento de señales y
+    muestreo, Cuantificación, Realización
+    práctica del codificador G.711 Ley A,
+    Decodificación en G.711 Ley A, Evaluación de la
+    calidad.
+
+
+MIC
+    diferencial (MICD O DPCM), Introducción a la
+    codificación diferencial, Ganancia de predicción,
+    Errores en MIC diferencial.
+
+
+MIC
+    diferencial adaptativo ADPCM, MICDA a 32Kb/s
+
+
+Modulación
+    delta (MD), Sincronización de carácter,
+    Análisis del Sistema, Modulación Delta
+    Adaptativa.
+
+
+Codificación
+    por transformada, Introducción, Transformada
+    óptima, Transformadas sub-óptimas.
+
+
+Codificación
+    sub-banda (SB), Diezmado, Interpolación, Esquema
+    codificador SB y análisis del funcionamiento.
+
+
+Codificación
+    de análisis-síntesis, Modelo de generación
+    de voz, Codificación por Predicción Lineal,
+    Vocoder.
+
+
+Codificación
+    híbrida.
+
+
+Comparativa
+    diferentes técnicas de codificación.
+
+
+
+Tema
+  2. LA TRANSFORMADA DISCRETA DE FOURIER
+
+
+
+Introducción.
+
+
+Series
+    discretas de Fourier.
+
+
+La
+    transformada discreta de Fourier (Discrete Fourier Transform,
+    DFT).
+
+
+Propiedades
+    de la DFT.
+
+
+Muestreo
+    de la DTFT.
+
+
+Convolución
+    lineal usando la DFT.
+
+
+
+Tema
+  3. APLICACIONES DE LA TRANSFORMADA DISCRETA DE FOURIER
+
+
+
+Introducción
+
+
+Algoritmos
+  FFT con N potencia de 2
+
+
+FFT
+      mediante diezmado en el tiempo
+
+
+FFT
+      mediante diezmado en frecuencia
+
+
+
+Análisis
+  de señales sinusoidales mediante la DFT
+
+
+Efecto
+      del enventanado
+
+
+Tipos
+      de ventanas
+
+
+Efecto
+      del muestreo del espectro
+
+
+
+Orthogonal
+    Frequency Division Multiplexing (OFDM)
+
+
+
+
+BLOQUE PRÁCTICO 
+
+
+El
+  bloque práctico de la asignatura se compone de
+  resolución de ejercicios (problemas) y prácticas en
+  el laboratorio, y su carácter es obligatorio.
+
+
+El
+  objetivo de las prácticas propuestas es la
+  consecución de las competencias establecidas.
+  Además, se desarrollarán habilidades de
+  comunicación información, ideas, problemas y
+  soluciones en el ámbito de ingeniería y la sociedad
+  en general a través de procesos de entrega de
+  documentación o presentaciones orales.
+
+
+Con
+  respecto a la organización del trabajo, se
+  fomentará la colaboración y trabajo en equipo a
+  través del propio diseño de las
+  prácticas.
+
+
+Los
+  contenidos prácticos son los siguientes:
+
+
+Práctica
+  1. Técnicas de transformación
+
+
+Práctica
+  2. Transformada discreta de Fourier (DFT)
+
+
+Práctica
+  3. Aplicaciones de la transformada discreta de Fourier
+  (DFT)
+
+
+
+SEMINARIOS
+
+
+SEMINARIO
+  1. INTRODUCCIÓN A MATLAB
+
+'

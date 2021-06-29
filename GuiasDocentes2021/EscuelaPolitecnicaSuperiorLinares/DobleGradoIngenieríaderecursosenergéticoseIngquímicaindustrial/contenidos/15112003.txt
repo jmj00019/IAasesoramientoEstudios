@@ -1,0 +1,23 @@
+'
+
+Bloque I: Introducción a la Biotecnología
+Bloque II: Cinética enzimática y del
+crecimiento microbiano
+Bloque III: Biorreactores
+Bloque IV: Procesos biotecnológicos
+
+Bloque I: Introducción a la Biotecnología.
+Definición de biotecnología. Evolución
+histórica. Características principales de los
+procesos biotecnológicos.
+Bloque II: Cinética enzimática y del crecimiento
+microbiano. Microorganismos de interés industrial. Estudios
+cinéticos.  
+Bloque III: Biorreactores. Clasificación y tipos de
+biorreactores. Balances de materia y energía en
+biorreactores. Aspectos básicos y variables de
+diseño.
+ 
+Bloque IV: Procesos biotecnológicos. Tendencias en
+distintos sectores. Estrategías de producción.
+'

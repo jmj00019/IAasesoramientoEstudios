@@ -1,0 +1,97 @@
+'
+
+
+En
+  esta asignatura se tratan los conceptos relacionados con el
+  impacto ambiental, las diferentes metodologías de estudios
+  y evaluaciones de impacto ambiental y, en general,
+  tecnologías ambientales de sostenibilidad y de tratamiento
+  de residuos.
+
+
+
+PROGRAMA
+  TEÓRICO
+
+
+
+BLOQUE I.
+  EVALUACIÓN DE IMPACTO AMBIENTAL EN MINERÍA E
+  INGENIERÍA CIVIL. INFLUENCIA EN LA PLANIFICACIÓN Y
+  LA GESTIÓN TERRITORIAL Y
+  URBANÍSTICA
+
+
+
+BLOQUE II.
+  TECNOLOGÍAS DE CORRECCIÓN AMBIENTAL
+
+
+
+BLOQUE III.
+  TRATAMIENTO DE RESIDUOS
+
+ 
+
+En esta asignatura se tratan los
+conceptos relacionados con el impacto ambiental, las diferentes
+metodologías de estudios y evaluaciones de impacto ambiental
+y, en general, tecnologías ambientales, de sostenibilidad y
+de tratamiento de residuos.
+
+PROGRAMA TEÓRICO
+BLOQUE I. EVALUACIÓN DE
+IMPACTO AMBIENTAL EN MINERÍA E INGENIERÍA CIVIL.
+INFLUENCIA EN LA PLANIFICACIÓN Y LA GESTIÓN
+TERRITORIAL Y URBANÍSTICA
+BLOQUE II. TECNOLOGÍAS DE
+CORRECCIÓN AMBIENTAL
+BLOQUE III. TRATAMIENTO DE
+RESIDUOS
+ 
+BLOQUE I. EVALUACIÓN DE
+IMPACTO AMBIENTAL EN MINERÍA E INGENIERÍA CIVIL.
+INFLUENCIA EN LA PLANIFICACIÓN Y LA GESTIÓN
+TERRITORIAL Y URBANÍSTICA
+
+Tema 1. Concepto de Impacto Ambiental
+Concepto de Medio Ambiente. Concepto de Impacto Ambiental.
+Causas de Impacto Ambiental. Clases de Impactos Indicadores de
+Impacto. Diagnóstico del Impacto Ambiental
+Tema 2. Evaluación de
+Impacto Ambiental. Marco conceptual.
+Concepto de EIA. Documentos de la EIA. Marco legal e 
+institucional de la EIA.
+
+Tema 3. Metodología para la elaboración de un
+Estudio de Impacto Ambiental Descripción de las alternativas
+del proyecto y sus acciones. Inventario Ambiental.
+Identificación de  impactos. Valoración de
+Impactos. Medidas protectoras, correctoras y compensatorias.
+Programa de Vigilancia Ambiental. Documento de síntesis.
+
+BLOQUE II. TECNOLOGÍAS DE CORRECCIÓN
+AMBIENTAL
+
+Tema 4. Corrección sobre la atmósfera.
+Contaminación atmosférica. Equipos de
+separación de partículas. Técnicas de
+depuración de contaminantes gaseosos.
+
+Tema 5. Corrección sobre el agua. Indicadores de
+contaminación en aguas residuales. Tecnologías para
+la depuración de aguas residuales urbanas e industriales.
+Tratamiento de fangos.
+BLOQUE III. TRATAMIENTO DE
+RESIDUOS
+
+Tema 6. Gestión y tratamiento de residuos.
+Introducción. Residuos urbanos. Tecnologías de
+conversión biológica. Tecnologías de
+transformación térmica. Residuos Industriales. Otros
+residuos. Minimización de residuos.
+Tema 7. Descontaminación de
+suelos. Tratamiento de suelos contaminados. Técnicas
+físico-químicas. Depuración térmica.
+Biorremediación.
+'

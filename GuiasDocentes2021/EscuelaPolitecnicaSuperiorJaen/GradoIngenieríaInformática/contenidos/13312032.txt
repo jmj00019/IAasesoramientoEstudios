@@ -1,0 +1,31 @@
+'
+
+Infraestructura web. Organización de negocio. Modelos
+optimización: CRM y ERP. Sistemas colaborativos. Seguridad y
+pago electrónico.
+ 
+
+
+Teoría
+
+Tema 1. Introducción.
+Tema 2. Modelos de comercio electrónico.
+Tema 3. Seguridad en comercio electrónico y aspectos
+legales
+Tema 4. Organización de negocio. ERPs y CRMs.
+Tema 5. Marketing online. SEO. Gamificación.
+Tema 6. Pago electrónico.
+Tema 7. Tendencias (social e-commerce, social marketing,
+etc.)
+
+Prácticas
+
+Práctica 1. Descripción de productos y
+logística.
+Práctica 2. Implementación básica de
+e-Commerce en la nube.
+Práctica 3. Prestashop.
+Práctica 4. Addons (SEM, SEO, plataformas de
+pago,...).
+ 
+'

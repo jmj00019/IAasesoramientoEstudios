@@ -1,0 +1,175 @@
+'
+
+Bloque Temático A: Elasticidad
+Bloque Temático B: Resistencia de Materiales
+Bloque Temático C: Métodos Clásicos de
+Análisis Estructural
+
+
+
+Bloque Temático A: ELASTICIDAD
+
+
+TEMA I.- Introducción a la Elasticidad
+
+
+Introducción a la Mecánica de los Medios
+  Continuos
+El Sólido Elástico y sus Propiedades
+Hipótesis y Principios de la Elasticidad
+
+
+TEMA II.- Tensiones
+
+
+El Concepto de Tensión
+Ecuaciones de Equilibrio
+Tensiones Principales. Propiedades Invariantes
+Tensión Plana
+Representación Gráfica de Tensiones.
+  Círculos de Mohr
+
+
+TEMA III.- Deformaciones
+
+
+Introducción. Cambios de Volumen y Cambios de
+  Forma
+El Concepto de Deformación
+El Tensor de Deformaciones. Propiedades
+Ecuaciones de Compatibilidad
+Deformación Plana
+
+
+TEMA IV.- Relación Tensión -
+  Deformación
+
+
+El Ensayo de Tracción
+Deformación Transversal. Coeficiente de Poisson
+Relación Tensión - Deformación. Ley de
+  Hooke
+
+
+TEMA V.- El Planteamiento Energético de la
+  Elasticidad
+
+
+Introducción. Energía de
+  Deformación
+Expresiones de la Energía de Deformación
+Criterios de Plastificación. Tensión de von
+  Mises
+Teoremas energéticos
+
+
+
+Bloque Temático B: RESISTENCIA DE
+  MATERIALES
+
+
+TEMA VI.- Conceptos Básicos de la Resistencia de
+  Materiales
+
+
+Introducción
+Definición de los esfuerzos en la sección
+Principios generales de la Resistencia de materiales
+Equilibrio externo y en la sección
+Tipos de apoyos. Reacciones en los apoyos
+Sistemas isostáticos e hiperestáticos
+
+
+TEMA VII.- Tracción y Compresión
+
+
+Tensiones por tracción o compresión
+  monoaxial
+Leyes y diagramas de esfuerzos axiles
+Deformaciones producidas por el esfuerzo axil
+Estudio de la tracción o compresión producida
+  por el peso propio
+
+
+TEMA VIII.- Torsión
+
+
+Torsión Pura. Torsión en prismas de
+  sección circular
+Determinación de Momentos Torsores
+
+
+TEMA IX.- Teoría General de la
+  Flexión
+
+
+Flexión Simple. Ley de Navier
+Relación entre el esfuerzo Cortante y el Momento
+  Flector
+Leyes y diagramas de momentos flectores y esfuerzos
+  cortantes
+Análisis de las diez vigas elementales
+Tensiones producidas por el esfuerzo Cortante. Teorema de
+  Collignon
+Tensiones principales y tensión de von Mises en
+  Flexión
+
+
+TEMA X.- Deformaciones Producidas por la
+  Flexión
+
+
+Ecuación Diferencial de la Elástica
+Método de la doble Integración
+Teoremas de Mohr en Flexión
+Deformación producida por el Esfuerzo Cortante
+Secciones compuestas por más de un material
+
+
+TEMA XI.- Flexión Esviada y Compuesta
+
+
+Introducción
+Flexión esviada. Eje Neutro
+Deformación producida en Flexión esviada
+Flexión Compuesta o Tracción/Compresión
+  Excéntrica. Centro de Presiones
+Eje Neutro y Núcleo Central en Flexión
+  Compuesta
+
+
+TEMA XII.- Flexión Lateral o Pandeo
+
+
+Introducción. Estabilidad de Columnas
+Fórmula de Euler
+Carga Crítica según la sustentación.
+  Longitud de Pandeo
+
+
+
+Bloque Temático C: MÉTODOS CLÁSICOS
+  DE ANÁLISIS ESTRUCTURAL
+
+
+TEMA XIII.- Métodos clásicos de
+  análisis estructural
+
+
+Introducción al Cálculo de Estructuras
+Estructuras articuladas. Celosías
+  isostáticas
+Estructuras articuladas. Celosías
+  hiperestáticas
+
+
+
+PRÁCTICAS
+
+Se realizarán cinco prácticas que
+versarán sobre aspectos relacionados con los temas
+desarrollados en los contenidos del curso. Para cada una de ellas
+el alumno deberá entregar un informe con la
+resolución de la práctica propuesta en los
+términos que se detallen en cada caso.
+'

@@ -1,0 +1,60 @@
+'
+
+Unidad Didáctica I: Marco conceptual de la
+Enfermería para la salud de la comunidad.
+Unidad Didáctica II: Medición y análisis de
+la salud de la comunidad.
+Unidad didáctica III: Situación actual en nuestro
+entorno de los principales problemas de salud de la comunidad.
+
+Unidad didáctica I: Marco conceptual de la
+Enfermería para la salud de la comunidad.
+Tema 1. Introducción a la Enfermería Familiar y
+Comunitaria.
+1. Enfermería para la salud de la comunidad.
+2. Enfermería y epidemiología.
+Unidad didáctica II: Medición y análisis de
+la salud de la comunidad desde una perspectiva enfermera.
+Tema 2. Medición de la salud de la comunidad.
+1. Medidas de frecuencia.
+2. Medidas de mortalidad. Ajuste de tasas.
+3. Demografía Sanitaria.
+4. La calidad de vida relacionada con la salud.
+5. Otros indicadores de uso más frecuente en
+Enfermería Comunitaria.
+Tema 3. El diagnóstico de salud de la comunidad.
+1. Planificación sanitaria.
+2. Análisis de la situación de salud.
+3. Priorización de los problamas de salud.
+Tema 4. Recursos de búsqueda de información sobre
+indicadores de salud de la comunidad.
+1. La búsqueda de información en bases de datos
+bibliográficas.
+2. La búsqueda de información en portales
+especializados de Internet.
+Tema 5. Causalidad y diseños básicos de
+investigación en Enfermería Familiar y Comunitaria.
+1. Causalidad, precisión y validez de un estudio de
+investigación enfermera.
+2. Diseños básicos de investigación en
+Enfermería Comunitaria.
+* Diseños descriptivos.
+* Diseños analíticos.
+* Diseños experimentales.
+Unidad didáctica III: Situación actual en nuestro
+entorno de los principales problemas de salud de la
+comunidad.
+Tema 6. Bases para la atención de Enfermería
+Familiar y Comunitaria en las enfermedades transmisibles.
+1. Introducción.
+2. Magnitud, trascendencia y factores determinantes del
+riesgo.
+3. Recursos especializados en Internet.
+Tema 7. Bases para la atención de Enfermería
+Familiar Comunitaria en los problemas de alta mortalidad y alta
+prevalencia.
+1. Introducción.
+2. Magnitud, trascendencia y factores determinantes del
+riesgo.
+3. Recursos especializados en Internet.
+'

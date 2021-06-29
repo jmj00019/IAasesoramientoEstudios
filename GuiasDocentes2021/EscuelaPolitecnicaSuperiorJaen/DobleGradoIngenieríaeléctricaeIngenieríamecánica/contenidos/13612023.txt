@@ -1,0 +1,121 @@
+'
+
+Introducción y estática de la partícula
+Estática del sólido, estructuras y
+máquinas
+Momentos de primer y segundo orden
+Aplicaciones del rozamiento y aspectos energéticos
+Fundamentos de la dinámica del sólido
+
+BLOQUE 1.
+
+TEMA 1. Introducción a la mecánica
+vectorial.
+1.1. La mecánica en la Ingeniería. Técnicas
+para detectar errores. Precisión en los cálculos.
+1.2. Sistema de unidades SI, reglas ISO asociadas. Relaciones
+trigonométricas básicas.
+
+TEMA 2. Estática de la
+partícula.
+2.1. Suma y descomposición de fuerzas en problemas 2D y
+3D.
+2.2. Equilibrio y primera ley de Newton.
+BLOQUE 2.
+
+TEMA 3. Efecto mecánico de las fuerzas
+sobre un sólido. Sistema de fuerzas.
+3.1. Efecto mecánico de una fuerza sobre un
+sólido. Momento de una fuerza.
+3.2. Par de fuerzas.
+3.3. Sistemas de fuerzas equivalentes; Reducción de
+sistemas de fuerzas sobre un sólido.
+
+TEMA 4. Estática del sólido
+rígido.
+4.1. Equilibrio del sólido rígido en tres
+dimensiones.
+4.2. Equilibrio en problemas planos.
+4.3. Métodos específicos para equilibrio de
+sólidos con fuerzas en dos puntos; y en tres puntos.
+4.4. Cálculo de la resultante de las fuerzas internas en
+una sección del sólido.
+
+TEMA 5. Estática de sistemas
+mecánicos: Estructuras y Máquinas.
+5.1. Sistemas en equilibrio formados por enlace de distintos
+sólidos.
+5.2. Análisis de fuerzas en Máquinas y
+Entramados.
+5.3. Fundamentos del análisis de estructuras
+articuladas.
+BLOQUE 3.
+
+TEMA 6. Centro de gravedad, de masas y
+centroides.
+6.1. Centro de gravedad de un sólido.
+6.2. Momentos de primer orden. Cálculo de centroides.
+6.3. Aplicaciones de los momentos de primer orden.
+
+TEMA 7. Momentos de inercia de superficies
+planas.
+7.1. Momentos de segundo orden o de inercia.
+7.2. Productos de inercia. Ejes principales de inercia.
+7.3. Aplicaciones del Círculo de Mohr.
+7.4. Introducción a las aplicaciones de los momentos de
+inercia en el cálculo de resistencia de un elemento
+estructural.
+
+TEMA 8. Momentos de inercia de masas.
+8.1. Momentos de segundo orden de masa. Momentos de inercia
+respecto a un eje.
+8.2. Introducción a los ejes principales y elipsoide de
+inercia.
+BLOQUE 4.
+
+TEMA 9. Rozamiento seco. Aplicaciones.
+9.1. Rozamiento seco o de Coulomb.
+9.2. Rozamiento en cojinetes, en roscas y resistencia a la
+rodadura.
+9.3. Análisis estático de ruedas.
+
+TEMA 10. Energía y equilibrio.
+10.1. Principio de los trabajos virtuales.
+10.2. Rendimiento mecánico.
+10.3. Energía potencial y equilibrio.
+BLOQUE 5.
+
+TEMA 11. Dinámica de la
+partícula.
+11.1. Conceptos básicos sobre Cinemática.
+11.2. Conceptos básicos sobre Cinética.
+11.3. Energía mecánica.
+
+TEMA 12. Mecánica de los sistemas de
+partículas.
+12.1. Movimiento impulsivo y choques entre
+partículas.
+12.2. Mecánica de los sistemas de partículas.
+
+TEMA 13. Dinámica del sólido
+rígido.
+13.1. Conceptos fundamentales de la cinemática del
+sólido.
+13.2. Dinámica del sólido en movimiento plano.
+
+Contenido de clases en
+grupos de prácticas: Consisten en 5 sesiones de dos
+horas presenciales:
+ Pr.1: Resolución de ejercicios de Estática
+de la partícula y momentos de fuerzas.
+Pr.2: Ejercicios de reducción de sistemas de fuerzas y
+estática del sólido.
+Pr.3: Ejercicios de cálculo de reacciones y fuerzas en
+sistemas mecánicos.
+Pr.4: Medida in situ y cálculo de momentos de inercia
+de la sección transversal de viga compuesta real.
+Pr.5: Comprobación experimental de la rigidez y
+resistencia de probetas de vigas sometidas a flexión, en
+relación con los momentos de inercia de su sección
+transversal.
+'

@@ -1,0 +1,87 @@
+'
+
+Diseño de la interacción. La interfaz de usuario.
+Usabilidad. Accesibilidad. Ingeniería de la usabilidad.
+Nuevos paradigmas de interacción.
+ 
+
+Descripción del programa teórico y práctico
+de la asignatura:
+
+Introducción a la IPO 
+  
+Interacción persona-ordenador
+Interfaces de usuario
+Disciplinas relacionadas con la IPO
+Usabilidad
+
+El factor humano 
+  
+Modelo de procesamiento
+Los sentidos
+El modelo de memoria
+El modelo mental
+
+Metáforas 
+  
+Metáforas verbales
+Metáforas visuales
+Metáfora del escritorio
+Metodología de creación de
+    metáforas
+Diseño de metáforas
+
+Estilos y paradigmas 
+  
+Estilos de interacción
+Paradigmas de interacción
+Comparación de los paradigmas de
+    interacción
+
+Ingeniería de la Interfaz 
+  
+Prototipos
+Análisis de tareas
+
+El diseño Gráfico 
+  
+Objetivos de un buen diseño de la interfaz
+Elementos morfológicos de la imagen
+Uso del color
+Técnicas de diseño gráfico
+Iconos
+
+Accesibilidad 
+  
+El diseño universal
+Tipos de discapacidades y soluciones
+Accesibilidad en la Web
+Comprobación de la accesibilidad
+
+Internacionalización 
+  
+Internacionalización y localización
+Elementos de la interfaz
+Escrituras
+Esquemas de codificación
+Zonas de internacionalización
+Modelo de internacionalización y
+    localización
+Guía técnica
+
+Evaluación 
+  
+El diseño centrado en el usuario
+La usabilidad
+La evaluación
+Métodos de evaluación
+Coste de la usabilidad
+
+Estándares y Guías de estilo 
+  
+Principios y directrices
+Estándares
+Guías de estilo 
+
+
+'

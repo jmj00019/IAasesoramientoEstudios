@@ -1,0 +1,73 @@
+'
+
+CONTENIDOS TEÓRICOS
+Unidad didáctica I: Electroterapia
+Unidad didáctica II: Laserterapia
+Unidad didáctica III: Ultrasonoterapia
+Unidad didáctica IV: Magnetoterapia
+Unidad didáctica V: Otras corrientes
+CONTENIDOS PRÁCTICOS
+Unidad práctica I: Electroterapia
+Unidad práctica II: Ultrasonoterapia
+Unidad práctica III: Laserterapia.
+Unidad práctica IV: Magnetoterapia
+
+CONTENIDOS TEÓRICOS
+Unidad didáctica I: Electroterapia
+Unidad didáctica II: Laserterapia
+Unidad didáctica III: Ultrasonoterapia
+Unidad didáctica IV: Magnetoterapia
+Unidad didáctica V: Otras corrientes
+CONTENIDOS PRÁCTICOS
+Unidad práctica I: Electroterapia
+Unidad práctica II: Ultrasonoterapia
+Unidad práctica III: Laserterapia.
+Unidad práctica IV: Magnetoterapia
+Unidad I: ELECTROTERAPIA
+   Tema 1. Generalidades en Electroterapia.
+   Tema 2. Corriente continua (Galvanismo,
+Iontoforesis, corrientes continuas interrumpidas
+-Diadinámicas y Träebert-).
+   Tema 3. Electroanalgesia (Fisiopatología del
+dolor; tipos de TENS).
+   Tema 4. Electroestimulación
+(Estimulación eléctrica neuromuscular: NMES y
+Corrientes rusas).
+  Tema 5. Electrodiagnóstico (Curvas Intensidad/
+Tiempo, Tratamiento electroterápico en parálisis
+periféricas).
+  Tema 6. Alta frecuencia (Onda corta, Microonda y
+Diatermia).
+UNIDAD II (LASERTERAPIA).
+  Tema 7. Láser.
+Unidad III: ULTRASONOTERAPIA.
+  Tema 8. Ultrasonidos.
+  Tema 9. Terapia combinada.
+Unidad IV: MAGNETOTERAPIA.
+  Tema 10. Magnetoterapia.
+Unidad V: OTRAS CORRIENTES
+  Tema 11. Microcorrientes, alto voltaje, biofeedback,
+ondas de choque,...).
+ 
+UNIDADES PRÁCTICAS
+Unidad práctica I (ELECTROTERAPIA)
+Práctica 1.- Corriente continua (Galvanismo e
+iontoforesis).
+Práctica 2.- Corriente continua interrumpida
+(Diadinámicas y Träebert).
+Práctica 3.- Electroanalgesia (Tipos de TENS).
+Práctica 4.- Interferenciales (Bipolares y
+Tetrapolares).
+Práctica 5.- Electroestimulación (NMES y
+corrientes rusas).
+Práctica 6.- Electrodiagnóstico (Curvas
+Intensidad/Tiempo).
+Práctica 7. Alta Frecuencia (Onda corta y Microonda).
+Unidad práctica II (ULTRASONOTERAPIA)
+Práctica 8.- Ultrasonidos y terapia combinada.
+Unidad práctica III (LASERTERAPIA)
+Práctica 9.- Láserterapia.
+Unidad práctica IV (MAGNETOTERAPIA)
+Práctica 10.- Magnetoterapia.
+ 
+'

@@ -1,0 +1,136 @@
+'
+
+Superficies de Referencia en Geodesia.
+Sistemas y Marcos de Referencia Terrestres.
+Transformaciones en Geodesia.
+Problemas geodésicos directo e inverso.
+Diseño, Cálculo, Compensación y
+Análisis estadístico de Redes Geodésicas.
+Modelos de Posicionamiento Geodésico por
+Satélites.
+Organismos Internacionales y Nacionales: IUGG, IAG, IGS, IGNE,
+etc.
+ 
+ 
+
+
+
+Tema
+1. Introducción a la Geodesia
+ Definición y ramas de la Geodesia.
+Relación con otras disciplinas. Organizaciones nacionales y
+colaboración internacional. Historia de la
+Geodesia. 
+
+Actividad
+práctica 1.   
+
+
+Tema 
+2. Superficies de Referencia en Geodesia 
+ Figura de la Tierra. Geoide, cuasigeoide,
+elipsoides. El elipsoide como superficie de referencia
+geométrica. Geodésicas y secciones normales. Radios
+de curvatura. Coordenadas cartesianas, geodésicas, en una
+proyección. Coordenadas globales y coordenadas locales.
+Conversión de coordenadas. El Geoide como superficie de
+referencia altimétrica. Nivel Medio del Mar. Altitudes.
+Conversión de altitudes. Datum horizontal y
+datum vertical. Cambio de datum. 
+
+
+Ejercicios
+  prácticos 2.
+
+
+
+Tema 
+3. Sistemas y Marcos de Referencia
+ Principales Conceptos: CRS, CRF, TRS, TRF.
+ICRF. ITRS e ITRFyy. Transformaciones entre marcos. ETRS89 y
+ETRFyy. WGS84 y sus realizaciones. Organizaciones y Servicios:
+NIMA, IERS, IGS, EUREF, IGE,...
+
+
+Ejercicios prácticos 3
+.
+
+
+
+Tema 4 .
+Posicionamiento Geodésico
+ Posicionamiento absoluto. Posicionamiento
+tridimensional relativo. Posicionamiento horizontal relativo en el
+elipsoide de referencia. Posicionamiento horizontal relativo en un
+plano conforme. Posicionamiento vertical relativo. 
+
+
+Ejercicios
+  prácticos 4. 
+
+
+
+Tema 
+5. Redes Geodésicas
+ Definición de red geodésica.
+Tipos de redes geodésicas. Fases para el establecimiento de
+una red geodésica. Redes nacionales: IBERIA95, REGENTE,
+BALEAR98, REGCAN95, ROI. Red española de nivelación
+de alta precisión: REDNAP. 
+
+
+Práctica
+  GPS de campo. 
+
+
+
+Tema 
+6. Ajuste de Redes Geodésicas
+ Modelo matemático de ajuste de una
+red vertical. Modelo matemático de ajuste de una red
+horizontal en el elipsoide. Modelo matemático de ajuste de
+una red horizontal en el plano de una proyección conforme.
+Modelo matemático de ajuste de una red tridimensional.
+Ajuste secuencial. Ajuste de redes libres.
+
+
+Ejercicios prácticos 6
+. 
+
+
+
+Tema  7. Análisis de Redes Geodésicas
+ Hipótesis lineal general. Contraste
+global del modelo. Contraste de normalidad de residuos. Test de
+Pope. Test de Baarda. Fiabilidad de redes
+geodésicas. 
+
+
+Ejercicios
+  prácticos 7. 
+
+
+
+Tema 8. Posicionamiento Geodésico por
+Satélites
+ Introducción al posicionamiento por
+satélites. Modelos matemáticos de posicionamiento.
+Ajuste de modelos matemáticos. Transformación de
+resultados. 
+
+
+Ejercicios
+  prácticos 8. 
+
+
+
+Tema 
+9. Organismos Internacionales y Nacionales: IUGG, IAG, IGS, IGN,...
+ IUGG, IAG, IERS, IGS, IGN. Otros.
+
+
+Actividad
+    práctica 2. Conferencia.
+
+
+'

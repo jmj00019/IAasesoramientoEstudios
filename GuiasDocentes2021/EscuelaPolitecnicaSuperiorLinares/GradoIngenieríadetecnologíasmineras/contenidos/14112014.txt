@@ -1,0 +1,338 @@
+'
+
+BLOQUE I. La información Geológico - Minera.
+BLOQUE II. Técnicas de la Prospección
+Geoquímica. BLOQUE III. Técnicas de muestreo. Toma,
+preparación y el análisis de las muestras
+(análisis químicos y ensayos mineralógicos).
+BLOQUE IV. El estudio de la Anomalía
+Geoquímica. BLOQUE V. Geoquímica Ambiental.
+
+
+BLOQUE I. LA INFORMACIÓN
+  GEOLÓGICO-MINERA.
+
+
+TEMA 1.- INTRODUCCIÓN A LA
+PROSPECCIÓN GEOQUÍMICA. CONCEPTOS GENERALES.
+Definición y alcance de la prospección
+geoquímica en la investigación minera. Conceptos de
+yacimiento mineral, criadero, recurso, premisa de rentabilidad.
+Fases de un proyecto de investigación minera. Fase I,
+exploración regional. Fase II, exploración local.
+Fase III, estudio económico. Objetivos y estrategias en la
+prospección, fase informativa, prospección
+preliminar, prospección sistemática, reconocimiento y
+valoración.
+
+TEMA 2.- LA INFORMACIÓN
+GEOLÓGICA-MINERA. Adquisición de la
+información. Tipología de la información.
+Bibliografía general, estudios, base topográfica,
+base geológica, base
+geológica-minera.Teledetección y fotogeología.
+Sensores remotos. Infrarrojo térmico. Radar. Fuentes de
+adquisición de la información.
+
+TEMA 3.- INDICIOS Y DEPÓSITOS MINEROS.
+Reconocimiento del indicio minero. Concepto de depósito
+mineral, indicio mineral. Metalotecto, definición.
+Metalotectos positivos y negativos. Escala de metalotectos. Tipos,
+climáticos, estratigráficos, litológicos,
+etructurales, mineralógicos, geoquímicos,
+geomorfológicos, biológicos, geofísicos. Ficha
+metalogenética para depósitos y para indicios
+mineros, según la normativa del Instituto Geológico y
+Minero de España. Tipología de indicios mineros.
+Casos prácticos de la Hoja metalogenética a escala
+1:200.000 de Morón de la Frontera, Algeciras y
+Sigüenza.
+
+TEMA 4.- MAPA METALOGENETICO. Aspectos que se
+contemplan en la elaboración de un mapa
+metalogenético. Sustancias metalogenéticas. Normativa
+del Instituto Geológico y Minero de España. Casos
+prácticos del mapa metalogenético a escala 1:200.000
+de Morón de la Frontera, Algeciras y Sigüenza.
+
+BLOQUE II. TÉCNICAS DE LA PROSPECCIÓN
+  GEOQUÍMICA.
+
+
+TEMA 5.- CAMPAÑA DE PROSPECCIÓN.
+Programación de un estudio de prospección
+geoquímica. Trabajos de superficie
+geologo-mineralógicos: Prospección de sedimentos
+incoherentes. Prospección de cantos rodados.
+Prospección de sedimentos de río (aluvionares).
+Prospección de placeres (mineralometría).
+Prospección aluvionar. Indicadores. Toma de muestras: En
+suelos, en rocas y en sedimentos de arroyos.
+
+TEMA 6.- INVESTIGACIÓN DE INDICIOS
+METALIZADOS EN SUPERFICIE. Labores de reconocimiento: Rozas
+mineras. Calicatas mineras, casos prácticos del oro de la
+Codosera y de las diatomitas de Vejer. Trincheras. Pozos.
+Galerías. Socavones. Criterios para la toma de muestras en
+calicatas. Prospección geoquímica de rocas
+(litogeoquímica). Concepto de la ley media. Potencia de capa
+o filón y potencia reducida.
+
+TEMA 7.- PROSPECCIÓN GEOQUÍMICA.
+Prospección geoquímica. Conceptos básicos en
+prospección geoquímica. Asociación de
+elementos. Dominio de dispersión. Halos y aureolas de
+dispersión. Dispersiones primarias, singenéticas y
+epigenéticas. Morfología de las dispersiones
+primarias. Fenómenos de alteración. Las alteraciones
+como guía de prospección. Dispersiones y
+anomalías secundarias, singenéticas y
+epigenéticas. Morfología de las dispersiones
+secundarias. Movilidad de los elementos indicadores. Reconocimiento
+cualitativo y cuantitativo de los elementos traza. Elemento
+trazador. Prospección geoquímica de suelos.
+Fundamento del método. Definición de suelo.
+Componentes del suelo. Dinámica de los elementos traza del
+suelo y química del suelo. Origen de elementos traza en
+suelos. Suelos urbanos. Práctica de la prospección
+geoquímica de suelos. Determinación del horizonte del
+suelo a desmuestrar. Caracterización de los suelos.
+Elaboración de la ficha de campo para la toma de muestras
+(ficha de exploración sitemática). Casos
+prácticos del oro de la Codosera y de las diatomitas de
+Vejer.
+
+TEMA 8.- OTROS MÉTODOS DE
+PROSPECCIÓN. DE AGUAS, DE VEGETALES, DE GASES.
+Prospección geoquímica en aguas
+(hidrogeoquímica). Prospección geoquímica en
+vegetales; Método geobotánico y biogeoquímico.
+Prospección de gases; emanometría.
+
+BLOQUE III. LA TOMA, PREPARACIÓN Y EL
+  ANÁLISIS DE LAS MUESTRAS.
+
+
+TEMA 9.- TOMA, PREPARACIÓN Y
+ANÁLISIS DE MUESTRAS. Consideraciones generales.
+Caracterización del estado del terreno. Toma de muestras en
+la campaña piloto. Método e instrumentación.
+Preparación física de la muestra: Secado,
+homogeneización, cuarteo, tamizado. Preparación y
+ataque químico de la muestra. Ataque por vía
+húmeda mediante digestión ácida.
+Método; material utilizado, reactivos, procedimiento.
+Propiedades de los reactivos utilizados (ácidos minerales),
+ácido fluorhídrico, ácido perclórico,
+ácido nítrico, ácido clorhídrico.
+Elección de la técnica analítica (ICP-AES).
+Caso concreto de los suelos del sector minero de Linares.
+
+TEMA 10.- MÉTODOS DE ANÁLISIS.
+Análisis cualitativos: Estudios microscópicos; luz
+transmitida, luz reflejada, lupa binocular.Análisis
+cuantitativos: Análisis químicos,
+introducción, aplicación al análisis de
+elementos traza en suelos y sedimentos. Colorimetría.
+Procedimientos de puesta en solución de las muestras;
+digestiones con ácidos minerales, fusiones.
+Espectrometría de absorción atómica (AAS);
+instrumentación, sistemas de atomización (vapor
+frío, generador de hidruros, horno de grafito).
+Espectrometría de emisión de emisión
+atómica de plasma (ICP-AES), instrumentación.
+Espectrometría de masas con fuente de excitación
+(ICP-MS). Espectrometría atómica; absorción
+atómica. Fluorescencia de Rayos X. Microsonda
+electrónica.
+
+BLOQUE IV. EL ESTUDIO DE LA ANOMALÍA
+  GEOQUÍMICA.
+
+
+TEMA 11.- NOCIONES DE
+ESTADÍSTICA.Introducción. Estadística
+descriptiva e inferencial, población, muestra,
+carácter estadístico, la variable estadística,
+frecuencia absoluta, absoluta acumulada, frecuencia relativa,
+relativa acumulada, tratamiento de la información,
+representaciones gráficas. Tabla de frecuencias e
+histograma. Estadísticos elementales; de posición
+central, de dispersión y de forma: Media, mediana, moda,
+varianza, desviación estándar, rango, coeficiente de
+asimetría, coeficiente de aplastamiento (curtosis),
+coeficiente de variación, error estándar.
+Distribuciones bidimensionales. Concepto de la teoría de
+probabilidades.
+
+TEMA 12.- APLICACIÓN DE LA
+METODOLOGÍA DE VISMAN EN EL DISEÑO DE MUESTREO EN LA
+PROSPECCIÓN GEOQUÍMICA DE SUELOS.
+Introducción. Metodología de Visman; varianza de
+composición, varianza de distribución, varianzas de
+preparación y análisis. Aplicación de la
+formulación de Visman en el muestreo de suelos. Caso
+práctico de la aplicación de la formulación de
+Visman en el muestreo de suelos en el sector minero de Linares;
+interpretación de los resultados, conclusiones,
+diseño de la campaña de muestreo en la fase
+preliminar, diseño de la campaña de muestreo en la
+fase de detalle.
+
+TEMA 13.- ESTRUCTURACIÓN NUMÉRICA DE
+LA INFORMACIÓN GEOLÓGICO-MINERA. Conceptos. La
+distribución normal y sus procesos generadores, ejemplos. La
+distribución lognormal y sus procesos generadores, ejemplos.
+Reconocimiento de normalidad en una distribución.
+Obtención de parámetros estadísticos
+representativos de una distribución (de posición, de
+dispersión y de forma). Test de normalidad.
+Representación de los datos sobre papel
+probabilístico, recta de Henry.
+
+TEMA 14.- TRANSFORMACIONES EVOLUTIVAS DE LA
+ESTRUCTURACIÓN NUMÉRICA GEOLÓGICA MINERA.
+Distribuciones resultantes de procesos de removilización.
+Transformaciones numéricas en ambiente sedimentario:
+Removilización selectiva. Removilización no selectiva
+(mixta). Transformaciones numéricas en ambiente
+metamórfico, removilización. Distribuciones
+resultantes de procesos de superposición. Deducción
+de distribuciones originarias a partir de poblaciones
+transformadas.
+
+TEMA 15.- ESTRUCTURACIÓN GEOMÉTRICA
+DE LA INFORMACIÓN GEOLÓGICO MINERA. La
+estructuración geométrica de la información
+geológica. Clarke de la corteza, Clarke de los elementos
+minoritarios en las rocas ígneas y sedimentarias.
+Determinación de la componente informativa local.
+Determinación de la componente informativa de fondo.
+Determinación de la anomalía. Umbral de
+anomalía. Caso concreto de los suelos del sector minero de
+Linares.
+
+TEMA 16.- RECONOCIMIENTO DE UNA ANOMALÍA
+GEOQUÍMICA. AUTOCORRELACIÓN ESPACIAL. Anomalía
+geoquímica. Criterios de reconocimiento: Técnicas de
+análisis univariante de los datos; criterio convencional,
+gráficos probabilísticos. Técnicas de
+análisis multivariante de los datos; análisis de
+agrupamiento, análisis factorial. Caso de los suelos del
+sector minero de Linares.
+
+TEMA 17.- INTRODUCCIÓN A LA
+GEOESTADÍSTICA. Variables regionalizadas. Variogramas.
+Krigeaje. Aplicaciones de la geoestadística en la
+prospección y explotación de minas.
+
+BLOQUE V. GEOQUÍMICA AMBIENTAL.
+
+
+TEMA 18.- GEOQUÍMICA AMBIENTAL. Suelos
+contaminados. Caracterización del estado del terreno.
+Secuenciación de los objetivos: fase previa, segunda fase,
+fase final. Calidad de los datos en función del objetivo.
+Exactitud y precisión. Requisitos de calidad en cada fase.
+Aislamiento y técnicas de inmovilización.
+Descontaminación de suelos in situ o ex situ; tecnicas
+mineralúrgicas para el lavado de suelos. Recuperación
+de suelos. Biorrecuperación de suelos. Futuras líneas
+de actuación en el sector minero de Linares.
+
+PROGRAMA DE PRÁCTICAS
+
+
+PRÁCTICA 1.- TIPOLOGÍA DE
+INDÍCIOS Y DEPÓSITOS MINEROS QUE SE CONTEMPLAN EN EL
+MAPA METALOGENÉTICO. Objetivo: Revisión de los tipos
+de sustancias que son objeto del mapa metalogenético,
+así como la tipología de indicios y depósitos.
+Ejemplos prácticos. Material: - Base topográfica. -
+Base geológica. - Base metalogenética. - Normativa
+del Instituto Tecnológico Geominero de España. -
+Modelos de fichas.
+
+PRÁCTICA 2.- RECONOCIMIENTO DE
+INDÍCIOS Y DEPÓSITOS EN EL CAMPO. ELABORACIÓN
+DE FICHAS METALOGENÉTICAS PARA DIVERSOS INDÍCIOS.
+ELABORACIÓN DE FICHA DE RIESGOS Y SEGURIDAD MINERA Y
+MEDIOAMBIENTAL. Objeto: Reconocimiento de diversos tipos de
+indicios mineros y depósitos en el sector minero de Linares,
+elaborando las correspondientes fichas metalogenéticas.
+Material: - Base topográfica. - Base geológica. -
+Base metalogenética. - Fotografía aérea. -
+Modelo de ficha metalogenética. - Brújula. - Martillo
+de geólogo. - Linterna. - Cinta métrica. -
+Flexómetro. - Cámara fotográfica. - Cuaderno
+de campo. - Material de dibujo.
+
+PRÁCTICA 3.- TOMA DE MUESTRAS.Objeto:
+Realización de diversas metodologías de toma de
+muestras en el campo para los diversos tipos de prospección
+geoquímica. 3.1.- Muestras de suelos. Mediante Pocillos y
+con el tornillo tomamuestras. 3.2.- Muestras de roca.
+(filón, hastial, escombrera, afloramiento, etc). 3.3.-
+Muestra de sedimento de arroyo. (Batea). Material: - Bolsas
+tomamuestras. - Martillo de geólogo y maza. - Cincel. -
+Azada. - Tornillo tomamuestras. - Batea china.
+
+PRÁCTICA 4.- PREPARACIÓN DE LAS
+MUESTRAS. Objeto: Conocer los procesos que se requieren para la
+preparación de las muestras, para los diversos tipos de
+análisis y estudios. Pesada, cuarteo, machaqueo, molienda,
+tamizado, lavado, elaboración de láminas delgadas y
+probetas pulidas, etc. Material: - Peso. - Cuarteador. -
+Machacadora de mandíbulas. - Molino de bolas. - Tamizador y
+tamices. - Sierra para corte de láminas y probetas.
+
+PRÁCTICA 5.- ANÁLISIS CUALITATIVO.
+Objeto: Reconocimiento de diversas muestras de láminas
+delgadas, probetas pulidas y concentrados, para su estudio por
+diversas técnicas de microscopía. Estudio
+microscópico con luz transmitida de láminas delgadas
+sobre litologías del sector minero de Linares.
+(Reconocimiento de menas metálicas y opacos). Estudio
+microscópico con luz reflejada de probetas pulidas de menas
+metálicas de sulfuros, óxidos, carbonatos, etc.
+(Paragénesis del sector minero de Linares). Estudio
+microscópico con lupa binocular. Reconocimiento de
+concentrados de batea, (óxidos, sulfuros, carbonatos, etc).
+Material: - Microscopio de luz transmitida. - Microscopio de luz
+reflejada. - Lupa binocular. - Muestras.
+
+PRÁCTICA 6.- ANÁLISIS
+CUANTITATIVO.Objeto: Conocimiento por parte del alumno de los
+diversos tipos de análisis de muestras y aparatos. En el
+laboratorio de Química de la Escuela, se describe el
+espectrofotómetro de absorción atómica. Los
+datos del laboratorio se representan en papel
+probabilístico. Material: - Muestras. -
+Espectrofotómetro de absorción atómica. -
+Papel probabilístico. - Material diverso de escritorio.
+
+PRÁCTICA 7.- ANÁLISIS UNIVARIANTE DE
+LOS DATOS. Objeto: A partir de diversos análisis
+químicos de diferentes elementos de diversas campañas
+geoquímicas, el alumno ha de determinar mediante
+técnicas de análisis univariante el tipo de
+distribución, calcula los estadísticos de
+centramiento, dispersión y de forma. En un papel
+probabilístico representa la función para determinar
+la existencia de una o más poblaciones. Mediante el
+método convencional determina la componente de fondo, el
+umbral y la anomalía, interpretando los resultados. Con el
+ordenador y los programas estadísticos hace el tratamiento
+de los datos. Material: - Análisis químico de la
+campaña. - Papel probabilístico. - Material de
+escritorio. - Calculadora. - Ordenador y programas
+estadísticos.
+
+PRÁCTICA 8.- ANÁLISIS MULTIVARIANTE
+DE LOS DATOS. A partir de los datos de una campaña de
+suelos, el alumno aplica las técnicas de análisis
+multivariante, utilizando un ordenador personal y los programas
+SPSS, MINITAB, EXCEL. Material: - Análisis químico de
+la campaña. - Material de escritorio. - Calculadora. -
+Ordenador y programas estadísticos.
+'

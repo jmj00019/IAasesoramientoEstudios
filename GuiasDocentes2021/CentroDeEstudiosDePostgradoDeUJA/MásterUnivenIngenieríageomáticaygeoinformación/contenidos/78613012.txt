@@ -1,0 +1,39 @@
+'
+
+1. Dispositivos de E/S para realidad virtual. Algoritmos
+básicos para la interacción en sistemas de VR.
+Adaptación de tecnologías geoespaciales.
+2. Implantación de tecnologías de realidad
+aumentada. Adaptación a tecnologías geoespaciales.61
+/ 90
+3. Organización de modelos 3D. Aplicación a
+problemas geoespaciales.
+
+
+El proceso de generaciónd e imagen
+  sintética.
+Modelización 3D 
+  
+Esquemas de representación
+Construcción de modelos 3D
+Operaciones con modelos poligonales
+Organización de modelos 3D.
+
+Dispositivos de E/S para realidad virtual. 
+  
+Definición y evolución histórico de la
+    RV y AR
+Dispositivos de Entrada para RV
+Dispositivos de salida para RV
+
+Algoritmos básicos para la interacción en
+  sistemas de VR y AR 
+  
+Detección de colisión
+Sistemas de marcado
+Seguimiento de cámara
+
+Implantación de tecnologías de realidad
+  aumentada
+
+'

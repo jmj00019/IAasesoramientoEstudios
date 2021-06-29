@@ -1,0 +1,66 @@
+'
+
+El curso se iniciará con una presentación de las
+distintas Analogías
+electro-mecánica-acústicas, que dará lugar a
+una presentación de los distintos modeles de Altavoces y
+Bocinas. De manera similar, se presentarán las distintas
+tecnologías de Micrófonos. El último tema
+relacionado con Electroacústica será el diseño
+de cajas acústicas. Seguidamente, se verán los
+principios básicos de la Acústica de salas, con
+especial atención a los parámetros objetivos y
+subjetivos para caracterizar la calidad de la acústica de un
+recinto. Se presentarán también los principios de la
+Acústica Geométrica para la predicción de
+acústica de salas y la asignatura terminará con una
+presentación de conceptos básicos del Aislamiento y
+acondicionamiento Acústico.
+Palabras Básicas: Altavoces. Micrófonos.
+Acústica de salas, Acondicionamiento Acústico.
+Aislamiento.
+
+Además, se dotará al alumno de la capacidad para
+estar al día en las novedades en ciencia y
+tecnología, sobre todo en este tipo de materias, tan ligadas
+a un entono tan dinámico como son las telecomunicaciones, y
+en concreto las Tecnologías de Telecomunicación.
+El programa se divide en tres partes:
+
+TEORÍA Y PROBLEMAS:
+
+ TEMA 1. Transductores.
+ TEMA 2. Altavoces.
+ TEMA 3. Micrófonos.
+ TEMA 4. Acústica arquitectónica.
+ 
+
+PRÁCTICAS
+
+El bloque práctico de la asignatura se compone de
+prácticas en el laboratorio, y su carácter es
+obligatorio.
+El objetivo de las prácticas propuestas es la
+consecución de las competencias establecidas. Además,
+se desarrollarán habilidades de comunicación
+información, ideas, problemas y soluciones en el
+ámbito de ingeniería y la sociedad en general a
+través de procesos de entrega de documentación o
+presentaciones orales.
+Con respecto a la organización del trabajo, se
+fomentará la colaboración y trabajo en equipo a
+través del propio diseño de las prácticas.
+Los contenidos prácticos son los siguientes:
+Práctica 1. Analogías electroacústicas.
+Práctica 2. Procesado de audio espacial.
+Práctica 3. Separación de fuentes de audio en
+mezclas estéreo.
+Práctica 4. Medida de la impedancia eléctrica de
+entrada de un altavoz.
+Práctica 5. Medidas de parámetros en salas.
+Medidas de aislamiento acústico.
+
+SEMINARIOS
+
+Seminario 1. Simulación de sala con Roomsim
+'

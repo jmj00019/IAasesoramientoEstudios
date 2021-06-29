@@ -1,0 +1,123 @@
+'
+
+1. Fundamentos y teoría de sensores. Sensores
+analógicos y digitales.
+2. Redes de sensores (WSN). Sensores web. Arquitectura del
+sistema. Topología de red. Protocolos de
+comunicación.
+3. Integración de las redes de sensores en entornos
+SIG. Servicios web en dispositivos embebidos.
+4. Almacenamiento de la información.
+5. Desarrollo de aplicaciones SIG con datos adquiridos
+mediante sensores.
+
+
+
+Fundamentos
+  y teoría de sensores. Sensores analógicos y
+  digitales.
+
+
+Conceptos
+      generales y terminología.
+
+
+Tipos
+      de sensores.
+
+
+Características
+      estáticas y dinámicas.
+
+
+Sensores
+      inteligentes.
+
+
+Sistemas
+      de comunicación para sensores.
+
+
+
+
+R
+
+edes
+  de sensores (WSN). Sensores web. Arquitectura del sistema.
+  Topología de red. Protocolos de
+  comunicación.
+
+
+Conceptos
+      generales y terminología.
+
+
+Componentes
+      electrónicos programables y arquitectura del
+      sistema.
+
+
+Topología
+      de red: nodos y comunicaciones entre nodos.
+
+
+Protocolos
+      de comunicación.
+
+
+
+
+
+Integración
+  de las redes de sensores en entornos SIG. Servicios web en
+  dispositivos embebidos.
+
+
+Arquitectura
+      Orientada a Servicios.
+
+
+Marco
+      para los servicios web en dispositivos embebidos.
+
+
+
+
+
+Almacenamiento
+  de la información.
+
+
+
+
+Mecanismos
+      de almacenamiento de la
+      información.
+
+
+
+
+Servidores
+
+
+
+
+
+Desarrollo
+  de aplicaciones SIG con datos adquiridos mediante
+  sensores.
+
+
+Arquitecturas.
+
+
+Ejemplos
+      conexión indirecta SIG-Red de sensores.
+
+
+Ejemplos
+      conexión directa SIG-Red de sensores.
+
+
+
+'

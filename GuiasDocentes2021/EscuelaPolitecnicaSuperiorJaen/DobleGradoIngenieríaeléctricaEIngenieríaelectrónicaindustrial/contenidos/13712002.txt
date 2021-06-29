@@ -1,0 +1,63 @@
+'
+
+
+Revisión
+  de los conceptos básicos de Automatismos.
+
+
+Diseño
+  y codificación de automatismos complejos.
+
+
+Interfaz
+  gráfica de usuario. Sistemas SCADA.
+
+
+Sistemas
+  de control distribuido. Buses de Campo.
+
+ 
+
+
+                                                                                                                                                                              
+1 - INTRODUCCIÓN A LA AUTOMATIZACIÓN
+INDUSTRIAL
+Introducción
+Evolución histórica
+Arquitectura y componentes
+Tipos de Control Etapas de la
+automatización
+
+Ejemplos                                                    
+2 - SENSORES Y ACTUADORES
+Introducción
+Clasificación Sensores
+Conexionado Sensores
+Preactuadores Actuadores
+Cableado  
+3 - AUTOMATAS PROGRAMABLES (PLCs)
+4 - DISEÑO DE SISTEMAS DE CONTROL MEDIANTE PLCs
+5 - SISTEMAS DE CONTROL DISTRIBUIDO. BUSES DE CAMPO
+6 - SISTEMAS SCADA
+Introduccion a los programas
+Scada
+Entorno de programación
+gráfico
+Adquisición de datos del
+sistema controlado
+Control del proceso desde el programa
+Scada
+Gestión y explotación
+de los datos adquiridos por el Scada
+ 
+7- ROBOTICA
+       Introducción a la
+Robotica.
+       Configuraciones basicas
+PRACTICAS:
+
+Práctica 1. SCADAS
+Práctica 2. FUNCIONES
+Práctica 3. SCL
+
+'

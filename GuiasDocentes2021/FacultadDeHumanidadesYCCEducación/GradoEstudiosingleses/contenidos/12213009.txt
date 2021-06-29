@@ -1,0 +1,86 @@
+'
+
+1. INTRODUCCIÓN
+2. LA GRAMÁTICA TRADICIONAL: orígenes y elementos
+descriptivos.
+
+3.  EL ESTRUCTURALISMO. Ferdinand de Saussure. El
+Estructuralismo Americano.
+
+4.  GRAMÁTICA GENERATIVO-TRANSFORMACIONAL:
+orígenes, evolución, componentes y principales
+ramificaciones teóricas.
+
+5.  GRAMÁTICA SISTÉMICO-FUNCIONAL:
+orígenes, evolución y principales componentes
+teóricos.
+
+1. INTRODUCTION
+2. TRADITIONAL GRAMMAR
+2.1. Introduction
+2.2. The sound system
+2.3. The grammar system: accidence and syntax
+ 2.3.1. Morphology:
+ 2.3.1.1. Parts of speech: notional, morphological and
+functional definition
+ 2.3.2. Syntax:
+ 2.3.2.1. Syntactic units: words, phrases, clauses, and
+sentences
+ 2.3.2.2. Bipartite analysis of the sentence: subject and
+predicate
+ 2.3.2.3. Definition of sentence elements: form and function
+2.4. Representative traditional grammars of English and their
+authors
+3. STRUCTURAL LINGUISTICS
+3.1. Ferdinand de Saussure. Definition of structuralism
+3.2. American structuralism
+ 3.2.1. Origins and historical background
+ 3.2.2. Bloomfield
+ 3.2.2.1. The morpheme as the minimal unit of grammatical
+analysis
+ 3.2.2.2. Immediate Constituents Analysis
+ 3.2.3. Empiricism and behaviourism
+ 3.2.4. Predominance of form over meaning
+ 3.2.5. Definition of parts of speech
+ 3.2.5.1. Based on their morphological structure
+ 3.2.5.2. Based on their syntactic position: substitution
+test frames
+ 3.2.6. Sentence structure: patterns
+ 3.2.7. Some structural grammars of English and their authors
+3.3. Conclusion: modern linguistics
+4. GENERATIVE GRAMMAR
+4.1. Historical background and connection with structuralism
+4.2. Essentials of the theory
+4.3. Origins: Syntactic Structures and Aspects Models
+4.4. Basic concepts of Chomskyan linguistics nowadays:
+ 4.4.1. Universal Grammar
+ 4.4.2. The language faculty
+ 4.4.3. Competence
+ 4.4.4. I-Language and E-Language
+ 4.4.5. Principles-and-Parameters Theory
+4.5. Description of English syntax:
+ 4.5.1. Projections. Phrases and clauses.
+ 4.5.2. Intermediate and maximal projections. X-Bar Theory
+ 4.5.3. Syntactic relations
+ 4.5.4. Phrase-markers and tree diagrams
+4.6. Chomsky seminal monographs. Representative titles by
+other authors
+5. SYSTEMIC FUNCTIONAL GRAMMAR
+5.1. Halliday's conception of a systemic functional grammar.
+System and function
+5.2. Origins of the theory: Firth, Malinowski, and the Prague
+School. Further development
+5.3. Language and context:
+ 5.3.1. Context of culture: genre
+ 5.3.2. Context of situation: register
+ 5.3.2.1. Field, tenor, and mode
+5.4. Discourse semantics:
+ 5.4.1. Semantics: three types of meaning
+ 5.4.2. Discourse: the texture of texts: coherence and
+cohesion
+5.5. Lexico-grammar:
+ 5.5.1. Clause structure and its three systems: transitivity,
+mood, and theme.
+5.6. Outstanding Systemic Functional descriptions
+ 
+'

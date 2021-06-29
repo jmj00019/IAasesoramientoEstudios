@@ -1,0 +1,174 @@
+'
+
+
+ Convertidores CC/CC.
+Inversores CC/CA.
+Rectificadores CA/CC.
+Convertidores CA/CA.
+Corrección del factor de potencia.
+
+
+
+
+CONTENIDOS
+  TEÓRICOS: (Desarrollo de temas)
+
+
+
+Bloque
+1
+.
+Convertidores CA/CC
+
+ 
+  Tema 1. Fuentes de alimentación
+
+
+ 
+  Tema 2. Reguladores lineales y conmutados
+
+
+ 
+
+
+
+Bloque
+2
+.
+Convertidores CC/CC.
+
+
+ 
+Tema
+3
+.
+Convertidores Chopper, Buck y Boost.
+
+ 
+  Tema 4. 
+  Principios de control y
+  aplicaciones
+
+
+ 
+
+
+ 
+  
+  
+Bloque 3
+. Convertidores CC/CA.
+
+
+
+ 
+Tema
+5
+.
+Inversores.
+
+ 
+  Tema 6. 
+  Técnicas de control.
+  Aplicaciones en sistemas fotovoltaicos
+
+
+ 
+
+
+
+Bloque
+4
+.
+Convertidores CA/CA.
+
+
+ 
+Tema
+7
+.
+Convertidores de tensión monofásicos y
+trifásicos.
+
+ 
+  Tema 8. 
+  Cicloconvertidores
+
+
+  
+
+
+CONTENIDOS
+  PRÁCTICOS: (Desarrollo de
+  prácticas)
+
+
+Bloque
+  1: Programas de simulación electrónica y
+  prototipado
+
+
+Práctica
+  1. Introducción Pspice
+
+
+Práctica
+  2. Pspice Avanzado
+
+
+Bloque
+  2: Convertidores CA/CC
+
+
+Práctica
+  3. Fuentes lineales I
+
+
+Práctica
+  4. Fuentes lineales II
+
+
+Práctica
+  5. Fuentes conmutadas I
+
+
+Práctica
+  6. Fuentes conmutadas II
+
+
+Bloque
+  3: Convertidores CC/CC
+
+
+Práctica
+  7. Convertidores Buck y Boost I
+
+
+Práctica
+  8. Convertidores Buck y Boost I
+
+
+Bloque
+  4: Convertidores CC/CA
+
+
+Práctica
+  9. Inversores I
+
+
+Práctica
+  10. Inversores II
+
+
+Bloque
+  5: Convertidores CA/CA.
+
+
+Práctica
+  11. Cicloconvertidores I
+
+
+Práctica
+  12. Cicloconvertidores II
+
+'

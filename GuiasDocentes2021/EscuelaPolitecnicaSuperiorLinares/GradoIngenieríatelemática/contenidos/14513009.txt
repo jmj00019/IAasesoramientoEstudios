@@ -1,0 +1,99 @@
+'
+
+En esta asignatura se estudiarán los distintos algoritmos
+de encaminamiento y direccionamiento que se utilizan cuando se
+comunican distintos dispositivos móviles, que no cuentan con
+ningún tipo de infraestructura.
+En la parte práctica se simularan y analizaran alguno
+de los algoritmos anteriores, en diferentes escenarios de
+movilidad, como pueden ser las comunicaciones entre
+vehículos o las redes de sensores.
+Palabras clave: redes de sensores, ingeniería
+ambiental, computación ubicua, redes ad hoc.
+
+
+Contenidos desarrollados (Español)
+
+Esta asignatura aborda los conocimientos relacionados con las
+redes de datos a medida que se crean sin utilizar infraestructuras
+físicas fijas, las conocidas como redes ad-hoc. Se
+estudiarán las tecnologías más importantes
+dentro de las redes basadas en dispositivos móviles sin
+infraestructura o ad-hoc, abarcando aspectos como arquitecturas,
+protocolos de comunicaciones específicos, control de
+topología, direccionamiento y encaminamiento, así
+como los servicios típicos que se ofrecen en dichas
+redes.
+En la parte práctica se desplegarán y/o
+simularán ejemplos de redes basadas en dispositivos
+móviles sin infraestructura con objeto de analizar su
+comportamiento frente a diferentes escenarios de movilidad,
+densidad de tráfico, número de dispositivos, etc.
+Se trabaja con noticias de actualidad que proporcionan a los
+alumnos la capacidad para estar al día en las novedades en
+ciencia y tecnología, sobre todo en este tipo de materias,
+tan ligadas a un entorno tan dinámico como son las
+telecomunicaciones, y en concreto la Ingeniería
+Telemática.
+Palabras clave: movilidad, redes de sensores, redes de
+vehículos, Internet de las Cosas, redes ad hoc.
+ 
+
+Teoría
+
+
+Tema 1. Introducción a redes ad-hoc.
+Se dará una introducción a redes
+inalámbricas ad-hoc así como a los términos
+básicos comúnmente utilizados en estos entornos
+(MANET, Mobile Adhoc Network).
+
+Tema 2. Fundamentos de Redes Ad-hoc.
+Se recordarán brevemente conceptos,
+tecnologías, técnicas, protocolos y sistemas
+estudiados en otras asignaturas del grado que son utilizados por
+las redes ad-hoc constituyendo sus principios de
+funcionamiento.
+
+Tema 3. Protocolos de redes Ad-hoc.
+Se explicará cual es la arquitectura básica de
+una red ad-hoc basada en los protocolos propios de este tipo de
+redes como OLSR y AODV.
+
+Tema 4. Protocolo de enrutamiento AODV.
+Explicación y estudio detallado del RFC del protocolo
+AODV (Ad-Hoc On-Demand Distance Vector Routing protocol)
+Enrutamiento por vector de distancia bajo demanda en redes Ad
+hoc.
+
+Tema 5. Protocolo de enrutamiento OLSR.
+Explicación y estudio detallado del RFC del protocolo
+OLSR (Optimized Link State Routing protocol) Enrutamiento de
+estados de enlaces optimizado en redes Ad hoc.
+
+Tema 6. Redes Vanet (Vehicle Ad-hoc Network).
+Se estudiarán las redes vehiculares como caso especial
+de redes ad-hoc en las que las comunicaciones se establecen entre
+vehículos o entre vehículos y dispositivos de
+carretera.
+
+
+Prácticas
+
+Práctica 1. Red Ad hoc Windows y análisis
+Wireshark.
+Práctica en laboratorio relacionadas con la
+obtención y estudio de red ad hoc en entorno windows.
+
+Práctica 2. Red Ad hoc Linux y análisis
+Wireshark.
+Práctica en laboratorio relacionadas con la
+obtención y estudio de red ad hoc en entorno linux.
+
+Práctica 3. Simulaciones EJS.
+Diversas prácticas en laboratorio para tratar redes y
+protocolos MANET con el software Easy java Simulations
+
+Práctica 4. Introducción a NS3.
+Diversas prácticas en laboratorio con el SW NS3.
+'

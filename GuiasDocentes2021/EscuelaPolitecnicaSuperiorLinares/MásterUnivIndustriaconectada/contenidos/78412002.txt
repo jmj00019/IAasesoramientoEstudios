@@ -1,0 +1,82 @@
+'
+
+En esta asignatura el alumno
+entenderá la importancia y relevancia estratégica del
+área de producción/operaciones en una empresa y
+conocerá como se han de gestionar las decisiones clave
+relacionadas con la gestión de operaciones, tales como, la
+gestión de compras, la gestión de la calidad y la
+gestión de la cadena de suministro. Igualmente, se
+explicarán los aspectos clave de un sistema de
+gestión orientado a la eficiencia y la flexibilidad como es
+Lean Production. Los bloques que se abordarán en esta
+materia son:
+· Dirección
+Estratégica de las Operaciones.
+· Lean Production.
+· Gestión de compras y almacenes.
+· Gestión de cadena de suministro.
+· Gestión de la Calidad Total.
+
+1) Dirección Estratégica de las Operaciones
+
+Relevancia estratégica de
+  la dirección de operaciones
+Evolución sistemas
+  productivos
+Decisiones estratégicas en
+  el ámbito de las operaciones
+Medición resultados
+  área de operaciones
+
+2) Lean Production
+
+Origen, concepto y principios de
+  Lean Production
+Herramientas y prácticas
+  de gestión integradas en Lean Production
+El papel de los recursos humanos
+  en entornos lean
+El papel de las TICs en la
+  implantación de Lean Production
+
+3) Gestión de compras y almacenes
+
+El proceso de compras
+Selección y
+  evaluación de proveedores. Negociación
+Fundamentos de
+  logística
+Diseño y
+  organización de almacenes y políticas de
+  inventario
+El papel de las TICs en la
+  gestión de compreas y almacenes
+
+4) Gestión de la cadena de suministro
+
+Estrategia de Gestión de
+  Cadena de Suministro: Conceptualización y
+  Evolución
+Modelo para la Gestión de
+  la Cadena de Suministro
+Industria 4.0:
+  Caracterización tecnológica en el ámbito de
+  la cadena de suministro
+Impacto de la Industria 4.0 en
+  principios, prácticas, herramientas e indicadores de la
+  gestión de la cadena de suministro
+
+5) Gestión de la Calidad Total.
+
+Fundamentos y conceptos
+  básicos relacionados con la gestión de la calidad
+  total
+Herramientas para la
+  gestión de la calidad
+Control estadístico de
+  procesos
+Gestión de la calidad e
+  industria 4.0
+
+'

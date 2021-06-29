@@ -1,0 +1,218 @@
+'
+
+Bloque 1: CRISTALES METÁLICOS, SOLIDIFICACIÓN Y
+DIFUSIÓN. 
+Bloque 2: DIAGRAMAS DE EQUILIBRIO. 
+Bloque 3: MATERIALES METÁLICOS, CORROSIÓN.
+Bloque 4: MATERIALES NO METÁLICOS, MAGNÉTICOS Y
+ÓPTICOS. 
+Bloque 5: ENSAYOS DE MATERIALES 
+
+Bloque 1: CRISTALES
+METÁLICOS, SOLIDIFICACIÓN Y DIFUSIÓN.
+TEMA 1: LA CIENCIA DE LOS
+MATERIALES. LA ELECCIÓN DEL MATERIAL
+TEMA 2: ESTRUCTURA CRISTALINA Y
+AMORFA. 
+2.1. Estados de la materia. 2.2.
+Átomos y enlaces atómicos. 2.3. Sustancias
+cristalinas y amorfas. 2.4. Orden cristalino. 2.5. Red espacial y
+celdilla unitaria. 2.6. Sistemas cristalinos, redes de Bravais.
+2.7. Isomorfismo, polimorfismo y alotropía. 2.8. Estudio
+geométrico de las redes metálicas. 2.8.1.
+Empaquetamientos. 2.8.2. Número de coordinación.
+2.8.3. Factor de empaquetamiento. 2.8.4. Origen de las estructuras.
+2.8.4.1. Cúbica simple. 2.8.4.2. Cúbica centrada.
+2.8.4.3. Cúbica centrada en las caras. 2.8.5. Origen de los
+huecos. 2.8.5.1. Localización. 2.8.5.2. Medida de su espacio
+o tamaño. 2.9. Densidad teórica, lineal y
+superficial. 2.10. Índices de Miller: planos y direcciones.
+2.11. Índices de Miller-Bravais para las celdas unidad
+hexagonales: planos y direcciones.
+TEMA 3: IMPERFECCIONES
+CRISTALINAS.
+3.1. Influencia de los defectos.
+3.2. Grupos de defectos. 3.2.1. Vibraciones reticulares de origen
+térmico. 3.2.2. Puntuales. 3.2.3. Lineales. 3.2.4.
+Superficiales. 3.3. Clases de defectos puntuales: 3.3.1. Vacantes.
+3.3.2. Intersticios. 3.3.3. Impurezas. 3.3.4. Defecto de Frenkel.
+3.3.5. Defecto de Schottky. 3.4. Defectos lineales o dislocaciones.
+3.5. Defectos superficiales: 3.5.1. Empaquetamientos. 3.5.2.
+Maclas. 3.5.3. Defectos de empaquetamiento.
+TEMA 4: SOLIDIFICACIÓN Y
+DIFUSIÓN.
+Aleaciones 4.1.
+Introducción. 4.2. Fases de la cristalización. 4.3.
+Factores que regulan el proceso de cristalización. 4.4.
+Microestructura. 4.5. Solidificación en lingotes. 4.6.
+Defectos en la solidificación. 4.6.1. Heterogeneidades de la
+microestructura. 4.6.2. Heterogeneidades químicas y
+físicas. 4.7. Procesos de solidificación
+rápida (R. S. T.). 4.8. Características de los
+productos obtenidos por R. S. T. 4.9. Difusión.
+Introducción. 4.10. Mecanismos de difusión. 4.10.1.
+Mecanismo de difusión por vacantes o sustitucional. 4.10.3.
+Mecanismo de difusión intersticial. 4.10.3. Mecanismo de
+difusión de intercambio de átomos. 4.11.
+Energía de activación. 4.12. Concentración.
+Gradiente de concentración. 4.13. Tipos de difusión.
+4.14. Influencia del tiempo en la difusión. 4.15.
+Difusividad. 4.16. Leyes de Fick. 4.17. Ejemplos de
+difusión. Aplicaciones. 4.18. Metales puros y aleaciones.
+4.19. Constitución de las aleaciones. 4.20. Tipos de
+aleaciones. Composición. 4.21. Soluciones sólidas.
+Tipos. 4.22. Leyes de Hume-Rothery. 4.23. Fases intermedias. 4.24.
+Insolubilidad. 4.25. Propiedades de las soluciones sólidas.
+4.26. Determinación del tipo de solución
+sólida. 4.27. Soluciones sólidas ordenadas.
+Bloque 2: DIAGRAMAS DE
+EQUILIBRIO.
+TEMA 5: EQUILIBRIO DE SISTEMAS.
+DIAGRAMAS DE EQUILIBRIO. TRANSFORMACIONES FUERA DE EQUILIBRIO.
+5.1. Equilibrio de sistemas. 5.1.1.
+Sistema material: Componentes y fases. 5.1.2. Sistemas de
+equilibrio, factores de equilibrio y grados de libertad. 5.1.3.
+Regla de las fases (Ley de Gibbs). 5.2. Diagramas de equilibrio.
+5.2.1. Diagramas de equilibrio. Fases de un sistema. 5.2.2.
+Construcción de un diagrama de equilibrio. 5.2.3. Reparto de
+masas. Ley de la palanca. 5.2.4. Tipos de diagramas binarios
+según solubilidad. 5.2.5. Reglas de interpretación de
+los diagramas de equilibrio. 5.3. Transformaciones de fase de no
+equilibrio (punto de termodinámico). 5.3.1. Equilibrio
+metaestable. Enfriamiento de no equilibrio. 5.3.2.
+Segregación y cercado (Coring y Surrounding). 5.3.3.
+Precipitación y sobresaturación.
+Bloque 3: MATERIALES
+METÁLICOS, CORROSIÓN.
+TEMA 6: ALEACIONES FÉRREAS:
+ACEROS Y FUNDICIONES.
+6.1. Productos metalúrgicos.
+6.2. El hierro. Estados alotrópicos del hierro. 6.3. Formas
+comerciales del hierro. 6.4. Diagrama hierro-carbono. 6.5.
+Clasificación de las aleaciones hierro-carbono. 6.6.
+Constituyentes estructurales de equilibrio de los aceros. 6.6.1.
+Austenita. 6.6.2. Ferrita. 6.6.3. Cementita. 6.6.4. Perlita. 6.7.
+Influencia del carbono en las propiedades de los aceros. 6.8.
+Clasificación de los aceros. 6.9. Formas comerciales de los
+aceros. 6.10. Fundiciones. Diagrama hierro-grafito. 6.11.
+Constituyentes estructurales de las fundiciones. 6.11.1. Grafito.
+6.11.2. Steadita. 6.11.3. Ledeburita. 6.11.4. Ferrita. 6.11.5.
+Perlita. 6.12. Clasificación de las fundiciones. 6.12.1.
+Fundición blanca. 6.12.2. Fundición gris. 6.12.3.
+Fundición atruchada. 6.12.4. Fundición dúctil
+o con grafito esferoidal. 6.12.5. Fundición maleable.
+6.12.6. Fundición aleada.
+TEMA 7: ALEACIONES
+FÉRREAS:TRATAMIENTOS TÉRMICOS.
+7.1. Introducción. 7.2.
+Transformaciones de la austenita. 7.3. Transformaciones
+isotérmicas. Transformación martensítica. 7.4.
+Relación entre las curvas de enfriamiento y el diagrama TTT.
+7.5. Transformaciones de la martensita durante el enfriamiento
+continuo. Curvas de la S. 7.6. Recocido. Tipos de recocido. 7.7.
+Normalizado. 7.8. Temple. 7.8.1. Factores que influyen en el
+temple. 7.8.2. Tipos de temple. 7.8.3. Templabilidad y capacidad de
+temple. Medida de la templabilidad. 7.9. Revenido. Factores que
+influyen en el revenido. 7.10. Tratamientos
+termoquímicos
+TEMA 8: ALEACIONES NO
+FÉRREAS .
+8.1. El cobre sin alear. 8.2.
+Propiedades y aplicaciones. 8.3. Recocido contra acritud. 8 .4.
+Clas ificación de las aleaciones de cobre. 8.5. Latones:
+propiedades y aplicaciones. 8.6. Bronces. Tipos de bronces: al
+estaño, al aluminio, al níquel, al silicio. 8.7.
+Aplicaciones y tratamientos térmicos. 8.8. El aluminio sin
+alear. 8.9. Propiedades y aplicaciones. 8.10. Principales
+aleaciones de aluminio. Clasificación. 8.11. Aleaciones para
+forja: tratamientos térmicos. 8.12. Aleaciones para moldeo:
+modificación de las aleaciones Al-Si. 8.13. Propiedades y
+aplicaciones de las aleaciones de aluminio. 8.14. Otras aleaciones
+no férreas de amplio uso industrial.
+TEMA 9: CORROSIÓN Y CONTROL
+DE LA CORROSIÓN. 9.1. Conceptos e importancia. 9.2.
+Fundamentos electroquímicos. 9.3. Velocidad de
+corrosión. 9.4. Tipos de corrosión. 9.5. Lucha contra
+la corrosión: métodos.
+Bloque 4: MATERIALES NO
+METÁLICOS, MAGNÉTICOS Y ÓPTICOS.
+TEMA 10: MATERIALES
+CERÁMICOS.
+10.1. Estructuras de materiales
+cerámicos sencillos. Cristales iónicos. 10.2.
+Estructuras de silicato. 10.3. Materiales cerámicos no
+cristalinos: vidrios. Temperatura de transición
+vítrea. 10.4. Propiedades y clasificación de las
+cerámicas. 10.5. Comportamiento mecánico de las
+cerámicas. 10.6. Cerámicas industriales. Materiales
+abrasivos.
+TEMA 11: MATERIALES
+POLIMÉRICOS.
+11.1. Compuestos moleculares de
+cadena larga. 11.2. Cristalinidad de los polímeros. 11.3.
+Estructuras amorfa y semicristalina de los termoplásticos.
+11.4. Elastómeros. 11.5. Redes tridimensionales:
+polímeros termoestables. 11.6. Mecanismos de
+polimerización. 11.7. Grado de polimerización. 11.8.
+Comportamiento de los polímeros. 11.9. Aditivos. 11.10.
+Polímeros industriales.
+TEMA 12: MATERIALES COMPUESTOS.
+12.1. Introducción. Concepto
+de material compuesto. 12.2. Matriz y refuerzo. Tipos de Matrices.
+Consideraciones sobre la matriz. 12.3. Refuerzo con fibras.
+Materiales más utilizados. 12.4. Refuerzo con
+partículas. 12.5. Comportamiento mecánico.
+Aplicaciones.
+Bloque 5: ENSAYOS DE MATERIALES
+TEMA 13: ENSAYOS DE
+TRACCIÓN, FLEXIÓN Y TECNOLÓGICOS.
+13.1. Ensayo de tracción.
+Definiciones. Diagramas. Probetas. Ejecución del ensayo.
+Resultados. 13.2. Ensayo de flexión: fundamentos, diagrama
+de flexión. 13.3. Ensayos tecnológicos: plegado,
+embutición, forja, corte, punzonado.
+TEMA 14: ENSAYOS DE DUREZA.
+14.1. Clasificación de los
+métodos de medida de la dureza. 14.2. Ensayos de dureza por
+penetración estática: Brinell, Vickers y Rockwell.
+14.3. Ventajas e inconvenientes.
+TEMA 15: ENSAYOS DE CHOQUE.
+15.1. Ensayos de resiliencia.
+Conceptos. Importancia. 15.2. Factores de influencia. 15.3. Tipos y
+dimensiones de las probetas. 15.4. Ensayo Charpy. Ensayo Izod.
+TEMA 16: TÉCNICAS
+METALOGRÁFICAS. MACROSCOPÍA Y MICROSCOPÍA.
+16.1. El laboratorio
+metalográfico. 16.2. Macroscopía: preparación
+y ataque. Técnicas macroscópicas. 16.3.
+Microscopía: fases de la preparación de muestras.
+16.4. El microscopio metalográfico. 16.5. Observación
+de diferentes constituyentes estructurales. 16.6. Medidas del
+tamaño de grano.
+TEMA 17: ENSAYOS NO
+DESTRUCTIVOS.
+17.1. Inspección visual.
+17.2. Inspección mediante ultrasonidos. Fundamentos
+físicos. Naturaleza y propiedades de las ondas
+ultrasónicas. 17.3. Equipos y técnicas de
+operación. 17.4. Ensayos por métodos
+magnéticos. Fundamentos físicos. Técnicas y
+equipos. 17.5. Detección de grietas superficiales.
+Líquidos penetrantes. Consideraciones sobre la severidad de
+los defectos.
+
+Prácticas
+
+Ensayo de Tracción
+Ensayos de dureza
+Ensayo de choque
+Ensayo de corrosión con
+cámara de niebla salina
+Visualización de las
+reacciones anódicas y catódicas
+Metalografía.
+Observación de distintos constituyentes estructurales
+ y determinación del tamaño de grano
+Selección de materiales
+(prácticas de ordenador).
+'

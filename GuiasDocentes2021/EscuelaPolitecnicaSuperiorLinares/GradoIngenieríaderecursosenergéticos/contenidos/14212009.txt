@@ -1,0 +1,69 @@
+'
+
+Los bloques de contenidos que conforman "Ingeniería de
+Combustibles II" son:
+
+Bloque I: Refino
+de Petróleo.
+
+Bloque II:
+Tecnología de Combustibles II. Combustibles líquidos
+y gaseosos.
+
+Bloque III:
+Prácticas de laboratorio
+ 
+
+A continuación se detallan
+los apartados que darán forma a los tres bloques
+temáticos de la asignatura.
+ 
+
+Bloque I
+
+I.1. Introducción a la
+industria del refino de petróleo.
+I.2. Unidades de
+destilación
+I.3. Unidades de
+conversión.
+I.4. Plantas para el tratamiento
+ambiental de las corrientes de refinería.
+I.5. Integración de unidades
+en refinerías de petróleo.
+ 
+
+Bloque II
+
+II.1. Gas natural.
+II.2. Gases de refinería:
+fuel-gas y gases licuados del petróleo.
+II.3. Gasolinas.
+II.4. Gasóleos y
+querosenos.
+II.5. Fuelóleos.
+II.6. Coques de
+petróleo.
+II.7. Otros productos de
+refinería.
+ 
+
+Bloque III
+
+III.1. Prácticas de
+"Hysys.Plant".
+III.2. Prácticas de
+laboratorio.
+III.3. Visita técnica a una
+refinería de petróleos o a una planta de tratamiento
+de hidrocarburos.
+ 
+ 
+Nota: las visitas a empresas
+estarán condicionadas a la aceptación previa de las
+mismas por parte de las empresas, y a la disponibilidad
+económica para la realización del desplazamiento. En
+caso excepcional, la suspensión de alguna de estas
+actividades será suplida mediante la proyección de
+vídeos relacionados con dichas actividades.
+'

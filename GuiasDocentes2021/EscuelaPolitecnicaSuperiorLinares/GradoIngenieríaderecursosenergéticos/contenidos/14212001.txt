@@ -1,0 +1,267 @@
+'
+
+
+BLOQUE I: Introducción a la Ciencia e
+  Ingeniería de Materiales
+
+
+BLOQUE II: Química de los materiales
+
+
+BLOQUE III: Estructura de los materiales
+
+
+BLOQUE IV: Propiedades de los materiales.
+
+
+BLOQUE V: Materiales Metálicos
+
+
+BLOQUE VI: Materiales Cerámicos
+
+
+BLOQUE VII: Materiales Poliméricos.
+
+
+BLOQUE VIII: Materiales Compuestos
+
+
+BLOQUE I: Introducción a la Ciencia e Ingeniería
+de Materiales
+BLOQUE II: Química de los materiales
+BLOQUE III: Estructura de los materiales
+BLOQUE IV: Propiedades de los materiales.
+BLOQUE V: Materiales Metálicos
+BLOQUE VI: Materiales Cerámicos
+BLOQUE VII: Materiales Poliméricos.
+BLOQUE VIII: Materiales Compuestos.
+ 
+TEMA 1. INTRODUCCION A LA CIENCIA E INGENIERIA DE LOS MATERIALES
+Materiales e Ingeniería. Ciencia e Ingeniería
+de los materiales. Tipos de materiales. Criterios de
+selección.
+Relación entre estructura. Propiedades y Procesado.
+Influencia de los agentes externos en el comportamiento
+de los materiales.
+BLOQUE II: Química de los materiales.
+TEMA 2. ESTRUCTURA ATÓMICA Y ENLACES.
+Concepto de energía radiante: Su
+cuantificación, frecuencia e intensidad. Modelos
+atómicos. Espectro de
+emisión. Números cuánticos de los
+electrones. Principio de exclusión. Configuración
+electrónica de los
+elementos. Fuerzas y energías de interacción
+entre átomos. Enlaces.
+TEMA 3. DISOLUCIONES.
+Tipos de disoluciones. Formas de expresar la
+concentración. Solubilidad de cristales iónicos:
+influencia de la
+temperatura. Solubilidad de gases en líquidos: efecto
+de la presión y la temperatura. Disoluciones ideales:
+solutos no volátiles. Mezclas de líquidos:
+ideales y reales.
+TEMA 4. TERMOQUÍMICA.
+Entalpía de reacción. Calor y trabajo:
+equivalente mecánico del calor. Funciones de estado. Primer
+principio
+de la termodinámica. Energía interna y
+entalpía. Capacidad calorífica: variación de
+la energía interna y
+la entalpía con la temperatura. Estados
+estándar. Entalpías de formación.
+Determinación indirecta de las
+entalpías de reacción: ley de Hess. Procesos
+espontáneos. Reversibilidad y espontaneidad. La
+entropía y el
+segundo principio de la Termodinámica.
+Interpretación molecular de la entropía.
+Entropías absolutas y tercer
+principio. Energía libre: definición e
+interpretación física. Energía libre y
+espontaneidad.
+TEMA 5. EQUILIBRIO QUÍMICO.
+Reacciones reversibles. Constante de equilibrio. Equilibrios
+homogéneos. Formas expresar la constante
+de equilibrio. Equilibrios heterogéneos. Factores que
+afectan el equilibrio químico: concentración,
+presión,
+volumen y temperatura. Producto de solubilidad. Solubilidad
+con un ión común. El pH y la solubilidad.
+TEMA 6. ELECTROQUÍMICA.
+Ajuste de reacciones redox. Cedas galvánicas y
+electroquímicas. Ley de Faraday. Potenciales estándar
+de
+electrodo y sentido de las reacciones redox. Serie
+electroquímica. Efecto de la concentración en la fem
+de
+la celda. Celdas de concentración. Baterías.
+Tipos y funcionamiento. Procesos electroquímicos.
+Corrosión y
+protección contra la corrosión
+BLOQUE III: Estructura de los materiales.
+TEMA 7. ESTRUCTURA CRISTALINA.
+Estado sólido: Sólidos cristalinos y amorfos.
+Sistemas cristalinos y celdilla elemental. Notaciones
+cristalográficas: índices de Miller.
+Isomorfismo. Polimorfismo y alotropía. Redes cristalinas de
+los metales.
+Distancias interatómicas y densidades.
+Introducción a la determinación de estructuras
+cristalinas.
+Imperfecciones Cristalinas: Defectos puntuales.
+Dislocaciones, su movimiento. Defectos superficiales. Bordes
+de grano.
+TEMA 8. ALEACIONES.
+Introducción. Composición y constitución
+de las aleaciones. -Soluciones sólidas: Disolvente y soluto.
+Soluciones sólidas por sustitución. Soluciones
+sólidas por inserción. Densidad teórica de las
+soluciones
+sólidas. Soluciones sólidas ordenadas.
+Superredes. Compuestos intermetálicos. Fases intermedias.
+Estructuras defectivas. Insolubilidad.
+TEMA 9. DIFUSION.
+Difusión. Mecanismo del Proceso de difusión:
+Difusión por vacantes y difusión lntersticial.
+Difusión en régimen
+estacionario (Primera Ley de Fick). Difusión en
+régimen no estacionario (Segunda Ley de Fick). Efecto de la
+temperatura sobre la difusión. Aplicaciones del
+Proceso de difusión.
+TEMA 10. DIAGRAMAS DE EQUILIBRIO
+Introducción. Sistema material. Componentes y fases.
+Equilibrio de un sistema. Factores de equilibrio. Clases
+de equilibrio. Varianza o grados de libertad.- Regla de las
+Fases (Ley de Gibbs). Principio de Le Chatelier.
+Curvas de enfriamiento. Subfusión o
+sobrefusión. Ley general del reparto de masa. Diagramas
+binarios de
+solidificación: Sus tipos. Reacciones
+eutéctica, peritéctica y monotéctica.
+Transformaciones en estado sólido:
+Cambios de estado alotrópico. Reacciones eutectoide y
+peritectoide. Diagramas de equilibrio con compuestos
+y fases intermedias. Reglas generales sobre diagramas de
+equilibrio binarios. Introducción a los diagramas de
+equilibrio ternarios.
+BLOQUE IV: Propiedades de los materiales.
+TEMA 11. PROPIEDADES MECÁNICAS.
+Introducción. Esfuerzos y tensiones.
+Deformación de un monocristal. Influencia de las
+dislocaciones en la
+deformación pIástica. Deformación de un
+metal policristalino. Fibrado. Acritud. Restauración.
+Recristalización.
+Crecimiento del grano. Trabajo en frío y en caliente.
+TEMA 12. INTRODUCCIÓN A LOS ENSAYOS. ENSAYOS DE
+TRACCIÓN Y DE FLUENCIA.
+Introducción a los ensayos: Clasificación.-
+Ensayo de tracción. Diagrama de esfuerzos y deformaciones.
+Cálculo del alargamiento de rotura. Probetas.
+Módulo de tenacidad. Coeficiente de plenitud. Ensayos de
+tracción en caliente. Ensayos de fluencia viscosa.
+TEMA 13. ENSAYO DE DUREZA.
+Introducción.- Dureza Brinell.- Dureza Vickers.
+Microdureza.- Dureza Rockwell.- Otros métodos de ensayo de
+dureza.
+TEMA 14. ENSAYOS CON TENSIONES MULTIPLES.
+Introducción. Roturas dúctil y frágil.
+Efectos enfragilizadores: Entallas. Triaxialidad. Temperatura. La
+resiliencia. Métodos de ensayo. Consideraciones sobre
+la resiliencia.
+TEMA 15. FATIGA. ENSAYOS DE FATIGA.
+Introducción. Estudio de las solicitaciones variables.
+Proceso de rotura por fatiga. Curva y límite de fatiga.
+Diagrama de fatiga. Influencia de la carga estática.
+Diagrama simplificado para aceros. Factores que influyen
+en la fatiga. Ensayos de fatiga. La fatiga a nivel de piezas.
+TEMA 16. MACROGRAFIA Y MICROGRAFIA.
+Introducción. Toma de muestras. Preparación de
+muestras. Macrografía.- Micrografía.
+TEMA 17. ENSAYOS NO DESTRUCTIVOS.
+Introducción. Calidad de un material. Ensayos con
+líquidos penetrantes. Ensayos con rayos X. Ensayos con
+rayos gamma. Ensayos con ultrasonidos. Ensayos
+magnéticos.
+BLOQUE V: Materiales Metálicos
+TEMA 18. ALEACIONES FERREAS.
+Introducción. El hierro. Aceros y fundiciones.
+Diagrama de equilibrio de las aleaciones hierro-carbono. La
+austenita en el diagrama Fe-C. Transformaciones
+isotérmicas de la austenita. Tipos de curvas TTT. Factores
+que influyen. Transformaciones de la austenita mediante
+enfriamientos continuos.
+TEMA 19. TRATAMIENTOS TÉRMICOS DE LOS ACEROS.
+Introducción. Calentamientos y enfriamientos.
+Severidad de temple. Recocido. Tipos de recocidos.
+Normalizado. Temple. Templabilidad y capacidad de temple.
+Medida de la templabilidad: Diámetros críticos.
+Curvas de la U. Ensayo Jominy. Factores que influyen en la
+templabilidad. Defectos del temple. Tipos de
+temple. Revenido. Tratamientos termoquímicos.
+TEMA 20. ACEROS ALEADOS.
+Aceros al carbono y aceros aleados. Objetivos de los
+elementos de aleación. Influencia de los elementos
+de aleación sobre: El diagrama de equilibrio Fe-C. El
+tamaño de grano La templabilidad. La transformación
+martensítica Los revenidos.- Criterios de
+clasificación de aceros. Aceros de resistencia. Aceros de
+gran
+elasticidad. Aceros de fácil mecanización.
+Aceros de cementación. Aceros de nitruración. Aceros
+con
+propiedades magnéticas. Aceros de herramientas. Aceros
+inoxidables.
+TEMA 21. ALEACIONES NO FERREAS: ALEACIONES LIGERAS.
+Introducción. Aluminio: Aplicaciones. Elementos de
+aleación. Constituyentes. Clases de aleaciones.
+Magnesio: Aplicaciones. Elementos de aleación.
+Constituyentes. Clases de aleaciones. Titanio: Aplicaciones.
+Aleaciones. Tratamientos térmicos de las aleaciones
+ligeras.
+TEMA 22. ALEACIONES NO FERREAS: METALES PESADOS.
+Cobre y sus aleaciones: Latones y bronces. Tipos. Propiedades
+y tratamientos. Aleaciones antifricción.
+Aleaciones refractarias. Otras aleaciones de metales pesados.
+BLOQUE VI: Materiales Cerámicos
+TEMA 23. MATERIALES CERÁMICOS.
+Introducción. Estructura cristalina de cerámicos
+sencillos. Estructuras de silicatos. Procesamiento de
+cerámicas. Cerámicos tradicionales y de
+ingeniería. Propiedades de los cerámicos. Vidrios.
+TEMA 24. ÁRIDOS
+Fuente de áridos. Clasificación. Usos.
+Propiedades de los áridos.
+TEMA 25 CEMENTO.
+Introducción. Composición química del
+cemento. Propiedades. Tipos de cemento. Aditivos del cemento.
+BLOQUE VII: Materiales Poliméricos.
+TEMA 26. MATERIALES POLIMERICOS.
+Introducción. Reacciones de polimeración.
+Métodos industriales de polimerización. Procesado de
+materiales
+plásticos. Termoplásticos. Plásticos
+termoestables. Elastómeros. Caucho. Deformación y
+endurecimiento de
+materiales plásticos. Termofluencia y fractura de
+materiales poliméricos.
+TEMA 27. AGLOMERANTES ASFÁLTICOS Y MEZCLAS
+ASFÁLTICAS.
+Tipos y usos. Propiedades químicas del asfalto.
+Caracterización. Clasificaciones de los asfaltos.
+Diseño de
+mezclas. Aditivos.
+BLOQUE VIII: Materiales Compuestos
+TEMA 28. MATERIALES COMPUESTOS.
+Introducción. Plásticos reforzados con fibras.
+Procesado en moldes abiertos y en moldes cerrados.
+Estructuras tipo "sandwich". Compuestos de matriz
+metálica. Compuestos de matriz cerámica.
+TEMA 29.HORMIGÓN.
+Introducción. Propiedades. Ensayos. Hormigones
+autocompactantes. Hormigones ligeros. Hormigones
+pesados. Hormigones poliméricos. Hormigones con
+fibra.
+ 
+'

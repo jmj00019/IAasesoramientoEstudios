@@ -1,0 +1,244 @@
+'
+
+Cuestiones preliminares en torno a la naturaleza y
+función de la percepción. Procesos visuales
+básicos: estructura espacial de la imagen y
+organización perceptiva. Procesamiento de la distancia,
+movimiento, tamaño y color. Reconocimiento de patrones.
+Percepción auditiva. Introducción al estudio de la
+atención: aspectos preliminares. Principales modelos sobre
+la naturaleza y función de la atención. El modelo de
+las redes atencionales de Posner. Atención,
+percepción y experiencia consciente.
+
+
+
+Te
+ma
+  1. Introducción al estudio de la
+  percepción
+
+
+1.
+  Concepto y fases de la percepción. 2. Aproximaciones
+  teóricas y metodológicas al estudio de la
+  percepción.
+
+
+ 
+
+
+
+Tema
+  2. Procesos visuales básicos
+
+
+1.
+  La luz: naturaleza física y óptica. 2. El sistema
+  visual: Características esenciales sobre su naturaleza y
+  función.  3. Sensibilidad al contraste y
+  extracción de contornos
+
+
+ 
+
+
+
+Tema
+  3. Procesamiento de la estructura espacial de la
+  imagen
+
+
+1.
+  El concepto de frecuencia espacial. 2. Función de
+  sensibilidad al contraste: el papel del teorema de Fourier como
+  modelo para el estudio del procesamiento espacial de la imagen.
+  3. La teoría de la visión de David Marr: El esbozo
+  primario en bruto.
+
+
+ 
+
+
+
+Tema
+  4. Organización perceptiva
+
+
+1.
+  Principios de agrupamiento perceptivo y segmentación
+  figura-fondo. 2. Interpolación visual y contornos
+  ilusorios. 3. El esbozo primario completo.
+
+
+ 
+
+
+
+Tema 5. Procesamiento de características
+  bidimensionales de la imagen visual
+
+
+1.
+  La percepción de la distancia: claves perceptivas de
+  profundidad. 2. Percepción del movimiento: movimiento real
+  versus movimiento ilusorio. 3. Situaciones relacionadas con la
+  percepción del movimiento. 4. Percepción del
+  tamaño: propuestas explicativas. 5. Percepción del
+  color: factores implicados y mecanismos explicativos.
+   
+
+
+ 
+
+
+
+Tema
+  6. Reconocimiento y categorización
+  perceptiva
+
+
+1.
+  Reconocimiento y categorización perceptiva. 2.
+  Teorías sobre el reconocimiento. 3. Efectos contextuales
+  en el reconocimiento.
+
+
+ 
+
+
+
+Tema
+  7. Procesamiento visual consciente y no
+  consciente
+
+
+ 1.
+  Reconocimiento y experiencia visual consciente: correlatos
+  comportamentales y neurológicos. 2. Pruebas de la
+  distinción entre procesamiento consciente y no consciente:
+  disociaciones en personas normales y trastornos
+  neurológicos.
+
+
+ 
+
+
+
+Tema
+  8. Percepción auditiva
+
+
+1.
+  Naturaleza básica del sonido. 2. El sistema auditivo:
+  Naturaleza y función. 3. Percepción del tono de
+  sonidos simples y complejos. 4. Percepción del volumen. 5.
+  Localización auditiva. 6. Deficiencias auditivas. 7.
+  Análisis del ambiente auditivo.
+
+
+ 
+
+
+
+Tema
+  9. Introducción al estudio de la
+  atención
+
+
+1.
+  Aspectos preliminares en torno a la naturaleza y función
+  de la atención. 2. Consideraciones terminológicas.
+  3. Principales enfoques metodológicos en el estudio de la
+  atención. 4. Perspectiva histórica en el estudio de
+  la atención.
+
+
+ 
+
+
+
+Tema
+  10. Modelos y teorías atencionales
+
+
+1.
+  La atención y el enfoque del procesamiento humano de
+  información. 2. Modelos de selección:
+  selección temprana y selección tardía. 3.
+  Atención y capacidad: modelos energéticos de la
+  atención. 4. Habilidad y atención. 5.
+  Atención, automatismos y control: el problema del
+  homúnculo. 6. La atención como un sistema central
+  de control: la teoría atencional de Posner.
+
+
+ 
+
+
+
+Tema
+  11. La red atencional de orientación. I. Aspectos
+  generales
+
+
+1.
+  Nociones básicas: detección, orientación y
+  movimientos oculares. 2. Operaciones básicas de la
+  orientación atencional. 3. Metáforas estructurales
+  de la atención. 4. Atención y análisis de la
+  escena visual. 5. Orientación atencional basada en los
+  objetos. 6. Neurociencia cognitiva de la orientación
+  atencional.
+
+
+ 
+
+
+
+Tema
+  12. La red atencional de orientación. II. Atención,
+  percepción de objetos y consciencia
+
+
+1.
+  Orientación atencional, selección y procesamiento
+  consciente. 2. ¿Es necesaria la atención para ser
+  consciente de un estímulo? 3. Procesamiento
+  semántico no consciente de la información no
+  atendida.
+
+
+ 
+
+
+
+Tema
+  13.  La red atencional ejecutiva. Atención y control
+  ejecutivo
+
+
+1.
+  Principales aspectos en torno a la idea de control. 2. Pruebas a
+  favor de la existencia de funciones ejecutivas. 3. La red
+  ejecutiva y las funciones de control. 4. Relaciones entre la red
+  ejecutiva y la red de orientación. 5. Atención,
+  control cognitivo y procesamiento consciente.
+
+
+ 
+
+
+
+Tema
+  14. La red atencional de vigilancia: Atención y
+  activación
+
+
+1.
+  Atención y activación. 2. Atención y alerta:
+  factores exógenos y endógenos. 3. Mantenimiento de
+  la atención: vigilancia. 4. La red atencional de
+  vigilancia: aspectos básicos. 
+
+'

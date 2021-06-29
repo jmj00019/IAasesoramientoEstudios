@@ -1,0 +1,209 @@
+'
+
+Ingeniería concurrente o simultánea
+Diseño para el montaje y la fabricación
+Fabricación Integrada por Computador (CIM)
+Simulación de procesos de fabricación, asistida
+por computador
+Tecnologías de prototipado rápido
+Monitorización de parámetros y control de
+fabricación, asistida por ordenador
+
+
+
+Tema
+  1. Ingeniería concurrente. 
+
+
+Conceptos
+  sobre el diseño para la fabricación: Etapas de
+  desarrollo de producto, Ciclo de vida de un producto.
+
+
+Ingeniería
+  Concurrente.
+
+
+Guías
+  para la implementación de la Ingeniería
+  Concurrente.
+
+
+Tema
+  2. Diseño para la fabricación y el ensamblaje
+  DFMA.
+
+
+Definiciones
+  y técnicas DFM.
+
+
+Criterios
+  básicos de diseño orientado a la
+  fabricación.
+
+
+Guías
+  de diseño para la fabricación. Moldeo por
+  Inyección.
+
+
+Mejora
+  del diseño para facilitar el ensamblaje: Tipos de
+  ensamblaje y reglas de diseño para el montaje,
+  Método de Boothroyd-Dewhurst
+
+
+
+
+Tema 3. Fabricación integrada por computador
+  (CIM).
+
+
+Fabricación
+  digital: modelos CIM, software de ayuda a la fabricación,
+  automatización industrial, principales sistemas de control
+  industrial.
+
+
+Sistema
+  de ejecución de la fabricación.
+
+
+Planificación
+  de la producción.
+
+
+Relación
+  entre diseño, fabricación digital, sistema de
+  ejecución y planificación de la
+  producción.
+
+
+
+
+Tema 4. Tecnologías de prototipado
+  rápido.
+
+
+Introducción:
+  Definiciones, aplicaciones y tipos.
+
+
+Procesos
+  AM y principales tecnologías
+
+
+Etapas
+  de un proceso de prototipado rápido aditivo.
+
+
+Diseño
+  para el prototipado rápido aditivo.
+
+
+Sistemas
+  Fused Deposition Modeling FDM basados en la
+  extrusión.
+
+
+Análisis
+  de costes.
+
+
+Otras
+  aplicaciones y futuro de la técnica.
+
+
+
+
+Tema 5. Simulación de procesos de
+  fabricación.
+
+
+Modelado
+  y análisis por elementos finitos FEA.
+
+
+Modelado
+  de fricción, fractura, contacto y fluencia.
+
+
+Modelado
+  de procesos de conformado plástico.
+
+
+Modelado
+  del modelo de corte ortogonal.
+
+
+Técnicas
+  de soft-computing: optimización evolutiva, redes
+  neuronales.
+
+
+
+
+Tema 6.
+  Monitorización de parámetros y control de la
+  fabricación asistido por ordenador
+
+
+
+Interés
+  de la monitorización y el control de procesos.
+
+
+Sistemas
+  de medida en procesos de fabricación
+  convencionales.
+
+
+Diseño
+  de experimentos.
+
+
+Control
+  estadístico de los procesos.
+
+
+Las
+  prácticas a realizar serán las siguientes:
+
+
+
+Práctica 1. Prototipado rápido. Se
+  aprenderá a preparar prototipos mediante tecnología
+  FDM. 
+
+
+
+Práctica 2. Simulación de un proceso por
+  deformación plástica. Se realizará
+  un modelo numérico para predecir fuerzas y deformaciones
+  en una lámina de PVC sometida a un proceso de
+  conformado.
+
+
+
+Práctica 3. Simulación de un proceso de
+  arranque de material. Se simulará
+  numéricamente un proceso de mecanizado.
+
+
+
+Práctica 4. Aplicación de técnicas
+  de machine learning a procesos de
+  fabricación. Se aplicarán varias
+  técnicas de clusterización y optimización a
+  datos reales de procesos de fabricación y se
+  interpretarán los resultados.
+
+
+
+Práctica 5. Medición con sistema
+  electrónico. Se aprenderá a montar y
+  calibrar un sistema de medida con una cadena
+  electrónica
+
+'

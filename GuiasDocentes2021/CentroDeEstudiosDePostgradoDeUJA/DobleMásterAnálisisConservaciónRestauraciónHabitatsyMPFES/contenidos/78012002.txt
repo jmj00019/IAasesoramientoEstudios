@@ -1,0 +1,44 @@
+'
+
+En la gestión de los recursos naturales la toma de
+decisiones ha de basarse en un correcto diagnóstico o
+evaluación sobre el estado de dichos recursos. En este
+sentido, esta asignatura aborda el diseño y técnicas
+avanzadas de muestreo biológico, tanto en el medio
+acuático como en el terrestre y englobando recursos
+vegetales y animales. Particularmente, en lo referente al manejo y
+manipulación de animales, se prestará especial
+atención a los métodos no invasivos. Finalmente se
+revisarán los principales métodos directos e
+indirectos de estima de abundancia de poblaciones animales.
+
+Contenidos teóricos:
+Tema 1. Generalidades sobre la caracterización y
+clasificación de hábitats. Hábitats y nicho
+ecológico, manejo de hábitats y conservación
+biológica. Tipos de clasificaciones de hábitats,
+escalas de análisis y representación.
+Tema 2. La red Natura 2000. Situación actual y
+perspectivas. Métodos de evaluación del estado de
+conservación de hábitats terrestres. Modelos de
+planificación y gestión de tipos de
+hábitats.
+Tema 3. Aproximación al estudio de los hábitas
+acuáticos: tipologías y estructura de los ecosistemas
+acuáticos, métodos estandarizados de toma de
+muestras de agua, caracterización fisico-química,
+técnicas de muestreo de la biota, estima del flujo de
+energia y del estado trófico, evaluación de la
+calidad ecológica.
+Tema 4. Estimas de abundancia de poblaciones animales: escalas
+de abundancia, métodos de censo, métodos de
+captura-recaptura, índices de abundancia.
+Prácticas en Laboratorio y Humedal Experimental:
+Técnicas de muestreo en medio acuático y
+terrestre; procesado de muestras.
+Prácticas de campo:
+Reconocimiento y evaluación del estado de
+conservación de hábitas en Espacios Naturales de
+Andalucía
+ 
+'

@@ -1,0 +1,192 @@
+'
+
+Procesos de conformado por moldeo y sinterizado.
+Procesos de conformado por deformación
+plástica.
+Procesos de conformado por arranque de material.
+Procesos de conformado por unión.
+Metrología dimensional.
+Control de calidad de procesos de fabricación.
+
+
+
+Contenidos
+  Teóricos
+
+
+
+Tema 1.
+  Metrología. 
+
+
+Introducción a la
+  metrología. Sistema internacional de unidades. Medida e
+  Incertidumbre de medida. Tolerancia e incertidumbre.
+
+
+
+Tema 2.
+  Fundición.
+
+
+Tecnología
+  de la colada. Fusión. Parámetros de la
+  fundición. Diseño de modelos y noyos.
+
+
+
+Tema 3. Conformado
+  de plásticos.
+
+
+Conceptos
+  básicos. Proceso de extrusión de plásticos.
+  Proceso de inyección de plásticos.
+
+
+
+Tema 4. Proceso de
+  conformado de partículas.
+
+
+Fundamentos.
+  Tecnología de partículas. Características de
+  las partículas empleadas. Compactación.
+  Sinterización.
+
+
+
+Tema 5.
+  Deformación plástica volumétrica
+
+
+Fundamentos.
+  Teoría de la plasticidad. Análisis de Forja.
+  Análisis de Laminación. Análisis de
+  Extrusión. Análisis de Estirado o trefilado.
+
+
+
+Tema 6. Conformado
+  de chapa metálica
+
+
+Análisis de
+  la operación de corte. Análisis de la
+  operación de doblado. Análisis de la
+  embutición.
+
+
+
+Tema 7.
+  Ingeniería del mecanizado convencional.
+
+
+Conceptos
+  básicos. Modelo de la formación de viruta. Fuerzas
+  en el arranque de viruta.  Temperatura de corte. Vida
+  útil de la Herramienta. Fluidos de corte. Economía
+  del mecanizado.
+
+
+
+Tema 8. Procesos
+  de mecanizado convencional: torneado, fresado,
+  taladrado.
+
+
+Clasificación de
+  los procesos de mecanizado convencional. Ingeniería del
+  torneado. Ingeniería del fresado. Ingeniería del
+  taladrado.
+
+
+
+Tema 9. Procesos
+  de unión y ensamblaje mecánico.
+
+
+Procesos de
+  soldadura. Pegado adhesivo. Ensamblaje mecánico.
+
+
+
+Tema 10. Calidad
+  en la fabricación. 
+
+
+Introducción a la
+  calidad. Recomendaciones para la mejora de la calidad.
+  Métodos para la mejora de la calidad. Control
+  estadístico de procesos.
+
+
+  
+  Contenidos Prácticos
+
+
+
+Práctica
+1.
+ Medida de
+tolerancias geométricas.
+
+Realización
+  de medidas de forma en una pieza usando diferentes instrumentos
+  de medida. Expresión de la medida y de las tolerancias
+  geométricas.
+
+
+
+Práctica
+2.
+ Proceso de
+calibración de un pie de rey.
+
+Calibración
+  de un pie de rey a partir de patrones. Realización de
+  medidas, cálculo de la corrección e incertidumbre
+  del instrumento, y expresión de la medida
+  corregida.
+
+
+
+Práctica
+3.
+ Simulación de
+inyección de plástico con software
+CAE. 
+
+Simulación
+  de proceso de inyección de plástico con software
+  CAE especializado. Estudio de las fases del proceso y de la
+  evolución de los parámetros. Representación
+  del diagrama PvT.
+
+
+
+Práctica
+4.
+ Procesos de
+conformado de chapa asistidos por computador mediante software
+CAD. 
+
+Simulación
+  de diferentes procesos de conformado de chapa con software
+  CAD-CAE. Diseño y generación de un objeto de
+  chapa.
+
+
+
+Práctica
+5.
+ Programación
+ISO de operaciones de vaciado.
+
+Simulación
+  de proceso de fresado CNC con software CAE especializado.
+  Diseño, cálculo, programación y
+  simulación de los procesos de fresado necesarios para el
+  vaciado de una pieza prismática.
+
+'

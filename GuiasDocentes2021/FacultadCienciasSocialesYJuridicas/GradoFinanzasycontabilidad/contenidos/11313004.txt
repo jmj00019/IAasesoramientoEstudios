@@ -1,0 +1,103 @@
+'
+
+
+
+Teóricos:
+
+
+Modulo I: Herramientas informáticas en Red para
+  finanzas empresariales.
+
+
+Introducción a Sistemas de Información
+  Distribuidos.
+Herramientas informáticas de analisis financiero
+  distribuidas.
+Gestión documental.
+
+
+Módulo II: Herramientas Informáticas de
+  Análisis Financiero.
+
+
+Planificación de Recursos en la Empresa (ERP)
+Gestión de Relaciones con el Cliente (CRM)
+Software de Análisis Financiero.
+
+
+Módulo III: Hacia la empresa virtual
+
+
+Negocio electrónico.
+Comercio electrónico.
+Relaciones electrónicas de la empresa con la
+  administración.
+Relaciones electrónicas entre empresa y
+  empleados.
+
+
+
+Prácticos:
+
+Para la impartición del temario de prácticas se
+analizará el uso y disponibilidad de distintas herramientas
+si es posible con licencia Open Source para las distintas
+tareas:
+Planificación de recursos empresariales ERP.
+CRM (Customer Relationship Management)
+BI (Herramientas de soporte a la decisión o Business
+Intelligence)
+
+
+
+Teóricos:
+
+
+Módulo I: Herramientas informáticas en Red
+  para finanzas empresariales.
+
+
+Introducción a Sistemas de Información
+  Distribuidos.
+Herramientas informáticas de analisis financiero
+  distribuidas: big data y cloud computing.
+Gestión documental: tipologías, análisis
+  documental, indización y lenguajes documentales.
+
+
+Módulo II: Herramientas Informáticas
+  Avanzadas de Análisis Financiero.
+
+Planificación de Recursos en la Empresa (ERP):
+necesidades, características y funcionalidades, concepto de
+cuadro de mando, implantación, análisis
+económico y seguimiento.
+Gestión de Relaciones con el Cliente (CRM): sistemas de
+información de marketing y aplicaciones CRM.
+Ampliación de Software de Análisis Financiero:
+sistemas de información en la empresa, herramientas de
+business intelligence, analisis multidimensional, sistemas de
+datawarehousing, herramientas de datamining y aplicaciones de apoyo
+a la toma de decisiones y herramientas de soporte a la
+gestión
+
+Módulo III: Hacia la empresa virtual
+
+
+Negocio electrónico.
+Comercio electrónico.
+Relaciones electrónicas de la empresa con la
+  administración.
+Relaciones electrónicas entre empresa y empleados:
+  redes sociales empresariales.
+
+
+
+Prácticas:
+
+Planificación de recursos empresariales ERP  y CRM
+(Customer Relationship Management) mediante Odoo o software
+similar
+BI (Herramientas de soporte a la decisión o Business
+Intelligence)
+'

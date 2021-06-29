@@ -1,0 +1,196 @@
+'
+
+Tipos de motores industriales.
+- Elección del motor más adecuado para cada
+aplicación industrial.
+- Modelado de máquinas eléctrica y
+simulación de su comportamiento electromecánico.
+- Tipos de accionamiento eléctricos.
+- Elección del accionamiento eléctrico
+más eficiente para las distintas aplicaciones de control de
+movimiento.
+- Técnicas de control y regulación de las
+máquinas eléctricas para el control de movimiento.
+- Aplicación de las técnicas de control y
+regulación en los motores eléctrico
+
+
+Contenidos Teóricos (desarrollo de temas)
+
+
+Bloque 1 Tipos de motores industriales
+
+
+Tema nº1 -  Motores industriales
+
+
+Motor de inducción
+Motor paso a paso
+Motores brushless
+Motores de reluctancia variable
+
+
+Bloque 2 - Modelado de máquinas eléctricas
+  y simulación de su comportamiento
+  electromecánico
+
+
+Tema nº2 - Modelado del motor de inducción
+  trifásico
+
+
+Campo magnético rotatorio y deslizamiento
+Modelo de circuito del motor de inducción
+  trifásico
+Modelo de la máquina en el marco de referencia
+  arbitrario dq0
+Marco de referencia síncrono y estacionario
+Modelo de estado contínuo
+Modelo transitorio
+Simulación en el marco de referencia estacionario
+Modelo linealizado
+Motor de inducción monofásico
+
+
+Tema nº3 - Modelado del motor paso a
+  paso
+
+
+Introducción
+Modelo del motor paso a paso
+Ecuaciones mecánicas y eléctricas para el motor
+  paso a paso de imanes permanentes
+
+
+Tema nº4 - Modelado del motor brushless
+
+
+Inversor trifásico de potencia
+Modelo matemático del motor brushless
+Teoría del marco de referencia
+
+
+Tema nº5 - Modelado del motor reluctancia variable
+  SRM
+
+
+Modelo
+Régimen permanente
+
+
+Bloque 3 - Técnicas de control y regulación
+  de las máquinas eléctricas para el control de
+  movimiento
+
+
+Tema nº6 -
+ Control y regulación de la máquina
+asíncrona
+
+Motor de anillos con inserción pulsante de
+  resistencias
+Motor de corriente alterna alimentado por regulador de
+  tensión alterna
+Motor de rotor en cortocircuito alimentado por
+  regulación de tensión alterna
+Motor de anillos con convertidor de frecuencia en el circuito
+  rotorico. Montajes en cascada
+
+
+Tema nº7 - Control del motor brushless
+
+
+Control vectorial
+Control robusto
+
+
+Tema nº8 - Control del motor de reluctancia
+  variable SRM
+
+
+Modelo
+Régimen permanente
+Control deslizante doble
+Ajuste particular
+
+
+Bloque 4 - Aplicación de las técnicas de
+  control y regulación en los motores
+  eléctricos
+
+
+Tema nº9 - Aplicación de las técnicas
+  de control
+
+
+Generalidades sobre accionamientos regulados
+Control de vehículos eléctricos
+Control de ascensores y grúas
+Control de cadenas de producción y robots
+
+
+Bloque 5 Elección del motor y accionamiento mas
+  adecuado (profesor externo de empresa o Universidad)
+
+
+Tema nº10 - Elección del motor
+
+
+Tema nº11 - Elección del
+  accionamiento
+
+
+Contenidos prácticos (desarrollo de
+  prácticas)
+
+
+Práctica nº1 - Estructura de los
+  convertidores de frecuencia modernos
+
+
+Rectificador de red
+Circuito intermedio con carga de los condensadores
+Inversor de la máquina
+Unidad de control y regulación automática
+
+
+Práctica nº2 - Modos de operación de
+  los convertidores de frecuencia
+
+
+Diagrama equivalente de circuito de un motor asíncrono
+  de corriente trifásica
+Característica U/f
+Característica U/f2
+Control vectorial o por campo orientado
+
+
+Práctica nº3 - Optimización de
+  accionamientos controlados por velocidad de giro
+
+
+Elevación de la tensión mínima
+Características de carga
+Compensación de deslizamiento
+Rampas de velocidad
+Tecnología con el empleo de una frecuencia de 87
+  Hz
+Funcionamiento con 87 Hz
+
+
+Práctica nº4 - Funcionamiento en modo de
+  generador
+
+
+Chopper de frenado
+Recuperación de energía
+
+
+Práctica nº5 - Modelado del motor de
+  inducción
+
+
+Modelado del motor
+Simulación del motor
+
+'

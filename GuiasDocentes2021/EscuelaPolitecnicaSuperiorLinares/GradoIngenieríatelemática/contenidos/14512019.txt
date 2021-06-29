@@ -1,0 +1,46 @@
+'
+
+Esta asignatura desarrolla contenidos vinculados con los
+protocolos e interfaces de los niveles inferiores. Para lo cual,
+atendiendo a las características del nivel físico de
+distintas tecnologías de red, se estudian técnicas de
+control de flujo y errores, así como los parámetros
+de medida de la eficiencia lograda. Además, se repasan las
+distintas técnicas y estándares de acceso en redes
+cableadas e inalámbricas.
+En la parte práctica de la asignatura se programaran
+técnicas que permitan el intercambio fiable de datos a
+través de los niveles inferiores, se analizará la
+adecuación de los datos a las características
+físicas y funcionales de distintas interfaces de nivel
+físico y el análisis del tráfico generado por
+los protocolos que permiten la gestión de la
+comunicación.
+Palabras clave: nivel físico, nivel de enlace, control de
+congestión, control de errores, protocolos de acceso
+múltiple.
+
+Tema 0. Introducción.
+Tema 1. Ethernet.
+Tema 2. Wi-Fi.
+Tema 3. Bluetooth.
+Práctica 1. Configuración y monitorización
+de redes Ethernet.
+Práctica 2. Configuración y monitorización
+de redes Wi-Fi.
+Práctica 3. Configuración y monitorización
+de Bluetooth.
+Se dotará al alumno de la capacidad para estar al
+día en las novedades en ciencia y tecnología, sobre
+todo en este tipo de materias, tan ligadas a un entono tan
+dínamico como son las telecomunicaciones, y en concreto la
+Ingeniería Telemática. Además, se
+desarrollarán habilidades de comunicación
+información, ideas, problemas y soluciones en el
+ámbito de ingeniería y la sociedad en general a
+través de procesos de entrega de documentación o
+presentaciones orales. Con respecto a la organización del
+trabajo, se fomentará la colaboración y trabajo en
+equipo a través del propio diseño de las
+prácticas.
+'

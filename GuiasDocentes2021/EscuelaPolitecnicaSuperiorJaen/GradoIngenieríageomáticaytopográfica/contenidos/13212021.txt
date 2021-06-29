@@ -1,0 +1,65 @@
+'
+
+ 
+Topografía aplicada a los proyectos de Obra Lineal.
+Proyecto de una Obra Lineal desde el punto de vista
+Topográfico y Cartográfico.
+Cálculo y replanteo planimétrico en obra
+lineal.
+Definición del estado de alineaciones.
+Curvas circulares. Métodos de replanteo.
+Curvas cónicas. Métodos de replanteo.
+Curvas de transición. Métodos de replanteo.
+Cálculo y replanteo altimétrico en obra
+lineal.
+Perfiles Longitudinales y transversales.
+Rasantes. Métodos de replanteo.
+Sección transversal.
+Normativa de carreteras.
+Normativa de ferrocarril.
+Encaje en planta y alzado. Coordinación.
+Mediciones.
+Cálculo de volúmenes. Volumen de Desmonte y
+terraplén.
+ 
+
+CONTENIDOS DESARROLLADOS.
+
+U. D. I La Topografía aplicada a los proyectos de
+obras.
+La Topografía aplicada a los proyectos de obras.
+Proyecto de una obra desde el punto de vista
+topográfico.
+Normativa.
+
+U. D. II Planimetría de obras.
+Definición de alineaciones.
+Planimetría de Obras.
+Replanteo planimétrico.
+Curvas circulares y cónicas.
+Curvas de transición.
+
+U. D. III Altimetría de obras.
+Altimetría de obras.
+Perfiles longitudinales y transversales.Replanteo.
+Rasantes.
+Sección transversal.
+
+U. D. IV Mediciones.
+Mediciones en obra.
+ Prácticas
+1 Transformación de documento gráfico.
+2 Replanteo planimétrico de una cimentación.
+3 Materialización y comprobación de
+alineaciones.
+4 Cálculo y replanteo de curva circular.
+5 Cálculo y replanteo de clotoide.
+6 Cálculo y replanteo: trazado mixto.
+7 Diseño de trazado.
+8 Replanteo de perfiles transversales.
+9 Mediciones de obra.
+10 Levantamiento para el establecimiento de una línea
+eléctrica
+ 
+ 
+'

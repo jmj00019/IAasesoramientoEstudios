@@ -1,0 +1,219 @@
+'
+
+Caracterización de sistemas fotovoltaicos. Ensayos y
+medidas sobre sistemas fotovoltaicos: Interpretación de
+resultados. Mantenimiento de sistemas
+fotovoltaicos y auditorias técnicas a practicar sobre
+los mismos. Criterios de valoración de inversiones.
+Análisis de viabilidad de sistemas fotovoltaicos.
+Aspectos legales (R.D., primas, cupos,¿). Normativa y
+Procedimientos Administrativos.
+
+
+TEORÍA
+
+
+ TEMA
+  0. Presentación asignatura
+
+
+Objetivo:
+  Presentación de la asignatura
+
+
+Contenidos:
+  Introducción, distribución temporal,
+  bibliografía, prácticas
+
+
+TEMA 1.
+  Análisis y caracterización energéticos de
+  los sistemas fotovoltaicos
+
+
+Objetivo:
+  Capacitación del alumno para analizar los datos
+  relacionados con la operación de los Sistemas
+  fotovoltaicos de forma que pueda juzgar tanto el mérito de
+  sus diseños como la bondad de sus procedimientos de
+  operación
+
+
+Contenidos:
+  Introducción a los procesos energéticos que tienen
+  lugar en los sistemas fotovoltaicos: parámetros a medir
+  (irradiancia, temperatura ambiente, velocidad del viento,
+  tensión de salida del generador fotovoltaico (GFV),
+  corriente de salida del GFV, etc.), parámetros calculados
+  (irradiación global, índices de producción
+  de referencia, de campo y final, índice de relación
+  de comportamiento (PR), rendimiento del sistema, etc.).
+  Análisis de pérdidas en los sistemas fotovoltaicos
+  atendiendo a las causas que las producen, con especial
+  hincapié en los sistemas fotovoltaicos conectados a la red
+  (SFCR). Estudio detallado de la norma IEC 61724. Análisis
+  de ficheros de monitorización de SFCR:
+  interpretación y confección de diagramas de
+  Sankey
+
+
+TEMA 2.
+  Monitorización de sistemas fotovoltaicos
+
+
+Objetivo:
+  Aprendizaje de los elementos básicos que integran los
+  sistemas de monitorización y revisión del estado
+  del arte actual de dichos sistemas.
+
+
+Contenidos:
+  Justificación de la monitorización y métodos
+  empleados en ésta. Equipos integrantes de un sistema de
+  monitorización y control. Estado del arte de los sistemas
+  de monitorización y control.
+
+
+TEMA 3.
+  Puesta en servicio, mantenimiento y garantías de los
+  sistemas fotovoltaicos.
+
+
+Objetivo:
+  Aprendizaje de los procedimientos tanto mínimos exigibles
+  como avanzados para la puesta en servicio de los sistemas
+  fotovoltaicos. Distinción entre mantenimiento preventivo y
+  correctivo. Familiarización con las garantías
+  exigibles a los sistemas fotovoltaicos
+
+
+Contenidos:
+  Recepción y pruebas de sistemas fotovoltaicos.
+  Mantenimientos preventivo y correctivo de una instalación
+  FV. Garantías. Pruebas iniciales y periódicas en
+  los sistemas fotovoltaicos.
+
+
+TEMA 4.
+  Auditorías técnicas sobre sistemas fotovoltaicos
+  conectados a la red: casos de estudio
+
+
+Objetivo:
+  Comprensión de la necesidad de practicar auditorías
+  técnicas sobre sistemas fotovoltaicos conectados a la red.
+  Introducción a un protocolo para realizar las referidas
+  auditorías técnicas: estudio de casos
+  prácticos
+
+
+Contenidos:
+  Pertinencia de las auditorías técnicas sobre
+  sistemas fotovoltaicos conectados a la red. Introducción y
+  requisitos de documentación. Inspección. Medidas
+  eléctricas en cadenas de módulos. Respuesta del
+  inversor y medida de la potencia pico del generador fotovoltaico.
+  Medidas de la resistencia de aislamiento y de la resistencia del
+  electrodo de tierra. Inspección del sistema con
+  cámara de infrarrojos
+
+
+TEMA 5.
+  Aspectos económicos de los sistemas fotovoltaicos
+
+
+Objetivo:
+  Estudio económico de los sistemas fotovoltaicos.
+  Comparación de los sistemas fotovoltaicos autónomos
+  con otras alternativas destinadas a la electrificación
+  remota. Aplicación del análisis clásico de
+  proyectos de inversión a los SFCR. Estudio de la paridad
+  del coste la electricidad generada por los SFCR vs. coste de la
+  electricidad en el mercado minorista y mayorista.
+
+
+Contenidos:
+  Introducción. Parámetros económicos que
+  caracterizan la inversión en un proyecto fotovoltaico.
+  Dimensión financiera de la inversión en proyectos
+  fotovoltaicos. La equivalencia de capitales y el efecto de la
+  inflación. Medidas económicas destinadas a la
+  promoción de los sistemas fotovoltaicos. Sistemas
+  fotovoltaicos autónomos vs. otras técnicas de
+  electrificación remota desde un punto de vista
+  económico. Sistemas fotovoltaicos conectados a la red y
+  criterios de rentabilidad económica: DPBT, VAN, TIR y
+  Ratio B/C. Factibilidad económica y financiera de
+  proyectos fotovoltaicos, Efecto de los impuestos, seguros de
+  explotación (rendimiento del sistema, falta de sol, robo,
+  etc.). Análisis de costes de los sistemas fotovoltaicos
+  conectados a la red, mediante el LEC: paridad tanto con el coste
+  de la electricidad en el mercado minorista (autoconsumo) como con
+  el mercado mayorista (paridad con la red)
+
+
+PRÁCTICAS
+
+
+PRÁCTICA
+  1. Caracterización Energética.
+  Monitorización
+
+
+Casos de
+  estudio de sistemas de monitorización: instalaciones
+  fotovoltaicas de la UJA (Laboratorios A3-475 y A3-515).
+  Tratamiento y análisis datos experimentales reales.
+  (Laboratorio del Departamento de Ingeniería
+  Electrónica)
+
+
+PRÁCTICA
+  2. Caracterización en potencia. Procedimientos e
+  instrumentación necesaria.
+
+
+Procedimientos
+  para la caracterización en potencia de generadores FV,
+  translación a Condiciones Estándar de Medida,
+  porcentaje de pérdidas asumible. Casos de estudio.
+  Obtención y análisis del rendimiento/eficiencia
+  experimental de inversores fotovoltaicos.
+
+
+ 
+
+
+PRÁCTICA
+  3. Análisis económico de los sistemas
+  fotovoltaicos
+
+
+Estudio
+  de sistemas fotovoltaicos autónomos vs. otras
+  técnicas de electrificación remota desde un punto
+  de vista económico. Cálculo de índices de
+  rentabilidad de SFCR y del LEC, en función de distintos
+  escenarios económicos (financiación por
+  préstamos, obligaciones, aspectos fiscales,
+  depreciación de los equipos, etc.), con ayuda de MS EXCEL
+  (Laboratorio del Departamento de Electrónica).
+
+
+PRÁCTICA
+  4. Realización de la auditoría técnica de un
+  SFCR de mediano tamaño.
+
+
+Visita a
+  una instalación de mediano tamaño.
+  Inspección, recogida de datos en campo con arreglo a la
+  norma UNE- IEC 62446: a) Cadenas de módulos: tensiones de
+  circuito abierto y trabajando en PMP, curvas
+  características, corriente de cortocircuito y trabajando
+  en PMP, b) Medidas de aislamiento eléctrico, c)
+  Termografías, etc. d) Medida de la potencia pico instalada
+  realmente, e) Elaboración de un informe de
+  verificación final.
+
+'

@@ -1,0 +1,43 @@
+'
+
+Asimilar los conceptos fundamentales de la Gestión de la
+Calidad y las directrices para la
+implantación de un sistema de calidad. Conocer las
+etapas por las que debe pasar una empresa
+que desee documentar y certificar su sistema de calidad.
+Proporcionar formación sobre los sistemas de
+gestión medioambiental en el mundo de la empresa, para poder
+desarrollar las actividades y los procesos industriales
+según los parámetros de calidad establecidos en la
+normativa ISO 14001, de forma sostenible y respetuosa con el
+medio ambiente.
+
+
+BLOQUE I: GESTIÓN DE LA CALIDAD
+
+
+Fundamentos y conceptos: sistemas de la calidad
+Norma ISO 9000 vs modelo EFQM
+Normalización y certificación: aseguramiento y
+  Documentación de la calidad
+Gestión de procesos y calidad total.
+Auditorías de la calidad
+Incertidumbre de medida y calibración de equipos
+Inspecciones de recepción: norma UNE 66-020
+Fundamentos de las técnicas estadísticas.
+  Estudios de capacidad de procesos
+Gráficos de control
+Herramientas básicas y avanzadas
+
+
+BLOQUE II: GESTIÓN AMBIENTAL EN LA
+  EMPRESA
+
+
+Introducción a las grandes crisis ambientales
+Salud ambiental y salud humana
+Instrumentos de gestión ambiental
+Los Sistemas de Gestión Ambiental
+Norma ISO 14001
+
+'

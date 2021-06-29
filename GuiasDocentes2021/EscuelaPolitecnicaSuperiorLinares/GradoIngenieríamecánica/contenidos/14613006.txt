@@ -1,0 +1,52 @@
+'
+
+Vibraciones de los órganos de las máquinas.
+Origen, transmisión
+Sistema de amortiguación
+Equilibrio estático y dinámico
+Métodos de equilibrado
+Equilibrado de órganos en rotación
+Equilibrado de motores
+Mantenimiento predictivo de máquinas. Sistemas de
+monitorización y diagnástico de daños en
+máquinas
+El sonido. Parámetros, medida y análisis del
+sonido. Normativa.
+
+Fundamentos de mecánica de la Fractura, Fundamentos de la
+fractura bajo cargas alternantes, fundamentos de fluencia,
+deterioro ante agentes externos, tecnicas experimentales para la
+medida de tensiones y deformaciones.
+Tema 1. Introducción
+Tema 2. Mecanismos de Fractura Elástica Lineal
+- El balance de energía de Griffith.
+- Modificación de la ecuación de Griffith.
+- La tasa de liberación de energía.
+- La inestabilidad de la curva R.
+Tema 3. Mecánica de Fractura Elasto-Plástica
+- El desplazamiento de la Apertura del Frente de Grieta
+- La Integral J
+- Relación entre J y CTOD.
+- Curvas R de resistencia del material en Fractura
+Elasto-Plástica
+Tema 4. Fatiga de Materiales. Aplicación de la
+Mecánica de Fractura.
+- Proceso general de fatiga
+- Propagación de grietas por fatiga en regimen
+elástico, Ley de Paris
+- Límites de validez de la ecuación de
+propagación de grieta
+Tema 5. Técnicas experimentales para la medida de
+tensiones y deformaciones.
+- Extensometría.
+- Fotoelasticidad.
+- Correlación de imágenes
+Tema 6. Análisis de mecánica de la fractura
+mediante el uso de software específico y el
+MEF.Análisis de fractura colapso-plástico
+según VINDIO.
+Practicas 1-3. Cálculo de J-K y crecimiento de grieta con
+XFEM mediante el software ABAQUS.
+Practicas 4-6. Cálculo de desgarro dúctil y
+crecimiento de grieta
+'

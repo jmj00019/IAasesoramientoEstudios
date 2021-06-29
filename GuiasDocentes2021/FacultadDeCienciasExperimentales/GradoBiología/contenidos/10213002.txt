@@ -1,0 +1,50 @@
+'
+
+Genómica Humana Estructural. Genómica Humana
+Funcional. Genómica Comparativa y Evolución de
+Poblaciones Humanas. Bases genéticas de enfermedades
+simples.
+Bases genéticas de enfermedades complejas. Bases
+genéticas del comportamiento. Análisis y Consejo
+Genético. Identificación genética y
+aplicaciones forenses
+ 
+Programa de Prácticas:
+
+Bloque I: Detección y análisis de polimorfismos
+  en el genoma humano
+Bloque II: Aplicación de técnicas de
+  genética forense a la idenfiticación de
+  individuos
+
+
+- Teoría
+I. Conocimiento del Genoma humano
+1. Proyecto Genoma Humano
+2. Organización estructural y secuencia del genoma
+humano
+3. Genomica Funcional Humana
+4. Genética de poblaciones humana y evolución
+II. Enfermedades con base genética
+5. Modos de herencia de las enfermedades con base
+genética
+6. Enfermedades producidas por alteraciones
+cromosómicas
+7. Enfermedades monogénicas
+8. Enfermedades con base genética compleja
+9. Análisis y consejo genético
+III. Genética Forense
+10. Técnicas básicas de identificación
+genética
+11. Aplicaciones en investigación forense y
+paternidad
+- Series de Problemas sobre toda la totalidad del temario
+- Programa de Prácticas:
+
+Bloque I: Detección y análisis de polimorfismos
+  en el genoma humano
+Bloque II: Aplicación de técnicas de
+  genética forense a la idenfiticación de
+  individuos
+
+'

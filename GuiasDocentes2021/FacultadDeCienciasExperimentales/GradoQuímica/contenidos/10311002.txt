@@ -1,0 +1,83 @@
+'
+
+Termoquímica, cinética y equilibrio
+químico. Reactividad química. Introducción al
+estudio de los compuestos orgánicos.
+
+Tema1.- Termodinámica Química. 1.1.
+Introducción a la termodinámica. 1.2. Primera ley de
+la termodinámica. 1.3. Entalpía de las reacciones
+químicas. 1.4. Calorimetría. 1.5. Entalpía
+estándar de formación y de reacción. 1.6. Los
+procesos espontáneos. 1. 7. La segunda ley de la
+termodinámica 1.8. La tercera ley de la
+termodinámica. 1.9. La energía libre de Gibbs. 1.10.
+La energía libre y el equilibrio. 1.11. Ejercicios y
+problemas de recapitulación. Tema 2.- Cinética
+Química. 2.1. Velocidad de la reacción. 2.1. Leyes de
+velocidad. 2.3. Relación entre las concentraciones de
+reactivos y tiempo. Orden de las reacciones. 2.4. Energía de
+activación y dependencia de las constantes de velocidad con
+la temperatura. 2.5. Mecanismos de reacción. 2.6.
+Catálisis heterogénea. 2.7. Catálisis
+homogénea. 2.8. Catálisis enzimática. 2.9.
+Ejercicios y problemas de recapitulación. Tema 3.-
+Equilibrio Químico. 3.1. El equilibrio químico: un
+estado dinámico en procesos reversibles. 3.2. La ley del
+equilibrio químico. 3.3. Expresión numérica
+del equilibrio químico: la constante de equilibrio. 3.4.
+Bases termodinámicas del equilibrio químico. 3.5.
+Clasificación de los equilibrios químicos. 3.6.
+Desplazamiento del equilibrio: principio de Le Chatelier. 3.7.
+Equilibrios homogéneos en sistemas gaseosos. 3.8.
+Equilibrios heterogéneos en sistemas gaseosos. 3.9.
+Ejercicios y problemas de recapitulación. Tema 4. Reacciones
+ácido-base. 4.1. Teoría de Arrhenius. 4.2.
+Teoría de Bronsted-Lowry. 4.3. La autoionización del
+agua y la escala de pH. 4.4. Fuerza de los ácidos y las
+bases. Constante de ionización. 4.5. Estructura molecular y
+fuerza de los ácidos. 4.6. Propiedades ácido-base de
+las sales. 4.7. Óxidos ácidos, básicos y
+anfóteros. 4.8. Ácidos y bases de Lewis. 4.9.
+Teoría de Pearson. 4.10. Efecto del ion común en los
+equilibrios ácido-base. 4.11. Disoluciones reguladoras.
+4.12. Valoraciones ácido-base. 4.13. Indicadores
+ácido-base. 4.14. Ejercicios de recapitulación. Tema
+5. Química de los compuestos de coordinación. 5.1.
+Propiedades de los metales de transición. 5.2. Compuestos de
+coordinación. 5.3. Ligandos. 5.4. Nomenclatura. 5.5.
+Geometría de los compuestos de coordinación. 5.6. El
+enlace en los compuestos de coordinación. 5.7. Algunos
+aspectos de los equilibrios de los iones complejos. 5.8 Reacciones
+ácido base de los iones complejos. 5.9. Aplicaciones de la
+química de coordinación. 5.10. Ejercicios de
+recapitulación. Tema 6. Reacciones de
+oxidación-reducción 6.1. Reacciones redox. 6.2.
+Celdas galvánicas. 6.3. Potenciales estándar de
+reducción. 6.4. Espontaneidad de las reacciones redox. 6.5.
+Efecto de la concentración en la fem de la celda. 6.6.
+Diagramas de potenciales de electrodo. 6.7. Baterías. 6.8.
+Corrosión. 6.9. Electrolisis. 6.10. Electrometalurgia. 6.11.
+Ejercicios de recapitulación. Tema 7: Equilibrios de
+solubilidad. 7.1. Equilibrios de solubilidad. 7.2. Reglas de
+solubilidad. 7.3. El producto de solubilidad. 7.4. Solubilidad y
+solubilidad molar. 7.5. Predicción de las reacciones de
+precipitación. 7.6. El efecto del ion común y la
+solubilidad. 7. 7. Aplicación del producto de solubilidad al
+análisis cualitativo. 7.8. Ejercicios y problemas de
+recapitulación. Tema 8.- Nomenclatura, estructura y
+reactividad de compuestos orgánicos . 8.1.
+Introducción: naturaleza del átomo de carbono. 8.2.
+Estructura de los compuestos orgánicos. 8.3.
+Isomería. 8.4. Nomenclatura y formulación de
+compuestos orgánicos. 8.4. Alcanos. 8.5. Alquenos y
+alquinos. 8.6. Propiedades y reactividad de los grupos funcionales.
+8.7. Hidrocarburos aromáticos. 8.8. Heterociclos. 8.9.
+Introducción a las reacciones de compuestos
+orgánicos: Tipos de reacciones orgánicas. 8.10.
+Conceptos básicos relacionados: Ácidos de Lewis,
+tipos de intermedios, nucleófilos y electrófilos.
+8.11. Reacciones de adición. 8.12. Reacciones de
+eliminación. 8.13. Reacciones de sustitución. 8.14.
+Ejercicios y problemas de recapitulación.
+'

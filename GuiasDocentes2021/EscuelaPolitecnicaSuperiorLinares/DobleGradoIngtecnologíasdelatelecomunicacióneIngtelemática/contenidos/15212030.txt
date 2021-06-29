@@ -1,0 +1,356 @@
+'
+
+En esta asignatura el alumno
+adquirirá conocimientos sobre los diferentes elementos y
+dispositivos que componen un sistema de comunicaciones
+ópticas; los transmisores y los receptores, la
+propagación en medios dieléctricos cilíndricos
+como las fibras ópticas en cuanto a atenuación y
+dispersión, y los diferentes dispositivos para la
+distribución de la señal luminosa, acopladores y
+amplificadores ópticos. Con dichos conocimientos será
+capaz de entender y simular diferentes sistemas de comunicaciones
+en las bandas ópticas, sus ventajas e inconvenientes.
+Palabras Clave : Fibras monomodo y multimodo, apertura
+numérica, frecuencia normalizada, birrefringencia,
+parámetro de chirp, dispersión de primer y segundo
+orden, PMD, scattering, FWM, Splitter, acoplador WDM, circuladores,
+aisladores, filtros Fabry-Perot y Mach-Zehnder, emisores LED y
+Láser DFB y DBR, circuitos driver, moduladores externos,
+eficiencia cuántica, absorción, responsividad, PIN,
+APD, amplificador de transimpedancia, SOA, EDFA, balances de
+potencia y dispersión, sistemas ETDM, SCM, WDM, OTDM, OCDM,
+RoF.
+
+
+ 
+
+
+
+BLOQUE TEÓRICO
+
+
+
+Tema 1. Introducción a las comunicaciones
+  ópticas.
+
+
+
+Desarrollo
+    histórico.
+
+
+El
+    sistema general de comunicaciones ópticas.
+
+
+Ventajas de
+    la comunicación por fibra.
+
+
+
+
+Tema 2. Propagación en fibras
+  ópticas.
+
+
+
+Conceptos
+    básicos de óptica guiada.
+
+
+Descripción
+    geométrica: Teoría de rayos.
+
+
+Fibras
+    monomodo y multimodo.
+
+
+Apertura
+    numérica.
+
+
+Descripción
+    electromagnética de la luz en la propagación por
+    fibra óptica.
+
+
+Frecuencia
+    normalizada.
+
+
+Birrefrigencia.
+
+
+
+
+Tema 3. Atenuación y efectos no lineales en fibras
+  ópticas.
+
+
+
+Atenuación
+    en fibra óptica.
+
+
+Scattering.
+
+
+Curva
+    de atenuación espectral de una fibra.
+
+
+Efectos no
+    lineales. FWM.
+
+
+Balances de
+    potencia.
+
+
+
+
+Tema 4. Dispersión y propagación de pulsos
+  en fibras ópticas.
+
+
+
+Propagación
+    en medios dispersivos. Velocidad de fase y de grupo.
+
+
+Constante de
+    propagación.
+
+
+Dispersión
+    cromática.
+
+
+Dispersión
+    de primer y segundo orden.
+
+
+Dispersión
+    de material y de guiaonda.
+
+
+Dispersión
+    modal. Dispersión total.
+
+
+Dispersión
+    por modo de polarización PMD.
+
+
+Ancho
+    de banda de la fuente.
+
+
+Parámetro
+    de chirp.
+
+
+Ancho
+    de banda de transmisión.
+
+
+Balance de
+    dispersión.
+
+
+
+
+Tema 5. Tecnologías de fibras
+  ópticas.
+
+
+
+Tipos
+    comerciales de fibras ópticas.
+
+
+Cables
+    de fibras ópticas.
+
+
+Diseño
+    de los cables de fibras ópticas.
+
+
+Alineamiento
+    y pérdidas en las uniones.
+
+
+Conexiones
+    de las fibras. Conectores y empalmes de fibra.
+
+
+Sistemas
+    ETDM, SCM, WDM, OTDM, OCDM, Rof.
+
+
+
+
+Tema 6. Componentes ópticos
+  pasivos.
+
+
+
+Matriz
+    de Scattering, matriz de Jones.
+
+
+Polarizador,
+    efecto faraday, rotadores de polarización.
+
+
+Aisladores,
+    atenuadores.
+
+
+Acopladores
+    2x2, acopladores en estrella, acopladores WDM.
+
+
+Circuladores.
+
+
+Filtros
+    Fabry-Perot y Mach-Zehnder.
+
+
+Redes
+    de difracción.
+
+
+
+
+Tema 7. Fuentes y transmisores
+  ópticos.
+
+
+
+Absorción.
+
+
+Emisión
+    espontánea y estimulada.
+
+
+Inversión
+    de población.
+
+
+Gap
+    directo e indirecto.
+
+
+Ganancia
+    óptica de un semiconductor.
+
+
+Láser
+    Fabry-Perot, DFB y DBR.
+
+
+Curva
+    P-I de un Láser/LED.
+
+
+Circutos
+    driver.
+
+
+Moduladores
+    externos.
+
+
+Amplificadores
+    ópticos: SOA, EDFA y Raman.
+
+
+
+
+Tema 8. Detectores y receptores
+  ópticos.
+
+
+
+Absorción,
+    eficiencia cuántica.
+
+
+Responsividad.
+
+
+Ruido
+    de cuantificación o shot, ruido de fondo, ruido
+    térmico.
+
+
+Fotocorriente,
+    corriente de oscuridad.
+
+
+Potencia
+    equivalente de ruido (NEP), límite
+    cuántico.
+
+
+Fotodiodos
+    PIN.
+
+
+Proceso de
+    avalancha, fotodiodos APD, factor de ruido, ganancia de
+    avalancha.
+
+
+Respuesta en
+    frecuencia de un fotodiodo.
+
+
+Receptores
+    para comunicaciones ópticas.
+
+
+Ruido
+    Johnson.
+
+
+Estructuras
+    para el receptor. Comparativa.
+
+
+Preamplificador
+    de transimpedancia.
+
+
+
+ 
+
+
+
+BLOQUE PRÁCTICO
+
+
+
+Bloque 1. Fundamentos de los sistemas de
+  comunicaciones ópticas.
+
+
+
+Bloque 2. Propagación, atenuación,
+  dispersión y efectos no lineales en fibra
+  óptica.
+
+
+
+Bloque 3. Dispositivos y tecnologías
+  fundamentales en sistemas de comunicaciones
+  ópticas.
+
+ 
+'

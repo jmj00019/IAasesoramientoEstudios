@@ -1,0 +1,58 @@
+'
+
+En esta asignatura el alumno
+conocerá las distintas redes de sensores, cableadas e
+inalámbricas que se utilizan en los desarrollos relacionados
+con Internet de los objetos. En el laboratorio se realizarán
+aplicaciones que permitan a estos sensores publicar sus datos en
+Internet para su posterior uso.
+· Introducción a
+Internet de las cosas.
+· Redes de sensores cableadas e inalámbricas.
+· Tecnologías de aplicaciones
+telemáticas.
+
+ 
+PARTE TEÓRICA
+
+Introducción a Internet. 
+  
+Modelo OSI versus TCP/IP.
+Capa de red. 
+    
+Introducción a IPv4.
+Introducción a IPv6.
+
+Capa de enlace 
+    
+Tecnologías inalámbricas
+Tecnologías cableadas
+
+
+Redes de sensores 
+  
+Tecnologías de actuales
+Tecnologías de aplicación industrial
+
+Tecnologías de aplicaciones telemáticas 
+  
+Paradigma cliente-servidor.
+Paradigma 
+    peer to peer.
+Tecnologías 
+    Back-end.
+Tecnologías 
+    Front-end.
+Tecnologías de aplicaciones móviles.
+
+
+ 
+PARTE PRÁCTICA
+Las prácticas seguirán un modelo de aprendizaje
+basado en proyectos y de forma colaborativa entre dos alumnos.
+
+Introducción a los dispositivos IOT. 
+Especificación y diseño de un Proyecto de
+  aplicación de la IOT.
+
+'

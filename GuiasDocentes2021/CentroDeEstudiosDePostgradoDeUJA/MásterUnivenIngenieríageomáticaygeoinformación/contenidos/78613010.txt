@@ -1,0 +1,65 @@
+'
+
+1. Catastro multifinalitario. Gestión catastral.
+Geomática catastral. Aplicaciones de la documentación
+catastral en ámbitos no tributarios.
+2. Coordinación Catastro, Registro y Notariado
+3. Ley 13/2015. Resoluciones Conjuntas. Otras Leyes
+4. Norma ISO-TC 211 19152 sobre el Modelo Catastral (Land
+Administration Domain Model, LADM)
+5. Valoración y tasación inmobiliaria.
+Conceptos, definiciones y teorías relacionadas con el
+mercado inmobiliario. Criterios de valoración.
+Métodos valorativos.
+
+
+Modelos
+  de Catastro: formación y utilidades. Similitudes y
+  discrepancias.
+
+
+La
+  geomática catastral como elemento para la
+  georreferenciación de las características
+  catastrales.
+
+
+Norma
+  ISO-TC 211 19152 sobre el Modelo Catastral (LandAdministration
+  Domain Model, LADM)
+
+
+Norma
+  ISO-17024 sobre certificación de personas. Técnico
+  Experto en Catastro, Propiedad Inmobiliaria y
+  Valoración.
+
+
+Catastro
+  y Registro de la Propiedad. Tecnología Blockchain
+
+
+Valoración
+  inmobiliaria: enfoques y supuestos.
+
+
+Normativa
+  en materia de Valoración Inmobiliaria.
+
+
+Valoración
+  catastral.
+
+
+Gestión
+  y mantenimiento catastral en el origen
+
+
+Usos
+  del Catastro.
+
+
+Futuro
+  del Catastro.
+
+'

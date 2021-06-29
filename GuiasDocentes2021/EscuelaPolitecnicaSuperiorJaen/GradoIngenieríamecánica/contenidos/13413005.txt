@@ -1,0 +1,65 @@
+'
+
+Redes de distribución de
+fluidos: abastecimiento de agua, extinción de incendios,
+riego, etc. Análisis de redes ramificadas y redes en malla.
+Cavitación
+y Golpe de ariete.
+Redes de distribución de gases. Pérdida de
+carga en gases. Pérdida de carga con adicción de
+calor. Aplicación al transporte de gas natural.
+Cálculo de redes mediante herramientas computacionales
+de uso industrial: introducción al manejo de Epanet.
+Oleohidráulica y neumática.
+Instrumentación de instalaciones de fluidos: medidores
+de caudal, presión, temperatura.
+Estudio del flujo en canales abiertos: Energía
+especifica de un canal, Flujo bajo compuerta y por un vertedero,
+Resalto hidráulico.
+
+ 
+
+CONTENIDOS DESARROLLADOS
+
+
+Redes de distribución de fluidos: 1) Breve
+repaso de flujo en conductos. 2) Análisis de redes de
+distribución. 3) Tipos de redes: redes ramificadas y redes
+en malla. 4) Diseño de redes de distribución. 5)
+Análisis de transitorios. Cavitación y golpe de
+ariete en sistemas de distribución de agua.
+
+Cálculo de redes mediante herramientas
+computacionales de uso industrial: 1) Introducción
+al cálculo de redes de agua por ordenador. 2) Método
+matricial de cálculo de redes de distribución. 3)
+Análisis de redes de distribución mediante
+códigos comerciales. 4) Ejercicios progresivos mediante
+ordenador.
+
+Redes de distribución de gases: 1)
+Redes de distribución y abastecimiento de gas natural. 2)
+Aplicaciones
+
+Movimiento de gases en conductos: 1)
+Derivación de las leyes de conservación para flujo
+compresible en conducto de sección lentamente variable. 2)
+Flujo ideal de gases en conductos, tobera convergente-divergente,
+ondas de choque. 
+
+Redes de canales abiertos: 1) Repaso de flujo en
+canales abiertos: energía específica de un canal,
+flujo bajo compuerta y por un vertedero y resalto
+hidráulico. 2) Solución analítica para flujo
+uniforme, no uniforme, gradualmente y fuertemente variable.
+
+Instrumentación de instalaciones de
+fluidos: 1) Medidores de caudal. 2) Medidores de
+presión. 3) Medidores de temperatura. 4) Otros.
+Se realizarán prácticas durante el curso de: 1)
+Cálculo de redes de dsitribución mediante el
+método matricial en Matlab, 2) Cálculo de redes de
+dsitribución mediante Epanet, 3) Estudio del flujo en
+canales abiertos: flujo alrededor de obstáculos, resalto
+hidráulico y flujo a través de una compuerta.
+'

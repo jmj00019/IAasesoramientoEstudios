@@ -1,0 +1,319 @@
+'
+
+Herramientas
+de simulación de circuitos eléctricos
+Análisis
+de circuitos en régimen estacionario sinusoidal
+Sistemas
+trifásicos equilibrados y desequilibrados
+Régimen
+transitorio en circuitos eléctricos
+Armónicos
+
+
+
+UNIDAD
+  DIDÁCTICA I.- SISTEMAS TRIFÁSICOS EQUILIBRADOS Y
+  DESEQUILIBRADOS.
+
+
+
+Tema
+  1. Sistemas Trifásicos Equilibrados.
+
+
+1.1
+  Tensiones Trifásicas Equilibradas.
+
+
+1.2
+  Fuentes de Tensión Trifásicas.
+
+
+1.3
+  Análisis de un Circuito Y-Y.
+
+
+1.4
+  Análisis de un Circuito Y-D.
+
+
+1.5
+  Cálculos de Potencia en Circuitos Trifásicos
+  Equilibrados.
+
+
+1.6
+  Medida de Potencia en Circuitos Trifásicos.
+
+
+ 
+
+
+
+Tema
+  2. Sistemas Trifásicos Desequilibrados.
+
+
+2.1
+  Cargas Desequilibradas.
+
+
+2.2
+  Cálculos de Tensión.
+
+
+2.3
+  Indicadores de Fase-Secuencia.
+
+
+2.4
+Transformación D 
+-Y.
+
+2.5
+  Conexiones Prácticas y Poco Prácticas.
+
+
+2.6
+  Conceptos Fundamentales de Componentes Simétricas.
+
+
+2.7
+  Definición de Componentes Simétricas.
+
+
+2.8
+  Conversión de Circuitos Trifásicos en sus
+  Componentes Simétricas.
+
+
+2.9
+  Descripción de las Cargas Trifásicas mediante
+  Componentes Simétricas.
+
+
+ 
+
+
+
+UNIDAD
+  DIDÁCTICA II: CIRCUITOS DE PRIMER Y SEGUNDO
+  ORDEN.
+
+
+
+Tema
+  3. Respuesta de Circuitos de Primer Orden RL y
+  RC.
+
+
+3.1
+  Respuesta Natural de un Circuito RL.
+
+
+3.2
+  Respuesta Natural de un Circuito RC.
+
+
+3.3
+  Respuesta a Escalón de RL y RC Circuitos.
+
+
+3.4
+  Solución General a Escalón y Respuestas
+  Naturales.
+
+
+3.5
+  Conmutación Secuencial.
+
+
+3.6
+  Respuesta Ilimitada.
+
+
+3.7
+  Amplificador de Integración.
+
+
+ 
+
+
+
+Tema
+  4. Respuestas Natural y Escalón de los Circuitos
+  RLC.
+
+
+4.1
+  Introducción a la Respuesta Natural de un Circuito RLC en
+  Paralelo.
+
+
+4.2
+  Formas de la Respuesta Natural de un Circuito RLC en
+  Paralelo.
+
+
+4.3
+  Respuesta Escalón de un Circuito RLC en Paralelo.
+
+
+4.4
+  Respuesta Natural y Escalón de un Circuito RLC
+  Serie.
+
+
+4.5
+  Circuito con dos Amplificadores de Integración.
+
+
+ 
+
+
+
+Tema
+  5. La Transformada de Laplace en el Análisis de
+  Circuitos.
+
+
+5.1
+  Definición de la Transformada de Laplace.
+
+
+5.2
+  La Función de Paso.
+
+
+5.3
+  La Función de Impulso.
+
+
+5.4
+  Transformaciones Funcionales.
+
+
+5.5
+  Transformaciones Operacionales.
+
+
+5.6
+  Aplicación de la Transformada de Laplace.
+
+
+5.7
+  Transformada Inversa.
+
+
+5.8
+  Teoremas de Valor Inicial y Final.
+
+
+5.9
+  Circuito en el Dominio s.
+
+
+5.10
+  Análisis de Circuitos en el Dominio s.
+
+
+5.11
+  Función de Transferencia y Desarrollo en Fracciones
+  Parciales.
+
+
+5.12
+  Función de Transferencia e Integral de
+  Convolución.
+
+
+5.13
+  Función de Transferencia y Respuesta Sinusoidal de Estado
+  Estacionario.
+
+
+5.14
+  Función de Impulso en el Análisis de
+  Circuitos.
+
+
+ 
+
+
+
+UNIDAD
+  DIDÁCTICA III: ARMÓNICOS EN LOS SISTEMAS DE
+  POTENCIA.
+
+
+
+Tema
+  6. Armónicos.
+
+
+6.1
+  Cargas no lineales.
+
+
+6.2
+  Aumento de cargas no lineales.
+
+
+6.3
+  Efectos de los armónicos.
+
+
+6.4
+  Formas de onda distorsionada.
+
+
+6.5
+  Armónicos y Componentes de Secuencia.
+
+
+6.6
+  Índices armónicos.
+
+
+6.7
+  Factor de potencia, factor de distorsión, y factor de
+  potencia total.
+
+
+6.8
+  Teorías de potencia.
+
+
+6.9
+  Amplificación y atenuación de
+  armónicos.
+
+ 
+
+
+UNIDAD
+  IV: CIRCUITOS DE DOS PUERTOS.
+
+
+
+Tema
+  7. Cuadripolos.
+
+
+7.1
+  Ecuaciones de los Terminales.
+
+
+7.2
+  Parámetros.
+
+
+7.3
+  Análisis de circuitos de dos puertos.
+
+
+7.4
+  Interconexión de Circuitos de Dos Puertos.
+
+'

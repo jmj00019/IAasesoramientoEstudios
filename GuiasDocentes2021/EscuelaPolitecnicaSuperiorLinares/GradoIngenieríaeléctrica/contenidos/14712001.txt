@@ -1,0 +1,153 @@
+'
+
+
+Fundamentos y aplicaciones de
+  Electrónica de Potencia.
+Control y regulación de
+  máquinas de corriente continua.
+Control y regulación de
+  máquinas de corriente alterna.
+Circuitos de control y maniobra de
+  aparamenta eléctrica.
+
+
+
+
+
+Temario de
+  accionamientos y electrónica de
+  potencia
+
+
+
+Electrónica
+  de potencia
+
+
+
+Introducción a la
+    electrónica de potencia.
+
+
+Dispositivos semiconductores de
+    potencia.
+
+
+
+2.1. Parámetros generales y
+  valores límite. Interpretación de hojas de
+  características.
+
+
+2.2. Diodos rectificadores.
+  Asociación  serie y paralelo. Aplicaciones
+  básicas.
+
+
+2.3. Dispositivos con
+  tecnología bipolar. Tiristores y GTO. Circuitos de
+  activación, desactivación. Aplicaciones
+  básicas en rectificación semicontrolada.
+
+3.
+Dispositivos semiconductores de potencia de puerta aislada.
+Transistores MOSFET y IGBT. Circuitos drivers y snubbers de
+protección.
+4.
+Sistemas de disipación de potencia. Estudio de sistemas y
+parámetros de diseño.
+ 
+
+
+Accionamientos
+  eléctricos
+
+5. Rectificadores controlados.
+5.1.
+Introducción.
+5.2. Principio
+de funcionamiento de un rectificador con control de fase.
+5.3.
+Convertidor monofásico en puente completo con carga
+inductiva.
+5.4.
+Convertidor trifásico en puente completo.
+6. Reguladores
+de corriente alterna.
+6.1.
+Introducción.
+6.2. Regulador
+con control de fase y carga resistiva.
+6.3. Regulador
+con control de fase y carga inductiva.
+6.4. Regulador
+con control de fase trifásico.
+6.5. Regulador
+on-off.
+7.
+Convertidores c.c. a c.c. (Choppers o troceadores).
+7.1. Chopper
+directo o reductor de tensión ( convertidor reductor).
+7.2. Chopper
+inverso o elevador de tensión (convertidor elevador),
+2º cuadrante.
+7.3. Choppers
+de dos y cuatro cuadrantes.
+7.4.
+Convertidor de CC bidireccional.
+8.
+Convertidores c.c. a c.a. (inversores).
+8.1.
+Inversores monofásicos.
+8.2. Inversor
+trifásico en puente y técnicas de
+conmutación.
+8.3. Inversor
+con modulación de  vectores espaciales (SVM).
+8.4.
+Inversores multinivel.
+8.5. Control
+de la tensión de salida en un inversor.
+9.
+Accionamientos eléctricos.
+9.1.
+Generalidades.
+9.2.
+Funcionamiento en cuatro cuadrantes.
+9.3.
+Dinámica de la combinación motor-carga.
+Estabilidad.
+10.
+Accionamientos eléctricos para motores de c.c., propulsores
+de C.C.
+10.1.
+Generalidades.
+10.2.
+Regulación de la velocidad de motores de c.c. por medio de
+rectificadores controlados.
+10.3.
+Regulación de la velocidad de motores de c.c. por medio de
+choppers.
+10.4.
+Regulación de motores de c.c. mediante
+realimentación.
+11.
+Accionamientos eléctricos con motores de c.a.
+asíncronos, propulsores de CA.
+11.1.
+Introducción.
+11.2.
+Regulación de velocidad por control de la tensión de
+línea aplicada al estátor.
+11.3.
+Regulación de velocidad por control de la tensión y
+frecuencia de línea. Control escalar.
+11.4.
+Regulación de velocidad por control estático de una
+resistencia adicional en el rotor.
+11.5.
+Regulación de velocidad por recuperación de la
+potencia de deslizamiento.
+12. Circuitos
+de control y maniobra de aparamenta eléctrica.
+'

@@ -1,0 +1,164 @@
+'
+
+BLOQUE TEORÍA:
+Termodinámica
+Equilibrios físicos y químicos.
+Cinética Química.
+Macromoléculas.
+Química Física de Superficies
+Fenómenos de transporte.
+BLOQUE PRÁCTICO:
+Técnicas de laboratorio integrado de Química
+Física.
+Caracterización físico-química de
+sistemas y compuestos.
+
+Tema 1: Introducción a la Química Física.
+Fundamentos de Termodinámica.
+Química Física: concepto, objeto y finalidad.
+Enfoque macroscópico y microscópico.
+Clasificación de la Química Física. Conceptos
+de sistema, estado y variables termodinámicas. Magnitudes
+intensivas y extensivas. Primer y Segundo Principio de la
+Termodinámica. Funciones Termodinámicas. Relaciones
+de Maxwell. Potencial químico. Condiciones de equilibrio en
+sistemas termodinámicos Sistemas con intercambio de
+masa.
+Tema 2.-Termodinámica de gases reales y Magnitudes
+molares parciales.
+Concepto de gas real. Factor de compresibilidad y diagramas de
+compresibilidad. Ecuaciones de estado para gases reales. Variables
+reducidas y ley de los estados correspondientes. Experimento de
+Joule-Thomson. Potencial químico de un gas. Fugacidad de un
+gas real. Concepto de magnitud molar parcial. Relaciones entre
+magnitudes molares. Ecuación de Gibbs-Duhem. Cálculo
+de magnitudes molares parciales. Métodos matemático y
+gráfico.
+Tema 3.-Termoquímica.
+Calores en las reacciones químicas. Relación entre
+Qp y Qv. Ecuaciones y leyes termoquímicas. Estados de
+referencia. Calores de formación y combustión.
+Entalpías y energías de enlace en el cálculo
+de calores de reacción. Dependencia de los calores de
+reacción con la temperatura: Ecuación de
+Kirchhoff.
+Tema 4.-Cambios de fase.
+Conceptos básicos para el estudio de los equilibrios de
+fase. Ley de las fases de Gibbs. Cambio de fase de primer orden en
+sistemas de un solo componente. Ecuaciones de Clapeyron para los
+equilibrios sólido-líquido, líquido-vapor y
+sólido-vapor. Ecuación de Clausius-Clapeyron.
+Tema 5-Termodinámica de mezclas.
+Concepto de disolución. Formas de expresar la
+concentración. Potenciales químicos de mezclas de
+gases ideales. Ley de Dalton. Mezcla de gases reales. Disoluciones
+ideales. Leyes de Raoult y Henry. Disoluciones diluidas ideales.
+Desviaciones de la idealidad (disoluciones reales). Propiedades
+coligativas de las disoluciones. Descenso crioscópico.
+Ascenso ebulloscópico. Presión osmótica.
+Disoluciones reales. Potenciales químicos para los
+componentes de las disoluciones reales de no electrolitos.
+Tema 6.-Equilibrio en sistemas heterogéneos.
+Tipos de equilibrios heterogéneos en sistemas
+bicomponentes. Equilibrios líquido-vapor en sistemas
+ideales. Principios de la destilación fraccionada.
+Equilibrios líquido-vapor en sistemas no ideales. Mezclas
+azeotrópicas. Equilibrio líquido-líquido.
+Equilibrio sólido-líquido. Eutécticos simples.
+Curvas de enfriamiento.
+Tema 7.-Equilibrio químico.
+Equilibrio material. Condición general de equilibrio
+químico. Equilibrio y constantes de equilibrio en sistemas
+de gases ideales y reales. Influencia de la presión y la
+temperatura en la constante de equilibrio químico.
+Equilibrio químico en disoluciones líquidas ideales.
+Equilibrio químico en disoluciones reales.
+Tema 8.-Cinética formal y molecular. Catálisis
+química.
+Objeto y partes de la Cinética Química. Concepto
+de velocidad de reacción. Ecuación de velocidad,
+orden y molecularidad. Ecuaciones cinéticas de reacciones
+simples. Determinación de órdenes de reacción.
+Modelo cinético de Arrhenius. Teoría de colisiones
+simples. Teoría del estado de transición. Conceptos
+en catálisis química y tipos. Catálisis
+homogénea. Catálisis ácido-base.
+Catálisis heterogénea y etapas que la conforman.
+Catálisis enzimática. Cinética
+enzimática simple y homogénea. Ecuación de
+Michaelis-Menten.
+Tema 9.-Química Física de superficies.
+Definición y clasificación de interfases.
+Tensión superficial. Influencia de la temperatura sobre la
+tensión superficial. Procesos de adsorción en
+interfases líquidas. Isoterma de Gibbs. Concentración
+superficial de exceso. Sustancias activas e inactivas
+superficialmente. Concentración micelar crítica.
+Procesos de adsorción en interfases sólidas.
+Isotermas de Freundlich y Langmuir.
+Tema 10: Estructura atómica y molecular:
+espectroscopía.
+La radiación electromagnética y su
+interacción con la materia. Espectroscopía. Espectros
+de rotación, vibración y electrónicos.Grupos
+cromóforos y auxócromos. Fotoquímica.
+Secuencia fotoquímica. Proceso de absorción.
+Luminiscencia. Diagrama de Jablonski.Características de la
+emisión fluorescente.
+Tema 11.-Fenómenos de transporte.
+Tipos de fenómenos de transporte. Transporte de materia.
+Concepto de difusión. Leyes de Fick. Diálisis y
+ultrafiltración. Transporte de masas bajo fuerzas
+centrífugas.
+Tema 12.-Macromoléculas.
+Clasificación de las macromoléculas.
+Macromoléculas sintéticas de adición y
+condensación. Cinética y mecanismo de
+polimerización. Macromoléculas de adición.
+Macromoléculas de
+condensación. Caracterización de
+macromoléculas. Distribución de pesos
+moleculares.Tacticidad y Cristalinidad.Punto isoeléctrico y
+Presión osmótica.
+BLOQUE PRÁCTICO (LABORATORIO)
+
+Práctica nº1: Magnitudes molares parciales.
+  Determinación de los volúmenes molares parciales en
+  mezclas de agua-etanol.
+
+
+Práctica nº2: Obtención de curvas de
+  enfriamiento. Estudio de la formación de un
+  eutéctico simple en un sistema binario.
+
+
+P
+Práctica nº3: Cinética de
+hidrólisis del acetato de metilo. Determinación de la
+constante de velocidad, de la energía de activación y
+del factor de frecuencia.
+
+Práctica nº4: Medidas de tensión
+  superficial. Tensión superficial en sistemas
+  binarios.
+
+
+Práctica nº5: Adsorción de
+  líquidos en sólidos. Determinación de la
+  isoterma de adsorción del ácido oxálico
+  sobre carbón activo.
+
+
+Práctica nº6: Determinación de la
+  concentración micelar crítica (CMC) de
+  tensioactivos por medidas de conductividad.
+
+
+Práctica nº7: Obtención de
+  parámetros fisico-químicos y comprobación de
+  la ley de Kavanagh mediante aplicación de la
+  Espectroscopía de Fluorescencia.
+
+ 
+ 
+'

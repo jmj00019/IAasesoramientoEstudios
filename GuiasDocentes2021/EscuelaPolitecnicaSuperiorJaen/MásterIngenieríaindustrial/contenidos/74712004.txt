@@ -1,0 +1,103 @@
+'
+
+Introducción a la Ingeniería Química.
+Balances de materia: Conceptos generales.
+Balances macroscópicos de materia en sistemas sin
+reacción química.
+Balances macroscópicos de materia en sistemas con
+reacción química.
+Equilibrio entre fases.
+Balances macroscópicos de energía en sistemas
+sin reacción química.
+Balances macroscópicos de energía en sistemas
+con reacción química.
+Operaciones de separación. Reactores
+Químicos.
+ 
+
+
+
+Tema
+  1.- Introducción
+
+
+Procesos
+  y operaciones de la Industria Química. Laboratorio
+  integrado de Ingeniería Química.
+
+
+
+Tema
+
+2.-
+Balances de
+
+Materia
+y Energía 
+
+2.1
+Principio
+de conservaci
+
+ón.
+2.2 Balances
+de materia en sistemas con reacción química.
+2.3 
+Balances
+simultáneos de  
+Materia
+y Energía. 2.4 Balances de  
+Materia
+y Energía en estado no estacionario. 
+Aplicación
+de software comercial (ASPEN Plus) a la resolución
+deproblemas debalances de materia y energía
+ 
+
+
+Tema
+3.-
+
+Operaciones
+de separación
+
+.
+
+3.1
+  Introducción a los fenómenos de transporte. 3.2
+  Definición y clasificación de las operaciones
+  unitarias de separación. 3.3 Destilación. 3.4
+  Absorción de gases. 3.5 Adsorción.
+  3.6 Evaporación
+
+Aplicación
+de software comercial (ASPEN Plus) al diseño
+de columnas de destilación u otras unidades
+ 
+
+
+Tema
+  4.- Reactores Químicos.
+
+
+4.1
+Introducción
+a los Reactores Químicos. 
+4.2  
+
+Cinética
+química.
+4.3 
+
+Reactores
+ideales.
+4
+.4 
+  
+Introducción
+a los reactores reales
+ 
+Aplicación
+de software comercial (ASPEN Plus) al diseño de
+reactores
+'

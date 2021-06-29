@@ -1,0 +1,52 @@
+'
+
+Fundamentos básicos de lógica digital. Familias
+lógicas. Sistemas Digitales. Combinacionales. Sistemas
+Digitales Secuenciales. Introducción a la lógica
+programada.
+ 
+
+TEORÍA:
+TEMA 0: Introducción.
+0.1.- Objeto de la asignatura. 0.2.- Programa. 0.3.-
+Metodología. 0.4.- Bibliografía. 0.5.-
+Evaluación.
+TEMA 1: Familias Lógicas.
+1.1- Familia bipolar. 1.2.-Familia MOSFET. Problemas.
+TEMA 2: Sistemas Digitales Combinacionales.
+2.1.- Circuitos sumadores. 2.2.- Multiplexores. 2.3.-
+Codificadores. 2.4.- Problemas.
+TEMA 3: Sistemas Digitales Secuenciales.
+3.1.- Circuitos combinacionales y secuenciales. 3.2.-
+Biestables RS, JK, D y T. 3.3.- Biestables integrados.
+Problemas.
+
+TEMA 4: Contadores y Registros.
+4.1.- Contadores digitales: asíncronos y
+síncronos. 4.2.- Registros. 4.3.- Registros integrados.
+Problemas.
+TEMA 5: Representación de la información.
+5.1.- Sistemas de numeración. 5.2.- Aritmética
+binaria. 5.3.- Representación de la información en
+las máquinas. 5.4.- Problemas.
+TEMA 6: Introducción a la lógica programada.
+6.1.- Lógica programada. 6.2.- Los sistemas digitales de
+procesos síncronos. 6.3.- El sistema microcomputador.
+PRÁCTICAS:
+Práctica 0: Introducción y sistema de
+evaluación.
+Práctica 1: Interpretación de hojas de
+características de componentes. El entrenador digital.
+Características. Funcionamiento.
+Práctica 2: Puertas lógicas.
+Prácticas 3 y 4: Simplificación e
+implementación de circuitos lógicos
+combinacionales.
+Práctica 5: Biestables implementados con puertas
+lógicas.
+Práctica 6: Biestables integrados.
+Práctica 7: Contadores asíncronos.
+Prácticas 8, 9 y 10: Contadores
+síncronos. 
+Práctica 11: Examen.
+'

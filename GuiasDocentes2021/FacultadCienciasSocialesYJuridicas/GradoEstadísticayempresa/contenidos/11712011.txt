@@ -1,0 +1,76 @@
+'
+
+ACP, AF, ACO y AC
+
+
+1.- Representación de Datos Multivariantes
+Clasificación de las Técnicas Multivariantes
+Técnicas de dependencia
+Técnicas de interdependencia
+Otros criterios de clasicación
+Estadísticos Multivariantes
+Estadísticos para el vector completo de variables
+Estadísticos para subconjuntos de variables
+Combinaciones lineales de variables
+Medidas de la variabilidad total y de multicolinealidad
+Distancia entre vectores
+Observaciones atípicas
+Detección de casos atípicos
+
+2.- Análisis de Componentes
+Principales
+ Componentes principales a partir de la matriz de
+covarianzas
+ Interpretación geométrica
+ Componentes principales a partir de la matriz de
+correlaciones
+ Representación gráfica de las componentes
+principales
+ Número de componentes principales a retener
+ Información en las últimas componentes
+principales
+ Interpretación de las componentes
+principales
+
+3.-  Análisis Factorial
+Modelo factorial ortogonal
+Formulación e hipótesis
+No unicidad de las cargas factoriales
+Estimación de las cargas y las comunalidades
+Método de las componentes principales
+Método de los ejes principales
+Método de máxima verosimilitud
+Otros métodos de extracción de factores
+Comparación de métodos
+Determinación del número de factores
+Rotación
+Rotación ortogonal
+Rotación oblicua
+Puntuaciones factoriales
+Validez de modelo de análisis factorial
+Contrastes en el modelo factorial
+Relación entre el AF y el ACP
+La cuestión del número de factores a retener:
+una visión moderna
+
+4.- Análisis de Correspondencias
+Perfies fila y columna
+Contraste de independencia
+Coordenadas para representar gráficamente a los
+perfiles filas
+y a los perfiles columnas
+Normalización e interpretación del ACO
+Masa, inercia, contribución y calidad
+Puntos suplementarios
+Análisis de Correspondencias Múltiple
+
+5.- Análisis Cluster
+Medidas de similitud o disimilitud
+Métodos de agrupamiento jerárquico
+Métodos no jerárquicos
+Elección del número de clusters
+Validación de clusters
+Agrupamiento de variables
+Hipótesis del AC
+ACP y AC
+'

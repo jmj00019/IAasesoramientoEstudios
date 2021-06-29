@@ -1,0 +1,184 @@
+'
+
+-Conceptos básicos sobre realidad virtual y aumentada.
+Uso en el ámbito de la simulación y emulación
+de procesos industriales.
+-Programación de entornos virtuales mediante el uso de
+dispositivos avanzados de realidad virtual (información
+estereoscópica, háptica y/o auditiva).
+-Ventajas en el ámbito de la industria del uso de la
+tecnología de realidad virtual.
+
+
+La asignatura
+  se fundamenta en el análisis de las principales
+  tecnologías que permiten el desarrollo de entornos
+  virtuales en el ámbito de la industria. Conocer el
+  ámbito de uso de los mismos, tanto en relación al
+  desarrollo de simuladores de entrenamiento como emuladores de
+  procedimientos de la industria. Familiarización con el
+  flujo bidireccional multimodal propios de las aplicaciones
+  basadas en la realidad virtual y aumentada. Creación de
+  modelos visuales, auditivos y/o hápticos que permitan
+  enriquecer el flujo de salida del sistema. Analizar y conocer las
+  posibles entradas a un sistema avanzado de realidad virtual
+  mediante el estudio de distintos periféricos, que permitan
+  la localización de una persona, la detección de
+  gestos realizados o fuerza aplicada, etc. Analizar las distintas
+  aplicaciones en las que poder integrar tecnologías
+  avanzadas de realidad virtual en el ámbito de la
+  industria.
+
+
+Este contenido
+  se desarrolla a través de temas teóricos y de
+  actividades prácticas que se describen a
+  continuación:
+
+
+
+TEORÍA
+
+
+
+Introducción
+  a las tecnologías de Realidad Aumentada y Realidad
+  Virtual.
+
+Tipos y evolución de las tecnologías.
+
+Uso en
+      distintos ámbitos. 
+
+
+
+Programación
+  de entornos gráficos y herramientas.
+
+
+Conceptos
+      básicos. Renderizado, vistas, texturas, materiales,
+      iluminación.
+
+
+Representación
+      basada en jerarquías nodos.
+
+
+Construcción
+      de geometrías. Operaciones básicas.
+
+
+Propiedades
+      básicas: Color, material, texturas e
+      iluminación.
+
+
+Mecanismos
+      de interacción. Desarrollo de una GUI con
+      interacción básica (teclado, ratón).
+      Detección de colisiones.
+
+
+Aspectos
+      especiales. Importación de modelos 3D,
+      animación, LOD.
+
+
+Virtualización
+      y Realidad Aumentada.
+
+Herramientas de desarrollo.
+
+
+Modelado
+  de información de salida.
+
+
+Interacción
+      visual. Estereoscopía y sincronizacion de lo virtual y
+      lo real en realidad aumentada.
+
+
+Programación
+      de audio para aplicaciones interactivas.  Conceptos
+      básicos de audio y fisiología del oido. 
+      Audio espacial y Sonido en Unity. Herramientas de efectos y
+      motores de sonido (FMOD).
+
+
+Modelado
+      háptico. Conceptos básicos sobre
+      estimulación propioceptiva y táctil.
+      Renderizado háptico, simulación de texturas,
+      simulación de deformaciones.
+
+
+
+Dispositivos de
+  entrada/salida avanzados.
+
+
+Dispositivos
+      de visualización.
+
+
+Sensores
+      de posición. Desde los trackers magnéticos a
+      los infrarrojos (Kinect, LeapMotion).
+
+
+Dispositivos
+      hápticos. Desde ratones con estimuladores
+      piezoeléctricos hasta los Phantom y/o brazos
+      robóticos.
+
+
+
+Aplicaciones de la
+  realidad virtual en la industria
+.
+
+
+Simuladores de
+      entrenamiento.
+
+
+Otras
+      aplicaciones (emuladores).
+
+
+
+
+
+PRÁCTICAS
+
+
+
+P1 (Asociada a Tema2). Creación y
+  renderizado básico de un objeto 3D. Desarrollar un objeto
+  básico en 3D o importación de un modelo (blender o
+  3Dstudio) en Ogre o Unity.
+
+
+
+P2 (Asociada a Tema 3). Incorporar al modelo
+  creado en P1 interacción. Simular la pulsación o
+  desplazamiento de un objeto e incorporar realimentación
+  sonora y/o visual.
+
+
+
+P3. (Asociada a Tema 4). Incorporar realismo al
+  modelo creado en P2. Añadir información
+  háptica en cuanto a textura y/o deformaciones de un objeto
+  y o pieza. Incorporar información visual (sombras, luz y
+  parámetros de estereoscopía) para hacer más
+  realista una pieza u objeto. Incorporar información
+  auditiva binaural para dotar de realismo auditivo a la
+  interacción con objetos o entornos sonoros.
+
+ 
+ 
+ 
+'

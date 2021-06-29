@@ -1,0 +1,73 @@
+'
+
+
+Fabricación aditiva (doméstica e
+  industrial).
+Diseño.
+Producción / fabricación.
+Digitalizado 3D.
+Visión artificial.
+Control de calidad de proceso de fabricación mediante
+  visión 3D.
+
+
+
+
+Introducción
+    a Ingeniería de Fabricación 4.0.
+
+
+Fundamentos
+    mecánicos para la fabricación aditiva.
+
+
+Normativa
+    relacionada con AM y ensayos.
+
+
+Fundamentos
+    de técnicas ópticas de medida.
+
+
+Fabricación
+    Aditiva dentro del contexto actual de Ingeniería de
+    Fabricación. Actividades de Diseño,
+    Planificación y Fabricación Integrada
+
+
+Aplicación
+    del DFMA al concepto de AM. Restricciones de diseño en
+    AM
+
+
+Fabricación
+    tradicional vs. Fabricación 4.0
+
+
+Fabricación
+    Aditiva. Proceso de Fabricación
+
+
+Situación
+    de la AM dentro de la situación industrial actual
+
+
+Digitalización
+    3D en la industria 4.0
+
+
+Ingeniería
+    inversa y metrología dimensional
+
+
+Procesado
+    del diseño y Utilización de máquinas de
+    AM
+
+
+Estudios
+    de los defectos asociados a AM.
+
+
+ 
+'

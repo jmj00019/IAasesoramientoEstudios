@@ -1,0 +1,170 @@
+'
+
+Se analizará la aplicación a la
+investigación arqueológica de métodos
+analíticos desarrollados por otras ciencias y necesarios
+para la generación de datos imprescindibles en la
+interpretación histórica. Se estudiaran los datos que
+muestra el registro arqueológico básico para la
+reconstrucción medioambiental
+y económica de las poblaciones del pasado: polen,
+restos carpológicos, antracológicos, sedimentarios,
+faunísticos, etc.
+Para el análisis de los artefactos se explorarán
+los siguientes cinco campos: a) cronología
+arqueológica o arqueocrononometría, b)
+Analítica arqueológica (análisis
+físicos y químicos de los materiales en los que
+están realizados los artefactos), c) aplicaciones
+arqueológicas de sistemas de teledetección, y
+por último, d) métodos de manipulación y
+procesado de datos (por ejemplo, la construcción de modelos
+matemáticos, análisis estadísticos
+y técnicas de recuperación de datos).
+Se realizará una aproximación los modelos y
+métodos de análisis de datos estadísticos
+aplicables a diferentes problemas arqueológicos.
+Se analizará la aplicación de las técnicas
+informáticas y digitales a la introducción,
+gestión, almacenamiento, extracción y estudio de la
+información arqueológica.
+
+
+Se
+  estudian los materiales y datos que muestra el registro
+  arqueológico de origen orgánico, que nos sirven
+  para la reconstrucción medioambiental y económica
+  de las poblaciones del pasado: polen, restos carpológicos,
+  antracológicos, sedimentarios, faunísticos,
+  etc.
+
+
+Se
+  hace especial énfasis en los campos de la
+  arqueobotánica y arqueozoología, para el
+  conocimiento de las relaciones que las distintas poblaciones han
+  realizado con su entorno, de modo que podamos evaluar los cambios
+  paleoambientales que han ocurrido a lo largo de la prehistoria e
+  historia. Asimismo, estas relaciones con las plantas y animales
+  nos dan impotantes datos socioeconómicos y de la
+  gestión del entorno que estas sociedades
+  realizaron.
+
+
+Asimismo,
+  se realiza una aproximación al estudio de los  restos
+  antropológicos que se recuperan por metodología
+  arqueológica. Se evaluan los datos y conocimientos que nos
+  proporciona la antropología física para el
+  conocimiento de las poblaciones pasadas, así como del
+  origen y desarrollo de la especie humana.
+
+
+
+BIOARQUEOLOGÍA
+
+
+
+Tema
+  1: Bioarqueología y Arqueología. Conceptos
+  básicos.
+
+
+
+BLOQUE I: ARQUEOBOTÁNICA
+
+
+
+Tema
+  2. La relación entre el ser humano y las plantas.
+  Naturaleza y formación de los conjuntos
+  arqueobotánicos.
+
+
+Tema
+  3. Métodos y técnicas de recuperación de los
+  restos botánicos.
+
+
+Tema
+  4. Carpología: los recursos alimentarios. Productos,
+  procesos de trabajo y consumo.
+
+
+Tema
+  5. Antracología y dendrología: la gestión de
+  los recursos forestales.
+
+
+Tema
+  6. Palinología y fitolitos: el paisaje vegetal.
+
+
+Seminario
+  1: Caracterización e identificación de los restos
+  arqueobotánicos.
+
+
+
+BLOQUE II: ARQUEOZOOLOGIA
+
+
+
+Tema
+  7. La integración de la problemática
+  arqueozoológica  en la investigación
+  arqueológica.
+
+
+Tema
+  8. La naturaleza, formación y recuperación del
+  registro arqueofaunístico.
+
+
+Tema
+  9. La determinación de los restos de fauna y de la
+  estructura de las poblaciones animales recuperadas.
+
+
+Tema
+  10. Las modificaciones de los restos faunísticos y su
+  valoración.
+
+
+Tema
+  11. Cuantificación e interpretación del modelo de
+  gestión de los recursos animales.
+
+
+Seminario
+  2: Caracterización e identificación de los restos
+  arqueozoológicos
+
+
+
+BLOQUE III: ANTROPOLOGIA FÍSICA
+
+
+
+Tema
+  12. Los huesos humanos en la investigación de las
+  prácticas funerarias.
+
+
+Tema
+  13. Excavación y registro de sepulturas.
+
+
+Tema
+  14. Determinación osteológica y su
+  información
+
+
+Seminario
+  3: Caracterización e identificación de los restos
+  antropológicos.
+
+
+ 
+
+'

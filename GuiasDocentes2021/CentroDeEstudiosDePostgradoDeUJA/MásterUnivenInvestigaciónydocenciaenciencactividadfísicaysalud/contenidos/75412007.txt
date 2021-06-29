@@ -1,0 +1,68 @@
+'
+
+Bloque 1: Tecnologías para el análisis del
+movimiento humano en deporte y salud
+Recursos tecnológicos actuales para la evaluación
+del estado de salud y actividad física
+* Técnicas de imagen: Promoción de la salud y
+actividad física.
+* Rendimiento deportivo: doping y su detección.
+* Muerte súbita y deporte.
+Tecnologías avanzadas en el análisis del
+movimiento humano.
+* Evaluación integral de la calidad de vida
+relacionada con la salud (CVRS). El papel de las tecnologías
+para el análisis del movimiento humano dentro
+de la evaluación integral de la CVRS.
+* Cuantificación del movimiento humano.
+* Consideraciones metodológicas y tecnológicas
+sobre Fotogrametría (motion capture, motionanalysis,
+videoanálisis).
+* Técnicas no fotogramétricas.
+
+Bloque 2: Técnicas para la exposición
+pública de los resultados de la investigación
+* Tratamiento avanzado de software dirigido a la
+elaboración de la exposición y defensa pública
+de los trabajos de investigación y trabajos fin de
+máster.
+* Técnicas digitales en la elaboración de
+posters para Congresos.
+*La investigación educativa en base al dominio de las
+técnicas básicas de investigación tanto
+cuantitativas como cualitativas.
+
+Bloque 1: Recursos tecnológicos actuales para la
+evaluación del estado de salud y actividad física y
+Tecnologías para el análisis del movimiento humano en
+deporte y salud.
+- Recursos electrofisiológicos, bioquímicos y
+electromecánicos aplicados al ejercicio físico y
+salud.
+-Técnicas de imagen: Promoción de la salud y
+actividad física.
+-Muerte súbita y deporte.
+-Tecnologías avanzadas en el análisis del
+movimiento humano.
+-Evaluación integral de la calidad de vida relacionada
+con la salud (CVRS).
+-El papel de las tecnologías para el análisis del
+movimiento humano dentro de la evaluación integral de la
+CVRS.
+-Cuantificación del movimiento humano.
+-Consideraciones metodológicas y tecnológicas
+sobre Fotogrametría (captura y análisis del
+movimiento, videoanálisis).
+-Técnicas no fotogramétricas.
+Bloque 2.Técnicas para la exposición
+pública de los resultados de la investigación.
+ -Tratamiento avanzado de software dirigido a la
+elaboración de la exposición y defensa pública
+de los trabajos de investigación y trabajos fin de
+máster.
+- Técnicas digitales en la elaboración de posters
+para congresos.
+-La investigación educativa en base al dominio de las
+técnicas básicas de investigación tanto
+cuantitativas como cualitativas.
+'

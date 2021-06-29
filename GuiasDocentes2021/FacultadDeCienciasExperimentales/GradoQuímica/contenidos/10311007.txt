@@ -1,0 +1,36 @@
+'
+
+Algebra lineal
+Funciones de una y varias variables
+Ecuaciones diferenciales
+Métodos numéricos
+Introducción a la estadística
+
+Tema 1. Números y funciones. Derivación e
+integración. Sucesiones y series
+Tema 2. Álgebra lineal y geometría
+analítica
+Tema 3. Funciones de varias variables. Derivación e
+integración
+Tema 4. Cálculo vectorial
+Tema 5. Ecuaciones diferenciales y en derivadas parciales
+Tema 6. Análisis de Fourier
+Tema 7. Estadística y probabilidad
+Tema 8. Métodos numéricos
+Las clases teórico-prácticas con ordenador se
+desarrollarán en aulas de informática. De esta forma,
+se explicarán los conceptos teórico-prácticos
+correspondientes al Tema 8: Métodos Numéricos, y al
+mismo tiempo se resolverán ejercicios y programarán
+algoritmos haciendo uso del programa Mathematica. Así se
+considerarán los siguientes capítulos:
+Capítulo 0. Introducción al programa Mathematica y
+al Análisis Numérico
+Capítulo 1. Interpolación y
+Aproximación
+Capítulo 2. Integración Numérica
+Capítulo 3. Métodos numéricos para la
+resolución de ecuaciones
+Capítulo 4. Métodos numéricos de
+resolución de Problemas de Valores Iniciales
+'

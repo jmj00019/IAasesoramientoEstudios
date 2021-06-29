@@ -1,0 +1,79 @@
+'
+
+Introducción. Normativa sobre prevención de
+riesgos laborales. Riesgos biológicos. Muestras
+biológicas y agentes infecciosos. Riesgos físicos.
+Ra-
+diactividad en el laboratorio. Riesgos químicos.
+Primeros auxilios. Seguridad en la Universidad de Jaén.
+Bioética
+
+PROGRAMA TEORÍA
+1. Introducción
+a. Seguridad y salud en el
+laboratorio.
+b. Ley de prevención de
+riesgos laborales.
+c. Normativa vigente.
+d. Riesgos en el laboratorio y
+protocolos de prevención.
+e. Seguridad en la universidad de
+Jaén.
+2. Riesgos químicos
+a. Identificación de
+sustancias peligrosas.
+b. Frases R y frases S.
+c. Fichas de seguridad.
+d. Productos combustibles,
+comburentes, corrosivos, irritantes, nocivos y tóxicos.
+e. Manipulación,
+almacenamiento y eliminación de residuos.
+f. Normativa, control del material
+radiactivo y gestión de residuos.
+3. Riesgos físicos
+a. Riesgos mecánicos:
+precauciones básicas, medidas de seguridad.
+b. Riesgos eléctricos:
+conceptos básicos, cortocircuitos, aislamiento
+eléctrico, elementos de seguridad.
+c. Riesgos
+electromagnéticos
+d. Riesgo láser
+4. Radiactividad en el laboratorio
+a. Características de los
+isótopos radiactivos.
+b. Efectos biológicos de las
+radiaciones.
+c. Protección
+radiológica.
+d. Medidas de seguridad y
+técnicas de trabajo.
+e. Descontaminación.
+5. Muestras biológicas y agentes infecciosos
+a. Identificación y
+clasificación de agentes infecciosos. Fichas de seguridad de
+agentes infecciosos.
+b. Organismos modificados
+genéticamente.
+c. Situaciones de riesgo.
+d. Medidas de protección.
+e. Desinfección y
+esterilización.
+f. Transporte de agentes
+infecciosos.
+g. Gestión de residuos.
+7. Normativa sobre experimentación animal y humana.
+Comité de bioética.
+a. Métodos alternativos al
+empleo de animales de experimentación.
+8. Primeros auxilios
+PROGRAMA PRÁCTICAS
+1. Evaluación de sistemas de seguridad eléctrica
+en laboratorios de investigación.
+2. Radiactividad. Medición y técnicas de trabajo
+seguras en el laboratorio.
+3. Detección de Legionella ssp e identificación de
+Legionella pneumophila en muestras
+medioambientales/Detección de contaminación
+bacteriana mediante PCR.
+'

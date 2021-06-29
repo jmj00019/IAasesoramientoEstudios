@@ -1,0 +1,367 @@
+'
+
+Elementos del sistema eléctrico: sistemas de
+generación; sistemas de transporte; sistemas de
+distribución de energía eléctrica
+Flujo de cargas.
+Análisis de faltas y contingencias.
+Estabilidad del sistema eléctrico.
+Sobretensiones en el sistema eléctrico;
+características de las sobretensiones.
+Operación económica de sistemas de
+potencia.
+ 
+
+
+
+1.Sistema
+eléctrico. Generalidades
+ 
+
+1.1
+Introducción
+ 
+
+1.2
+Demanda y producción de energía
+eléctrica
+ 
+
+1.3
+Sector eléctrico español. Cobertura de la
+demanda
+ 
+
+1.4
+Descripción de un sistema de energía
+eléctrica
+ 
+
+1.5
+Aparamenta eléctrica
+ 
+
+1.6
+Descripción de instalaciones: generación transporte y
+distribución.
+
+
+2.Sistema
+por unidad
+ 
+
+2.1
+Magnitudes base en sistemas monofásicos
+ 
+
+2.2
+Magnitudes base en sistemas trifásicos
+ 
+
+2.3
+Magnitudes eléctricas en por unidad
+ 
+
+2.4
+Cambio de base
+ 
+
+2.5
+Ventajas del sistema por unidad
+
+
+3.Modelo de
+los transformadores
+ 
+
+3.1
+Transformadores monofásicos
+ 
+
+3.2
+Transformadores trifásicos
+ 
+
+3.3
+Circuito equivalente del transformador
+monofásico  
+ 
+
+3.4
+Circuito equivalente del transformador
+trifásico  
+ 
+
+3.5
+Autotransformadores
+ 
+
+3.6
+Transformadores reguladores
+
+
+4.Modelo de
+los generadores síncronos
+ 
+
+4.1
+Introducción
+ 
+
+4.2
+Principio de funcionamiento y trabajo en régimen
+permanente
+ 
+
+4.3
+Potencia suministrada por el generador
+ 
+
+4.4
+Modos y límites de funcionamiento
+ 
+
+4.5
+Generador conectado a un nudo de potencia infinita
+
+
+5.Parámetros
+de la línea de transmisión
+ 
+
+5.1
+Inductancia en líneas trifásicas
+ 
+
+5.2
+Capacitancia en las líneas trifásicas
+ 
+
+5.3
+Resistencia de los conductores
+ 
+
+5.4
+Capacidad de transporte de las líneas
+
+
+6.Modelo de
+las líneas de transmisión
+ 
+
+6.1
+Introducción
+ 
+
+6.2
+Modelo general
+ 
+
+6.3
+Línea de transmisión sin pérdidas
+ 
+
+6.4
+Línea de transmisión corta
+ 
+
+6.5
+Línea de transmisión media
+ 
+
+6.6
+Línea de transmisión larga
+ 
+
+6.7
+Relación tensión-potencia
+ 
+
+6.8
+Compensación de líneas
+
+
+7.Flujo de
+cargas
+ 
+
+7.1
+Introducción
+ 
+
+7.2
+Modelo de red
+ 
+
+7.3
+Modelo del flujo de cargas
+ 
+
+7.4
+Modelo de Gauss-Seidel
+ 
+
+7.5
+Modelo de Newton-Raphson
+ 
+
+7.6
+Flujo de potencias en continua
+ 
+
+7.7
+Control del flujo de potencias
+
+
+8.
+Operación óptima del sistema
+ 
+ 8.1 Introducción 
+ 8.2 Operación óptima de generadores en una
+barra del bus  
+ 8.3 Planificación óptima de las
+unidades
+
+8.4
+  Programación óptima de
+  generación 
+
+
+8.5
+  Programación óptima del sistema
+  hidrotérmico
+
+
+
+9.
+Control de frecuencia y control de tensiones 
+ 
+ 
+
+9.1
+ Introducción 
+ 
+
+9.2
+Control de carga-frecuencia o potencia-frecuencia en un
+área. 
+ 
+
+9.3
+Control automático de la tensión 
+ 
+
+9.4
+Control de carga frecuencia con restricciones 
+
+
+
+9.5
+controles digitales de carga-frecuencia 
+ 
+
+
+10.
+Análisis de faltas simétricas
+
+10.1
+Transitorios en una línea de trasmisión 
+ 
+
+10.2
+Cortocircuito de una máquina síncrona sin carga 
+ 
+
+10.3
+Cortocircuito de una máquina síncrona con carga 
+ 
+
+10.4
+Tipos de cortocircuitos 
+ 
+
+
+11. Componentes simétricas
+ 
+
+11.1
+Transformación en componentes simétricas 
+ 
+
+11.2
+Desplazamiento de fase en transformadores estrella.triángulo
+
+ 
+
+11.3
+Impedancias para las diferentes componentes 
+ 
+en
+líneas
+
+
+
+11.4
+Impedancia para las diferentes componentes en máquinas
+síncronas 
+ 
+
+11.5
+impedancia para las diferentes componentes en transformadores 
+ 
+
+
+12. Análisis de faltas
+asimétricas
+ 
+
+12.1
+Análisis de componentes asimétricas en faltas
+asimétricas. 
+ 
+
+12.2
+Falta de fase a tierra 
+ 
+
+12.3
+Falta de fase a fase 
+
+
+
+12.4
+Falta de fase fase a tierra
+ 
+  
+Prácticas
+
+Resolución
+  de circuitos eléctricos
+
+
+
+Sistema eléctricos en
+  p.u.
+
+
+Transformadores
+  de potencia 
+
+
+Modelos
+  de líneas: corta, media y larga.
+
+
+Flujos
+  de cargas en redes.
+
+
+Programación
+  de la generación.
+
+
+
+Faltas simétricas y
+  asimétricas. 
+
+'

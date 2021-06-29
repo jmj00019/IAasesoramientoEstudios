@@ -1,0 +1,27 @@
+'
+
+Naturaleza, estructura, replicación y herencia del
+material hereditario. Mapas genéticos. Introducción a
+la Ingeniería genética. Expresión
+génica y su regulación. Cambios en el material
+hereditario. Genética de poblaciones y evolución.
+
+Introducción
+1. Bases moleculares de la herencia
+2. Base cromosómica de la herencia
+3. Análisis genético mendeliano
+4. Extensiones y modificaciones del mendelismo
+5. Herencia de caracteres con variación
+continúa
+6. Genética de poblaciones
+7. Genética evolutiva
+8. Ligamiento y recombinación. Mapas genéticos
+9. Expresión génica
+10.Regulación de la expresión génica
+11.Mutación, reparación y transposición
+12.Alteraciones cromosómicas
+13.Genética del desarrollo, ciclo celular y
+cáncer
+14.Ingeniería genética
+15.Genómica
+'

@@ -1,0 +1,25 @@
+'
+
+
+Estadística descriptiva.
+Probabilidad. Probabilidad condicionada.
+Variables aleatorias. Principales modelos
+  teóricos.
+Inferencia estadística. Estimación puntual.
+  Contraste de hipótesis.
+Regresión lineal simple.
+
+
+
+Estadística descriptiva.
+Probabilidad.
+Variables aleatorias.
+Distribuciones de probabilidad.
+Introducción a la inferencia estadística.
+Estimación de parámetros de una
+  distribución.
+Contraste de hipótesis paramétricas y no
+  paramétricas.
+Regresión lineal simple.
+
+'

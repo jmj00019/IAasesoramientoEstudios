@@ -1,0 +1,287 @@
+'
+
+
+BLOQUE I.SONDEOS PETROLIFEROS
+
+
+ 
+
+
+BLOQUE II.- FLUIDOS DE PERFORACION
+
+
+ 
+
+
+BLOQUE III.-SISTEMA DE PERFORACION ROTARY
+
+
+ 
+
+
+BLOQUE IV.-ENTUBACIONES Y CEMENTACIONES
+
+
+ 
+
+
+BLOQUE V.-CONTROL DE ERUPCIONES
+
+ 
+
+BLOQUE VI.-IMPACTO AMBIENTAL.EVALUACION  Y
+  CORRECCION
+
+
+ 
+
+
+PRACTICAS DE TECNOLOGIA DE SONDEOS II
+  
+
+
+ 
+
+
+ 
+
+
+TEORIA
+ 
+  
+BLOQUE I. SONDEOS PETROLIFEROS
+ 
+TEMA 1. OBJETO DE LOS SONDEOS
+Planteamiento general de la asignatura. Concepto de sondeos.
+Bosquejo histórico. División de los sondeos.
+Principios generales de los distintos sistemas de
+perforación. Métodos de perforación.
+Parámetros de perforación. Campos de
+aplicación de los distintos métodos de
+perforación.
+TEMA 2. PROPIEDADES DE LAS ROCAS. FACTORES QUE AFECTAN A SU
+PERFORABILIDAD
+Introducción. Propiedades físicas. Perforabilidad
+de las rocas. Perforación rotopercutiva. Perforación
+rotativa. Factores que afectan a la velocidad de perforación
+de las formaciones rocosas.
+TEMA 3. PLANIFICACIÓN DE UN POZO
+Proceso de iniciación de un pozo. Programa de pozo.
+Estimación del tiempo de ejecución del pozo.
+Elección de contratistas. Estimación del coste del
+pozo.
+ 
+  
+ 
+BLOQUE II. FLUIDOS DE PERFORACION
+
+ 
+
+TEMA 4. FUNCIONES Y CARACTERISTICAS
+Introducción. Funciones de los fluidos de
+perforación. Características de los fluidos de
+perforación. Físicas.-Químicas.
+Características reológicas. Viscosidad y modelos de
+flujo.
+TEMA 5. CONTROL DE LODOS
+Generalidades. Medida de la densidad. Viscosidad y
+tixotropía. Viscosímetros. Agua de filtrado y cake.
+Ensayos. Contenido en arenas. Ph.-Contenido en sales.
+TEMA 6. TIPOS DE LODOS
+Lodos a base de agua y arcilla. Lodos a base de aceites. Espumas
+estables. Polimeros. Otros tipos.
+TEMA 7. FABRICACION Y CIRCULACION DEL LODO
+Fabricación del lodo. Equipos. Circulación del
+lodo. Líneas de impulsión. Bombas. Potencia necesaria
+en un equipo de bombeo. Perdidas de carga. Informe de
+inyección de lodos. Programación.
+TEMA 8. CONTAMINACION DEL LODO
+Contaminación química. Contaminación
+física. Tratamiento. Vibradores. Ciclones desarenadores.
+Desiltores. Desgasificador.
+  
+
+BLOQUE III. SISTEMA DE PERFORACION ROTARY
+
+
+ 
+
+TEMA 9. EQUIPOS
+Fundamentos. Torre o castillete. Subestructuras. Cabrestantes y
+cables. Bloque fijo y bloque viajero. Giratoria de
+inyección. Mesa de rotación y barras de arrastre
+Kelly. Equipos motrices. Disposiciones típicas.
+Accionamientos diesel. Eléctricos. Otros elementos:
+embragues, convertidores, cabrestantes auxiliares.
+TEMA 10. TRICONOS
+Triconos y trépanos. Descripción y formas de
+trabajo. Tipos de triconos. Clasificación. Desgaste.
+Criterios de utilización de triconos ó
+trépanos. Coronas. Sistema de avance con peso
+predeterminado.
+TEMA 11. SARTA DE PERFORACION
+Varillas y manguitos. Lastrabarrenas ó barras de carga.
+Materiales empleados. Propiedades físicas.-Roscas.
+Diámetro mínimo de drill-collar. Forma de trabajo y
+funcionamiento. Emplazamiento. Adición de drill-pipe.
+Extracción del tren de perforación. Maniobras.
+TEMA 12. PARAMETROS DE PERFORACION
+Peso sobre el tricono. Distribución estática de
+los esfuerzos. Punto neutro. Velocidad de rotación. Caudal
+de la bomba. Potencia hidráulica. Rendimiento
+hidráulico.-Efecto del peso y la hidráulica sobre el
+avance. Efecto de la rotación sobre el avance. Programa
+hidráulico.
+TEMA 13. PERFORACIÓN DE SONDEOS DESDE PLATAFORMAS 
+MARINAS
+Equipo de perforación marina. Evolución de los
+equipos offshore. Programas de perforación y
+entubación. Riser marino. Compensador de movimientos.
+TEMA 14. PERFORACION DIRECCIONAL
+Introducción. Métodos para el mantenimiento de la
+verticalidad. Control de la inclinación. Instrumentos.
+Causas de la desviación. Sondeos direccionales.
+Parámetros en un pozo direccional. Control de la
+trayectoria. Sistemas Top Drive. Mud motor ó down hole
+motor. MWD. Perforación horizontal.
+TEMA 15. MATERIAL DE PESCA
+Introducción. Normas de seguridad. Herramientas de pesca
+para tuberias. Interior y exterior. Herramientas de pesca
+hidráulicas. Herramientas para objetos metálicos.
+TEMA 16. PROBLEMAS EN LA PERFORACION
+Perdidas de circulación. Agarres de la sarta. Roturas por
+fatiga. Pescas de sarta. Erupciones.
+ 
+
+ 
+
+
+ 
+BLOQUE IV. ENTUBACIONES Y CEMENTACIONES
+
+ 
+
+TEMA 17. TUBERIA DE REVESTIMIENTO
+Funciones. Tipos de tubería (Casing). Normas A.P.I.
+Propiedades físicas. Programa de entubación.
+Operaciones de entubación. Control y accesorios de entubado.
+Fases de Perforación y entubado.
+TEMA 18. CEMENTACIONES
+Objetivos. Equipos de cementación. Bombeabilidad y
+fraguado de lechadas. Aditivos. Cementación en una sola
+etapa. Cementación en dos etapas. Centralizadores. Tapones.
+válvulas.
+
+ 
+
+
+BLOQUE V.-CONTROL DE ERUPCIONES
+
+ 
+TEMA 19. CABEZAS DE POZO
+Funciones. Cierre de tipo anular. Cierre de tipo mordaza.
+Manifold de choque. Linea de purga(choke line). Linea de
+inyección (Kill line). Brida de base. Adaptadores. Sistema
+hidráulico de accionamiento.
+TEMA 20. CONTROL DE ERUPCIONES
+Concepto de invasión. Concepto de erupción. Causas
+de una invasión. Indicios. Cierre del pozo y control.
+Presión de formación. Presiones en cabeza.
+Presión de circulación. Control de una
+invasión. Método del perforador. Método del
+ingeniero.
+ 
+
+ 
+BLOQUE VI. IMPACTO AMBIENTAL.EVALUACION  Y
+CORRECCION
+
+ 
+
+TEMA 21. TIPOS DE IMPACTOS
+Introducción. Impacto producido por la obra civil.
+Desmontes.-Desforestación. Impacto producido por la
+implantación de los equipos. Bases de cimentación.
+Impacto producido por los lodos.-Grado de afección en las
+aguas superficiales y subterráneas. Impacto producido por
+los combustibles y lubricantes.
+TEMA 22. MEDIDAS CORRECTORAS
+Restablecimiento de pendientes. Revegetación.
+Demolición de las bases de cimentación.
+Regeneración de los suelos y revegetación.
+Impermeabilización de las balsas de lodos. Tratamiento de
+residuos de la perforación. Recogida selectiva de aceites y
+taladrinas. Impermeabilización de zonas de para repostar
+combustible.
+ 
+
+PROGRAMA DE PRACTICAS DE TECNOLOGIA DE SONDEOS
+
+
+ 
+
+PRACTICA Nº 1. CONTROL DE LODOS
+Objeto: Determinar las características físicas,
+químicas y reológicas de los lodos.
+Fabricación de lodos a base de bentonita-agua en diferentes
+proporciones.
+
+ 
+
+PRACTICA Nº 2 .-BOMBAS
+Objeto: Calcular las perdidas de carga en un circuito de
+inyección de lodos. Cálculo de la potencia del motor
+de accionamiento de la bomba.
+
+ 
+
+PRACTICA Nº 3.-INYECCION DE LODOS
+Objeto: Efectuar los cálculos necesarios para completar
+un informe de inyección de lodos.
+
+ 
+
+PRACTICA Nº 4.-CALCULO DE SARTA DE PERFORACION
+Objeto: Determinar los esfuerzos en la sarta. Calcular la
+reserva de tracción. Cálculo de pesos aparentes.
+Longitudes de drill pipe y drill collar.
+
+ 
+
+PRACTICA Nº 5.-ENTUBACIONES Y CEMENTACION
+Objeto: Calcular la cementación de la entubación
+(casing). Volumen de lechada. Volumen de desplazamiento.
+Presión final de desplazamiento.
+
+ 
+
+PRACTICA Nº 6.-CABEZAS DE POZO
+Objeto: Diseñar el montaje de las cabezas de pozo en
+función del programa de perforación y
+entubación.          
+
+ 
+
+PRACTICA Nº 7.-CONTROL DE ERUPCIONES
+Objeto: Realizar las operaciones oportunas en caso de una
+invasión. Cálculos de volúmenes y tiempos de
+bombeo. Cálculo de control.
+
+ 
+
+PRACTICA Nº 8.-SELECCION DE EQUIPO DE PERFORACIONObjeto:
+Determinar las características que debe tener un equipo de
+perforación de pozos de petróleo y gas natural.
+Capacidad de la torre. Potencia de motores y bombas. Circuito
+tratamiento de sólidos. Cabezas de pozo, B.O.P. y
+acumuladores. Conocidas la profundidad, fases de
+perforación, hidráulica requerida, tuberias de
+revestimiento, tipo de lodo y presiones máximas
+esperadas.
+ 
+PRACTICAS DE CAMPO El programa de prácticas de la
+asignatura de Sondeos II, estará complementado, con las
+visitas a los sondeos que se estén realizando en la zona, o
+en otras regiones.
+ 
+'

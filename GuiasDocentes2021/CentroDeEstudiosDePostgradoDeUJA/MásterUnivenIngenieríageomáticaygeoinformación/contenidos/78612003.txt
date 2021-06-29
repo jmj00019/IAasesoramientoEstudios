@@ -1,0 +1,43 @@
+'
+
+1. Fundamentos de UML.
+2. Bases de la modelización cartográfica.
+3. Modelización de la IG (Inspire, .. ).
+4. Fundamentos de XML.
+5. Ejemplos de aplicación a la Gestión
+Inteligente.
+
+Fundamentos de UML.
+Bases de la modelización cartográfica.
+Modelización de la IG (Inspire, ..).
+Fundamentos de XML.
+Ejemplos de aplicación a la Gestión
+Inteligente.
+Bases de la modelización cartográfica.
+
+Tema 1. Introducción.
+  - Modelo cartográfico
+  - Técnicas de formalización
+
+Tema 2. Fundamentos de UML.
+  - Diagramas de clase
+  - Asociaciones y objetos compuestos
+
+Tema 3. Modelización de la IG.
+  - Normas 19103, 19109 y 19110
+  - Guías técnicas Inspire
+
+Tema 4. Fundamentos de XML.
+  - Introducción a XML
+  - Creación de documentos bien formados
+  - Creación de documentos válidos
+  - Definición y utilización de entidades
+  - Visualización de documentos XML
+
+Práctica:
+
+Ejemplos de aplicación a la Gestión
+Inteligente.
+ 
+ 
+'

@@ -1,0 +1,51 @@
+'
+
+
+Variable compleja.
+
+Números complejos y funciones de variable compleja.
+Derivabilidad en sentido complejo. Singularidades.
+
+Análisis vectorial.
+
+Campos escalares y vectoriales. Derivación de campos: Los
+operadores gradiente, divergencia y rotacional. Teoremas integrales
+del cálculo vectorial.
+
+Ecuaciones diferenciales ordinarias.
+
+Ecuaciones diferenciales lineales de coeficientes constantes:
+teoría básica, relación con la teoría
+de filtros de ondas y resolución.
+
+Ecuaciones en derivadas parciales.
+
+La ecuación de ondas: Deducción física,
+estudio de su resolución mediante el uso de series de
+Fourier, aplicaciones. Otras EDPs de interés para las
+telecomunicaciones.
+
+DESARROLLO DEL PROGRAMA.
+Tema 0. Revisión de la integración en varias
+variables.
+ 
+Tema 1. Análisis vectorial.
+Campos escalares y vectoriales. Los operadores gradiente,
+divergencia y rotacional. Integral de línea y de superficie.
+Teoremas integrales del cálculo vectorial.
+
+Tema 2. Ecuaciones diferenciales ordinarias.
+Conceptos generales. Ecuaciones diferenciales lineales de
+orden superior. Sistemas de ecuaciones diferenciales. Aplicaciones
+a la Ingeniería de telecomunicación.
+
+Tema 3. Ecuaciones en derivadas parciales.
+La ecuación de ondas. Otras ecuaciones en derivadas
+parciales de interés para la ingeniería de
+telecomunicacón.
+
+Tema 4. Variable compleja.
+Números complejos. Funciones de variable compleja.
+Derivación. Integración. Fórmula integral de
+Cauchy. Singularidades. Teorema de los residuos.
+'

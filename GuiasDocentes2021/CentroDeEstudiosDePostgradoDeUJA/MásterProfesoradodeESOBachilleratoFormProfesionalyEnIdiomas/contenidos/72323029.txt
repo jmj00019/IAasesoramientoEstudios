@@ -1,0 +1,142 @@
+'
+
+
+El desarrollo histórico y reciente de las
+  Matemáticas y su papel en el proceso educativo.
+análisis epistemológico y didáctico de
+  las matemáticas escolares.
+Contextos y situaciones del entorno, relevantes para la
+  enseanza de las matemáticas.
+Concepto, tipos y estrategias de resolución de
+  problemas.
+
+
+
+
+
+Bloque
+  I:
+
+
+Lección
+  1:  Números y Geometría (la razón
+  aúrea, geometría del triángulo y de la
+  circunferencia,...)
+
+
+Lección
+  2:  Simetría (movimientos en el plano, teselaciones,
+  frisos, mosaicos,...)
+
+
+Lección
+  3:  Sólidos 3D (poliedros, sólidos
+  platónicos y arquimedianos,...)
+
+
+Lección
+  4:  Curvas (ecuaciones, envolventes, espirales,
+  hélices, ...)
+
+
+Lección
+  5:  Superficies I (cuádricas, superficies de
+  revolución y regladas,...)
+
+
+Lección
+  6:   Superficies II (pompas y películas de
+  jabón)
+
+
+
+
+Bloque
+  II: 
+
+
+Lección
+  1:  El mundo de los números (naturales, racionales,
+  reales, sucesiones, ...)
+
+
+Lección
+  2:  Funciones (continuidad, derivabilidad, polinomio de
+  Taylor, representación gráfica, ... )
+
+
+Lección
+  3:  Integración (áreas, primitivas,
+  ...)
+
+
+Lección
+  4:  Métodos Numéricos (aproximación de
+  raíces, interpolación, integración
+  numérica, ...)
+
+
+Lección
+  5:  Modelización (funciones en las ciencias, la
+  ingeniería, la economía, ...)
+
+
+Lección
+  6: Análisis en la vida cotidiana (análisis de
+  señales, mp3, jpeg, wifi, ...)
+
+
+ 
+
+
+Bloque
+III:
+
+Lección
+  1:  Uso y abuso de la Estadística (obtención y
+  representación de datos; análisis e
+  interpretación de resultados; población y muestra;
+  errores estadísticos comunes; ...)
+
+
+Lección
+2:
+  
+Probabilidad y azar:
+la belleza del orden en el caos (álgebra de sucesos y
+probabilidad; condicionamiento; teoremas y leyes del azar;
+...)
+
+Lección
+3:
+ 
+Variables aleatorias
+(distribuciones univariantes; distribuciones multivariantes;
+esperanza matemática y varianza; regresión y
+correlación; ...)
+
+Lección
+4:
+ 
+Distribuciones de
+probabilidad usuales (distribuciones discretas; distribuciones
+continuas; normal univariante; normal multivariante; sucesiones de
+variables aleatorias; problema central del límite y
+aplicaciones;...)
+
+Lección
+5:
+ 
+Inferencia
+estadística (parámetros estadísticos;
+estimación puntual y por intervalos; contrastes de
+hipótesis;...)
+
+Lección
+6:
+ 
+La
+Estadística en la actualidad (el INE: índices,
+encuestas, etc.; redes sociales; minería de datos o data
+mining; grandes datos o big data;...)
+'

@@ -1,0 +1,139 @@
+'
+
+
+Introducción
+  a la inspección automática: aplicaciones
+  industriales que hacen uso de la Visión por
+  Computador
+
+
+Componentes
+  de un sistema de visión por computador: dispositivos de
+  adquisición, ópticas y sistemas de
+  iluminación.
+
+
+Preprocesamiento
+  de la imagen.
+
+
+Detección
+  de bordes.
+
+
+Segmentación
+  de la imagen.
+
+
+Extracción
+  de características.
+
+
+Reconocimiento
+  de objetos.
+
+
+Aplicaciones
+  de Visión en automatización y
+  robótica.
+
+
+
+PARTE 1. INTRODUCCIÓN.
+
+CAPÍTULO 1. Introducción a la visión por
+computador
+
+ Definición y conceptos fundamentales.
+  Introducción a la visión por computador.
+ Campos de aplicación.
+ Elementos de un sistema de visión por
+  computador.
+
+
+PARTE 2. ETAPAS DE UN PROCESO DE VISIÓN POR
+  COMPUTADOR.
+
+
+CAPÍTULO 2. Adquisición de imágenes.
+
+ Sensores visuales.
+  Ópticas.
+ Sistemas de iluminación.
+
+CAPÍTULO 3. Preprocesamiento de la imagen.
+
+ Manipulación del contraste.
+ Eliminación del ruido.
+ Realce de la imagen.
+
+CAPÍTULO 4. Detección de bordes.
+
+ Introducción.
+ Operadores basados en el Gradiente.
+ Operadores basados en la Laplaciana.
+ Operador de Canny.
+
+CAPÍTULO 5. Segmentación de la imagen.
+
+ Introducción.
+ Técnicas basadas en la frontera.
+ Segmentación mediante umbralización.
+ Segmentación basada en regiones.
+
+CAPÍTULO 6. Extracción de
+características.
+
+ Introducción.
+ Descriptores de frontera.
+ Descriptores de similitud.
+ Descriptores de región.
+
+CAPÍTULO 7. Reconocimiento de objetos.
+
+ Conceptos básicos y metodologías.
+ Funciones de decisión.
+ Clasificadores paramétricos.
+ Clasificadores no paramétricos entrenables.
+
+
+PARTE 3. SISTEMAS INDUSTRIALES DE VISIÓN POR
+  COMPUTADOR.
+
+
+CAPÍTULO 8. Aplicaciones de Visión en
+Automatización y Robótica.
+
+ Sistemas de visión industriales.
+ Inspección y control de calidad.
+ Asistencia al agarre y manipulación de
+  robots.
+
+
+PRÁCTICAS
+
+
+Práctica 0. Introducción a Matlab (toolboxes
+  visión).
+Práctica 1. Introducción a las interfaces de
+  usuario.
+Práctica 2. Interfaces de usuario.
+Práctica 3. Reducción de ruido en la
+  imagen.
+Práctica 4. Detección de bordes en una imagen
+  (I).
+Práctica 5. Detección de border en una imagen
+  (II).
+Práctica 6. Segmentación de la imagen (I).
+Práctica 7. Segmentación de la imagen
+  (II). 
+Práctica 8. Segmentación de la imagen
+  (III).
+Práctica 9. Extracción de
+  características (I).
+Práctica 10. Extracción de
+  características (II).
+Práctica 11. Reconocimiento de formas (I). 
+Práctica 12. Reconocimiento de formas (II).
+
+'

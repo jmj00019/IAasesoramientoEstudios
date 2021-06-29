@@ -1,0 +1,81 @@
+'
+
+Tipos de datos geométricos en 2D y 3D. Estructuras de
+datos espaciales. Teselaciones. Problemas de localización y
+proximidad. Intersecciones. Aplicaciones a SIG, detección de
+colisiones y visibilidad
+ 
+
+
+Tema 1:Tipos de datos geométricos en 2D 
+  
+Clases de objetos geométricos y operaciones
+    fundamentales 
+
+Tema 2:Tipos de datos geométricos en 3D 
+  
+Clases de objetos geométricos y operaciones
+    fundamentales 
+
+Tema 3: Intersecciones 
+  
+Intersección de planos, segmentos y
+    polígonos
+Método de barrido para intersección de
+    planos
+
+Tema 4: Estructuras de datos espaciales 
+  
+Definición y creación de estructuras de datos
+    espaciales en 2D y 3D: Mallas regulares, kd-trees, range-trees,
+    quadtrees, octrees, etc.
+Operaciones básicas
+
+Tema 5: Paradigmas de programación de algoritmos
+  geométricos: 
+  
+Divide y vencerás, Incremental, Línea de
+    barrido
+El caso particular de la envolvente convexa
+
+Tema 6: Problemas de localización y proximidad 
+  
+Localización de puntos
+El diagrama de Voronoi
+
+Tema 7: Teselaciones 
+  
+PSLG
+Nubes de puntos: triangulaciones, Delaunay
+
+Tema 8: Detección de colisiones y visibilidad 
+  
+Algoritmos y EEDD para detección de colisiones: fase
+    ancha y fase estrecha.
+Algoritmos y EEDD para cálculo de visibilidad.
+    Borrado de superficies ocultas, Ray-tracing.
+
+Tema 9: Aplicaciones a los Sistemas de Información
+  Geográficos 
+  
+Definición de terrenos en formato ráster y
+    vectorial
+Algoritmos para manejo de terrenos y transformación
+    de modelos
+
+
+ 
+Programa Práctico:
+El programa práctico consistirá en la entrega
+de una serie de prácticas  a lo largo del
+curso, con temática relacionada con el temario
+teórico. Los requisitos de las prácticas
+serán:
+
+Lenguaje de programación Java/C++
+Entorno de programación visual JOgl/Unity/CGAL
+  dependiendo de la temática
+La última práctica será
+  individual 
+
+'

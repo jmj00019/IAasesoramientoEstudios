@@ -1,0 +1,166 @@
+'
+
+El alumno adquirirá conocimientos sobre las
+características de los sistemas de transmisión
+digital, el proceso de cuantificación, las diferentes clases
+de codificadores de canal, los tipos de multiplexación y las
+técnicas de espectro ensanchado.
+Igualmente, el alumno simulará diferentes bloques de
+los sistemas de transmisión digital al objeto de
+caracterizar su funcionamiento.
+Palabras Clave: transmisión digital,
+cuantificación, Max-lloyd, LBG, codificación de
+canal, códigos lineales, códigos cíclicos,
+crc, códigos convolucionales, algoritmo de viterbi,
+multiplexación, FDM, TDM, CDM, espectro ensanchado,
+secuencia directa, salto de frecuencia, sincronización.
+
+Además, se dotará al alumno de la capacidad para
+estar al día en las novedades en ciencia y
+tecnología, sobre todo en este tipo de materias, tan ligadas
+a un entono tan dinámico como son las
+telecomunicaciones.
+A continuación se detallan los contenidos en los
+siguientes apartados:
+
+
+TEORÍA Y PROBLEMAS:
+
+TEMA 1: INTRODUCCIÓN A LOS SISTEMAS DE
+TRANSMISIÓN DIGITAL
+-   Clasificación de Señales.
+-   Densidad Espectral.
+-   Autocorrelación.
+-   Variables Aleatorias. Procesos
+estocásticos. Estacionariedad. Ergodicidad.
+-   El Sistema de Transmisión Digital.
+Ventajas e inconvenientes. Medidas de calidad.
+-   Clasificación de los Sistemas de
+Transmisión Digital.
+
+TEMA 2: CUANTIFICACIÓN
+-   Introducción a la cuantificación.
+-   Clasificación de los cuantificadores.
+-   Ruido de cuantificación.
+-   Cuantificación uniforme.
+-   Cuantificación no uniforme.
+-   Cuantificación adaptiva.
+-   Cuantificación vectorial.
+
+TEMA 3: CODIFICACIÓN DE CANAL DE FORMA DE ONDA
+-   Señales antipodales y ortogonales.
+Coeficiente de correlación cruzada.
+-   Detección por correlación.
+-   Códigos ortogonales.
+-   Códigos biortogonales.
+-   Códigos transortogonales.
+
+TEMA 4: CODIFICACIÓN DE CANAL DE SECUENCIAS
+ESTRUCTURADAS
+-   Introducción.
+-   Tipos de control de error.
+-   Modelos de canal.
+-   Tasa de codificación y redundancia.
+-   Ejemplos sencillos de códigos con
+chequeo de paridad.
+-   Ganancia de codificación.
+
+TEMA 5: CÓDIGOS DE BLOQUE LINEALES.
+-   Introducción.
+-   Aproximación algebraica a los
+códigos de bloque.
+-   Matriz generatriz. Chequeo de paridad. Concepto
+de síndrome.
+-   Detección y corrección de
+errores.
+-   Códigos lineales conocidos.
+-   Códigos cíclicos.
+-   Detección y corrección de errores
+a ráfagas.
+
+TEMA 6: CÓDIGOS CONVOLUCIONALES
+-   Introducción.
+-   Codificación convolucional.
+-   Representación de un codificador
+convolucional.
+-   Algoritmos de decodificación
+convolucional. Algoritmo de Viterbi.
+-   Detección y corrección de errores
+con códigos convolucionales.
+-   Códigos concatenados y entrelazados.
+
+TEMA 7: MULTIPLEXACIÓN Y ACCESO MÚLTIPLE
+-   Introducción.
+-   Multiplexación/acceso múltiple
+por división de frecuencia (FDM/FDMA).
+-   Multiplexación/acceso múltiple
+por división de tiempo (TDM/TDMA).
+-   Comparación entre FDM/FDMA y TDM/TDMA
+-   Multiplexación/Acceso múltiple
+por división de código      
+
+TEMA 8: TECNICAS DE ESPECTRO ENSANCHADO
+-   Introducción
+-   Características de las técnicas
+de Espectro Ensanchado
+-   Secuencias Pseudoaleatorias
+-   Sistemas de Espectro Ensanchado por secuencia
+directa
+-   Espectro ensanchado por salto de frecuencia
+-   Sincronización
+-   Aplicaciones de las técnicas de espectro
+ensanchado
+ 
+
+PRÁCTICAS
+
+El bloque práctico de la asignatura se compone de
+prácticas en el laboratorio, y su carácter es
+obligatorio.
+El objetivo de las prácticas propuestas es la
+consecución de las competencias establecidas. Además,
+se desarrollarán habilidades de comunicación
+información, ideas, problemas y soluciones en el
+ámbito de ingeniería y la sociedad en general a
+través de procesos de entrega de documentación o
+presentaciones orales.
+Con respecto a la organización del trabajo, se
+fomentará la colaboración y trabajo en equipo a
+través del propio diseño de las prácticas.
+Los contenidos prácticos son los siguientes:
+Práctica 1. Funciones básicas con MATLAB.
+- Generación de señales de uso frecuente en los
+sistemas de comunicación.
+- Cálculo y representación de la función
+de autocorrelación, espectro de potencia o energía.
+- Obtención de parámetros de las
+señales.
+- Producto vectorial.
+
+Práctica 2. Cuantificación.
+ -    Implementación de un
+cuantificador uniforme.
+-    Caracterización del funcionamiento
+del cuantificador uniforme en función de sus
+parámetros (rango dinámico, número de bits).
+-   Error granular y de sobrecarga.
+-   Dependencia de la relación
+señal-ruido en función de la señal de
+entrada.
+Práctica 3.  Codificación de Canal
+ -    Simulación de un sistema de
+transmisión digital con codificador de canal.
+-    Evaluación de la tasa de error en
+canales con ruido.
+ -    Uso de entrelazador/desentrelazador
+ Práctica 4.  Simulación de un
+sistema completo de transmisión digital
+- En esta última práctica se van a combinar las
+diferentes prácticas que se han realizado a lo largo del
+curso, persiguiendo ofrecer una idea más global del
+funcionamiento de un sistema de transmisión digital.
+
+SEMINARIOS
+
+SEMINARIO 1. Codificación entrópica
+'

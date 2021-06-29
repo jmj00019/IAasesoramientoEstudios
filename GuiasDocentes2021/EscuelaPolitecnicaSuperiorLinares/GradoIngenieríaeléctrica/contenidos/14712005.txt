@@ -1,0 +1,246 @@
+'
+
+
+Estado cristalino.
+Aleaciones.
+Solidificación y difusión.
+Diagramas de equilibrio. 
+Materiales metálicos y sus tratamientos.
+Corrosión y su control.
+Materiales poliméricos.
+Materiales cerámicos. Procesado de cerámicas y
+  vidrios. 
+Materiales compuestos. 
+Ensayos de los materiales.
+Conceptos básicos de tecnologías medio
+  ambientales.
+
+
+Bloque 1. Estado cristalino
+Bloque 2. Aleaciones
+Bloque 3. Solidificación y Difusión
+Bloque 4. Diagramas de equilibrio
+Bloque 5. Materiales metálicos y sus tratamientos
+Bloque 6.Corrosión y su control
+Bloque 7. Materiales poliméricos
+Bloque 8. Materiales Cerámicos. Procesado de
+Cerámicos y Vidrios
+Bloque 9. Materiales Compuestos
+Bloque 10. Ensayos de Materiales
+Bloque 11. Conceptos básicos de Tecnologías
+Medio Ambientales.
+BLOQUE 1. ESTADO CRISTALINO
+TEMA 1.- LA CIENCIA DE LOS MATERIALES. LA ELECCIÓN DEL
+MATERIAL. La Ciencia de Materiales:
+concepto, relación con la Ingeniería y la
+Industria. Materiales para Ingeniería: clasificación
+según el tipo de
+enlace. Estructura y propiedades de los materiales.
+Selección de los materiales en Ingeniería.
+TEMA 2.- ESTRUCTURA CRISTALINA. CRISTALES METÁLICOS.
+Estados de la materia. Sustancias
+cristalinas y amorfas. Redes espaciales y celdillas
+unitarias. Sistemas cristalinos, redes de Bravais.
+Isomorfismo, polimorfismo y alotropía. Estudio de las
+redes metálicas. Número de coordinación, radio
+atómico,
+factor de empaquetamiento. Huecos en estructuras compactas.
+Índices de Miller. Índices de Miller-Bravais en
+el sistema HC. Distancia interplanar. Densidades
+volumétrica, lineal y superficial.
+TEMA 3.- IMPERFECCIONES CRISTALINAS. El sólido real.
+Influencia de los defectos. Defectos más
+comunes en la estructura cristalina. Defectos puntuales:
+vacantes, intersticiales, impurezas, defectos de
+Frenkel y de Schottky. Defectos lineales. Defectos
+superficiales: maclas, defectos de empaquetamiento y
+límites de grano.
+BLOQUE 2. ALEACIONES
+TEMA 4.- ALEACIONES. Metales puros y aleaciones.
+Constitución de las aleaciones: componentes y
+constituyentes. Soluciones sólidas y mezclas
+mecánicas. Tipos de Soluciones Sólidas. Reglas de
+Hume-
+Rothery. Propiedades de las soluciones sólidas.
+Determinación del tipo de sol.sol. Fases intermedias: tipos
+y
+características. Soluciones sólidas ordenadas:
+superredes.
+TEMA 5.- MECANISMOS DE ENDURECIMIENTO Y FENÓMENOS DE
+RECRISTALIZACIÓN. Introducción.
+Endurecimiento por afino de grano. Endurecimiento por
+aleación. Endurecimiento por precipitación.
+Endurecimiento por dispersión. Endurecimiento por
+temple. Endurecimiento por deformación. Deformación
+en frío: estado de acritud. Variación de las
+propiedades mecánicas. Efectos del calentamiento:
+recuperación,
+recristalización y crecimiento de grano. Temperatura
+de recristalización. Trabajo en caliente.
+BLOQUE 3: SOLIDIFICACIÓN Y DIFUSIÓN
+TEMA 6.-PROCESOS DE SOLIDIFICACIÓN.
+Introducción. La solidificación: nucleación
+homogénea y
+nucleación heterogénea. Magnitudes que
+determinan el proceso: velocidades de nucleación y
+crecimiento.
+Microestructura. Solidificación de un lingote:
+estructuras. Control de la estructura: tamaño, forma y
+orientación
+del grano. Defectos microestructurales en la
+solidificación: segregaciones. Defectos macroestructurales;
+rechupes, sopladuras, poros, cavidades, grietas y
+salpicaduras. Solidificación rápida: vidrios
+metálicos.
+TEMA 7.- DIFUSIÓN. Introducción. Mecanismos de
+difusión. Difusión volumétrica: Leyes de Fick.
+Factores de
+los que depende la difusión. Otros tipos de
+difusión. Aplicaciones de la difusión.
+BLOQUE 4: DIAGRAMAS DE EQUILIBRIO.
+TEMA 8- EQUILIBRIO DE SISTEMAS. DIAGRAMAS DE EQUILIBRIO I.
+Sistema material: componentes y
+fases. Sistemas en equilibrio: factores de equilibrio y
+grados de libertad. Regla de las fases (Ley de Gibbs).
+Curvas de enfriamiento. Sistemas de dos componentes:
+determinación experimental de diagramas. Reparto
+de masas: ley de la palanca. Reglas de interpretación.
+TEMA 9.- DIAGRAMAS DE EQUILIBRIO II. Tipos de diagramas
+binarios según solubilidad en estado sólido.
+Diagramas de solubilidad total en estado sólido.
+Diagramas de insolubilidad total en estado sólido. Diagramas
+de solubilidad parcial en estado sólido: reacciones
+eutécticas y peritécticas. Transformaciones en estado
+sólido: alotropía, transformaciones
+orden-desorden, reacciones eutectoides y peritectoides. Diagramas
+complejos: fases intermedias. Diagramas ternarios.
+Transformaciones de fase fuera de equilibrio.
+BLOQUE 5: MATERIALES METÁLICOS Y SUS TRATAMIENTOS
+TEMA 10.- ALEACIONES FÉRREAS: ACEROS Y FUNDICIONES.
+Introducción. El hierro: estados
+alotrópicos. Los diagramas hierro-cementita y
+hierro-carbono. Clasificación de las aleaciones Fe C. Fases
+y constituyentes de equilibrio: definición de
+estructuras. Transformaciones invariantes. Puntos críticos.
+Hierros: tipos y características. Aceros:
+clasificaciones y características mecánicas por
+tipos. Aceros
+aleados: Influencia de los elementos de aleación.
+Influencia sobre el diagrama Fe-Fe3C. Elementos
+alfágenos, gammágenos y formadores de carburos.
+Efecto sobre las curvas TTT. Aceros de baja y de alta
+aleación. Fundiciones. Elementos grafitizantes y
+formadores de carburos. Fundiciones blancas y maleables.
+Fundiciones grises y esferoidales o dúctiles.
+Características mecánicas de las fundiciones.
+TEMA 11.- DIAGRAMA DE TRANSFORMACIONES ISOTÉRMICAS DE
+LA AUSTENITA. Introducción.
+Transformaciones isotérmicas de la austenita. Perlita
+y bainita. Transformación martensítica: propiedades.
+Relación entre las curvas de enfriamiento y los
+diagramas T.I. Curvas y transformaciones en enfriamiento
+continuo.
+TEMA 12.- TRATAMIENTOS TÉRMICOS. Introducción.
+Clasificación y objetivos de los tratamientos
+térmicos del acero. Recocidos. Normalizado. Temples.
+Factores del temple. Velocidad crítica de temple.
+Templabilidad. Ensayo Jominy. Revenido. Transformaciones en
+el revenido. Diagramas de revenido.
+Tratamientos superficiales: térmicos y
+termoquímicos.
+TEMA 13.- METALES Y ALEACIONES NO FERREAS.
+Introducción. El aluminio sin alear. Propiedades y
+aplicaciones. Principales aleaciones de aluminio.
+Clasificación. Aleaciones para forja: tratamientos
+térmicos.
+Aleaciones para moldeo: modificación de las aleaciones
+Al-Si. Propiedades y aplicaciones de las aleaciones
+de aluminio. Otras aleaciones ligeras. El cobre sin alear.
+Propiedades y aplicaciones. La acritud en el cobre.
+Aleaciones de cobre: Latones y Bronces. Aplicaciones y
+tratamientos.
+BLOQUE 6: CORROSIÓN Y SU CONTROL
+TEMA 14.- CORROSIÓN Y PROTECCIÓN.
+Introducción. Fundamentos electroquímicos. Velocidad
+de
+corrosión. Formas de corrosión.
+Protección contra la corrosión. Recubrimientos.
+Degradación de polímeros.
+BLOQUE 7: MATERIALES POLIMÉRICOS
+TEMA 15.- ESTRUCTURA, COMPORTAMIENTO Y PROCESADO DE LOS
+POLÍMEROS. Introducción.
+Mecanismos de polimerización. Estructura de los
+polímeros. Clasificación general de los
+polímeros. Polímeros
+termoplásticos. Polímeros termoestables.
+Elastómeros. Comportamiento mecánico de los
+polímeros.
+BLOQUE 8. MATERIALES CERÁMICOS. PROCESADO DE
+CERÁMICOS Y VIDRIOS
+TEMA 16.- MATERIALES CERÁMICOS Y VIDRIOS
+Introducción. Estructura de materiales los cerámicos.
+Cristales iónicos. Estructuras de silicato.
+Propiedades de los materiales cerámicos. Materiales
+cerámicos no
+cristalinos: vidrios. Temperatura de transición
+vítrea. Procesado de cerámicos y vidrios.
+BLOQUE 9. MATERIALES COMPUESTOS
+TEMA 17: MATERIALES COMPUESTOS. MATRICES Y REFUERZOS
+Introducción. Concepto de material
+compuesto. Matriz y refuerzo. Tipos de Matrices. Refuerzo con
+fibras. Materiales más utilizados. Refuerzo con
+partículas. Consideraciones sobre la matriz.
+Comportamiento mecánico. Aplicaciones.
+BLOQUE 10: ENSAYOS DE LOS MATERIALES
+TEMA 18.ENSAYOS DE TRACCIÓN. (En laboratorio)
+Comportamiento mecánico de los materiales:
+condiciones intrínsecas y extrínsecas.
+Tensiones normales y de cizalladura. Comportamiento
+elástico: módulo
+de elasticidad y límite de elasticidad.
+Deformación plástica: deslizamiento y maclado. Ley de
+Schmid. Ensayo
+de tracción. Definiciones. Probetas. Diagramas. Rotura
+dúctil y frágil. Ejecución del ensayo.
+Resultados.
+TEMA 19.- ENSAYOS DE DUREZA. (En laboratorio) Dureza: tipos.
+Clasificación de los métodos de
+medida de la dureza. Ensayos de dureza por penetración
+estática: Brinell, Vickers y Rockwell. Ventajas e
+inconvenientes. Otros ensayos.
+TEMA 20.- ENSAYOS DE CHOQUE Y TECNOLÓGICOS. (En
+laboratorio) Ductilidad, maleabilidad, fragilidad
+y tenacidad. Rotura dúctil y frágil. Factores
+de influencia. Ensayos de resiliencia. Tipos y dimensiones de
+las probetas. Ensayo Charpy. Ensayo Izod. . Ensayo de
+flexión: fundamentos, diagrama de flexión. Ensayos
+tecnológicos: plegado, embutición, forja,
+corte, punzonado.
+TEMA 21.- TÉCNICAS METALOGRÁFICAS.
+MACROSCOPÍA Y MICROSCOPÍA. (En laboratorio) El
+laboratorio metalográfico. Macroscopía:
+preparación y ataque. Técnicas macroscópicas.
+Microscopía: fases
+de la preparación de muestras. El microscopio
+metalográfico. Observación de diferentes
+constituyentes
+estructurales. Medidas del tamaño de grano.
+TEMA 22.- ENSAYOS NO DESTRUCTIVOS. (En laboratorio)
+Inspección visual. Inspección radiográfica.
+Equipos y técnicas de operación.
+Protección y medidas de seguridad. Inspección
+mediante ultrasonidos.
+Fundamentos físicos. Naturaleza y propiedades de las
+ondas ultrasónicas. Equipos y técnicas de
+operación.
+Ensayos por métodos magnéticos. Fundamentos
+físicos. Técnicas y equipos. Detección de
+grietas
+superficiales. Líquidos penetrantes.
+BLOQUE 11. CONCEPTOS BÁSICOS DE TECNOLOGÍAS MEDIO
+AMBIENTALES
+TEMA 23.- TECNOLOGÍA MEDIOAMBIENTAL. Materiales y
+medio ambiente. Aspectos ambientales del
+diseño. Residuos urbanos e industriales.
+Recuperación, reutilización y reciclado.
+'

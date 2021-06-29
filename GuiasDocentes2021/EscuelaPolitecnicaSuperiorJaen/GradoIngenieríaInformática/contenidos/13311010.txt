@@ -1,0 +1,77 @@
+'
+
+Clases y objetos. Técnicas y notaciones (UML). Herencia,
+polimorfismo, asociaciones. Diseño con herencia,
+polimorfismo y asociaciones. Objetos complejos y ficheros.
+Gestión de errores.
+ 
+
+PROGRAMA TEÓRICO
+- TEMA 1. INTRODUCCIÓN
+
+Mecanismos de abstracción
+Especificación de procedimientos
+Abstracción de módulos
+Abstracción por clases de objetos
+El lenguaje de programación C++
+Gestión de errores mediante excepciones
+
+- TEMA  2. CONCEPTOS FUNDAMENTALES Y NOTACIÓN
+UML
+
+Características de la Programación Orientada a
+  Objetos
+Conceptos específicos de Programación Orientada
+  a Objetos
+Visibilidad de atributos y métodos
+Tipos de métodos
+Creación de objetos automáticos y objetos
+  dinámicos
+Constructores y Destructores
+Sobrecarga de operadores
+Notación UML para la representación de
+  clases
+Uso de objetos para gestión de excepciones
+
+- TEMA 3. RELACIONES ENTRE CLASES
+
+Relaciones de dependencia
+Relaciones de asociación. Implementación
+Agregaciones y composiciones. Implementación.
+Relaciones de
+  generalización/especialización
+Notación UML para relaciones entre clases
+Copia y asignación de objetos de clases derivadas
+
+- TEMA 4. POLIMORFISMO
+
+Polimorfirmo sintáctico
+Polimorfismo de objetos
+Polimorfirmo de métodos
+Enlace estático y dinámico
+Destructores virtuales
+Clases abstractas e Interfaces
+Polimorfismo en excepciones
+Identificación de tipos de objetos
+
+
+PROGRAMA PRÁCTICO
+
+
+Entorno de desarrollo, depuración y
+  documentación de código
+Organización de código mediante módulos
+  y espacios de nombres. Manejo de errores mediante
+  excepciones
+Definición y uso de clases y objetos
+Objetos y memoria dinámica
+Relaciones entre clases: dependencias, asociaciones,
+  composiciones y agregaciones
+Relaciones entre clases: herencia. Escritura de datos en
+  streams
+Polimorfismo. Lectura de datos de streams
+Clases abstractas e Interfaces
+Identificación de tipos en tiempo de ejecución.
+  Jerarquía de excepciones de STL
+
+'

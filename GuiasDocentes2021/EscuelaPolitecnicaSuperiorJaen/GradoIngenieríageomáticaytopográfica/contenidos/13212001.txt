@@ -1,0 +1,112 @@
+'
+
+Visión general.
+Historia de la Cartografía
+Modelización: El mapa y los Sistemas de
+Información Geográfica
+El dato geográfico y sus características
+Relieve y formas del terreno
+Forma de la Tierra y sistemas de referencia.
+Proyecciones cartográficas
+Métodos de adquisición de los datos
+Tratamiento de los datos
+Simbología y rotulación cartográfica.
+Mapas topográficos
+Cartografía temática
+Producción cartográfica
+Productos cartográficos
+
+
+TEORIA
+
+
+Bloque I:
+  Introducción.
+
+Tema 1. Introducción.
+Tema 2. Cartografía: Modelo Cartográfico, Datos
+Geográficos, Escala y Resolución del modelo.
+
+Bloque II: Componente
+  espacial de los Datos Geográficos.
+
+Tema 3. Representación de la Tierra considerada
+plana.
+Tema 4. Representación de la Tierra considerada Esfera y
+Elipsoide.
+Tema 5. Proyecciones cartográficas: concepto y
+deformaciones.
+Tema 6. Clasificación geométrica de las
+proyecciones cartográficas.
+
+Bloque III: Componente
+  temática de los Datos Geográficos.
+
+Tema 7. Componente temática de los datos.
+
+Bloque IV:
+  Representación cartográfica.
+
+Tema 8. Principios de la simbolización
+cartográfica.
+Tema 9. El color en Cartografía.
+Tema 10. Composición del mapa.
+Tema 11. Rotulación cartográfica.
+Tema 12. Representación del relieve. Métodos.
+
+Bloque V: Paradigma
+  actual de la Cartografía.
+
+Tema 13. Paradigma actual de la Cartografía.
+Tema 14. Organismos productores, productos y servicios de la
+Información Geográfica.
+
+PRACTICAS
+
+
+Bloque I
+
+Práctica 1. Trabajo con escalas.
+Práctica 2. Interpretación del relieve:
+Extracción de información planimétrica y
+altimétrica mediante el empleo de un Simulador
+Geomático de Realidad Aumentada 4D.
+Práctica 3. Manejo de mapas (I): descripción e
+interpretación de la información marginal, lectura de
+coordenadas, orientación.
+Práctica 4. Manejo de mapas (II): descripción e
+interpretación de la información marginal, lectura de
+coordenadas, orientación.
+
+Bloque II
+
+Práctica 5. Proyecciones cartográficas:
+deformaciones.
+Práctica 6. Proyecciones cartográficas:
+características geométricas.
+Práctica 7. Principios de simbolización.
+Práctica 8. El Color
+Práctica 9. Composición del mapa.
+Práctica 10. Rotulación.
+
+Bloque III
+
+Práctica 11. ProDato (I). Busqueda, análisis y
+descarga de Información Cartográfica relativa a un
+entorno geográfico concreto.
+Práctica 12. ProDato (II). Elaboración de un a
+Base de Datos a partir de la Información
+disponible 
+En esta asignatura se realiza un aprendizaje basado en proyectos
+en coordinación con las asignaturas de este
+grado: CARTOGRAFIA MATEMATICA, SISTEMAS DE INFORMACION
+GEOGRAFICA, PRODUCCION CARTOGRAFICA, INFRAESTRUCTURA DE DATOS
+ESPACIALES, CARTOGRAFIA TEMATICA Y SOLUCIONES SIG. En
+particular, en el curso 2018/2019 se concedió un Proyecto de
+Innovación Docente solicitado y coordinado por profesores
+del Departamento de Ingeniería Cartográfica,
+Geodésica y Fotogrametría, titulado: PRODATO: UN
+CONJUNTO DE PRACTICAS DE CARTOGRAFIA ENLAZADAS PARA LOS ESTUDIANTES
+DEL GRADO EN GEOMATICA Y TOPOGRAFIA para la realización de
+un aprendizaje basado en proyectos.
+'

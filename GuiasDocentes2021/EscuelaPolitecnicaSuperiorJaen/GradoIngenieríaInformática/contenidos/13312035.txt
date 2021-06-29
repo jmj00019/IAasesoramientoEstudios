@@ -1,0 +1,53 @@
+'
+
+Tecnologías de agentes. Interacción y
+comunicación entre agentes. Metodologías de
+desarrollo de atentes. Diseño de sistemas multiagente.
+Agentes en la web colaborativa. Agentes móviles.
+ 
+
+Tema 1         
+Introducción a los agentes
+
+Introducción
+Definiciones de agentes
+Caracterización de agentes
+
+Tema 2        
+Arquitecturas de agentes
+
+Introducción
+Arquitecturas abstractas
+Arquitecturas concretas
+
+Tema 3         Comunicación
+entre agentes
+
+Introducción
+Lenguajes de comunicación
+Lenguajes de contenido
+Ontologías
+Protocolos de interacción
+
+Tema 4         Diseño de sistemas
+multiagente.
+
+Introducción
+Arquitecturas de Agentes
+Agentes Reactivos
+Agentes Inteligentes
+
+Tema 5         Supuesto
+práctico.
+
+Introducción
+Planificación de las tareas
+
+Prácticas:
+
+Plataformas de desarrollo de agentes.
+Comunicación entre Agentes.
+Sistemas Multiagente.
+Supuesto práctico en grupo.
+
+'

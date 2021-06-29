@@ -1,0 +1,81 @@
+'
+
+Generalidades sobre obras superficiales y subterráneas.
+Técnicas de perforación y sostenimiento aplicadas a
+las obras superficiales y subterráneas. Diseño y
+ejecución de obras superficiales y subterráneas.
+Ventilación de
+obras subterráneas. Control, seguimiento y seguridad
+en las obras superficiales y subterráneas
+
+Tema 1. Introducción.
+Historia y categorías de los túneles
+Técnicas de avance y métodos de
+excavación según el material
+Objetivo de las Obras subterráneas
+Clasificación respecto a la geografía
+Elementos geométricos de los túneles
+Ventajas y desventajas de los túneles
+Tema 2. Geometría, geología, geotecnia.
+La geometría: planta, alzado y perfil.
+La geología: medios de investigación
+geológica; dficultades del terreno durante la
+construcción de un
+túnel. Caracterización geomecánica del
+macizo rocoso: recomendaciones para la excavación de
+túneles;
+recomendaciones sobre partición de la sección;
+recomendaciones sobre el avance.
+Tema 3 - Sistemas constructivos
+Características de túneles y obras
+subterráneas singulares: túneles de conducción
+de agua, para
+alcantarillado, túneles y cavernas de centrales
+hidroeléctricas, túneles de servicios, de
+almacenamiento, de
+transporte urbano (metro).
+Maquinaria de excavación de túneles:
+Métodos manuales; Métodos mecanizados:
+Máquinas convencionales,
+Rozadoras, Topos, Escudos, Dobles Escudos, Combinación de
+máquinas,
+Microtuneladoras; Perforación y voladura;
+Comparación de métodos de excavación.
+Tema 4: Sostenimiento.
+Emboquille de túneles.
+La estructura resistente:sostenimiento y revestimiento;
+teorías clásicas de cálculo y
+dimensionamiento.
+Métodos empíricos y clasificaciones
+geomecánicas; métodos analíticos y
+líneas características; métodos
+numéricos por diferencias finitas; métodos
+gráficos por proyección estereográfica.
+Dimensionamiento y control
+del sostenimiento; la tésis del nuevo método
+austriaco.
+Tipos de sostenimientos: bulones o pernos, cerchas
+metálicas, chapas Bernold, mallazo, gunita y hormigón
+proyectado, dovelas y técnicas especiales.
+Revestimiento definitivo.
+Tema 5: Ventilación
+Ventilación de túneles en construcción.
+Ventilación de galerías en fondo de saco.
+Ventilación de túneles en operación.
+Legislación de seguridad en ventilación.
+Tema 6: Auscultación.
+Auscultación. Instrumentación.
+Movimientos superficiales. Movimientos en el interior del
+terreno. Medición de presiones y tensiones.
+Instrumentación típica.
+Tema 7: Instalaciones y servicios auxiliares.
+Impermeabilización y desague. Electrificación.
+iluminación.
+Control de calidad.
+Seguridad.
+Tema 8: Sistemas constructivos de pozos.
+Labores de acceso.
+Profundización de pozos exteriores por métodos
+ordinarios y por métodos especiales.
+Ejecución de pozos interiores
+'

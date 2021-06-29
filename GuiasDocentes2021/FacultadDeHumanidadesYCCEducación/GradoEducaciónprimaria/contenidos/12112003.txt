@@ -1,0 +1,170 @@
+'
+
+El Número natural. La numeración. Operaciones con
+números naturales. Magnitud y su medida.
+Relación de estos elementos matemáticos con la
+vida cotidiana, los problemas que resuelven y con
+los demás campos del pensamiento científico. El
+curriculum aritmético de Educación Primaria.
+Enseñanza y aprendizaje de la Aritmética y
+medida de magnitudes en Educación Primaria.
+Propuestas de enseñanza-aprendizaje, diseño y
+evaluación.
+
+
+Contenidos desarrollados por bloques:
+
+
+BLOQUE 1: EL CURRICULUM DE MATEMÁTICAS DE
+EDUCACIÓN PRIMARIA Y ALGUNAS
+NOCIONES DE DIDÁCTICA.
+
+Tema 1. El curriculum de Educación Primaria
+y algunas nociones de Didáctica.
+
+1.1. El curriculum de matemáticas en la
+Educación Primaria en el Estado español y en la
+Comunidad Autónoma de Andalucía.
+
+1.2. La competencia matemática.
+
+1.3. La didáctica de la matemática,
+nociones fundamentales.
+
+1.4. Las concepciones más usuales del
+aprendizaje matemático; análisis de la
+concepción socioconstructivista.
+
+BLOQUE 2: DIDÁCTICA DE LA
+ARITMÉTICA
+
+Tema 2. Didáctica de los números
+naturales y la numeración.
+
+2.1. Necesidades sociales que cubren el
+número y la numeración.
+
+2.2. Los números naturales.
+
+2.3. Sistemas de numeración, tipos de
+sistemas de numeración.
+
+2.4. Sistemas de numeración posicionales,
+cambios de base.
+
+2.5. Desarrollo cognitivo y progresión en
+el aprendizaje.
+
+2.6. Situaciones y recursos.
+
+Tema 3. Estructura aditiva y multiplicativa en N.
+Nociones didácticas.
+
+3.1. Estructura aditiva y multiplicativa.
+
+3.2. Adición y sustracción en N.
+
+3.3. Equivalencias fundamentales.
+
+3.4. La tabla de sumar.
+
+3.5. Técnicas de cálculo de la
+adición y sustracción.
+
+3.6. La multiplicación y la división
+en N. Propiedades. Equivalencias fundamentales.
+
+3.7. Técnicas de cálculo de la
+multiplicación y división en N.
+
+3.8. Categorías semánticas de los
+problemas de estructura aditiva y multiplicativa de una
+operación. Tipos de problemas a que dan lugar.
+
+3.9. Desarrollo cognitivo y progresión en
+el aprendizaje de la adición y sustracción.
+
+3.10. Desarrollo cognitivo y progresión en
+el aprendizaje de la multiplicación y división.
+
+3.11. Situaciones y recursos de la adición
+y sustracción.
+
+3.12. Situaciones y recursos de la
+multiplicación y división.
+
+Tema 4. Didáctica de las fracciones y de
+los números racionales positivos.
+
+4.1. Fracciones.
+
+4.2. Situaciones de uso de fracciones y razones.
+
+4.3. Fracciones y números racionales.
+
+4.4. Operaciones con fracciones.
+
+4.5. Comparación de fracciones, orden y
+densidad.
+
+4.6. Técnicas para resolver problemas de
+fracciones.
+
+4.8. Desarrollo cognitivo y progresión en
+el aprendizaje.
+
+Tema 5. Didáctica de los números
+decimales y la proporcionalidad.
+
+5.1. Fracciones decimales.
+
+5.2. Números decimales.
+
+5.3. Distinción entre número decimal
+y expresión decimal.
+
+5.4. Técnicas de obtención de
+expresiones decimales.
+
+5.5. Operaciones con números decimales.
+
+5.6. Comparación, ordenación y
+densidad de los números decimales.
+
+5.7. Porcentajes.
+
+5.8. Desarrollo cognitivo y progresión en
+el aprendizaje.
+
+5.9. Situaciones y recursos.
+
+BLOQUE 3: DIDÁCTICA DE LAS MAGNITUDES Y SU
+MEDIDA
+
+Tema 6. Magnitudes y su medida.
+
+6.1. La medida como problema empírico,
+matemático y didáctico.
+
+6.2. Presentación informal de la medida de
+magnitudes; la actividad de medir, magnitud y cantidad;
+ situaciones de medida; escalas de medida y tipos de
+magnitudes; precisión y errores de medida,
+ estimación; sistemas irregulares y regulares de
+medida; significado de la medida de magnitudes;  conexiones
+entre distintas magnitudes; el Sistema Internacional (SI).
+
+6.3. Medida directa e indirecta de cantidades;
+descripción algebraica de las magnitudes y si medida;
+construcción de la magnitud longitud;
+descripción general de magnitud, tipos de magnitudes;
+pasos para construir una magnitud; medida de magnitudes.
+
+Tema 7. Didáctica de las magnitudes y su
+medida.
+
+7.1. Desarrollo cognitivo y progresión en
+el aprendizaje.
+
+7.5. Situaciones y recursos.
+'

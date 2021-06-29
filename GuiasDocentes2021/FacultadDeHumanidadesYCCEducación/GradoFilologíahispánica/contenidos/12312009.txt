@@ -1,0 +1,41 @@
+'
+
+-Conocimiento de la historia externa del español.
+-Análisis de las transformaciones morfosintácticas
+que afectan al español a lo largo de su historia, desde el
+latín hasta la época actual.
+-Descripción de las principañes
+características morfosintácticas que presenta el
+español en diferentes sincronías y diatopías
+históricas.
+-Conocimiento de los factores y las causas que determinan los
+cambios morfosintácticos del español.
+
+1. El cambio morfosintáctico
+1.1. Tendencias generales en la evolución
+morfosintáctica
+1.2. Procesos y mecanismos lingüísticos que
+actúan en el cambio morfonsintáctico
+2. De la morfosintaxis latina a la romance
+2.1. Transformación de la declinación latina
+2.2. El sustantivo
+2.3. El adjetivo
+2.4. El artículo
+2.5. El pronombre y determinante
+2.6. El verbo
+2.7. El adverbio, la preposición y la
+conjunción
+3. Sintaxis de la oración simple
+3.1. Cambio en el orden de las palabras
+3.2. Predicación y atribución
+3.3. Transitividad e intransitividad
+3.4. Impersonalidad sintáctica y semántica
+3.5. La expresión de la negación
+4. De la oración al texto
+4.1. Sintaxis de la oración compuesta y compleja
+4.2. Yuxtaposición
+4.3. Coordinación
+4.4. Subordinación sustantiva y adjetiva
+4.5. Subordinación adverbial
+4.6. La construcción del texto
+'

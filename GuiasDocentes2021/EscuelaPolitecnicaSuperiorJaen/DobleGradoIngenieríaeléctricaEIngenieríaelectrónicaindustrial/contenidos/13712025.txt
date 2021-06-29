@@ -1,0 +1,155 @@
+'
+
+Máquina de corriente continua.
+Máquina síncrona.
+
+TEMA 1. MÁQUINAS DE CORRIENTE CONTINUA.
+CONSTITUCIÓN. SISTEMAS DE EXCITACIÓN.
+
+Elementos de la máquina de corriente continua.
+Principio de funcionamiento.
+F.e.m. inducida, corriente de vacío y carga.
+Reacción de inducido, efectos y
+  compensación.
+Conmutación simple, efectos y compensación.
+   
+Pérdidas y rendimiento.
+Sistemas de excitación.
+
+
+
+TEMA 2. GENERADORES DE CORRIENTE CONTINUA.
+
+Generador de excitación independiente.
+Generador de excitación serie.
+Generador de excitación paralelo.
+generador de excitación compuesta.
+Curvas características de los generadores:
+  vacío, carga y regulación.
+
+
+
+TEMA 3. MOTORES DE CORRIENTE CONTINUA.
+
+Motor de excitación serie.
+Motor de excitación paralelo.
+Motor de excitación compuesta.
+Curvas características de los motores: velocidad, par
+  y mecánica.
+Principios básicos sobre regulación: par y
+  velocidad.
+
+
+ 
+
+
+ 
+
+
+TEMA 4. MÁQUINAS SÍNCRONAS:
+GENERACIÓN DE FEM,. CONSTITUCIÓN, FUNCIONAMIENTO.
+
+Fem. inducida en un devanado concentrado de paso
+  diametral.
+Fem. inducida en un devanado distribuido. Factores que le
+  afectan.
+Amónicos de la Fem. inducida.
+Constitución y clasificación.
+Sistemas inductor.
+Refrigeración.
+Principio de funcionamiento como motor y como generador.
+Funcionamiento en vacío. Fem. inducida.
+  Característica de vacío.
+Funcionamiento en carga.
+Flujo inductor, flujo útil y flujo de
+  dispersión.
+Reactancia y Fem. de dispersión.
+Caída de tensión en resistencia de
+  inducido.
+Reacción de inducido. 
+  
+Carga resistiva. Reacción transversal.
+Carga inductiva. Reacción longitudinal
+    desmagnetizante.
+Carga capacitiva. Reacción longitudinal
+    magnetizante.
+Carga cualquiera. Reacción transversal y
+    longitudinal.
+
+Análisis de la reacción de inducido. 
+  
+Método de la reacción única. Rotor
+    cilíndrico.
+Método de las dos reacciones. Polos salientes.
+
+
+
+TEMA 5. DIAGRAMA VECTORIAL DE LA MÁQUINA
+SÍNCRONA.
+
+Diagrama vectorial de la máquina síncrona de
+  rotor cilíndrico, no saturada. Reactancia principal
+  síncrona.
+Circuito eléctrico equivalente.
+Diagrama vectorial de la máquina síncrona de
+  rotor cilíndrico saturada.
+Diagrama vectorial de la máquina de polos salientes.
+  Reactancias síncronas, directa y transvesal.
+Características de vacío.
+Características de cortocircuito.
+Triángulo de Potier.
+Característica reactiva.
+Reactancia síncrona saturada y no saturada.
+
+
+  
+TEMA 6. REGULACIÓN DE TENSIÓN DE UN
+ALTERNADOR.
+
+Regulación de tensión.
+Regulación de tensión. Método de
+  Behn-Eschengurg y A.I.E.E..
+Determinación de la corriente de excitación en
+  carga. Método de Potier.
+Determinación de la corriente de excitación en
+  carga. Método ASA.
+Método de Blondel para la máquina de polos
+  salientes.
+
+
+
+TEMA 7. POTENCIAS EN LA MÁQUINA
+SÍNCRONA.
+
+Potencias activa y reactiva. 
+  
+Rotor cilíndrico.
+Polos salientes.
+
+Característica potencia-ángulo de par.
+
+ 
+
+TEMA 8. MÁQUINA SÍNCRONA SOBRE UNA
+RED DE POTENCIA INFINITA. FUNCIONAMIENTO EN PARALELO.
+CORTOCIRCUITO
+
+Estabilidad estática del funcionamiento en paralelo.
+  Par sincronizante.
+Maniobra de acoplamiento. Sincronización.
+Máquina síncrona sobre una red de potencia
+  infinita.
+Diagrama de potencias. Límites de funcionamiento.
+Cortocircuito en vacío de la máquina
+  síncrona.
+Cortocircuito en carga de la máquina
+  síncrona.
+
+Prácticas:
+P1: Generadores de corriente continua
+P2: Motores de corriente continua
+P3: La máquina síncrona en vacío
+P4: La máquina síncrona en carga
+P5: Acoplamiento a la red de la máquina
+síncrona
+'

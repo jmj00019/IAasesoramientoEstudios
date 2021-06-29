@@ -1,0 +1,143 @@
+'
+
+En esta asignatura el alumno adquirirá conocimientos
+sobre los sistemas de comunicaciones analógicos y digitales
+y los efectos del ruido en dichos sistemas. El alumno cuando haya
+superado la asignatura será capaz de:
+· Caracterizar señales aleatorias estacionarias
+así como la respuesta de un sistema LTI a excitaciones de
+esta naturaleza. Caracterizar el ruido en sistemas de
+comunicaciones. · Determinar el ancho de banda consumido y
+la relación señal a ruido que en un canal AWGN se
+tiene para diversos tipos de modulaciones analógicas.
+· Estimar la probabilidad de error para canal AWGN y el
+ancho de banda para diferentes códigos de línea y
+técnicas de modulación digital. · Realizar
+simulaciones y/o medidas en sistemas de comunicación
+analógicos y digitales, extrayendo conclusiones acertadas.
+Palabras clave : Señales deterministas. Señales
+aleatorias. Ancho de banda. Estacionariedad. Ergodicidad. Ruido.
+Temperatura de ruido. Figura de Ruido. Ruido en la conexión
+en cascada de sistemas de comunicaciones. AM. DSB-SC. SSB. VSB. PM.
+FM. Relación señal a ruido. Códigos de
+línea. ASK binaria. FSK binaria. PSK binaria. QPSK. MSK.
+M-ASK. M-QAM. M-PSK. M-FSK. Probabilidad de error por bit (BER).
+Probabilidad de error por símbolo (SER).
+
+Los contenidos teóricos se estructuran en dos unidades
+didácticas con los siguientes temas: modelo de sistema de
+comunicación, señales determinísticas,
+señales aleatorias, transmisión digital en banda base
+y modulaciones digitales.
+Los contenidos prácticos se estructuran en las siguientes
+actividades: prácticas de laboratorio, resolución de
+problemas y seminarios.
+Los contenidos teóricos y prácticos proporcionan
+al alumno los conocimientos y comprensión necesarios para
+abordar las competencias y resultados de aprendizaje en esta
+asignatura, así como el nivel necesario para adquirir el
+resto de competencias del título donde se haga necesario
+aplicar los conocimientos adquiridos en esta signatura.
+Resaltar que en los contenidos impartidos en esta asignatura se
+dotará al alumno de la capacidad para estar al día de
+las novedades en ciencia y tecnología, sobre todo en este
+tipo de materias, tan ligadas a un entorno tan dinámico como
+son las telecomunicaciones, y en concreto en las comunicaciones
+digitales.
+
+
+BLOQUE TEÓRICO: 2 UNIDADES
+  DIDÁCTICAS
+
+
+UNIDAD DIDÁCTICA I: CONCEPTOS PRELIMINARES (Tema
+  1, 2 y 3)
+
+
+Tema 1. Introducción a la Teoría de la
+  Comunicación.
+
+1.1 Introducción
+1.2 Modelo de un sistema de comunicación
+1.3 Incidencia del medio en la señal transmitida
+1.4 Calidad de un sistema de comunicación
+1.5 Limitaciones y capacidad de un sistema de
+comunicación
+1.6 Modulación
+
+Tema 2. Señales determinísticas
+
+2.1 Clasificación de señales
+2.2 Repaso análisis de Fourier y sistemas LTI
+2.3 Representación temporal
+2.4 Representación espectral
+2.5 Transformada de Hilbert
+2.6 Señales analíticas
+2.7 Señales paso-banda
+
+Tema 3. Señales aleatorias en Sistemas de
+  Comunicación
+
+3.1 Variables aleatorias
+3.2 Procesos estocásticos
+3.3 Procesos estacionarios y ergódicos
+3.4 Espectro de potencia de procesos estacionarios
+3.5 Respuesta de un sistema LTI a un proceso estacionario
+3.6 El ruido como proceso estocástico en los sistemas de
+comunicaciones
+3.7 Caracterización espectral del ruido: ruido blanco y
+ruido coloreado
+3.8 Procesos estocásticos paso-banda
+3.9 Ruido paso-banda (banda-estrecha)
+
+UNIDAD DIDÁCTICA II: COMUNICACIONES DIGITALES
+  (Tema 4 y 5)
+
+
+Tema 4. Transmisión digital en banda base
+
+4.1 Introducción
+4.2 Modelo de un sistema de comunicación digital
+4.3 Filtro adaptado
+4.4 Receptores óptimos: criterios de mínima
+probabilidad de error
+4.5 Propiedades de la probabilidad de error en receptores
+óptimos
+4.6 Probabilidad de error para constelaciones banda base
+binarias con símbolos equiprobables
+4.7 Códigos de línea
+4.8 Limitación teórica debido al ancho de banda
+finito y al ruido
+4.9 Interferencia entre símbolos
+4.10 Criterio de Nyquist
+4.11 Canal de Nyquist y filtros en coseno alzado
+4.12 Ecualización de canal
+4.13 Diagrama de ojo
+
+Tema 5. Modulaciones digitales.
+
+5.1 Clasificación de las técnicas básicas
+de modulación digital
+5.2 Modulaciones digitales binarias
+5.3 Modulaciones digitales M-arias
+ 
+
+
+BLOQUE PRÁCTICO
+
+- Práctica 1. Análisis de señales
+determinísticas y/o aleatorias
+- Práctica 2. Transmisión digital en banda base
+mediante la evaluación de diferentes códigos de
+línea
+- Práctica 3. Análisis de modulaciones
+digitales
+ 
+
+
+SEMINARIOS
+
+- Seminario I. Introducción a Matlab
+- Seminario II. Introducción a las modulaciones
+analógicas
+'

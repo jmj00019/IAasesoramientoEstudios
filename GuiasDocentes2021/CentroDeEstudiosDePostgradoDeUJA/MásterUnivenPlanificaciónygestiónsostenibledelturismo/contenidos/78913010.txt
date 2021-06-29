@@ -1,0 +1,25 @@
+'
+
+- Diagnostico territorial y social: Definición y
+objetivos
+- Las unidades estadísticas territoriales de
+análisis
+- Los Servidores de datos: ¿Dónde buscar la
+información geográfica?
+- Técnicas de valoración del territorio
+- Los sistemas de información geográfica y las
+técnicas de evaluación del territorio
+
+
+Diagnostico territorial y social: Definición y
+  objetivos
+Las unidades estadisticas territoriales de analisis. NUTS. El
+  problema de la PUEM.
+Los Servidores de datos: Servicios WMS, WFS, WCS.
+Tecnicas de valoración del territorio:
+  indicadores.
+Tecnicas de evaluación del territorio: consulta
+  espacial, analisis multicriterio, mejor localización,
+  mapas de calor, algebra de mapas raster.
+
+'

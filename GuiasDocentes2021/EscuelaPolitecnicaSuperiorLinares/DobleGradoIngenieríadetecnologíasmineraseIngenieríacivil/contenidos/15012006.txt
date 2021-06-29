@@ -1,0 +1,55 @@
+'
+
+Concepción global de la estructura prefabricada en obra
+civil y edificación. Cálculo de elementos
+estructurales prefabricados de hormigón armado y pretensado.
+Conexiones y nudos entre elementos estructurales prefabricados.
+Conexión con la cimentación de elementos
+estructurales prefabricados. Arriostramiento frente acciones
+horizontales de estructuras prefabricadas.
+
+
+Bloque A. Introducción a los Elementos
+  Prefabricados
+
+Tema 1.- Introducción a los Elementos Prefabricados
+Tema 2.- Normativa aplicable a los elementos prefabricados en
+España y la Unión Europea.
+
+Bloque B. Estructuras con Elementos Prefabricados de
+  Hormigón Armado
+
+Tema 3.- 
+ Regiones Tipo D. Importancia en las
+estructuras prefabricadas.
+Tema 4.- Piezas compuestas de hormigón prefabricado y
+hormigón in situ.
+Importancia del cálculo y armado frente a tensiones
+rasantes que surgen en el contacto entre hormigones de diferente
+edad y/o resistencias.
+Tema 5.- Conexiones con la cimentación de elementos
+prefabricados.
+Tema 6.- Estructuras porticadas de hormigón prefabricado:
+cálculo y ejecución.
+Tipos de estructuras porticadas prefabricadas para soportar
+cargas gravitatorias y laterales. Vigas en pórticos
+prefabricados: biapoyadas, empotramientos elasto-plásticos
+que emulan a las hormigonadas in situ y empotramientos
+elasto-plásticos con conexiones específicas como
+pueden ser conexiones híbridas pretensado-acero pasivo y
+conectores dúctiles. Pilares en pórticos
+prefabricados translacionales e intranslacionales. Consideraciones
+de proyecto para la puesta en obra de los pilares. Concepto de
+ductilidad e importancia en los pilares prefabricados
+(péndulo inverso). Muros de cortante prefabricados, con
+conexiones clásicas y específicas mediante pretensado
+y conectores dúctiles. Tipología de forjados
+prefabricados y concepto de diafragma rígido.
+
+Bloque C. Elementos prefabricados de Hormigón
+  Armado y Pretensado
+
+Tema 7.- Cálculo de hormigón pretensado.
+Tema 8.- Aplicación del hormigón pretensado a los
+elementos prefabricados en Edificación y Obra Civil.
+'

@@ -1,0 +1,200 @@
+'
+
+Al finalizar el curso el alumno que haya superado la asignatura
+tendrá los conocimientos teóricos necesarios y
+será capaz de resolver problemas en relación a:
+· El uso de líneas de transmisión y
+guías de ondas en régimen permanente sinusoidal.
+· El manejo de la carta de Smith y sus aplicaciones.
+· Analizar y diseñar redes de
+transformación y adaptación de impedancias.
+· Las características y parámetros de
+las antenas y el ruido en sistemas radioeléctricos.
+· El balance de potencias en un radioenlace y la
+propagación en condiciones de espacio libre.
+· Los principales mecanismos de propagación:
+Propagación por onda de superficie. Propagación por
+onda ionosférica. Modelo de rayos. Difracción y
+obstáculos. Propagación de ondas en la troposfera.
+El alumno deberá ser capaz de utilizar equipamiento e
+instrumentación propio de la ingeniería de
+radiofrecuencia y microondas. El alumno será capaz de
+manejar software para el análisis y diseño de
+sistemas de radiofrecuencia y microondas.
+ Palabras Clave : Parámetros Z. Parámetros Y.
+Parámetros ABCD. Parámetros híbridos.
+Parámetros S y T. Carta de Smith. PIRE. PRA. Temperatura
+equivalente de ruido, Factor de Ruido, Fórmula de Friis.
+
+
+
+
+CONTENIDOS
+  TEÓRICOS:
+
+
+TEMA 1
+  - LÍNEAS DE TRANSMISIÓN
+
+
+Introducción
+  a las líneas de transmisión
+
+
+Circuito
+  equivalente de las líneas de transmisión
+
+
+Parámetros
+  primarios de las líneas de transmisión
+
+
+Ecuaciones
+  de las líneas de transmisión
+
+
+Parámetros
+  primarios y secundarios de las líneas de
+  transmisión
+
+
+Líneas
+  de transmisión con y sin pérdidas: pérdidas
+  en la línea
+
+
+Estudio
+  de las líneas en el dominio del tiempo
+
+
+ 
+
+
+TEMA 2
+  - ADAPTACIÓN DE IMPEDANCIAS
+
+
+Diagrama
+  de Smith
+
+
+Adaptación
+  de impedancias en banda estrecha
+
+
+Adaptación
+  de impedancias en banda estrecha con elementos
+  concentrados
+
+
+Adaptación
+  de impedancias con simple sintonizador en serie y en
+  paralelo
+
+
+Adaptación
+  de impedancias con doble sintonizador en serie y en
+  paralelo
+
+
+Adaptación
+  de impedancia con elementos discretos
+
+
+Ruido,
+  acoplamiento y efecto pelicular
+
+
+Características
+  de líneas y conectores comerciales
+
+
+ 
+
+
+TEMA 3
+  - FUNDAMENTOS DE ENLACES RADIOELÉCTRICOS
+
+
+Caracterización
+  de la antena en transmisión
+
+
+Caracterización
+  de la antena en recepción
+
+
+Parámetros
+  de una antena
+
+
+Antenas
+  líneales: el dipolo de Hertz y el dipolo de media
+  onda
+
+
+Arrays
+  lineales
+
+
+Antenas
+  prácticas
+
+
+Fórmula
+  de Friis de cálculo de la potencia recibida
+
+
+ 
+
+
+TEMA 4
+  - PROPAGACIÓN RADIOELÉCTRICA
+
+
+Propagación
+  en el espacio libre
+
+
+Propagación
+  en el espacio real
+
+
+Mecanismos
+  de propagación radioeléctrica
+
+
+Refracción
+  atmosférica
+
+
+Absorción
+  atmosférica
+
+
+ 
+
+
+CONTENIDOS
+  PRÁCTICOS:
+
+
+Práctica
+  1: Simulación y análisis de líneas de
+  transmisión
+
+
+Práctica
+  2: Estudio de adaptación de impedancias con carta de
+  Smith
+
+
+Práctica
+  3: Estudio de antenas simples
+
+
+Práctica
+  4: Simulación de un radioenlace
+
+ 
+'

@@ -1,0 +1,119 @@
+'
+
+BLOQUE TEORÍA:
+Alimentos frescos y procesados
+El agua en los alimentos.
+Adsorción en los alimentos
+Estabilidad de los alimentos
+Aditivos
+Congelación. Evaporación y
+liofilización
+BLOQUE PRÁCTICO:
+Técnicas de laboratorio integrado para la
+caracterización físico química de los
+alimentos.
+
+
+Tema 1.- Introducción a la Química
+  Física de los alimentos.
+
+Inicios de la industria alimentaria y objetivos actuales.
+Alimentos frescos y procesados. Alteración de los alimentos.
+Necesidad de la estabilización, conservación,
+caracterización, predicción y control de la vida
+útil en los alimentos. Revisión de conceptos
+termodinámicos: calor y energía, gases y vapores,
+diagramas de fases y de compresibilidad, ecuación de
+Clapeyron, vapores húmedos y sobrecalentados, humedades
+absoluta y relativa.
+
+Tema 2.-Propiedades  fisicoquímicas de los
+  principales componentes en los alimentos.
+
+Proteínas: Punto isoeléctrico y presión
+osmótica. Desnaturalización. Estructura y
+función. Hidratos de carbono (Polisacáridos).
+Ácidos grasos (lípidos). Vitaminas: estabilidad,
+causas de variaciones y pérdidas, vitaminas liposolubles e
+hidrosolubles. Minerales: aspectos nutricionales y
+toxicológicos. Ingestas recomendadas.
+
+Tema 3.-El agua en los alimentos.
+
+Propiedades físicas y químicas del agua.
+Importancia del agua en la estabilidad de los alimentos. Diagrama
+de fases del agua y ecuación de Clapeyron. Actividad del
+agua en los alimentos: métodos para su determinación.
+Isotermas de adsorción. Estado del agua en los alimentos.
+Ciclo de histéresis. Influencia de la temperatura,
+composición y estado físico de los alimentos.
+
+Tema 4.-Cinética del deterioro de los
+  alimentos.
+
+Factores que influyen en la alteración de los alimentos:
+físicos, químicos y biológicos. Modos
+generales deterioro de los alimentos: descomposición
+microbiana, senescencia, deterioro químico
+enzimático,  pardeamiento no enzimático
+(reacción de Maillard), oxidación lipídica
+(enranciamiento), pérdida de vitaminas. Enfoque general de
+la cinética del deterioro de los alimentos. Estabilidad en
+función de la actividad del agua.
+
+Tema 5.-Tratamiento fisico-químico de los
+  alimentos.
+
+Transferencia de energía en el procesado de alimentos
+(capacidad calorífica, calor específico, calor
+latente, conducción, convección,..).
+Estabilización mediante métodos térmicos:
+esterilización y pasteurización.
+Estabilización por disminución de  la actividad
+del agua: congelación, deshidratación y
+liofilización. Estabilización por irradiación:
+radiación infrarroja y microondas.
+  
+Tema 6.-Caracterización fisicoquímica de
+aditivos alimentarios.
+Ácidos y bases. Agentes quelantes. Antioxidantes.
+Antimicrobianos. Edulcorantes. Colorantes: legislación,
+tipos y propiedades.
+
+Tema 7.-Reología de los alimentos.
+
+Viscosidad. Reogramas. Influencia de la temperatura. Tipos de
+viscosidades: absoluta y cinemática.  Efecto de la
+presencia de solutos en la viscosidad. Fluidos no Newtonianos
+(independientes y dependientes del tiempo). Medidas de viscosidad.
+Viscosidades de algunos alimentos. Reología de
+sólidos.
+BLOQUE PRÁCTICO (LABORATORIO):
+
+Práctica 1.-Medidas de índice de
+refracción para la determinación de proteínas
+y la detección de adulteraciones en aceites alimentarios de
+distinta procedencia.
+
+Práctica 2.-Caracterización
+potenciométrica del ácido fosfórico como
+aditivo alimentario. Determinación de las constantes de
+disociación ácida.
+
+Práctica 3.-Espectroscopía de
+absorción molecular. Aplicación a la
+determinación de vitaminas en muestras alimentarias.
+
+Práctica 4.-Medidas de color en alimentos.
+Determinación de los factores de tinción de
+colorantes naturales en alimentos y bebidas.
+
+Práctica 5.-Determinación de la
+viscosidad de muestras de carácter alimentarios.
+Aplicación a zumos y vinos comerciales.
+
+Práctica 6.-Determinación
+potenciométrica del pH y la acidez total de una cerveza.
+ Práctica 7: Visita a empresa del sector
+agroalimentario.
+'

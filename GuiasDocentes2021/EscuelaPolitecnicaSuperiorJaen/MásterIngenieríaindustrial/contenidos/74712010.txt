@@ -1,0 +1,147 @@
+'
+
+Dirección de
+la producción: decisiones estratégicas en los
+sistemas de producción.
+
+Planificación de la producción.
+Logística:
+gestión de inventarios, logística interna y
+externa.
+Sistemas de
+producción: JIT, MRP, OPT.
+Integración
+de los sistemas de producción: descripción y su
+aplicación.
+
+ 
+  
+Contenidos desarrollados
+  
+Capítulo
+1.- INTRODUCCIÓN A LA DIRECCIÓN DE LA
+PRODUCCIÓN
+
+Sistemas
+  productivos.- Decisiones estratégicas en
+  producción.- Elementos de diseño del proceso:
+  localización de la planta, capacidad de las instalaciones,
+  selección del proceso y de la tecnología,
+  infraestructuras de otros servicios, personal.
+
+ 
+
+Capítulo
+  2.- EQUILIBRADO DE LÍNEAS DE MONTAJE
+
+
+Descripción
+  del modelo.- Representación gráfica.-
+  Programación dinámica.- Métodos
+  heurísticos.
+
+
+ACTIVIDADES
+  PRÁCTICAS: Casos prácticos de equilibrado de
+  líneas.
+
+ 
+
+Capítulo
+  3.- GESTIÓN DE INVENTARIOS
+
+
+Funciones
+  de los inventarios.- Gestión estadística de
+  stocks.- Análisis de los modelos más usuales.-
+  Stock de ciclo y stock de seguridad.
+
+
+ACTIVIDADES
+  PRÁCTICAS: Casos prácticos de gestión de
+  stocks.
+
+
+ 
+
+
+Capítulo
+  4.- PLANIFICACIÓN DE LA PRODUCCIÓN
+
+
+Planificar
+  en producción.- Los costes de planificación.-
+  Elementos de los modelos de planificación.- Modelos
+  lineales de planificación.- Modelos con costes fijos y
+  variables.- Planificación y programación.-
+  Preparación de datos para los modelos.-
+  Programación de la producción.
+
+
+ACTIVIDADES
+  PRÁCTICAS: Casos prácticos de
+  planificación agregada y desagregación.
+
+ 
+
+Capítulo
+  5.- SISTEMA BÁSICO DE CONTROL DE LA
+  PRODUCCIÓN
+
+
+Introducción.-
+  El plan maestro de producción.- Estructuras de
+  fabricación. La lista de materiales.- El estado de los
+  stocks.- La programación de la producción con
+  estructura multinivel.- El sistema MRP.
+
+
+ACTIVIDADES
+  PRÁCTICAS: Casos prácticos de
+  programación de la producción en estructura
+  multinivel.
+
+ 
+
+Capítulo
+  6.- EXPLOSIÓN DE LAS NECESIDADES DE MATERIALES
+
+
+Introducción.-
+  El mecanismo de la explosión de necesidades.- Stock de
+  seguridad y determinación del tamaño de lotes.- El
+  sistema MRP en la práctica.
+
+
+ACTIVIDADES
+  PRÁCTICAS: Casos prácticos de explosión
+  de necesidades de materiales mediante MRP.
+
+ 
+
+Capítulo
+  7.- CONTROL DE LA PRODUCCIÓN CON LIMITACIONES DE
+  CAPACIDAD
+
+
+Introducción.-
+  Planificación de las cargas de trabajo.- El sistema OPT.-
+  El sistema informático OPT.- Análisis y
+  discusión de casos de implantación de OPT
+  (Teoría de las Limitaciones).
+
+ 
+
+Capítulo
+  8.- SISTEMAS DE PRODUCCIÓN "JUST IN TIME"
+
+
+Introducción.-
+  Sistemas just-in-time.- Lanzamiento de órdenes. Tarjetas
+  Kanban.- El programa de producción. Número de
+  tarjetas.- La implantación de sistemas JIT.-
+  Análisis y discusión de casos de
+  implantación JIT.
+
+ 
+'

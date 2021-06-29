@@ -1,0 +1,36 @@
+'
+
+El sistema inmunitario. Inmunidad innata. Captura, procesamiento
+y presentación del antígeno a los linfocitos.
+Reconocimiento del antígeno en el sistema inmunitario
+adaptativo. Inmunidad mediada por linfocitos T, mecanismos
+efectores. Respuestas inmunitarias humorales, mecanismos
+efectores.
+
+Contenidos teóricos:
+Bloque 1: INTRODUCCIÓN AL SISTEMA INMUNITARIO. INMUNIDAD
+IMNATA. CAPTURA DEL ANTÍGENO Y PRESENTACIÓN A LOS
+LINFOCITOS. RECONOCIMIENTO DEL ANTÍGENO EN EL SISTEMA
+INMUNITARIO ADAPTATIVO.
+Bloque 2: INMUNIDAD MEDIADA POR LINFOCITOS T. MECANISMOS
+EFECTORES DE LA INMUNIDAD MEDIADA POR LINFOCITOS T.
+Bloque 3: RESPUESTAS INMUNITARIAS HUMORALES. MECANISMOS
+EFECTORES DE LA INMUNIDAD HUMORAL.
+Contenidos prácticos:
+Práctica 1: Localización y aislamiento de
+órganos linfoides en el ratón. Obtención de
+células inmunitarias. Nociones de cultivo celular.
+Práctica 2: Obtención de células
+peritoneales de ratón. Aislamiento de macrófagos por
+adherencia. Ensayo de fagocitosis de Candida albicans por
+macrófagos. Nociones sobre los distintos métodos de
+aislamiento celular.
+Práctica 3: Recuento celular mediante
+hemacitómetro. Análisis de viabilidad celular.
+Nociones sobre criopreservación.
+Práctica 4: Separación de células
+leucocitarias con gradientes de densidad (Ficoll Hipaque).
+Práctica 5: Visualización de células
+hematopoyéticas en sangre periférica humana mediante
+frotis sanguíneo y tinción.
+'

@@ -1,0 +1,128 @@
+'
+
+Fundamentos de Mecánica de la Fractura.
+Fundamentos de Fatiga
+Fundamentos de Fluencia
+Deterioro ambiental
+Técnicas experimentales para la medida de tensiones y
+deformaciones
+
+
+TEORÍA
+
+Tema 1. Introducción
+Tema 2. Mecánica de la
+fractura elástica lineal
+Tema 3. Mecánica de la
+fractura elasto-plástica
+Tema 4. Crecimiento de grieta a
+fatiga
+Tema 5. Técnicas
+experimentales para la medida de tensiones y deformacions
+ 
+
+Tema 1. Introducción
+
+1.1. Por qué fallan las
+estructuras.
+1.2. Revisión
+histórica.
+1.2.1. Comienzos de la
+investigación en el campo de la mecánica de la
+fractura.
+1.2.2. Los buques Liberty.
+1.2.3. La mecánica de la
+fractura durante la posguerra.
+1.2.4. La mecánica de la
+fractura entre 1960 y 1980.
+1.2.5. La mecánica de la
+fractura desde 1980 hasta el presente.
+1.3. La mecánica de la
+fractura aplicada al diseño.
+1.3.1. El criterio basado en la
+energía.
+1.3.2. El enfoque de la intensidad
+de tensiones.
+1.3.3. El crecimiento de grieta a
+fatiga.
+1.4. Efecto de las propiedades del
+material sobre la fractura.
+
+Tema 2. Mecánica de la fractura elástica
+  lineal
+
+2.0. Introducción.
+2.1. Análisis atómico
+de la fractura.
+2.2. Efecto de la
+concentración de tensiones en defectos.
+2.3. El Balance energético
+de Griffith.
+2.4. La tasa de liberación
+de energía.
+2.5. Inestabilidad y la curva
+R.
+2.6. Análisis de tensiones
+en grietas.
+2.7. Relación entre K y
+G.
+2.8. Plasticidad en el
+vértice de grieta.
+2.9. Fractura K-controlada.
+2.10. Tensión plana vs.
+deformación plana.
+2.11. Fractura en modo mixto.
+2.12. Interacción entre
+grietas.
+
+Tema 3. Mecánica de la fractura
+  elasto-plástica
+
+3.0. Introducción.
+3.1. Desplazamiento de apertura del
+vértice de grieta (CTOD).
+3.2. La integral J.
+3.3. Relación entre J y
+CTOD.
+3.4. La curva R en la
+mecánica de la fractura elasto-plástica.
+3.5. Fractura J-controlada.
+
+Tema 4. Crecimiento de grieta  a fatiga
+
+4.0. Introducción.
+4.1. Criterios para el
+análisis a fatiga.
+4.2. Caracterización del
+crecimiento de grieta a fatiga.
+4.3. Ecuaciones empíricas
+para el crecimiento de grieta a fatiga.
+4.4. Cierre de grieta.
+4.5. El umbral de fatiga.
+4.6. Efecto de sobrecargas.
+
+Tema 5. Técnicas experimentales para la medida de
+  tensiones y deformaciones
+
+5.0. Introducción.
+5.1. Extensometría.
+5.2. Fotoelasticidad.
+5.3. Correlación digital de
+imágenes.
+
+PRÁCTICAS
+
+El contenido de las
+prácticas está compuesto de 5 sesiones:
+Práctica 1:
+Iniciación en Abaqus.
+Práctica 2:
+Propagación de grieta con XFEM.
+Práctica 3: Análisis
+integral J con Abaqus.
+Práctica 4:
+Caracterización del crecimiento de grieta a fatiga.
+Práctica 5:
+Evaluación de integridad estructural mediante el software
+VINDIO.
+'

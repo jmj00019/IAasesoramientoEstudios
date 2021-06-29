@@ -1,0 +1,71 @@
+'
+
+Estadística descriptiva.
+Probabilidad. Probabilidad condicionada.
+Variables aleatorias. Principales modelos teóricos.
+Inferencia estadística. Estimación puntual.
+Contraste de hipótesis
+Regresión lineal simple
+
+1. Introducción a la estadística 
+2. Estadística descriptiva univariante 
+· Tipos de variables estadísticas. 
+· Construcción de tablas de frecuencias 
+· Métodos gráficos para el
+análisis de datos 
+· Medidas descriptivas para el análisis de
+datos 
+3. Introducción al cálculo de
+probabilidades 
+· Definición de probabilidad 
+· Probabilidad condicionada 
+· Independencia 
+· Teoremas fundamentales 
+4. Variable aleatoria 
+· Variables discretas. Función masa de
+probabilidad 
+· Variables continuas. Función de densidad de
+probabilidad 
+· Media. Varianza. 
+5. Modelos de distribuciones de probabilidad 
+· Modelos de distribuciones discretas: uniforme,
+binomial, Poisson, otros 
+modelos. 
+· Modelos de distribuciones continuas: exponencial,
+normal, otros modelos. 
+6. Introducción a la inferencia
+estadística 
+· Población y muestra.
+Estadísticos 
+· Distribuciones en el muestreo en poblaciones
+normales 
+7. Estimación puntual y por intervalos de
+confianza 
+· Definición y propiedades de un estimador
+puntual 
+· Métodos de estimación puntual 
+· Definición de intervalo de confianza 
+· Intervalos de confianza para medias, varianzas y
+proporciones 
+8. Contrastes de hipótesis paramétricos y no
+paramétricos 
+· Contrastes de hipótesis sobre la media, la
+varianza o la proporción para 
+una muestra. 
+· Contrastes de hipótesis para la
+comparación de medias, varianzas o 
+proporciones de dos muestras. 
+· ANOVA (un factor) para la comparación de las
+medias de más de dos 
+muestras 
+· Tablas de contingencia y contraste chi cuadrado de
+independencia para 
+variables cualitativas
+9. Modelo de regresión lineal simple 
+· Planteamiento del modelo 
+· Inferencia sobre los parámetros del
+modelo 
+· Correlación 
+· Predicción 
+· Diagnosis
+'

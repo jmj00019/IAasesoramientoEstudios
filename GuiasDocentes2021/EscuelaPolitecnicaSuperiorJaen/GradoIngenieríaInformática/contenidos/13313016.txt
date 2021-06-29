@@ -1,0 +1,68 @@
+'
+
+Historia de la animación 3D. Principios computacionales
+de la animación 3D. Estereoscopía. Proceso de
+generación de animación 3D. Técnicas de
+animación de objetos rígidos, articulados y
+animación de Humanoides. Técnicas de
+postproducción.
+ 
+
+Tema 1: Introducción a la animación 3D
+
+Historia de la animación y de la animación
+  3D.
+Los principios de la animación y su adaptación
+  a la animación 3D.
+El proceso de generación de animación 3D
+
+ 
+Tema 2: Principios computacionales de la animación
+3D.
+
+Matrices.
+Transformaciones geométricas. T
+Técnicas de interpolación.
+Curvas y superficies.
+Control de cámara 3D.
+Control de iluminación.
+Texturado.
+Rendering.
+Composición
+
+ 
+Tema 3: Estereoscopía y Generación del par
+estéreo.
+
+Principios de estereoscopía.
+La visión humana.
+Generación del par estéreo desde la
+  imagen.
+Generación del par estéreo desde el
+  modelo.
+Dispositivos para la visualización 3D.
+
+ 
+Tema 4: Modelado del mundo para animación 3D
+
+Modelado.
+Técnicas de deformación.
+Captura de movimiento
+
+ 
+Tema 5: Técnicas de animación 3D.
+
+Animación de cuerpos rígidos.
+Animación de esqueletos y estructuras
+  jerárquicas.
+Animación por comportamiento.
+Simulación dinámica
+
+ 
+Tema 6: Técnicas de postproducción.
+
+Técnicas de efectos visuales.
+Técnicas de composición.
+Otras técnicas de postproducción
+
+'

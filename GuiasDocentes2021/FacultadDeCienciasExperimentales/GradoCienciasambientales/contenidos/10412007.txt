@@ -1,0 +1,94 @@
+'
+
+1. Introducción general. Conceptos clave.
+Modelación.
+2. Rehabilitación y restauración de suelos
+erosionados: conservación y restauración de cuencas
+hidrológicas.
+3. Rehabilitación de zonas sometidas a actividades
+extractivas y mineras.
+4. Rehabilitación del medio físico en áreas
+urbanas y periurbanas.
+5. Problemas ambientales asociados a la alteración de los
+ciclos biogeoquímicos.
+6. Regulación de flujos, biorremediación, y
+recuperación de la productividad.
+7. Problemas ambientales asociados a la alteración de la
+estructura y dinámica de comunidades: Restauración a
+escala de paisaje.
+
+
+Tema 0.  
+Introducción
+general: conceptos clave y modelos de restauración
+ambiental.
+BLOQUE 1. REHABILITACIÓN Y RESTAURACIÓN DE SUELOS
+EROSIONADOS: CONSERVACIÓN Y RESTAURACIÓN DE CUENCAS
+HIDROLÓGICAS.
+
+Tema 1. Introducción a la
+rehabilitación y restauración del suelo.
+
+Tema 2. Evaluación y Degradación de
+las propiedades físicas del suelo.
+
+Tema 3. Erosión del suelo.
+
+Tema 4. Técnicas de conservación y
+rehabilitación del suelo frente a la erosión.
+BLOQUE 2. REHABILITACIÓN DE ZONAS SOMETIDAS A ACTIVIDADES
+EXTRACTIVAS Y MINERAS.
+  
+Tema 5. Aspectos generales de la
+rehabilitación y restauración de espacios afectados
+por minería de superficie.
+  
+Tema 6.   Rehabilitación de
+canteras y graveras.  
+ BLOQUE 3. REHABILITACIÓN DEL MEDIO FÍSICO EN
+ÁREAS URBANAS Y PERIURBANAS.
+  
+Tema 7.  Rehabilitación del medio
+físico en áreas urbanas y periurbanas.
+BLOQUE 4. REHABILITACIÓN Y RESTAURACIÓN DEL MEDIO
+BIÓTICO DE SISTEMAS NATURALES y AGROECOSISTEMAS
+
+Tema 9. Conceptos y objetivos básicos
+de la restauración del medio biótico.  
+Biodiversidad.
+Medida de la diversidad biológica.
+
+Tema 10.
+  
+Restauración
+ecológica. Aplicando la teoría ecológica a la
+recuperación de los ecosistemas.
+
+
+Tema 11.  Restauración de la
+estructura y dinámica de comunidades a escala de paisaje.
+Fragmentación.
+
+Tema 12. Restauración y manejo en
+sistemas agrícolas.
+PROGRAMA DE PRÁCTICAS.
+PRÁCTICA 1. Determinación de Densidad Real,
+Densidad Aparente y Porosidad del Suelo en el laboratorio.
+PRÁCTICA 2. Cálculo de
+la erosión potencial de suelo aplicando modelo RUSLE
+a partir de datos de campo y laboratorio. 
+EXCURSIÓN 1. Estudio de cuencas de olivar degradadas por
+erosión. Toma de muestras de suelo y medida de
+ infiltración (Método del Doble Anillo) y
+resistencia del suelo in situ.
+EXCURSIÓN 2. Restauración de zonas degradada (por
+determinar: incendio forestal/ olivar) 
+SEMINARIO TIC 1. Cálculo y determinación de los
+parámetros de diversidad (I) . Uso de la herramienta
+EsitmateS.
+EXCURSIÓN 3. Restauración del Corredor Verde del
+Guadiamar.
+Seminario TIC 2.  Cálculo y determinación de
+los parámetros de diversidad (II). Interpretación de
+las curvas de rarefacción y diversidad beta.  
+'

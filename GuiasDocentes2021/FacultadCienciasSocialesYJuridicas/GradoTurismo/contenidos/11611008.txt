@@ -1,0 +1,66 @@
+'
+
+Introducción a la Macroeconomía,
+Modelo IS-LM,
+Modelo OA-DA,
+La Economía abierta
+
+BLOQUE I: Introducción a la Macroeconomía.
+Tema 1. Visión panorámica de la
+macroeconomía. Variables y conceptos
+1.1.- La renta y el gasto de la economía
+1.2.- La medición del producto interior bruto
+1.3.- Los componentes del PIB
+1.4.- El PIB y el bienestar económico
+Tema 2. La producción y el crecimiento
+económico
+2.1.- El crecimiento económico en el mundo
+2.2.- La productividad: su papel y sus determinantes
+2.3.- Crecimiento económico y política
+económica
+2.4.- El crecimiento a largo plazo
+Tema 3. Ahorro, inversión y sistema financiero
+3.1.- Las instituciones financieras
+3.2.- El ahorro y la inversión
+3.3.- El mercado de fondos prestables
+Tema 4. El desempleo
+4.1.- Identificación del desempleo
+4.2.- Teorías que explican el desempleo
+BLOQUE II: El dinero y los precios en el largo plazo
+Tema 5.- El sistema monetario
+5.1.- El significado del dinero
+5.2.- El papel banco central
+5.3.- Los bancos y la oferta monetaria
+Tema 6.- El crecimiento monetario y la inflación
+6.1.- La teoría clásica de la inflación
+6.2.- Los costes de la inflación
+Bloque III: La macroeconomía de las economías
+abiertas
+Tema 7.- Análisis macroeconómico de una
+economía abierta. Conceptos básicos.
+7.1.- Los flujos internacionales de bienes y de capitales
+7.2.- Tipos de cambio reales y nominales
+7.3. -Teoría de determinación de los tipos de
+cambio: la paridad del poder adquisitivo.
+Tema 8.- Teoría macroeconómica de la
+economía abierta
+8.1.-La oferta y demanda de fondos prestables y de divisas
+8.2.- El equilibrio en la economía abierta
+8.3.- Efectividad de las políticas económicas en
+una economía abierta.
+Bloque IV: Fluctuaciones económicas a corto plazo
+Tema 9.- La demanda agregada y la oferta agregada
+9.1.- La demanda agregada
+9.2. - La oferta agregada
+9.3.- Equilibrio del modelo
+9.4.- La disyuntiva en el corto plazo entre empleo e
+inflación: la curva de phillips
+ Tema 10.-La influencia de la política monetaria y
+fiscal en la demanda agregada
+10.1.- Influencia de la política monetaria en la demanda
+agregada
+10.2.- Influencia de la política fiscal en la demanda
+agregada
+10.3.- La utilización de la política
+económica para estabilizar la economía
+'

@@ -1,0 +1,53 @@
+'
+
+Una de las tareas cotidianas de los arqueólogos es el
+registro gráfico de los hallazgos, así como de los
+lugares en los que se producen, desde los trabajos de campo a
+su puesta en valor y uso social. Ello conlleva la necesidad de
+conocer unos fundamentos de dibujo técnico, así como
+el manejo de programas de dibujo asistido por ordenador (DAO),
+tanto bidimensional, como tridimensional. Por tanto, los contenidos
+se resumen en las líneas siguientes:
+- Conceptos básicos de dibujo técnico.
+- Fundamentos y práctica del diseño asistido por
+ordenador 2D.
+- Modelado tridimensional.
+
+* Conceptos básicos de Dibujo Técnico. Conceptos
+generales.
+* Entorno CAD 2D/3D.
+* Preparación del dibujo.
+* Estructura organizativa.
+* Visualización del diseño.
+* Introducción de datos.
+* Generación y manipulación de elementos 2D/3D
+* Ayudas al dibujo.
+* Herramientas de manipulación de elementos 2D.
+* Elementos complejos: Bloques o células.
+* Primitivas 3D
+* Generación, edición y manipulación en
+3D
+* Modelado de sólidos y superficies 3D
+* Análisis Métrico
+* Sistemas de coordenadas.
+* Medición y análisis.
+* Aplicaciones Topográficas: Representación de
+terrenos
+* Modelos digitales del terreno
+* Representación y caracterización de terrenos en
+3D
+* Grapado de ortofotos sobre modelos digitales del terreno
+* Herramientas avanzadas de diseño
+* Conexiones con servidores de cartografía vía web
+(IDE)
+* Integración con Google Earth
+* Otras integraciones multimedia
+* Representación y visualización
+fotorrealística:
+* Herramientas avanzadas de obtención y
+representación de escenarios 3D
+* Creación y definición de materiales
+* Creación de planos a partir de modelos 3D
+* Composición de vistas
+* Preparación para impresión 2D y 3D
+'

@@ -1,0 +1,158 @@
+'
+
+QUÍMICA DE LA COORDINACIÓN
+QUÍMICA ORGANOMETÁLICA
+QUÍMICA DEL ESTADO SÓLIDO
+MÉTODOS EXPERIMENTALES PARA LA DETERMINACIÓN
+ESTRUCTURAL EN COMPUESTOS INORGÁNICOS
+ 
+
+0.- PRESENTACIÓN
+Presentación de la asignatura: Situación dentro de
+las disciplina y la titulación. Objetivos, contenidos y
+método de trabajo. Bibliografía.
+Evaluación.
+
+ 
+
+
+QUÍMICA DE LA COORDINACIÓN
+
+1.- EL ENLACE EN LOS COMPUESTOS DE COORDINACIÓN (I):
+TEORÍA DEL ENLACE DE VALENCIA Y DEL CAMPO DEL CRISTAL
+Introducción histórica. Teoría del enlace
+de valencia: aplicación, ventajas e inconvenientes.
+Teoría del campo cristalino. Desdoblamiento
+energético de los orbitales 
+d en campos de simetría octaédrica,
+tetraédrica y plano-cuadrada. Serie espectroquímica.
+Efecto Jahn-Teller. Limitaciones de la teoría del campo
+cristalino.
+Seminario: Proposición y resolución de ejercicios
+sobre el tema.
+(*) Lectura del alumno: Teoría de las cadenas de
+Blomstrand y Jorgensen.
+2.- EL ENLACE EN LOS COMPUESTOS DE COORDINACIÓN (y II):
+TEORÍA DE LOS ORBITALES MOLECULARES
+Evidencias experimentales del carácter covalente del
+enlace metal-ligando.  Teoría de los orbitales
+moleculares. Complejos con ligandos pi-aceptores y pi-dadores.
+Seminario: Proposición y resolución de ejercicios
+sobre el tema.
+3.- ESPECTROS ELECTRÓNICOS Y PROPIEDADES
+MAGNÉTICAS
+Niveles de energía en el ión libre.
+Parámetros de Racah. Diagramas de correlación:
+diagramas de Orgel y de Tanabe-Sugano. Interpretación de los
+espectros electrónicos. Estudio de las propiedades
+magnéticas. Correlaciones magneto-estructurales.
+Seminario: Proposición y resolución de ejercicios
+sobre el tema.
+4.- ASPECTOS ESTRUCTURALES: ESTEREOQUÍMICA E
+ISOMERÍA
+Estereoquímicas habituales de las diversas
+configuraciones electrónicas: Modelo del solapamiento
+angular.
+Seminario: Proposición y resolución de ejercicios
+sobre el tema.
+(*) Lectura del alumno: Índices de coordinación
+poco comunes. Estructuras estereoquímicamente no
+rígidas. Tipos de isomería en los compuestos de
+coordinación.
+5.- ASPECTOS TERMODINÁMICOS: ESTABILIDAD EN
+DISOLUCIÓN
+(*) Lectura del alumno: Definición de los equilibrios de
+estabilidad de un complejo y sus constantes respectivas. Factores
+que afectan a la estabilidad. Efectos quelato, criptato y
+macrocíclico. Determinación experimental de las
+constantes de estabilidad.
+6.- ASPECTOS CINÉTICOS: MECANISMOS DE LAS REACCIONES DE
+SUSTITUCIÓN Y TRANSFERENCIA ELECTRÓNICA
+Reacciones de sustitución en complejos plano-cuadrados y
+octaédricos. Mecanismos disociativo, asociativo y de
+intercambio. Efecto e influencia 
+trans. Reacciones de transferencia electrónica.
+Mecanismos de esfera externa e interna.
+Seminario: Proposición y resolución de ejercicios
+sobre el tema.
+(*) Lectura del alumno: Ejemplos de aplicación en
+síntesis.
+7.- ASPECTOS BIOLÓGICOS: INTRODUCCIÓN A LA
+QUÍMICA BIOINORGÁNICA
+Los elementos metálicos y sus complejos en sistemas
+biológicos. Transporte y almacenamiento de oxígeno.
+Procesos de transferencia electrónica. La fijación
+del nitrógeno. Aplicaciones farmacológicas.
+(*) Lectura del alumno: Funciones bioinorgánicas.
+ 
+
+QUÍMICA ORGANOMETÁLICA
+
+8.- COMPLEJOS CON LIGANDOS PI-ACEPTORES: CARBONILOS Y NITROSILOS
+METÁLICOS
+Regla del número atómico efectivo.
+Clasificación de los carbonilos. Síntesis y
+propiedades. Estructura y naturaleza del enlace. Tipos de
+reacciones de los carbonilos. Derivados de los carbonilos
+metálicos: aniones carbonilato, hidruros y haluros.
+Nitrosilos metálicos: Estructura, enlace y propiedades.
+Otros complejos con ligandos aceptores pi.
+Seminario: Exposición breve por parte del
+profesor. Proposición y resolución de ejercicios
+sobre el tema.
+9.- INTRODUCCIÓN A LA QUÍMICA
+ORGANOMETÁLICA
+Introducción. El enlace metal-carbono: energía,
+polaridad y reactividad. Factores que afectan a la estabilidad del
+enlace metal-carbono. Compuestos con enlace sigma metal-carbono y
+pi metal-carbono: Características y tipos de ligandos.
+Compuestos pi-olefínicos. Metalocenos.
+Seminario: Exposición breve por parte del
+profesor. Proposición y resolución de ejercicios
+sobre el tema.
+10.- APLICACIONES EN CATÁLISIS
+(*) Lectura del alumno. Catálisis homogénea y
+heterogénea. Los compuestos organometálicos y la
+catálisis.
+ 
+
+QUÍMICA DEL ESTADO SÓLIDO
+
+11.- ESTRUCTURA DE LOS SÓLIDOS
+Introducción. Sólidos cristalinos y amorfos. Redes
+cristalinas. Estructuras basadas en empaquetamientos compactos: El
+modelo de esferas rígidas (HSM). Estructuras y enlace.
+Seminario: Manejo de modelos estructurales.
+12.- DESORDEN Y NO ESTEQUIOMETRÍA EN SÓLIDOS
+Defectos en cristales: defectos puntuales vacantes (Schottky) e
+intersticiales (Frenkel). Defectos lineales: Dislocaciones de
+arista y hélice. Compuestos no estequiométricos.
+13.- SÍLICE Y SILICATOS
+Sílice: estructura cristalina y polimorfía.
+Silicatos: Caracteres estructurales. Clasificación: aniones
+discretos, lineales, laminares y tridimensionales.
+14.- ÓXIDOS METÁLICOS
+Clasificación y tipos de enlace. Carácter
+ácido-base. Descripción de las estructuras más
+frecuentes. Óxidos mixtos: Clasificación, estructura
+y propiedades.
+15.- ISO Y HETEROPOLIANIONES
+(*) Lectura del alumno: Estructura de los isopolianiones.
+Estructura de los heteropolianiones. Propiedades generales.
+
+ 
+
+
+MÉTODOS EXPERIMENTALES PARA LA
+  DETERMINACIÓN ESTRUCTURAL EN COMPUESTOS
+  INORGÁNICOS
+
+16.- MÉTODOS EXPERIMENTALES PARA LA
+DETERMINACIÓNESTRUCTURAL EN COMPUESTOS
+INORGÁNICOS
+Métodos espectroscópicos. Métodos
+térmicos. Métodos de difracción.
+Seminario: Exposición breve por parte del
+profesor. Proposición y resolución de ejercicios
+sobre el tema.
+'

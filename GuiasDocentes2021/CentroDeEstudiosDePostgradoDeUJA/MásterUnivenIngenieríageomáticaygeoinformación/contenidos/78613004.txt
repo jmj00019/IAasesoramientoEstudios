@@ -1,0 +1,29 @@
+'
+
+1. Fundamentos de Navegación. Sistemas SBAS, Integridad,
+sistemas inerciales (INS).
+2. Posicionamiento Indoor.
+3. Servicios Basados en la Localización (LBS). Normas
+ISO.
+4. Tecnologías en un LBS.
+5. Aplicaciones: guiado de vehículos y personas,
+localización de objetos cercanos, información de
+tráfico, control de flotas, publicidad.
+
+
+Servicios Basados en la Localización (LBS). 
+  
+Servicios: definición, características.
+Localización
+LBS: definición, actores, componentes clave,
+    aplicaciones, retos, reflexiones.
+
+Tecnologías en un LBS. 
+  
+Posicionamiento indoor/outdoor: métodos,
+    técnicas, tecnologías.
+
+Normas ISO y OGC.
+Aplicaciones de los servicios LBS.
+
+'

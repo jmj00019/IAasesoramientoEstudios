@@ -1,0 +1,545 @@
+'
+
+Instalaciones de calefacción, climatización y aire
+acondicionado.Cálculos, modelado y diseño
+Integración de energía solar en la
+edificación. Cálculos, modelado y
+diseño. 
+Condiciones de confort en la edificación
+Ahorro y eficiencia energética en la
+edificación. Sistemas y procedimientos
+Calificación energética de edificios
+ 
+
+
+
+Bloque
+I.
+
+Instalaciones de
+calefacción, climatización y aire acondicionado.
+Cálculos, modelado y diseño
+
+
+ 
+
+Tema
+1.
+
+ 
+
+Conceptos de
+Climatización.   
+ 
+       
+
+
+ 
+       Conceptos básicos de confort.
+
+
+ 
+       Condiciones de diseño.
+
+
+ 
+       Análisis Psicométrico de Equipos y
+    Sistemas
+
+
+ 
+       Tipos de instalaciones de calefacción y
+    aire acondicionado.
+
+
+ 
+       Equipos de Producción de calor.
+
+
+ 
+       Equipos de Producción de
+    frío.
+
+
+ 
+       Equipos de producción de calor y
+    frío. Bombas de calor
+
+
+ 
+       Torres de Refrigeración.
+
+
+ 
+       Unidades de Tratamiento de aire .
+    Recuperación de calor.
+
+
+
+
+Tema
+  2. Diseño y Cálculo de Instalaciones de
+  Climatización.
+
+
+
+ 
+       Cálculo de las necesidades
+    térmicas.
+
+
+ 
+       Dimensionado de instalaciones de
+    calefacción
+
+
+ 
+       Dimensionado de instalaciones por agua .
+
+
+ 
+       Aplicación caso práctico con suelo
+    radiante.
+
+
+ 
+       Dimensionado de instalaciones de Aire en
+    Climatización.
+
+
+ 
+       Cálculo de conductos de aire.
+    Selección de ventiladores.
+
+
+ 
+       Distribución del aire en el
+    ambiente.
+
+
+ 
+       Técnicas informáticas en el
+    cálculo de Climatización.
+
+
+ 
+       Resolución de caso práctico.
+
+
+ 
+       Distribución de aire.
+
+
+ 
+       Distribución de agua.
+
+
+ 
+       Distribución de Refrigerante.
+
+
+ 
+       Sistemas todo Aire.
+
+
+
+
+Bloque
+  II. Integración de energía solar en la
+  edificación. Cálculos, modelado y
+  diseño.
+
+
+
+Tema
+  3: Componentes de una Instalación Solar Térmica en
+  Edificación
+
+
+
+ 
+       Captadores Solares Térmicos. Tipos.
+
+
+ 
+       Sistemas con Circulación Natural y
+    Forzada.
+
+
+ 
+       Sistemas de Acumulación e
+    Intercambio.
+
+
+ 
+       Medidas para Evitar Calentamientos
+    Excesivos.
+
+
+ 
+       Elementos de los Circuitos
+    Hidráulicos.
+
+
+ 
+       Sistemas de Control. Reguladores.
+
+
+
+
+Tema
+  4: Dimensionado de Instalaciones Solares
+  Térmicas.
+
+
+
+ 
+       Contribución Solar Mínima
+    según el CTE DB HE-4
+
+
+ 
+       Cálculo de la Demanda en ACS, Piscinas y
+    Calefacción.
+
+
+ 
+       Pérdidas por Orientación e
+    Inclinación CTE DB HE-4.
+
+
+ 
+       Pérdidas por Sombreado CTE DB HE-4.
+
+
+ 
+       Cálculo de la Cobertura Solar.
+    Método f-chart.
+
+
+ 
+       Relaciones entre las Principales Dimensiones CTE
+    DB HE-4 y RITE.
+
+
+
+
+Tema
+  5: Aplicaciones Básicas de la Energía Solar
+  Térmica.
+
+
+
+ 
+       Producción de ACS. Viviendas
+    Unifamiliares.
+
+
+ 
+       Producción de ACS. Viviendas
+    Plurifamiliares.
+
+
+ 
+       Producción de ACS y Apoyo a
+    Calefacción.
+
+
+ 
+       Producción de ACS y Climatización de
+    Piscinas.
+
+
+ 
+       Circuitos Múltiples. Regulación y
+    Priorización.
+
+
+ 
+       Plan de Vigilancia, según el CTE DB
+    HE-4
+
+
+ 
+       Plan de Mantenimiento, según el CTE DB
+    HE-4.
+
+
+
+
+Tema
+  6: Ciclo frigorífico de absorción.
+
+
+
+ 
+       Introducción
+
+
+ 
+       Fundamentos termodinámicos
+
+
+ 
+       Fluidos de trabajo
+
+
+ 
+       Componentes principales: el compresor
+    térmico.
+
+
+ 
+       Balances de energía y masa.
+
+
+ 
+       Coeficiente de eficiencia
+    energética.
+
+
+ 
+       Máquina de simple efecto.
+
+
+ 
+       Cálculo de una máquina de bromuro de
+    litio.
+
+
+ 
+       Resumen
+
+
+
+
+Bloque
+  III. Condiciones de confort en la
+  edificación.
+
+
+
+Tema 7. Calidad del aire
+  interior.
+
+
+
+ 
+       Introducción
+
+
+ 
+       Síndrome del Edificio Enfermo
+
+
+ 
+       Fuentes Contaminantes
+
+
+ 
+       Contaminación exterior
+
+
+ 
+       Características de los edificios
+
+
+ 
+       Ocupación y actividad
+
+
+
+
+Tema
+8
+.
+
+Ventilación, 
+calidad del ambiente térmico y confort
+térmico.
+
+
+ 
+       Introducción.
+
+
+ 
+       Variables de ventilación
+
+
+ 
+       Efectividad de la ventilación
+
+
+ 
+       Normativa de ventilación
+
+
+ 
+       Introducción. El confort ambiental.
+
+
+ 
+       Reglamentación referente al ambiente
+    térmico.
+
+
+ 
+       Confort térmico.
+
+
+ 
+       Parámetros que intervienen en la calidad
+    ambiental térmica.
+
+
+ 
+       Variables que intervienen en el ambiente
+    térmico.
+
+
+ 
+       Escalas de sensaciones térmicas
+
+
+ 
+       Situaciones de generación de malestar
+    térmico local
+
+
+
+
+Bloque
+  IV. Ahorro de Energía. Sistemas avanzados de
+  Climatización.    
+
+ 
+
+
+Tema
+  9. Ahorro de energía en sistemas de
+  climatización.
+
+
+
+ 
+       Sistemas de cogeneración en
+    climatización.
+
+
+ 
+       Climatización a gas.
+
+
+ 
+       Sistemas de acumulación de
+    frío.
+
+
+ 
+       Sistemas de techos, paredes fríos.
+
+
+ 
+       Ahorro en edificación y
+    acondicionamiento.
+
+
+ 
+       Energía solar en
+    climatización.
+
+
+ 
+       Aislamiento térmico y
+    acústico.
+
+
+
+
+ 
+
+Bloque
+V. Calificación energética en
+edificios.
+
+
+Tema
+  10. Introducción a la certificación
+  energética y normativa.
+
+
+
+ 
+       Energía y Medio Ambiente
+
+
+ 
+       El Sector Residencial
+
+
+ 
+       Ley de la Ordenación de la
+    Edificación
+
+
+ 
+       Código Técnico de la
+    Edificación
+
+
+ 
+     Directiva EPBD de Eficiencia Energética de
+  los Edificios 
+
+
+
+Tema
+  11. Certificación energética en los edificios y
+  metodología.
+
+
+
+ 
+       Introducción
+
+
+ 
+       La Certificación Energética en
+    España
+
+
+ 
+       La Certificación Energética en
+    Europa y otros países.
+
+
+ 
+       Certificación energética de
+    edificios rehabilitados.
+
+
+ 
+       Desarrollo histórico de diferentes
+    métodos de calificación energética
+
+
+ 
+       Metodología AEV y AEE
+
+
+ 
+       Métodos simplificados de
+    certificación energética
+
+
+ 
+       Herramientas de simulación
+    dinámica.
+
+
+ 
+       Otros programas de simulación
+
+
+'

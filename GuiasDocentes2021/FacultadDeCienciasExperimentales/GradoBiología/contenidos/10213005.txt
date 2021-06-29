@@ -1,0 +1,46 @@
+'
+
+Conocimiento de los movimientos morfogenéticos
+básicos que tienen lugar durante el periodo embrionario.
+Organogénesis. Análisis de las principales cascadas
+moleculares que controlan la diferenciación celular durante
+el desarrollo embrionario. Bases celulares de la
+regeneración tisular
+
+Unidad Didáctica I: Fases iniciales del desarrollo en
+invertebrados: Introducción a los procesos que conducen las
+primeras fases del desarrollo en erizo de mar, moluscos tunicados y
+nematodos. Fases iniciales del desarrollo en vertebrados: anfibios,
+peces, aves y mamíferos
+Unidad didáctica II: Principios básicos en
+Embriología: Mecanismos de especificación celular.
+Gradientes de morfógeno. Morfogénesis y
+adhesión celular. Clonaje en mamíferos. Organismos
+transgénicos. Generación de animales
+genéticamente modificados. Células embrionarias
+pluripotentes. Fenómenos de inducción. Factores
+paracrinos. Receptores de superficie celular y sus cascadas de
+traducción de señales. Principios de formación
+del patrón espacial: Formación de los ejes
+embrionarios. Origen de la polaridad antero-posterior.
+Generación de la polaridad dorso-ventral.
+Unidad didáctica III: Derivados del ectodermo: Sistema
+nervioso central. Cresta neural. Desarrollo del ojo en vertebrados.
+Origen de la epidermis y apéndices cutáneos.
+Unidad didáctica IV: Derivados del mesodermo: Mesodermo
+paraaxial e intermedio (Los somitos y sus derivados. Sistema
+urogenital). Mesodermo lateral (formación del corazón
+y vasos sanguíneos)
+Unidad didáctica V: Derivados del endodermo: Faringe.
+Tubo digestivo y sus derivados. El sistema respiratorio. Membranas
+extraembrionarias.
+Unidad didáctica VI: Células diferenciadas: su
+estabilidad. Tejidos con células permanentes. Tejidos con
+renovación celular: células madre adultas.
+Unidad didáctica VII: Regeneración:
+regeneración de extremidades en Vertebrados. El blastema:
+procesos de desdiferenciación y rediferenciación.
+Actividades Prácticas: Analisis y observacion del
+desarrollo embrionario del pollo usando distintas tecnicas de
+marcaje.
+'

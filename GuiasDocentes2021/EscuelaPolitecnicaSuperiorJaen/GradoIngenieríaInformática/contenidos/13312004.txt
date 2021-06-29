@@ -1,0 +1,69 @@
+'
+
+Garantía de la calidad del software. Modelos de madurez.
+Verificación y validación. Métricas del
+producto. Normas y estándares de calidad del software.
+ 
+
+
+Bloque I. Administración de la Calidad
+
+
+Conceptos de Calidad
+Modelos y Normas de Calidad
+Calidad de los Sistemas Informáticos
+SQuaRE: la familia de normas ISO 25000
+Sitios Web de Interés
+
+
+Bloque II: Verificación y
+  Validación
+
+
+Prueba y Depuración de Programas
+Planificación de la Verificación y
+  Validación
+Inspecciones de Software
+Herramientas para Análisis Estático
+  Automatizado de Software
+Verificación y Métodos Formales
+
+
+Bloque III. Prueba del Software
+
+
+Estrategias de Prueba del Software
+Pruebas de Unidad
+Pruebas de Integración
+Pruebas de Validación
+Pruebas de Aceptación
+Pruebas del Sistema
+El Proceso de Depuración
+Pruebas de Caja Blanca
+Pruebas de Caja Negra
+Herramientas para Pruebas de Software
+
+
+Bloque IV. Medición del Software
+
+
+Fundamentos del Proceso de Medición
+Métricas de Tamaño y Complejidad
+Métricas para Sistemas Orientados a Objetos
+Métricas de Mantenimiento del Software
+Herramientas para Medición del Software
+
+
+Prácticas
+
+El alumnado tendrá la posibilidad de trabajar el
+siguiente programa práctico:
+
+Selección y Documentación de Proyectos
+Aplicación de Estándares de
+  Codificación
+Análisis Estático Automatizado de
+  Código
+Aplicación de Métricas Software
+
+'

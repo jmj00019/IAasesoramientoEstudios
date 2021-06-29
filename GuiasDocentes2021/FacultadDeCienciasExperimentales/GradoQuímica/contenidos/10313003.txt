@@ -1,0 +1,176 @@
+'
+
+
+Simetría
+  Molecular.EspectroscopíaVibracional de Moléculas
+  Poliatómicas.Técnicas Experimentales en
+  EspectroscopíaVibracional. Laboratorio en
+  EspectroscopíaVibracional.Simetría
+  Molecular.EspectroscopíaVibracional de Moléculas
+  Poliatómicas.Técnicas Experimentales en
+  EspectroscopíaVibracional. Laboratorio en
+  EspectroscopíaVibracional.
+
+
+
+
+BLOQUE I. FUNDAMENTOS TEÓRICOS
+
+
+Tema 1. Mecanismos de Interacción Radiación -
+Materia.
+
+-
+Mecanismo de radiación de dipolo eléctrico.
+
+-
+Mecanismo de interacción Raman.
+
+
+Tema 2. Simetría Molecular. Aspectos
+básicos de teoría de grupos.
+
+-
+Elementos y operaciones de simetría
+
+-
+Grupos puntuales de simetría molecular
+
+-
+Clasificación de moléculas en su grupo puntual
+
+
+Tema 3.- Espectroscopía Vibracional de
+Moléculas Poliatómicas.
+
+-
+Tratamiento clásico de vibraciones moleculares.
+
+-
+Tratamiento cuántico, niveles de energía y tipos de
+transiciones.
+
+-
+La simetría en la interpretación de las
+vibraciones.
+
+ 
+
+
+BLOQUE II. INSTRUMENTACIÓN, MUESTREO E
+INTERPRETACIÓN DE RESULTADOS EN ESPECTROSCOPÍAS IR Y
+RAMAN
+
+
+Tema 4. Generalidades de los métodos de
+análisis espectroscópico.
+
+-
+Tipos y partes fundamentales de los instrumentos de medida de los
+espectros IR y Raman.
+
+-
+Medidas de espectroscopía óptica por Transformada de
+Fourier.
+
+
+Tema 5. Técnicas de muestreo en
+espectroscopía IR y Raman.
+
+-
+Estudio experimental del espectro IR.
+
+-
+Estudio experimental del espectro Raman.
+
+
+Tema 6. Interpretación de los espectros IR y
+Raman
+
+-
+Frecuencias de grupo.
+
+-
+Estrategias para la interpretación de espectros IR y
+Raman.
+
+
+Tema 7. Cálculos Químico-Cuánticos
+aplicados a la interpretación de los espectros
+vibracionales
+
+-
+Introducción a los métodos de
+modelización molecular.
+
+-
+Predicción teórica de espectros vibracionales.
+Integración teórico-experimental.
+
+ 
+
+
+BLOQUE III. TÉCNICAS DERIVADAS Y CASOS DE ESTUDIO EN
+ESPECTROSCOPÍAS IR Y RAMAN
+
+
+Tema 8. Aplicaciones de las espectroscopías IR y
+Raman
+
+-
+Aplicaciones seleccionadas de la espectroscopía IR
+
+-
+Aplicaciones seleccionadas de la espectroscopía
+Raman.
+
+
+Tema 9. Técnicas quiroópticas vibracionales.
+Fundamento y aplicaciones.
+
+-
+Dicroísmo circular vibracional (VCD)
+
+-
+Actividad óptica Raman (ROA)
+
+
+Tema 10. Microscopía Raman (MRS).
+
+-
+Peculiaridades de los instrumentos de medida.
+
+-
+Aplicaciones.
+
+ 
+
+
+PROGRAMA PRÁCTICO
+
+
+Sesiones I y II. Preparación de muestras
+sólidas, líquidas y gas.
+
+-
+Registro e interpretación de espectros IR.
+
+-
+Registro e interpretación de espectros Raman.
+
+
+Sesión III. Técnicas
+quiroópicas.
+
+-
+Asignación de la configuración absoluta de una
+muestra problema mediante la integración de datos
+teórico-experimentales.
+
+
+Sesión IV. Microscopía Raman
+
+-
+Registro e interpretación del espectro de muestras minerales
+y/o polímeros.
+'

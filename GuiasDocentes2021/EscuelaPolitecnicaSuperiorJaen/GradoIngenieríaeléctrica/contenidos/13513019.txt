@@ -1,0 +1,374 @@
+'
+
+Principios generales de las protecciones eléctricas
+Elementos de las protecciones eléctricas
+Parámetros característicos de las protecciones
+eléctricas
+Distintos tipos de protecciones
+
+
+
+Tema
+1. Riesgo eléctrico.
+ 
+     
+       1.1 Efectos de la electricidad
+sobre el cuerpo humano. 
+     
+       1.2 Tensiones de paso y
+contacto. 
+     
+       1.3 Efectos de la electricidad
+sobre materiales. 
+     
+       1.4 Exigencias básicas
+de los equipos de protección.
+
+
+
+
+
+Tema
+2. Cálculo de corrientes de cortocircuito en Sistemas
+Eléctricos de potencia.
+
+2.1 Curvas
+  características.
+
+
+2.2
+  Defectos de cortocircuito.
+   2.3 Impedancias de cortocircuito.
+
+
+2.4 Cálculo
+de corrientes de cortocircuito
+.
+
+
+ 
+
+
+
+Tema 3.
+  Transformadores de medida y protección.
+
+
+           
+  3.1 Esquemas de conexión.
+
+
+           
+  3.2 Fundamentos del transformador de medida.
+
+
+           
+  3.3 Transformadores para la protección
+
+
+ 
+
+
+
+Tema
+4. Introducción a las protecciones
+eléctricas
+
+ 
+
+           
+4.1 Terminología 
+
+
+           
+4.2 Relés. Clasificación 
+
+           
+4.3 Relés de protección indirectos 
+
+
+
+
+
+
+
+Tema
+5. Interruptores automáticos
+
+ 
+
+
+     
+  
+   
+5.1 Funcionamiento 
+
+
+           
+5.2 Normas UNE de interruptores automáticos 
+
+           
+5.3 Interruptores automáticos limitadores 
+
+           
+5.4 Selectividad 
+
+           
+5.5 Coordinación de protecciones 
+
+           
+5.6 Criterios de selectividad 
+
+           
+5.7 Elección de interruptor automático y
+relé 
+
+           
+5.8 Protección de neutro 
+
+           
+5.9 Protección contra faltas a tierra 
+
+           
+5.10 Protección diferencial y contactos directos e
+indirectos
+
+
+ 
+
+
+
+Tema 6. Fusibles
+de BT 
+
+           
+6.1 Funcionamiento 
+
+
+                       
+6.1.1 Sobrecarga 
+
+           
+           
+6.1.2 Cortocircuito 
+
+6.3 Normas UNE
+  de interruptores automáticos 
+  
+             
+  6.4 Características de los fusibles: Intensidad asignada,
+  característica de intervención,
+  característica de limitación 
+  
+             
+  6.5 Coordinación y selectividad
+
+
+
+ 
+
+
+
+Tema 7.
+Protección diferencial 
+
+           
+7.1 Principios básicos de funcionamiento.
+
+7.2
+  Función de frenado.
+  
+             
+  7.3 Mezclado de intensidades. 
+  
+             
+  7.4 Protección diferencial longitudinal.
+
+
+
+ 
+
+
+
+Tema 8.
+  Protección por comparación de fase
+
+
+           
+  8.1 Principios básicos de funcionamiento.
+  
+             
+  8.2 Mezclado de intensidades.
+
+
+   
+          8.3 Elementos de
+  arranque.  
+
+
+
+ 
+
+
+
+Tema
+9. Protección de distancia
+
+ 
+
+9.1 Principios
+básicos de funcionamiento.
+ 9.2 Magnitudes de medida en la protección de
+distancia 
+ 9.
+3
+Obtención
+de las característ
+icas de los
+relés de distancia 
+
+ 9.
+4
+Protecciones de
+distancia en redes trifásicas.
+ 
+
+ 9.
+5
+Criterios
+generales de ajuste de
+las protecciones
+de distancia 
+
+
+ 
+
+
+
+Tema
+10. Otras protecciones
+
+ 
+
+10.1
+  Protecciones de sobretensión y subtensión.
+   10.2 Protección de frecuencia 
+   10.3 Protección de barras 
+
+
+
+ 
+
+
+
+Tema
+11. Protección de transformadores
+
+ 
+
+           
+11.1 Introducción 
+
+
+           
+11.2 Transformadores de potencia 
+
+           
+11.3 Carga y sobrecarga de un transformador 
+
+           
+11.4 Cortocircuito en un transformador 
+
+           
+11.5 Protección de los transformadores de
+distribución 
+
+           
+11.6 Protección con relés de sobreintensidad
+temporizados 
+
+           
+11.7 Protección contra faltas a tierra 
+
+           
+11.8 Relés de imagen térmica 
+
+           
+11 .9 Protección diferencial del
+transformador 
+
+
+
+
+Tema 12. Protección de motores
+eléctricos 
+    
+        
+12.1 Calentamiento en motores 
+
+
+           
+12.2 Causas de fallo en motores 
+
+           
+12.3 Protección de motores 
+
+                       
+12.3.1 En construcción 
+
+                       
+12.3.2 En servicio: fusibles, relés térmicos o
+interruptor automático 
+
+           
+12.4 Protección de motores con relés indirectos 
+
+                       
+12.4.1 Protección de imagen térmica (49) 
+  
+                     
+12.4.2 Asimetría o fallo de fase (46) 
+
+                       
+12.4.3 Control de arranque 
+
+                       
+12.4.4 Bloqueo en marcha 
+
+                       
+12.4.5 Cortocircuitos entre fases 
+
+                       
+12.4.6 Diferencial (87) 
+
+                       
+12.4.7 Contra faltas a tierra 
+
+                       
+12.4.8 Contra baja carga (37) 
+
+                       
+12.4.9 Contra la inversión del sentido de giro
+ 
+ 
+
+
+Relación
+  de Prácticas
+
+
+Esquemas de
+  protecciones. 
+
+
+Selectividad. 
+
+
+Sensibilidad de
+  la protección diferencial
+
+
+Medición
+  de tierras
+
+'

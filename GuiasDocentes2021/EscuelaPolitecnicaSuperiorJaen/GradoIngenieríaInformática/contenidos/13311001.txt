@@ -1,0 +1,65 @@
+'
+
+Grupo simétrico: permutaciones. Factorización de
+polinomios. Sistemas de ecuaciones lineales. Matrices y
+determinantes. Espacio vectorial y espacio vectorial euclideo.
+Diagonalización de matrices. Introducción a la
+teoría de grafos.
+ 
+
+Tema 1. El anillo de polinomios.
+El anillo de los polinomios.
+Divisibilidad. Algoritmo de la división.
+Factorización de polinomios. Máximo común
+divisor y mínimo común múltiplo.
+ 
+Tema 2. El grupo simétrico.
+Grupo y subgrupos. Permutaciones, ciclos y trasposiciones.
+Descomposición de una permutación en ciclos.
+Signatura de una trasposición. El subgrupo alternado.
+ 
+Tema 3.  Sistemas de ecuaciones lineales. Matrices y
+determinantes.
+Sistemas de ecuaciones lineales. Método de Gauss-Jordan.
+Matrices y sistemas de ecuaciones lineales. Forma normal de
+Hermite. Rango de una matriz. Teorema de
+Rouché-Fröbenius. Matrices elementales. Matrices
+inversas. Determinantes. Y algunas aplicaciones.
+ 
+Tema 4. Espacios vectoriales y espacio vectorial euclideo.
+Espacio vectorial. Dependencia e independencia lineal. Bases y
+dimensión. Subespacios vectoriales y operaciones con
+subespacios. Producto escalar y norma. Vectores ortogonales.
+ 
+ 
+Tema 5. Aplicaciones lineales. Diagonalización.
+Aplicaciones lineales. Núcleo e imagen. Expresión
+matricial de un homomorfismo. Clasificación de una
+aplicación lineal. Diagonalización de un endomorfismo
+por semejanza. Aplicaciones.
+ 
+Tema 6. Introducción a la teoría de grafos.
+Conceptos básicos de grafos. Subgrafos. Grafos isomorfos.
+Grafos conexos. Geodésicas. Grafos de Euler y de Hamilton.
+Árboles. Grafos bipartitos. Grafos planos. Coloreo de grafos
+planos. Grafos dirigidos.
+TEMARIO DE PRÁCTICAS
+Práctica 1. El anillo de polinomios.
+Práctica 2. Grupos y subgrupos.
+Práctica 3. El grupo simétrico.
+Práctica 4. Grafos I. Definición,
+implementación y representación.
+Práctica 5. Grafos II. Regulares, completos, subgrafos
+y bipartitos.
+Práctica 6. Grafos III. Caminos y ciclos.
+Práctica 7. Grafos IV. Coloración, grafos
+planos y árboles.
+Práctica 8. Matrices elementales. Forma normal de
+Hermite.
+Práctica 9. Sistemas de ecuaciones lineales. Matrices
+y determinanates.
+Práctica 10. Espacios vectoriales.
+Práctica 11. Espacio vectorial euclideo.
+Práctica 12. Aplicaciones lineales.
+Práctica 13. Diagonalización.
+'

@@ -1,0 +1,273 @@
+'
+
+Esta asignatura comenzará
+con una breve Introducción a la Acústica.
+Seguidamente, se verán Medidas cuantitativas del sonido,
+dando lugar a una presentación detallada de la Teoría
+ondulatoria del sonido. Se presentarán conceptos
+físico-matemáticos relacionados con la
+Reflexión, transmisión y difracción del
+sonido. Se presentarán también algunos conceptos
+relacionados con el Sistema Auditivo y Habla. Finalmente, se
+introducirá al alumno una revisión del Control de
+Ruido.
+Palabras Clave: Teoría Ondulatoria. Propagación
+de sonido. Control de ruido. Sistema Auditivo.
+
+ 
+
+
+BLOQUE TEÓRICO
+
+
+
+Tema 1. Introducción a la Ingeniería
+  Acústica
+
+
+
+Introducción.
+
+
+Teoría
+    ondulatoria. Propagación de ondas acústicas.
+    Conceptos.
+
+
+Ecuación
+    de onda acústica genérica.
+
+
+Ecuación
+    general de ondas planas longitudinales. Solución
+    armónica.
+
+
+Ecuación
+    general de ondas esféricas. Solución
+    armónica.
+
+
+Reflexión,
+    transmisión y difracción del sonido.
+
+
+
+
+Tema 2. Psicoacústica
+
+
+
+Sistema
+    auditivo humano.
+
+
+Limites
+    auditivos y nivel sonoro.
+
+
+Curvas
+    isofónicas.
+
+
+Loudness y
+    enmascaramiento.
+
+
+Voz y
+    habla humana.
+
+
+Control de
+    ruido.
+
+
+
+
+Tema 3. Radiación acústica
+
+
+
+Introducción.
+
+
+Descriptores
+    de la directividad.
+
+
+Modelos de
+    radiación.
+
+
+Impedancias
+    de radiación.    
+     
+
+
+
+
+Tema 4. Analogías
+  electroacústicas
+
+
+
+Introducción.
+
+
+Circuitos
+    mecánicos.
+
+
+Circuitos
+    acústicos.
+
+
+Transformadores.
+
+
+Cambio
+    de analogía.
+
+
+Elementos
+    mecánicos y acústicos básicos.
+
+
+
+ 
+
+
+
+BLOQUE PRÁCTICO
+
+
+
+Práctica 1. Efectos de
+  sonido
+
+
+
+Parte 1. (1 sesión)
+
+
+
+Establecer
+    los fundamentos de efectos de sonido básicos que son la
+    base de efectos de sonido más complejos tanto en
+    señales monocanal como estéreo.
+
+
+Generar
+    retardos a la señal de audio considerando diferentes
+    valores de delay. Almacenar y reproducir la señal.
+    Comprender el efecto en la señal.
+
+
+Generar ecos
+    a la señal de audio considerando diferentes valores de
+    amplitud y delay. Almacenar y reproducir la señal.
+    Comprender el efecto de cada parámetro en la
+    señal.
+
+
+Generar
+    reverberación con diferentes amplitudes, retrasos y ecos
+    a la señal de audio. Almacenar y reproducir la
+    señal. Comprender el efecto de cada parámetro de
+    la reverberación en la señal.
+
+
+
+
+Parte 2. (1 sesión)
+
+
+
+Aplicar los
+    conocimientos ya adquiridos sobre los efectos de sonidos
+    fundamentales para implementar nuevos efectos.
+
+
+Generar un
+    efecto flanging a una señal de audio. Almacenar y
+    reproducir la señal. Comprender el efecto de cada
+    parámetro en la señal con flanging.
+
+
+Obtener el
+    espectro de una señal con efecto flanging observando el
+    filtrado de peine.
+
+
+
+
+Práctica 2. Experimentos de
+  psicoacústica
+
+
+
+Parte 1. (1 sesión)
+
+
+
+Comprobación
+    práctica de las curvas isofónicas.
+
+
+Experimentación
+    con enmascaramiento.
+
+
+
+
+Parte 2. (1 sesión)
+
+
+
+Simulación
+    de batidos auditivos.
+
+
+Generación
+    de un foco virtual móvil.
+
+
+
+
+Práctica 3. Realización de medidas con
+  sonómetros
+
+
+
+Conocimiento
+    de los diferentes aparatos de medida, condiciones de ensayo,
+    método de ensayo e interpretación de los
+    resultados recogidos en la legislación vigente en
+    materia de contaminación acústica en diferentes
+    casos prácticos.
+
+
+Manejo
+    de los controles básicos y funciones de un
+    sonómetro.
+
+
+Calibración
+    acústica de un sonómetro.
+
+
+Medición
+    de señales con ruido de fondo.
+
+
+Uso de
+    software para recoger las medidas del sonómetro.
+
+
+Realización
+    de medidas de contaminación acústica
+    medioambiental.
+
+
+ 
+'

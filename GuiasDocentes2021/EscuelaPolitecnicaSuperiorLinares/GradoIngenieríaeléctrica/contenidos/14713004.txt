@@ -1,0 +1,109 @@
+'
+
+Ahorro energético en motores y transformadores
+Compensación de energía reactiva
+Ahorro y eficiencia energética en redes
+eléctricas
+Influencia de los armónicos en la eficiencia
+eléctrica
+Ahorro energético en iluminación
+Sistemas de control de ahorro energético
+
+ 
+
+UNIDAD I. PANORAMA
+  ENERGÉTICO ACTUAL
+
+
+Tema 1.- Energía y
+  recursos energéticos.
+
+
+Tema 2.- Contexto social,
+  económico y medioambiental del uso de la
+  energía.
+
+
+Tema 3.- Marco
+  eléctrico en España.
+
+
+ 
+
+
+UNIDAD II. EFICIENCIA Y
+  AHORRO ENERGÉTICO
+
+
+Tema 4.- Eficiencia y
+  ahorro energético.
+
+
+Tema 5.-
+  Optimización de la facturación en energía
+  eléctrica.
+
+
+Tema 6.-
+  Compensación de energía reactiva.
+
+
+Tema 7.- Ahorro
+  energético en motores y transformadores.
+
+
+Tema 8.- Eficiencia
+  energética en la industria.
+
+
+Tema 9.- Eficiencia
+  energética en el transporte.
+
+
+Tema 10.- Eficiencia
+  energética en la edificación.
+
+
+Tema 11.- Eficiencia
+  energética en los servicios, agricultura,
+  pesca, ...
+
+
+ 
+
+
+UNIDAD III.
+  AUDITORÍA ENERGÉTICA
+
+
+Tema 12.- Auditoría
+  energética. Generalidades.
+
+
+Tema 13.- Sistemas de
+  gestión energética.
+
+
+Tema 14.- Auditoría
+  energética en la industria.
+
+
+Tema 15.- Auditoría
+  energética de edificios.
+
+
+ 
+
+
+UNIDAD IV. SISTEMAS DE
+  GESTIÓN INTELIGENTE
+
+
+Tema 16.- Fundamentos de la
+  domótica.
+
+
+Tema 17.-
+  Tecnologías domóticas.
+
+'

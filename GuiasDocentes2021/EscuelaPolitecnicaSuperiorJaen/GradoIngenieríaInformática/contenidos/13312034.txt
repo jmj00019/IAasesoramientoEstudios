@@ -1,0 +1,35 @@
+'
+
+Adquisición y representación del conocimiento.
+Modelos de representación del conocimiento. Modelos
+lógicos, modelos estructurados, modelos de
+información imprecisa, incierta y difusa. Ontologías.
+Sistemas basados en el conocimiento.
+ 
+
+
+TEORÍA
+
+Módulos: Introducción a la representación
+del conocimiento, Modelos básicos de representación
+del conocimiento y Modelos avanzados de representación de
+conocimiento.
+Tema 1: Aprendizaje Automático
+Tema 2: Modelos basados en lógica difusa.
+Tema 3: Adquisión y representación del
+conocimiento.
+Tema 4: Ingeniería del conocimiento:
+ontologías.
+Tema 5: Modelos lógicos. Lógica de primer
+orden.
+Tema 6: Inferencia en lógica de primer orden.
+Tema 7: Sistemas basados en reglas.
+Tema 8: Razonamiento con incertidumbre. Redes bayesianas
+Tema 9: Introducción al Big Data.
+
+PRÁCTICAS
+
+Desarrollo, implementación y análisis de un
+algoritmo de clasificación y/o regresión relacionado
+con la temática estudiada en la asignatura.
+'

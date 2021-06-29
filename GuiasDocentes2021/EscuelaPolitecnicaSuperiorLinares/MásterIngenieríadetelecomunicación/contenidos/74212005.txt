@@ -1,0 +1,241 @@
+'
+
+
+
+PART I: FUNDAMENTALS OF ANALOG
+  INTEGRATED CIRCUITS
+
+
+
+Chapter 1.
+  Introduction
+
+ 
+
+
+Chapter 2. Amplification
+  stages
+
+ 
+
+
+Chapter 3. Differential
+  amplifier
+
+ 
+
+
+Chapter 4. Operational
+  amplifiers
+
+ 
+
+
+PART II: SENSORS AND MEASURE
+  SYSTEMS
+
+ 
+
+
+Chapter 5. Temperature
+  measuring
+
+ 
+
+
+Chapter 6. Resistive
+  sensors
+
+ 
+
+
+Chapter 7. Capacitive
+  sensors
+
+ 
+
+
+Chapter 8. Magnetic
+  sensors
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+Chapter 1. Introduction
+ Definitions. Technical evolution of IC. Integration
+  Scales. Manufacturing processes of IC. Signals and variables.
+  Measuring systems. Static/dynamic characteristics. CAD
+  Tools.
+
+
+
+
+Chapter 2. Amplification stages
+ Introduction. Review of BJTs and MOSFETs. Amplification
+  stages based on MOSFET transistors: common source, common gate
+  and common drain. Current sources: current mirrors, cascode
+  source and current multipliers
+
+
+
+Practical session 1: Comparison
+  between two CMOS amplification stages
+
+
+
+
+Chapter 3. Differential amplifier
+ Introduction. The MOSFET differential amplifier. DC and AC
+  response. Differential mode gain. Common mode gain. Common-mode
+  rejection ratio (CMRR). Input and output resistance in common
+  mode. Input and output resistance in differential
+  mode.
+
+
+
+Practical session 2:
+  Characterisation of an active-loaded differential amplifier
+  
+
+
+
+
+Chapter 4. Operational amplifiers.
+ Introduction. Parts of a simple operational amplifier:
+  differential stage, amplification stage, DC power supply stage
+  and output stage. Study of the OTA Miller amplifier. Real
+  response of a operational amplifier. Instrumentation amplifiers.
+  
+
+
+
+Practical session 3: Open loop
+  characterisation of the OTA-Miller amplifier
+  
+
+
+
+
+Chapter 5. Introduction to instrumentation systems.
+  
+
+
+
+Overall schematic of an
+  intrumentation system. Sensors and trannsducers. Signal
+  conditioning. Analog to digital converters. Static and dynamic
+  features of instrumentation systems. Acquisition, analysis, and
+  data storage using LabView. Errors and uncertainty analysis.
+  
+
+
+
+Practical session 4: Introduction
+  to Labview
+
+ 
+
+
+
+Chapter 6. Temperature
+  measurements
+
+
+
+Introduction. Thermistors,
+thermocouples and RTDs. Signal conditioning for temperature
+sensors.
+
+Integrated temperature
+sensors.
+
+
+Practical session 5: Temperature
+  measurement
+  
+
+ 
+
+
+
+Chapter 7. Magnetic sensors
+
+
+
+Introduction. Fundamentals of
+  Hall Effect. Hall linear sensors. Commercial hall sensors.
+  
+
+
+
+Practical session 6: Current
+  measurement by hall effect sensor.
+  
+
+ 
+
+
+
+Chapter 8. Resistive sensors
+
+
+
+Introduction. P
+
+otentiometer
+
+transducer. Strain gauges. Light
+dependent resistors. Applications
+ 
+
+
+
+Chapter 9. Electronic power drivers
+
+
+
+
+
+
+
+
+
+Introduction.
+
+Electronic devices used for
+designing electronic power drivers. Non-Insulated power drivers.
+Insulated power drivers. Thermal management
+
+
+
+
+
+
+
+
+Practical session 7: Labview
+  application: measuring, control and data analysis
+
+
+
+ 
+
+'

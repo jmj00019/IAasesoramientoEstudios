@@ -1,0 +1,32 @@
+'
+
+I. Sistemas operativos. El sistema Linux.
+II. Escritura científica. LaTeX. Recursos en
+Internet.
+
+
+
+Bloque 1: Programación básica
+y librerías científicas con Python.
+
+Tema 1: Introducción a Python. Herramientas
+de desarrollo
+
+Tema 2: Programación en Python
+
+Tema 3: Programación matemática en
+Python. Sympy, Diofant, Numpy
+
+
+Bloque 2: Software Científico
+
+Tema 4: SageMath, Maxima. Otros entornos de
+distribución libre
+
+Tema 5: Wolfram Research Mathematica
+
+Tema 6: Otros entornos matemáticos
+comerciales
+
+Tema 7: Aplicaciones móviles y on-line
+'

@@ -1,0 +1,349 @@
+'
+
+Transformador de potencia: monofásico y
+trifásico.
+Transformador de medida y protección.
+Máquinas asíncronas.
+
+
+1  
+  CIRCUITOS POLIFÁSICOS.
+
+
+1.1      
+  Conexión estrella
+
+
+1.2      
+  Conexión triangulo
+
+
+1.3      
+  Potencia de los sistemas trifasicos equilibrados
+
+
+1.4      
+  Medida de la potencia en sistemas trifasicos equilibrados
+
+
+Factor de
+  potencia y digramas aplicación a las máquinas
+  eléctricas
+
+
+2   CIRCUITOS MAGNÉTICOS Y CONVERSIÓN DE
+ENERGÍA.
+
+2.1      
+  Introducción
+
+
+2.2      
+  Materiales magneticos propiedades   1.2
+
+
+          
+  2.2.1    Diamagnetismo  1.2.1
+
+
+          
+  2.2.2    Paramagnetismo  1.2.2
+
+
+          
+  2.2.3    Ferromagnetismo   1.2.3
+
+
+          
+  2.2.4    Ciclo de histéresis 
+  1.2.3
+
+
+2.3      
+  Leyes de los circuitos magneticos  1.3
+
+
+2.4      
+  Perdidas en el circuito magnetico  1.5
+
+
+2.5      
+  Circuitos magneticos escitados con corriente alterna  
+  1.6
+
+
+     
+        2.5.1   
+      Circuito eléctrico
+  equivalente   1.6.2
+
+           2.5.2
+        Corriente de
+excitación   1.6.3
+
+3  
+  PRINCIPIOS GENERALES DE LAS MÁQUINAS
+  ELÉCTRICAS.
+
+
+3.1     
+  Clasificación de las máquinas
+  eléctricas  2.1
+
+
+3.2     
+  Constitucion basica  2.2
+
+
+3.3     
+  Materiales utilizados en la contrución de máquinas
+  eléctricas
+
+
+3.4     
+  Perdidas en las máquinas eléctricas 
+  2.5
+
+
+3.5     
+  Calentamiento de las máquinas eléctricas 
+  2.5
+
+
+3.6     
+  Potencia nominal  2.6
+
+
+3.7     
+  Ciclos de servicio  2.6
+
+
+3.8    
+   Rendimiento de las máquinas eléctricas 
+  2.7
+
+
+4  
+   EL TRANSFORMADOR , CONTRUCCIÓN. Y PRINCIPIO DE
+  FUNCIONAMIENTO.
+
+
+4.1     
+  Introducción  3.1
+
+
+4.2     
+  Construcción de los transformadores  3.2
+
+
+           
+  4.2.1  Parametros nominales
+
+
+4.3     
+  Analisis del transformador monofásico en vacio 
+  3.3
+
+
+4.4     
+  Analisis del tranformador en carga  3.4
+
+
+4.5   
+    Parametros reducidos circuito equivalente 
+  3.5
+
+
+5 
+     El TRANSFORMADOR, ENSAYOS CAÍDA DE
+  TENSIÓN. RENDIMIENTO.
+
+
+5.1    
+  Ensayo de vacio  3.6
+
+
+5.2    
+  Ensayo de cortocircuito y parametros de cortocircuito 
+  3.6
+
+
+5.3    
+  Diagrama de Kapp. Caida de tensión en función del
+  tipo de carga  3.7
+
+
+5.5    
+  Rendimiento del transformador  3.8
+
+
+           
+  5.5.1    Influencia del tipo de carga en el
+  rendimiento
+
+
+6 
+  TRANSFORMADORES TRIFÁSICOS ACOPLAMIENTOS.
+
+
+6.1    
+  Designación de bornas y polaridades de un arrollamiento,
+  índice horario.  3.11
+
+
+6.2    
+  Analisis de armonicos de la corriente de excitación 
+  3.11.2
+
+
+6.3    
+  Tipos de conexión entre arrollamientos  3.11.3
+
+
+6.4    
+  Estudio del transformador trifasico como monofásico 
+  3.11.1
+
+
+6.5    
+  Acoplamiento en paralelo de transformadores  3.12
+
+
+7
+   AUTOTRANSFORMADOR. TRANSFORMADORES DE MEDIDA
+
+
+7.1    
+  Principio de funcionamiento del autotransformador 
+  3.13
+
+
+7.2    
+  Costitución básica del autotranformador 
+  3.13
+
+
+7.3    
+  Principio de funcionamiento del transformador de intensidad
+  3.15.2
+
+
+7.4    
+  Principio de funcionamiento del transformdor de tensión
+  3.15.1
+
+
+8
+   CAMPOS MAGNETICOS. FUNCIONAMIENTO DE LA MAQUINA
+  ASINCRONA
+
+
+8.1   Onda de campo de un devanado de c.a.
+monofásico concentrado de paso diametral.2.8
+
+8.2   Onda de campo de un devanado distribuido de paso
+acortado. 2.8
+
+8.3   Onda de campo de un devanado trifásico.
+Campo magnético giratorio.  2.8
+ 
+   8.3.1   Teorema de Ferraris.  2.8.3
+ 
+   8.3.2   Teorema de Leblanc.  2.8.4
+8.4.-
+Constitución de la máquina asíncrona. 
+4.1
+ 
+   8.4.1   Rotor en jaula de ardilla.
+ 
+   8.4.2   Rotor bobinado.
+8.5 
+ Principio de funcionamiento de las máquinas
+asíncronas.4.3
+8.6 
+ Circuito equivalente del motor asíncrono. 
+4.4.
+ 
+    8.6.1   Circuito equivalente aproximado con
+ajuste de tensión.  4.4.
+
+9 
+  ENSAYOS, POTENCIAS Y ARRANQUE DE LA MÁQUINA
+  ASINCRONA
+
+
+9.1   Ensayos del motor de inducción. 
+4.5
+
+9.1.1   Ensayo de vacío.  4.5.1
+ 
+  9.1.2   Ensayo de cortocircuito.  4.5.2
+
+9.2   Análisis de potencias. 4.6
+
+9.3   Par motor.  4.7.1
+
+9.4   Curvas características par
+-deslizamiento.  4.7.1
+
+9.5   Par de arranque.  4.7.1
+
+9.6   Diagrama vectorial del motor asíncrono
+(cortes-corrales-P425 y apuentes_U_3_v1.1)
+
+9.6   Funcionamiento de la máquina
+asíncrona.  4.7.2
+
+9.6   Diagrama del círculo,
+deducción.  4.8
+
+9.7   Arranque de los motores trifásicos de
+inducción.  4.9
+ 
+   9.7.1   Arranque directo.  4.9.1
+ 
+   9.7.2   Arranque mediante resistencia
+rotoricas.4.9.1
+ 
+   9.7.3   Arranque mediante
+autotransformador.  4.9.1
+ 
+   9.7.4   Arranque con conexión
+estrella-triángulo.  4.9.1
+ 
+    9.7.5   Rotor de doble jaula. 
+4.10
+
+9.8   Regulación de velocidad.  4.11
+
+ 10 
+ MOTOR MONOFASICO DE INDUCCION  4.13
+10.1
+ Principio de funcionamiento.
+10.2 
+Circuito equivalente del motor.
+10.3.-
+Arranque del motor monofásico.
+10.3.1.-
+Motores de fase partida.
+10.3.2.-
+Arranque con condensador.
+10.3.3.-
+Motor de espira de sombra.
+10.3.4.-
+Adaptación de un motor trifásico a una red
+monofasica.
+
+
+ 
+
+Nota: los
+números del final de los títulos indican la
+situación de cada título en el libro de
+referencia.
+
+
+ 
+
+ 
+'

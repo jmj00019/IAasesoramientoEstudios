@@ -1,0 +1,176 @@
+'
+
+- Análisis Instrumental: principios generales.
+- Técnicas ópticas de análisis.
+- Técnicas electroanalíticas.
+- Introducción a la Quimiometría.
+- Aplicaciones de las principales técnicas instrumentales
+empleadas en Química Analítica: ópticas,
+electroquímicas.
+
+Tema 1. Generalidades sobre la química
+analítica instrumental
+Introducción. Clasificación de las técnicas
+instrumentales. Operaciones de medida: señal
+analítica. Relación señal-ruido.
+Características analíticas de los métodos
+instrumentales: parámetros de calidad. Calibración
+química: tipos.
+Tema 2.   Introducción y
+principios generales de las técnicas ópticas
+Introducción. Naturaleza de la radiación
+electromagnética. Interacción de la radiación
+con la materia. Clasificación de las técnicas
+ópticas de análisis. 
+Técnicas espectroscópicas. Tipos de
+espectros y mecanismos de interacción. 
+Técnicas no espectroscópicas. Principios
+básicos
+Tema 3.   Componentes básicos de los
+instrumentos espectroscópicos
+Introducción. Fuentes de energía radiante:
+continuas, de líneas y láseres. Selectores de
+longitud de onda: filtros y monocromadores. Recipientes de muestra.
+Detectores: fotográficos, de fotones y térmicos.
+Procesadores de señal e instrumentos de lectura.
+Instrumentos espectroscópicos: diseños y tipos. Fibra
+óptica.
+Tema 4.   Espectroscopía de absorción
+molecular 
+Introducción. 
+Espectroscopía UV-Vis. Teoría de la
+absorción. Especies absorbentes y tipos de transiciones. Ley
+de la absorción de radiación: Ley de Beer y sus
+limitaciones. Instrumentación. Diseños
+básicos. Metodología. Aplicaciones: 
+Espectroscopia infrarroja. Teoría de la
+absorción en IR. Instrumentación. Aplicaciones.
+Tema 5.   Espectroscopía de luminiscencia
+molecular
+Introducción. Formas de excitación y procesos de
+desactivación: fotoluminiscencia y quimioluminiscencia.
+Relación entre intensidad de luminiscencia y
+concentración. Instrumentación en fotoluminiscencia:
+componentes básicos. Metodología. Aplicaciones
+analíticas. Quimioluminiscencia: generalidades.
+
+Tema 6.   Introducción a la
+  espectroscopía atómica
+
+Introducción. Tipos de espectros atómicos.
+Ensanchamiento de las líneas atómicas.
+Clasificación de las técnicas espectroscópicas
+atómicas. Comparación entre las técnicas
+espectroscópicas atómicas y moleculares.
+
+Tema 7.   Espectroscopía de absorción
+  atómica.
+
+Fundamento. 
+Atomización con llama. Fenómenos que tienen
+lugar en la llama, tipos de llama y sus temperaturas. 
+Atomización
+electrotérmica. Horno de grafito. Componentes
+básicos de la instrumentación. Interferencias.
+Correctores de fondo. Comparación entre la técnica
+con atomización con llama y electrotérmica.
+Aplicaciones analíticas. 
+Técnicas de generación de compuestos
+volátiles. Hidruros y vapor frío
+
+Tema  8.    Espectroscopía de
+emisión atómica
+.
+Atomización con llama: 
+fotometría de llama. Instrumentación
+básica. Interferencias. Aplicaciones. 
+Espectroscopia de emisión con plasma. Plasma
+analítico: definición y caracterización.
+Generación del plasma. El plasma de radiofrecuencia acoplado
+por inducción (ICP). Instrumentación. Interferencias.
+Aplicaciones. Comparación entre los métodos de llama,
+electrotérmicos y los métodos con fuentes de
+plasma.
+
+Tema 9.  Técnicas ópticas no
+  espectroscópicas
+
+Turbidimetría y nefelometría. Fundamentos:
+analogías y diferencias. Reflexión y
+dispersión. Variables que afectan a las medidas.
+Instrumentación. Aplicaciones analíticas. Otras
+técnicas.
+  
+Tema 10.   Introducción a las técnicas
+electroanalíticas
+Generalidades. Celdas electroquímicas. Potencial de celda
+y potencial de electrodo. Corrientes en las celdas
+electroquímicas: corrientes faradaicas y no faradaicas.
+Polarización. Clasificación de las técnicas
+electroanalíticas.
+
+Tema 11.   Potenciometría
+
+Características de las técnicas
+potenciométricas. Electrodos de referencia. Electrodos
+indicadores: metálicos y de membrana. Electrodos selectivos
+de iones. Tipos: potenciometría directa y valoraciones
+potenciométricas. Instrumentación. Aplicaciones
+analíticas
+
+Tema 12.   Voltamperometría.
+
+Fundamento. Clasificación: señales de
+excitación 
+. Voltamperometría de barrido lineal con electrodo
+de gotas de mercurio y con electrodo de superficie constante.
+Instrumentación. Aplicaciones analíticas.
+Técnicas de impulsos 
+. Técnicas de redisolución. Fundamento.
+Etapas.Tipos. Aplicaciones analíticas.
+
+Tema 13.   Otras técnicas
+  electroanalíticas 
+
+
+Electrogravimetría. Fundamento. Electrólisis
+a potencial constante. Electrólisis a potencial de electrodo
+controlado. Instrumentación. Aplicaciones. 
+Culombimetrías. Fundamento. Valoraciones
+culombimétricas. Instrumentación. Aplicaciones
+Analíticas.  
+Conductimetría. Principios generales.
+Instrumentación. Aplicaciones analíticas
+
+Tema 14.  Introducción a las técnicas
+  quimiométricas I
+
+Quimiometría: concepto, origen y tendencias.
+Clasificación. Pruebas de significación
+paramétricas: comparación de una media experimental
+con un valor de referencia  y comparación de las medias
+de dos muestras. Valores discrepantes. Análisis de la
+varianza (ANOVA)
+
+Tema 15. Introducción a las técnicas
+  quimiométricas II
+
+Calibración lineal univariante. Regresión:
+desviación estándar del ajuste lineal. Intervalos de
+confianza para la pendiente y ordenada en el origen. El uso de
+rectas de regresión para comparar métodos
+analíticos. Rectas de regresión ponderadas. 
+ 
+
+Programa de
+  prácticas de laboratorio
+
+1ª- Determinación espectrofotométrica de
+hierro en vinos.
+2ª. Determinación  espectrofluorimétrica
+del  contenido de quinina en aguas tónicas.
+3ª. D eterminación conjunta de cobre y manganeso
+por  absorción atómica en muestras
+vegetales.
+ 
+'

@@ -1,0 +1,257 @@
+'
+
+Introducción y Aspectos generales del mecanizado
+Teoría y condiciones del corte de materiales
+Procedimientos de mecanizado convencionales
+Procedimientos de mecanizado no convencionales
+Máquinas herramientas de control numérico
+Programación mediante control numérico
+
+
+Contenidos desarrollados:
+
+
+Bloque 1.
+  Introducción y aspectos generales del mecanizado
+
+
+Tema 1.1. Introducción al mecanizado.
+
+
+Concepto de mecanizado. Elementos básicos del mecanizado.
+Conceptos de movimiento de corte, de avance y de
+penetración. Movimientos de corte en
+máquinas-herramienta. Velocidades pieza-herramienta.
+Maquinabilidad. Micromecanizado.
+
+Tema 1.2. Estudio Geométrico de la herramienta de
+  corte.
+
+
+Características de una cuchilla elemental. Ángulos
+principales: desprendimiento, incidencia y de herramienta. La
+herramienta real monofilo. Otros ángulos de interés
+tecnológico. Enlace entre el filo principal y secundario.
+Formación y tipos de viruta. Rompevirutas. Geometría
+de la sección de la viruta
+
+Bloque 2. Teoría
+  y condiciones de corte de materiales
+
+
+Tema 2.1. Teorías de corte.
+
+
+Modelo del plano de deslizamiento. Estudio cinemático del
+modelo de corte ortogonal. Análisis dinámico en el
+corte ortogonal. Teorías de corte. Modelos experimentales.
+Métodos de obtención de la potencia de corte
+
+Tema 2.2. Materiales para herramientas de corte.
+
+
+Requisitos de los materiales para herramientas. Tipos de materiales
+para herramientas.
+
+Tema 2.3. Tribología y fenómenos
+  térmicos en el corte.
+
+
+Leyes del rozamiento seco. Fenómenos térmicos en el
+corte. Fluidos de corte. Técnicas de refrigeración y
+lubricación. Formación del filo recrecido
+
+Tema 2.4. Desgaste y vida de las herramientas de corte.
+
+
+Concepto de desgaste. Zonas de desgaste. Mecanismos de desgaste.
+Duración o vida de la hta. de corte. Medida del desgaste de
+la herramienta. Criterios de desgaste o de duración de la
+hta. Ecuaciones de vida de la herramienta. Ensayos convencionales.
+Ensayos rápidos
+
+Tema 2.5. Estudio técnico económico de los
+  procesos de mecanizado.
+
+
+Costes de producción. Economía del mecanizado:
+Velocidad de mínimo coste. Velocidad de máxima
+producción o mínimo tiempo de producción.
+Velocidad de máximo beneficio
+
+Tema 2.6. Monitorización y control de los procesos de
+  mecanizado.
+
+
+Concepto de monitorización. Equipos de
+monitorización. Métodos directos e indirectos de
+monitorización. Sistemas expertos. Control adaptativo
+
+Bloque 3.
+  Procedimientos de mecanizado convencionales
+
+
+Tema 3.1. Aspectos tecnológicos del torneado.
+
+
+Movimientos en el torneado. Operaciones básicas en el
+torneado. Sujeción de la pieza en el torneado.
+Geometría de la herramienta de corte. Parámetros de
+corte. Influencia en la vida de la herramienta. Fuerzas en el
+torneado. Proceso de selección de herramientas
+
+Tema 3.2. Aspectos tecnológicos del fresado.
+
+
+Concepto de fresado. Operaciones de fresado. Parámetros
+geométricos y tecnológicos. Selección de
+herramientas en operaciones de fresado.
+
+Tema 3.3. Aspectos tecnológicos del taladrado.
+
+
+Concepto de taladrado. Operaciones de taladrado. Parámetros
+geométricos y tecnológicos.
+
+Tema 3.4. Otros procesos de mecanizado convencionales.
+
+
+Mecanizados con movimiento principal de corte lineal.
+Rectificado
+
+Bloque 4.
+  Procedimientos de mecanizado no convencionales
+
+
+Tema 4.1. Procesos de mecanizado no convencionales.
+
+
+Introducción a los procesos de mecanizado no convencionales.
+Procesos basados en el uso de energía mecánica.
+Procesos basados en el uso de energía eléctrica.
+Procesos basados en el uso de energía térmica.
+Procesos químicos. Mecanizado de alto rendimiento
+
+Bloque 5.
+  Máquinas herramientas de control numérico
+
+
+Tema 5.1. Fundamentos de control numérico.
+
+
+Concepto de automatización. Concepto de control
+numérico computerizado (CNC). Métodos de
+programación de CNC. Fases en la programación de CNC.
+Clasificación de los CNC. Elementos básicos en un
+CNC
+
+Tema 5.2. Máquinas herramientas de CNC.
+
+
+Arquitectura de una máquina-herramienta de CNC. Actuadores y
+tipos de actuadores. Sensores y sistemas de guiado. Sistemas de
+cambio automático de herramientas.
+
+Bloque 6.
+  Programación mediante control numérico
+
+
+Tema 6.1. Introducción a la programación ISO de
+  CNC.
+
+
+Información necesaria. Fases de programación.
+Sistemas de referencia. Orígenes. Puntos de referencia.
+Compensación del radio de herramientas. Correctores de
+herramientas. Estructura de un programa pieza. Funciones.
+Programación de velocidades. Programación de
+herramientas. Programación de coordenadas
+
+Tema 6.2. Programación ISO de tornos de CNC.
+
+
+Ejes y sistemas de coordenadas en el torno. Nombre del programa,
+cabecera y formato. Aspectos previos y funciones de
+inicialización. Funciones de interpolación.
+Transiciones entre bloques. Programación de orígenes
+de coordenadas. Programación de herramientas. Ciclos fijos
+en torneado
+
+Tema 6.3. Programación ISO de fresadoras de CNC.
+
+
+Ejes y sistemas de coordenadas en la fresadora. Selección
+del plano de trabajo. Funciones de movimiento lineal y circular.
+Factor de escala. Imagen espejo. Giro del sistema de coordenadas.
+Compensación de herramienta. Ciclos fijos en fresado
+
+Tema 6.4. Programación avanzada de CNC.
+
+
+Subrutinas estándar. Operaciones con parámetros.
+Subrutinas paramétricas. Saltos dentro de un programa
+
+Las prácticas a realizar serán las
+  siguientes:
+
+
+Práctica 1. Mecanizado en torno convencional.
+
+
+Consistirá en la realización del mecanizado de una
+pieza sencilla en el torno convencional. Para ello el alumno
+tendrá que diseñar y planificar las distintas
+operaciones y fases del mecanizado, seleccionar los
+parámetros tecnológicos más apropiados,
+así como seleccionar el material y la geometría de la
+herramienta más adecuados, reflejando toda esta
+información en la correspondiente hoja de procesos, para
+finalmente ejecutar el mecanizado de la pieza.
+
+Práctica 2. Mecanizado en fresadora convencional.
+
+
+Consistirá en la realización del mecanizado de una
+pieza sencilla en una fresadora convencional. Para ello el alumno
+tendrá que diseñar y planificar las distintas
+operaciones y fases del mecanizado, seleccionar los
+parámetros tecnológicos más apropiados,
+así como seleccionar el material y la geometría de la
+herramienta más adecuados, reflejando toda esta
+información en la correspondiente hoja de procesos, para
+finalmente ejecutar el mecanizado de la pieza.
+
+Práctica 3. Programación en código ISO
+  de torno CNC.
+
+
+Partiendo de la hoja de procesos para el mecanizado de una pieza de
+revolución, el alumno realizará la
+programación manual en código ISO del programa CNC
+capaz de fabricar dicha pieza en un torno CNC. Finalmente se
+realizará la simulación del mecanizado implementado
+en el programa pieza y se depurarán y corregirán
+errores, para lo cual se hará uso de software de
+simulación CNC.
+
+Práctica 4. Programación en código ISO
+  de fresadora CNC.
+
+
+Partiendo de la hoja de procesos para el mecanizado de una pieza
+prismática, el alumno realizará la
+programación manual en código ISO del programa CNC
+capaz de fabricar dicha pieza en una fresadora de CNC. Finalmente
+se realizará la simulación del mecanizado
+implementado en el programa pieza y se depurarán y
+corregirán errores, para lo que se hará uso de
+software de simulación CNC.
+
+Práctica 5. Generación de código CNC
+  mediante software CAD/CAM.
+
+
+Haciendo uso de software CAD/CAM se obtendrá el programa CNC
+capaz de mecanizar una pieza compleja, para posteriomente ejecutar
+el mecanizado de la pieza en el torno o fresadora de CNC.
+'

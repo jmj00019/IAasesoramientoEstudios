@@ -1,0 +1,41 @@
+'
+
+·     Tipos de
+identificación.
+·     Protocolos de
+identificación delegados.
+·     Fingerprinting.
+·     Biometría.
+.     Identidad en la red y creación de
+perfiles de usuario.
+
+
+Temario Teórico
+
+1.- Identificación, autenticación y control de
+acceso 
+    1.1. Técnicas de identificación y
+autenticación 
+    1.2. Ciclo de vida de la identidad 
+    1.3. Control de acceso 
+2.- Sistemas de identificación
+biométricos 
+    2.1. Sistemas fisiológicos 
+    2.2. Sistemas de comportamiento 
+    2.3. Dispositivos biométricos 
+    2.4. Fallos de los sistemas
+biométricos 
+    2.5. Suplantación de identidad con
+dispositivos biométricos 
+3.- Nuevos sistemas de identificación 
+    3.1.- Segundos factores de
+identificación y autenticación 
+    3.2.- Identificación en sistemas
+IoT 
+ 
+
+Temario Práctico
+
+1.- Casos de uso con el API de Latch  
+2.- Aplicaciones móviles con huella digital
+'

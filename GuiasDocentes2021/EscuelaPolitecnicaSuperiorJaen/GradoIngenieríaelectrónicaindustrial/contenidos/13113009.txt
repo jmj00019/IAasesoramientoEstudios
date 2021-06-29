@@ -1,0 +1,156 @@
+'
+
+Fundamentos de la robótica.
+Componentes de un robot industrial. Tipos de robots.
+Modelado de robots industriales.
+Programación en alto nivel de robots industriales.
+Desarrollo de células robotizadas utilizando software
+de diseño 3D.
+Robótica de servicios. Tipos y situación
+actual.
+
+
+1.
+  Introducción a la robótica.
+
+
+1.1
+  Definiciones y breve reseña histórica.
+
+
+1.2
+  Justificación de su necesidad.
+
+
+1.3
+  Clasificación de la robótica.
+
+
+1.4
+  Situación actual en los mercados.
+
+
+ 
+
+
+2.
+  Robots Industriales. Configuraciones y control.
+
+
+2.1.
+  Introducción.
+
+
+2.2.
+  Configuración de robots manipuladores industriales.
+  Clasificación.
+
+
+2.3.
+  Actuadores y sensores utilizados en robótica.
+
+
+2.4.
+  Cinemática de cadenas articuladas.
+
+
+2.5.
+  Modelo cinemático de un robot manipulador. Método
+  DH.
+
+
+2.6.
+  Control de un robot manipulador.
+
+
+ 
+
+
+3. 
+  Programación de Robots industriales.
+
+
+3.1.
+  Arquitectura de control de un robot manipulador.
+
+
+3.2.
+  Programación de robots manipuladores.
+
+
+3.3.
+  Diseño y simulación de células
+  robóticas de fabricación utilizando herramientas
+  CAD.
+
+
+ 
+
+
+4.
+  Aplicaciones de los robots industriales.
+
+
+4.1.
+  Robots industriales aplicados en pintura.
+
+
+4.2.
+  Robots industriales aplicados en soldadura.
+
+
+4.3.
+  Robots industriales aplicados en manipulación.
+
+
+4.4.
+  Robots industriales aplicados en ensamblaje
+  automático.
+
+
+ 
+
+
+5.
+  Robótica de servicios.
+
+
+5.1.
+  Evolución y tipos.
+
+
+5.2.
+  Sistemas de Locomoción.
+
+
+5.3.
+  Arquitecturas de control.
+
+
+5.4.
+  Sensores.
+
+
+5.5.
+  Inteligencia artificial aplicada.
+
+
+5.6.
+  Tendencias en investigación y comerciales.
+
+ PRÁCTICAS:
+Práctica 1: Introducción a la robótica
+manipuladora.
+Práctica 2: Programación en lenguaje TPE.
+Práctica 3: Programación en lenguaje TPE (2).
+Práctica 4: Diseño de células
+robóticas utilizando 3D RobotGuide
+Práctica 5: Diseño de células
+robóticas utilizando 3D RobotGuide (2)
+Práctica 6:Diseño de células
+robóticas utilizando 3D RobotGuide (3)
+Práctica 7: Programación de robots de servicios
+(robots móviles). 
+Práctica 8: Programación de robots de servicios
+(robots móviles) (2). 
+'

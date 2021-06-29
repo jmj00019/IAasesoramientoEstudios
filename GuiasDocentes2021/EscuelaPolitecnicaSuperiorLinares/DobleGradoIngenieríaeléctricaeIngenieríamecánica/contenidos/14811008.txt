@@ -1,0 +1,42 @@
+'
+
+Conocimientos básicos sobre arquitectura ordenador,
+sistemas operativos y redes de ordenadores.
+Conocimientos básicos sobre base de datos.
+Conocimientos básicos de programación: tipos de
+datos básicos, estructuras de control: secuencial,
+condicional y cíclica, conceptos básicos de la
+programación modular.
+
+Presentación de la asignatura.
+ 
+Módulo 1. Conocimientos básicos de
+programación.
+Tema 1. Tipos de datos básicos y estructuras de
+control.
+Tema 2. Programación modular.
+Tema 3. Manejo de archivos.
+ 
+Módulo 2. Conocimientos básicos de
+informática.
+Tema 4. Bases de datos. Conceptos.
+Tema 5. Arquitectura de un ordenador, sistemas operativos y
+redes de  ordenadores.
+ 
+Módulo
+1. Programación.
+
+Guión 1: Entorno de programación.
+Guión 2: Estructuras secuenciales, estructuras
+  condicionales, estructuras cíclicas.
+Guión 3: Arrays.
+Guión 4: Programación modular.
+Guión 5: Archivos.
+
+Módulo
+2. Sistema gestor de bases de datos.
+
+Guión 6: Creación de una base de datos.
+Guión 7: Consultas a una base de datos.
+
+'

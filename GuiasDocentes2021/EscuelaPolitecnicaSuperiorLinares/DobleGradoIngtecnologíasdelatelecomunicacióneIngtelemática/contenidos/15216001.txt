@@ -1,0 +1,17 @@
+'
+
+Ejercicio original a realizar
+individualmente y presentar y defender ante un tribunal
+universitario, consistente en un proyecto en el ámbito de
+las tecnologías específicas de la titulación,
+en el que se sinteticen e integren las competencias adquiridas en
+las enseñanzas.
+
+
+La
+  elaboración de la memoria y de todo el trabajo debe
+  acogerse a lo que determinen las Normas de Estilo y Estructura
+  que aprueba la Comisión de TFG
+  (https://epsl.uja.es/sites/centro_epsl/files/uploads/node_seccion_de_micrositio/2018-06/Normas%20de%20estilo%20y%20estructura_TFG_2016_12_22.pdf)
+
+'

@@ -1,0 +1,85 @@
+'
+
+Introducción a la Electrónica de Potencia y Repaso
+de conceptos fundamentales, potencia y armónicos.
+Dispositivos semiconductores de potencia (diodo, transistor, scr).
+Convertidores estáticos (Rectificadores no controlados,
+rectificadores controlados, convertidores dc/dc , configuraciones
+básicas de potencia. Inversores.)
+
+
+
+A1.- Clases expositivas gran grupo
+
+
+
+COMPETENCIAS ( CEX4, CB3R)
+
+
+Unidad 1: Introducción a la Electrónica de
+Potencia y Repaso de conceptos fundamentales 
+Lección 1.- Introducción Electrónica de
+Potencia
+Lección 2.- Repaso conceptos: potencia
+Eléctrica y armónicos.
+
+Unidad 2: Dispositivos semiconductores de potencia
+Lección 3.- Elementos semiconductores de potencia:
+Diodo y transistor
+Lección 4.- Tiristor
+Lección 5.- Disipación de potencia
+
+Unidad 3: Convertidores estáticos
+Lección 6.- Convertidores DC/DC: Troceadores
+Lección 7.- Convertidores DC/AC: Inversores
+Lección 8.- Convertidores AC/DC: Rectificadores
+Lección 9.- Filtrado
+
+
+A2.- Clases prácticas pequeño
+  grupo
+
+
+
+COMPTENCIAS (CEX5,CT2)
+
+
+PRÁCTICAS DE LABORATORIO INSTRUMENTACIÓN
+  (16horas):
+
+1.-Transistor en conmutación (4h) 
+2.- Disparo SCR. Rectificadores (4h) 
+3.- Convertidor DC-DC reductor(4 h) 
+4.- Convertidor DC-AC, inversor(4h)
+
+PRÁCTICAS ÁULA INFORMÁTICA
+(10horas)
+1.- SCR (2h)
+2.- Armónicos (2h)
+3.- Convertidores DC-DC (2h)
+4.- Con vertidores DC-AC (2h)
+5.- Convertidores AC-DC (2h)
+
+
+A3.- SEMINARIO TUTORÍA COLECTIVA(5h)
+1.- Introducción Pspice (2h) 
+2.- Descripción Trabajo colaborativo ( 2h)
+3.- Problemas (1h)
+  
+
+TRABAJO EN GRUPO:
+
+
+COMPETENCIAS ( CB2R,CB3R,CB4R,CB5R)
+
+Durante el cautrimestre el alumno elaborará un entorno
+personal de aprendizaje (PLE) basado en diferentes herramientas
+TIC, profundizando en el concepto de "Curación de
+Contenidos" en relación con los contenidos tratados en la
+asignatura y comprenderá el concepto y las importancia de
+las redes personales de aprendizaje. Se realizará en grupos
+de 4 alumnos potenciando el trabajpo colaborativo entre ellos.
+(Esta actividad contará como puntuación del apartado
+de evaluación de participación y asistencia)
+ 
+'

@@ -1,0 +1,286 @@
+'
+
+
+Estructura
+  de los sistemas embebidos basados en microcontroladores.
+
+
+Recursos
+  hardware y software de los microcontroladores de 8 y 32
+  bits.
+
+
+Programación
+  de microcontroladores.
+
+
+Redes
+  de comunicación industriales.
+
+
+
+
+Presentación de
+  la asignatura (1 hora)
+
+ 
+
+
+Módulo
+  Docente 0: Introducción a la Informática
+  Industrial
+
+ 
+
+
+Introducción a
+    la Informática Industrial (1 hora)
+
+
+
+1.1 Alcance de la
+  Informática Industrial
+
+
+1.2 La
+  informática industrial en el control de procesos
+  continuos
+
+
+1.3 La
+  informática industrial en el control de procesos
+  discretos
+
+
+1.4 La
+  informática industrial en tareas de monitorización
+  y supervisión
+
+  
+
+
+Módulo
+  Docente I: Microcontroladores
+
+ 
+
+
+Estructura de
+    computadores (2 horas)
+
+
+
+2.1 Arquitectura
+  interna y externa de un microprocesador
+
+
+2.2 Buses en un
+  sistema microprocesador
+
+
+2.3 Mapas de
+  memoria
+
+ 
+
+
+Microcontroladores de
+    32 bits. Arquitectura ARM (4 horas)
+
+
+
+3.1 Antecedentes y
+  evolución
+
+
+3.2 Arquitectura
+  CISC y RISC
+
+
+3.3
+  Características de la arquitectura ARM. Evolución y
+  gamas
+
+
+3.4 Puertos, buses
+  y estructura de la memoria
+
+ 
+
+
+Nociones
+    básicas de programación en C (6 horas)
+
+
+
+4.1 Estructura de
+  un programa en C
+
+
+4.2 Variables y
+  funciones
+
+
+4.3 Flujogramas,
+  bucles y gestión de vectores y tablas
+
+
+4.4
+  Ejercicios
+
+ 
+
+
+Programación en
+    C para el ARM Cortex M4 (7 horas)
+
+
+
+5.1 Tipos de
+  variables en C. Longitudes para esta plataforma
+
+
+5.2
+  Particularidades de la programación en C para
+  microcontroladores ARM
+
+
+5.3
+  Transcripción de un Grafcet a C para ARM.
+
+
+5.4 Ejercicios
+  simples y ejercicios con puertos.
+
+ 
+
+
+Temporizadores e
+    interrupciones (8 horas)
+
+
+
+6.1
+  Utilización de asistentes para configuración de
+  recursos
+
+
+6.2
+  Configuración y empleo de temporizadores/contadores
+
+
+6.3 Interrupciones
+  externas
+
+
+6.4 Interrupciones
+  asociadas a temporizadores
+
+
+6.5
+  Ejercicios
+
+ 
+
+
+Módulo
+  Docente III: Redes de comunicación
+  industriales
+
+ 
+
+
+Conceptos
+    básicos
+
+
+
+7.1 Nivel
+  físico. Clasificaciones
+
+
+7.2
+  Codificación
+
+
+7.3
+  Topologías de las redes de comunicación
+  industriales
+
+
+7.4
+  Técnicas de acceso al medio
+
+ 
+
+
+Protocolos de
+    comunicación entre microcontroladores (2 horas)
+
+
+
+8.1 I2C
+
+
+8.2 Ethernet
+  Industrial
+
+
+8.3 SPI
+
+
+8.4 Can
+  bus
+
+ 
+
+
+Interfaz
+    hombre-máquina e interfaz con el proceso (2
+    horas)
+
+
+
+9.1 Interfaz
+  hombre-máquina. Sistemas SCADA. Paneles
+  táctiles
+
+
+9.2 Sensores y
+  actuadores conectados a red
+
+
+ 
+
+
+En cuanto a las
+  prácticas, están previstas las siguientes:
+
+
+Práctica 1.
+  Iniciación a Proteus ISIS 
+   Práctica 2. Iniciación a programa de
+  simulación de microcontroladores Keil uVision 
+   Práctica 3. Simulación del control de un
+  depósito de agua 
+   Práctica 4. Enlace entre Proteus y Keil para el
+  diseño de circuitos empotrados 
+   Práctica 5. Diseño y simulación de un
+  Teclado numérico empleando Proteus y Keil 
+   Práctica 6. Funciones y arrays. Hallar la media de
+  los diez últimos números introducidos 
+   Práctica 7. Temporizadores y contadores 
+   Práctica 8. Programación sobre una tarjeta
+  de desarrollo. Algoritmo de ordenación 
+   Práctica 9. Interrupciones externas. 
+   Práctica 10. Temporizadores. Obtención de la
+  frecuencia de una señal 
+   Práctica 11. Composición de un fragmento
+  musical.
+
+
+Práctica
+  12. Comunicación I2C.
+
+ 
+'

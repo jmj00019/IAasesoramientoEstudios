@@ -1,0 +1,26 @@
+'
+
+Primera parte: Ecuaciones diferenciales y Cálculo
+numérico
+Segunda parte: Estadística
+
+Ecuaciones diferenciales y Cálculo numérico.
+Tema 1. Ecuaciones diferenciales.
+Tema 2. Interpolación y aproximación de
+funciones.
+Tema 3. Derivación e integración
+numéricas.
+Tema 4. Integración numérica de ecuaciones
+diferenciales.
+Estadística.
+Tema 5. Estadística descriptiva. Métodos
+gráficos y numéricos para el análisis de
+datos.
+Tema 6. Introducción a la probabilidad.
+Tema 7. Variable aleatoria. La distribución normal.
+Tema 8. Introducción a la inferencia
+estadística.
+Tema 9. Contrastes de hipótesis paramétricos y
+no paramétricos.
+Tema 10. Modelo de regresión lineal simple.
+'

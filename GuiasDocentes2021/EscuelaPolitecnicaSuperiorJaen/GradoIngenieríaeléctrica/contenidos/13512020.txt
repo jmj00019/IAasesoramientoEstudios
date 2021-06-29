@@ -1,0 +1,106 @@
+'
+
+Aplicación de las transformadas de Laplace al modelado de
+sistemas
+Modelado de sistemas térmicos, mecánicos,
+hidráulicos y eléctricos
+Funciones de transferencia y diagramas de bloques
+Respuesta temporal de sistemas
+Aprender a sintonizar reguladores PID
+Respuesta en el tiempo y diseño de compensadores.
+
+Tema 1. Fundamentos de control de sistemas continuos
+
+Sistemas dinámicos
+Control Automático
+Realimentación
+Lazos de control
+Estructura de un sistema realimentado
+
+Tema 2. Herramientas de representación externa
+
+Ecuaciones diferenciales
+Linealización de sistemas
+Transformada de Laplace
+Álgebra de bloques
+
+Tema 3. Modelado de sistemas
+
+Introducción
+Modelado de sistemas eléctricos
+Modelado de sistemas mecánicos
+Modelado de sistemas electromecánicos
+Modelado de sistemas hidráulicos
+
+Tema 4. Análisis en el tiempo de un sistema
+dinámico
+
+Introducción
+Sistemas de primer orden
+Sistemas de segundo orden
+Sistemas de orden superior
+Cancelación cero-polo
+
+Tema 5. Sistemas realimentados
+
+Realimentación de sistemas de primer orden
+Realimentación de sistemas de segundo orden
+Realimentación de sistemas de orden superior
+Estabilidad
+Errores en régimen permanente
+Lugar geométrico de las raíces (LR)
+
+Tema 6. Diseño de un controlador PID
+
+Acciones básicas de control
+Métodos de sintonía experimentales
+Diseño del controlador a través del LR
+
+Tema 7. Análisis de respuesta en frecuencia de un sistema
+realimentado
+
+Función de transferencia en el dominio de la
+  frecuencia
+Representaciones gráficas: 
+  
+Diagrama Polar
+Diagrama de Bode
+
+Estabilidad relativa 
+  
+Margen de Fase (MF)
+Margen de Ganancia (MG)
+
+Diseño de un controlador en el dominio de la
+  frecuencia
+
+
+Las prácticas de laboratorio se articulan en torno a 3
+proyectos que
+se desarrollarán a lo largo de las distintas
+sesiones.
+Proyecto 1: Control de un motor CC
+- Sesión 1: Sistemas dinámicos y variables
+significativas
+- Sesión 2: Identificación de un sistema
+dinámico
+- Sesión 3: Simulación de sistemas
+dinámicos
+- Sesión 4: Respuesta temporal de sistemas
+dinámicos
+- Sesión 5: Control proporcional de velocidad
+- Sesión 6: Errores en régimen permanente y
+rechazo de perturbaciones
+- Sesión 7: Control en posición
+Proyecto 2: Control de un sistema de posicionamiento de
+masas
+- Sesión 8: Modelado e Identificación del sistema
+- Sesiones 9 y 10: Diseño de controlador usando el
+lugar de las raíces
+- Sesión 11: Identificación en frecuencia:
+Diagrama de Bode
+Proyecto 3: Control de un sistema barra-bola
+- Sesión 12: Modelado e Identificación del sistema
+- Sesión 13: Diseño del Controlador. Influencia
+del ruido de medida
+'

@@ -1,0 +1,154 @@
+'
+
+Introducción a la Topografía
+Incertidumbre de las observaciones topográficas
+Instrumentos para la medida de ángulos y distancias.
+Elementos comunes a la instrumentación
+topográfica.
+Medida de ángulos.
+Errores sistemáticos y accidentales.
+Medida de distancias.
+Sistemas globales de navegación por satélite
+(GNSS).
+Instrumentos Altimétricos. Niveles.
+ 
+ 
+
+
+
+Temario
+
+
+Tema
+1. 
+Introducción a la Topografía.
+ Topografía y Geodesia. Sistemas de
+representación utilizados en Topografía. Elementos de
+cálculo planimétrico y altimétrico.
+
+Tema
+2. 
+Incertidumbre de las observaciones
+topográficas. 
+ Definición y clasificación.
+Ley de Propagación de Incertidumbres. Introducción a
+la compensación mínimo cuadrática.
+
+Tema 3. 
+Medida directa de distancias.
+ Instrumentos usados en la medida directa de
+distancias. Toma de datos. Agrimensura.
+
+Tema
+4. 
+Medida de ángulos. 
+ Generalidades sobre la medida de
+ángulos. Cálculo de la desorientación y
+corrida de acimutes. Elementos comunes de la instrumentación
+topográfica. Elementos de sustentación, 
+centrado y señalización. Elementos de
+horizontalización del instrumento. Elementos de
+puntería. Lecturas angulares. Compensadores.
+
+Tema
+5. 
+Incertidumbre de medida en ángulos horizontales y
+verticales.
+ Fuentes de incertidumbre. Incertidumbres
+instrumentales. Incertidumbres personales. Incertidumbres
+naturales. Incertidumbre típica combinada de un
+ángulo horizontal. Incertidumbre típica combinada de
+un ángulo vertical. Comprobación y corrección
+física. Métodos de observación angular. Norma
+ISO.
+
+Tema 6.
+ 
+
+Medida indirecta de distancias.
+
+Medición indirecta de
+distancias por métodos estadimétricos. 
+Medida electromagnética de
+distancias. Instrumentos. Incertidumbre de medida en distancias por
+métodos electromagnéticos. Fuentes de
+incertidumbre.
+Incertidumbre
+típica combinada de medida de una distancia
+geométrica por métodos electromagnéticos.
+Norma ISO. Estaciones totales. Nivelación
+trigonométrica. Incertidumbre de medida en desniveles
+trigométricos.
+
+Tema 7. 
+
+Escáner láser.
+ Principio de medida. Tipo de
+instrumental.  Metodología. Análisis de
+datos.
+
+Tema
+8.  
+Instrumentos altimétricos. Niveles.
+ Instrumentos altimétricos. Niveles.
+Incertidumbre de medida en desniveles geométricos. Norma
+ISO.  Métodos de nivelación. Niveles de
+línea, niveles automáticos, niveles
+electrónicos. Niveles de alta precisión. Nivel
+láser de plano.
+
+Tema 9. 
+
+Sensores  
+GNSS
+ Sistemas globales de navegación por
+satélites. Principios básicos. Tipos de receptores.
+Sistema GPS, GLONASS, Galileo, etc.
+
+Tema 10.
+
+Instrumentos autoorientables
+ Teodolito giroscópico.
+ 
+
+Prácticas de campo y
+  laboratorio de la asignatura:
+
+1. Transformación y cálculo de coordenadas.
+Sistemas de graduación angular.
+
+2.
+Croquización a mano alzada de una zona de terreno.
+Medición directa de distancias.
+3. Estacionamiento y enfoque.
+4. Lecturas de ángulos y orientación angular.
+5. Métodos de observación angular. Series
+angulares. Regla de Bessel.
+6. Detección de sistematismos en observaciones
+angulares.
+7. Medición indirecta de distancias.
+8. Estación total.
+9. Determinación de incertidumbres en la medida de
+distancias.
+10. Escáner láser
+
+11. Comprobación de un
+nivel.
+
+
+ 12. Nivelación por radiación y
+nivelación compuesta.
+13. Nivelación de Alta Precisión.
+14. Observación y cálculo de una poligonal
+planimétrica y altimétrica.
+15. Sensores GNSS. Observación RTK.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+'

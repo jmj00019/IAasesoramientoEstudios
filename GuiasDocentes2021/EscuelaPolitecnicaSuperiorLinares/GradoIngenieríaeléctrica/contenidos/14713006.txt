@@ -1,0 +1,618 @@
+'
+
+Definiciones y sus principales tecnologías
+Ventajas de su utilización y análisis de
+impactos
+Reglamentación y legislación
+
+ 
+
+UNIDAD I. PANORAMA
+  ENERGÉTICO
+
+
+ TEMA 1.
+  Energía, recursos energéticos y
+  tecnologías
+
+
+
+La energía
+
+
+Recursos
+    energéticos de la Tierra
+
+
+Origen, evolución
+    y situación actual de las diferentes fuentes de
+    energía
+
+
+Proceso general de
+    explotación de las fuentes energéticas
+
+
+Transformaciones de la
+    energía primaria
+
+
+Almacenamiento de la
+    energía
+
+
+Tecnologías
+    híbridas
+
+
+
+TEMA 2. Contexto social,
+  económico y medioambiental del uso de la
+  energía
+
+
+
+Situación
+    energética actual
+
+
+Repercusiones sobre la
+    biosfera de la explotación intensiva de las fuentes
+    energéticas
+
+
+Consecuencias de un
+    modelo de desarrollo anacrónico y desnaturalizado
+
+
+Camino de la
+    circularidad
+
+
+Sostenibilidad y
+    desarrollo sostenible (DS)
+
+
+Necesidad de un cambio de
+    modelo
+
+
+Impacto de las EE.RR. en
+    el empleo y en el crecimiento económico
+
+
+
+ TEMA 3. Conociendo el
+  sistema eléctrico español
+
+
+
+Marco energético
+    español
+
+
+Suministro
+    eléctrico
+
+
+Generación
+    centralizada
+
+
+Agentes del sistema
+    eléctrico español
+
+
+Funcionamiento del
+    sistema
+
+
+Red Eléctrica
+    Española
+
+
+Estabilidad del
+    sistema
+
+
+ 
+
+UNIDAD II.
+  GENERACIÓN DISTRIBUIDA
+
+
+TEMA 4. Generación
+  distribuida
+
+
+
+Estado actual de los
+    sistemas de generación eléctrica
+
+
+Impacto de los sistemas
+    centralizados de producción de energía
+    eléctrica
+
+
+Hacia un sistema
+    descentralizado (generación distribuida)
+
+
+Bases de la
+    generación distribuida
+
+
+Beneficios de la
+    descentralización eléctrica
+
+
+Factores
+    facilitadores
+
+
+Barreras
+
+
+Retos de la
+    generación distribuida
+
+
+
+TEMA 5. Tecnologías
+  tradicionales
+
+
+
+Motor de
+    combustión interna alternativo (MCIA)
+
+
+Turbina de gas
+
+
+Minihidraúlica
+
+
+Eólica
+
+
+Solar
+    térmica
+
+
+Fotovoltaica
+
+
+Residuos sólidos
+    urbanos
+
+
+Tabla comparativa de
+    tecnologías tradicionales por rendimiento y otros
+    factores de interés
+
+
+
+TEMA 6. Tecnologías
+  emergentes
+
+
+
+Microturbinas
+
+
+Pilas de
+    combustible
+
+
+Geotermia
+
+
+Motor de
+    combustión interna alternativa dual
+
+
+ORC (Organic Rankine
+    Cycle)
+
+
+Energía
+    maremotérmica
+
+
+Energía
+    maremotriz
+
+
+Energía de las
+    olas: undimotriz
+
+
+Tabla comparativa de
+    tecnologías emergentes por rendimiento y otros factores
+    de interés
+
+
+
+TEMA 7. Sistemas de
+  almacenamiento energético en redes de GD
+
+
+
+Consideraciones sobre
+    almacenamiento
+
+
+Bombeo de agua
+
+
+Baterías
+
+
+Almacenamiento
+    térmico
+
+
+Volante de inercia
+    (flywheel)
+
+
+Aire comprimido
+
+
+Superconductores
+    magnéticos
+
+
+Hidrógeno
+
+
+Ultracondensadores
+
+
+
+TEMA 8.
+  Interconexión a la red
+
+
+
+¿Qué son
+    los sistemas de interconexión a red?
+
+
+Componentes del sistema
+    de interconexión
+
+
+Descripción del
+    sistema eléctrico español
+
+
+Gestión del
+    sistema eléctrico
+
+
+Impacto de las redes de
+    GD en los sistemas eléctricos
+
+
+Impacto en las potencias
+    de cortocircuito
+
+
+Influencia de la GD en
+    los servicios complementarios
+
+
+
+TEMA 9. Diseño,
+  montaje, gestión y mantenimiento de la red
+
+
+
+Conceptos generales sobre
+    dimensionado de sistemas de GD
+
+
+Cogeneración
+
+
+Trigeneración
+
+
+Criterios de
+    diseño, montaje, gestión y mantenimiento de
+    instalaciones de GD
+
+
+Sistemas híbridos
+    fotovoltaicos-eólicos
+
+
+Criterios de
+    diseño de sistemas híbridos
+
+
+
+TEMA 10. Autoconsumo y
+  balance neto
+
+
+
+Introducción al
+    autoconsumo
+
+
+Definiciones
+
+
+Paridad de red
+
+
+El autoconsumo por
+    balance neto
+
+
+Futuro del autoconsumo y
+    del balance neto
+
+
+
+TEMA 11. Impacto de la GD:
+  en los negocios y el medioambiente
+
+
+
+Introducción
+
+
+Influencia sobre la
+    planificación y diseño de la red
+
+
+Influencia en la
+    operación y explotación de la red
+
+
+Influencia e impacto
+    sobre las pérdidas
+
+
+Influencia en la calidad
+    de servicio
+
+
+Influencia en la
+    seguridad del personal de mantenimiento
+
+
+Influencia sobre el
+    medioambiente
+
+
+
+TEMA 12. Legislación
+  y normativa en GD
+
+ 
+
+UNIDAD III. REDES
+  INTELIGENTES
+
+
+TEMA 13. Redes
+  inteligentes
+
+
+
+Definición y
+    significado de red inteligente
+
+
+Necesidad de un sistema
+    (red) inteligente
+
+
+Marco conceptual y
+    funcionalidades
+
+
+Estrategias de
+    desarrollo
+
+
+Beneficios derivados de
+    un uso generalizado
+
+
+Funcionalidades de las
+    smart grids
+
+
+Retos futuros
+
+
+Efectos de las redes
+    inteligentes en los agentes implicados
+
+
+
+TEMA 14.
+  Implementación y configuración física de las
+  smart grids
+
+
+
+Concreción
+    física
+
+
+Capa de
+    energía
+
+
+Capa de
+    comunicación
+
+
+Capa de
+    aplicación
+
+
+Resumen de desarrollo en
+    redes inteligentes
+
+
+Telemedida,
+    telegestión y redes inteligentes
+
+
+
+TEMA 15. Implicaciones
+  económicas y otros beneficios de las redes
+  inteligentes
+
+
+
+Implicaciones
+    económicas y beneficios
+
+
+Implicaciones
+    técnicas y de desarrollo
+
+
+Papel de las RRII como
+    facilitadoras de los objetivos contra el Cambio
+    Climático
+
+
+Despliegue de la red
+    inteligente
+
+
+La casa
+    inteligente
+
+
+La ciudad inteligente y
+    su integración en las smart grids
+
+
+El vehículo
+    eléctrico
+
+
+
+TEMA 16. Integración
+  de las redes inteligentes en la red eléctrica
+
+
+
+Integración de las
+    energías renovables
+
+
+El coche
+    eléctrico
+
+
+El almacenamiento masivo
+    a gran escala
+
+
+El futuro de la red
+    eléctrica
+
+
+Evolución
+    previsible de las smart grids en los próximos
+    años
+
+
+Retos en smart
+    grids
+
+
+Papel de las redes
+    inteligentes ante el cambio climático
+
+
+Situación actual y
+    necesidades de inversión requeridas
+
+
+
+TEMA 17. Diseño,
+  instalación y mantenimiento de redes inteligentes
+
+
+
+Red eléctrica
+    convencional y conversión a red inteligente
+
+
+WAMS
+
+
+Control de
+    supervisión y adquisición de datos
+    (SCADA/DMS)
+
+
+FACTS
+
+
+Conexión y puesta
+    en marcha de sistemas GD
+
+
+Métodos de control
+    de tensión en RRII
+
+
+Compensadores
+    estáticos (SVC)
+
+
+Modelos de gestión
+    de la demanda
+
+
+Análisis de
+    experiencias y modelos de gestión
+
+
+ 
+
+UNIDAD IV. TENDENCIAS DE
+  FUTURO
+
+
+TEMA 18. El vehículo
+  eléctrico y su papel en las redes inteligentes
+
+
+ 
+
+
+PRÁCTICAS
+
+
+PRÁCTICA 1:
+  SOSTENIBILIDAD
+
+
+PRÁCTICA 2:
+  ENTENDIENDO EL SISTEMA ELÉCTRICO ESPAÑOL
+
+
+PRÁCTICA 3: EL
+  VEHÍCULO ELÉCTRICO EN LAS RR.II.
+
+
+PRÁCTICA 4:
+  VISITA
+
+'

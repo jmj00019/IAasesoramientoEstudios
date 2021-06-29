@@ -1,0 +1,76 @@
+'
+
+Diseño e implementación de interfaces de usuario
+en entornos de escritorio, web o móvil. Interfaces de
+usuario multimodales: por voz, táctiles,
+gestuales, etc. Ingeniería de usabilidad. Accesibilidad
+universal.
+
+
+Módulo 1. Interacción Persona-Ordenador
+  Implícita
+
+
+Teoría.
+
+Introducción
+  a la Computación Ubicua
+
+1.1.
+
+    Tecnología
+calma y Everyware
+1.2.
+
+    Internet
+de las Cosas
+1.3.
+
+    Computación
+sensible al contexto
+
+Interacción
+  Persona-Ordenador
+
+2.1.
+
+    Interacción
+explícita e implícita
+
+Interfaces
+  multimodales
+
+3.1.
+
+    Interfaces
+táctiles y gestuales
+3.2.
+
+    Detección
+y caracterización de actividades
+
+Práctica: Diseño y desarrollo
+de un prototipo manejable mediante interfaces gestuale
+
+
+Módulo 2. Interfaces
+  basadas en diálogo.
+
+
+
+Teoría: Síntesis y
+  Reconocimiento de voz. Implementación de la lógica
+  de diálogo: Motores de diálogo. Introducción
+  a asistentes de voz comerciales: Alexa, Siri, Cortana,
+  etc.
+
+Prácticas: Trabajar con librerías
+  de síntesis y generación de voz para el desarrollo
+  de un motor de diálogo. Programar alguno de los asistentes
+  de voz comerciales más populares.
+
+El material bibliográfico de esta asignatura se
+apoyará, en su mayor parte, en diversos artículos
+científicos con acceso libre, que complementarán a la
+bibliografía de la asignatura.
+'

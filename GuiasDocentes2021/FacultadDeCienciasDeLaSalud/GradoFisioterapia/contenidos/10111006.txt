@@ -1,0 +1,41 @@
+'
+
+CONTENIDOS BÁSICOS:
+
+Introducción a la Estadística Descriptiva
+Introducción al Cálculo de Probabilidades
+Introducción a la Inferencia Estadística
+
+
+CONTENIDOS DESARROLLADOS
+
+Análisis descriptivo de un conjunto de datos.
+Cálculo de probabilidades. 
+  
+Variable aleatoria.
+Características de una variable aleatoria.
+Principales distribuciones discretas y continuas.
+
+Inferencia estadística. 
+  
+Estimación puntual y por intervalos.
+Contrastes de hipótesis.
+Modelo de regresión lineal.
+
+Otras técnicas estadísticas aplicadas al
+  ámbito de la Fisioterapia. 
+  Programa de prácticas
+Resolución de problemas con objeto de profundizar y
+  aclarar los contenidos del programa teórico.
+Seminario de informática
+
+
+Introducción al uso de ordenador en
+      Estadística.
+Estadística descriptiva en ordenador.
+Probabilidad en ordenador.
+Inferencia estadística en ordenador.
+
+
+
+'

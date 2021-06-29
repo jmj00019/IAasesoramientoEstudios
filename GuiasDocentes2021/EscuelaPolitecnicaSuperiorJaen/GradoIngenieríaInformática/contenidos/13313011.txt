@@ -1,0 +1,31 @@
+'
+
+Modelado estático y dinámico. Técnicas de
+descomposición jerárquica de modelos y del espacio.
+Tratamiento del color. Iluminación local y global.
+Simulación de materiales. Web 3D. Programación
+gráfica. Programación de shaders.
+ 
+
+Programa de teoría
+
+Conceptos previos
+Representación de geometría
+El pipeline de rendering
+Shader programs
+La cámara virtual
+Reflexión, iluminación y sombreado
+Texturas
+Usos de las texturas
+Sombras proyectadas
+Cube mapping
+Introducción a WebGL
+
+Programa de prácticas
+
+Fase 1: Estructura básica de una aplicación
+  gráfica OpenGL core profile
+Fase 2: Materiales y modelos
+Fase 3: Materiales avanzados
+
+'

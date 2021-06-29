@@ -1,0 +1,69 @@
+'
+
+Se estudia la explotación, gestión de servicios y
+aplicaciones de telecomunicación, entendiéndolas como
+sistemas de captación, representación y procesado
+desde el punto de vista de los servicios telemáticos. Se
+detallarán las técnicas para alcanzar comunicaciones
+que verifiquen autentificación entre partes, integridad
+yconfidencialidad.
+Se realiza la configuración de dispositivos de red y el
+establecimiento de comunicaciones seguras usando los protocolos de
+seguridad.
+
+
+BLOQUE TEÓRICO
+
+
+Tema 1. Introducción
+
+Revisión de los servicios de telecomunicación.
+Arquitectura MVC para aplicaciones web. Tecnologías web en
+el extremo cliente.
+
+Tema 2. Despliegue de servicios basados en
+  aplicaciones Java EE.
+
+Aplicaciones web con tecnologías servlet y JSP.
+Interacción entre aplicaciones web y sistemas gestores de
+bases de datos. Componentes de acceso a datos. Framework Spring
+MVC.
+
+Tema 3. Arquitectura orientada a servicios.
+
+Servicios SOAP. Servicios REST. Ejemplos.
+
+Tema 4. Seguridad en aplicaciones web.
+
+Protocolos de seguridad. Mecanismos de seguridad en aplicaciones
+web.
+
+Tema 5. Gestión de redes.
+
+Introducción. Protocolos de gestión de red.
+Gestores, agentes, MIB.
+
+SEMINARIOS
+
+1.- Introducción a GitHub.
+2.- Framework de aplicaciones web.
+3.- Sistemas de pagos electrónicos: PayPal.
+
+BLOQUE PRÁCTICO
+
+
+Práctica 1. Desarrollo de aplicaciones web
+  MVC.
+
+
+Práctica 2. Desarrollo de aplicaciones
+  REST.
+
+
+Práctica 3. Seguridad en aplicaciones
+  web.
+
+
+Práctica 4. Gestión de red.
+
+'

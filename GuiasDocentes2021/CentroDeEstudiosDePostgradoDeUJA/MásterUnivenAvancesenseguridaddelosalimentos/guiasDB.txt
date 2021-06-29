@@ -1,0 +1,9 @@
+(75116001,'Trabajo fin de Máster','16','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/751A/75116001/es/2020-21-75116001_es.html'),
+(75112003,'Nuevas tecnologías en microbiología de alimentos','16','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/751A/75112003/es/2020-21-75112003_es.html'),
+(75112008,'Calidad y seguridad alimentaria','16','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/751A/75112008/es/2020-21-75112008_es.html'),
+(75112002,'Microorganismos patógenos en alimentos','16','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/751A/75112002/es/2020-21-75112002_es.html'),
+(75112004,'Contaminación en el proceso industrial y envasado de los alimentos','16','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/751A/75112004/es/2020-21-75112004_es.html'),
+(75112007,'Alimentos funcionales y componentes bioactivos de alimentos','16','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/751A/75112007/es/2020-21-75112007_es.html'),
+(75112006,'Nutrición y salud','16','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/751A/75112006/es/2020-21-75112006_es.html'),
+(75112005,'Técnicas cromatográficas y espectroscópicas para el análisis químico de alimentos','16','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/751A/75112005/es/2020-21-75112005_es.html'),
+(75112001,'Fermentación y bioconservación de alimentos','16','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/751A/75112001/es/2020-21-75112001_es.html')

@@ -1,0 +1,319 @@
+'
+
+Concepto de Tensión y deformación en un prisma
+mecánico. Estudio de esfuerzos en la sección:
+Tracción y Compresión, Torsión, Cortadura,
+Flexión simple, desviada y compuesta. Flexión
+Lateral ó Pandeo. Dimensionado y Comprobación de
+elementos estructurales y de máquinas a Resistencia,
+Rigidez y Estabilidad.
+
+
+
+Bloque
+Temático A: ELASTICIDAD   
+
+TEMA I.-
+Introducción a la Elasticidad. 
+
+
+   
+Introducción a la Mecánica de los Medios
+Continuos. 
+
+   
+El Sólido Elástico y sus Propiedades. 
+
+   
+Hipótesis y Principios de la Elasticidad. 
+
+
+TEMA II.-
+Tensiones 
+
+
+   
+El Concepto de Tensión. 
+
+   
+Ecuaciones de Equilibrio. 
+
+   
+Tensiones Principales. Propiedades Invariantes. 
+
+   
+Tensión Plana. 
+
+   
+Representación Gráfica de Tensiones. Círculos
+de Mohr. 
+
+
+TEMA III.-
+Deformaciones. 
+
+
+   
+Introducción. Cambios de Volumen y Cambios de
+Forma. 
+
+   
+El Concepto de Deformación. 
+
+   
+La Matriz de Deformaciones. Propiedades 
+
+   
+Ecuaciones de Compatibilidad. 
+
+   
+Deformación Plana. 
+
+
+TEMA IV.-
+Relación Tensión - Deformación. 
+
+
+   
+El Ensayo de Tracción. 
+
+   
+Deformación Transversal. Coeficiente de
+Poisson. 
+
+   
+Relación Tensión - Deformación. Ley de
+Hooke. 
+
+   
+Las Ecuaciones de Lamé. 
+
+
+TEMA V.-
+El Planteamiento Energético de la Elasticidad. 
+
+
+   
+Introducción. Energía de
+Deformación. 
+
+   
+Expresiones de la Energía de
+Deformación. 
+
+   
+Teorema de Castigliano 
+
+   
+Criterios de Plastificación. Tensión de von
+Mises. 
+
+
+TEMA VI.-
+Cálculo de Recipientes de Pared Delgada. 
+
+
+   
+Introducción. Envolventes de pequeño
+espesor. 
+
+   
+Recipientes cilíndricos y esféricos sometidos a
+presión interna. 
+
+   
+Depósitos cilíndricos abiertos conteniendo
+líquidos. 
+
+   
+Conducciones cilíndricas sometidas a una
+presión. 
+
+
+
+Bloque
+Temático B: Resistencia de Materiales 
+
+TEMA VII.-
+Conceptos Básicos de la Resistencia de
+Materiales. 
+
+
+   
+Introducción. 
+
+   
+El prisma mecánico. 
+
+   
+Definición de los esfuerzos en la
+sección. 
+
+   
+Principios generales de la Resistencia de materiales. 
+
+   
+Equilibrio externo y en la sección. 
+
+   
+Tipos de apoyos. Reacciones en los apoyos. 
+
+   
+Sistemas isostáticos e hiperestáticos. 
+
+
+TEMA
+VIII.- Tracción y Compresión. 
+
+
+   
+Tensiones por tracción o compresión
+monoaxial. 
+
+   
+Leyes y diagramas de esfuerzos axiles. 
+
+   
+Deformaciones producidas por el esfuerzo axil. 
+
+   
+Estudio de la tracción o compresión producida por el
+peso propio. 
+
+   
+Expresión del potencial interno asociado al esfuerzo
+axil. 
+
+
+TEMA IX.-
+Teoría General de la Flexión. 
+
+
+   
+Flexión Simple. Ley de Navier. 
+
+   
+Relación entre el esfuerzo Cortante y el Momento
+Flector. 
+
+   
+Leyes y diagramas de momentos flectores y esfuerzos
+cortantes. 
+
+   
+Análisis de las diez vigas elementales. 
+
+   
+Tensiones producidas por el esfuerzo Cortante. Teorema de
+Collignon. 
+
+   
+Tensiones principales y tensión de von Misses en
+Flexión. 
+
+
+TEMA X.-
+Deformaciones Producidas por la Flexión 
+
+
+   
+Ecuación Diferencial de la Elástica. 
+
+   
+Método de la doble Integración. 
+
+   
+Teoremas de Mohr en Flexión. 
+
+   
+Expresión del Potencial Interno en Flexión
+Simple. 
+
+   
+Deformación producida por el Esfuerzo Cortante. 
+
+
+TEMA XI.-
+Flexión Esviada y Compuesta. 
+
+
+   
+Introducción. 
+
+   
+Flexión Esviada. Eje Neutro. 
+
+   
+Deformación producida en Flexión
+Esviada. 
+
+   
+Flexión Compuesta o Tracción/Compresión
+Excéntrica. Centro de Presiones 
+
+   
+Eje Neutro y Núcleo Central en Flexión
+Compuesta. 
+
+
+TEMA XII.-
+Flexión Lateral o Pandeo. 
+
+
+   
+Introducción. Estabilidad de Columnas. 
+
+   
+Fórmula de Euler. 
+
+   
+Carga Crítica según la sustentación. Longitud
+de Pandeo. 
+
+
+
+Prácticas ( 
+cada curso se realizarán 4 de las prácticas
+disponibles)
+
+Práctica
+  1: Resolución de problemas de Elasticidad con
+  MATLAB.
+
+
+Práctica
+  2: Comportamiento Mecánico de Diferentes Materiales. Curva
+  Tensión Deformación. 
+
+
+Práctica
+  3: Extensometría Eléctrica.
+  Tracción/Compresión, Torsión y
+  Flexión.
+
+
+Práctica
+  4: Tensiones y Deformaciones en envolventes cilíndricas
+  sometidas a presión. 
+
+
+Práctica
+  5: Medida experimental de la Elástica a
+  flexión. 
+
+
+Práctica
+  6: Resolución numérica de diagramas de esfuerzos en
+  vigas mediante software computacional. Introducción al
+  BIM.  
+
+
+Práctica
+  7: Flexión Esviada y Compuesta. 
+
+
+Práctica
+  8: Flexión Lateral ó Pandeo. Longitud de Pandeo
+  según la Sustentación
+
+'

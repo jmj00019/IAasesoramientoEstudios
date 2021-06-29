@@ -1,0 +1,174 @@
+'
+
+
+
+
+BLOQUE DE
+  TEORÍA:
+
+
+TOMA Y TRATAMIENTO DE MUESTRAS AGROALIMENTARIAS.
+DETERMINACIÓN DE COMPONENTES MINORITARIOS Y
+  MAYORITARIOS EN ALIMENTOS.
+DETERMINACIÓN DE CONTAMINANTES EN ALIMENTOS.
+CONTROL DE CALIDAD DE LOS ALIMENTOS.
+
+ 
+
+
+
+BLOQUE DE
+  PRÁCTICAS:
+
+
+TÉCNICAS DEL LABORATORIO INTEGRADO DE ANÁLISIS
+  QUÍMICO AGROALIMENTARIO
+APLICACIÓN DE LAS TECNICAS ANALÍTICAS AL
+  ANÁLISIS DE ALIMENTOS
+
+
+
+PROGRAMA DE
+  TEORÍA
+
+
+1. INTRODUCCIÓN AL
+  ANÁLISIS QUÍMICO DE ALIMENTOS. Evolución
+  histórica. Funciones de la Química Analítica
+  en la Industria de Alimentos. Metodología de la
+  Química Analítica. Fuentes bibliográficas.
+  Legislación y normalización alimentaria.
+
+
+2. CALIDAD EN EL ANÁLISIS
+  DE ALIMENTOS. Concepto de calidad. Relación calidad y
+  laboratorio analítico. Calidad en los resultados.
+  Evaluación de la calidad.
+
+
+3. TOMA Y TRATAMIENTO DE MUESTRAS
+  DE ALIMENTOS. Introducción. Muestreo. Tratamiento de
+  muestras.
+
+
+4. TÉCNICAS
+  CROMATOGRÁFICAS PARA EL ANÁLISIS DE ALIMENTOS.
+  Introducción. Cromatografía Plana.
+  Cromatografía de Gases. Cromatografía
+  líquida en Columna Aplicaciones Analíticas.
+
+
+5. TÉCNICAS DE
+  ESPECTROSCOPÍA DE ABSORCIÓN ATÓMICA PARA
+  ANÁLISIS DE ALIMENTOS. Espectroscopía de
+  Absorción Atómica por Atomización por Llama
+  y Electrotérmica. Técnicas Especiales:
+  Generación de hidruros y Vapor frío de mercurio.
+  Aplicaciones Analíticas.
+
+
+6. APLICACIÓN DE LA
+  ESPECTROMETRÍA DE MASAS AL ANÁLISIS DE ALIMENTOS.
+  Introducción. Componentes básicos de un
+  Espectrómetro de Masas. Aplicaciones
+  Analíticas.
+
+
+7. DETERMINACIÓN DE
+  ELEMENTOS MINERALES Y VITAMINAS EN ALIMENTOS.
+  Introducción. Clasificación de los elementos
+  minerales. Métodos para la determinación de
+  elementos minerales. Clasificación de las vitaminas.
+  Métodos para la determinación de vitaminas.
+
+
+8. DETERMINACIÓN DE
+  PROTEÍNAS, AZÚCARES Y LÍPIDOS.
+  Introducción. Propiedad funcional de las proteínas.
+  Métodos para la determinación de proteínas.
+  Clasificación de azúcares. Métodos para la
+  determinación de azúcares. Lípidos.
+  Métodos para la determinación de
+  lípidos.
+
+
+9. DETERMINACIÓN DE
+  CONTAMINANTES EN ALIMENTOS. Introducción.
+  Clasificación de los contaminantes en los alimentos.
+  Métodos para la determinación de
+  contaminantes.
+
+
+10.ANÁLISIS DE ALIMENTOS.
+  Introducción. Leche y derivados. Cereales y derivados.
+  Frutas y verduras. Carnes y pescados. Bebidas.
+
+
+11.ANÁLISIS SENSORIAL.
+  Introducción. Propiedades sensoriales. Color. Olor. Sabor.
+  Gusto. Textura.
+
+
+ 
+
+
+PROGRAMA DE
+  PRÁCTICAS
+
+
+
+Determinación
+    del contenido en cenizas en cereales y derivados.
+
+
+Operaciones
+    básicas de tratamiento de muestra (I).
+    Determinación del contenido graso en leche.
+
+
+Operaciones
+    básicas de tratamiento de muestra (II).
+    Determinación del grado alcohólico de un
+    vino.
+
+
+Determinación
+    del grado e índice de acidez en aceites comestibles y
+    leche.
+
+
+Determinación
+    de ácido ascórbico en zumos de frutas.
+
+
+Determinación
+    de hierro en vinos por espectroscopía de
+    absorción molecular.
+
+
+Determinación
+    de cobre en vinos por espectroscopía de absorción
+    atómica.
+
+
+Determinación
+    de ácidos grasos en aceites vegetales mediante
+    cromatografía de gases.
+
+
+Determinación
+    de residuos de fungicidas post-cosecha en cítricos por
+    cromatografía de líquidos (HPLC) y
+    extracción mediante el Método "QuEChERS".
+
+
+Seminario
+    de búsqueda bibliográfica a través de
+    internet y bases de datos científicas.
+
+
+Visita a
+    una empresa agroalimentaria.
+
+
+'

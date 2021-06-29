@@ -1,0 +1,286 @@
+'
+
+Para comenzar, en esta asignatura se estudian los conceptos
+fundamentales sobre la televisión analógica y
+digital. En relación a la televisión
+analógica, se identifican y analizan las partes que componen
+la señal de televisión analógica en B/N y
+color, un transmisor y receptor de televisión. Respecto a la
+parte digital, se estudian los conceptos fundamentales de la
+televisión digital, las técnicas de
+codificación y transmisión y los estándares
+para televisión terrestre, por cable y satélite. Se
+detallan las técnicas de acceso condicional y los servicios
+interactivos. También se analizan las plataformas multimedia
+de uso en el hogar. Todos estos contenidos se estudiarán
+desde un punto de vista práctico con equipos de
+televisión y video.
+Palabras Clave: TV, colorimetría, MPEG, DVB-T, DVB-S,
+DVB-C.
+
+
+TEORÍA Y PROBLEMAS:
+
+
+TEMA 1: Sistema visual humano y fundamentos de luz y
+  color.
+
+
+El sistema visual humano
+Teoría del color
+
+
+TEMA 2: Sistema básico de
+  televisión.
+
+
+Conversión de imágenes
+Señal de televisión analógica
+Televisión en color
+
+
+TEMA 3: Digitalización de vídeo.
+
+
+Mundo analógico y mundo digital
+Digitalización de medios
+Medios como señales
+Conceptos básicos de vídeo digital
+
+
+TEMA 4: Compresión y codificación de
+  fuente.
+
+
+Caracterización de la señal de
+  vídeo
+Teoría de la información
+Codificación entrópica
+Eliminación de la redundancia espacial
+Eliminación de la redundancia temporal
+Estándares MPEG
+
+
+TEMA 5: Multiplexación.
+
+
+Contenedores multimedia
+Capa de sistema: Múltiplex MPEG-1
+Múltiplex MPEG-2
+Digital Video Broadcasting
+
+
+TEMA 6: Control de acceso, cifrado y codificación
+  de canal.
+
+
+Acceso condicional y cifrado
+Codificación de canal
+
+
+TEMA 7: Modulación.
+
+
+Generalidades
+Televisión por cable (DVB-C) y por satélite
+  (DVB-S)
+Modulación en DVB-T
+DVB-T2, C2 y S2
+
+
+TEMA 8: Servicios interactivos.
+
+
+Introducción
+El estándar DVB-MHP
+Televisión híbrida. HbbTV
+
+
+TEMA 9: Difusión. 
+
+
+Redes de difusión
+La difusión de DVB en España
+Dividendos digitales
+Últimas tendencias en difusión
+
+
+PRÁCTICAS:
+
+
+Práctica 1. Captura, transmisión, procesado
+  y edición no-lineal de vídeo
+  digital.
+
+Este práctica tiene como final la
+creación de un montaje de vídeo, para lo cual
+será necesario realizar un conjunto de operaciones a nivel
+individual y grupal. Concretamente los objetivos de la
+práctica son:
+
+Comprender las distintas fases de la producción de
+  material audiovisual.
+Planificar la creación de un videomontaje.
+Capturar las secuencias de vídeo.
+Transmitir y procesar las secuencias de vídeo
+  grabadas.
+Realizar un montaje no lineal con las secuencias siguiendo la
+  planificación inicial.
+Trabajar en equipo, asumiendo responsabilidades propias y
+  compartidas con otros.
+
+
+Práctica 2. Espacios de colores en
+  codificación de vídeo.
+
+El contenido de esta práctica está orientado a
+aplicar algunos de los conceptos vistos en teoría. Una
+forma sencilla e intuitiva de comenzar a manejar imágenes es
+realizar cambios de tamaño sencillos y convertir entre las
+distintas componentes que aportan el color tal y como se utilizan
+en codificación de vídeo. Por tanto, los objetivos de
+esta práctica serán:
+
+Aprender las funciones básicas de carga y
+  visualización de imágenes.
+Comprender los distintos métodos que se pueden
+  usar para almacenar en memoria una imagen.
+Obtener imágenes reducidas usando muestreo y
+  diezmado.
+Realizar ampliaciones de imágenes usando
+  repetición de píxeles e interpolación.
+Separar las componentes RGB de una imagen.
+Obtención de la señal de luminancia y
+  crominancia a partir de las componentes RGB.
+Reconstruir las componentes RGB a partir de la luminancia y
+  crominancia.
+Comprobar el efecto del diezmado en las componentes de
+  luminancia y crominancia.
+
+
+Práctica 3. Técnicas de compresión y
+  codificación de vídeo.
+
+Existen múltiples técnicas para la
+compresión y codificación de una señal de
+vídeo. Concretamente, en esta práctica nos
+centraremos en las distintas etapas que se producen en la
+codificación de una secuencia con los codificadores
+MPEG-2 y H.264 (AVC), que permiten reducir considerablemente
+el régimen binario de la señal codificada, así
+con en los parámetros que necesitan. Los objetivos de esta
+práctica serán:
+
+Instalar una herramienta de codificación de secuencias
+  de vídeo.
+Aprender los distintos parámetros de
+  configuración que son aplicables dependiendo del
+  codificador elegido.
+Analizar el efecto de variación de los
+  parámetros en el resultado obtenido.
+Realizar análisis de otros procesos que se producen
+  durante la codificación de vídeo, como la
+  cuantificación o la compensación de
+  movimiento.
+
+
+Práctica 4. Análisis de tramas de un
+  Transport Stream.
+
+En esta práctica se analizará un 
+Transport Stream (TS) de un múltiplex DVB-T para
+poder extraer información de él tal y como se ha
+visto en las clases de teoría y relacionar los contenidos de
+las distintas tablas. Los objetivos de la práctica son:
+
+Comprender el funcionamiento de un 
+  Transport Stream.
+Sintonizar un múltiplex (si se tiene acceso al
+  laboratorio).
+Extraer y filtrar información de un 
+  Transport Stream.
+Aprender la función de las tablas más
+  importantes y la relación entre ellas.
+Reproducir el proceso necesario para descodificar un programa
+  incluidos en la transmisión.
+Extraer los ES de un programa a partir de los requisitos de
+  descodificación.
+
+
+Práctica 5. Análisis de modulaciones de
+  televisión digital.
+
+En esta práctica se analizarán técnicas de
+modulación utilizadas en DVB con el fin de poder comprobar
+algunas de sus características. Concretamente, la
+práctica tiene como objetivos:
+
+Crear de un 
+  stream binario de datos aleatorio y conversión de
+  bits en símbolos.
+Modular la señal con QAM.
+Simular un canal AWGN.
+Dibujar e interpretar el diagrama de constelación de
+  la modulación.
+Comprender los procesos involucrados en la
+  demodulación de la señal y la recuperación
+  del 
+  bitstream original.
+Calcular y representar la probabilidad de error en
+  función de la E
+  b/N
+  0.
+
+NOTA: Las prácticas podrían variar si se produce
+la adquisición de nuevo equipamiento que sea relevante para
+los contenidos de la asignatura o si se considera conveniente
+modificar su contenido para mejorar la adquisición de
+competencias y/o resultados de aprendizaje. Dicha circunstancia se
+notificaría con suficiente antelación a los
+estudiantes matriculados en la asignatura.
+
+SEMINARIOS:
+
+Seminario 1. Técnicas cinematográficas y lenguaje
+audiovisual.
+
+COMPETENCIAS EUR-ACE:
+
+Las competencias EUR-ACE que se trabajan en la asignatura
+de Fundamentos de Televisión y Vídeo son las
+siguientes:
+
+
+A1. La capacidad de analizar productos, procesos
+  y sistemas complejos en su campo de estudio; elegir y aplicar de
+  forma pertinente métodos analíticos, de
+  cálculo y experimentales ya establecidos e interpretar
+  correctamente los resultados de dichos análisis.
+
+A2. La capacidad de identificar, formular y
+  resolver problemas de ingeniería en su especialidad;
+  elegir y aplicar de forma adecuada métodos
+  analíticos, de cálculo y experimentales ya
+  establecidos; reconocer la importancia de las restricciones
+  sociales, de salud y seguridad, ambientales, económicas e
+  industriales.
+
+AP4. Capacidad para aplicar normas de la
+  práctica de la ingeniería de su especialidad.
+
+AP5. Conocimiento de las implicaciones sociales,
+  de salud y seguridad, ambientales, económicas e
+  industriales de la práctica de la ingeniería.
+
+C5. Capacidad para estar al día en
+  las novedades en ciencia y tecnología.
+
+CTE1. Capacidad para comunicar eficazmente
+  información, ideas, problemas y soluciones en el
+  ámbito de ingeniería y con la sociedad en
+  general.
+
+En la sección de "Metodología y actividades" se
+encuentran detalladas ejemplos de cómo se desarrollan estas
+competencias. 
+'

@@ -1,0 +1,108 @@
+'
+
+
+Fundamentos de automatización industrial.
+Sensores y actuadores.
+Automatización de sistemas de eventos discretos.
+Automatismos cableados: eléctricos, neumáticos
+  y electroneumáticos.
+Automatización programada. Autómatas
+  programables (KOP)
+Fundamentos de interfaces y buses de campo.
+Introducción al control PID.
+
+
+Tema 1: Conceptos Introductorios.
+1.1. Concepto de automatización
+1.2. La automatización como disciplina:
+evoluciónhistórica
+1.3. Tipo de sistemas. Sistemas continuos, sistemasdiscretos
+1.4. Aplicabilidad de la automatización
+1.5. Conclusiones
+
+ II.           Fundamentos
+de Automatismos
+Tema 2: Conceptos básicos
+2.1. Sistemas de eventos discretos
+2.2. Concepto de estado. Transición entre estados
+2.3. Automatismos
+2.3.1. Definición y componentes
+2.3.2. Automatismos combinacionales
+2.3.3. Automatismos secuenciales
+2.4. Diseño de Automatismo. (cableados vsprogramados)
+2.5. Conclusiones
+ Tema 3: Automatismos cableados
+3.1. Automatismos eléctricos
+3.1.1. Introducción
+3.1.2. Esquemas eléctricos
+3.1.3. Identificación de marcado
+3.1.4. Elementos de una instalación eléctrica
+3.1.5. Esquemas de automatismos eléctricos
+3.2. Automatismos neumáticos
+3.2.1. Introducción
+3.2.2. Representación y simbología
+3.2.3. Componentes de un circuito neumático
+3.2.4. Análisis de circuitos neumáticos
+3.3. Automatismos electro-neumáticos
+Tema 4: Automatismos programados
+4.1. Introducción
+4.2. Autómatas programables
+4.2.1. Arquitectura
+4.2.2. Entradas y Salidas: sensores y actuadores
+4.2.3. Ciclo de ejecución
+4.2.4. GRAFCET
+4.2.5. Lenguajes de programación
+4.3. Comunicaciones industriales. Buses de campo
+
+III.           Métodos
+de Control
+Tema 5: Fundamentos de control de sistemas continuos
+5.1. Sistemas dinámicos
+5.2. Control Automático
+5.3. Concepto de realimentación
+5.4. Identificación de variables significativas
+5.5. Lazos de control
+5.6. Estructura de un sistema realimentado
+5.7. Instrumentación. Sensores y actuadores
+Tema 6: Modelado de sistemas
+6.1. Introducción
+6.2. Modelado matemático
+6.2.1. Sistemas eléctricos,
+mecánicos,electromecánicos e hidráulicos
+6.2.2. Linealización de sistemas
+6.3. Modelado experimental. Identificación de tipo
+desistemas
+6.3.1. Sistemas de primer orden
+6.3.2. Sistemas de segundo orden
+6.3.3. Sistemas de orden superior
+6.4. Análisis de estabilidad de un sistema
+Tema 7: Diseño del controlador PID
+7.1. Introducción
+7.2. Acciones básicas de control
+7.3. Controlador ON-OFF
+7.4. Controlador Proporcional
+7.5. Controlador Proporcional Integral
+7.6. Controlador Proporcional Derivativo
+7.7. Controlador Proporcional Integral Derivativo
+7.8. Sintonización de un PID
+7.9. Conclusiones
+
+IV.        Automatización
+de procesos industriales
+Tema 8: Automatización de procesos industriale
+8.1. Automatización de una planta real
+8.2. SCADAS e Interfaz Hombre Máquina.
+8.3. Introducción al control distribuído
+8.4. Campos de aplicación de la automática
+Prácticas de laboratorio
+Práctica 1. Neumática
+Práctica 2. Introducción al entorno
+deprogramación Administrador
+Simaticy                                   diseño
+de automatismos combinacionales
+Práctica 3. Diseño de automatismossecuenciales
+Práctica 4. Modelado e Identificación de unsistema
+dinámico
+Práctica 5. Diseño y sintonización de
+uncontrolador PID
+'

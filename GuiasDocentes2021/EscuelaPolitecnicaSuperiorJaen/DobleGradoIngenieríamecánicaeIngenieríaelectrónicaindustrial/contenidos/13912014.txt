@@ -1,0 +1,178 @@
+'
+
+Sistemas trifásicos
+Análisis de transitorios y armónicos
+Máquinas eléctricas
+
+UNIDAD DIDACTICA I: RÉGIMEN ESTACIONARIO SENOIDAL
+Tema 1: Energía y potencia en régimen estacionario
+senoidal
+Introducción
+ Relación de potencia y energía en elementos
+pasivos básicos.
+ Relaciones de potencia y energía en los dipolos
+ Potencia instantánea. Potencia media. Potencia
+activa. Potencia fluctuante.
+ Potencia aparente, activa y reactiva.
+ Potencia compleja y su notación simbólica.
+Diferentes expresiones de la potencia activa y reactiva
+ Teorema de Boucherot
+ Factor de potencia y su importancia en el suministro de
+energía eléctrica
+ Corrección del factor de potencia
+Tema 2: Técnicas de análisis en régimen
+senoidal
+Método de análisis por nudos: análisis con
+fuentes independientes, dependientes y casos especiales.
+ Método de análisis por mallas: análisis
+con fuentes independientes, dependientes y casos especiales.
+ Teoremas de superposición, de Thevenin y Norton, y de
+máxima transferencia de potencia
+Tema 3: Resonancia
+Introducción
+ Resonancia en circuitos
+ Resonancia serie o de tensión
+ Resonancia en paralelo o de intensidad
+ Procesos energéticos en condiciones de resonancia
+ Factor de calidad
+Tema 4: Sistemas trifásicos equilibrados
+Introducción
+ Generación de un sistema trifásico equilibrado
+de tensiones
+ Noción de fase y secuencia de fase
+ Cargas trifásicas en estrella y triángulo
+ Magnitudes de fase y de línea. Relación entre
+ambas en sistemas equilibrados
+ Circuitos trifásicos equilibrados. Cálculo de
+los mismos por reducción a un problema monofásico.
+ Potencias en los sistemas trifásicos: activa,
+reactiva, aparente y compleja
+ Factor de potencia y su mejora
+Tema 5: Sistemas trifásicos desequilibrados
+Introducción
+ Sistemas trifásicos desequilibrados. Condiciones de
+desquilibrio
+ Componentes simétricas
+ Descomposición de un sistema de vectores en sus
+componentes simétricas
+ Potencia de un sistema desequilibrado
+ Estudio de sistemas trifásicos desequilibrados en
+tensiones
+ Impedancia a la secuencia directa, inversa y homopolar.
+Redes de secuencia
+ Estudio de circuitos trifásicos desequilibrados en
+impedancias
+Tema 6: Estudio de cortocircuitos desequilibrados
+Aplicación de las componentes simétricas al
+cálculo de cortocircuitos desequilibrados
+ Tipos de cortocircuitos desequilibrados: fase-tierra,
+bifásico, bifásico a tierra
+ Determinación de las ecuaciones para el
+análisis de los distintos tipos
+UNIDAD DIDACTICA II: RÉGIMEN TRANSITORIO
+Tema 7: Fundamentos del régimen transitorio
+Introducción
+ Resolución del Régimen Transitorio: ecuaciones
+diferenciales con coeficientes constantes
+ Métodos resolutivos de la ecuación diferencial
+asociada al circuito: método clásico y método
+operacional (Transformada de Laplace)
+Tema 8: Resolución del transitorio en circuitos de primer
+orden (método clásico)
+Cálculo de la ecuación diferencial
+homogénea: respuesta natural
+ Cálculo de la respuesta permanente
+ Ejemplos de resolución de circuitos de primer orden
+ La constante de tiempo
+ Cálculo de la constante de integración.
+Introducción
+ Condiciones iniciales en los elementos pasivos simples:
+resistencia y elementos almacenadores de energía
+ Evaluación de la constante de integración en
+circuitos primer orden
+ Método esquemático para la resolución
+de circuitos de primer orden
+Tema 9: Resolución del transitorio en circuitos de
+segundo orden (método clásico)
+Introducción
+ Cálculo de la respuesta natural
+ Cálculo de la respuesta permanente
+ Evaluación de las constantes de integración en
+circuitos de 2º orden
+ El circuito serie RLC
+ El circuito paralelo RLC
+Tema 10: Resolución del transitorio en los circuitos por
+el método operacional
+Introducción
+ La Transformada de Laplace. Definición
+ Propiedades y teoremas básicos de la Transformada de
+Laplace
+ Uso de las tablas de transformadas en la resolución
+de ecuaciones diferenciales
+ Procedimientos para el análisis de circuitos mediante
+la Transformada de Laplace
+ Análisis de circuitos mediante Transformada de
+Laplace
+UNIDAD DIDACTICA III: ARMÓNICOS
+Tema 11: Introducción al problema de los
+armónicos
+La red ideal: parámetros fundamentales
+ Origen de los armónicos
+ Definición de armónico
+ Fuentes de armónicos en los circuitos
+eléctricos
+Tema 12: Análisis de Fourier
+Series de Fourier
+ Evaluación de los coeficientes de Fourier
+ Efecto de las simetrías de forma de onda sobre los
+coeficientes de Fourier
+ Representación gráfica
+ Valor eficaz de una señal periódica no
+senoidal
+ Factores de las señales periódicas.
+Índices para la medición de armónicos
+Tema 13: Análisis de circuitos con armónicos
+Análisis de circuitos lineales excitados con
+señales periódicas no senoidales
+ Potencias activa, reactiva, aparente y reactiva de
+distorsión. Factor de potencia
+ Secuencia de fase de los armónicos en circuitos
+trifásicos
+ Efecto de los armónicos en los sistemas
+eléctricos
+ Filtrado de armónicos
+ Normativa sobre armónicos
+UNIDAD DIDACTICA IV: MÁQUINAS ELÉCTRICAS
+Tema 14: El motor de corriente continua
+Introducción
+ La máquina de c.c. más simple
+ Conmutación en una máquina sencilla de c.c.
+con cuatro espiras
+ Problemas de la conmutación en máquinas reales
+de c.c.
+ Flujos de potencia y pérdidas en las máquinas
+de c.c.
+ El circuito equivalente de un motor de c.c.
+ Motores de c.c. con excitación independiente y con
+excitación en derivación: curvas
+características y control de velocidad
+ Motores de c.c. de imán permanente
+ Motores de c.c. con excitación en serie: curvas
+características y control de velocidad
+ Motores de c.c. con excitación compuesta: curvas
+características y control de velocidad
+ Sistemas de arranque de motores de c.c.
+ La eficiencia del motor de c.c.
+PROGRAMA DE PRÁCTICAS
+Práctica 1: Teoremas de Thevenin y Norton
+Práctica 2: Resonancia serie y paralelo
+Práctica 3: Sistemas trifásicosdesequilibrados
+Práctica 4: Régimen transitorio. Circuitos
+deprimer orden
+Práctica 5: Régimen transitorio. Circuitos
+desegundo orden
+Práctica 6: Armónicos. Desarrollo en Series
+deFourier
+Práctica 7: Curvas características del motor
+decorriente continua
+'

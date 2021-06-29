@@ -1,0 +1,41 @@
+'
+
+Planificación y gestión de proyectos.
+Evaluación y despliegue de aplicaciones, instalaciones y
+sistemas informáticos. Normativas vigentes.
+ 
+
+CONTENIDOS TEORICOS 
+Tema 1. Introducción a la Gestión y Control de
+Proyectos Informáticos
+ 1.1 Proyectos Informáticos
+ 1.2 Objetivos de la Gestión de Proyectos
+ 1.3 Procesos en la Gestión de Proyectos
+Tema 2. Gestión del Alcance y Objetivos
+2.1 Introducción
+2.2 Procesos de la Gestión del Alcance y Objetivos
+2.3 Herramienta de toma de decisiones: AHP. Ejercicios.
+Tema 3. Gestión de Tiempos
+3.1 Introducción
+3.2 Procesos de la Gestión de Tiempos
+3.3 Herramienta de planificación temporal: PERT.
+Ejercicios.
+Tema 4. Gestión de Costes
+4.1 Introducción
+4.2 Procesos de la Gestión de Costes
+4.3 Herramienta de estimación de
+costes: COCOMO. Ejercicios. 
+CONTENIDOS PRACTICOS
+Módulo I. Herramientas para Control de Versiones: GIT
+- Conceptos Básicos
+- Uso Avanzado
+Módulo II. Herramientas para la gestión de
+Proyectos: Redmine
+- Conceptos básicos
+- Utilización de redmine
+- Integración de redmine con Git
+Módulo III. Herramientas para la planificación de
+Proyectos: Pert
+- Conceptos básicos
+- Diagramas Pert  
+'

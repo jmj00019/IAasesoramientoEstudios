@@ -1,0 +1,41 @@
+'
+
+1. Calidad de la Información Geográfica.
+Gestión de la calidad. Normas ISO sobre calidad de la IG.
+2. Evaluación de las componentes de la calidad de la
+Información Geográfica (posición, tema,
+compleción, tiempo, consistencia, etc.). Reporte de la
+calidad como
+metadatos y como informe independiente.
+3. Control de procesos.
+
+Calidad de la IG y gestión de la calidad en las
+organizaciones
+    Introducción y situación
+actual
+    Marcos para la calidad de datos
+    ISO 9001
+    EFQM
+    ISO 19158
+
+Normas ISO sobre calidad de la IG
+    ISO 19131
+    ISO 19157
+    ISO 19115-1, 2
+
+Evaluación e informe de las componentes de la calidad
+de la IG
+    Compleción y Tema
+    Posición
+    Consistencia lógica
+    Tiempo
+    Metadatos
+    MDE
+    Imágenes
+
+Control de procesos
+    Bases de los gráficos de control
+    Gráficos de control para variables
+    Gráficos de control para atributos
+    Gráficos dinámicos
+'

@@ -1,0 +1,113 @@
+'
+
+El efecto fotovoltaico
+La célula solar: estructura y principios de
+funcionamiento
+Aplicaciones de la generación de electricidad mediante el
+efecto fotovoltaico
+Tipos de sistemas FV: aislados y conexión a red.
+Tecnologías asociadas a los sistemas FV:
+monitorización, integración, protecciones y
+seguridad, acondicionamiento de potencia, gestión y
+mantenimiento, políticas y programas.
+ 
+
+
+ 
+
+
+TEORÍA
+
+
+
+Tema
+  1. Introducción
+
+
+Presentación
+  asignatura y mención fotovoltaica
+
+
+
+Tema
+  2. Energía y Tercer Mundo
+
+
+
+Tema
+  3: Introducción a la ESF
+
+
+Célula
+  solar: principios básicos de funcionamiento,
+  tecnologías, módulo y generador fotovoltaico
+
+
+
+Tema
+  4: Recuso solar
+
+
+Irradiancia,
+  irradiación, bases de datos de radiación: PV
+  GIS
+
+
+
+Tema
+  5: Introducción a los sistemas
+  fotovoltaicos
+
+
+Sistemas
+  fotovoltaicos autónomos (SFA): funcionamiento y
+  dimensionado
+
+
+Sistemas
+  fotovoltaicos conectados a la red (SFCR): funcionamiento,
+  conexiones, dimensionado
+
+
+
+ 
+
+
+
+PRÁCTICAS
+
+
+Práctica
+  1. Manejo de información técnica y catálogos
+  de módulos fotovoltaicos de diferentes
+  tecnologías.
+
+
+Práctica
+  2. Medida de módulos fotovoltaicos y traslación a
+  condiciones estándares de medida (CEM).
+
+
+Práctica
+  3. Recurso solar. 
+
+
+Práctica
+  4. Medida de generadores fotovoltaicos (outdoor). 
+
+
+Práctica
+  5. Dimensionado de Sistemas Fotovoltaicos
+  Autónomos.
+
+
+Práctica
+  6. Dimensionado de Sistemas Fotovoltaicos conectados a la
+  red.
+
+
+Práctica
+  7. Análisis y evaluación de una instalación
+  fotovoltaica.
+
+'

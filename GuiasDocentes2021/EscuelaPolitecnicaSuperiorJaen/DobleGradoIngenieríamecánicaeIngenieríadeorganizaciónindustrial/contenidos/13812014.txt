@@ -1,0 +1,255 @@
+'
+
+Previsión de la demanda. Función logística
+I: Gestión estadística de stocks. Función
+logística II: Planificación de la producción.
+Función logística III:
+Sistemas para la Programación y Control de la
+producción.
+
+
+
+Contenidos
+  desarrollados
+
+
+Capítulo 
+  1.- INTRODUCCIÓN A LOS SISTEMAS  PRODUCTIVOS
+
+
+Sistemas 
+  productivos.- Elementos de diseño del proceso: 
+  localización de la planta, capacidad de las
+  instalaciones,  selección del proceso y de la
+  tecnología,  infraestructuras de otros servicios,
+  personal.-  Organización del proceso de
+  producción:  previsión de la demanda,
+  gestión de los  inventarios, planificación de
+  la producción,  programación y control de
+  la  producción.
+
+
+ 
+
+
+MODULO 
+  I.- PREVISIÓN DE LA DEMANDA
+
+
+ 
+
+
+Capítulo 
+  2.- MÉTODOS DE PREVISIÓN DE LA  DEMANDA
+
+
+Introducción.- 
+  Series temporales.- Medias móviles.- Ajuste
+  exponencial.-  Errores de previsión.- Vigilancia de
+  la   previsión.- Sistemas de previsión.-
+  Casos prácticos del capítulo 2.
+  
+
+
+ 
+
+
+MODULO 
+  II.- GESTIÓN DE STOCKS
+
+
+ 
+
+
+Capítulo 
+  3.- LOS INVENTARIOS
+
+
+Funciones 
+  de los inventarios.- Tipos de costes relacionados con los 
+  inventarios.- Decisiones globales sobre los inventarios.- 
+  Análisis de los tipos de inventarios.-
+  Gestión  estadística de stocks.- Costes
+  relevantes.- Costes  asociados al lanzamiento de pedidos.-
+  Costes de mantenimiento del  stock.- Ruptura de stock y
+  costes asociados.- Casos prácticos del capítulo 3.
+  
+
+
+ 
+
+
+Capítulo 
+  4.- EL LOTE ECONÓMICO
+
+
+Modelo 
+  simple de revisión continua.- Modelo simple con tasa
+  de  aprovisionamiento.- Modelo simple con plazo de 
+  aprovisionamiento.- Estabilidad de los resultados.- Modelo
+  simple  de revisión periódica.- Descuento en
+  el valor de  los productos.- Varias órdenes en un
+  pedido.- Relevancia  del lote económico en la
+  gestión de  stocks.- Casos prácticos del
+  capítulo 4.
+  
+
+
+ 
+
+
+Capítulo 
+  5.- EL STOCK DE SEGURIDAD
+
+
+Introducción.- 
+  Stock de Seguridad.- Rotura de stock.- Calidad de
+  servicio.-  Determinación del stock de
+  seguridad.-  Interpretación de la calidad de servicio
+  en  términos de costes.- Casos prácticos del
+  capítulo 5.
+  
+
+
+ 
+
+
+Capítulo 
+  6.- STOCKS CON DEMANDA VARIABLE
+
+
+Descripción 
+  de la situación.- Un solo período.- Demanda 
+  determinista variable.- Demanda probabilística
+  variable.-  Demanda errática.- Casos prácticos
+  del capítulo 6.
+  
+
+
+ 
+
+
+Capítulo 
+  7.- GESTIÓN AGREGADA DE STOCKS
+
+
+Condiciones 
+  sobre el stock de trabajo.- Reglas de decisión para
+  los  stocks de trabajo.- Condiciones sobre el stock de
+  seguridad.  Gráficos de decisión.-
+  Gestión conjunta de  stocks de trabajo y stocks de
+  seguridad.- Gestión de los  stocks.- Casos
+  prácticos del capítulo 7.
+  
+
+
+ 
+
+
+Capítulo 
+  8.- GESTIÓN DE INVENTARIOS
+
+
+Clasificación 
+  del inventario.- Organización del inventario.- 
+  Diagnóstico del inventario.- Gestión
+  según  el tipo de producto.
+
+
+ 
+
+
+MODULO 
+  III.- PLANIFICACIÓN  DE LA 
+  PRODUCCIÓN
+
+
+ 
+
+
+Capítulo 
+  9.- PLANIFICACIÓN DE LA PRODUCCIÓN
+
+
+Planificar 
+  en producción.- Los costes de planificación.- 
+  Elementos de los modelos de planificación.- Modelos 
+  lineales de planificación.- Modelos con costes fijos
+  y  variables.- Planificación y
+  programación.-  Preparación de datos para los
+  modelos.-  Programación de la producción.-
+  Casos prácticos del capítulo 9.
+  
+
+
+ 
+
+
+MODULO 
+  IV.- CONTROL DE LA PRODUCCIÓN
+
+
+ 
+
+
+Capítulo 
+  10.- SISTEMA BÁSICO DE CONTROL DE LA 
+  PRODUCCIÓN
+
+
+Introducción.- 
+  El plan maestro de producción.- Estructuras de 
+  fabricación. La lista de materiales.- El estado de
+  los  stocks.- La programación de la producción
+  con  estructura multinivel.- El sistema MRP.- Casos
+  prácticos del capítulo 10.
+  
+
+
+ 
+
+
+Capítulo 
+  11.- EXPLOSIÓN DE LAS NECESIDADES DE 
+  MATERIALES
+
+
+Introducción.- 
+  El mecanismo de la explosión de necesidades.- Stock
+  de  seguridad y determinación del tamaño de
+  lotes.- El  sistema MRP en la práctica.- Casos
+  prácticos del capítulo 11.
+  
+
+
+ 
+
+
+Capítulo 
+  12.- CONTROL DE LA PRODUCCIÓN CON LIMITACIONES DE 
+  CAPACIDAD
+
+
+Introducción.- 
+  Planificación de las cargas de trabajo.- El sistema
+  OPT.-  El sitema informático OPT.- Casos
+  prácticos del capítulo 12.
+  
+
+
+ 
+
+
+Capítulo 
+  13.- SISTEMAS DE PRODUCCIÓN "JUST IN TIME"
+
+
+Introducción.- 
+  Sistemas just-in-time.- Lanzamiento de órdenes.
+  Tarjetas  Kanban.- El programa de producción.
+  Número de  tarjetas.- La implantación de
+  sistemas  JIT.- Casos prácticos del capítulo
+  13.
+  
+
+'

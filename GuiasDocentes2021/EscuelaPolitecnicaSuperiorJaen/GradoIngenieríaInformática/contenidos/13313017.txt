@@ -1,0 +1,50 @@
+'
+
+Introducción a la Web Semántica.
+Contexualización con otras tecnologías Web actuales.
+Representación de información Semántica en la
+Web. Lenguajes y herramientas. Anotaciones. Servicios y
+aplicaciones de la Web Semántica. Introducción a las
+redes sociales y a las tecnologías para su desarrollo.
+Herramientas y aplicaciones de las redes sociales en las nuevas
+tecnologías. Redes sociales y sistemas colaborativos en
+red.
+ 
+
+
+Contenidos teóricos
+
+
+Introducción a la web
+  semántica
+Desarrollo de
+  ontologías
+RDF
+OWL
+SPARQL
+Aplicaciones de la web
+  semántica
+Datos enlazados
+Introducción a la web
+  social
+Aplicaciones en las redes
+  sociales
+Sistemas colaborativos en
+  red
+Tecnologías de la web
+  semántica para aplicaciones en la web social: SOLID
+
+
+Contenidos prácticos
+
+
+Diseño de ontologías
+Implementación de ontologías en
+  Protégé
+Inferencia sobre ontologías
+Consultas en SPARQL
+Aplicación práctica de SPARQL
+Análisis de redes sociales
+Desarrollo con SOLID
+
+'

@@ -1,0 +1,226 @@
+'
+
+Dentro de los recursos naturales, los recursos geológicos
+tienen carácter no renovable, lo que es especialmente
+problemático a la hora de plantear una explotación
+sostenible. Dentro de este contexto, en esta asignatura se tratan
+aspectos relacionados con la minería subterránea y de
+superficie de los yacimientos de menas metálicas:
+técnicas de explotación y procesos de
+concentración; impacto ambiental asociado a la
+explotación; aguas ácidas
+y liberación de elementos metálicos. Finalmente
+se dedican varios temas a la restauración de zonas
+mineras.
+
+
+
+BLOQUE TEMÁTICO 1. Yacimientos de menas
+metálicas. Fundamentos geológicos y
+mineralógicos de su potencial contaminante.
+
+1.
+INTRODUCCIÓN A LOS YACIMIENTOS MINERALES
+
+1.1
+Definición de yacimiento mineral
+
+1.2. Sustancias
+que se explotan en los yacimientos minerales
+
+1.3. Otras
+definiciones importantes
+
+2. PROCESOS DE
+FORMACIÓN DE LOS YACIMIENTOS MINERALES
+
+2.1. Procesos
+superficiales
+
+2.2. Procesos
+internos
+
+3.
+DISTRIBUCIÓN DE LOS YACIMIENTOS MINERALES EN EL ESPACIO Y EN
+EL TIEMPO
+
+4.
+MORFOLOGÍA DE LOS YACIMIENTOS MINERALES
+
+5. RELACIONES
+TEXTURALES EN LOS CUERPOS DE MENAS
+
+6.
+GEOQUÍMICA DE LOS YACIMIENTOS MINERALES
+
+7.
+CARACTERÍSTICAS AMBIENTALES DE LOS YACIMIENTOS
+MINERALES
+
+7.1. Controles
+geológicos
+
+7.1.1.
+Mineralogía de mena y ganga; litología de la roca
+encajante; alteración de la roca de caja
+
+7.1.2.
+Composición química global: elementos mayores y
+trazas
+
+7.1.3.
+Resistencia de los minerales a la meteorización y la
+oxidación
+
+7.1.4. Textura de
+los minerales y contenidos de elementos traza
+
+7.1.5. Grado de
+oxidación anterior a la explotación
+
+7.1.6.
+Mineralogía secundaria
+
+7.1.7.
+Características estructurales y físicas de los
+yacimientos
+
+7.2. Clima
+
+7.3.
+Métodos de explotación y de procesamiento de los
+minerales
+
+8. ALGUNOS CASOS
+REALES
+
+
+BLOQUE TEMÁTICO 2. Técnicas de
+  explotación y procesos de concentración de menas
+  metálicas
+
+
+ 1.
+  TÉCNICAS DE EXPLOTACIÓN EN MINERÍA A CIELO
+  ABIERTO
+
+
+2.
+  TÉCNICAS DE EXPLOTACIÓN EN MINERÍA
+  SUBTERRÁNEA
+
+
+3. PROCESOS DE
+  CONCENTRACIÓN MINERAL
+
+
+
+BLOQUE TEMÁTICO 3. Impacto ambiental asociado a la
+explotación de yacimientos de menas metálicas: aguas
+ácidas y liberación de elementos
+metálicos.
+
+1.
+INTRODUCCIÓN: LA MINERÍA COMO FOCO DE
+CONTAMINACIÓN
+
+2. PROCESOS QUE
+INCIDEN SOBRE LA CALIDAD DE LAS AGUAS
+
+2.1. APORTES DE
+MATERIALES SÓLIDOS EN SUSPENSIÓN
+
+2.2. AFECCIONES
+QUÍMICAS A LA CALIDAD
+
+2.2.1. Aguas
+ácidas de drenaje (AAD)
+
+2.2.2.
+Lixiviación de metales
+
+2.2.3.
+Contaminación por uranio
+
+2.2.4.
+Depósitos de estériles y escombreras
+
+2.2.5. Efluentes
+tóxicos
+
+2.3.
+MODIFICACIONES DEL SISTEMA HIDROLÓGICO
+
+3.
+TÉCNICAS DE PREVENCIÓN DE LA
+CONTAMINACIÓN
+
+3.1.
+MINERÍA SUBTERRÁNEA
+
+3.1.1.Control de
+la fracturación del techo
+
+3.1.2.
+Reducción de la infiltración
+
+3.1.3.
+Inundación preplanificada
+
+3.2.
+MINERÍA A CIELO ABIERTO
+
+3.2.1. Sellado
+con arcilla
+
+3.2.2.
+Manipulación selectiva del estéril
+
+3.2.3. Otras
+técnicas
+
+4.
+TÉCNICAS DE CORRECCIÓN DE LA
+CONTAMINACIÓN
+
+4.1. SISTEMAS DE
+TRATAMIENTO ACTIVO
+
+4.2. SISTEMAS DE
+TRATAMIENTO PASIVO
+
+5. EFECTO DEL
+ABANDONO DE MINAS SOBRE LA CALIDAD DE LAS AGUAS: CASOS DE
+ESTUDIO
+
+
+BLOQUE TEMÁTICO 4. Restauración de zonas
+  mineras: Tipología de los residuos mineros en el distrito
+  minero de Linares-La Carolina. Soluciones adoptadas en la
+  restauración.
+
+
+1.
+  TIPOLOGÍA DE RESÍDUOS MINEROS EN EL DISTRITO DE
+  LINARES-LA CAROLINA
+
+
+2. RESIDUOS
+  PRODUCIDOS EN LOS PROCESOS DE CONCENTRACIÓN
+
+
+3.
+  TÉCNICAS GEOFÍSICAS APLICADAS EN LA
+  AUSCULTACIÓN Y CONTROL DE PRESAS Y BALSAS MINERAS
+
+
+4.
+  VALORACIÓN DEL IMPACTO AMBIENTAL PRODUCIDO POR LOS
+  RESIDUOS ACUMULADOS
+
+
+5. SOLUCIONES
+  ADOPTADAS EN LA RESTAURACIÓN EN EL DISTRITO MINERO DE
+  LINARES-LA CAROLINA
+
+'

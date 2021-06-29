@@ -1,0 +1,12 @@
+(77513001,'Democracia y participación ciudadana en el mundo contemporáneo','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77513001/es/2020-21-77513001_es.html'),
+(77513005,'Los `otros`: marginados y excluidos','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77513005/es/2020-21-77513005_es.html'),
+(77512006,'Género e historia en el mundo contemporáneo','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77512006/es/2020-21-77512006_es.html'),
+(77516001,'Trabajo fin de Máster','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77516001/es/2020-21-77516001_es.html'),
+(77513004,'Historia y medioambiente','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77513004/es/2020-21-77513004_es.html'),
+(77512005,'¿Cómo hemos llegado hasta aquí? Historia económica contemporánea','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77512005/es/2020-21-77512005_es.html'),
+(77512004,'Viejos y nuevos movimientos sociales','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77512004/es/2020-21-77512004_es.html'),
+(77512003,'Culturas políticas y opinión pública','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77512003/es/2020-21-77512003_es.html'),
+(77512001,'Metodología histórica','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77512001/es/2020-21-77512001_es.html'),
+(77513003,'Historia urbana contemporánea','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77513003/es/2020-21-77513003_es.html'),
+(77512002,'Los debates sobre la construcción del Estado contemporáneo: nacionalismo, culturas, identidades','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77512002/es/2020-21-77512002_es.html'),
+(77513002,'Políticas de memoria y transiciones a la democracia','15','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/775A/77513002/es/2020-21-77513002_es.html')

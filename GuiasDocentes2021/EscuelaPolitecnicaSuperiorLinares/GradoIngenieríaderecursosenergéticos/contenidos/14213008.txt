@@ -1,0 +1,145 @@
+'
+
+PLANIFICACION DEL MANTENIMIENTO - ESTUDIO DE DESGASTES Y ALMACEN
+DE REPUESTOS - MANUALES DE MANTENIMIENTO DE MAQUINARIA -
+FUNDAMENTOS Y TECNICAS DE LUBRICACIÓN
+
+TEMA 1 .-  
+PLANIFICACIÓN MINERA 
+Necesidad de la
+Planificación. Características  de la
+Planificación Minera. Fases en la planificación del
+ciclo minero. Tipos de planificación de las actividades
+extractivas: planificación territorial, planificación
+de la explotación, planificación de la
+producción. Problemática en las 
+canteras.                                 
+TEMA 2.-  
+PLANIFICACIÓN  PRODUCTIVA
+Introducción. Criterios para
+el diseño del hueco final de la explotación .
+Criterios económicos y ratios de desmonte en explotaciones a
+cielo abierto: ratio límite económico, ratio medio
+económico. Criterios económicos en explotaciones
+subterráneas. Planificación Productiva y Servicios
+Generales. Servicios generales en la explotación, en las
+áreas de servicio y en las áreas de vertido.
+Alternativas de la planificación  productiva .
+ 
+TEMA 3 .  
+MANTENIMIENTO Y PLANIFICACIÓN
+PRODUCTIVA
+Introducción. Finalidad del
+Mantenimiento. Sistemas de producción eficaces
+.Gestión de operaciones y ingeniería del
+mantenimiento. Definición de fallo y su
+clasificación. Conceptos relativos a los estados de los
+equipos. El ingeniero de mantenimiento. El mantenimiento como
+garantía de inversiones. Actuaciones posibles para mejorar
+beneficios: Aumentar los Ingresos. Disminuir los Gastos.
+Conclusiones finales. Planificación y mantenimiento en la
+empresa minera. 
+TEMA 4.  
+DESARROLLO DE LAS OPERACIONES DE MANTENIMIENTO
+Tipos de Mantenimiento.
+Mantenimiento Correctivo. Mantenimiento Preventivo. Paso del
+Mantenimiento Correctivo al Preventivo. Mantenimiento de
+Reacondicionamiento Sistemático. Mantenimiento Predictivo.
+Equipos portátiles para el control del mantenimiento
+predictivo
+TEMA 5.  
+ORGANIZACIÓN DEL MANTENIMIENTO
+Introducción. Organigrama de
+Mantenimiento. Toma de datos para la orientación del
+mantenimiento. Determinación de los costos de mantenimiento.
+Incentivos de mantenimiento. Sistemas de incentivos en
+Mantenimiento Correctivo. Sistemas de incentivos en Mantenimiento
+Preventivo. Incentivos en Reacondicionamiento Sistemático.
+Métodos para el desarrollo y control del mantenimiento.
+ 
+TEMA 6.  
+ESTUDIO  DE  REPUESTOS. DIMENSIONADO DEL
+ALMACÉN
+
+           
+Introducción. Estudio general de repuestos. Gráficos
+ABC. para control de repuestos. Clasificación de las piezas
+por  niveles de desgaste: Nivel I - Desgaste rápido y
+no reutilizables, Nivel II- Desgaste lento y reutilizables. Nivel
+III- Duración similar a la máquina. Estudio de las
+necesidades de accesorios de perforación. Cuidado y
+mantenimiento de bocas.  Estudio y evaluación del
+desgaste de tricono. Cuidado y mantenimiento del varillaje. 
+Control preventivo de cables durante su uso.
+ 
+TEMA 7   
+MANUALES DE OPERACIÓN  MANTENIMIENTO Y
+SEGURIDAD
+Contratos de mantenimiento del
+servicio postventa. Finalidad de los Manuales de Operación
+Mantenimiento y seguridad. Contenido del Manual de Operación
+y Mantenimiento. Sección general : información y
+identificación. Instrucciones de operación.
+Instrucciones de  Mantenimiento. Medidas  de Seguridad.
+Etiquetas y señales de advertencias. Medidas de
+prevención sobre peligros. Instrucciones para operar la
+maquina con seguridad. Planificación del Mantenimiento en
+base a las producciones de la explotación minera.
+
+ 
+
+TEMA 8.  
+INTRODUCCIÓN A LAS TÉCNICA DE
+LUBRICACIÓN
+Necesidad de la lubricación
+. Evolución de los  Regímenes de
+lubricación .Principales propiedades de los aceites para
+motores. Funciones de los aceites desde el aspecto mecánico.
+Generalidades sobre la composición de aceites.
+Fabricación de los aceites base. Los Aditivos . Funciones de
+los mismos . Clasificación de los aditivos.
+ 
+TEMA 9 .  
+CLASIFICACIÓN Y ESPECIFICACIONES DE 
+ACEITES
+Introducción.
+Clasificaciones en grados SAE. Denominaciones de los aceites por su
+detergencia. Clasificación por el Tipo de Servicio (
+Sistemas API).Especificaciones militares para los aceites de
+motores.  Especificaciones y Recomendaciones civiles para
+aceites de motores. Aceites para transmisiones y cajas de cambio.
+Aceites para circuitos hidráulicos,
+ 
+TEMA 10.  
+SEGUNDO GRUPO: LAS
+GRASAS.                
+                      
+Grasas lubricantes.
+Clasificación de las grasas en función de la
+naturaleza del jabón. Características de las grasas.
+Aplicaciones de las grasas según sus componentes. Las grasas
+modernas. Normas generales sobre el engrase.
+ 
+TEMA 11.  
+  LOS CARBURANTES   PARA LA MAQUINARIA DE
+MINERIA
+Introducción.
+Producción y tipos de carburantes. Las gasolinas. El
+fenómeno de detonación en los motores. Medidas
+de  la antidetonabilidad de las gasolinas . Aditivos para las
+gasolinas. Medidas de la inflamación del gas-oil. Aditivos
+para el gas-oil. Contaminación  alternativas de
+carburantes. Almacenamiento de los carburantes. Medidas para evitar
+la contaminación por el polvo y la humedad de los
+carburantes. Formas de almacenamiento de los
+carburantes.        
+ 
+CONTENIDOS DE PRÁCTICAS
+El Programa Práctico se desarrollará aplicando
+la metodología de aprendizaje basado industrias Mineras, de
+manera que se desarrollen en grupos de trabajo la redacción
+de un Manual de Operación, Seguridad y Mantenimiento,
+así como se ponen en práctica contenidos relacionados
+con la planificación minera y gestión del servicio de
+Mantenimiento Minero.
+'

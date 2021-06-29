@@ -1,0 +1,377 @@
+'
+
+El alumno adquirirá los conocimientos sobre los
+subsistemas que integran los sistemas de comunicaciones mediante un
+modelado de bloques funcionales. Se estudiarán las
+diferentes estructuras de receptores: homodinos y heterodinos. Se
+analizarán cada bloque indicando su funcionalidad,
+características de diseño y sistemas comerciales
+existentes que los implementan. Los subsistemas básicos que
+se estudiarán serán los osciladores, sintetizadores
+de frecuencia, amplificadores, mezcladores, moduladores,
+demoduladores. Se aprenderá a utilizar instrumental de
+laboratorio para realizar las medidas sobre los subsistemas. Se
+diseñarán, simularán e implementarán
+subsistemas de comunicaciones en laboratorio.
+Palabras Clave: homodino, heterodino, frecuencia intermedia,
+mezclador, amplificador, oscilador, modulador, demodulador, PLL,
+sintetizador, DDS.
+
+
+En
+  esta asignatura se dará al alumno una visión
+  general de circuitos y subsistemas más utilizados
+  actualmente.
+
+
+Todos
+  estos circuitos y subsistemas serán explicados dentro de
+  su contexto de aparición y desarrollo experimentado.
+  Además, se dotará al alumno de la capacidad para
+  estar al día en las novedades en ciencia y
+  tecnología, sobre todo en este tipo de materias, tan
+  ligadas a un entono tan dinámico como son las
+  telecomunicaciones.
+
+ 
+
+
+
+TEMARIO TEÓRICO DE LA
+  ASIGNATURA:
+
+
+
+
+
+Tema 1: Características
+  generales de los receptores y
+  transmisores
+
+
+
+
+1.
+  Introducción.
+
+
+
+
+2. Características
+  generales de los receptores. Receptores homodinos. Receptores
+  heterodinos. El receptor superheterodinos. La frecuencia
+  intermedia y la frecuencia imagen.
+
+
+
+
+3. Características
+  generales de los transmisores. Transmisores con modulación
+  en amplitud. Transmisores con modulación angular
+  (frecuencia y fase). Parámetros de los transmisores:
+  potencia, eficiencia, ancho de banda.
+
+
+
+
+4. Características no
+  lineales. Limitaciones de la aproximación lineal en
+  dispositivos activos. La distorsión armónica. La
+  compresión de la ganancia. Los productos de
+  intermodulación.
+
+ 
+
+
+
+
+Tema 2: Mezcladores de
+  frecuencia.
+
+
+
+
+1.
+  Introducción.
+
+
+
+
+2. Mezcladores. El mezclador como
+  bloque funcional. Realización del mezclador como
+  dispositivo no lineal. Parámetros del mezclador.
+  Implementaciones de mezcladores. Mezcladores balanceados.
+  Mezcladores de transconductancia.
+
+
+
+
+3. Aplicaciones de los
+  mezcladores: modulación y
+  demodulación.
+
+ 
+
+
+
+
+Tema 3: Osciladores, PLL y
+  sintetizadores de frecuencia.
+
+
+ 1.
+  Introducción.
+
+
+
+
+2. Osciladores. Definición
+  y parámetros. Ejemplos de osciladores. El oscilador
+  controlado por tensión (VCO). Osciladores a
+  cristal.
+
+
+
+
+3. El bucle enganchado en fase o
+  phase locked loop (PLL). Descripción del PLL. Bloques
+  funcionales. Funcionamiento del PLL. Función de
+  transferencia del PLL. Limitaciones del PLL. Aplicaciones del
+  PLL: sincronización, demodulación, síntesis
+  de frecuencias, etc.
+
+
+
+
+4. Sintetizadores de frecuencias.
+  Síntesis directa de frecuencias. Sintetizadores de
+  frecuencias utilizando PLL. La síntesis directa digital de
+  frecuencias (DDFS).
+
+
+
+
+
+Tema 4: Moduladores y
+  demoduladores analógicos.
+
+
+
+
+1.
+  Introducción.
+
+
+
+
+2. Moduladores lineales.
+  Generación de señales AM. Moduladores de doble
+  banda lateral y banda lateral única.
+
+
+
+
+3. Demoduladores lineales.
+  Demoduladores coherentes. Demoduladores no
+  coherentes.
+
+
+
+
+4. Moduladores angulares.
+  Modulación en frecuencia y modulación en fase.
+  Generación de FM por el método directo.
+  Generación de FM por el método indirecto.
+  Generación de FM utilizando el PLL.
+
+
+
+
+5. Demoduladores angulares.
+  Demodulador de FM a través de transformación FM-AM.
+  Demodulación con PLL. Demodulación en
+  cuadratura.
+
+
+
+
+
+Tema 5: Moduladores y
+  demoduladores digitales.
+
+
+
+
+1.
+  Introducción.
+
+
+
+
+2. La modulación ASK.
+  Transmisores y receptores de ASK. Demoduladores coherentes y no
+  coherentes. Recuperación de reloj.
+
+
+
+
+3. La modulación FSK.
+  Transmisores de FSK. Receptores de FSK.
+
+
+
+
+4. La modulación PSK.
+  Modulación BPSK. Modulación PSK.. Modulación
+  diferencial. Recuperación de portadora. Bucle elevador al
+  cuadrado. El bucle de Costas. Modulación
+  QPSK.
+
+
+
+
+5. Modulaciones digitales basadas
+  en DDS. Procesamiento digital de señales en
+  modulaciones.
+
+ 
+
+
+
+
+Tema 6: Sistemas de
+  comunicaciones avanzados.
+
+
+
+
+1.
+  Introducción.
+
+
+
+
+2. Sistemas integrados de
+  comunicaciones. Etapa de FI. Moduladores y Demoduladores.
+  Sistemas Wireless.
+
+
+
+
+3. Diseño de sistemas de
+  comunicaciones a partir de componentes y subsistemas
+  comerciales.
+
+ 
+
+
+
+
+TEMARIO PRÁCTICO DE LA
+ASIGNATURA:
+
+El
+  objetivo de las prácticas propuestas es la
+  consecución de las competencias establecidas, así
+  como las habilidades necesarias para el diseño, montaje y
+  medida de circuitos y subsistemas de comunicaciones tanto reales
+  como simulados.
+
+
+Además,
+  se desarrollarán habilidades de comunicación
+  información, ideas, problemas y soluciones en el
+  ámbito de ingeniería y la sociedad en general a
+  través de procesos de entrega de documentación o
+  presentaciones orales.
+
+
+ 
+
+  
+
+Practica
+1: Instrumentación
+
+
+
+En esta prácitca se
+  conocerá la instrumentación del Laboratorio de
+  Comunicaciones. Para ello se estudiará el osciloscopio y
+  el analizador de espectros (que el alumno desconoce), generador
+  de funciones DDS y modulaciones, y la representación de
+  señales en cada uno de los dominios: temporal y
+  frecuencial.
+
+
+
+
+
+Practica
+2
+
+
+
+: Búsqueda de Componentes y
+Subsistemas en las webs comerciales de
+fabricantes.
+
+
+
+En ésta práctica,
+  se pretende que el alumno se familiarice con la
+  presentación de los componentes por parte de las empresas
+  en sus páginas web. Se presentará especial
+  interés en la búsqueda de componentes innovadores,
+  sus prestaciones y utilización.
+
+
+
+
+Práctica 3: Diseño,
+  construcción y prueba de un subsistema
+  modulador-demodulador.
+
+
+
+
+En esta práctica se
+  realizará el diseño de un subsistema modulador y
+  demodulador de frecuencia basado en PLL.
+
+
+
+
+
+Practica 4: Diseño,
+  construcción y prueba de un sintetizador de
+  frecuencia.
+
+
+
+
+En esta práctica se
+  realizará el diseño de un sintetizador de
+  frecuencia basándose en las técnicas de
+  síntesis digital de frecuencia.
+
+
+
+
+
+Practica 5: Simulación de
+  subsistemas de comunicaciones.
+
+
+
+
+En esta práctica se
+  realizarán diseños y simulaciones de los
+  subsistemas estudiados en los contenidos teóricos mediante
+  software de simulación de sistemas basados en la
+  interconexión gráfica de
+  bloques.
+
+ 
+ 
+'

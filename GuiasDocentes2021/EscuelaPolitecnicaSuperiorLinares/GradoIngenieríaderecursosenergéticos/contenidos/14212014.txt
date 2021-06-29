@@ -1,0 +1,145 @@
+'
+
+
+
+
+
+Bloque 1: Captación de aguas. Obras e
+        instalaciones hidráulicas.
+Se estudian los distintos tipos de captaciones de agua .
+        Se analizan las soluciones más eficaces en cada uno
+        de los casos valorados.
+Bloque 2: Tratamiento de aguas para la minería:
+        Dividiéndose en varios subapartados: tratamientos
+        específicos del agua destinada al consumo humano,
+        Tratamiento de aguas industriales, el agua en la industria
+        se analiza las alteraciones del agua en su
+        utilización y acondicionamiento para su uso en la
+        misma, así como su reutilización.
+Bloque 3: Sistemas de ingeniería de agua: -
+        Regulación y almacenamiento. En el que se establecen
+        los parámetros de diseño de una red y la
+        regulación y almacenamiento de agua con la
+        descripción de las características de los
+        depósitos, por último se estudian las
+        diferentes metodologías para el cálculo de la
+        capacidad y ubicación de los distintos tipos de
+        depósitos. - Redes de distribución.
+        Diseño de la red. Cálculo de redes . -
+        Tuberías y accesorios en redes.
+Bloque 4: Instalaciones hidráulicas: Se estudian
+        las instalaciones y obras en diferentes actividades
+        mineras, así como la normativa existente.
+Bloque 5: Planificación y gestión de
+        recursos hidráulicos. Análisis de la
+        gestión en diversos casos prácticos
+
+
+
+
+
+TEMA 1: El agua como recurso. Su utilización. Caso
+particular de Andalucía
+Tema introducción que se
+divide en tres bloques diferentes; - Analizar  los usos
+tradicionales del agua y las diferentes soluciones técnicas
+a lo largo de la historia. - Estudiar los conceptos derivados de
+considerar el agua como un recurso escaso y en consecuencia los
+problemas en  la regulación de cuencas, y por
+último - Conocer la planificación hidrológica
+de Andalucía.
+ 
+TEMA 2: Captación de Aguas
+Comienza el tema en el conocimiento
+de la medición de caudales y posteriormente se estudian los
+distintos tipos de captaciones de agua dividiéndose  en
+dos grandes grupos de tomas de agua, según sea las
+características a utilizar, (superficiales y no
+superficiales), se analizan las soluciones más eficaces en
+cada uno de los casos valorados,  y como anejo a este tema se
+definen los perímetros de protección de las
+captaciones.
+ 
+TEMA 3: Tratamiento de aguas del
+agua destinada al  consumo humano. Potabilización.
+Se analiza en primer término
+la calidad de aguas disponible y los parámetros que definen
+la misma, a continuación se desarrollan los tratamientos
+específicos del agua destinada al consumo humano,
+desglosándose en diversos capítulos (pretratamiento,
+almacenamiento, precloración, aireación,
+clarificación y desinfección), así como
+tratamientos específicos para determinadas calidades de
+agua.
+ 
+TEMA 4: Tratamiento de aguas en
+minería e industrias
+Desde el punto de vista de las
+funciones elementales del agua tanto en la minería como la
+industría se analiza las alteraciones del agua en su
+utilización y acondicionamiento para su uso en la misma,
+así como su reutilización. Se estudia de forma
+específica las industrias metalúrgicas, las
+industrias de papel, las agrícolas y alimentarias y los
+circuitos de refrigeración.
+ 
+TEMA 5: Regulación y
+almacenamiento.
+En este tema se pretende establecer
+los parámetros de diseño de una red, comenzando con
+el cálculo de caudales de consumo,  a
+continuación se define la regulación y almacenamiento
+de agua con la descripción de las características de
+los depósitos, por último se estudian  las
+diferentes metodologías para el  cálculo de la
+capacidad y ubicación de los distintos tipos de
+depósitos.
+ 
+TEMA 6: Redes de
+distribución. Diseño de la red. Cálculo de
+redes
+En el mismo se desarrollan, con las
+diferentes soluciones, los problemas de abastecimiento, con la
+finalidad de saber abordar el problema de diseño y
+cálculo de redes para cualquier tipo de núcleo urbano
+y/o industrial, con especial interés en el manejo de
+cálculo de redes hidráulicas.
+ 
+TEMA 7: Tuberías y
+accesorios en redes
+Una vez estudiado el cálculo
+de redes, este tema pretende solucionar los problemas de
+instalación de las mismas, los cálculos y condiciones
+necesarios para la elección del material a instalar,
+así como el conocimiento de las piezas especiales y su
+correcta instalación en cada uno de los casos más
+típicos de las necesidades de la red.
+ 
+TEMA 8: Redes de alcantarillado
+La evacuación de las aguas
+residuales queda condicionada con la utilización de la
+misma; así se desarrollan las principales estrategias de
+evacuación, cálculos de los caudales de
+evacuación, diseño de redes de alcantarillado y la
+descripción de las piezas y elementos necesarios para su
+correcto diseño e instalación.
+ 
+TEMA 9: Depuración de aguas
+residuales
+Como último elemento de una
+red completa se sitúa la depuración de las aguas.
+Aquí se estudian los diferentes tratamientos para una
+correcta depuración de las aguas, dependiendo de su
+utilización anterior, así como las instalaciones
+necesarias para la depuración y la posibilidad de
+reutilización de las mismas.
+ 
+TEMA 10: Instalaciones
+hidráulicas en distinto tipo de obras.   
+Se estudian las instalaciones en
+distinto tipo de obras, así como la normativa existente. En
+este tema se pretende  saber manejar correctamente el
+cálculo de las instalaciones así como de los
+elementos necesarios para las mismas.
+ 
+'

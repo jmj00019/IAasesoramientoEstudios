@@ -1,0 +1,263 @@
+'
+
+
+Maquinas
+  térmicas y producción de electricidad. Escenario
+  energético. Energía nuclear. Energía solar.
+  Energía Eólica. Otras energías renovables.
+  Impacto Ambiental de la generación y uso de la
+  energía. Auditoría, eficiencia y ahorro
+  energético.
+
+
+
+BLOQUE TEMÁTICO I: EL ESCENARIO ENERGÉTICO
+  Y LAS ENERGÍAS RENOVABLES
+
+
+ 
+
+
+Tema 1. Introducción
+
+Conceptos de trabajo, energía y potencia.
+Formas de la energía.
+Unidades de energía.
+Transformaciones de la energía.
+Energías renovables y no renovables.
+La energía de los combustibles fósiles.
+ 
+
+Tema. 2.- Máquinas térmicas y
+producción de electricidad.
+Conceptos termodinámicos.
+Máquinas térmicas.
+Contaminación térmica
+Contaminación atmosférica
+Generación y distribución de la electricidad
+Cogeneración.
+Generación limpia con combustibles fósiles
+
+Relación de problemas  nº 1
+
+
+Práctica 1. El motor de Stirling
+
+ 
+
+TEMA. 3.- Energía nuclear.
+
+Introducción.
+La energía de fisión.
+Reactores nucleares.
+El ciclo del combustible nuclear.
+La energía nuclear en España.
+La energía de fusión: proyecto ITER.
+
+Tema de debate: el futuro de la energía
+  nuclear
+
+ 
+
+Tema 4. El escenario energético
+
+Población, crecimiento económico y
+energía.
+El escenario en el mundo, Europa y España
+Energía y cambio climático
+Informes del IPCC
+Mitigación del cambio climático: el protocolo de
+Kioto y el acuerdo de París.
+
+Relación de problemas recopilatorios nº
+  2
+
+
+ 
+
+
+ 
+
+
+Tema 5. Desarrollo sostenible y energías
+  renovables 
+
+Estructura y funcionamiento del sistema eléctrico en
+España
+El sistema eléctrico y las energías renovables
+Problemáticas en el desarrollo de las energías
+renovables
+Las energías renovables en España.
+Marco regulador: incentivos a las renovables.
+El Plan Nacional de Energías Renovables
+
+Lecturas: Hacia escenarios 100% renovables.
+ 
+
+BLOQUE TEMÁTICO II: ENERGÍA SOLAR Y
+  ENERGÍA EÓLICA
+
+
+ 
+
+
+Tema 6. El recurso solar
+
+Relaciones astronómicas. Diagrama polar.
+Irradiancia solar extraterrestre en superficies horizontales e
+inclinadas.
+Interacción de la radiación con la
+atmósfera. Modelización de las componentes de la
+radiación.
+Instrumentación.
+Estimación de la radiación solar en superficies
+inclinadas.
+Mapas del recurso solar
+
+Trabajo 1. Evaluación del recurso solar
+
+
+ 
+
+
+TEMA. 7 Energía solar. 
+
+Energía solar pasiva.
+Energía solar fotovoltaica y fotovoltaica de
+concentración
+Energía solar térmica de baja temperatura.
+Energía termoeléctrica.
+Aspectos medioambientales y económicos de la
+energía solar.
+
+Relación de problemas Nº 3
+
+
+Práctica 2. Energía solar
+  fotovoltaica
+
+
+Práctica 3. Energía solar de baja
+  temperatura (ACS)
+
+ 
+ 
+
+TEMA. 8.- El recurso eólico.
+
+Escalas de variación del
+  viento
+
+
+Turbulencia
+  atmosférica
+
+
+El viento a escala global,
+  regional y local.
+
+
+El viento en la capa límite
+  planetaria
+
+
+Variación del viento con la
+  altura. 
+
+
+Medición del recurso
+  eólico
+
+
+Análisis y
+  modelización de las medidas de viento
+
+
+Caracterización del recurso
+  eólico
+
+
+Mapas del recurso
+  eólico
+
+
+El viento a microescala.
+
+
+El recurso eólico en el
+  mar.
+
+ 
+
+Tema 9. Energía eólica.
+
+
+Conversión de la
+  energía del viento
+
+
+Aerogeneradores
+
+
+Caracterización del
+  potencial eólico
+
+
+Parques eólicos
+
+
+Energía
+  minieólica
+
+
+Parques eólicos
+  marinos
+
+
+Aspectos medioambientales y
+  económicos de la energía eólica.
+
+
+Relación de problemas Nº 3
+
+
+Trabajo 2. Energía eólica
+
+
+ 
+
+
+Tema 10. Otras energías renovables
+
+Energía de la biomasa
+Energía hidráulica
+Energía de las olas y las mareas
+Energía geotérmica
+Pilas de combustible y almacenamiento de electricidad.
+
+ 
+
+
+Tema 11. Ahorro energético
+
+Fundamentos de transferencia de calor
+Conceptos de arquitectura bioclimática
+Ahorro en el hogar: el código técnico de
+edificación.
+Ahorro en la industria.
+Ahorro en el transporte.
+
+Tema de debate: educación para el ahorro
+  energético.
+
+
+Práctica 4. Transmisión de
+calor en distintos materiales. Estudio de la eficiencia
+energética de una casa.
+
+ 
+
+
+ 
+
+'

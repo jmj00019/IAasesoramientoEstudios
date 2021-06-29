@@ -1,0 +1,68 @@
+'
+
+Bacterias ácido-lácticas: características,
+diversidad, metabolismo, genómica, interés
+biotecnológico en la producción de alimentos.
+Cultivos de arranque. Microbiología de los alimentos y
+bebidas fermentados en función de las materias primas
+empleadas. Fermentaciones alcalinas. Conservantes tradicionales.
+Bacteriocinas y otros antimicrobianos naturales para el desarrollo
+de bioconservantes. Potencial de los antimicrobianos naturales en
+el control de biopelículas. Inactivación de
+microorganismos mediante alta presión hidrostática y
+otros métodos físicos no térmicos.
+Tecnología de barreras.
+
+
+En
+  una primera parte se estudian en profundidad los principales
+  grupos de bacterias lácticas y las principales rutas
+  metabólicas relacionadas con la fermentación de los
+  alimentos. Se analiza la contribución de los avances en
+  genómica y metabolómica al conocimiento de la
+  fisiología y metabolismo de este grupo bacteriano.
+  Seguidamente se analiza su contribución  desde el
+  punto de vista tecnológico en la fermentación de
+  los alimentos, diferenciando las fermentaciones
+  espontáneas y el uso de cultivos de arranque.
+   
+
+
+ 
+
+
+A
+  continuación se estudian los procesos de
+  fermentación para los diferentes tipos de alimentos,
+  clasificados por categorías: cárnicos, pescado,
+  lácteos, y vegetales. Se explican los alimentos
+  fermentados más comunes así como los alimentos
+  fermentados elaborados de forma tradicional a pequeña
+  escala. Para cada grupo se analizan los principales
+  microorganismos que intervienen en la fermentación, las
+  transformaciones que llevan a cabo en el alimento, y la
+  dinámica de las poblaciones microbianas durante la
+  fermentación. Se analiza también en este punto
+  cómo los microorganismos patógenos o alterantes
+  presentes en las materias primas son desplazados por la
+  microbiota láctica. Se estudian también las
+  fermentaciones alcalinas y las fermentaciones alcohólicas,
+  haciendo hincapié en las peculiaridades de estas
+  fermentaciones.
+
+
+ 
+
+
+En
+  la tercera parte de la asignatura se analizan de forma comparada
+  los diferentes métodos para la conservación de
+  alimentos, haciendo hincapié en los métodos
+  biológicos basados en el amensalismo, la
+  utilización de sustancias antimicrobianas de origen
+  natural, y el uso combinado de diferentes antimicrobianos en la
+  tecnología de barreras. Se explica el fundamento de las
+  altas presiones, y se realiza un ejercicio práctico con
+  alimentos.
+
+'

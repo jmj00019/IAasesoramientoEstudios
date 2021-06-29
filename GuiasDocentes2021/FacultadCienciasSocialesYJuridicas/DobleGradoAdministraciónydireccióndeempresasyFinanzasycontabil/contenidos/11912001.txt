@@ -1,0 +1,258 @@
+'
+
+
+Teoría de la Contabilidad de Costes.
+Metodología para el cálculo de costes.
+Modelos de cálculo de costes.
+Presupuestos y análisis de desviaciones.
+Utilidad de la contabilidad de gestión.
+
+
+
+ 
+Tema
+1. LA CONTABILIDAD DE COSTES: ORIGEN Y  
+ 
+PLANTEAMIENTOS  ACTUALES
+
+1.
+  Evolución histórica.
+
+
+2.
+  La Contabilidad de Costes y la actividad productiva.
+
+
+3.
+  Contabilidad de Costes y Contabilidad Financiera:
+  Principales
+
+
+   
+  diferencias.
+
+
+4.
+  Definición y objetivos de la Contabilidad de
+  Costes.
+
+
+5.
+  Planteamientos actuales de la Contabilidad de Costes.
+
+
+ 
+   
+
+
+TEMA 
+  2. FUNDAMENTOS DE LA CONTABILIDAD DE COSTES.
+
+
+1.
+  Conceptos fundamentales.
+
+
+2.
+  Diferentes aproximaciones al concepto básico de
+  coste.
+
+
+3.
+  Tipología de los costes.
+
+
+4.
+  Teoría general de la asignación de costes:
+
+
+    
+  4.1. Problemática de la asignación de
+  costes.
+
+
+    
+  4.2. Pautas fundamentales de la asignación de
+  costes.
+
+
+       
+  4.2.1. El enfoque de asignación de costes
+  completos.
+
+
+       
+  4.2.1. El enfoque de asignación de costes
+  variables.
+
+
+       
+  4.2.3. El enfoque de asignación de imputación
+  racional.
+
+
+5.
+  Etapas fundamentales del proceso de cálculo de
+  costes.
+
+
+ 
+
+
+TEMA
+3. RELACION DE LA CONTABILIDAD GENERAL Y LA 
+CONTABILIDAD
+DE   COSTES.
+
+1.
+  El proceso contable en Contabilidad General.
+
+
+2.
+  Situación de partida del proceso contable
+  analítico.
+
+
+3.
+Métodos de relación de la Contabilidad General y la
+Contabilidad de 
+Costes.
+
+4.
+Profundización en el método dualista: las cuentas
+reflejas y el método 
+dualista
+abreviado.
+
+  
+   
+
+
+TEMA
+  4. EL MODELO DE COSTES COMPLETOS.
+
+
+1.
+  Fundamentación conceptual y estructura general del Modelo
+  de Costes Completos (Full-Costing).
+
+
+2.
+  Cuadro contable básico de la Contabilidad de
+  Costes.
+
+
+3.
+  Las diferencias de incorporación y los elementos y cargas
+  supletorias.
+
+
+4.
+  Los centros de actividad: clases de costes y unidades de
+  obra.
+
+
+5.
+Los centros de costes indirectos: cuadro de reparto y cuadro
+de
+imputación.
+
+        
+
+
+TEMA
+  5. EL MODELO DE  COSTES VARIABLES.
+
+
+1.
+  Fundamentos del Modelo de Coste Variable (Direct Costing).
+
+
+2.
+  El Modelo de Coste Variable y el cuadro contable
+  básico.
+
+
+3.
+Los resultados analíticos en el Modelo de Coste Variable
+como intrumento de 
+gestión.
+
+4.
+  Visión completa del proceso del Modelo de Coste Variable
+  simplificado.
+
+
+ 
+
+
+TEMA
+  6. MODELOS DE COSTES PREDETERMINADOS.
+
+
+1.
+Los modelos de costes predeterminados como instrumento de
+la 
+gestión
+de la empresa.
+
+2.
+  Consideraciones generales relativas al coste estándar:
+  concepto,
+
+
+   
+  clases y aplicaciones.
+
+
+3.
+  Requisitos para el establecimiento de los
+  estándares.
+
+
+4.
+  La determinación del coste estándar de
+  producción.
+
+
+5.
+  Cálculo de desviaciones en un modelo de costes
+  estándar.
+
+
+ 
+
+
+ TEMA
+  7. COSTES RELEVANTES PARA LA TOMA DE DECISIONES.
+
+
+1.
+  La información relevante para la toma de
+  decisiones.
+
+
+2.
+  La decisión de dejar o no de fabricar un producto.
+
+
+3.
+  La aceptación o no de una sección de la
+  empresa.
+
+
+4.
+  El cierre o no de una sección de la empresa.
+
+
+5.
+  La alternativa de comprar o fabricar.
+
+
+6.
+  La asignación de recursos escasos.
+
+
+ 
+
+'

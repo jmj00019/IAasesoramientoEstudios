@@ -1,0 +1,38 @@
+'
+
+Fundamentos de la ingeniería asistida por ordenador (CAE)
+Fundamentos del método de los elementos finitos
+Empleo de herramientas CAE en cálculo
+mecánico.
+
+Introducción a la modelización de elementos
+mecánicos para su entrada como datos en un software de
+diseño mecánico.
+Análisis de los resultados de un cálculo
+resultante de un software de diseño mecánico.
+Correlación entre los resultados analíticos y los
+obtenidos con los métodos avanzados de diseño
+mecánico.
+Ventajas del uso de los métodos avanzados de
+diseño mecánico.
+Tema 1: Fundamentos del diseño asistido por
+ordenador.
+Tema 2: Fundamentos del método de los elementos
+finitos.
+Tema 3: Interpretación física del método de
+los elementos finitos. Análisis de estructuras de
+barras.
+Tema 4: Interpretación matemática del
+método de los elementos finitos. Formulación
+variacional.
+Tema 5: Formulación isoparamétrica de elementos
+planos.
+Tema 6: Formulación de elementos placa.
+Tema 7: Formulación de elementos tridimensionales.
+Tema 8: Casos especiales
+Práctica 1: Elementos unidimensionales
+Prácticas 2 y 3: Elemenetos planos bidimensionales
+Prácticas 4 y 5: Elementos tridimensionales
+Práctica 6: Introducción al análisis de
+vibraciones.
+'

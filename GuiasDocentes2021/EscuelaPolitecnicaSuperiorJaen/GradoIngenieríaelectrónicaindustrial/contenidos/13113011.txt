@@ -1,0 +1,41 @@
+'
+
+Revisión de las distintas configuraciones de un sistema
+de adquisición de datos. Estudio avanzado de sensores:
+clasificación, caracterización y criterios de
+selección de sensores. Análisis de hojas de
+características de sensores comerciales. Medida y
+acondicionamiento de distintos parámetros físicos.
+Criterios y técnicas avanzados de acondicionamiento,
+filtrado, muestreo, cuantificación y codificación.
+Ruido e interferencias en los sistemas de medida.
+Interconexión del sistema de medida. Estudio de Interfaces.
+Programación gráfica e instrumentación
+virtual. Programación, configuración y manejo de
+tarjetas de adquisición de datos.
+
+
+PROGRAMA DE TEORÍA
+
+Capítulo 1: Introducción a los sistemas de
+adquisición de datos.
+Capítulo 2: Señales y sistemas. 2.1. Tipos de
+señales. 2.2. Operaciones con señales. 2.3. Tipos de
+sistemas.
+Capítulo 3: Medida y acondicionamiento de las
+señales de entrada.
+3.1. Clasificación de sensores
+3.2. Caracterización y criterios de selección
+de sensores.
+3.3. Diseño de sistemas de medida
+Capítulo 4: Interconexión del sistema de medida.
+Interfaces.
+ 
+
+PROGRAMA DE PRÁCTICAS
+
+Bloque I: Programación gráfica
+e instrumentación virtual.
+Bloque II: Configurar y manejar un de adquisición de
+datos
+'

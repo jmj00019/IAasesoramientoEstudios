@@ -1,0 +1,261 @@
+'
+
+Introducción a los Sistemas de Producción y
+Fabricación
+Procesos de Fabricación
+Introducción a los Procesos de Fabricación
+Mecánica
+Aplicación de los Sistemas de automatización en
+los procesos de fabricación
+Fundamentos de la Fabricación Asistida por Ordenador
+(CAM) y de la programación de máquinas herramientas
+mediante control numérico.
+
+
+
+
+Contenidos
+  teóricos
+
+
+
+
+Bloque
+I
+
+:
+Introducción a los Procesos de Conformado.
+
+
+Tema 1.1.
+    Introducción a los procesos de fabricación
+
+
+Tema 1.2.
+    Integración entre diseño y
+    fabricación.
+
+
+
+
+
+Bloque
+II
+
+:
+Procesos de Conformado por Fundición y
+Moldeo.
+
+
+Tema 2.1:
+    Introducción a la fundición.
+
+
+Tema 2.2.
+    Moldeo en arena.
+
+
+Tema 2.3.
+    Fundición en moldes desechables y permanentes.
+
+
+
+
+
+Bloque
+III
+
+:
+Procesos de Conformado por Deformación
+Plástica.
+
+
+Tema 3.1.
+    Introducción a los procesos de conformado por
+    deformación plástica.
+
+
+Tema 3.2.
+    Procesos de conformado por deformación
+    plástica.
+
+
+Tema 3.3.
+    Procesos de conformado de chapa.
+
+
+
+
+
+Bloque
+IV
+
+:
+Procesos de Conformado por Arranque de Material.
+
+
+Tema 4.1.
+    Teoría del mecanizado.
+
+
+Tema 4.2.
+    Procesos de mecanizado convencionales
+
+
+Tema 4.3.
+    Procesos de mecanizado no convencionales.
+
+
+
+ 
+  
+  
+Bloque V
+: Otros procesos de conformado.
+
+
+
+Tema 5.1.
+    Pulvimetalurgia
+
+
+Tema 5.2.
+    Conformado de polímeros
+
+
+Tema 5.3.
+    Fabricación aditiva
+
+
+Tema 5.4.
+    Conformado de materiales compuestos
+
+
+
+
+
+Bloque
+VI
+
+:
+Procesos de Unión.
+
+
+Tema 6.1.
+    Introducción a los procesos de unión
+
+
+Tema 6.2.
+    Procesos de soldadura
+
+
+
+
+
+Bloque
+VII
+
+:
+Otros procesos de fabricación.
+
+
+Tema 7.1.
+    Procesos de recubrimiento de superficies
+
+
+Tema 7.2.
+    Procesos de fabricación de dispositivos
+    electrónicos
+
+
+
+
+
+Contenidos
+  prácticos
+
+
+
+
+Práctica
+1:
+
+Metrología
+
+Se
+  pretende familiarizar al alumno con el entorno de trabajo en un
+  laboratorio de Metrología y que adquiriera los
+  conocimientos necesarios para el manejo de instrumentos de medida
+  directa de longitudes (Pie de Rey y Micrómetro) y de
+  medida indirecta de longitudes (Reloj comparador) y con
+  el uso de patrones de longitud.
+
+
+
+
+Práctica
+2:
+
+Mecanizado.
+
+Se
+  pretende familiarizar al alumno con las
+  máquinas-herramienta más usuales en un taller de
+  mecanizado (torno paralelo, fresadora y taladradora), así
+  como identificar los movimientos principales de corte en este
+  tipo de máquinas-herramienta, las herramientas más
+  usuales en este tipo de procesos de mecanizado (material y
+  geometría), utillaje utilizado y principales operaciones
+  de corte ejecutadas por estas MHTAs.
+
+
+
+
+Práctica
+3:
+
+Simulación
+CNC.
+
+Se
+  pretende familiarizar al alumno con el lenguaje de
+  programación manual de CNC en Código ISO y sus
+  funciones básicas, de forma que el alumno sea capaz de
+  programar el mecanizado de una pieza sencilla y realizar su
+  simulación previa mediante software de simulación
+  como CNC SimulatorPro, WinUnisoft o similar.
+
+
+
+
+Práctica
+4:
+
+Conformado
+de Polímeros.
+
+Se
+  pretende familiarizar al alumno con los principales
+  procedimientos de conformado de polímeros usados
+  industrialmente, particularizando en la aplicación de
+  operaciones de termoconformado para polímeros
+  termoplásticos.
+
+
+
+
+Práctica
+5:
+
+Soldadura
+
+Se
+  pretende familiarizar al alumno con los principales
+  procedimientos y equipos de soldadura que se utilizan a nivel
+  industrial. Se realizará un proceso de soldadura blanda
+  sobre un conjunto de accesorios de cobre para tuberías de
+  ACS, además de una demostración del funcionamiento
+  de los equipos de soldadura oxiacetilénica, MIG/MAG y
+  soldadura por arco eléctrico.
+
+'

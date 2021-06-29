@@ -1,0 +1,146 @@
+'
+
+- Estructura atómica
+- Tabla periódica de los elementos. Propiedades
+periódicas
+- Nomenclatura química: inorgánica
+- Estequiometría
+- El enlace químico: teorías y tipos de enlace
+- Estados de agregación de la materia
+- Disoluciones
+
+
+Tema 1. Química: ciencia de la materia y sus
+  cambios.
+
+Química: una ciencia en tres
+niveles. El método científico. Las ramas de la
+Química. Química y sociedad. La materia,
+clasificación y propiedades. Sustancias puras y mezclas.
+Cambios físicos y químicos. Propiedades intensivas y
+extensivas. Medida de las propiedades de la materia. Unidades SI.
+Cifras significativas.
+
+Tema 2. Átomos y elementos.
+
+La teoría atómica.
+Estructura del átomo, partículas subatómicas.
+Elementos químicos. Número atómico,
+número másico e isótopos. Organización
+de los elementos. Masa atómica. Número de Avogadro y
+concepto de mol.
+
+Tema 3. Compuestos químicos y nomenclatura
+  química inorgánica.
+
+Moléculas e iones.
+Fórmulas químicas: moleculares, empíricas y de
+compuestos iónicos. Determinación de las
+fórmulas químicas y composición porcentual de
+la masa. Nomenclatura de los compuestos inorgánicos.
+
+Tema 4. Estados de agregación de la
+  materia.
+
+Estados de la materia. Estado
+gaseoso. Naturaleza de los gases: observaciones, presión y
+su medida. Leyes de los gases: Ley de Boyle y Ley de Charles.
+Hipótesis de Avogadro. Ecuación de los gases ideales.
+Mezclas de gases: Ley de Dalton. Movimiento molecular:
+Efusión y difusión. Gases reales. Estado
+líquido y sus propiedades. Estado sólido.
+Transiciones de fases.
+
+Tema 5. Mezclas y soluciones.
+
+Clasificación de mezclas.
+Concentración de las disoluciones. Solubilidad. Efecto de la
+presión y temperatura sobre la solubilidad. Presión y
+solubilidad de los gases. Propiedades coligativas: Presión
+de vapor de las disoluciones. Puntos de ebullición y
+congelación de las disoluciones. Presión
+osmótica. Disoluciones ideales.
+
+Tema 6. Reacciones químicas y
+estequiometría.
+Las reacciones químicas y la
+ecuación química. Interpretación de los
+coeficientes estequiométricos. Concepto de reactivo
+limitante. Rendimiento de las reacciones. Algunos tipos de
+reacciones químicas.
+
+Tema 7.- Estructura electrónica de los
+  átomos I: modelo atómico de Bohr.
+
+Radiación
+electromagnética: Frecuencia, longitud de onda y velocidad,
+y el espectro visible. Espectros atómicos: Ecuación
+de Rydberg y series espectrales para el átomo de
+hidrógeno. Teoría cuántica: Radiación
+del cuerpo negro y efecto fotoeléctrico. El átomo de
+Bohr.
+
+Tema 8.- Estructura electrónica de los
+  átomos II: modelo atómico
+  mecanocuántico.
+
+Dualidad onda corpúsculo y
+Principio de indeterminación. Mecánica
+cuántica ondulatoria: Ondas estacionarias, funciones de
+ondas y ecuación de Schrödinger. Números
+cuánticos y orbitales atómicos: Asignación de
+los números cuánticos y capas y subcapas principales.
+El cuarto número cuántico: El espín del
+electrón. Átomos polielectrónicos y
+configuraciones electrónicas de los elementos: Reglas,
+representaciones y principio de construcción progresiva
+(aufbau).
+
+Tema 9.- La Tabla Periódica y las propiedades
+  periódicas de los elementos.
+
+La tabla periódica de los
+elementos. Configuraciones electrónicas y tabla
+periódica. Metales, no metales y sus iones: Gases nobles,
+iones metálicos y no metálicos de los grupos
+principales. El tamaño de los átomos y de los iones:
+Radios atómicos e iónicos y su variación a lo
+largo de la tabla periódica. Energía de
+Ionización y afinidad electrónica. Propiedades
+magnéticas.
+
+Tema 10.- El enlace en Química I: conceptos
+  básicos.
+
+Tipos de enlace en Química.
+El enlace iónico: Energía de una red cristalina
+iónica, tipos de redes iónicas y propiedades de las
+sustancias que presentan enlaces iónicos. Teoría de
+Lewis del enlace covalente y estructuras de Lewis de las
+moléculas. Enlaces covalentes polares y electronegatividad.
+Resonancia. Energías y longitudes de enlace. La forma de las
+moléculas y la teoría de la repulsión de los
+pares de electrones de valencia.
+
+Tema 11.- El enlace en Química II: conceptos
+  mecanocuánticos del enlace covalente.
+
+Teoría del enlace de
+valencia (TEV): Introducción al método del enlace de
+valencia, enlaces covalentes múltiples e hibridación
+de orbitales atómicos. Teoría de orbitales
+moleculares (TOM): Introducción al método de los
+orbitales moleculares, diagramas de orbitales moleculares y
+deslocalización electrónica. Propiedades de las
+sustancias que presentan enlaces covalentes.
+
+Tema 12: El enlace en Química III: el enlace
+  metálico y los enlaces intermoleculares.
+
+El enlace metálico:
+Teoría de bandas, redes metálicas y propiedades de
+las sustancias que presentan enlaces metálicos. Enlaces
+intermoleculares: Fuerzas de Van der Waals, enlaces de
+hidrógeno y estados de agregación de la materia.
+ 
+'

@@ -1,0 +1,2018 @@
+'
+
+Introducción: Motivación
+y ejemplos. Tratamiento matemático de los problemas
+termofluidodinámicos. Metodología de la
+simulación numérica de flujos industriales.
+Ecuaciones de la Mecánica de Fluidos: Repaso de las
+leyes de conservación en forma diferencial e integral.
+Flujo ideal y ecuaciones de la capa límite.
+Clasificación de las ecuaciones en derivadas parciales.
+Condiciones de contorno. Transformaciones de coordenadas
+específicas en mecánica de fluidos computacional.
+Técnicas de discretización: Mallas
+computacionales. Diferencias finitas. Discretización
+conservativa. Volúmenes finitos. Elementos finitos y
+métodos espectrales.
+Esquemas numéricos para ecuaciones parabólicas.
+Error de truncamiento local y consistencia del esquema
+numérico. Estabilidad y convergencia de la solución.
+Técnicas de resolución de sistemas de
+ecuaciones algebraicas: Caso concreto de aplicación a la
+ecuación de Navier Stokes. Introducción al
+manejo del programa comercial GAMBIT para la generación
+de mallas: Mallas estructuradas
+
+
+
+
+
+
+
+
+CONTENIDOS
+          DESARROLLADOS
+
+
+Sin
+          pérdida de generalidad, se proponen los contenidos
+          desarrollados descritos a continuación.
+          Podrán reordenarse de manera apropiada para
+          adaptarse al calendario que cambia de un curso a otro por
+          motivos ajenos al Docente.
+
+
+
+BLOQUE
+          TEMÁTICO I: INTRODUCCIÓN
+
+
+
+
+
+
+
+Resumen:
+En
+        el primer bloque temático se exponen los contenidos
+        de la guía docente de la asignatura
+        Simulación de Flujos Industriales, su temario,
+        bibliografía básica y recomendada,
+        cronograma, sistema de evaluación y el horario de
+        tutorías del profesor.
+
+
+
+
+
+
+Tema
+          I.1
+
+
+
+
+
+Clase
+          de presentación (3T, 1TC)
+
+
+
+
+
+
+T1
+
+
+
+
+Descripción
+          de la guía docente, bibliografía
+          básica y otras lecturas recomendadas, sistema de
+          evaluación, temario y cronograma.
+
+
+
+
+
+
+T2
+          y T3
+
+
+
+
+Introducción
+          y motivación. Ejemplos visuales de simulaciones de
+          flujos industriales. Proceso de simulación de
+          problemas termofluidodinámicos (preprocesado,
+          procesado y postprocesado), familias de métodos
+          numéricos, ejemplos de mallas y software
+          disponible.
+
+
+
+
+
+
+TC1
+
+
+
+
+Programación
+          en Matlab de varias fórmulas en diferencias
+          finitas para la aproximación de la derivada
+          primera conocida el valor de la función.
+          Cálculo del error numérico de la
+          aproximación.
+
+
+
+
+
+
+
+Referencias
+        básicas
+.
+        T2-T3: Fernández-Oro
+
+1
+(cap.
+        1); TC1: Leveque
+
+2
+(Introducción
+        a cap. 1)
+
+
+
+
+
+
+Referencias
+        complementarias
+.
+T2-T3:
+        Tu, Yeoh & Liu
+
+3
+(cap.
+        1); Anderson
+
+4
+(cap.
+        1)
+
+
+
+
+
+
+BLOQUE
+          TEMÁTICO II: DINÁMICA Y ECUACIONES
+          GENERALES
+
+
+
+
+
+
+
+Resumen:
+En
+        el segundo bloque temático se estudian las leyes de
+        conservación en forma diferencial y se enuncia la
+        ley constitutiva para fluidos newtonianos, o ley de
+        Navier-Poisson. Se establecen las ecuaciones de
+        conservación de la masa, cantidad de movimiento y de
+        la energía en forma diferencial. Las dos horas
+        prácticas de este bloque temático se
+        invertirán en la resolución de problemas que
+        hagan uso de las ecuaciones de conservación en forma
+        diferencial (soluciones exactas de las ecuaciones de
+        Navier-Stokes). El alumno debe darse cuenta que, en este
+        punto del curso, ya cuenta con las ecuaciones necesarias
+        para resolver cualquier problema que se le presente, si
+        bien la resolución exacta de dichas ecuaciones de
+        forma analítica es solo posible en casos muy
+        sencillos, siendo de gran interés el uso de la
+        simulación numérica para la obtención
+        de una solución aproximada del problema. Es
+        importante que el alumno se familiarice con las ecuaciones
+        de conservación en distintos sistemas de
+        coordenadas, y se adiestre en la simplificación de
+        éstas haciendo uso de las hipótesis
+        pertinentes al flujo en cuestión. En paralelo, se
+        realizarán dos tutorías colectivas donde se
+        introducirán diversos conceptos sobre el
+        método en diferencias finitas.
+
+
+
+
+
+
+Tema
+          II.1
+
+
+
+
+
+Ecuación
+          de continuidad (1T)
+
+
+
+
+
+
+T4
+
+
+
+
+Deducción
+          de la ecuación de conservación de la masa a
+          partir de la ecuación de conservación
+          integral y de los teoremas de Gauss y Reynolds. Caso
+          particular de líquido perfecto. Flujo
+          bidimensional en coordenadas cartesianas.
+
+
+
+
+
+
+
+Tema
+          II.2
+
+
+
+
+
+Ecuación
+          de balance de la cantidad de movimiento (1T, 1P,
+          1TC)
+
+
+
+
+
+
+T5
+
+
+
+
+Deducción
+          de la ecuación de balance de la cantidad de
+          movimiento a partir de la ecuación de
+          conservación integral y de los teoremas de Gauss y
+          Reynolds. Caso particular de líquido perfecto.
+          Flujo bidimensional en coordenadas cartesianas.
+
+
+
+
+
+
+P1
+
+
+
+
+Soluciones
+          exactas (I): se derivarán las soluciones exactas
+          para flujos estacionarios y unidimensionales dominados
+          por la viscosidad en coordenadas cartesianas (ej.
+          corriente de Couette y Poiseuille). También se
+          introducirá el uso de coordenadas
+          cilíndricas para el análisis de flujos en
+          conductos circulares.
+
+
+
+
+
+
+TC2
+
+
+
+
+Haciendo
+          uso de la serie de Taylor de una función de una
+          sola variable independiente, se desea calcular la
+          expresión analítica del error de las
+          fórmulas en diferencias finitas empleadas en la
+          tutoría colectiva 1. Se comparará el
+          resultado analítico con el numérico
+          obtenido anteriormente.
+
+
+
+
+
+
+
+Tema
+          II.3
+
+
+
+
+
+Ecuación
+          de la energía (1T)
+
+
+
+
+
+
+T6
+
+
+
+
+Deducción
+          de la ecuación de la energía total, interna
+          y mecánica.
+
+
+
+
+
+
+
+Tema
+          II.4
+
+
+
+
+
+Síntesis
+          (1T, 1P, 1TC)
+
+
+
+
+
+
+T7
+
+
+
+
+Resumen
+          de las ecuaciones de conservación. Leyes de
+          cierre: transporte de calor por conducción (ley de
+          Fourier) y flujos Newtonianos (ley de
+          Navier-Poisson).
+
+
+
+
+
+
+P2
+
+
+
+
+Soluciones
+          exactas (II): se derivarán las soluciones exactas
+          para flujos transitorios y unidimensionales dominados por
+          la viscosidad en coordenadas cartesianas (ej. problema de
+          Stokes y corriente de Stokes). También se
+          introducirá el uso de coordenadas
+          cilíndricas para al análisis de flujos en
+          conductos circulares (ej. difusión de un
+          torbellino potencial).
+
+
+
+
+
+
+TC3
+
+
+
+
+Se
+          introduce al alumno al método en diferencias
+          finitas para resolver un problema de contorno.
+          Así, se emplearán las fórmulas
+          vistas en las tutorías colectivas anteriores para
+          ilustrar el proceso de formulación de un
+          método numérico y de su
+          implementación en Matlab para el caso concreto de
+          un problema de contorno. Posteriormente, la
+          metodología será formalizada en las
+          sesiones teóricas.
+
+
+
+
+
+
+
+Referencias
+        básicas
+.
+        T4-T7: Fernández-Feria
+
+5
+(parte
+        III, cap. 6-8 y 10), Barrero-Ripoll y
+        Pérez-Savorid
+
+6
+(cap.
+        5), Sánchez-Pérez y
+        Martínez-Bazán
+
+7
+(cap.
+        3-6); P1-P2: Fernández-Feria
+
+5
+(parte
+        V, cap. 14); TC2-TC3: Leveque
+
+2
+(sec.
+        1.1, 2.2 y 2.4).
+
+
+
+
+
+
+Referencias
+        complementarias
+.
+        T4-T7: Crespo-Martínez
+
+8
+(cap.
+        9, 11-12 y 14), Iglesias-Estradé y col.
+
+9
+(cap.
+        4-7 y apéndice A); P1-P2:
+        Martínez-Bazán, Iglesias-Estradé y
+        Sánchez-Pérez
+
+10
+(cap.
+        1)
+;
+        TC2-TC3: Anderson
+
+4
+(parte
+        II, cap. 4).
+
+
+
+
+
+
+BLOQUE
+          TEMÁTICO III: FLUJOS IDEALES Y TEORÍA DE LA
+          CAPA LÍMITE
+
+
+
+
+
+
+
+Resumen:
+El
+        tercer bloque temático se dedica al estudio de dos
+        casos de especial relevancia en la mecánica de
+        fluidos computacional. La solución de flujo ideal e
+        irrotacional sirve para inicializar el campo de
+        presión y velocidad lejos de los contornos
+        sólidos, mientras que la teoría de capa
+        límite puede ser empleada para parchear la
+        solución ideal sobre los mismos. Así, en
+        primer lugar, se estudian flujos donde los efectos de la
+        viscosidad y de la conducción de calor son
+        despreciables. Se comienzan estudiando las ecuaciones de
+        Euler. Posteriormente se deduce la ecuación de
+        Bernoulli para el caso de flujos incompresibles y
+        estacionarios proyectando la ecuación de cantidad de
+        movimiento de Euler sobre la línea de corriente.
+        Como primera aplicación se plantean las ecuaciones
+        de movimientos irrotacionales que son resueltos haciendo
+        uso de la función potencial. Tras haberse
+        introducido los movimientos de fluidos ideales, se entrena
+        al alumno en el tratamiento de las capas delgadas cercanas
+        a las paredes, donde dichos efectos deben retenerse, siendo
+        además cruciales para entender la
+        configuración general del flujo a altos
+        números de Reynolds. Se centra el estudio en las
+        capas límites laminares, dejando la
+        consideración del caso turbulento para más
+        adelante. Se pretende que el alumno se familiarice con el
+        concepto de capa límite, sus propiedades y
+        ecuaciones de conservación, fijando la
+        atención en los conceptos físicos más
+        que en el aparato matemático.
+
+
+
+
+
+
+Tema
+          III.1
+
+
+
+
+
+Introducción
+          a los flujos ideales (2T, 1TC)
+
+
+
+
+
+
+T8
+
+
+
+
+Ecuaciones
+          de Euler. Condiciones iniciales y de contorno.
+          Ecuación de Euler-Bernoulli.
+
+
+
+
+
+
+T9
+
+
+
+
+Movimiento
+          irrotacional y bidimensional de un fluido incompresible.
+          Movimientos potenciales elementales.
+
+
+
+
+
+
+TC4
+
+
+
+
+En
+          esta tutoría colectiva se propondrán varios
+          ejemplos de superposición de algunos de los flujos
+          potenciales elementales que dan lugar a flujos
+          potenciales también simples y de interés
+          práctico (ej. semi-óvalo u óvalo de
+          Rankine y cilindro potencial). El alumno deberá
+          visualizar las líneas de corriente y campo de
+          velocidad resultante del mismo, localizando (si existen)
+          los puntos de remanso.
+
+
+
+
+
+
+
+Tema
+          III.2
+
+
+
+
+
+Teoría
+          de la capa límite (4T, 1TC)
+
+
+
+
+
+
+T10
+
+
+
+
+Concepto
+          de capa límite. Ecuaciones de la capa
+          límite bidimensional de un fluido incompresible:
+          condiciones de contorno. Desprendimiento de la capa
+          límite.
+
+
+
+
+
+
+T11
+
+
+
+
+Capa
+          límite laminar sobre una placa plana:
+          solución de Blasius. Espesor de desplazamiento,
+          espesor de cantidad de movimiento y esfuerzo sobre la
+          placa.
+
+
+
+
+
+
+T12
+
+
+
+
+Ecuación
+          integral de Von Kármán.
+
+
+
+
+
+
+T13
+
+
+
+
+Resolución
+          aproximada de la capa límite laminar sobre una
+          placa plana usando la ecuación integral de Von
+          Karman y distintos perfiles de velocidad en la capa
+          límite. Verificación con la solución
+          de Blasius.
+
+
+
+
+
+
+TC5
+
+
+
+
+Se
+          plantea al alumno un problema de la colección de
+          exámenes, en la temática de capa
+          límite. Usando Foros y Aclaración de Dudas
+          se asistirá al alumno en la resolución del
+          problema propuesto.
+
+
+
+
+
+
+
+Referencias
+        básicas
+.
+        T8-T9: Fernández-Feria
+
+5
+(parte
+        VI, sec. 19.1-19.3, 21.1-21.3 y 21.6); Gordillo y
+        Riboux
+
+11
+(cap.
+        1-2); T10-T13: Crespo-Martínez
+
+8
+(sec.
+        30.1-30.7), Martínez-Bazán,
+        Iglesias-Estradé y
+        Sánchez-Pérez
+
+10
+(cap.
+        5); TC4: Fernández-Feria
+
+5
+(parte
+        VI, sec. 21.6).
+
+
+
+
+
+
+Referencias
+        complementarias
+.
+        T8-T13: Barrero-Ripoll y Pérez-Savorid
+
+6
+(cap.
+        10, 13 y 14).
+
+
+
+
+
+
+BLOQUE
+          TEMÁTICO IV: ECUACIONES EN DERIVADAS PARCIALES DE
+          SEGUNDO ORDEN
+
+
+
+
+
+
+
+Resumen:
+En
+        este cuarto bloque temático se reduce una
+        ecuación en derivadas parciales de segundo orden
+        lineal a su forma canónica y se clasifica en
+        función de la existencia de curvas
+        características reales. La naturaleza
+        parabólica, elíptica o hiperbólica de
+        la ecuación juega un papel crucial a la hora de
+        diseñar un método numérico, así
+        como imponer condiciones de contorno. Por ello, se
+        aplicará la metodología de
+        clasificación a las ecuaciones vistas en los bloques
+        temáticos anteriores. De manera general, el
+        método presentado sirve para deducir el cambio de
+        coordenadas requerido para reducir la ecuación en
+        derivadas parciales a su forma canónica.
+
+
+
+
+
+
+Tema
+          IV.1
+
+
+
+
+
+Generalidades
+          sobre ecuaciones de segundo orden (2T,
+          1P)
+
+
+
+
+
+
+T14
+
+
+
+
+Clasificación
+          de las E.D.P.s lineales de segundo orden.
+
+
+
+
+
+
+T15
+
+
+
+
+Condiciones
+          iniciales y de contorno. Transformaciones de coordenadas
+          específicas en mecánica de fluidos
+          computacional.
+
+
+
+
+
+
+P3
+
+
+
+
+Se
+          clasificarán algunas de las ecuaciones en
+          derivadas parciales vistas en los bloques
+          temáticos II y III. Cuando sea posible, se
+          procederá al cálculo analítico de
+          las curvas características.
+
+
+
+
+
+
+
+Referencias
+        básicas
+.
+T14:
+        Puig-Adam
+
+12
+(lec.
+        26, sec. 3); T15: Fernández-Oro
+
+1
+(sec.
+        3.6), Chung
+
+13
+(cap.
+        17), Ferziger y Peric
+
+14
+(sec.
+        8.5).
+
+
+
+
+
+
+Referencias
+        complementarias
+.
+        T14:
+Fernández-Oro
+
+1
+(sec.
+        3.5);
+T15:
+Anderson
+
+4
+(cap.
+        5)
+.
+
+
+
+
+
+
+BLOQUE
+          TEMÁTICO V: MÉTODO EN DIFERENCIAS FINITAS
+          PARA E.D.O. Y E.D.P.
+
+
+
+
+
+
+
+Resumen:
+La
+        familia de métodos numéricos en diferencias
+        finitas se caracterizan, frente a otras formulaciones
+        presentadas en los bloques temáticos VI y VII, por
+        su sencillez. Esta virtud le confiere su potencial
+        didáctico. Por defecto, se adopta el método
+        didáctico y los contenidos básicos descritos
+        con todo detalle en el libro de LeVeque
+
+2
+,
+        que se acompañan de diversos programas en Matlab que
+        codifican los algoritmos numéricos. De esta manera,
+        se comienza construyendo fórmulas en diferencias
+        finitas para la aproximación numérica de
+        derivadas en una molécula computacional de
+        tamaño prefijado. Se estudia tanto el método
+        de Vandermonde como Fornberg. Posteriormente, se resuelve
+        un sencillo problema de contorno de segundo orden y se
+        introducen conceptos fundamentales como son convergencia,
+        consistencia y estabilidad. Seguidamente, se extiende la
+        formulación para problemas canónicos de tipo
+        parabólico, hiperbólico y elíptico.
+        Los fenómenos de dispersión y difusión
+        numérica son ilustrados con simulaciones
+        numéricas de problemas de relevancia. Por motivos de
+        tiempo, hay otros conceptos más sofisticados (por
+        ejemplo, positividad, método bien balanceado,
+        preservación de la monotonicidad y
+        conservación de la energía discreta) que no
+        pueden ser formalizados en detalle, por lo que se dan
+        referencias bibliográficas adicionales que pueden
+        ser consultadas por el alumno interesado.
+
+
+
+
+
+
+Tema
+          V.1
+
+
+
+
+
+Aproximación
+          en diferencias finitas (2T)
+
+
+
+
+
+
+T16
+
+
+
+
+Error
+          de truncación. Derivación de una
+          fórmula en diferencias finitas por el
+          método de Vandermonde.
+
+
+
+
+
+
+T17
+
+
+
+
+Derivada
+          segunda y de orden superior. Método de
+          Fornberg.
+
+
+
+
+
+
+
+Tema
+          V.2
+
+
+
+
+
+Estado
+          estacionario y problema de contorno (2T)
+
+
+
+
+
+
+T18
+
+
+
+
+Flujo
+          difusivo unidimensional. Condiciones de contorno tipo
+          Dirichlet, Neumann y Robin. Formulación de un
+          método sencillo en diferencias finitas. Algoritmo
+          de Thomas para la resolución de sistemas lineales
+          tridiagonales.  
+
+
+
+
+
+
+T19
+
+
+
+
+Error
+          de truncamiento local y global. Estabilidad, convergencia
+          y consistencia. Teorema de equivalencia de Lax.
+
+
+
+
+
+
+
+Tema
+          V.3
+
+
+
+
+
+Problemas
+          parabólicos (1T, 1P)
+
+
+
+
+
+
+T20
+
+
+
+
+Método
+          de Euler explícito, Euler implícito y
+          Crank-Nicolson.  
+
+
+
+
+
+
+P4
+
+
+
+
+Cálculo
+          del error de truncación local y orden de
+          consistencia del método de Euler explícito,
+          implícito y Crank-Nicolson.
+
+
+
+
+
+
+
+Tema
+          V.4
+
+
+
+
+
+Problemas
+          hiperbólicos (2T, 1P)
+
+
+
+
+
+
+T21
+
+
+
+
+La
+          ecuación de ondas de primer orden lineal:
+          solución analítica. Método centrado,
+          Lax-Friedrichs y Lax-Wendroff.   
+
+
+
+
+
+
+T22
+
+
+
+
+Otros
+          métodos numéricos: método upwind y
+          Beam-Warming. Estabilidad de Von Neumann y
+          consistencia.
+
+
+
+
+
+
+P5
+
+
+
+
+Ej.
+          Cálculo del error de truncación local del
+          método centrado, Lax-Friedrichs y
+          Lax-Wendroff.
+
+
+
+
+
+
+
+Tema
+          V.5
+
+
+
+
+
+Ecuaciones
+          elípticas (1T, 1P)
+
+
+
+
+
+
+T23
+
+
+
+
+La
+          ecuación de flujo potencial en dos dimensiones.
+          Molécula computacional de 5 y 9 puntos. Operador
+          biarmónico. Aplicación a la
+          resolución de movimientos potenciales
+          elementales.
+
+
+
+
+
+
+P6
+
+
+
+
+Clase
+          de resolución de problemas en diferencias finitas
+          de la colección de exámenes de cursos
+          anteriores. En esta clase se incentivará al alumno
+          a resolver motu proprio los problemas más
+          representativos.
+
+
+
+
+
+
+
+Referencias
+        básicas
+.
+        Por defecto, en este bloque se adopta LeVeque
+
+2
+tanto
+        para teor
+ía
+        como problemas. En concreto: sec. 1.1-1.2 en T16, sec.
+        1.3-1.5 en T17, sec. 2.1-2.4 en T18, sec. 2.5-2.9 en T19,
+        intro lec. 9 en T20, sec. 9.1 en P4, sec. 10.10-1.3 en T21,
+        sec. 10.4-10.5 en T22 y sec. 3.1-3.5 en T23.
+
+
+
+
+
+
+Referencias
+        complementarias
+.
+Adicionalmente,
+        se recomienda la lectura de Anderson
+
+4
+(cap.
+        4) para los temas V.1.-V.3, Hirsch (cap. 4
+
+15
+y
+        sec. 20.1
+
+16
+)
+        y Chung
+
+13
+(sec.
+        6.2.6) para el tema V.4 y Chung
+
+13
+(sec.
+        4.1) para el tema V.5.
+
+
+
+
+
+
+BLOQUE
+          TEMÁTICO VI: MÉTODO DE VOLÚMENES
+          FINITOS
+
+
+
+
+
+
+
+Resumen:
+Frente
+        a la sencillez de la formulación en diferencias
+        finitas, el método de volúmenes finitos se
+        caracteriza por conferir un mayor grado de libertad
+        respecto al tipo de celda computacional que se puede
+        emplear en la simulación numérica. La
+        simulación numérica de problemas ingenieriles
+        no está limitada en este caso a geometrías
+        puramente cartesianas ni requiere el uso de sofisticadas
+        transformaciones de coordenadas. Así, en el primer
+        tema, se formaliza el método de volúmenes
+        finitos para mallas arbitrarias y se aplica el mismo a la
+        ecuación de transporte escalar lineal en forma
+        conservativa. Se presenta una formulación general
+        para mallas colocadas, que está implementada
+        actualmente en los programas de simulación
+        líderes del mercado. El primer tema concluye
+        presentando la equivalencia del método en
+        diferencias finitas y volúmenes finitos en mallas
+        estructuradas. La aplicación de la
+        formulación lineal vista en el primer tema a la
+        resolución de las ecuaciones no lineales de
+        Navier-Stokes (Tema 2) se introduce explotando la
+        analogía existente entre las ecuaciones de
+        conservación de flujos monofásicos y la
+        ecuación de transporte escalar. El reto que
+        representa la resolución acoplada del campo de
+        presión-velocidad se solventa haciendo uso del
+        complemento de Schur para la resolución del problema
+        de punto de silla. Finalmente, se presenta un
+        análisis práctico de la convergencia de los
+        métodos segregados frente a los acoplados, que
+        permite la introducción al alumno del manejo del
+        software Ansys Fluent.
+
+
+
+
+
+
+Tema
+          VI.1
+
+
+
+
+
+Formulación
+          general para leyes de conservación (4T,
+          1P)
+
+
+
+
+
+
+T24
+
+
+
+
+Fundamentos
+          del Método de Volúmenes Finitos.
+          Discretización conservativa de la ecuación
+          de transporte escalar convectiva en formato
+          vectorial.
+
+
+
+
+
+
+T25
+
+
+
+
+Esquemas
+          de discretización temporal e interpolación
+          espacial. Evaluación del flujo convectivo.
+
+
+
+
+
+
+T26
+
+
+
+
+Evaluación
+          del flujo difusivo en mallas estructuradas y no
+          estructuradas.
+
+
+
+
+
+
+T27
+
+
+
+
+Equivalencia
+          del método de volúmenes finitos y
+          diferencias finitas en mallas estructuradas.
+
+
+
+
+
+
+P7
+
+
+
+
+Se
+        desea obtener la ecuación algebraica que proporciona
+        el valor de la incógnita
+ en
+        el centroide de una celdilla computacional no estructurada
+        asumiendo conocido el valor en las celdas vecinas.
+        Partiendo de la ecuación general deducida en T24, se
+        seleccionará un esquema de discretización
+        espacio-temporal para la evaluación de la misma
+        haciendo uso de operaciones básicas de algebra
+        vectorial.
+
+
+
+
+
+
+Tema
+          VI.2
+
+
+
+
+
+Aplicación
+          a las ecuaciones de Navier-Stokes (1T,
+          1P)
+
+
+
+
+
+
+T28
+
+
+
+
+Deducción
+          de esquemas segregados a partir del complemento de Schur:
+          resolución del problema de punto de silla en el
+          caso de flujo monofásico e incompresible (esquemas
+          SIMPLE y PISO).
+
+
+
+
+
+
+P8
+
+
+
+
+Análisis
+          de la convergencia de los métodos acoplados frente
+          a los segregados mediante Ansys Fluent: simulación
+          de la estela laminar y estacionaria de un
+          cilindro.
+
+
+
+
+
+
+
+Referencias
+        básicas
+.
+        T24-T26: Jasak
+
+17
+(lec.
+        6); T27: Chung
+
+13
+(cap.
+        7); T28: Patankar
+
+18
+(sec.
+        6.7-6.8), Turek
+
+19
+(sec.
+        2.3-2.5); P8: Mazhar
+
+20
+(cap.
+        8), Ansys Inc.
+
+21
+(
+        
+        Training Material).
+
+
+
+
+
+
+Referencias
+        complementarias
+.
+T24-T26:
+        Ferziger y Peric
+
+14
+(lec.
+        4);
+T26:
+        LeVeque
+
+22
+(cap.
+        4, 6 y 20);
+T28:
+        Jasak
+
+17
+(lec.
+        10-11), Ferziger y Peric
+
+14
+(lec.
+        7).
+
+
+
+
+
+
+BLOQUE
+          TEMÁTICO VII: OTROS MÉTODOS
+          NUMÉRICOS
+
+
+
+
+
+
+
+Resumen:
+En
+        este tema se introducirán brevemente las
+        particularidades del método de elementos finitos, en
+        particular, los fundamentos de la formulación
+        débil de Galerkin. Aunque su aplicación a la
+        simulación de flujos industriales está menos
+        extendida por el mal condicionamiento del sistema de
+        ecuaciones lineales resultante del mismo, se
+        presentarán algunas simulaciones ilustrativas
+        resultantes de la estabilización de las ecuaciones
+        linealizadas. Finalmente, el método espectral se
+        introduce como caso particular del método de
+        diferencias finitas de alto orden en mallas no uniformes,
+        con una distribución de nodos de
+        Chebyshev.
+
+
+
+
+
+
+Tema
+          VII.1
+
+
+
+
+
+Fundamentos
+          del método de elementos finitos y método
+          espectral (1T)
+
+
+
+
+
+
+T29
+
+
+
+
+Elementos
+          finitos y métodos espectrales.
+          Implementación y convergencia numérica del
+          método espectral de Chebyshev usando
+          fdcoeffV.
+
+
+
+
+
+
+
+Referencias
+        básicas
+.
+T29:
+        Zienkiewicz y col.
+
+23
+(sec.
+        1.5);
+LeVeque
+
+2
+(sec.
+        2.21).
+
+
+
+
+
+
+Referencias
+        complementarias
+.
+T29:
+        Trefethen
+
+24
+(cap.
+        6); Deville y col.
+
+25
+(apéndice
+        B); Trefethen y col.
+
+26
+(cap.
+        5); Canuto y col.
+
+27
+(cap.
+        3 y 4).
+
+
+
+
+
+
+ 
+
+
+
+BLOQUE
+          TEMÁTICO VIII: FLUJOS TURBULENTOS
+
+
+
+
+
+
+
+Resumen:
+Se
+        comienza recordando al alumno tanto la transición a
+        flujo turbulento en conductos como las
+        características generales de los flujos turbulentos.
+        Se continúa proyectando vídeos
+        didácticos de la capa límite turbulenta sobre
+        una placa plana. Tras introducir los conceptos de
+        irregularidad y aleatoriedad, difusividad,
+        tridimensionalidad y rotacionalidad, disipación y
+        medio continuo, se deduce la microescala de Kolmogorov. La
+        descripción matemática de los flujos
+        turbulentos se realiza mediante las ecuaciones de Reynolds
+        que da lugar a la familia de modelos de turbulencia
+        R.A.N.S. ( 
+        Reynolds-averaged Navier-Stokes) más
+        empleada en aplicaciones industriales de CFD. Se concluye
+        este bloque temático resolviendo por regiones la
+        capa límite turbulenta sobre una placa plana. La
+        descripción matemática de la subcapa viscosa,
+        subcapa logarítmica y la región exterior da
+        pie a la clasificación del flujo turbulento en
+        régimen hidráulico liso y rugoso.
+
+
+
+
+
+
+Tema
+          VII.1
+
+
+
+
+
+Introducción
+          a la turbulencia  (6T)
+
+
+
+
+
+
+T30
+
+
+
+
+Propiedades
+          de los flujos turbulentos. Escalas de la turbulencia.
+          Microescala de Kolmogorov.
+
+
+
+
+
+
+T31
+          y T32
+
+
+
+
+Descripción
+          matemática de los flujos turbulentos. Movimiento
+          medio y fluctuaciones. Ecuaciones de Reynolds.
+
+
+
+
+
+
+T33
+          y T34
+
+
+
+
+Turbulencia
+          en presencia de paredes. Capa límite turbulenta,
+          bidimensional e incompresible sobre una placa
+          plana.
+
+
+
+
+
+
+T35
+
+
+
+
+Modelos
+          de turbulencia para las ecuaciones RANS.
+
+
+
+
+
+
+
+Referencias
+        básicas
+.
+        T30-T32: Davidson y col.
+
+28
+,
+        Fernández-Feria
+
+5
+(parte
+        IX, cap. 29 y 31); T33-T34: Fernández-Feria
+
+5
+(parte
+        IX, cap. 32); T35:
+Fernández-Oro
+
+1
+(sec.
+        10.6)
+.
+
+
+
+
+
+
+Referencias
+        complementarias
+.
+        T30-34: Barrero-Ripoll y Pérez-Savorid
+
+6
+(cap.
+        16);
+T35:
+        Ansys Inc.
+
+21
+(
+        
+        Theory Guide v. 14.0, cap. 4).
+
+
+
+
+
+
+BLOQUE
+          TEMÁTICO IX: GENERALIDADES DE LAS TÉCNICAS
+          DE MALLADO
+
+
+
+
+
+
+
+Resumen:
+Siendo
+        el mallado el primer cuello de botella que se presenta en
+        la simulación numérica del campo fluido sobre
+        (o dentro) de una geometría compleja, se
+        presentará la evolución que han sufrido los
+        malladores desde sus primeras versiones (mallador manual
+        paso a paso) a las actuales tendencias (mallador
+        automático de elementos hexaédricos o
+        poliédricos), permitiendo reducir los tiempos de
+        mallado de meses a cuestión de minutos.
+        También se describirán los tipos de
+        movimientos de mallas que se pueden conferir cuando el
+        volumen de control sufre deformación a lo largo de
+        la simulación.
+
+
+
+
+
+
+Tema
+          VII.1
+
+
+
+
+
+Generación
+          de mallas con software comercial y libre
+          (2T)
+
+
+
+
+
+
+T36
+
+
+
+
+Clasificación
+          y topología de mallas. Mallas estructuradas y no
+          estructuradas, multibloque, overset y chimera. Mallas
+          fijas y móviles. Modos de refinamiento de
+          malla.
+
+
+
+
+
+
+T37
+
+
+
+
+Programas
+          comerciales y open source para la generación de
+          mallas. Evolución de malladores manuales (Gambit)
+          a automáticos (poliédricos y
+          hexaédricos).
+
+
+
+
+
+
+
+Referencias
+        básicas.
+El
+        docente realizará varias mallas de ejemplo 
+        in situ usando el mallador manual Pointwise y los
+        malladores hexaédricos y poliédricos
+        automáticos simFlow y p-Mesh,
+        respectivamente.
+
+
+
+
+
+Independientemente
+  del carácter básico o complementario de la entrada
+  bibliográfica, los libros seleccionados por el docente son
+  los siguientes:
+
+
+1.  
+ Fernández-Oro, J. M. Técnicas Numéricas
+en Ingeniería de Fluidos. (Editorial Reverte, 2012).
+
+2.  
+ LeVeque, R. J. Finite Difference Methods for Ordinary and
+Partial Differential Equations: Steady State and Time Dependent
+Problems. (Society for Industrial and Applied Mathematics (SIAM),
+2007).
+
+3.  
+ Tu, J., Yeoh, G.-H. & Liu, C. Computational Fluid
+Dynamics: A Practical Approach. (Butterworth-Heinemann,
+2013).
+
+4.  
+ Anderson, J. D. Computational Fluid Dynamics: The Basics with
+Applications. (McGraw-Hill Education, 1995).
+
+5.  
+ Fernández-Feria, R. Mecánica de Fluidos.
+(Universidad de Málaga, 2011).
+
+6.  
+ Barrero-Ripoll, A. & Pérez-Saborid, M. Fundamentos
+y Aplicaciones de la Mecánica de Fluidos. (McGraw-Hill
+Education, 2005).
+
+7.  
+ Sánchez-Pérez, A. L. &
+Martínez-Bazán, C. Mecánica de Fluidos: Parte
+I. (2005).
+
+8.  
+ Crespo-Martínez, A. Mecánica de Fluidos.
+(Thomson, 2006).
+
+9.  
+ Iglesias-Estradé, I., Martínez-Bazán,
+C., Sánchez-Pérez, A. L. & Vera-Coello, M.
+Ingeniería Fluidomecánica. (Paraninfo, 2012).
+
+10.  
+ Martínez-Bazán, C., Iglesias-Estrade, I. &
+Sánchez-Pérez, A. L. Mecánica de Fluidos:
+Parte II. (2005).
+
+11.  
+ Gordillo-Arias-de-Saavedra, J. M. & Riboux-Acher, G.
+Introducción a la Aerodinámica Potencial. (Editorial
+Paraninfo, 2012).
+
+12.  
+ Puig-Adam, P. Curso Teórico Práctico de
+Ecuaciones Diferenciales Aplicado a la Física y
+Técnica. 2, (Nuevas Gráficas. Madrid, 1978).
+
+13.  
+ Chung, T. J. Computational Fluid Dynamics. (Cambridge
+University Press, 2010).
+
+14.  
+ Ferziger, J. H. & Peric, M. Computational Methods for
+Fluid Dynamics. (Springer-Verlag, 2002).
+
+15.  
+ Hirsch, C. Numerical Computation of Internal and External
+Flows: Computational Methods for Inviscid and Viscous Flows. 2,
+(John Wiley & Sons, 1990).
+
+16.  
+ Hirsch, C. Numerical Computation of Internal and External
+Flows: The Fundamentals of Computational Fluid Dynamics. 1,
+(Butterworth-Heinemann, 2007).
+
+17.  
+ Jasak, H. Numerical Solution Algorithms for Compressible
+Flows. (Wikki Ltd., 2006).
+
+18.  
+ Patankar, S. Numerical Heat Transfer and Fluid Flow. (Taylor
+& Francis, 1980).
+
+19.  
+ Turek, S. Efficient Solvers for Incompressible Flow Problems:
+An Algorithm Approach in View of Computational Aspects. (Springer,
+1999).
+
+20.  
+ Mazhar, Z. Fully Implicit, Coupled Procedures in
+Computational Fluid Dynamics: An Engineer Resource Book. (Springer,
+2016).
+
+21.  
+ ANSYS Inc. ANSYS Fluent 14.5 Tutorial Guide. (ANSYS Inc.,
+2011).
+
+22.  
+ LeVeque, R. J. Finite-Volume Methods for Hyperbolic Problems.
+(Cambridge University Press, 2002).
+
+23.  
+ Zienkiewicz, O. C., Taylor, R. L. & Nithiarasu, P. The
+finite element method for fluid dynamics. (Butterworth-Heinemann,
+2013).
+
+24.  
+ Trefethen, L. N. Spectral Methods in MATLAB. (Society for
+Industrial and Applied Mathematics, 2000).
+
+25.  
+ Deville, M. O., Fischer, P. F. & Mund, E. H. High-order
+methods for incompressible fluid flow. (Cambridge University
+Press).
+
+26.  
+ Trefethen, L. N., Birkisson, Á. & Driscoll, T. A.
+Exploring ODEs. (Society for Industrial and Applied Mathematics,
+2018).
+
+27.  
+ Canuto, C., Hussaini, M. Y., Quarteroni, A. & Zang, T. A.
+Spectral methods: Evolution to complex geometries and applications
+to fluid dynamics. (Springer, 2007).
+
+28.  
+ Davidson, P. A., Kaneda, Y., Moffatt, K. & Sreenivasan,
+K. R. A voyage through turbulence. (Cambridge University Press,
+2011).
+
+29.  
+ Durbin, P. A. & Medic, G. Fluid Dynamics with a
+Computational Perspective. (Cambridge University Press,
+2007).
+
+30.  
+ Griebel, M., Dornsheifer, T. & Neunhoeffer, T. Numerical
+Simulation in Fluid Dynamics: A Practical Introduction. (SIAM
+Monographs on Mathematical Modeling and Computation, 1998).
+
+31.  
+ Biringen, S. & Chow, C.-Y. An Introduction to
+Computational Fluid Mechanics by Example. (John Wiley & Sons,
+Inc., 2011). 
+'

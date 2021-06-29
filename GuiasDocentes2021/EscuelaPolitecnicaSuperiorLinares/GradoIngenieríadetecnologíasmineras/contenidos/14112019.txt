@@ -1,0 +1,87 @@
+'
+
+Diseño, operación y mantenimiento de plantas de
+preparación y tratamiento de minerales, rocas industriales,
+rocas ornamentales y residuos. Diseño, operación y
+mantenimiento de de plantas de fabricación de materiales de
+construcción. Seguridad y salud en las plantas de
+preparación y tratamiento de minerales, rocas industriales,
+rocas ornamentales y residuos.
+
+TEMARIO DE TEORÍA BLOQUE I: Introducción: Tema 1.-
+Introducción a la Tecnología Mineralúrgica.
+Conceptos generales. Determinación del límite
+económico de un yacimiento. Cut-off o ley de corte.
+Reservas. Sustancias demandadas. Valoración de los productos
+minerales y las rocas. Tema 2.- Los áridos.
+Definición de árido. Clasificación de los
+áridos: naturales, artificiales y reciclados.
+Clasificación de los áridos en función de su
+naturaleza petrológica, la granulometría o el uso.
+Tema 3.- Ensayos y normativa. Mineralogía y
+petrología de los áridos, texturas. Propiedades
+físicas. Propiedades químicas. Propiedades
+mecánicas de los áridos. Cuadro de ensayos. Tema 4.-
+Conceptos fundamentales sobre las operaciones básicas de una
+planta de tratamiento. Diagramas de flujo en la preparación
+de áridos: Tipos de clasificación. Tipos de
+concentración. Operaciones básicas. Procesos. Estudio
+de las ecuaciones y los diagramas de flujo en la preparación
+de áridos: clasificación en seco, trituración
+primaria y clasificación, trituración
+primaria-secundaria y clasificación, trituración
+primaria-secundaria-terciaria y clasificación, lavado y
+clasificación. BLOQUE II: Reducción de
+tamaños: Tema 5.- Trituración primaria: Machacadoras
+de mandíbulas. Trituradoras giratorias. Trituradores de
+cilindros; lisos y dentados. Trituradoras o molinos de impacto con
+eje horizontal; de un rotor, de dos rotores. Selección de
+equipos. Tema 6.- Trituración secundaria y terciaria:
+Trituradoras de rotor de eje vertical; roca-metal, roca-roca.
+Trituradores y molinos de martillo. Trituradoras giratorias de cono
+(Cono Symons y Giradiscos). Resumen de Trituración.
+Selección de equipos. Tema 7.- Molienda: Fundamentos.
+Parámetros de regulación. Molinos de barras y bolas.
+Flujos de pulpas. Estudio de los % en sólidos de las pulpas.
+Tema 8.- Automolienda: Fundamentos. Molinos autógenos por
+vía seca y húmeda. Aplicaciones de la automolienda.
+Diferencias con la molienda convencional. Campo de
+aplicación y selección de equipos. BLOQUE III:
+Clasificación: Tema 9.- Clasificación
+volumétrica: Fundamentos y finalidad de la
+clasificación. Cribado industrial. Principios del cribado.
+Superficies de cribado. Tipos de cribas industriales.
+Selección de las cribas mecánicas. Tema 10.- Lavado y
+clasificación hidráulica: Fundamentos y finalidad del
+lavado y de la clasificación hidráulica. Procesos y
+equipos para el tratamiento: lavado-desenlodado,
+lavado-clasificación, clasificación,
+depuración, concentración. Tema 11.- Tratamiento de
+lodos: Introducción. Tecnología para la
+separación sólido-líquido aplicada a los
+lodos. Equipos para la decantación o espesado. Equipos para
+la clarificación. Equipos para la filtración. BLOQUE
+IV: Seguridad y salud: Tema 12.- Riesgos y protecciones en las
+plantas de tratamiento: Equipos fijos y móviles.
+Protecciones adecuadas. Señalizaciones y vías de
+emergencia. Equipos de protección colectiva e individual.
+Consideraciones sobre seguridad e higiene en los locales y puestos
+de trabajo. Tema 13.- Estudio de la normativa y legislación
+vigente: Medio ambiente y seguridad y salud para los trabajadores
+en las plantas de tratamiento de minerales y rocas. BLOQUE V: Los
+procesos y las plantas de tratamiento. Tema 14.-
+Introducción a la Tecnología Mineralúrgica II.
+Diagramas generales de flujo: Estudio de los diferentes esquemas
+generales en las plantas industriales de tratamiento de minerales y
+rocas (flow-sheet). Criterios generales en la selección de
+equipos y procesos en la concentración mineral. TEMARIO DE
+PRÁCTICAS Práctica 1. Leyes fundamentales que rigen
+la concentración mineral. Problemas. Práctica 2.
+Ensayos granulométricos de suelos y rocas. Práctica
+3. Machacadora de mandíbulas. Práctica 4. Molienda.
+Práctica 5. Leyes energéticas para la
+disminución de tamaño. Cálculo de la potencia
+absorbida. Práctica 6. Determinación del peso
+específico. Práctica 7. Cálculo del % de
+sólidos en las pulpas.
+'

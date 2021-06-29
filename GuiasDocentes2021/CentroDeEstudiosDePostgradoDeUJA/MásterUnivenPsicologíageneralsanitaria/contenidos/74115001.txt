@@ -1,0 +1,10 @@
+'
+
+Conjunto de prácticas integradas en Centros Sanitarios.
+Dichos centros deben cumplir los requisitos legales exigidos para
+ser reconocidos como tales. 
+
+ Cada Centro tendrá libertad para organizar sus
+prácticas dentro de lo establecido con la dirección
+del máster
+'

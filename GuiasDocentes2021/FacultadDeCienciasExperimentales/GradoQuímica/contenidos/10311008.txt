@@ -1,0 +1,50 @@
+'
+
+CRISTALOGRAFÍA, MINERALOGÍA Y
+GEOQUÍMICA:
+
+Cristalografía
+  geométrica y simetría. Cristaloquímica.
+  Métodos de caracterización de materiales.
+  Mineralogía descriptiva y aplicada
+
+
+1. Mineralogénesis. Procesos geológicos formadores
+de minerales: ígneos, sedimentarios y metamórficos.
+Recursos minerales.
+2. Geoquímica. Estructura interna y composición de
+la Tierra. Geoquímica de los procesos de la
+superficie terrestre.
+3. Cristalografía geométrica y simetría.
+Redes y sistemas cristalográficos. Simetría. Grupos
+espaciales de simetría. Morfología cristalina.
+4. Cristaloquímica. Empaquetamientos y poliedros de
+coordinación. Estructuras cristalinas. Crecimiento
+cristalino. Defectos estructurales.
+5. Métodos de caracterización de
+materiales.Cristalografía óptica. Difracción
+de rayos-X. Microscopía electrónica.
+6. Mineralogía descriptiva y aplicada. Sistemas de
+clasificación. Principales grupos minerales.
+Prácticas de laboratorio:
+
+Estudio de formas cristalinas mediante modelos
+  cristalográficos para deducir elementos de simetría
+  y grupos puntuales.
+Representación de estructuras.
+Caracterización de materiales.
+Reconocimiento de minerales en muestra de mano.
+
+Actividades dirigidas:
+
+Diagramas de clasificación de materiales
+  geológicos.
+Problemas de geoquímica.
+Cuestiones y problemas cristalográficos.
+Identificación de minerales mediante propiedades
+  ópticas (Óptica Mineral).
+Cálculo de fórmulas minerales a partir de datos
+  experimentales.
+Diagramas de equilibrio de fases.
+
+'

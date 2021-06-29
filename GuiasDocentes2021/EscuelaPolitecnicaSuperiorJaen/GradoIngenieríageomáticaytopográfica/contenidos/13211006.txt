@@ -1,0 +1,90 @@
+'
+
+Conocimientos básicos de informática:
+
+Arquitectura de un ordenador
+Sistemas operativos
+Redes de ordenadores
+
+Conocimientos básicos de programación:
+
+Estructuras de control
+Programación modular
+Programación orientada a objetos
+
+
+
+
+Módulo
+  1: Conocimientos básicos de
+  informática.
+
+
+Tema
+  1. Introducción: Conceptos básicos sobre
+  ordenadores y clasificación de los mismos.
+
+
+Tema
+  2. Hardware de computadores: Elementos constitutivos de un
+  ordenador. Periféricos y dispositivos con capacidades
+  computacionales.
+
+
+Tema
+  3. Software de un ordenador: Sistemas operativos. Aplicaciones
+  software y lenguajes de programación.
+
+
+Tema
+  4. Redes y seguridad: Definición, clasificación y
+  estructura de las redes de computadores. Riesgos y Seguridad de
+  una red de ordenadores.
+
+
+
+Módulo
+  2: Conocimientos básicos de
+  programación
+
+
+Tema
+  5. Conceptos básicos en programación: algoritmo,
+  tipos de datos, constantes y variables, asignación y
+  expresiones, estructuras de control.
+
+
+Tema
+  6. Programación modular: Concepto de procedimiento,
+  función y paso de parámetros.
+
+
+Tema
+  7. Estructuras fundamentales de datos. Listas, cadenas y
+  ficheros.
+
+
+Tema
+  8. Elementos avanzados de programación. Depuración
+  y validación de programas. Gestión de
+  excepciones.
+
+
+
+Tema
+  9. Introducción  a la Programación Orientada a
+  Objetos. Clases. Propiedades. Métodos
+
+Contenidos prácticos:
+Práctica 1. Introducción al entorno de desarrollo
+Python.
+Práctica 2. Programación: Estructuras
+secuenciales.
+Práctica 3. Programación: Estructuras
+condicionales.
+Práctica 4. Programación: Estructuras
+repetitivas.
+Práctica 5. Programación Modular
+Práctica 6. Programación: Gestión y manejo
+de archivos.
+'

@@ -1,0 +1,169 @@
+'
+
+BLOQUE TEORÍA:
+
+QUÍMICA ORGÁNICA
+QUÍMICA INORGÁNICA
+
+BLOQUE PRÁCTICO:
+
+SEMINARIOS 
+  
+TÉCNICAS GENERALES DEL LABORATORIO INTEGRADO DE
+    QUÍMICA INORGÁNICA Y ORGÁNICA
+CARACTERIZACIÓN Y MONITORIZACIÓN DE
+    COMPUESTOS QUÍMICOS
+
+PRÁCTICAS 
+  
+SÍNTESIS COMPUESTOS QUÍMICOS
+
+
+
+
+BLOQUE TEORÍA:
+
+
+QUÍMICA INORGÁNICA
+
+Tema 1. QUÍMICA DEL
+HIDROGENO Y SU APLICACIÓN COMO VECTOR ENERGÉTICO.
+Comportamiento termodinámico de los iones de Hidrogeno.
+Métodos de Obtención de Hidrógeno: Gas de
+síntesis. Usos del Hidrogeno: Gasificación del
+carbón. Aplicaciones del Hidrogeno como vector
+energético: Pilas de Combustible. 
+Tema 2. QUÍMICA DE LA
+COORDINACIÓN Y ÓRGANOMETÁLICA. Visión
+actual de los compuestos de coordinación. Estructuras y
+simetrías. Isomería de complejos de metales de
+transición. Teoría del campo cristalino. Colores de
+los complejos de metales de transición. La química
+órganometálica en la catálisis
+petroquímica.
+Tema 3. QUÍMICA DEL ESTADO
+SÓLIDO Y SU APLICACIÓN EN GENERACIÓN Y
+ALMACENAMIENTO ENERGÉTICO. Propiedades Eléctricas de
+los sólidos. Propiedades dieléctricas y
+polarización, Piezoeléctricos, Semiconductores,
+Superconductores, Electrolitos sólidos: Baterías y
+Pilas de combustible.
+
+
+QUÍMICA ORGÁNICA
+
+
+Tema 4. CONCEPTOS FUNDAMENTALES EN
+QUÍMICA ORGÁNICA (QO). Nomenclatura básica y
+grupos funcionales. Interconversión entre ellos. Estructura
+y propiedades de las moléculas orgánicas. Conceptos
+básicos en QO. Reactantes en síntesis
+orgánica. Reactividad y reacciones. Intermedios y mecanismos
+de reacción. Control termodinámico y/o
+cinético. Isomería y estereoquímica. Escalado
+industrial de la QO.
+Tema 5. HIDROCARBUROS: ALCANOS,
+ALQUENOS Y ALQUINOS. El petróleo como fuente  de
+compuestos químicos. "Raw and Fine Chemicals". Alcanos,
+alquenos y alquinos: Nomenclatura, propiedades, reactividad y
+síntesis de laboratorio. Rutas principales en la
+producción de compuestos base.
+Tema 6. QUÍMICA DE
+HALOGENUROS DE ALQUILO Y ORGANOMETÁLICA. RX: Nomenclatura,
+propiedades, síntesis y reactividad de los halogenuros de
+alquilo. Compuestos con enlace Metal-C.
+Tema 7. INTERCONVERSIÓN DE
+GRUPOS FUNCIONALES EN QO. Grupos funcionales en orden creciente de
+oxidación: Alcoholes, aldehídos y cetonas,
+ésteres y ácidos carboxílicos. Reactividad
+básica y transformación entre ellos.
+
+BLOQUE PRÁCTICO:
+
+
+SEMINARIOS
+
+
+
+Semiario 1. Seguridad y gestión de residuos.
+  ACD/labs, softwares disponibles, bases de datos y
+  elaboración del informe de
+  laboratorio. Normas de seguridad e higiene en el
+  laboratorio. Logística y tratamiento de compuestos
+  químicos. Normativa en gestión de residuos y
+  protección ambiental. Símbolos. Software
+  científicos relacionados con la Química
+  Orgánica, ACD/labs y bases de datos (Scienfinder,...).
+  Redacción de un cuaderno de laboratorio y de un informe de
+  laboratorio
+
+Seminario 2. Técnicas básicas en el
+  laboratorio integrado. Material y limpieza.
+  Identificación de material de vidrio. Reactivos, productos
+  y disolventes. Fichas de seguridad de los compuestos. Sistemas de
+  calefacción y enfriamiento. Sistemas de agitación y
+  mezcla. Adición de reactivos y mezclas. Control de
+  temperaturas. Procedimientos de reacción.
+  Disolventes  más comunes. Esquema general de una
+  experiencia.
+
+Seminario 3. Procedimientos genéricos en un
+  laboratorio de Química Inorgánica y
+  Orgánica. Técnicas de
+  purificación y separación. Filtración.
+  Destilación: Simple, fraccionada, a vacío, a media
+  presión, etc. Manejo del rotavapor. Extracción:
+  L-L, S-L y continua. Cristalización y
+  recristalización. Introducción a la
+  cromatografía. Cromatografía en capa fina (TLC),
+  columna y gases.
+
+Seminario 4. Caracterización y monitoreo de los
+  productos obtenidos. Caracterización
+  físico-química de los compuestos químicos.
+  Determinación del punto de fusión,
+  ebullición o sublimación. Introducción a la
+  espectroscopía. Espectroscopía de IR y
+  espectrometría de masas.
+
+Seminario 5. Enlace. Estructura de Lewis de
+  moléculas e iones. Formas resonantes  y carga formal.
+  Formas y estructuras de las moléculas: Teoría de
+  enlace de valencia. Orbitales Moleculares. Características
+  de ácido-base de Lewis y de Pearson: aplicaciones.
+
+Seminario 6: Espectroscopia UVvis. Fundamentos
+  de la espectroscopia UVvis. Espectros de iones metálicos.
+  Espectros de compuestos orgánicos. Espectrómetro.
+  Determinación cuantitativa. Ley de Beer Lambert.
+
+Seminario 7: Caracterización Estructural en estado
+  sólido. Difracción de rayos X, Conceptos
+  básicos de cristalografía, Difracción en
+  monocristales y Difractogramas de polvo. Análisis
+  térmico: Termogravimetria, Análisis Térmico
+  Diferencial (DTA) y Calorimetría Diferencial de Barrido
+  (DSC).
+
+
+PRÁCTICAS DE LABORATORIO
+
+
+Práctica de Crecimiento Cristalino
+Determinación de la Energía de
+  Estabilización del Campo Cristalino en complejos de
+  Cr(III)
+Síntesis de un organopolysiloxano: 
+  Silly Putty
+Sólidos Termocrómicos.
+Prácticas de
+  síntesis orgánica básica
+Síntesis de
+  biodiesel
+Práctica de
+  síntesis orgánica avanzada
+Práctica de
+  adiestramiento en técnicas cromatográficas (TLC,
+  columna y GC)
+
+'

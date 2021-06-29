@@ -1,0 +1,37 @@
+'
+
+Exponer y explicar al alumno la Higiene Industrial o Higiene del
+Trabajo como técnica que se ocupa del estudio de las
+relaciones y efectos que producen sobre el trabajador los agentes o
+contaminantes (físicos, químicos o biológicos)
+existentes en el lugar de trabajo, que definiremos como ambiente
+industrial.
+
+
+Higiene Industrial: aspectos generales.
+Toxicología laboral
+Valoración de la exposición
+  dérmica.
+Estrategia de muestreo para la evaluación de la
+  exposición laboral
+Evaluación del riesgo higiénico por
+  exposición a agentes químicos.
+Agentes biológicos
+
+
+Amianto.
+Agentes físicos. Ruidos. Conocimiento,
+  evaluación y control.
+Evaluación del riesgo higiénico por
+  exposición a vibraciones.
+Evaluación del riesgo higiénico por
+  exposición a temperaturas extremas.
+Métodos generales de control del riesgo
+  higiénico (1): EPI (equipos y ropa de
+  protección).
+Métodos generales de control del riesgo
+  higiénico (2): ventilación.
+Evaluación del riesgo higiénico por
+  exposición a radiaciones: ionizantes y no ionizantes
+
+'

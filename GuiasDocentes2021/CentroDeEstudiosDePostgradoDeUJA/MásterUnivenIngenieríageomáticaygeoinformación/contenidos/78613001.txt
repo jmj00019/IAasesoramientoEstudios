@@ -1,0 +1,162 @@
+'
+
+1. Fundamentos de los RPAS. Equipos y sensores. Tipos.
+2. Normativa nacional e internacional del uso de RPAS.
+3. Planificación de vuelos fotogramétricos
+RPAS.
+4. Procesamiento de datos capturados con RPAS.
+Obtención de modelos y productos.
+5. Aplicaciones de los RPAS.
+
+
+
+TEORÍA
+
+
+
+
+1. Introducción
+
+
+
+1.1
+  Definiciones.
+
+
+1.2
+  Desarrollo histórico de los RPAS y su impacto en la
+  actualidad.
+
+
+1.3
+  Clasificación de RPAS.
+
+
+
+
+2. Componentes de los RPAS
+
+
+
+2.1
+  Plataformas: configuraciones, propulsión, sistemas de
+  navegación, controles y sensores.
+
+
+2.2
+  Sistemas de comunicación: controles y telemetría.
+  Frecuencias. Sistemas de seguridad. Automatización
+
+
+2.3
+  Estaciones de control.
+
+
+2.4
+  Baterías. Mantenimiento.
+
+ 
+
+
+3.
+    Vuelo
+
+
+
+3.1
+  Conceptos de vuelo: aerodinámica, vuelo, estabilidad y
+  controles.
+
+
+3.2
+  Tipos de vuelo.
+
+
+-
+  Manual, semi-automático, pilotaje
+  automático.
+
+
+- Vuelos
+  dentro del alcance visual y fuera del alcance visual (VLOS,
+  EVLOS, BVLOS).
+
+
+3.3
+  Sistemas de despegue y aterrizaje.
+
+
+3.4
+  Planificación.
+
+
+
+
+4. Legislación y operaciones con
+    RPAS
+
+
+
+4.1
+  Legislación nacional
+
+
+4.2
+  Legislaciones extranjeras
+
+
+4.3
+  Certificaciones
+
+
+4.4
+  Empresas operadoras
+
+
+
+
+5. Aplicaciones RPAS
+
+
+
+5.1
+  Tipos de aplicaciones
+
+
+5.2
+  Aplicaciones geomáticas.
+
+
+ 
+
+
+
+PRÁCTICAS
+
+
+
+Introducción
+    práctica a los RPAS.
+
+
+Control y
+    comunicaciones.
+
+
+Simulación.
+
+
+Planificación
+    de vuelos RPAS
+
+
+Procesado de
+    vuelos RPAS
+
+
+Desarrollo y
+    aplicación de un caso real: planificación,
+    ejecución del vuelo, procesado e informe final.
+
+
+'

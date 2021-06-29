@@ -1,0 +1,150 @@
+'
+
+Sistema fotovoltaico. Diodos de bloqueo y de paso. Efecto del
+sombreado sobre el funcionamiento del SFV. Reguladores. Seguidores
+del punto máximo
+de potencia: circuitos de control y potencia, algoritmos de
+control.
+Inversores autónomos. Inversor conectado a red:
+Configuración y principios de funcionamiento, rendimiento y
+otras características. Modelos
+comerciales. Alimentación de sistema de
+iluminación en instalaciones de
+ESF:Lámparas. Arranque electrónico.
+Monitorización de instalaciones.
+
+
+
+
+UNIDAD Nº 1.
+INTRODUCCIÓN
+
+ Lección 1.- Introducción, distribución
+temporal, bibliografía, prácticas 
+ Lección 2.- Introducción a la
+electrónica en Instalaciones de energía solar
+fotovoltaica. Dispositivos electrónicos.  Eficiencia
+.
+
+
+
+UNIDAD Nº 2. LA CÉLULA
+SOLAR Y EL GENERADOR FOTOVOLTAICO
+ 
+ Lección 3. -La célula solar. Estructura y
+principio de funcionamiento, eficiencia, pérdidas. Tipos de
+células FV. Células multiunión.
+Fabricación células solares 
+ Lección 4. -La célula solar.
+Característica I-V Modelo ideal, modelo real.
+Interconexionado de células, módulo FV.
+Fabricación y tipos  
+ Lección 5.- Generador. Sombreado de módulos
+fotovoltaicos: Efectos en el  funcionamiento del generador.
+Punto caliente. Diodo de paso
+
+
+
+UNIDAD Nº 3. REGULADORES
+ELECTRÓNICOS
+ 
+ Lección 6- Regulador de carga. Circuito
+electrónico en reguladores de carga. Algoritmos de carga.
+Criterios de selección, hojas de características
+comerciales de reguladores de carga
+
+
+
+UNIDAD Nº 4.  
+SEGUIDORES DEL PUNTO
+MÁXIMO DE POTENCIA (MPPT), CIRCUITOS DE CONTROL Y POTENCIA
+(ALGORITMOS DE CONTROL) 
+
+Lección 7.- Seguimiento del
+punto de máxima potencia. Circuitos electrónicos de
+potencia 
+ Lección 8.- Seguimiento del punto de máxima
+potencia y algoritmos de control MPP: Algoritmos de control
+indirectos. Algoritmos de control directos. Otros algoritmos de
+control
+
+
+
+UNIDAD Nº 5.  
+INVERSORES EN SISTEMAS
+FOTOVOLTAICOS
+
+ 
+
+Lección 9.-Inversores:
+Principios y requerimientos. Circuitos de potencia 
+ Lección 10.-Circuitos de Potencia en inversores SFA y
+SFCR. Técnicas de control 
+ Lección 11.- Configuraciones avanzadas.
+Características de fabricantes
+
+
+
+UNIDAD Nº
+6. 
+
+
+OTROS
+DISPOSITIVOS ELÉCTRICOS Y ELECTRÓNICOS DE
+INTERÉS(2H)
+ 
+ Lección 12.Iluminación:Balastos
+electrónicos. LED
+
+
+
+PRÁCTICAS:
+
+Hay dos tipos de prácticas,
+las de simulación con ordenador en áula de
+informática (Práctica PS) y las de laboratorio con
+montaje practico (PL).
+
+
+
+PRÁCTICAS DE
+LABORATORIO (PL )
+  
+
+PL1 Fabricación de
+células solares y modulo fotovoltaico. Fabricantes y
+características técnicas
+ PL2 Trazado de curva VI de módulo FV con trazador de
+curvas. Trazado curva módulo con con sombreado parcial 
+ PL3 Carga electrónica capacitiva para la
+obtención de la curva característica VI de un
+módulo FV. Trazadores de curvas. 
+ PL4 Convertidor reductor con CI ( Texas)
+ PL5 Convertidor Elevador
+
+
+
+PRACTICAS SIMULACION
+(PS)
+
+ :
+
+ 
+
+
+PS1. Introducción a la
+simulación con Pspice de sistemas fotovoltaicos
+ PS2. Modelo de la célula solar
+ PS3. Simulación del comportamiento de conexión
+de células serie y paralelo. Efectos del sombreado. Diodo de
+paso 
+
+
+
+ PS4.Simulación módulo
+fotovoltaico. . Simulación del comportamiento de un
+generador fotovoltaico
+ PS5.Convertidores DC/DC
+ PS6. Inversor trifásico
+ PS7. Inversores otras configuraciones
+'

@@ -1,0 +1,122 @@
+'
+
+La información financiera de las empresas. Calidad de la
+información financiera. Decisiones de valoración de
+acciones. Decisiones de concesión de crédito.
+
+
+Tema 1. El análisis de estados contables:
+  concepto, finalidad y técnicas.
+  Introducción.
+
+1.1. Introducción.
+1.2.Concepto de análisis de
+estados contables.
+1.3. Finalidad del análisis
+de estados contables.
+1.4. Técnicas e instrumentos
+aplicables en el análisis de estados contables.
+ 
+
+Tema 2. Los estados contables I: El balance.
+
+
+2.1. Concepto de análisis patrimonial: capacidad y
+actividad de la empresa.
+2.2. Clasificación funcional
+del balance.
+2.3. Principios contables.
+2.4. Normas de elaboración
+de las cuentas anuales: Balance, cuenta de pérdidas y
+ganancias, estado de cambios en el patrimonio neto y estado de
+flujos de efectivo.
+2.5. Los criterios de
+valoración en el P.G.C.
+ 
+
+Tema 3. Los estados contables II: La cuenta de
+  pérdidas y ganancias.
+
+3.1. La cuenta de pérdidas y
+ganancias: concepto y ordenación funcional.
+3.2. Modelos de cuenta de
+pérdidas y ganancias.
+3.3. El modelo de cuenta de
+pérdidas y ganancias en el Plan General de Contabilidad.
+ 
+
+Tema 4. Análisis financiero I.
+
+4.1. El análisis financiero:
+aspectos que comprende.
+4.2. El equilibrio financiero de la
+empresa.
+4.3. Las estructuras
+económica y financiera a largo plazo.
+4.4. Aspecto financiero del
+saneamiento de activos.
+ 
+
+Tema 5. Análisis financiero II
+
+5.1. Análisis de las
+inversiones financieras de la empresa y su financiación.
+5.2. La rotación de las
+inversiones circulantes: el periodo medio de maduración.
+5.3. Determinación del
+volumen óptimo de inversión circulante: el fondo de
+maniobra.
+5.4. Las estructuras
+económica y financiera óptimas a corto plazo.
+5.5 Política de
+autofinanciación.
+5.6 Política de
+amortizaciones.
+5.7 Política crediticia.
+5.8 Estructura óptima de los
+recursos financieros.
+ 
+
+Tema 6. El Estado de Flujos de Efectivo.
+
+6.1 El estado de flujos de efectivo
+en el nuevo Plan General de Contabilidad.
+6.2 Interpretación del
+estado de flujos de efectivo.
+6.3 Indicadores alternativos al
+efectivo y al resultado.
+ 
+
+Tema 7. Análisis económico.
+
+7.1. Análisis
+económico: Introducción.
+7.2. Rotación de inventarios
+y de créditos activos.
+7.3. Cifra de negocio y tasa de
+variación de las ventas.
+7.4. Coste de ventas y Beneficio
+Bruto.
+7.5. Análisis de los Gastos
+de Actividad o de Operación.
+7.6. Tasa de participación
+del BAIT y del Cash-Flow.
+7.7. Tasa de cobertura de los
+intereses por el BAIT y por el Cash-Flow de la
+Explotación.
+7.8. Rotación del activo
+total neto.
+7.9. Rentabilidad del Activo o
+Rentabilidad Económica.
+7.10. Tasa de participación
+del cash-flow de la explotación en el activo total neto a su
+estado medio.
+7.11. Tipo de interés de las
+deudas
+7.12. Rentabilidad financiera.
+7.13. Ganancias por acción,
+pay out, rentabilidad del accionista y price earning ratio.
+7.14. Análisis del punto
+muerto (umbral de rentabilidad).
+ 
+'

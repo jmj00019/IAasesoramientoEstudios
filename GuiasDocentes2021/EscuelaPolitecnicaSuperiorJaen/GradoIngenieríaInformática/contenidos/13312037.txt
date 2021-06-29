@@ -1,0 +1,35 @@
+'
+
+Soporte hardware al sistema operativo. Diseño e
+implementación de la gestión de procesos e hilos.
+Gestión de memoria. Sistema de archivos. Sistema de
+Entrada/Salida. Programación de aplicaciones utilizando los
+servicios del sistema operativo. Administración del
+sistema.
+ 
+
+
+Teoría
+
+1. Introducción a los Sistemas Operativos
+2. Estructuras de los Sistemas Operativos
+3. Gestión de Procesos
+4. Gestión de Hilos
+5. Planificación de procesos e hilos
+6. Gestión de la memoria
+7. Memoria virtual
+8. Gestión de la entrada y salida
+9. Planificación del disco
+10. Sistemas de Archivos
+
+Prácticas
+En cada sesión de prácticas el alumno
+deberá realizar algunos ejercicios que deberá
+desarrollar y entregar en la propia sesión de
+prácticas sobre algunos de los siguientes módulos.
+1. Administración del Sistema
+2. El Entorno del Sistema Operativo
+3. Programación en Shell
+4. Programación utilizando los servicios del sistema
+operativo
+'

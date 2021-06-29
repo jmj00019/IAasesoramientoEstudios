@@ -1,0 +1,161 @@
+'
+
+
+Introducción
+  al mantenimiento industrial. Tipos de mantenimiento.
+
+
+Ingeniería
+  del ciclo de vida.
+
+
+Fallos
+  de un equipo. Fiabilidad, disponibilidad y mantenibilidad.
+
+
+Técnicas
+  de verificación mecánica.
+
+
+Plan
+  de Mantenimiento Industrial.
+
+
+Organización
+  del mantenimiento Industrial.
+
+
+Gestión
+  del mantenimiento industrial GMAO.
+
+
+Seguridad
+  de máquinas y equipos industriales.
+
+
+Evaluación
+  de conformidad CE de Máquinas.
+
+
+
+TEMA
+  1.MANTENIMIENTO INDUSTRIAL
+
+
+CAPITULO
+1.1.INTRODUCCIÓN AL MANTENIMIENTO INDUSTRIAL.
+1.Introducción. 2.Tipos de mantenimiento.
+3.Técnicas organizativas del mantenimiento. 4.Plan de
+mantenimiento. 
+CAPITULO
+1.2.INGENIERÍA DEL CICLO DE VIDA 1.Economia Circular
+2.Ingeniería del ciclo de vida. 3.Lean Maintenance
+4.Incidencia del mantenimiento.
+
+CAPITULO
+1.3.ANÁLISIS DE FALLOS EN EQUIPOS INDUSTRIALES.
+1.Clasificación de los fallos. 2.Mecanismos de fallo.
+3.Análisis de Fallos
+
+CAPITULO
+1.4.BASES TEÓRICAS PARA EL ANÁLISIS DE FALLOS.
+1.Fiabilidad. Funciones de distribución.
+2.Mantenibilidad. 3.Disponibilidad
+
+CAPITULO
+1.5.TÉCNICAS DE VERIFICACIÓN MECÁNICA.
+1.Introducción. 2.Parámetros funcionales.
+3.Técnicas de Verificación mecánica.
+4.Técnicas de Verificación específicas de
+motores. 5.Diagnosis y reparación de defectos en equipos
+industriales
+
+CAPITULO
+1.6.PLAN DE MANTENIMIENTO INDUSTRIAL. 1.Introducción.
+2.Organización de Mantenimiento Industrial 3.Análisis
+de Equipos. 4.Plan de Mantenimiento basado en RCM
+
+CAPITULO
+1.7.GESTIÓN DEL MANTENIMIENTO INDUSTRIAL.
+1.Gestión del Mantenimiento Correctivo.
+2.Gestión del Repuesto. 3.Gestión de los Recursos
+humanos en mantenimiento. 4.Calidad en Mantenimiento.
+5.Gestión de la Prevención de Riesgos Laborales.
+6.Gestión de la Información
+
+TEMA
+  2. SEGURIDAD EN EL DISEÑO Y FABRICACIÓN DE
+  MÁQUINAS
+
+
+CAPITULO
+  2.0.INTRODUCCIÓN A LAS CONDICIONES DE SEGURIDAD EN
+  MÁQUINAS.
+
+
+CAPITULO
+2.1.ARMONIZACIÓN TÉCNICA EUROPEA. 1.Mercado
+Único Europeo y antiguo Enfoque. 2.Directivas Europeas de
+Nuevo Enfoque, Enfoque Global. 3.Conceptos generales de marcado CE.
+4.Adopción de las Directivas de Nuevo Enfoque.
+5.Normalización Europea en el Campo de la
+Maquinaria.
+
+CAPITULO
+2.2.LA DIRECTIVA DE MÁQUINAS 2006/42/CE. 1.Seguridad
+de Máquinas. Antecedentes. 2.Campo de aplicación.
+3.Conceptos generales de la Directiva Máquinas.
+4.Requisitos Esenciales de Seguridad de Máquinas
+
+CAPITULO
+2.3.EVALUACIÓN DE LA CONFORMIDAD CE DE MÁQUINAS.
+1.Introducción. 2.Procedimientos de Evaluación
+de Conformidad. 3.Evaluación de Conformidad de
+Máquinas nuevas. 4.Evaluación de Conformidad de
+Máquinas Usadas. 5.Interpretaciones y Aclaraciones
+
+CAPITULO
+2.4.EVALUACIÓN DE RIESGOS EN MÁQUINAS.
+1.Introducción. 2.Definición de
+límites. 3.Identificación de Peligros.
+4.Estimación del riesgo. 5.Valoración
+del riesgo. 6.Evaluación de riesgos
+
+CAPITULO
+2.5.SELECCIÓN DE MEDIDAS DE SEGURIDAD DE MÁQUINAS Y
+EQUIPOS. 1.Categorías de Sistemas de Seguridad.
+2.Medidas de Seguridad en Máquinas. 3.Medidas de Seguridad
+en Herramientas
+
+C
+
+APITULO 2.6.SEGURIDAD
+INDUSTRIAL 1.Seguridad y Control de Productos.
+2.Responsabilidad por los daños causados por los productos.
+3.Otras Directivas aplicables a Máquinas
+
+PRÁCTICAS
+
+
+
+Análisis
+    de Ciclo de Vida
+
+
+Casos
+    prácticos. Fallos y fiabilidad
+
+
+Verificación
+    mecánica. Diagnostico de máquinas
+
+
+Plan
+    de mantenimiento
+
+
+Adecuación
+    y/o marcado CE
+
+
+'

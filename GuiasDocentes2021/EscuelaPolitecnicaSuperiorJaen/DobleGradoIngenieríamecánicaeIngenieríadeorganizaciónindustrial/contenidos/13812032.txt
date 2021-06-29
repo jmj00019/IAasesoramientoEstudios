@@ -1,0 +1,58 @@
+'
+
+Diseño y cálculo de instalaciones
+eléctricas de baja tensión
+Diseño y cálculo de instalaciones
+eléctricas de alta tensión
+Operación de máquinas eléctricas
+
+
+PROGRAMA DE TEORÍA
+
+Tema 0. Introducción.
+Tema 1. Sistemas de energía eléctrica.
+Generalidades.
+Tema 2. Centrales eléctricas.
+Tema 3. Operación de máquinas
+eléctricas
+Tema 4. Centros de transformación.
+Tema 5. Instalaciones eléctricas de baja
+tensión.
+Tema 6. El mercado eléctrico español 
+
+
+
+
+
+PROGRAMA
+  DE PRÁCTICAS
+
+
+Práctica
+  1 (P1): Ensayo de transformadores (2h)
+
+
+Práctica
+  2 (P2): Motores asíncronos (2h)
+
+
+Práctica
+  3 (P3): Visitas a un CT (2h)
+
+
+Práctica
+  4 -P4 (I)- Diseño y cálculo de un CT (1 h).
+
+
+Práctica
+  4 -P4 (II)- Diseño y cálculo de una
+  instalación de BT. (1 h).
+
+
+Práctica
+  5 (P5) Visita a una instalación eléctrica de BT
+  (2h).
+
+ 
+ 
+'

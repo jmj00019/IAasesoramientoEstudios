@@ -1,0 +1,19 @@
+'
+
+Planificación y estrategias de síntesis de
+moléculas orgánicas: Selectividad, Análisis
+retrosintético y Síntesis asimétrica.
+Síntesis orgánica asistida por ordenador.
+
+TEMA 1. Introducción a la síntesis
+orgánica. El método de la desconexión. TEMA 2.
+Desconexiones de dos grupos C-X. TEMA 3. Síntesis de aminas.
+TEMA 4. Grupos protectores. TEMA 5. Estereoquímica. TEMA 6.
+Síntesis de alcoholes. TEMA 7. Síntesis de
+carbonilos. TEMA 8. Síntesis de alquenos. TEMA 9. Compuestos
+1,3- y 1,5-difuncionalizados. TEMA 10. El grupo nitro en
+síntesis orgánica. TEMA 11. Compuestos
+1,2-difuncionalizados, 1,4-difuncionalizados y
+1,6-difuncionalizados. TEMA 12. Síntesis orgánica
+asistida por ordenador.
+'

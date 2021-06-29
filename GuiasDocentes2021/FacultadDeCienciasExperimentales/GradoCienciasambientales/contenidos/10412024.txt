@@ -1,0 +1,120 @@
+'
+
+Contaminación acústica
+Contaminación electromagnética
+Contaminación radiactiva
+Contaminación lumínica
+Contaminación térmica
+
+BLOQUE TEMÁTICO I: CONTAMINACIÓN
+ACÚSTICA
+ 
+
+Tema 1.- Acústica física
+
+Introducción.- Descripción de una onda sonora.-
+Intensidad e impedancia.- Absorción y atenuación del
+sonido.- Espectros sonoros.- Superposición de ondas
+acústicas.- Medición del campo acústico.-
+Reflexión y transmisión
+ 
+
+Tema 2.- Acústica fisiológica
+
+El oído humano.- Umbrales auditivos. Nivel de sonoridad y
+sonoridad.- Tono y timbre. Frecuencias y anchos de banda
+normalizados.- Efectos del ruido.- Escalas de ponderación.
+Índices.- Medida del ruido: sonómetros, analizadores
+espectrales, dosímetros.
+ 
+
+Tema 3.- Control del ruido y acústica
+  ambiental
+
+Fuentes de ruido ambiental.- Fundamentos físicos de los
+materiales absorbentes. Coeficiente de absorción.-
+Propagación del sonido en lugares cerrados. Tiempo de
+reverberación.- Propagación del sonido en el aire
+libre. Barreras acústicas.- Aislamiento acústico.-
+Planificación y control del ruido comunitario.- Normativa y
+legislación sobre el ruido
+ 
+BLOQUE TEMÁTICO II: CONTAMINACIÓN
+ELECTROMAGNÉTICA
+ 
+
+Tema 4.- Campos eléctricos y magnéticos de
+  frecuencia extremadamente baja
+
+El espectro electromagnético.- El problema de los campos
+magnéticos: Ondas EBF.- Campos inducidos.- Soluciones de
+control.
+ 
+
+Tema 5.- Radiofrecuencias y microondas
+
+El problema de las microondas.- Efectos de la radiación
+electromagnética.- Exposición y dosimetría.-
+Situación actual de la investigación en
+microondas.
+ 
+BLOQUE TEMÁTICO III: CONTAMINACIÓN RADIACTIVA
+
+ 
+
+
+Tema 6.- Radiactividad y medio ambiente
+
+Introducción. Radiactividad natural y artificial.-
+Interacción de la radiación con la materia.-
+Magnitudes radiológicas.- Programas de vigilancia y control
+de la radiación ambiental.- Aplicaciones de la
+radiactividad. Efectos biológicos de las radiaciones
+ionizantes.- Protección radiológica e instalaciones
+radiactivas. Gestión y transporte de material radiactivo
+ 
+BLOQUE TEMÁTICO IV: CONTAMINACIÓN
+LUMÍNICA
+ 
+
+Tema 7.- Contaminación lumínica
+
+Introducción.- Tipos de contaminación
+lumínica.- Magnitudes físicas.- Normativa.-
+Soluciones de control.
+ 
+BLOQUE TEMÁTICO V: CONTAMINACIÓN
+TÉRMICA
+ 
+
+Tema 8.- Contaminación térmica.
+  Ineficiencias energéticas
+
+Energía y medio ambiente.- Exergía.-
+Entropía y energía inutilizada.- Rendimiento
+termodinámico.- Contaminación térmica.-
+Residuos sólidos.- Aislamiento térmico.-
+Calefacción.- Medios de transporte.- Almacenamiento y
+transporte de energía.
+ 
+ 
+
+PROGRAMA DE PRÁCTICAS: Se
+realizarán 3 sesiones de prácticas (laboratorio y
+campo) de 2 horas de duración cada una, seleccionadas de la
+siguiente lista:
+ 
+1.- Mapa de ruido de la ciudad de Jaén
+2.- Predicción de valores de contaminación sonora
+en la ciudad de Jaén
+3.- Campos magnéticos de baja frecuencia en una
+vivienda
+4.- Antenas de telefonía móvil
+5.- Interacción de la radiación gamma con la
+materia
+6.- Interacción de la radiación beta con la
+materia
+7.- Estudio de la geometría de las emisiones
+radiactivas
+8.- Ley del decaimiento radiactivo: vida media
+'

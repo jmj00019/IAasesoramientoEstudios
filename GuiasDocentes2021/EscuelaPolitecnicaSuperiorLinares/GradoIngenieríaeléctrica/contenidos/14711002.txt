@@ -1,0 +1,37 @@
+'
+
+- Geometría Diferencial.
+- Ecuaciones Diferenciales en Derivadas Parciales.
+- Integración de funciones de varias variables:
+Integrales de línea y superficie.
+
+
+Tema 1. Cálculo Diferencial en Varias
+Variables. Límites y Continuidad.
+Diferenciabilidad. Regla de la Cadena. Teorema de la funcion
+implícita. Extremos de funciones de varias variables.
+
+Tema 2. Integración Múltiple.
+Integrales dobles y triples.
+
+Tema 3. Geometría Diferencial. Curvas
+parametrizadas. Fórmulas de Frenet. Superficies regulares.
+Formas fundamentales.
+
+Tema 4. Integral de línea y superficie.
+Integral de línea y superficie sobre campos escalares y
+vectoriales. Campos conservativos. Área de una superficie
+parametrizada. Teoremas integrales del cálculo
+vectorial.
+
+Tema 5. Ecuaciones en derivadas
+parciales. Series de Fourier. Ecuación de
+onda. Ecuación del calor.  
+
+
+CONTENIDOS DE PRÁCTICAS.
+
+
+   Se desarrollan los contenidos teóricos de la
+materia utilizando el programa Mathematica. 
+'

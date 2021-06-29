@@ -1,0 +1,61 @@
+'
+
+La web: arquitectura y funcionamiento. Programación en el
+ámbito del servidor y del cliente. Conexión con bases
+de datos. Interacción con el usuario. Gestión de
+Contenidos. Arquitectura de la Información. Servicios web.
+web.
+
+
+
+Teoría
+
+
+
+La
+    web: arquitectura y funcionamiento
+
+
+Sistemas
+    Hipermedia
+
+
+Diseño
+    de Sitios Web. Metodología Centrada en el Usuario
+
+
+Arquitectura
+    de la Información
+
+
+Usabilidad
+    Web
+
+
+Estrategia
+    de Contenidos
+
+
+
+ 
+
+
+Prácticas
+
+
+Diseño
+  y Desarrollo de un Sitio Web
+
+
+
+Servidores
+    Web
+
+
+Estándares
+    Web
+
+Tecnología
+  Web
+
+'

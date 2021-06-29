@@ -1,0 +1,92 @@
+'
+
+Protocolos de servicio a las aplicaciones multimedia. Tipos de
+tráfico incluyendo dependencia temporal. Voz sobre IP y
+videoconferencia. Codificaciones de audio y video. Protocolos de
+transporte para aplicaciones de streaming. Calidad de servicio en
+Internet y otras redes
+ 
+
+
+Unidades Teóricas
+
+
+ 
+Tema 1. Introducción a las aplicaciones
+multimedia.
+Introducción a las aplicaciones multimedia. Codificadores
+de contenidos. Requisitos necesarios: caudal, retardo, jitter,
+sincronización, multidireccionamiento, seguridad. Tipos de
+tráfico. Trafico con dependencia temporal. Protocolos de
+soporte. Calidad de servicio.
+  
+Tema 2. Aplicaciones multimedia: Servidores de streaming,
+Voz sobre IP (VoIP) y videoconferencia.
+Servidores de distribución de audio y video almacenado o
+en tiempo real, Servicio de audio y video interactivo Estructura de
+aplicaciones VoIP. Asterisk, VoIP Cisco. 
+
+ 
+Tema 3. Sesiones multimedia.
+Protocolo de establecimiento de sesiones multimedia SIP.
+Descripción de sesiones multimedia SDP.  H.323.
+Servidores de registro y localización. Unidad de control
+multimedia (MCU). Replicación de tráfico.
+
+ 
+Tema 4.  Servicios de streaming
+multimedia
+Real-Time Streaming Protocol (RTSP). Protocolo de
+aplicación de gestíon de grupos multicast IGMP
+(Internet Group Management Protocol)
+
+Tema 5. Protocolos de transporte de tiempo real.
+
+Protocolos de transporte de datos con dependencias temporales.
+RTP. RTCP.  
+
+ 
+Tema 6. Codificación de contenido
+multimedia.
+Codificación de voz. Codificación de
+imágenes y video.
+
+ 
+
+
+Unidades Prácticas
+
+El bloque práctico de la asignatura se compone
+deprácticas en el laboratorio, y su carácter es
+obligatorio. Además, se desarrollarán habilidades de
+comunicación información, ideas, problemas y
+soluciones en el ámbito de ingeniería y la sociedad
+en general a través de procesos de entrega de
+documentación o presentaciones orales.
+Con respecto a la organización del trabajo, se
+fomentará la colaboración y trabajo en equipo
+através del propio diseño de las
+prácticas.
+Práctica 1. Estudio y análisis de servicios de
+streaming.
+1.1 Utilización de  plataformas gratuitas y software
+para analisis de protocolos.
+1.2 Utilización de servidor streaming sobre HTTP 
+ 
+1.3 Utilización de servidor streaming sobre
+RSTP 
+1.4 Utilización de plataformas deVoIP para estudio de
+intercambio de mensajes SIP.
+Práctica 2. Estudio y análisis de plataformas
+deTV a la carta.
+Práctica 3. Instalación, configuración
+yevaluación de servidores de streaming con RTP
+3.1 Configuración de sesiones multimedia
+3.2 Uso de distintos códec en la transmisión
+decontenidos multimedia y medidas de parámetros (Medidas de
+caudal, latencia y jitter)
+3.3 Análisis de tráfico generado en la
+transmisión de contenidos multimedia
+ 
+ 
+'

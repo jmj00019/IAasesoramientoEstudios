@@ -1,0 +1,59 @@
+'
+
+Prospección gravimétrica
+1. Introducción a la prospección
+gravimétrica.
+Su lugar entre los diferentes métodos de
+prospección. Principios físicos.
+2. Instrumentos y medición del campo gravitatorio
+terrestre.
+Instrumentos para campañas terrestres, marinas y sondeos.
+Prácticas de medición.
+3. Diseño de una campaña de exploración
+gravimétrica y procedimiento en campo.
+4. Anomalía de la gravedad. Reducciones.
+Anomalía de la gravedad. Reducción de la gravedad.
+Separación de la anomalía regional de la residual.
+Determinación de la densidad del terreno.
+Anomalías típicas de diferentes estructuras
+geológicas.
+5. Procesamiento de las medidas realizadas e
+interpretación.
+Procesado de las medidas realizadas en campo. Comparación
+con modelos. Modelización inversa. Interpretación
+cuantitativa. Ambigüedad de la información
+gravimétrica.
+Prácticas de campo.
+
+
+1.
+  Introducción a la Prospección
+  Gravimétrica
+
+
+2.
+  Instrumentos y medición del campo gravitatorio
+  terrestre.
+
+
+3.
+  Diseño de una campaña de exploración
+  gravimétrica y procedimiento en campo.
+
+
+4.
+  Anomalía de la gravedad. Reducciones.
+
+
+5.
+  Procesamiento de las medidas realizadas e
+  interpretación.
+
+
+-
+  Prácticas de campo: 1. Medición con el
+  gravímetro. 2. Diseño y realización de una
+  campaña de medición. 3. Procesamiento de los datos.
+  4. Interpretación.
+
+'

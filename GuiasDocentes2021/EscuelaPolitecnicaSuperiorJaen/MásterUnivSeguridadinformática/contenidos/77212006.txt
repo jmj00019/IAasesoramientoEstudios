@@ -1,0 +1,80 @@
+'
+
+· Aspectos de seguridad en las redes de comunicaciones.
+Seguridad en Internet.
+· Sistemas de defensa perimetral. Cortafuegos.
+Detección y prevención de intrusiones.
+· Topologías de defensa. Zonas
+desmilitarizadas.
+· Seguridad en el nivel físico y de enlace.
+Transmisión segura. Seguridad en redes locales.
+Autenticación. Seguridad en redes inalámbricas.
+· Seguridad en el nivel de red. Protocolos de
+seguridad. Redes privadas virtuales.
+· Seguridad en servicios de red.
+
+
+TEORIA
+
+
+Tema
+  1.- INTRODUCCIÓN.
+
+
+Aspectos
+  de seguridad en las redes de comunicaciones. Seguridad en
+  Internet.
+
+
+Tema
+  2.- SEGURIDAD EN REDES LOCALES.
+
+
+Características
+  principales de las redes de área local. Redes locales
+  virtuales. Conmutadores de nivel 2. Seguridad en redes locales.
+  Puntos de acceso.
+
+
+Tema
+  3.- SEGURIDAD EN REDES DE ACCESO.
+
+
+Características
+  principales de las redes de acceso cableadas e
+  inalámbricas a Internet. Equipos de comunicaciones de
+  acceso a Internet.   
+
+
+Tema
+  4.- SEGURIDAD EN EL NIVEL DE RED.
+
+
+Características
+  principales protocolo IP. Protocolos de seguridad de red IPSec e
+  IPV6. Redes privadas virtuales. Conmutadores de nivel 3.
+  Seguridad en servicios de red.
+
+
+Tema
+  5.- SISTEMAS DE DEFENSA.
+
+
+Sistemas
+  de defensa perimetral. Topologías de defensa. Zonas
+  desmilitarizadas. Cortafuegos. Tecnologías en los equipos
+  cortafuegos. Detección y prevención de intrusiones.
+  Redes privadas virtuales.
+
+
+ 
+
+
+PRÁCTICAS.
+
+
+Configuración
+y verificación de tecnologías de seguridad en equipos
+de comunicaciones switches y routers. Diseño de
+una red de una empresa con varias sedes. 
+'

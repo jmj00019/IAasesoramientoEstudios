@@ -1,0 +1,150 @@
+'
+
+TEÓRICOS
+Módulo I: Conceptos básicos relacionados con los
+ordenadores.
+Definición de conceptos y terminología
+básica en informática.
+Representación de la información.
+Estructura de un ordenador.
+Módulo II: Hardware y Software
+Clasificación de los distintos tipos de
+periféricos atendiendo a su funcionalidad.
+Clasificación de los distintos tipos de aplicaciones
+informáticas.
+Sistemas operativos.
+Módulo III: Redes de ordenadores.
+Arquitectura de redes.
+Modelo Cliente-Servidor.
+Servicios apoyados en las redes de ordenadores
+Módulo IV: Internet, Intranets y Extranets
+Tecnologías y conceptos utilizados en Internet.
+Características y servicios propios de una Intranet.
+Características y servicios propios de una Extranet.
+Módulo V: Software Libre y su aplicación en la
+Administración Pública.
+Características del software libre.
+Ventajas del software libre para la administración.
+Aplicaciones informáticas de software libre desarrolladas
+por y para la administración
+PRÁCTICOS
+El temario práctico se impartirá en los
+laboratorios de ordenadores. Se trabajará principalmente con
+herramientas informáticas encuadradas dentro de la
+categoría de software libre aunque no obstante se
+utilizará software propietario en aquellos casos en que se
+considere oportuno. Las áreas temáticas serán
+las siguientes:
+Utilización de una suite de ofimática.
+Utilización de los diferentes recursos disponibles a
+través de Internet (FTP, IRC,...)
+Trabajo en un entorno de red (compartición de recursos,
+seguridad, etc)
+Opciones avanzadas del Sistema Operativo.
+
+
+TEMA 1: INFORMÁTICA
+
+1.1. Informática. Definición y conceptos
+básicos.  
+1.2. Representación de la información en un
+ordenador.     
+1.3. Estructura funcional de un ordenador.  
+1.4. Clasificación de los
+ordenadores.          
+1.5. Aplicaciones de la informática. 
+
+TEMA 2:
+  HARDWARE      
+
+2.1. Procesadores.
+2.2. Memoria.
+2.3. Jerarquía de memoria.    
+2.4. Los periféricos.  
+
+TEMA 3:
+  SOFTWARE       
+
+3.1. Software de
+sistema.      
+3.2. Software de aplicación.  
+3.3. Software a
+medida.        
+
+TEMA 4: REDES DE ORDENADORES
+
+4.1. Algo de historia. 
+4.2. Uso de las redes de
+ordenadores.          
+4.3. Conceptos básicos sobre redes de
+ordenadores.          
+4.4. Clasificación de las redes de
+ordenadores.        
+4.5. Seguridad en las redes de ordenadores. 
+4.6. Servicios de las redes de ordenadores.  
+
+TEMA 5:
+  INTERNET         
+
+5.1. Historia.
+5.2. Identificación de ordenadores en
+internet.        
+5.3. Acceso a internet.
+5.4. Servicios y recursos proporcionados por
+internet.      
+5.4.1. Correo
+electrónico.     
+5.4.2. News.  
+5.4.3. FTP o transferencia de
+ficheros.         
+5.4.4.  World Wide
+Web.       
+5.4.5. IRC (Internet Relay
+Chat)          
+.
+5.4.6. Mensajería
+instantánea.    
+5.4.7. Redes sociales      
+5.5. Nettiquete o las normas de educación en
+internet.       
+
+TEMA 6: INTRANETS Y EXTRANETS 
+
+6.1. Herramientas y beneficios de las
+intranets.      
+6.2. Ventajas del uso de las
+intranets           
+.
+6.3. Extranets.
+
+TEMA 7: SOFTWARE LIBRE
+
+7.1. Historia y
+evolución.         
+7.2. Objetivos.     
+7.3. Diferencias entre software libre y software privativo
+o propietario
+7.4. Actuaciones de las Administraciones Públicas en el
+mundo del software.
+7.5. Importancia del Solftwa Libre en la Administracción
+Pública
+7.6. Dificultades de adopción.
+
+PRÁCTICOS
+
+El temario práctico se impartirá en los
+laboratorios de ordenadores. Se trabajará principalmente con
+herramientas informáticas de tipo ofimático
+pertenecientes a la categoría de Software Libre. No obstante
+se utilizará Software Propietario o Privativo en aquellos
+casos en que se considere oportuno.
+Las áreas temáticas serán las
+siguientes:
+
+Utilización de una suite de ofimática
+Utilización de los diferentes recursos disponibles a
+  través de Internet (FTP, IRC, WWW, etc)
+Trabajo en un entorno de red (compartición de
+  recursos, seguridad, etc)
+
+'

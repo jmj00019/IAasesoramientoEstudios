@@ -1,0 +1,319 @@
+'
+
+Herramientas de simulación de circuitos eléctricos
+Análisis de circuitos en régimen estacionario
+sinusoidal
+Sistemas trifásicos equilibrados y desequilibrados
+Régimen transitorio en circuitos eléctricos
+Armónicos
+
+
+CAPÍTULO 1 ANÁLISIS DE CIRCUITOS EN
+RÉGIMEN ESTACIONARIO SINUSOIDAL  
+
+TEMA 1.1.- Análisis por medio del álgebra
+  compleja.
+
+1.- Introducción.
+2.- Representación de las ondas sinusoidales por
+números complejos.
+3.- Determinación del régimen estacionario
+sinusoidal por el método simbólico.
+4.- Comportamiento ante una señal sinusodial de:
+resistencia, bobina y condensador.
+5.- Impedancia y admitancia. Immitancia.
+6.- Forma binómica de las immitancias. Resistencia y
+reactancia. Conductancia y suceptancia.  
+
+TEMA 1.2.- Energía y potencia en régimen en
+  estacionario senoidal.
+
+1.- Introducción.
+2.- Relación de potencia y energía en los
+elementos pasivos básicos.
+3.- Relaciones de potencia y energía en los dipolos.
+4.- Potencia instantánea. Potencia media. Potencia
+activa. Potencia fluctuante.
+5.- Potencia aparenta, activa y reactiva.
+6.- Potencia compleja y su notación simbólica.
+Diferentes expresiones de la potencia activa y reactiva.
+7.- Factor de potencia y su importancia en el suministro de
+energía eléctrica.
+8.- Corrección del factor de potencia.  
+
+TEMA 1.3.- Técnicas de análisis de
+  circuitos en régimen senoidal.
+
+1.- Características topológicas de un
+circuito.
+2.- Número de ecuaciones independientes.
+3.- Elección de las ecuaciones nodales y circulares
+independientes.
+4.- Método de análisis por mallas. Forma matricial
+de las ecuaciones circulares.
+5.- Método de análisis por nudos. Forma matricial
+de las ecuaciones nodales.
+6.- Aplicación de teoremas: superposición;
+Thevenin y Norton.  
+
+TEMA 1.4. Resonancia.
+
+1.- Introducción.
+2.- Resonancia en circuitos eléctricos.
+3.- Resonancia en serie o tensión.
+4.- Resonancia paralelo.
+5.- Procesos energéticos en condiciones de
+resonancia.
+6.- Factor de calidad.
+ 
+ 
+
+CAPITULO 2 SISTEMAS TRIFÁSICOS EQUILIBRADOS Y
+  DESEQUILIBRADOS  
+
+
+TEMA 2.1. Sistemas trifásicos
+  equilibrados.
+
+1.- Introducción.
+2.- Generación de un sistema trifásico de
+tensiones equilibradas. - Conexión de fuentes en estrella y
+en triángulo.
+3.- Noción de fase y secuencia de fase.
+4.- Cargas trifásicas en estrella y triángulo.
+5.- Tensión de fase y de línea. Intensidad de fase
+y de línea. Relación entre ambas en los sistemas
+equilibrados.
+6.- Circuitos trifásicos equilibrados. Cálculo de
+los mismos por reducción a un problema
+monofásico.
+7.- Potencia en los sistemas trifásicos equilibrados:
+Activa. Reactiva. Aparente. Potencia compleja.
+8.- Factor de potencia. Mejora del factor de potencia.
+ 
+
+TEMA 2.2. Sistemas trifásicos
+  desequilibrados.
+
+1.- Introducción.
+2.- Sistemas trifásicos desequilibrados. Condiciones de
+desequilibrio.
+3.- Componentes simétricas.
+4.- Descomposición de un sistema de vectores en sus
+componentes simétricas.
+5.- Potencia de un sistema desequilibrado.
+6.- Estudio de sistemas trifásicos desequilibrados en
+tensiones.
+7.- Impedancia a la secuencia directa, inversa y homopolar.
+Redes de secuencia
+8.- Estudio de circuitos trifásicos desequilibrados en
+impedancias.  
+
+TEMA 2.3. Estudio de cortocircuitos
+  desequilibrados
+
+1.- Aplicación de las componentes simétricas al
+cálculo de cortocircuitos desequilibrado
+2.- Tipos de cortocircuitos desequilibrados: fase tierra,
+bifásico, bifásico a tierra
+3.- Determinación de las ecuaciones para el
+análisis de los distintos tipos.  
+ 
+
+ 
+
+
+CAPITULO 3 RÉGIMEN TRANSITORIO EN CIRCUITOS
+  ELÉCTRICOS  
+
+
+TEMA 3.1 Fundamentos
+
+1.- Introducción
+2.- Ecuaciones diferenciales con coeficientes constantes.
+3.- Métodos resolutivos de la ecuación
+diferencial. 3.1- Método clásico. 3.2.- Método
+operacional (Transformada de Laplace).
+4.- Condiciones iniciales en las redes
+5.- Condiciones iniciales en los elementos pasivos simples:
+Resistencia, bobina y condensador  
+
+TEMA 3.2 Resolución del transitorio por el
+  método clásico en circuitos de primer
+  orden
+
+1.- Respuesta natural y permanente.
+2.- Constantes de tiempo.
+3.- Análisis de un circuito RC en serie
+4.- Análisis de un circuito RL en serie
+5.- Análisis de otros circuitos de primer orden
+6.- Procedimientos para evaluar la constante de
+integración.
+7.- Método esquemático para la resolución
+de circuitos de primer orden.  
+
+TEMA 3.3 Resolución del transitorio por el
+  método clásico en circuitos de segundo
+  orden
+
+1.- Respuesta natural, ecuación
+característica.
+2.- Circuitos sobreamortiguados, críticamente
+amortiguados y subamortiguados.
+3.- Análisis de un circuito RLC en serie
+4.- Análisis de un circuito RLC en paralelo
+5.- Evaluación de las constantes de integración en
+circuitos de segundo orden.  
+
+TEMA 3.4 Resolución del transitorio por el
+  método operacional.
+
+1.- Introducción.
+2.- La Transformada de Laplace.
+3.- Propiedades y teoremas básicos de la Transformada de
+Laplace.
+4.- Transformadas inversas de Laplace.
+5.- Descomposición en fracciones simples.
+6.- Procedimientos para el análisis de circuitos mediante
+la Transformada de Laplace.
+7.- Impedancias operacionales y circuitos operacionales.
+8.- Técnicas de análisis en circuitos
+operacionales.  
+
+TEMA 3.5 Aplicación al cálculo de
+  cortocircuitos eléctricos
+
+1.- Régimen transitorio en cortocircuitos
+eléctricos.
+2.- Factores que influyen en los fenómenos transitorios
+del cortocircuito.
+3.- Comportamiento de los principales elementos de un sistema
+eléctrico ante el c.c.
+4.- Cortocircuito en una red interconectada.
+5.- Normas y recomendaciones en el cálculo de las
+corrientes de c.c.
+ 
+
+CAPITULO 4 ARMÓNICOS  
+
+
+TEMA 4.1. Introducción. Fuentes de
+  armónicos.
+
+1.- La red ideal, parámetros fundamentales.
+2.- Origen de los armónicos- cargas no lineales.
+3.- Definición de armónico.
+4.- Fuentes de armónicos: corrientes magnetizantes en
+transformadores; lámparas de descarga; convertidores
+estáticos; hornos de arco...  
+
+TEMA 4.2. Análisis de Fourier.
+
+1.- Series de Fourier
+2.- Evaluación de los coeficientes de Fourier.
+3.- Efecto de las simetrías de forma de onda sobre los
+coeficientes de Fourier.
+4.- Representación gráfica, espectros
+5.- Valor eficaz de una señal periódica no
+senoidal.
+6.- Factores de las señales periódicas.
+Índices para la medición de armónicos.
+
+TEMA 4.3. Análisis de circuitos con
+  armónicos
+
+1.- Analisis de circuitos lineales excitados con señales
+periódicas no senoidales.
+2.- Potencia activa, reactiva, aparente, reactiva de
+distorsión y factor de potencia.
+3.- Aplicación a circuitos trifásicos. Secuencia
+de fase de los armónicos.  
+
+TEMA 4.4. Efectos de los armónicos en los sistemas
+  eléctricos.
+
+1.- Efectos sobre los conductores
+2.- Efectos sobre los transformadores
+3.- Efectos sobre los condensadores
+4.- Efectos sobre los motores
+5.- Efectos sobre los sistemas de protección
+6.- Efectos sobre otros equipos
+7.- Corrientes de neutro
+8.- Resonancias  
+
+TEMA 4.5. Filtrado de armónicos
+
+1.- Introducción
+2.- Filtros pasivos
+En derivación: filtros sintonizados; filtros amortiguados
+     
+En serie: filtros de bloqueo
+3.- Filtros activos: en serie; en derivación.
+4.- Filtros híbridos.  
+
+TEMA 4.6. Normativa sobre armónicos
+
+1.- Normas
+2.- Niveles de emisión compatibilidad y
+planificación  
+ 
+
+RELACIÓN DE PRÁCTICAS
+
+ 
+ 1  Análisis de circuitos en régimen
+estacionario sinusoidal
+
+     a- Comportamiento de elementos pasivos
+ante una señal sinusoidal.
+
+     b- Potencias
+
+     c- Simulación mediante Pspice
+
+2   Técnicas de análisis de circuitos
+
+      a-Mallas y nudos
+
+      b-Teoremas: superposición y
+Thevenin
+
+      c-Simulación mediante
+Pspice
+3
+Resonancia
+
+      a-Simulación mediante
+Pspice
+4 Sistemas
+trifásicos equilibrados
+
+      a-Cargas trifásicas estrella
+y triángulo
+
+      b-Medida de potencia en sistemas
+trifásicos equilibrados
+
+      c-Simulación de los ensayos
+realizados
+5 Sistemas
+trifásicos desequilibrados
+
+      a-Medida de potencia en los sistemas
+desequilibrados
+
+      b-Simulación de los ensayos
+realizados
+6
+Transitorio en circuitos eléctricos
+
+      a-Transitorio de primer orden
+cálculo y simulación
+
+      b-Transitorio de segundo orden
+cálculo y simulación
+7
+Armónicos, identificación y registro de
+armónicos
+ 
+'

@@ -1,0 +1,87 @@
+'
+
+Introducción a la logística industrial. El
+inventario de materiales. Aprovisionamiento y gestión de
+inventarios. Técnicas modernas de gestión de stocks.
+Logística de almacenes. Manutención industrial.
+Transporte y distribución física. Integración
+de actividades logísticas.
+ 
+
+
+1.- INTRODUCCIÓN A LA LOGÍSTICA
+  INDUSTRIAL
+
+Conceptos previos
+Evolución del concepto de logística
+El sistema logístico de la empresa
+Conceptos avanzados y nuevas tendencias en
+logística
+
+2.- EL INVENTARIO DE MATERIALES
+
+Conceptos básicos
+Funciones básicas del inventario
+Tipos de inventarios
+Efectos sobre la rentabilidad
+Costes relacionados con el inventario
+Clasificación ABC
+
+3.-
+APROVISIONAMIENTO Y GESTIÓN DE
+INVENTARIOS
+La Función de Aprovisionamiento
+Selección y evaluación de proveedores
+El Lote económico
+Stock base y stock de seguridad
+Sistemas de reposición de stocks
+El control de inventarios
+
+4.- LOGÍSTICA DE ALMACENES
+
+Introducción al almacenaje
+Clases de almacenes
+Distribución en planta del almacén
+Unidades de carga y paletización
+Sistemas de almacenaje
+Equipos de manutención
+Elementos de diseño de almacenes
+Metodología del proyecto
+
+5.- MANUTENCIÓN INDUSTRIAL
+
+Introducción a la manutención industrial
+Sistemas de manutención en producción
+
+
+6.- TRANSPORTE Y DISTRIBUCIÓN
+FÍSICA
+La función del transporte
+Modos de transporte
+Administración de la flota de vehículos
+Planificación de rutas de reparto
+Utilización eficiente de flotas de
+vehículos
+
+7.- INTEGRACIÓN DE ACTIVIDADES
+  LOGÍSTICAS
+
+Evolución de la cadena de producción
+Circuitos y flujos logísticos
+Soluciones logísticas
+
+
+PROGRAMA PRÁCTICO
+
+
+Revisión y debate de artículos
+  técnicos
+Costes de inventario, Cálculo de stock de seguridad y
+  lotes de pedido
+Análisis ABC y gestión de almacenes
+Localización de almacenes
+Prediseño del almacén
+Análisis de casos prácticos en aula
+Visitas técnicas
+
+'

@@ -1,0 +1,134 @@
+'
+
+
+
+
+Estructura y propiedades de los componentes de la materia
+  viva y su relación con la función biológica
+  que desempeñan. Estudio de las principales rutas
+  metabólicas. Principios generales de regulación e
+  integración.
+
+
+
+ 
+
+
+
+
+PROGRAMA DE
+  TEORÍA:
+
+
+1. Introducción.
+  Importancia de la bioquímica en las ciencias
+  sanitarias. Bioelementos y biomoléculas. Propiedades
+  físico-químicas del agua. pH. Ácidos y
+  bases. Tampones.
+
+
+2. Glúcidos:
+  Funciones biológicas relevantes de los glúcidos.
+  Tipos de glúcidos: Monosacáridos,
+  oligosacáridos y polisacáridos.
+
+
+3. Lípidos:
+  Tipos de lípidos. Transporte de lípidos por el
+  sistema circulatorio humano.
+
+
+4. Ácidos
+  nucleicos: Nucleótidos. ADN y ARN.
+  Replicación, transcripción y traducción.
+  Mutaciones.
+
+
+5. Proteínas:
+  Aminoácidos. El enlace
+  peptídico. Características generales de las
+  proteínas. Niveles estructurales de las
+  proteínas. Desnaturalización de proteínas.
+  Relación estructura-función de las
+  proteínas. 
+
+
+6.  Enzimas:
+  Clasificación. Propiedades generales. Mecanismos de
+  catálisis enzimática. Coenzimas. Factores que
+  influyen en la cinética enzimática. Inhibidores
+  enzimáticos. Isoenzimas. Zimógenos. Importancia de
+  las enzimas en el ámbito clínico.
+
+
+7.  Introducción
+  al metabolismo. Conceptos básicos. Rutas centrales del
+  metabolismo y su estructura. Principios de bioenergética.
+  Papel del ATP. La oxidación como fuente de energía
+  metabólica.
+
+
+8.  Control
+  del metabolismo. Importancia de las concentraciones de sustratos
+  y enzimas. Control de la actividad enzimática.
+  Compartimentación celular. Mecanismos bioquímicos
+  de acción hormonal.
+
+
+9.  Metabolismo
+  glucídico. Síntesis y degradación del
+  glucógeno. Glucólisis y gluconeogénesis. El
+  ciclo de las pentosas fosfato.
+
+
+10.  Rutas
+  comunes del metabolismo energético. Ciclo de Krebs, cadena
+  de transporte electrónico y fosforilación
+  oxidativa.
+
+
+11.  Metabolismo
+  lipídico. Lipólisis y lipogénesis.
+  Síntesis y degradación de los ácidos grasos.
+  Cetogénesis.
+
+
+12.  Principios
+  del metabolismo nitrogenado. Reacciones generales de los
+  aminoácidos. Catabolismo del esqueleto hidrocarbonado de
+  los aminoácidos. Ciclo de la urea.
+
+
+ 
+
+
+
+PROGRAMA DE
+  PRÁCTICAS:
+
+
+
+ 
+ 1.  Manejo
+de material de uso general en el laboratorio. Preparación de
+disoluciones y tampones. Determinación del pH.
+
+2.  Análisis
+  de la concentración de glucosa en suero
+  sanguíneo.
+
+
+3.
+  Detección inmunológica de una proteína por
+  dot blot.
+
+
+4. Análisis
+  de la actividad de una enzima en una muestra
+  biológica.
+
+
+5. Práctica
+  virtual: Detección de coronavirus por PCR.
+
+'

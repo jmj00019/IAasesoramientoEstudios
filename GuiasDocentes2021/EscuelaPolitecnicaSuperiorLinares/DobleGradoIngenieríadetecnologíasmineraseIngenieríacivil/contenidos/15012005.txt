@@ -1,0 +1,217 @@
+'
+
+El Ingeniero Civil en la Edificación. Conocimiento de la
+normativa que regula el proceso de la edificación y la de
+cálculo de la estructura del edificio. Proyecto y
+cálculo de edificios con estructura de hormigón
+armado y pretensado, estructura metálica, estructura de
+madera, estructura de obra de fábrica. Acabados,
+revestimientos e instalaciones de un edificio. Edificaciones
+industriales. Patología y terapéutica de estructuras
+de edificación.
+
+
+
+BLOQUE A.- El Ingeniero Civil en
+  la Edificación. 
+
+
+Tema 1.- Competencias del Ingeniero
+  Civil en la Edificación. Normativa Vigente.
+
+
+En este tema, se presentan al alumno
+  las exigencias de proyecto y construcción de los
+  edificios, estableciendo las competencias que tiene el ingeniero
+  civil en ellas. Marco legislativo básico que rige este
+  sector, incidiendo tanto en la normativa española como en
+  la internacional (Eurocódigo y ACI).
+
+
+Tema 2.- Metodología BIM ( 
+  Building Information Modeling).
+
+
+Introducción al cambio de
+  paradigma que se está produciendo en el sector de la
+  construcción. Proyecto, ejecución y
+  explotación de un edificio en metodología BIM.
+  Diferencias respecto al sistema tradicional.
+
+
+
+BLOQUE B.- Cálculo de la
+  Estructura de un Edificio.
+
+
+En este bloque, se
+  utilizarán los conocimientos adquiridos en las
+  asignaturas de Teoría y Cálculo de Estructuras,
+  aplicados de manera específica al mundo de la
+  edificación. Asimismo, se emplearán las nociones
+  fundamentales de cálculo de hormigón armado,
+  elementos prefabricados y estructura metálica, necesarios
+  a la hora de proyectar edificios.
+
+
+Tema 3.- Tipologías de
+  estructuras de edificación.
+
+
+Se describen las diferentes
+  tipologías de estructuras en edificación para
+  resistir cargas gravitatorias: (i) porticadas; (ii)
+  bidireccionales (losa maciza y aligerada), (iii) enconfrado
+  túnel. Asimismo, se describen los tipos de estructuras
+  para resistir acciones laterales de viento y sismo, compuestas
+  por estructuras base o principales para resistir cargas
+  gravitatorias junto a elementos primarios para resistir cargas
+  laterales como son muros pantalla de cortante ( 
+  shear walls), disipadores de energía ( 
+  dampers) o sistemas de aislamiento de base con
+  disipadores de energía ( 
+  base isolated buildings).
+
+
+Tema 4.- Cálculo de acciones
+  en edificación.
+
+
+Cálculo de acciones y sus
+  combinaciones, tanto para estados límite de servicio como
+  últimos, según el Código Técnico de
+  la Edificación.
+
+
+Tema 5.- Cimentaciones:
+  cálculo y ejecución.
+
+
+Principales sistemas de
+  cimentación de un edificio: superficial (zapatas y losas)
+  y profunda (pilotes y micropilotes), así como sistemas de
+  contención de tierras mediante muro tradicional y muro
+  pantalla con anclajes activos. El alumno debe comprender la
+  importancia de esta parte del edificio, como elemento que
+  interactúa con su entorno: (i) con edificios medianeros,
+  (ii) cuando se sitúa a media ladera, (iii) en
+  rehabilitación con mantenimiento de fachadas protegidas
+  por patrimonio, etc.
+
+
+Tema 6.- Cálculo de la
+  estructura sometida a acciones gravitatorias.
+
+
+Cálculo simplificado de una
+  estructura porticada frente a cargas gravitatorias, destacando el
+  concepto de reparto de carga entre barras en función de su
+  rigidez. Concepto de área tributaria. Cálculo de
+  forjados unidireccionales y bidireccionales. Tipologías de
+  forjados: prefabricados, losa maciza, aligerados y mixtos.
+
+
+Tema 7.- Cálculo de la
+  estructura sometida a acciones laterales de viento y
+  sismo.
+
+
+Cálculo simplificado de una
+  estructura porticada sometida a acciones laterales de viento y
+  sismo. Concepto de rigidez lateral tanto de elementos portantes
+  verticales como de planta completa. Concepto de ductilidad y
+  Regla de igual desplazamiento en cálculo elástico y
+  plástico. Concepto de diafragma rígido. Concepto de
+  estructura de péndulo inverso. Cálculo de Centros
+  de masas y Centros de Torsión de planta. Dinámica
+  de una estructura de edificación mediante un modelo de
+  masas concentradas: modos de vibración. Cálculo
+  sismorresistente según la norma NCSE-02, teniendo en
+  cuenta a su vez varios complementos incluidos tanto en la norma
+  ACI 318-11 como en el Eurocódigo-8. Patologías
+  derivadas de un incorrecto planteamiento estructural debido a la
+  acción lateral de viento y sismo.
+
+
+
+BLOQUE C.- Puesta en obra de un
+  Edificio
+
+
+Tema 8.- Inicio de la obra: Replanteo
+  y Explanaciones
+
+
+Implantación de un edificio en
+  una parcela determinada. Para ello se describe la
+  interacción entre las fases de replanteo
+  topográfico y movimiento de tierras para lograr la
+  explanación necesaria que permita construir el edificio.
+  Bases de replanteo. Replanteo tradicional y mediante GPS.
+
+
+Tema 9.- Ejecución de la
+  estructura: cimentación y superestructura.
+
+
+Procedimiento de ejecución de
+  la estructura desde la cimentación, destacando aquellos
+  aspectos críticos en cuanto a evitar la entrada de agua,
+  replanteo de estructura, disposición de armadura,
+  encofrados, cimbras, puesta en obra del hormigón y/o
+  ejecución de estructura metálica. Diferencias entre
+  edificación residencial-comercial e industrial.
+
+
+Tema 10.- Albañilería,
+  Impermeabilización y Revestimientos.
+
+
+Aspectos constructivos de los
+  diferentes sistemas para la ejecución de cerramiento
+  tradicional mediante fábrica de ladrillo así como
+  de particiones (fábrica de ladrillo y yeso laminado),
+  garantizando el aislamiento termo-acústico establecido por
+  la normativa (Código Técnico de la
+  Edificación). Sistemas de impermeabilización de
+  cubiertas mediante láminas de PVC y tela asfáltica.
+  Principios fundamentales para la ejecución de los
+  revestimientos cerámicos, de mortero y yeso. 
+  Diferentes
+  sistemas de solería con su procedimiento de
+  ejecución específico. Finalmente, se
+  destacarán los principales aspectos a considerar en la
+  puesta en obra de carpinterías interiores y
+  exteriores.
+
+
+Tema 11.- Cerramientos de Fachada
+  Singulares
+
+
+En este tema, se pretenden destacar
+  las peculiaridades de diferentes sistemas de cerramiento de
+  fachada considerados como singulares (no tradicionales),
+  así como su influencia sobre la estructura. Se
+  analizarán los siguientes tipos: (i) los cerramientos
+  mediante paneles prefabricados de hormigón
+  (edificación industrial, administrativa y residencial),
+  (ii) cerramientos mediante paneles metálicos, (iii)
+  fachada ventilada de piedra, cerámica o madera y (iv) muro
+  cortina del tipo estructural, semiestructural y con
+  palillería vista (tapetas).   
+
+
+Tema 12.- Instalaciones
+
+
+Descripción de los diferentes
+  tipos de instalaciones que presenta un edificio, su puesta en
+  obra, así como su influencia en la geometría del
+  edificio, en la estructura y en las particiones del edificio. Se
+  analizarán las instalaciones de electricidad,
+  fontanería, saneamiento, telecomunicaciones (voz-datos),
+  CCTV, contraincendios, climatización, gas, termosolar,
+  fotovoltaica y domótica.
+
+'

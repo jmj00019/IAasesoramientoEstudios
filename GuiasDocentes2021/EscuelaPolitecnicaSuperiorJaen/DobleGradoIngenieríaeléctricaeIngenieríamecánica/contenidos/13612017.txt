@@ -1,0 +1,712 @@
+'
+
+Cálculo eléctrico de líneas e instalaciones
+eléctricas en alta tensión
+Cálculo mecánico de líneas
+eléctricas en alta tensión
+Elementos de protección a sobretensiones
+Subestaciones y centros de transformación
+
+
+Temario de teoría
+
+ 
+
+Unidad didáctica 1: Líneas aéreas de
+  alta tensión
+
+ 
+
+
+Bloque 1: Elementos constitutivos de las líneas
+  aéreas
+
+ 
+
+Tema 1: Conductores
+
+ 
+1.- Introducción
+2.- Características eléctricas y
+mecánicas
+3.- Conductores de fase
+4.- Conductores de tierra
+ 
+
+Tema 2: Apoyos
+
+ 
+1.- Introducción y características generales
+2.- Clasificación
+3.- Tipos de apoyos
+ 
+
+Tema 3: Aisladores y herrajes
+
+ 
+1.- Introducción
+2.- Aisladores
+3.- Herrajes
+4.- Cadenas tipo
+5.- Nivel de aislamiento
+6.- Cálculo eléctrico de la cadena de
+aisladores
+7.- Cálculo mecánico de la cadena de
+aisladores
+8.- Distribución de potenciales en cadenas de
+aisladores
+ 
+
+
+Bloque 2: Cálculos mecánicos en líneas
+  aéreas de alta tensión
+
+ 
+
+Tema 4: Cargas y sobrecargas a considerar en una
+  línea aérea de alta tensión
+
+ 
+1.- Introducción
+2.- Cargas permanentes
+3.- Esfuerzo del viento sobre las líneas
+aéreas
+4.- Efecto del hielo sobre las líneas aéreas
+5.- Efecto combinado del viento y hielo
+ 
+
+Tema 5: Cálculo de conductores
+
+ 
+1.- Catenaria
+2.- Vano de regulación o cantón
+3.- Tracción máxima admisible
+4.- Fenómenos vibratorios
+5.- Flechas máximas en conductores de fase y cables de
+tierra
+ 
+
+Tema 6: Cálculo de apoyos
+
+ 
+1.- Esfuerzos que se producen en los apoyos
+2.- Hipótesis de cálculo
+3.- Coeficientes de seguridad
+4.- Desarrollo de las hipótesis de cálculo por
+tipo de apoyo
+5.- Cálculo de apoyos con cambio de conductor
+6.- Cálculo de apoyos en cambio de zona
+7.- Cálculo de apoyos en estrellamiento o con
+derivación
+8.- Distancias de seguridad en el apoyo
+9.- Situación de las alturas de los distintos elementos
+en los apoyos
+10.- Abaniquieos
+ 
+
+Tema 7: Elección de apoyos normalizados
+
+ 
+1.- Utilización de catálogos
+2.- Paso de esfuerzos verticales a horizontales
+3.- Cambio de esfuerzos según coeficientes de
+seguridad
+4.- Elección de crucetas y montajes
+5.- Elección de apoyos por esfuerzos
+6.- Optimización de la elección
+7.- Situación de las alturas de los distintos elementos
+en los apoyos
+ 
+
+Tema 8: Cálculo de cimentaciones
+
+ 
+1.1.- Características generales
+1.2.- Comprobación al arranque
+1.3.- Comprobación a compresión
+1.4.- Cimentaciones monobloque
+1.5.- Cimentaciones fraccionadas
+ 
+
+Tema 9: Mediciones y superficie de
+  ocupación
+
+ 
+1.- Mediciones
+2.- Superficie de ocupación
+3.- Relación de bienes y derechos
+ 
+
+Tema 10: Gráficos de utilización de apoyos
+  y crucetas
+
+ 
+1.- Generalidades
+2.- Apoyo de alineación-suspensión
+3.- Apoyo de alineación-amarre
+4.- Apoyo de alineación-anclaje
+5.- Apoyo de ángulo-suspensión
+6.- Apoyo de ángulo-amarre
+7.- Apoyo de ángulo-anclaje
+8.- Apoyo de principio-final de línea
+9.- Gráficos de utilización de crucetas
+ 
+
+
+Bloque 3: Cálculos eléctricos en líneas
+  aéreas de alta tensión
+
+ 
+
+Tema 11: Introducción a los cálculos
+  eléctricos
+
+ 
+11.1.- Constantes fundamentales de las líneas
+11.2.- Constantes características derivadas de las
+fundamentales
+11.3.- Densidad de corriente de un conductor
+11.4.- Intensidad máxima admisible
+11.5.- Determinación de la sección de un conductor
+por potencia máxima
+11.6.- Determinación de la sección de un conductor
+por caída de tensión
+ 
+
+Tema 12: Líneas cortas
+
+ 
+1.- Diagrama vectorial. Caída de tensión
+2.- Tipos de líneas
+3.- Transmisión de potencia
+4.- Regulación
+5.- Potencia máxima con una regulación
+determinada
+ 
+
+Tema 13: Líneas medias
+
+ 
+1.- Método equivalente en T
+2.- Método equivalente en P
+ 
+
+Tema 14: Líneas largas
+
+ 
+1.- Introducción
+2.- Tensión e intensidad en cualquier punto de la
+línea
+3.- Aplicación de las formas hiperbólicas
+4.- Valores característicos de una línea
+5.- Funcionamiento límite de una línea
+6.- Onda directa y onda reflejada
+7.- Línea de transmisión como red de dos
+puertos
+ 
+
+Tema 15: Regulación de la tensión
+
+ 
+1.- Introducción
+2.- Relación entre la naturaleza de la carga, tipo de
+línea y caída de tensión
+3.- Regulación de la tensión en líneas
+eléctricas. Métodos de regulación
+4.- Ventajas e inconvenientes de los condensadores
+estáticos y de los síncronos
+5.- Cálculo de la potencias des las máquinas
+necesarias para regular
+ 
+
+Tema 16: Efecto corona
+
+ 
+1.- Introducción
+2.- Tensiones que producen el efecto corona
+ 
+
+Unidad didáctica 2: Líneas
+  subterráneas de alta tensión
+
+ 
+
+
+Bloque 4: Elementos constitutivos de las líneas
+  subterráneas de alta tensión
+
+ 
+
+Tema 17: Generalidades
+
+ 
+1.- Tensiones normalizadas
+2.- Niveles de aislamiento
+3.- Cables
+4.- Accesorios
+ 
+
+Tema 18: Tipos de instalaciones en líneas
+  subterráneas
+
+ 
+1.- Introducción
+2.- Directamente enterrados
+3.- En canalización entubada
+4.- En galerías
+5.- En atarjeas o canales registrables
+6.- En bandejas, soportes, palomillas o directamente sujetos a
+la pared
+7.- En los fondos acuáticos
+8.- Conversiones aéreo-subterráneas
+ 
+
+
+Bloque 5: Cálculo eléctrico en líneas
+  subterráneas de alta tensión
+
+ 
+
+Tema 19: Cálculo de conductores
+
+ 
+1.- Por caída de tensión
+2.- Por intensidad máxima en régimen
+permanente
+3.- Por cortocircuito
+ 
+
+Unidad didáctica 3: Centros de
+  transformación y subestaciones
+
+ 
+
+
+Bloque 6: Elementos constitutivos de los centros de
+  transformación y subestaciones
+
+ 
+
+Tema 20: Aparamenta de maniobra en alta
+  tensión
+
+ 
+1.- Introducción
+2.- Características nominales de la aparamenta de alta
+tensión
+3.- Seccionadores
+4.- Interruptores e interruptores automáticos
+5.- Cortacircuitos fusibles
+6.- Relés de protección
+7.- Bobinas de bloqueo
+  
+
+Tema 21: Dimensionado de conductores y barras
+
+ 
+1.- Introducción
+2.- Conductores utilizados
+3.- Conductores desnudos
+4.- Dimensionado por caída de tensión
+5.- Dimensionado por densidad de corriente
+6.- Dimensionado por cortocircuito
+7.- Elección de la sección más rentable
+8.- Esfuerzos provocados por los cortocircuitos
+ 
+
+
+Bloque 7: Centros de transformación
+
+ 
+
+Tema 22: Constitución de los centros de
+  transformación
+
+ 
+1.- Clasificación de los centros de
+transformación
+2.- Componentes básicos de un centro de
+transformación
+3.- Disposición interior de los centros de
+transformación
+ 
+
+Tema 23: Instalaciones complementarias del centro de
+  transformación
+
+ 
+1.- Ventilación de los centros de
+transformación
+2.- Alumbrado y señalización
+3.- Protección contra incendios
+ 
+
+
+Bloque 8: Subestaciones
+
+ 
+
+Tema 24: Características de las subestaciones
+  eléctricas
+
+ 
+1.- Introducción
+2.- Seguridad y normativa
+3.- Elementos principales
+4.- Configuraciones
+5.- Explotación
+6.- Mando local, telemando y telecontrol
+7.- Niveles jerárquicos de mando
+8.- Enclavamiento
+9.- Características generales de la aparamenta de
+potencia
+10.- Coordinación de aislamiento
+11.- Criterios generales de definición de la
+configuración de una subestación
+12.- Ejemplo de maniobras en doble con barra de
+transferencia
+13.- Codificación IP
+14.- Codificación IK
+ 
+
+Tema 25: Subestaciones AIS, GIS y HIS
+
+ 
+1.- Subestaciones AIS
+2.- Subestaciones GIS
+3.- Subestaciones HIS
+
+               
+
+Unidad didáctica 4: Instalaciones de puesta a
+  tierra
+
+ 
+
+
+Bloque 7: Conceptos, métodos y procesos de
+  cálculo
+
+ 
+
+Tema 26: Conceptos y definiciones de los sistemas de
+  puesta a tierra
+
+ 
+1.- Introducción
+2.- Resistividad del terreno
+3.- Selección del conductor y las uniones
+4.- Intensidades de defecto a tierra
+5.- Paso de la corriente por el terreno
+6.- Resistencia a tierra del electrodo
+ 
+
+
+Bloque 8: Métodos y procesos de
+  cálculo
+
+ 
+
+Tema 27: Métodos de cálculo
+
+ 
+1.- Método de Unesa
+2.- Método de Howe
+3.- Método Maxwell
+4.- Método IEEE Std-80
+5.- Determinación de lo coeficientes unitarios
+7.- Determinación de la resistencia de puesta a
+tierra
+6.- Potencial absoluto del electrodo
+7.- Cálculo de la longitud mínima del cable
+enterrado
+ 
+
+Tema 28: Cálculo de la puesta a tierra en
+  apoyos
+
+ 
+1.- Generalidades
+2.- Condiciones reglamentarias
+3.- Dimensionamiento a frecuencia industrial de los sistemas de
+puesta a tierra
+4.- Dimensionamiento con respecto a la seguridad de las
+personas
+5.- Clasificación de los apoyos según su
+ubicación
+6.- Verificación del diseño del sistema de puesta
+a tierra
+7.- Condiciones difíciles de puesta a tierra
+8.- Cálculo de las impedancias de secuencia para las
+líneas aéreas
+8.1.- Cálculo de la resistencia y la reactancia de la
+línea
+8.2.- Cálculo de las impedancias de secuencia directa e
+inversa
+8.3.- Cálculo de la impedancia homopolar
+9.- Intensidad de defecto
+9.1.- Cálculo de las impedancias de secuencia
+equivalentes en el punto de fallo
+9.2.- Impedancia de cadena infinita
+9.3.- Impedancia de cadena finita
+9.4.- Defecto alejado de una subestación (cadena
+infinita)
+9.5.- Defecto cercano a una subestación (cadena
+finita)
+9.6.-Factor de reducción para líneas aéreas
+con hilos de tierra
+
+Tema 29: Cálculo de la puesta a tierra en centros
+  de transformación y subestaciones
+
+ 
+1.- Tensiones máximas admisibles en una
+instalación
+2.- Procedimiento de cálculo
+3.- Condiciones difíciles de puesta a tierra
+4.- Elementos de las instalaciones de puesta a tierra y
+condiciones de montaje
+5.- Determinación de las corrientes de defecto para el
+cálculo de las tensiones de paso y contacto
+6.- Separación de los neutros de baja tensión
+7.- Intensidades de defecto
+7.1.- Centros de transformación
+7.2.- Subestaciones
+8.- Impedancias de secuencia de las subestaciones
+9.- Impedancias de secuencia de las líneas
+subterráneas
+9.1.- Colocación de los conductores
+9.2.- Resistencia equivalente de retorno por tierra
+9.3.- Distancia de retorno por tierra
+9.4.- Matrices de impedancias
+9.5.- Impedancias de secuencias de la línea
+
+Unidad didáctica 5: Sobretensiones en las
+  instalaciones de alta tensión
+
+ 
+
+
+Bloque 9: Coordinación de aislamiento y sobretensiones
+  en redes eléctricas
+
+ 
+
+Tema 30: Coordinación de aislamiento
+
+ 
+1.- Introducción y objetivos
+2.- Sobretensiones en redes eléctricas de alta
+tensión
+3.- Características y comportamiento del aislamiento
+4.- Protección contra sobretensiones
+5.- Coordinación de aislamiento
+ 
+
+Tema 31: Sobretensiones en instalaciones de alta
+  tensión
+
+ 
+1.- Introducción
+2.- Sobretensiones temporales
+3.- Sobretensiones de frente lento
+4.- Sobretensiones de frente rápido
+5.- Sobretensiones de frente muy rápido
+ 
+
+Tema 32: Apantallamiento de líneas
+  eléctricas y subestaciones
+
+ 
+1.- Introducción
+2.- Apantallamiento de líneas eléctricas
+3.- Ángulo de apantallamiento total
+4.- Apantallamiento de subestaciones eléctricas
+5.- Apantallamiento con cables de guarda
+6.- Apantallamiento con puntas Franklin
+7.- Casos especiales de apantallamiento de subestaciones
+8.- Comparativa entre puntas Franklin y cables de guarda
+ 
+
+Tema 33: Protección contra sobretensiones.
+  Pararrayos
+
+ 
+1.- Introducción
+2.- Características de los pararrayos de resistencia
+variable sin explosores
+3.- Criterios de selección de pararrayos
+ 
+
+Temario de prácticas
+
+ 
+
+Práctica 1: Topografía
+
+ 
+1.- ¿Qué es un perfil topográfico?
+2.- Guitarra
+3.- Métodos para la obtención de la
+topografía de una línea eléctrica
+ 
+
+Práctica 2: Obtención del perfil
+  longitudinal de la línea eléctrica
+
+1.- Determinación de los puntos iniciales y finales de la
+línea
+2.- Introducción de vértices
+3.- Varias trazas en un mismo proyecto
+ 
+
+Práctica 3: Accidentes y cruzamientos con la
+  línea eléctrica
+
+ 
+1.- Distancias de aislamiento eléctrico para evitar
+descargas
+2.- Prescripciones especiales
+3.- Cruzamientos. Distancias. Paralelismos
+4.- Accidentes
+ 
+
+Práctica 4: Determinación del conductor a
+  utilizar en la línea en función de la potencia de
+  transporte
+
+ 
+1.- Densidad de corriente
+2.- Intensidad máxima en el conductor por límite
+térmico
+3.- Potencia máxima por límite térmico
+4.- Resistencia en una línea eléctrica
+aérea
+5.- Autoinducción en una línea eléctrica
+aérea
+6.- Reactancia en una línea eléctrica
+aérea
+7.- Potencia máxima por caída de tensión.
+Momento eléctrico
+ 
+
+Práctica 5: Trazado y edición de la
+  línea
+
+ 
+1.- Trazado
+2.- Edición
+ 
+
+Práctica 6: Cálculo de las tensiones
+  Reglamentarias y la tabla de tendido
+
+ 
+1.- Hipótesis Reglamentarias
+2.- Fenómenos vibratorios
+3.- Tabla de tendido
+ 
+
+Práctica 7: Cálculo de apoyos
+
+ 
+1.- Hipótesis
+2.- Distancias en el apoyo
+ç
+
+Práctica 8: Elección de apoyos y
+  crucetas
+
+ 
+1.- Determinación del catálogo
+2.- Elección de crucetas y montajes
+3.- Elección de apoyos
+ 
+
+Práctica 9: Cimentaciones
+
+ 
+1.- Cimentaciones monobloque
+2.- Cimentaciones fraccionadas
+ 
+
+Práctica 10: Mediciones
+
+ 
+1.- Volumen de excavación
+2.- Volumen de hormigonado
+3.- Longitud de la línea
+4.- Longitud del conductor
+5.- Peso del conductor
+6.- Peso de los apoyos
+7.- Número de cadenas de amarre y suspensión
+ 
+
+Práctica 11: Línea subterránea de
+  enlace
+
+ 
+1.- Determinación de los elementos auxiliares de
+bajada
+2.- Calculo de la sección por caída de
+tensión
+3.- Cálculo de la sección por límite
+térmico
+4.- Cálculo de la sección por cortocircuito
+ 
+
+Práctica 12: Elección de las protecciones
+  del centro de transformación
+
+ 
+1.- Elementos de seccionamiento
+2.- Elementos de corte
+3.- Fusibles
+4.- Transformadores de tensión
+5.- Transformadores de intensidad
+ 
+
+Práctica 13: Cálculo de las secciones y
+  conductores y barras del centro
+
+ 
+1.- Calculo de la sección por caída de
+tensión
+2.- Cálculo de la sección por límite
+térmico
+3.- Cálculo de la sección por cortocircuito
+4.- Cálculo de los esfuerzos electrodinámicos por
+cortocircuito
+ 
+
+Práctica 14: Cálculo de la puesta a tierra
+  de los apoyos de la línea eléctrica
+
+ 
+1.- Cálculo de las tensiones de paso, contacto y paso en
+el acceso Reglamentarias
+2.- Determinación del electrodo de puesta a tierra
+3.- Cálculo de la resistencia de puesta a tierra y la
+intensidad de defecto
+4.- Cálculo de los coeficientes unitarios Kp, Kc,
+Kpacc
+5.- Comparación entre tensiones Reglamentarias y las de
+las instalación
+6.- Medidas correctoras
+ 
+
+Práctica 15: Cálculo de la puesta a tierra
+  del centro de transformación
+
+ 
+1.- Cálculo de las tensiones de paso, contacto y paso en
+el acceso Reglamentarias
+2.- Determinación del electrodo de puesta a tierra
+3.- Cálculo de la resistencia de puesta a tierra y la
+intensidad de defecto
+4.- Cálculo de los coeficientes unitarios Kp, Kc,
+Kpacc
+5.- Comparación entre tensiones Reglamentarias y las de
+la instalación
+6.- Medidas correctoras
+'

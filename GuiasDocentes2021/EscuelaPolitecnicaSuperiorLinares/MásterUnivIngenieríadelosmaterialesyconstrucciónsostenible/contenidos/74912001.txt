@@ -1,0 +1,31 @@
+'
+
+
+Medioambiente
+  y Sociedad, conceptos y relaciones. Sociología
+  Medioambiental. Formulación socioeconómica de una
+  politica medioambiental. Construcción sostenible.
+  Economía ambiental. Política medioambiental.
+  Contabilidad ambiental.
+
+
+Bloque I:
+Tema 1: Introducción. Mediambiente y sociedad. Aspectos
+socioeconómicos de la política medioambiental
+Tema 2: Introducción a la economía circular.
+Nutrientes tecnológicos. Optimización aprovechamiento
+de recursos. Contabilidad ambiental
+Tema 3: Economía circular y sostenibilidad.
+Recursos. Introducción al concepto de ciclo de vida,
+ecodiseño y ecoeficiencia. Política
+mediaombiental.
+ Casos Prácticos
+ 
+Bloque II:
+Tema 1: Bases de datos estadísticos medioambientales.
+Tema 2: Análisis de relaciones entre variables
+medioambientales: contrastes de hipótesis
+estadísticas, regresión, técnicas de
+reducción de la dimensión.
+Casos Prácticos
+'

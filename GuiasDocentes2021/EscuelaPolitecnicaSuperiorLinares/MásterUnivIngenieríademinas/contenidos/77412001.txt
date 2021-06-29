@@ -1,0 +1,140 @@
+'
+
+Diseño y análisis de estructuras de barras,
+estructuras bidimensionales y tridimensionales, aplicadas a la
+Ingeniería de Minas.
+· Aplicación del M.E.F. al análisis
+estructrual. Apliación a la Ingeniería de Minas.
+· Estructuras de barras articuladas.
+· Estructuras de barras a flexión.
+· Elementos tipo placa. Teoría de placas
+delgadas y placas gruesas. Elementos de contención de
+tierras.
+· Elementos bidimensionales. Aplicación a
+elementos de contención y túneles.
+· Elementos de revolución. Depósitos.
+· Estructuras tridimensionales.
+· Elementos especiales. Terraplenes, deslizamientos y
+elementos de anclaje.
+
+ 
+
+Descripción de Contenidos: Breve descripción
+(castellano)
+ Diseño
+y análisis de estructuras de barras, estructuras
+bidimensionales y tridimensionales, aplicadas a la
+Ingeniería de Minas.
+
+Breve descripción (Inglés):
+
+Design
+and analysis of frame structures, two-dimensional and
+three-dimensional structures, applied to Mining Engineering.
+
+Temario Desarrollado:
+
+TEMA
+1. INTRODUCCIÓN A LA MECÁNICA DE LOS MEDIOS
+CONTINUOS. TENSOR DE ESFUERZOS.
+
+Componentes
+  del tensor de esfuerzos.
+Tensión
+  ligada a una dirección: relación Cauchy.
+Tensiones
+  y direcciones principales.
+
+TEMA
+2. ESTUDIO DE LA DEFORMACIÓN. TENSOR DE PEQUEÑAS
+DEFORMACIONES
+
+El
+  tensor gradiente de deformación. Tensores finitos de
+  deformación.
+El
+  tensor de deformación infinitesimal.
+Alargamiento
+  unitario y deformación tangencial en una dirección
+  cualquiera.
+Ecuaciones
+  de compatibilidad.
+
+TEMA
+3. EL PROBLEMA ELÁSTICO
+
+Ley
+  de Hooke generalizada.
+Ecuaciones
+  de equilibrio interno.
+Formulaciones
+  del problema elástico. Ecuaciones de Navier-Cauchy y de
+  Beltrami-Michel.
+
+TEMA
+4. INTRODUCCIÓN Y DESCRIPCIÓN DEL M.E.F. APLICADO AL
+CÁLCULO DE ESTRUCTURAS.
+
+Principio
+  de los trabajos virtuales.
+Descripción
+  del M.E.F.
+Fases
+  del M.E.F.
+
+TEMA
+5. FLEXIÓN EN VIGAS
+
+Teoría
+  de vigas esbeltas y gruesas.
+Elementos
+  utilizados.
+Aplicación
+  a elementos de contención (1)
+
+TEMA
+6. PLACAS DELGADAS Y PLACAS GRUESAS
+
+Teoría
+  de placas delgadas y placas gruesas.
+Elementos
+  utilizados.
+Aplicación
+  a elementos de contención (2)
+
+TEMA
+7. ESTRUCTURAS BIDIMENSIONALES
+
+Introducción.
+Funciones
+  de desplazamiento.
+Matriz
+  de rigidez del elemento.
+Vector
+  de fuerzas nodales equivalentes.
+Obtención
+  de tensiones y deformaciones.
+Aplicación
+  a cerchas y elementos de soporte.
+Elasticidad
+  bidimensional.
+Elementos
+  utilizados.
+Aplicación
+  a elementos de contención (3) y túneles.
+
+TEMA
+8. SÓLIDOS DE REVOLUCIÓN
+
+Introducción.
+Elasticidad
+  de sólidos de revolución.
+Elementos
+  utilizados.
+Depósitos.
+
+TEMA 9. ELEMENTOS ESPECIALES.
+
+Terraplenes, deslizamientos y elementos de anclaje.
+
+'

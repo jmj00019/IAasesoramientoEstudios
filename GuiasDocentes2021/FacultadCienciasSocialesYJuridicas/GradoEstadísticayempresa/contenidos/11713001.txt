@@ -1,0 +1,27 @@
+'
+
+Análisis y elaboración de informes comerciales con
+base en información cualitativa y cuantitativa (motivaciones
+del consumidor, segmentación de mercados, posicionamiento,
+decisiones sobre Marketing Mix).
+
+Tema 1. Investigación cualitativa en investigación
+de mercados: análisis e interpretación de los
+resultados.
+Tema 2. Principales análisis en investigación de
+mercados (análisis univariable, bivariable y multivariable
+de la información).
+Tema 3. Aplicaciones tipológicas y de segmentación
+de mercados (Análisis cluster, análisis discriminante
+y segmentación jerárquica).
+Tema 4.  Aplicaciones del análisis de
+correspondencias (simple y múltiple) a problemas de imagen
+y  posicionamiento y otras aplicaciones.
+Tema 5. Aplicaciones del análisis de varianza y
+covarianza a decisiones de marketing-mix y otras aplicaciones.
+Tema 6. Análisis de los determinantes de elección
+y preferencias del consumidor (Modelos de elección
+discreta).
+Tema 7. El informe final. Estructura y presentación de
+uninforme.
+'

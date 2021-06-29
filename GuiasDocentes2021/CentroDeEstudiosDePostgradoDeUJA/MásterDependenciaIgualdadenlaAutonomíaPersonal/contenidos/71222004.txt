@@ -1,0 +1,142 @@
+'
+
+La asignatura se divide, básicamente, en cuatro grandes
+bloques, que pretenden aportar al alumno una
+panorámica de los recursos que la ingeniería
+(en especial las nuevas tecnologías de la información
+y las
+comunicaciones) ponen al servicio de los equipos que tratan
+situaciones de dependencia y autonomía
+personal reducida.
+Estos cuatro bloques temáticos son:
+I. Aplicaciones de las nuevas tecnologías para
+Personas con Discapacidad
+II. Hogar Digital Orientado a la asistencia social
+III. Robótica Asistencial e Ingeniería de la
+Rehabilitación
+IV. Tecnologías de la Información y las
+Comunicaciones para la asistencia social y sanitaria
+Como se ha mencionado antes, no se trata tanto de conocer los
+detalles de dichos recursos, como de tener
+una visión general de qué recursos están
+disponibles, cuándo son aplicables y en qué manera
+pueden
+beneficiar a sus usuarios.
+Por otra parte, se insistirá en cada bloque en la
+necesidad de poder proponer a equipos de ingenieros
+soluciones concretas basadas en esta propuesta, de manera que
+se comuniquen las necesidades y requisitos
+de manera eficaz
+Los contenidos previamente descritos
+
+UNIDAD I.: APLICACIONES DE LA TECNOLOGÍA PARA LA
+DIVERSIDAD FUNCIONAL
+TEMA 1. Smart City: entornos tecnológicos y accesibles
+para una sociedad sostenible y humana.
+1.1.  Smart City, entornos tecnológicos inteligentes
+y humanos. Introducción
+1.2. La Tecnología en la Smart City y su potencial para
+la sostenibilidad
+1.3. Ciudad y medio ambiente para la diversidad
+1.4. Movilidad en la Smart City
+1.5. Salud en la Smart City
+1.6. Educación y Sociedad en la Smart City
+TEMA 2. Tecnología y Diversidad Funcional.
+Generalidades
+2.1. Introducción. Marco teórico.
+2.2. Tecnología y diversidad funcional. Generalidades
+2.3. Tecnologías Accesibles
+2.4. Recursos tecnológicos y de ingeniería.
+2.5. Barreras y oportunidades
+2.6. Soluciones
+TEMA 3. Tecnologías Accesibles
+3.1. Diseño para todas las personas
+3.2. Productos avanzados para la diversidad funcional
+3.3. Ayudas técnicas
+3.4. El mercado de la tecnología accesible.
+TEMA 4. Estrategias para la mejora de la Accesibilidad en la
+Sociedad
+4.1. Formación técnica a los agentes
+implicados
+4.2. Medias de formación y sensibilización
+4.3. Medidas legislativas. Estándares.
+4.4. Medias económicas
+4.5. Investigación. Acciones de I+D+i
+UNIDAD II. HOGAR DIGITAL ORIENTADO A LA ASISTENCIA SOCIAL.
+TECNOLOGÍA EN EL ENTORNO.
+TEMA 5. Hogar Digital
+5.1.      Introducción
+5.2.      Historia
+5.3.      Mercado del Hogar Digital, la
+oferta y la demanda.
+5.4.      Agentes del Hogar Digital:
+Fabricantes, proveedores, ingeniería, arquitectura.
+5.5.      Pasarela Residencial.
+Conexión de las infraestructuras.
+5.6.      Interfaces de Usuario.
+Domótica, seguridad, multimedia y comunicación.
+5.7.      Videos y Enlaces Web
+TEMA 6.       
+Domótica y soluciones integrales para la mejora de la
+tecnología en nuestro entorno.
+6.1.      Domótica.
+Introducción
+6.2.      Iluminación
+6.3.      Climatización.
+6.4.      Puertas y Ventanas.
+6.5.      Persianas y Toldos.
+6.6.      Motores
+6.7.      Riego
+6.8.      Gestión de la
+Energía
+6.9.      Electrodomésticos.
+6.10.    Videos y enlaces web.
+UNIDAD III. ROBÓTICA ASISTENCIAL E INGENIERÍA DE
+LA REHABILITACIÓN
+TEMA 7. Robótica Asistencia e Ingeniería de la
+Rehabilitación
+7.1. Robótica Quirúrgica y Terapéutica
+7.2. Ayudas Robóticas para la movilidad
+7.3. Robots asistentes e interacción Humano-Robot
+7.4. Prótesis y Neuroprótesis
+7.5. Dispositivos implantables pasivos y activos
+7.6. Ayudas tecnológicas sensoriales
+7.7. Ayudas tecnológicas motoras
+7.8. Dispositivos de comunicación (ayudas de
+interacción social) y control del entorno
+7.9. Aspectos éticos
+UNIDAD  IV. TIC APLICADAS A LA ASISTENCIA SOCIAL Y
+SANITARIA. ENTORNO FÍSICO Y AUTONOMÍA PERSONAL
+TEMA 8. Entorno físico y autonomía personal
+8.1. Las Consideraciones físicas del entorno y el
+condicionamiento de la autonomía personal
+8.2. Fundamentos, Conceptos y Definiciones
+8.3. Los Principios del Diseño Universal
+8.4. Diversidad de personas
+8.5. Dificultades de interacción con el entorno
+8.6. Atención a personas con necesidades especiales
+TEMA 9. Accesibilidad en los diferentes entornos
+9.1. Consideraciones Básicas de Accesibilidad en los
+diferentes entornos
+9.2. Accesibilidad en la vía pública: calles y
+parques.
+9.3. La accesibilidad en los edificios de uso público
+9.4. La accesibilidad en edificios sanitarios y
+sociosanitarios
+9.5. La accesibilidad en el espacio doméstico de la
+vivienda
+9.6. Transporte público y accesibilidad
+9.7. Comunicación Accesible
+9.8. Turismo y Ocio accesibles
+9.9. El uso y el mantenimiento adecuados para garantizar un
+entorno favorable
+TEMA 10. Actividad académica dirigida
+Se realizará un trabajo, que consistirá en un
+estudio práctico de Accesibilidad sobre un entorno concreto
+elegido por el alumnado, centrándose únicamente en
+uno de los criterios DALCO.
+El título del trabajo será: Análisis de la
+accesibilidad según el criterio  y su incidencia sobre
+la autonomía personal de los usuarios, en el caso de
+estudio 
+'

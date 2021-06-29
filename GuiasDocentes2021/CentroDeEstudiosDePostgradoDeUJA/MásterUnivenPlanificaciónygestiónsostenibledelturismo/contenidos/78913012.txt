@@ -1,0 +1,55 @@
+'
+
+- Fundamentos básicos de la gobernanza turística
+- Herramientas para la gobernanza turística
+- El capital social de un destino turístico
+- Las relaciones entre actores
+- Análisis de redes sociales y análisis de
+contenidos relacionales
+
+TEMA 1. El Análisis de Políticas Públicas
+yel modelo de Gobernanza
+
+1.1. El Análisis de Políticas Públicas
+comomarco teórico-metodológico
+
+1.2. La Gobernanza: de las redes de
+políticaspúblicas como modelo de gobernanza
+
+TEMA 2. La políticaturística desde el
+Análisis de PolíticasPúblicas
+
+2.1. La políticaturística desde el
+Análisis de PolíticasPúblicas
+
+2.2. Objetivos e instrumentos de lapolítica
+turística
+
+2.3. La Nueva GestiónPública del Turismo
+
+2.4. La Gobernanza como nuevomodelo de la política
+pública para el turismo
+
+TEMA 3. La Gobernanza del Turismo:Dimensiones fundamentales
+para la gestión de destinos
+
+3.1. El Destino Turísticocomo sistema complejo: la
+mirada desde el territorio
+
+3.2. El Destino como SistemaTurístico Local
+
+3.3. Gobernando el destino:actores, recursos y relaciones
+
+TEMA 4. El Análisis de RedesSociales como
+metodología para el análisis y lagestión de la
+política pública de turismo:
+
+4.1. Fundamentosteórico-metodológicos del
+Análisis de RedesSociales
+
+4.2. Producción de datos yanálisis de Redes
+Sociales: UCINET y NetDraw
+
+4.3. Mecanismos sociales para lagobernanza de destinos
+turísticos
+'

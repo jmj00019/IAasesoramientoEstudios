@@ -1,0 +1,55 @@
+'
+
+Bloque 1. Sistemas de concentración fotovoltaica
+Bloque 2. Sistemas de seguimiento solar
+Bloque 3. Nuevas configuraciones de sistemas fotovoltaicos
+Bloque 4. Supervisión de funcionamiento de los
+sistemas fotovoltaicos
+
+
+Bloque 1: Sistemas de concentración
+  fotovoltaica
+
+
+Fundamentos de la
+  concentración
+Células de
+  concentración
+Elementos de un sistema de
+  concentración
+Tipos de sistemas de
+  concentración
+Óptica de los
+  concentradores. Elementos reflexivos y refractivos
+Evolución
+  histórica y situación actual de los sistemas de
+  concentración
+
+
+Bloque 2: Sistemas de seguimiento solar
+
+
+Tipos de seguidores
+Elementos de un seguidor
+Radiación en los diferentes tipos de seguidores
+Sistemas de control
+Perdidas por autosombreado y ocupación de terreno
+
+
+Bloque 3: Nuevas configuraciones de sistemas
+  fotovoltaicos
+
+
+Bloque 4: Supervision de sistemas fotovoltaicos
+
+
+Elementos de un sistema de
+  monitorización
+Sensores
+Tipos de sistemas de
+  monitorización
+Supervisión de
+  sistemas
+Telemonitorización
+
+'

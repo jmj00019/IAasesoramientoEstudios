@@ -1,0 +1,76 @@
+'
+
+MANOVA, Análisis Discriminante y Regresión
+Logística
+
+
+
+1.- Tests Sobre Uno o Dos Vectores de Medias
+Tests multivariantes frente a univariantes
+Test sobre la media de una población normal
+multivariante
+Test sobre las medias de dos poblaciones normales
+multivariantes
+Tests sobre variables individuales tras el rechazo de H0
+Tests F-parciales
+Comprobación de las hipótesis. Outliers
+
+2.- Análisis Multivariante de la Varianza
+
+MANOVA de una vía
+MANOVA de una vía no balanceado
+Medidas de Asociación Multivariantes
+Contrastes
+Evaluación de la contribución de las variables
+Eliminación y ordenación de variables
+Tests sobre subconjuntos de variables
+Selección de variables por pasos
+MANOVA de dos vías
+Efectos simples
+
+3.- Análisis Discriminante: descripción de
+  la separación de grupos
+
+Función discriminante para dos grupos
+Análisis Discriminante para varios grupos
+Funciones discriminantes estandarizadas
+Contrastes de significación
+Tests para el caso de dos grupos
+Significación de las funciones discriminantes
+Inferencias sobre subconjuntos de variables
+Tests para el caso de diversos grupos
+Significación de las funciones discriminantes
+Inferencias sobre subconjuntos de variables
+Selección de variables por pasos
+Interpretación de las funciones discriminantes
+Coeficientes estandarizados
+Estadísticos parciales
+Correlación entre variables y funciones discriminantes
+Gráficos de dispersión
+Aplicaciones del AD
+
+
+4.- Análisis de Clasificación:
+asignación de observaciones a grupos
+Clasificación en dos grupos
+Clasificación en varios grupos
+Matrices de covarianza poblacionales iguales: funciones de
+clasificación lineales
+Matrices de covarianzas desiguales: funciones de
+clasificación cuadráticas
+Estimación de las tasas de clasificación
+erróneas
+Estimaciones mejoradas de las tasas de error
+Selección de subconjuntos
+Hipótesis del análisis discriminante
+
+5.- Regresión Logística
+
+Modelos de respuesta cualitativa
+Formulación y estimación del modelo de
+regresión logística
+Inferencias
+Variables explicativas cualitativas
+Interacción
+Predicción
+'

@@ -1,0 +1,175 @@
+'
+
+1) Meteorología física
+2) Meterología dinámica
+3) Climatología y cambio climático
+
+TEMA 1.- INTRODUCCIÓN.  (2 horas)
+1.1     Introducción.
+1.2     Tiempo y Clima. Meteorología y
+Climatología.
+1.3    Atmósfera: composición y
+estructura
+1.4    Observaciones meteorológicas.
+1.5    Unidades y nomenclatura
+ 
+TEMA 2.- RADIACIÓN. BALANCE RADIATIVO. (6 horas)
+2.1       Leyes de la radiacion
+2.2       Absorción,
+emisión y dispersión de la radiación.
+2.3       Radiación solar.
+2.4.      Radiación térmica.
+2.5       Efecto invernadero. 
+ Balance de radiación.
+2.6       Teledectección.
+Relación problemas 1
+ 
+TEMA 3.- AIRE SECO. AIRE HÚMEDO  (4 horas)
+3.1       Aire seco.
+3.2       Aire Húmedo.
+3.2.1    Agua en la atmósfera. Cambios de
+fase.
+3.2.2    Vapor de agua en la atmósfera.
+Ecuación de estado.
+3.2.3    Índices de humedad.
+3.2.4    Ecuación de estado. Temperatura
+virtual.
+3.2.5    Expansión adiabática del
+aire no saturado
+3.3       Diagramas
+termodinámicos.
+3.4       Procesos
+isobáricos
+3.5       Expansión
+adiabática del aire saturado. Proceso
+pseudoadiabático.
+3.6       Mezcla de masas de
+aire.
+Relación problemas 2
+ 
+TEMA 4.- EQUILIBRIO VERTICAL EN LA ATMÓSFERA.
+ESTABILIDAD. (4 horas)
+4.1       Equilibrio
+hidrostático.
+4.2       Gradiente vertical de
+temperatura.
+4.3       Gradientes
+adiabático seco y saturado.
+4.4       Estabilidad 
+vertical. 
+4.4.1    Método de la burbuja.
+4.4.2    Criterios de estabilidad en
+términos de las temperaturas potenciales.
+4.5       Desarrollo vertical.
+4.6       Inestabilidad
+latente.
+Relación problemas 3
+ 
+TEMA 5.- CONDENSACIÓN EN LA ATMÓSFERA. NUBES.
+PRECIPITACIÓN. (2 horas)
+5.1       Mecanismos de
+saturaci´ñon en la atmósfera.
+5.2       Nucleación
+Homogénea y  Heterogénea.
+5.3       Nubes.
+5.3.1    Formación.
+5.3.2    Clasificación.
+5.3.3    Efectos radiativos.
+5.4       Nieblas.
+5.5       Procesos de
+precipitación.
+5.6       Tipos de precipitación.
+ 
+TEMA 6.- DINÁMICA ATMOSFÉRICA.  (6 horas)
+6.1      Introducción, ecalas de
+variación del viento.
+6.2      Fuerzas horizontales
+6.3      Vientos horizontales
+6.4      Ecuación de continuidad
+6.5      Fuerzas y vientos verticales
+6.6.    Viento térmico
+6.7     Regímenes de vientos locales y de
+pequeña escala.
+Relación problemas 4
+ 
+TEMA 7. CIRCULACIÓN GENERAL (6 horas)
+7.1      Introducción
+7.2       Calentamiento radiativo
+diferencial.
+7.3      Modelos celulares.
+7.4      Circulacion atmósférica
+observada
+7.5      Vorticidad.
+7.6      Convergencia.
+Divergencia.  
+7.7      Ondas de Rossby.
+7.8      Circulación en los
+océanos.
+7.9      Distribución global de la
+precipitación.
+7.10    Teleconexiones.
+ 
+TEMA 8- METEOROLOGÍA SINÓPTICA. (3 horas)
+8.1       Introducción.
+8.2       Masas de aire.
+8.3       Superficies frontales.
+Frentes. 
+8.4       Ciclones extratropicales.
+8.5      Modelos meteorológicos.
+Predición numérica del tiempo.
+  
+TEMA 9.- EL SISTEMA CLIMÁTICO.  (3 horas)
+9.1       Clima y  variaiblidad
+climática.
+9.2       Sistema climático.
+Componentes del sistema climático.
+9.3       Mecanismos de
+acoplamiento.
+9.4       Modelos climáticos.
+9.5      Caracterización del clima.
+Fenómenos extremos.
+ 
+ 
+TEMA 10.- CAMBIO CLIMÁTICO. (4 horas)
+10.1     Concepto y tipos de cambio
+climático.
+10.2    Técnicas paleoclimáticas
+10.3    El clima de la tierra a lo largo de su
+historia
+10.4    Mecanismo naturales de cambio
+climático
+10. 5 El clima de la tierra en el presente. Cambio
+climático observado.
+10.6    Predicciones de los modelos climáticos:
+informes del IPCC
+ 
+TEMA 11.- LOS CLIMAS DE LA TIERRA.  (2 horas)
+11.1     Elementos y factores del clima a
+escala regional.
+11.2     Indices climáticos y
+clasificaciones climáticas.
+11.3     Climas regionales. El clima de
+Andalucía.
+11.4     El clima urbano.
+_________________________
+Programa de Prácticas
+PRÁCTICA 1. Radiacion del cuerpo negro. Modelo de
+balance energético tierra-sol.
+PRÁCTICA 2.  Balance  radiativo de la
+superficie de la tierra.
+PRÁCTICA 3. Sondeo aerológico. 
+PRÁCTICA 4. Climatología: análisis
+estadístico de series de datos instrumentales.
+______________________________
+Programa de actividades academicamente dirigidas:
+1. Análisis de la radiación incidente a
+diferentes latitudes de la tierra. Interacción de la
+radiación con la atmósfera.
+2. Interpretación de mapas meteorológicos.
+Predicción meteorológica.
+ 
+
+
+ 
+
+'

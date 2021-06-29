@@ -1,0 +1,108 @@
+'
+
+Introducción a las máquinas de fluidos.
+Generalidades y clasificación.
+Teoría ideal de turbomáquinas
+hidráulicas. Diagrama de velocidades, ecuaciones de
+conservación de la masa, cantidad de movimiento, momento
+cinético
+y energía. Ecuación de Euler, grado de
+reacción y rendimientos.
+Semejanza física en turbomáquinas:
+Introducción al análisis dimensional,
+Parámetros adimensionales y relaciones de semejanza.
+Diagramas característicos
+y ensayo de bombas.
+Teoría de turbomáquinas centrífugas:
+Teoría unidimensional, influencia del ángulo de
+salida de los álabes, grado de reacción. Curvas
+características
+reales, pérdida y rendimientos.
+Teoría de turbomáquinas axiales.
+Sustentación de perfiles, cascada de perfiles, movimiento
+bidimensional en el roto. Conjunto estator-rotor. Grado de
+reacción.
+Introducción a las turbinas hidráulicas.
+Generalidades. Clasificación. Funcionamiento de una turbina
+centrípeta en régimen variable, curvas
+características.
+Semejanza en turbinas. Ensayo de turbinas.
+Descripción de los diferentes tipos de turbinas.
+Turbinas Francis, turbinas de hélice y Kaplan, turbinas
+Pelton: partes, componentes, curvas de funcionamiento
+y regulación.
+Cavitación en turbomáquinas.
+Dimensionado y cálculo de instalaciones de bombeo y
+turbinación.
+
+CONTENIDO CLASES TEÓRICAS
+
+TEMA 1.
+  Introducción a las máquinas de fluidos.
+  Generalidades y clasificación. Balance energético a
+  una turbimáquina. Magnitudes básicas, rendimientos.
+  Introducción a instalaciones de bombeo y
+  turbinación. Problemas.  
+
+
+TEMA 2.
+  Teoría ideal de turbomáquinas hidráulicas.
+  Diagrama de velocidades, ecuaciones de conservación de la
+  masa, cantidad de movimiento, momento cinético y
+  energía. Ecuación de Euler. Ecuación de
+  Bernoulli en movimiento relativo. Grado de reacción.
+  Rendimientos. Problemas.
+
+
+TEMA 3.
+  Semejanza física en turbomáquinas:
+  Introducción al análisis dimensional,
+  parámetros adimensionales y relaciones de semejanza.
+  Diagramas característicos y ensayos de bombas. Velocidad y
+  diámetro específicos. Influencia rugosidad y
+  viscosidad. Problemas.
+
+TEMA 4. Teoría de
+turbomáquinas centrífugas: Teoría de bombas
+centrífugas. Teoría unidimensional, influencia del
+ángulo de salida de los álabes, grado de
+reacción. Curvas características reales,
+pérdidas y rendimientos. Teoría bidimensional:
+correcciones. Problemas.
+TEMA 5. Teoría de
+turbomáquinas axiales. Teoría ideal bidimensional.
+Sustentación de perfiles, cascada fija de perfiles,
+movimiento bidimensional en el rotor (cascada móvil).
+Conjunto estator-rotor. Grado de reacción. Curvas reales.
+Problemas
+
+TEMA 6.
+  Introducción a las turbinas hidráulicas.
+  Generalidades. Clasificación. Funcionamiento de una
+  turbina centrípeta en régimen variable, curvas
+  características. Semejanza en turbinas. Ensayo de
+  turbinas. Descripción de los diferentes tipos de turbinas.
+  Turbinas Francis, turbinas de hélice y Kaplan. Turbinas
+  Pelton: partes, componentes, curvas de funcionamiento y
+  regulación. Problemas.
+
+
+TEMA 7.
+  Cavitación en turbomáquinas. Cavitación en
+  bombas, ensayos de cavitación. Velocidad específica
+  de cavitación. Parámetro de Thoma.
+  Cavitación en turbinas.
+
+TEMA 8. Dimensionado y
+cálculo de instalaciones de bombeo y turbinación.
+Estabilidad y arranque de bombas. Selección de bombas.
+Cálculo de instalaciones.
+CONTENIDO CLASES PRÁCTICAS:
+
+Caracterización de bomba centrífiga
+Bombas en serie y en paralelo
+Turbina axial
+Turbina Francis
+Turbina Pelton
+
+'

@@ -1,0 +1,174 @@
+'
+
+
+
+CONTENIDOS BÁSICOS
+
+
+Modelo de regresión lineal
+Multicolinealidad 
+Observaciones influyentes
+Diagnosis 
+Validación
+ 
+ 
+
+
+
+
+CONTENIDOS DESARROLLADOS
+
+
+1.- INTRODUCCIÓN A LA REGRESIÓN.
+
+
+
+Historia de la Regresión.
+
+
+Concepto, metodología e interpretación de
+    la regresión
+
+
+Tipos de datos y de modelos en
+    regresión.
+
+
+Objetivos y problemática. Abusos en
+    regresión.
+
+
+Ejemplos de modelos de regresión.
+
+
+
+2. - EL MODELO DE REGRESIÓN LINEAL
+  MÚLTIPLE.
+
+
+
+Formulación e hipótesis del
+    modelo.
+
+
+Estimación de los parámetros:
+  mínimos cuadrados 
+ordinarios y máxima verosimilitud.
+
+El coeficiente de determinación
+    múltiple.
+
+
+Propiedades de los estimadores.
+
+
+Inferencias respecto a los parámetros.
+
+
+Análisis de la varianza. Principio de la Suma de
+    Cuadrados Extra.
+
+
+Predicción.
+
+
+
+3.- EXTENSIONES DEL MODELO DE REGRESIÓN LINEAL
+  GENERAL.
+
+
+
+Extensiones a modelos linealizables.
+
+
+Modelos de regresión
+    polinómicos.
+
+
+Regresión a través del origen.
+
+
+Modelos con interacciones.
+
+
+Modelos con variables explicativas
+    cualitativas.
+
+
+
+4.- MULTICOLINEALIDAD
+
+
+
+Concepto y causas.
+
+
+Consecuencias.
+
+
+Detección.
+
+
+Tratamiento.
+
+
+
+ 
+5.- OBSERVACIONES INFLUYENTES Y OUTLIERS
+
+
+Efectos sobre las propiedades del modelo.
+
+
+Tipos de residuos. Outliers.
+
+
+Diagnósticos de influencia.
+
+
+Tratamiento.
+
+
+
+ 
+6.- SELECCIÓN DE VARIABLES
+
+
+Error de especificación.
+
+
+Criterios para evaluar modelos de
+    regresión.
+
+
+Procedimientos de selección de
+    variables.
+
+
+
+ 
+7.- DIAGNOSIS Y VALIDACIÓN DEL MODELO
+
+
+Análisis residual.
+
+
+Hipótesis de linealidad.
+
+
+Hipótesis de normalidad.
+
+
+Heterocedasticidad.
+
+
+Autocorrelación.
+
+
+Mínimos Cuadrados Generalizados.
+
+
+Validación del modelo.
+
+
+'

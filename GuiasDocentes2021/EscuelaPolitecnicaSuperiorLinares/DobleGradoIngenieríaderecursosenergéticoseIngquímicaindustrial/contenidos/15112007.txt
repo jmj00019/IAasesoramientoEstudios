@@ -1,0 +1,96 @@
+'
+
+
+INTRODUCCIÓN A LOS SISTEMAS DE ENERGÍA.
+ENERGÍA MINIHIDRÁULICA.
+ENERGÍA EÓLICA.
+ENERGÍA SOLAR.
+ENERGÍA DE LA BIOMASA.
+
+ 
+
+UNIDAD 1. ENERGÍAS RENOVABLES Y SITUACIÓN
+ENERGÉTICA ACTUAL
+1.1. Introducción y generalidades en el panorama
+energético
+1.2. La Directiva Europea de promoción de las
+energías renovables en la generación
+eléctrica. HORIZONTE 2020 Y 2030
+1.3. Impacto de las energías renovables en el empleo y en
+el crecimiento económico
+1.4. Perspectivas en el mercado mundial de las
+tecnologías de las energías renovables (TER)
+1.5 Estado de las TER en Europa
+1.6. Desarrollo de las TER en España
+1.7. Legislación española actual
+UNIDAD 2. ENERGÍA SOLAR TÉRMICA
+2.1. Generalidades
+2.2. Situación y perspectivas del desarrollo de la
+energía solar térmica en España
+2.3. Energía solar térmica de baja temperatura
+2.4. Energía solar térmica de media temperatura.
+Centrales termosolares
+2.5. Energía solar térmica de alta temperatura.
+Centrales termosolares
+UNIDAD 3: ENERGÍA SOLAR FOTOVOLTAICA
+3.1. Introducción
+3.2. Potencial solar en España y Europa.
+3.3. El efecto fotovoltaico y magnitudes
+características
+3.4. Sistemas fotovoltaicos autónomos y conectados a
+red
+3.5. Procedimiento de cálculo de una instalación
+solar fotovoltaica.
+UNIDAD 4: ENERGÍA EÓLICA
+4.1. Introducción
+4.2. Primeros aprovechamientos de la energía
+eólica
+4.3. Evolución histórica del aprovechamiento
+energético del viento en España.
+4.4. Situación actual del mercado eólico
+4.5. Medición de la velocidad del viento.
+4.6. Previsiones futuras del mercado eólico
+4.7. Aspectos técnicos de los aerogeneradores
+4.8. Localización e investigación de
+emplazamientos eólicos.
+4.9. Promoción de una instalación eólica
+conectada a la re
+UNIDAD 5. BIOMASA
+5.1. Introducción a la biomasa como fuente de
+energía
+5.2. Definición de biomasa. Tipos. La biomasa como
+combustible. Mercado de la biomasa. Medioambiente.Aspectos
+socioeconómicos del uso de la biomasa
+5.3. Gestión del aprovechamiento de la biomasa. Residuos
+agrícolas. Residuos forestales. Residuos industriales
+5.4. Procesos de conversión energética.
+Combustión. Gasificación. Pirólisis.
+Digestión anaerobia
+5.5. Energía térmica en el sector industrial,
+doméstico y residencial. Condiciones de bienestar
+térmico e higiene. Demanda de energía térmica
+en los edificios. Biomasa para usos domésticos y
+residenciales: criterios de diseño. Equipos eficientes de
+generación de energía con biomasa
+5.6. Biocarburantes.
+ UNIDAD 6. ENERGÍA MINIHIDRÁULICA
+2.1. Generalidades
+2.2. Situación y perspectivas del desarrollo de las
+minicentrales en España
+2.3. Tipos de aprovechamiento
+2.4. Elección de la potencia de la minicentral
+2.5. Elementos constituyentes de una minicentral 
+
+Prácticas
+
+P1. Energía solar térmica. Cálculo de
+colectores solares para agua caliente sanitaria.
+P2. Energía solar fotovoltaica. Cálculo de una
+instalación solar fotovoltaica autónoma.
+P3. Energía eólica. Análisis y
+caracterización de un aerogenerador.
+P4. Energía minihidráulica
+P5. Energía de la Biomasa. Cálculo de una caldera
+de biomasa
+P6. Puesta a punto de un reactor de gasificación.
+'

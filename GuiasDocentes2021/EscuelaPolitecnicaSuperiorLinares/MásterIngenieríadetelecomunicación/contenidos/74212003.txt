@@ -1,0 +1,71 @@
+'
+
+
+Optical
+  Technologies is focused on the study of light
+  technologies from the electromagnetic and
+  photonic perspective. Communications through optical fibers
+  is considered as the main application area and it offers an
+  advanced knowledge of optical networks. The key descriptors
+  can be summarized as follows:
+
+
+
+Introduction
+    to Photonics.
+
+
+Electromagnetics
+    fundamentals of optical systems.
+
+
+Optical
+    fibers.
+
+
+Optical
+    Networks.
+
+
+
+
+ 
+  
+
+
+THEORY
+
+Block 1. FUNDAMENTALS OF OPTICAL
+WAVE AND OPTICAL ELECTROMAGNETIC
+
+Introduction to Photonics.
+Electromagnetic fields and waves.
+Gauss Beam.
+Diffractive optics.
+
+Block 2. PHOTONIC
+COMMUNICATIONS TECHNOLOGIES
+
+Basic photonic devices for optical communication
+  systems.
+Passive photonic technologies for optical networks.
+Specialty fibers.
+
+Block 3. FUNDAMENTALS OF
+OPTICAL PHOTONICS
+
+Optical photonics.
+Photons and atoms.
+Amplifiers lasers.
+Lasers.
+Photonic crystals.
+
+ 
+  
+PRACTICAL SESSIONS
+Block 1. LASER LIGHT. GAUSSIAN
+BEAM CHARACTERIZATION.
+Block 2. ELECTROMAGNETIC
+CHARACTERIZATION OF OPTIC FIBERS. OPTICAL NETWORKS.
+ 
+'

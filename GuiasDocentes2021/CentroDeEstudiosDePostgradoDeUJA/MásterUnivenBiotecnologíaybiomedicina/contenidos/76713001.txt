@@ -1,0 +1,49 @@
+'
+
+Mecanismos de la enfermedad: la biología molecular en el
+centro de la enfermedad humana. Patología molecular de la
+enfermedad humana con especial atención al cáncer,
+patologías hipóxicas, distrofias musculares e
+infección por HIV. Utilidad de la patología molecular
+en el tratamiento y diagnóstico de la enfermedad.
+
+
+ I.  Mecanismos de la enfermedad: la
+biología molecular en el centro de la enfermedad humana.
+II. Patología molecular de la enfermedad
+humana: 
+    - Bases moleculares del cáncer:
+
+           Introducción
+a los mecanismos moleculares que causan
+la transformación celular maligna           
+
+           Oncogenes
+y genes supresores de
+tumores        
+    - La patología hipóxica:
+
+            Estrés
+oxidativo y nitrosativo en la respuesta hipóxica
+
+            Factor
+de transcripción inducible por hipoxia (HIF)
+III. Utilidad de la patología molecular en el tratamiento
+y diagnóstico de la enfermedad.
+    - Marcadores tumorales
+    - Radio y quimiosensibilidad.
+IV. Terapia génica y celular
+    - Concepto y tipos de terapia
+génica.
+    - Vectores utilizados en terapia
+génica.
+    - Inmunoterapia aplicada al
+cáncer.
+    - Aplicación terapéutica
+de las céluas IPS
+
+Prácticas de laboratorio
+
+    - Efecto de la hipoxia en la
+producción de especies reactivas de oxígeno.
+'

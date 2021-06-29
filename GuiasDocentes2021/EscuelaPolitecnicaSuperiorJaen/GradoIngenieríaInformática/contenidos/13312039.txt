@@ -1,0 +1,48 @@
+'
+
+Recursos digitales. Almacenes de datos. Interoperabilidad,
+estándares y protocolos. Modelos. Conservación.
+Sistemas de gestión documental. Metadatos. Sistemas de
+gestión de contenidos. Clasificación y
+análisis de recursos de información.
+ 
+
+Contenidos teóricos:
+
+Módulo 0: Introducción
+
+
+Módulo 1: Almacenes y recursos digitales 
+  
+Almacenes de datos (Datawarehousing)
+Herramientas OLAP
+Minería de datos
+
+
+
+Módulo 2: Big data y NoSQL
+
+
+Módulo 3: Sistemas de información 
+  
+Sistemas de gestión de contenidos (CMS)
+Análisis de CMS
+
+
+
+Módulo 4: Redes sociales
+
+Contenidos prácticos:
+
+Diseño y prototipado de una solución a un
+  problema de gestión de información mediante una
+  herramienta basada en almacenes de datos.
+Los alumnos, de manera individual o por parejas,
+  elegirán un problema del mundo real para el que cuenten
+  con suficientes datos, y lo modelarán por medio de la
+  herramienta más adecuada para ello, también de su
+  elección.
+Todo el proceso anterior será convenientemente
+  documentado y supervisado a lo largo del curso.
+
+'

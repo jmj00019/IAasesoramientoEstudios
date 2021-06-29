@@ -1,0 +1,58 @@
+'
+
+La eficiencia en los mercados financieros.
+Teoría de carteras.
+Valoración de instrumentos financieros por arbitraje:
+Valoración de instrumentos de patrimonio.
+Valoración de instrumentos de deuda.
+Valoración de derivados.
+
+
+Unidad I. Introducción. 
+
+1.1. Evaluación de operaciones financieras en
+situación de certeza
+1.2. Evaluación de operaciones financieras en
+situación de riesgo
+1.3. Eficiencia del mercado y selección de operaciones
+financieras
+
+Unidad II. Teoría de carteras.
+
+II.1. Introducción a la teoría de
+carteras. 
+II.2. El modelo de Markowitz.
+II. 3. El modelo de Sharpe. 
+II.4. Carteras mixtas.
+
+Unidad III. Valoración de acciones en mercados
+  eficientes: CAPM y APT.
+
+III.1. El modelo del CAPM.
+III.2. El modelo del APT.
+
+Unidad IV. Valoración de acciones en mercados
+  no eficientes: análisis técnico y análisis
+  fundamental
+
+IV.1. Introducción: análisis técnico vs
+análisis fundamental.
+IV.2. Análisis técnico.
+IV.3. Análisis fundamental.
+
+Unidad V. Valoración de instrumentos de renta
+  fija
+
+V.1. Flujos de caja de inversiones en renta fija.
+V.2. Medidas de rentabilidad.
+V.3. Riesgos de la inversión en renta fija.
+V.4. La estructura temporal de los tipos de interés.
+V.5. Valoración de instrumentos de renta fija.
+
+Unidad VI. Valoración de derivados: forwards,
+  futuros y opciones
+
+VI.1. Introducción a los derivados.
+VI.2. Conntratos forward y futuros.
+VI.3. Contratos de opción. 
+'

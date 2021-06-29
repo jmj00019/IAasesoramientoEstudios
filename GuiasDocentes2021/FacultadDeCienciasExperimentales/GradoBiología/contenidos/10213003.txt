@@ -1,0 +1,97 @@
+'
+
+
+
+El laboratorio de
+    Bioquímica Clínica 
+
+
+Evaluación
+    analítica del metabolismo glucídico,
+    lipídico y nitrogenado.
+
+
+Evaluación
+    bioquímica de las funciones corporales.
+
+
+Alteraciones
+    bioquímicas en estados patológicos y
+    fisiológicos especiales.
+
+
+Manejo del instrumental y
+    aparataje básico del laboratorio bioquímico y
+    aplicación de los métodos biquímicos en el
+    diagnóstico, seguimiento e investigación de la
+    enfermedad.
+
+
+
+Tema 1. Introducción a la
+Bioquímica Clínica: Concepto, origen y objetivos de
+la Bioquímica Clínica
+Tema 2. El laboratorio
+clínico: Magnitudes Bioquímicas. Fases del
+análisis clínico: preanalítica,
+analítica y postanalítica. El método
+analítico. Analizadores automáticos. Control de
+calidad.
+Tema 3. Proteínas
+plasmáticas: Concepto y funciones. Análisis de
+proteínas plasmáticas. Características y
+función de las principales proteínas del plasma o
+suero. Análisis del proteinograma.
+Tema 4. Enzimología
+Clínica: Origen y tipos de enzimas plasmáticas.
+Distribución diferencial de las enzimas en los tejidos.
+Isoenzimas. Enzimas de interés diagnóstico.
+Aplicaciones terapéuticas de las enzimas.
+Tema 5. Evaluación
+analítica del metabolismo lipídico: Perfil
+lipídico. Dislipemias. Bases bioquímicas de la
+aterosclerosis.
+Tema 6. Trastornos
+hidroelectrolíticos y alteraciones del equilibrio
+ácido-base. Valoración analítica:
+Distribución y composición de los compartimentos
+hídricos del organismo. Regulación de la osmolalidad
+y volumen de los compartimentos acuosos. Parámetros
+analíticos para el diagnóstico de las alteraciones
+del equilibrio hidroelectrolítico. Necesidad de regular el
+pH. Regulación del equilibrio ácido-base.
+Amortiguadores y compensación. Trastornos y
+determinación analítica del equilibrio
+ácido-base.
+Tema 7. Evaluación de la
+Función Renal. Análisis de orina: Pruebas de
+función renal. Análisis de orina. Valoración
+de la función glomerular. Valoración de la
+función tubular.
+Tema 8. Estudio de la
+Función Hepática: Concepto, interés y
+clasificación de las pruebas de función
+hepática. Principales parámetros bioquímicos
+utilizados para su evaluación. Evaluación
+cuantitativa de la función hepática.
+Tema 9. Alteraciones del
+metabolismo glucídico: La glucemia y su regulación.
+Alteraciones del metabolismo glucídico: Diabetes mellitus,
+síndromes hipoglucémicos y errores innatos del
+metabolismo glucídico.
+Tema 10. Bioquímica del
+embarazo y perinatal: Diagnóstico de embarazo.
+Parámetros bioquímicos alterados durante el embarazo.
+Estudios del líquido amniótico para la
+detección y prevención de alteraciones.
+Tema 11. Bioquímica del
+Cáncer: Bases biológicas del cáncer.
+Marcadores tumorales: definición y tipos. Principales
+parámetros utilizados como marcadores tumorales.
+PRÁCTICAS
+1. Laboratorios de análisis clínicos
+2. Análisis de proteínas plasmáticas
+3. Estudio del perfil lipídico y la glucemia
+4. Pruebas de función hepática
+5. Estudio de la función renal
+'

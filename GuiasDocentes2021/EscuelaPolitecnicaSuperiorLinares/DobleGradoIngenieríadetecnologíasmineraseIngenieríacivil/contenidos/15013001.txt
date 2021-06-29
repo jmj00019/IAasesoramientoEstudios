@@ -1,0 +1,146 @@
+'
+
+Petrología sedimentaria.
+Generalidades sobre fósiles y fosilización.
+Grupos de microfósiles con interés
+estratigráfico.
+Unidades estratigráficas.
+Síntesis estratigráfica.
+Elaboración e interpretación de
+cartografías geológicas sobre base
+topográfica.
+Modelización de yacimientos sedimentarios.
+
+
+I. Petrología Sedimentaria
+
+ 1.- SEDIMENTOS Y ROCAS DETRÍTICOS.
+Introducción. Ruditas y areniscas. Texturas sedimentarias:
+tamaño, morfología, textura superficial y
+fábrica de los granos. Madurez textural. Estructuras
+sedimentarias: erosionales, deposicionales, postdeposicionales,
+biogénicas. Porosidad, permeabilidad y comportamiento
+mecánico. Lutitas. Texturas y estructuras, constituyentes
+minerales. Porosidad, permeabilidad y comportamiento
+mecánico. Yacimientos e interés económico.
+2.- SEDIMENTOS Y ROCAS NO DETRÍTICOS I (CARBONATOS).
+Introducción. Mineralogía. Textura. Trama:
+extraclastos y aloquímicos (intraclastos, lumps, granos
+revestidos, bioclastos, peloides). Matriz. Cementos. Porosidad,
+permeabilidad y comportamiento mecánico. 
+Clasificación. Estructuras sedimentarias. Descripción
+y génesis de los diferentes tipos. Yacimientos e
+interés económico.
+3.- SEDIMENTOS Y ROCAS NO DETRÍTICOS II. Sedimentos y
+rocas silíceas. Sedimentos y rocas alumino-ferruginosas.
+Evaporitas. Sedimentos y rocas organógenas: carbón y
+petróleo. Rocas fosfatadas. Yacimientos e interés
+económico.
+4.- DIAGÉNESIS. Concepto y generalidades sobre la
+diagénesis. Fases y procesos diagenéticos. La
+diagénesis en los diferentes tipos de rocas. Cambios en el
+comportamiento mecánico, porosidad y permeabilidad.
+ 
+
+II. Técnicas Paleontológicas
+
+ 5.- REGISTRO FÓSIL EN SONDEOS: El registro
+fósil. Concepto de fósil. Fósiles
+índice y fósiles de facies. Nomenclatura
+taxonómica. Micropaleontología y microfósiles.
+Microfósiles y sondeos. Técnicas de tratamiento del
+material para la extracción de microfósiles y
+aspectos que deben ser tenidos en cuenta: tipo de material, tipo de
+microfósiles a extraer. Procedimientos mecánicos.
+Métodos químicos de extracción. Láminas
+delgadas.
+6.- FORAMINÍFEROS: Clasificación. Grupos
+fundamentales. Ecología. Métodos de estudio e
+importancia estratigráfica. Foraminíferos
+arenáceos, generalidades: orbitolínidos.
+Foraminíferos calizos imperforados, generalidades:
+fusulínidos y alveolínidos. Foraminíferos
+calizos perforados, generalidades: bentónicos
+(nummulítidos y orbitoídidos); planctónicos
+(hedbergéllidos, globotruncánidos,
+globigerínidos).
+7.- OTROS GRUPOS DE MICROFÓSILES: Ostrácodos,
+calpionellidos, nannofósiles y dinoflagelados:
+morfología general, métodos de estudio, importancia
+estratigráfica y relaciones con la litología.
+Microfósiles silíceos (radiolarios, diatomeas,
+silicoflagelados): morfología general, métodos de
+estudio,  importancia estratigráfica y relaciones con
+la litología.
+ 
+
+III. Unidades Estratigráficas
+
+ 8.- FACIES Y ASOCIACIONES DE FACIES. Concepto y tipos de
+facies. Relaciones y asociaciones de facies. Ley de Walther.
+Factores que controlan la naturaleza y distribución de las
+facies. Análisis de secuencias de facies. Mapas de
+facies.
+9.- SECCIONES ESTRATIGRÁFICAS. Criterios de polaridad.
+Métodos de levantamiento y estudio. Gráficos de
+representación. Secuencias, ciclos y ritmos. 
+10.- UNIDADES ESTRATIGRÁFICAS: Unidades
+litoestratigráficas: tipos, forma, relaciones y
+representación gráfica. Bioestratigrafía y
+unidades bioestratigráficas. Unidades
+cronoestratigráficas.  Relación entre los
+distintos tipos de unidades y ventajas y limitaciones en sus
+respectivas aplicaciones.
+11.- CONTINUIDAD Y DISCONTINUIDAD ESTRATIGRÁFICA:
+Definición. Tipos de discontinuidades. Criterios de
+reconocimiento. Interés práctico y económico
+de las discontinuidades estratigráficas.
+ 
+
+IV. Síntesis Estratigráfica
+
+ 12.- CORRELACIONES: Concepto e importancia de las
+correlaciones. Métodos físicos:
+autocorrelación, métodos litológicos,
+métodos basados en propiedades físicas,
+métodos radiométricos. Métodos basados en
+fósiles: paleoecológicos y bioestratigráficos.
+Métodos de correlación en sondeos. Paneles de
+correlación y gráficos
+cronoestratigráficos.
+13.- TRANSGRESIONES Y REGRESIONES: Definiciones. Factores:
+eustatismo, aportes sedimentarios, la tectónica. Criterios
+de reconocimiento. Ciclos globales y regionales. Ejemplos en
+secciones estratigráficas.
+14.- ESTRATIGRAFÍA SÍSMICA Y SECUENCIAL:
+Estratigrafía secuencial: concepto de unidad
+estratigráfica genética. Tipos: unidades
+tectosedimentarias y secuencias deposicionales. Ventajas y
+limitaciones de las unidades genéticas. Interés
+económico.
+ 
+
+Prácticas de laboratorio y de gabinete
+
+Bloque 1: Petrología
+Reconocimiento y estudio de sedimentos y rocas sedimentarias en
+muestra de mano.
+Estudio e interpretación de los diferentes elementos
+texturales de las rocas sedimentarias, en muestra de mano y en el
+microscopio petrográfico.
+Bloque 2: Técnicas paleontológicas
+Realización práctica de técnicas simples de
+preparación y extracción de microfósiles:
+Preparación de levigados, frotis, láminas
+delgadas.
+Reconocimiento de las características fundamentales de
+algunos microfósiles.
+Bloque 3: técnicas de interpretación
+estratigráfica.
+Profundización en la interpretación de mapas
+geológicos y estratigráficos.
+Resolución de problemas con la falsilla
+estereográfica.
+Métodos de análisis secuencial. 
+Métodos de correlación estratigráfica.
+'

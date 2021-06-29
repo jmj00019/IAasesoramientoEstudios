@@ -1,0 +1,277 @@
+'
+
+BLOQUE I: Introducción a la Ingeniería
+Química
+BLOQUE II: Balances de materia macroscópicos
+BLOQUE III: Balances de energía
+BLOQUE IV: Introducción a los fenómenos de
+transporte
+BLOQUE V: Introducción a la transmisión de
+calor
+BLOQUE VI: Introducción a la transferencia de materia
+BLOQUE VII: Operaciones de transferencia de materia
+BLOQUE VIII: Operaciones de transferencia de materia y calor
+BLOQUE IX: Prácticas de laboratorio
+BLOQUE X: Seminarios
+
+
+
+BLOQUE I. 
+  INTRODUCCIÓN A
+  LA INGENIERÍA QUÍMICA.
+
+
+TEMA 1.
+  INTRODUCCIÓN A LA INGENIERÍA QUÍMICA.
+
+
+Concepto de
+  Ingeniería Química. Operaciones Básicas o
+  Unitarias: concepto. Operaciones continuas, discontinuas y
+  semicontinuas. Formas de llevar a cabo las operaciones
+  básicas por transferencia de materia: contacto continuo y
+  discontinuo; flujo en paralelo, contracorriente y cruzado.
+  Clasificación de las Operaciones Básicas.
+   
+
+
+
+
+BLOQUE II.  
+  BALANCES DE MATERIA
+  MACROSCÓPICOS.
+
+
+TEMA 2.
+  BALANCES DE MATERIA MACROSCÓPICOS.
+
+
+Introducción.
+  Ecuación general del balance macroscópico de
+  materia. Concepto de base de cálculo. Balances de materia
+  en estado estacionario sin reacción química.
+  Balances de materia en estado estacionario con reacción
+  química. Introducción a los balances de materia en
+  estado no estacionario.
+
+
+
+BLOQUE III: 
+  BALANCES DE
+  ENERGÍA.
+
+
+TEMA 3.
+  BALANCES MACROSCÓPICOS DE ENERGÍA.
+
+
+Ecuación
+  general del balance macroscópico de energía.
+  Balance entálpico en régimen estacionario sin
+  reacción química. Balance entálpico en
+  régimen estacionario con reacción
+  química.
+
+
+
+BLOQUE IV: 
+  INTRODUCCIÓN A
+  LOS FENÓMENOS DE TRANSPORTE.
+
+
+TEMA 4.
+  INTRODUCCIÓN Al ESTUDIO DE LOS FENÓMENOS DE
+  TRANSPORTE.
+
+
+Introducción
+  a los modelos teóricos de los fenómenos de
+  transporte. Mecanismos de transporte molecular y turbulento.
+  Ecuaciones cinéticas en transporte molecular: Leyes de
+  Newton, Fourier y Fick. Trasporte turbulento: coeficientes de
+  transporte individual y global.
+
+
+
+
+BLOQUE V: 
+  INTRODUCCIÓN A
+  LA TRANSMISIÓN DE CALOR.
+
+
+TEMA 5.
+  INTRODUCCIÓN A LA TRANSMISIÓN DE CALOR.
+
+
+Mecanismos de
+  transmisión de calor. Ecuación general de
+  transporte de calor en sólidos por conducción:
+  conductividad térmica. Introducción a la
+  convección de calor: Convección natural o libre y
+  forzada. Expresiones para el cálculo del coeficiente de
+  transmisión de calor por convección. Mecanismo de
+  transmisión de calor por radiación: cuerpos negros
+  y grises. Ecuación ley de Stefan-Boltzmann.
+
+
+
+BLOQUE VI: 
+  INTRODUCCIÓN A
+  LA TRANSFERENCIA DE MATERIA.
+
+
+TEMA 6.
+  INTRODUCCIÓN A LA TRANSFERENCIA DE MATERIA.
+
+
+Introducción:
+  Mecanismos de transferencia de materia. Definiciones.
+  Transferencia de materia por difusión: Ley de Fick.
+  Transferencia de materia por convección: Coeficientes de
+  transferencia de materia.
+
+
+
+BLOQUE VII: 
+  OPERACIONES DE
+  TRANSFERENCIA DE MATERIA.
+
+
+TEMA 7:
+  DESTILACIÓN.
+
+
+Concepto.
+  Métodos de destilación. Destilaciones simples:
+  destilación súbita o de equilibrio y
+  destilación diferencial o abierta. Problemas.
+
+
+TEMA 8:
+  RECTIFICACION CONTINUA DE MEZCLAS BINARIAS.
+
+
+Concepto.
+  Columnas de platos. Cálculo del número de platos
+  teóricos necesarios para lograr una separación
+  determinada y posición del plato de alimentación:
+  método analítico de Sorel-Lewis; método
+  gráfico de McCabe-Thiele. Relación de reflujo
+  mínima. Reflujo total: número mínimo de
+  platos. Relación de reflujo óptima.
+  Problemas.
+
+
+TEMA 9:
+  EXTRACCIÓN LÍQUIDO-LÍQUIDO.
+
+
+Introducción
+  al equilibrio líquido-líquido. Fases inmicibles y
+  fases miscibles. Diagramas de equilibrio. Contacto sencillo,
+  repetido y en contracorriente. Conceptos básicos: curva
+  binodal y rectas de reparto. Ejercicios. 
+
+
+
+BLOQUE VIII: 
+  OPERACIONES DE
+  TRANSFERENCIA DE MATERIA Y CALOR.
+
+
+TEMA 10:
+  EVAPORACIÓN.
+
+
+Generalidades.
+  Balance de vapor. Tipos de evaporadores. Capacidad de
+  evaporación. Economía de un evaporador.
+  Evaporación de simple efecto: Cálculo. Evaporador
+  de múltiple efecto: Cálculo. Problemas.
+
+
+
+BLOQUE IX: 
+  PRÁCTICAS DE
+  LABORATORIO. 
+
+
+
+
+
+CONTENIDOS
+    TEÓRICOS PRELIMINARES
+
+
+ENFOCADOS
+
+A LAS
+    PRÁCTICAS DE LABORATORIO
+
+ 
+
+
+
+
+Balance de
+    materia en estado no estacionario.
+
+
+Balance de
+    energía.
+
+
+Rectificación
+    en columna de platos de la mezcla etanol-agua.
+
+
+Convección
+    natural.
+
+
+Destilación
+    diferencial.
+
+
+Destilación
+    por arrastre de vapor.
+
+
+Refractometría.
+
+
+Equilibrio
+    líquido-vapor.
+
+
+
+
+BLOQUE X: 
+  SEMINARIOS.
+
+
+SEMINARIO I:
+  MAGNITUDES FÍSICAS Y SISTEMAS DE UNIDADES.
+
+
+Magnitudes
+  físicas y su medición. Magnitudes fundamentales y
+  derivadas. Sistemas de unidades. Sistema Internacional de
+  unidades: ventajas y limitaciones. Métodos directos e
+  indirectos de medida. Notación científica y
+  prefijos. Transformación de unidades de un sistema a otro.
+  La precisión de los instrumentos en las mediciones de
+  diferentes magnitudes y tipos de errores.
+
+
+SEMINARIO II:
+  ESTUDIO DEL EQUILIBRIO LÍQUIDO-VAPOR.
+
+
+Clasificación
+  de los equilibrios. Criterios termodinámicos de equilibrio
+  entre fases. Aplicación al sistema gas-líquido.
+  Leyes fundamentales. Diagramas de equilibrio. Mezclas binarias.
+  Problemas.
+
+'

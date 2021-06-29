@@ -1,0 +1,113 @@
+'
+
+Se analizará la aplicación a la
+investigación arqueológica de métodos
+analíticos desarrollados por otras ciencias y necesarios
+para la generación de datos imprescindibles en la
+interpretación histórica. Se estudiaran los datos que
+muestra el registro arqueológico básico para la
+reconstrucción medioambiental
+y económica de las poblaciones del pasado: polen,
+restos carpológicos, antracológicos, sedimentarios,
+faunísticos, etc.
+Para el análisis de los artefactos se explorarán
+los siguientes cinco campos: a) cronología
+arqueológica o arqueocrononometría, b)
+Analítica arqueológica (análisis
+físicos y químicos de los materiales en los que
+están realizados los artefactos), c) aplicaciones
+arqueológicas de sistemas de teledetección, y
+por último, d) métodos de manipulación y
+procesado de datos (por ejemplo, la construcción de modelos
+matemáticos, análisis estadísticos
+y técnicas de recuperación de datos).
+Se realizará una aproximación los modelos y
+métodos de análisis de datos estadísticos
+aplicables a diferentes problemas arqueológicos.
+Se analizará la aplicación de las técnicas
+informáticas y digitales a la introducción,
+gestión, almacenamiento, extracción y estudio de la
+información arqueológica.
+
+
+
+
+Parte de
+      Estadística:
+
+
+
+
+
+Análisis
+    descriptivo de datos.
+
+
+Probabilidad,
+    variable aleatoria y distribuciones de probabilidad.
+
+
+Inferencia
+    estadística.
+
+
+Técnicas
+    de análisis multivariante.
+
+
+
+
+
+Parte de Aplicaciones
+  Informáticas:
+
+
+Módulo
+  I:
+
+
+
+Sistemas de
+    Información.
+
+
+Introducción
+    a Sistemas de Información.
+
+
+Introducción
+    a los Sistemas de Bases de Datos.
+
+
+Introducción
+    a los Sistemas de Gestión Documental.
+
+
+Otros
+    sistemas.
+
+
+
+Módulo
+  II:
+
+
+
+Sistemas de
+    Bases de Datos Relaciones.
+
+
+Introducción
+    a los sistemas de bases de datos relaciones.
+
+
+Planificación
+    y diseño de un sistema de base de datos
+    relacional.
+
+
+Explotación
+    de un sistema de base de datos relacional.
+
+
+'

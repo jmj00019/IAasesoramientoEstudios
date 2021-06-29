@@ -1,0 +1,114 @@
+'
+
+Bloque I. Introducción a la fotogrametría.
+Definiciones y conceptos básicos. Sistemas de
+coordenadas.
+Bloque II. Instrumentación fotogramétrica
+Sistemas de captura (sensores y plataformas). Estación
+fotogramétrica digital. Sistema estereoscópico.
+Software fotogramétrico
+Bloque III. Metodología
+Fases del proceso fotogramétrico. Métodos
+fotogramétricos para la documentación del patrimonio
+histórico y arqueológico. Integración de
+sensores fotográficos
+y láser.
+Bloque IV. Aplicaciones y documentación.
+Levantamientos a pequeña, mediana y gran escala.
+Estudios paramentales y de fachadas. Rectificación y
+ortorrectificación diferencial. Aplicaciones
+3D.
+Prácticas
+Instrumentación y productos fotogramétricos.
+Levantamiento fotogramétrico: planificación de
+proyectos fotogramétricos, ejecución de vuelo
+fotogramétrico
+con sistema aéreo no tripulado para estudios de
+yacimientos, ejecución de proyecto fotogramétrico
+para estudio de paramentos, ejecución de proyecto
+para modelización 3D. Levantamiento con Laser
+escáner.
+
+
+Contenidos
+  Teóricos:
+
+
+BLOQUE I. INTRODUCCIÓN A LA
+  FOTOGRAMETRÍA.
+
+Tema 1. Introducción
+Conceptos básicos.
+Definiciones.
+Haz perspectivo. Parámetros internos y externos.
+Aplicaciones
+Tema 2. Geometría de la imagen. Medida de
+imágenes.
+Geometría de la imagen
+fotográfica.
+Sistemas de coordenadas. Transformación de
+coordenadas.
+Instrumentos de medida.
+
+BLOQUE II. INSTRUMENTACIÓN
+  FOTOGRAMÉTRICA.
+
+Teme 3. Sistemas de Adquisición de Imágenes.
+Cámaras métricas,
+semi-métricas y no métricas.
+Tema 4. Instrumentos de Restitución.
+Estereoscopía. El caso normal
+de la estereofotogrametría.
+Instrumentos digitales. Introducción a los procesos
+automáticos.
+Sotware fotogramétrico.
+
+BLOQUE III. METODOLOGÍA.
+
+Tema 5. Proyecto Fotogramétrico.
+Tipos de levantamientos
+fotogramétricos.
+Métodos fotogramétricos: monoscópicos,
+convergentes y estereoscópicos.
+Apoyo fotogramétrico.
+Tema 6. Escáner Láser Terrestre. Fusión de
+datos.
+
+BLOQUE IV. APLICACIONES Y DOCUMENTACIÓN.
+
+Tema 7. Documentación del patrimonio.
+Situación actual, normativas
+aplicables y disciplinas relacionadas.
+Tema 8. Productos basados en Técnicas
+Fotogramétricas.
+Productos 2D y 3D.
+Instrumentación y metodología de trabajo.
+ 
+
+Contenidos
+  Prácticos:
+
+Práctica 1. Manejo de cámaras
+fotográficas.
+Práctica 2. Planificación de proyectos
+fotogramétricos.
+
+Fotogrametría Estereoscópica.Vuelo
+  fotogramétrico.
+Fotogrametría Monoscópica.
+  Rectificación. Monorestitución.
+Fotogrametría Convergente.
+Escáner Láser Terrestre.
+
+Práctica 3. Levantamiento mediante vuelo
+fotogramétrico con sistema aéreo no tripulado para
+estudios de yacimientos.
+Práctica 4. Levantamiento fotogramétrico para
+el estudio de paramentos.
+Práctica 5. Levatmiento fotogramétrico para
+la modelización 3D.
+Práctica 6. Levantamiento con Escáner Laser
+Terrestre.
+ 
+ 
+'

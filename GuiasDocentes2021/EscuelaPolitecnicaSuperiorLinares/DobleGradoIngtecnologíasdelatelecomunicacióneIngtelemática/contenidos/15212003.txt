@@ -1,0 +1,318 @@
+'
+
+La asignatura Fundamentos de las Redes de
+Telecomunicación proporciona a los alumnos los conocimientos
+para dotarle de capacidad para poder concebir, desplegar, organizar
+y gestionar redes de telecomunicación, en contextos
+residenciales y empresariales. A tal fin se estudiará el
+concepto de estructura de red, las bases de la ingeniería de
+tráfico, así como principios y técnicas de
+conmutación y encaminamiento.
+Además, en la parte práctica adquirirá
+la capacidad para aprender de manera autónoma un conjunto de
+técnicas empleadas para la concepción, desarrollo y
+explotación de sistemas de telecomunicación.
+Palabras claves: red de telecomunicación,
+ingeniería de tráfico, dimensionamiento,
+conmutación, encaminamiento.
+
+En esta asignatura el alumno conocerá las distintas
+técnicas utilizadas en cuanto a la
+señalización y conmutación en las redes de
+telecomunicación actuales, tanto en entornos fijos como
+móviles. Además se estudiaran distintos aspectos de
+ingeniería de tráfico, incidiendo especialmente en
+problemas de optimización, dimensionamiento de redes y de
+técnicas de calidad de servicio.
+Además, se dotará al alumno de la capacidad para
+estar al día en las novedades en ciencia y
+tecnología, sobre todo en este tipo de materias, tan ligadas
+a un entono tan dinámico como son las telecomunicaciones, y
+en concreto la Ingeniería Telemática.
+
+BLOQUE TEÓRICO:
+
+
+Tema 1.         
+  Introducción a las redes de
+  telecomunicación.                                        
+
+
+           
+1.1      
+Concepto.                                         
+
+           
+1.2       Génesis de
+redes.                                          
+
+           
+1.3       Modelo para las
+comunicaciones.                                        
+
+           
+1.4       Clasificación de las
+redes.                                        
+
+           
+1.5       Análisis comparativo de
+las técnicas de
+conmutación.                                
+
+Tema 2.         
+  Redes de conmutación de
+  paquetes.                                                         
+
+
+           
+2.1       Introducción al
+encaminamiento.                                        
+
+           
+2.2       Métodos de
+encaminamiento.                                                         
+
+           
+2.3       Algoritmos de
+encaminamiento.                                          
+
+           
+2.4       Control de la
+congestión.                                                                 
+
+           
+2.5       Soluciones: mecanismos de
+control de la
+congestión.                                 
+
+           
+2.6       Algoritmos de control de la
+congestión.
+
+           
+2.7       Bases de la ingeniería de
+tráfico.
+
+Tema
+  3.         
+  Encaminamiento.                                                    
+
+
+           
+3.1       Introducción al
+router.                                                         
+
+           
+3.2       Configuración de
+dispositivos y
+direccionamiento.                                    
+
+           
+3.3       Construcción de la
+tabla de
+encaminamiento.                                             
+
+           
+3.4       Determinación de la
+ruta y funciones de
+conmutación.                              
+
+Tema
+  4.         
+  Encaminamiento
+  estático.                                      
+
+
+           
+4.1      
+Routers.         
+.                      
+
+           
+4.2       Configuración de
+interfaces del router.
+
+           
+4.3       Exploración de redes
+conectadas directamente.
+
+           
+4.4       Rutas estáticas con
+direcciones del "siguiente salto".
+
+           
+4.5       Rutas estáticas con
+interfaces de salida.
+
+           
+4.6       Resumen y rutas
+estáticas predeterminadas.
+
+           
+4.7       Administración y
+resolución de problemas de rutas estáticas.
+
+Tema
+  5.         
+  Protocolos de encaminamiento dinámico.
+
+
+           
+5.1       Introducción.
+
+           
+5.2       Clasificación de
+protocolos de enrutamiento dinámico.
+
+           
+5.3       Métricas.
+
+           
+5.4       Distancias
+administrativas.
+
+Tema 6.         
+  Protocolos de encaminamiento por vector-distancia.
+
+
+           
+6.1       Introducción a los
+protocolos de enrutamiento por vector- distancia.
+
+           
+6.2       Descubrimiento de la
+red.
+
+           
+6.3       Mantenimiento de las tablas
+de encaminamiento.
+
+           
+6.4       Bucles de
+encaminamiento.
+
+           
+6.5       Protocolos de enrutamiento
+por vector-distancia en la
+actualidad.             
+
+Tema 7.         
+  MPLS.                                  
+
+
+           
+7.1       Introducción a
+MPLS.
+
+           
+7.2       Modelo de referencia.
+
+           
+7.3       Etiquetado con MPLS.
+Formato de cabecera.
+
+           
+7.4       Arquitectura de red.
+
+           
+7.5       Protocolo LDP.
+
+           
+7.6       Envío de paquete IP
+con MPLS.
+ 
+
+BLOQUE PRÁCTICO:
+
+
+En
+  este bloque se desarrollarán  habilidades de
+  comunicación información, ideas, problemas y
+  soluciones en el ámbito de ingeniería y la sociedad
+  en general a través de procesos de entrega de
+  documentación o presentaciones orales. Con  respecto
+  a la organización del trabajo, se fomentará la
+  colaboración y trabajo en equipo a través del
+  propio diseño de las prácticas.
+
+
+Practica 1.      Cableado de una
+  red y configuración básica del
+  router.            
+
+En esta práctica se abordarán tareas
+básicas como aprender a realizar el cableado de los
+dispositivos y establecer la conexión con el router a
+través de la consola. Además se familiarizará
+con otras tareas como: establecer borrar y recarga la
+configuración de los routes, realizar operaciones
+básicas de la interfaz de línea de comando IOS,
+verificar configuraciones, crear y recarga archivo de
+configuración de
+inicio.          
+
+Practica 2.      Simulación
+  con Packet Tracer. Resolución de problemas de
+  conectividad.
+
+En esta práctica en primer lugar se familiarizará
+con la herramienta de simulación de redes llamada Packet
+Tracer. Mediante dicha herramienta podrá examinar un modelo
+de red de ejemplo en el que deberá: examinar en cada router
+su configuración, verificar su conectividad, detectar los
+problemas existentes, ejecutar la simulación, examinar los
+resultados obtenidos y corregir los problemas detectados.
+
+Práctica 3.     
+  Configuración básica de ruta
+  estática.                                         
+
+En esta práctica el alumno,  
+haciendo
+uso de la herramienta Packet tracer deberá construir una red
+de acuerdo la topología indicada, lo que conllevará
+la elección de los routers, realizar su configuración
+básica, configurar y activar sus interfaces,  probar la
+conectividad, configurar de tabla de encaminamiento de la red
+mediante  rutas estáticas.
+
+Práctica 4.     
+  Observación de la información de la tabla de
+  encaminamiento.
+
+En esta práctica el alumno utilizando el simulador Packet
+Tracer, con una red de ejemplo, se adiestrará en la
+observación  del  detalle de las entradas de la
+tabla de encaminamiento.
+
+Práctica 5.      
+  
+Asignación de
+  direcciones en una
+  red.                                            
+
+
+
+En esta
+  práctica el alumno debe diseñar una red, para ello
+  determinará las subredes necesarias, la cantidad de
+  direcciones necesarias en cada una, así como
+  propondrá un esquema de direccionamiento
+  adecuado.
+
+
+Práctica 6.      
+  
+Configuración
+  básica de RIP.
+
+
+En
+  esta práctica el alumno, utilizando el Packet Tracer,
+  deberá crear una red según una topología de
+  ejemplo, realizar la configuración de los routers,
+  configurar el protocolo RIP y verificar su funcionamiento.
+  
+
+ 
+'

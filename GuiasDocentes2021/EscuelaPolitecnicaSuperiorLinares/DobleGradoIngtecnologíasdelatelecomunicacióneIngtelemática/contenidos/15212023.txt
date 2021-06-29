@@ -1,0 +1,174 @@
+'
+
+En esta asignatura se dará al alumno una visión
+general de las características más importantes de los
+protocolos de transporte. Todos estos protocolos, serán
+explicados dentro de su contexto de aparición y desarrollo
+sufrido, estando enfocado su estudio a su aplicación para la
+resolución de problemas de interconexión de procesos
+y aplicaciones a través de redes de comunicaciones.
+Los contenidos de la parte práctica se orientarán
+al diseño y desarrollo de sistemas de interconexión
+de procesos usando primitivas de comunicaciones a nivel de
+transporte, así como el diseño y validación de
+protocolos.
+
+Dentro de los protocolos de aplicación a estudiar
+estarán, entre otros, aquellos que soportan el servicio web,
+correo electrónico, transferencia de ficheros y la
+gestión de los nombres de dominio.
+En la capa de transporte se particularizará en aquellos
+protocolos que, por su importancia y uso, conforman el conjunto de
+protocolos más usados en la actualidad, como son UDP y
+TCP.
+El programa se divide en dos partes:
+1.    Protocolos de aplicación y servicios
+típicos de internet.
+
+Se presentarán los
+  protocolos de aplicación más comunes de Internet.
+  Estos protocolos cubren algunos de los servicios más
+  usados en la actualidad, tales como la web, el correo
+  electrónico, transferencia de ficheros, control remoto de
+  procesos y el servicio de nombres de dominio. Se
+  introducirán sus características más
+  importantes, comandos y extensiones.
+Se detallará el protocolo
+  HTTP, su evolución y versiones más empleadas en el
+  contexto actual, dada su importancia en el entorno actual de
+  Internet.
+
+2.    Protocolos de transporte
+
+Se presentarán las
+  características generales de los protocolos de transporte
+  dentro de las redes de ordenadores, su necesidad y sus aspectos
+  más importantes.
+Se detallan los protocolos
+  más usados en Internet a nivel de transporte, como son UDP
+  y TCP. Se estudiaran en profundidad sus características y
+  aspectos clave de su evolución e implantación.
+
+Bloque teórico
+1. Protocolos de Aplicación Básicos en
+Internet
+1.1. Introducción
+1.2. Protocolos y Aplicaciones en Internet
+1.3. Correo Electrónico
+1.4. Telnet
+1.5. Transferencia de ficheros (FTP)
+1.6. Servicio de Nombres de Dominio (DNS)
+Resolución de ejercicios
+2. Protocolo  HTTP y servicio web
+2.1. Introducción
+2.2. Direccionamiento
+2.3. Evolución
+2.4. HTTP 1.1
+2.5. HTTP 2.0
+2.6. HTTP 3.0
+2.7. Websockets.
+Resolución de ejercicios
+3. Transporte en Internet
+3.1. Fundamentos de la capa de transporte
+3.2. Protocolos de transporte en Internet
+3.3. Protocolo de Datagrama de Usuario (UDP)
+3.4. Protocolo TCP
+3.5. Protocolo QUIC 
+Resolución de ejercicios
+Bloque práctico
+El bloque práctico de la asignatura se compone de
+prácticas en el laboratorio, y su carácter es
+obligatorio.
+El objetivo de las prácticas propuestas es la
+consecución de las competencias establecidas, así
+como las habilidades necesarias para el diseño,
+implementación y prueba de aplicaciones para la
+interconexión de procesos, clientes y servidores TCP y UDP,
+en lenguaje C y Java que proporcionen un servicio concreto definido
+por un protocolo de aplicación, preferiblemente un
+estándar de Internet..
+Además, se desarrollarán habilidades de
+comunicación información, ideas, problemas y
+soluciones en el ámbito de ingeniería y la sociedad
+en general a través de procesos de entrega de
+documentación o presentaciones orales.
+Con respecto a la organización del trabajo, se
+fomentará la colaboración y trabajo en equipo a
+través del propio diseño de las prácticas.
+Práctica 1. Introducción a la programación
+de aplicaciones con las primitivas Socket en C para TCP
+En esta práctica se introducirá en el estudio de
+las primitivas socket para la programación de clientes y
+servidores sobre el protocolo TCP en una red IP. Para ello se
+mostrará el funcionamiento de un cliente y un servidor
+sencillo sobre TCP que le será entregado al alumno. Para
+profundizar en el conocimiento sobre este tipo de aplicaciones, al
+código entregado se le deberá hacer modificaciones
+para adaptarlo a un nuevo protocolo de aplicación.
+La práctica se estructurará en una serie de tareas
+distribuidas entre las sesiones de laboratorio establecidas para la
+práctica.
+
+Temporización
+
+
+Sesiones en el laboratorio: 3 (6 horas).
+Tiempo de trabajo autónomo: 9 horas.
+
+Práctica 2. Introducción a la programación
+de aplicaciones con las primitivas Socket en C para UDP
+En esta práctica se introducirá en el estudio de
+las primitivas Socket en C para la programación de clientes
+y servidores sobre el protocolo UDP en una red IP. Para ello se
+mostrará el funcionamiento de un cliente y un servidor
+sencillo sobre UDP que le será entregado al alumno. Para
+profundizar en el conocimiento sobre este tipo de aplicaciones, al
+código entregado se le deberá hacer modificaciones
+para adaptarlo a un nuevo protocolo de aplicación.
+La práctica se estructurará en una serie de tareas
+distribuidas entre las sesiones de laboratorio establecidas para la
+práctica.
+
+Temporización
+
+
+Sesiones en el laboratorio: 2 (4 horas).
+Tiempo de trabajo autónomo: 6 horas.
+
+Práctica 3. Implementación de un cliente socket
+TCP basado en un estándar
+El objeto de esta práctica es afianzar los conocimientos
+teóricos y prácticos vistos hasta ese momento en la
+asignatura a través de la realización de una
+aplicación cliente sobre TCP que siga un protocolo de
+aplicación conocido y de uso común. La
+implementación será con Sockets.
+
+Temporización
+
+
+Sesiones en el laboratorio: 5 (10 horas).
+Tiempo de trabajo autónomo: 15 horas.
+
+Práctica 4. Implementación de un servidor TCP
+basado en un estándar
+El objeto de esta práctica es afianzar los conocimientos
+teóricos y prácticos vistos hasta ese momento en la
+asignatura a través de la realización de una
+aplicación servidora sobre TCP que siga un protocolo de
+aplicación conocido y de uso común.
+
+Temporización
+
+
+Sesiones en el laboratorio: 5 (10 horas).
+Tiempo de trabajo autónomo: 15 horas.
+
+Seminarios
+
+Programación con sockets (2h).
+Plataforma de compartición de proyectos (1 h).
+Opcional - Conceptos básicos de programación en
+  Java (2h).
+
+'

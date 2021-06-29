@@ -1,0 +1,38 @@
+'
+
+Esta asignatura presenta el protocolo IP en sus diferentes
+versiones para proporcionar al alumno la capacidad de aplicar
+distintas técnicas de interconexión y encaminamiento,
+en diferentes entornos de comunicaciones.
+En la parte práctica de la asignatura se estudia la
+configuración y características de los protocolos a
+nivel de red, posteriormente se configuran distintos equipos para
+la interconexión de redes IP.
+Palabras clave: IPv4, IPv6, direccionamiento,
+encaminamiento.
+
+Tema 0. Intoducción al nivel de red.
+Tema 1. IPv4.
+Tema 2. IPv6.
+Tema 3. Calidad de servicio y routing en IP.
+Tema 4. SDN.
+Práctica 1. IPv4, protocolos y tecnologías
+auxiliares.
+Práctica 2. IPv6 protocolos y tecnologías
+auxiliares.
+Práctica 3. Calidad de servicio y routing en IP.
+Práctica 4. Tecnologías SDN.
+Se dotará al alumno de la capacidad para estar al
+día en las novedades en ciencia y tecnología, sobre
+todo en este tipo de materias, tan ligadas a un entono tan
+dínamico como son las telecomunicaciones, y en concreto la
+Ingeniería Telemática. Además, se
+desarrollarán habilidades de comunicación
+información, ideas, problemas y soluciones en el
+ámbito de ingeniería y la sociedad en general a
+través de procesos de entrega de documentación o
+presentaciones orales. Con respecto a la organización del
+trabajo, se fomentará la colaboración y trabajo en
+equipo a través del propio diseño de las
+prácticas.
+'

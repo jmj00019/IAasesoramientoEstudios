@@ -1,0 +1,38 @@
+'
+
+1. Bases de la gestión de infraestructuales lineales.
+Introducción.
+2. Tipos de redes. Redes en SIG.
+3. Control de redes de tráfico. Introducción.
+Tipos de redes de transporte. Estándares. Diseño y
+Gestión.
+4. Gestión de redes hidraúlicas.
+Introducción. Tipos de redes y elementos. Bases de
+Hidraúlica. Diseño y Gestión de Redes de
+Hidráulica. Telemando y telecontrol.
+5. Aplicación a casos prácticos.
+
+
+Bases de la gestión de infraestructuales
+  lineales.
+Introducción.
+Tipos de redes. Redes en SIG.
+Control de redes de tráfico. 
+  
+Introducción.
+Tipos de redes de transporte.
+Estándares.
+Diseño y Gestión.
+
+Gestión de redes hidraúlicas. 
+  
+Introducción.
+Tipos de redes y elementos.
+Bases de Hidraúlica.
+Diseño y Gestión de Redes de
+    Hidráulica.
+Telemando y telecontrol.
+
+Aplicación a casos prácticos.
+
+'

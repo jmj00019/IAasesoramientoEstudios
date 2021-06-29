@@ -1,0 +1,47 @@
+'
+
+Principios fundamentales de la luminotecnia
+Equipos utilizados en tecnología de la
+iluminación
+Diseño de instalaciones de alumbrado
+Ahorro energético en instalaciones de alumbrado
+
+BLOQUE TEMÁTICO 1: INTRODUCCIÓN. PRINCIPIOS
+FUNDAMENTALES DE LA LUMINOTECNICA. 
+Tema 1: CONCEPTOS BÁSICOS DE LUZ Y VISIÓN.
+Introducción. Magnitudes y unidades radiométricas y
+fotométricas. Elementos que constituyen los sistemas de
+iluminación. 
+BLOQUE TEMÁTICO 2: EQUIPOS UTILIZADOS EN
+TECNOLOGÍA DE LA ILUMINACIÓN
+Tema 2. LÁMPARAS. Clasificación de las fuentes de
+luz. Lámparas eléctricas: tipos y fundamentos.
+Equipos eléctricos asociados a las lámparas
+eléctricas. Proceso de selección de fuentes de
+luz..
+Tema 3. LUMINARIAS.  Definición. Elementos que las
+constituyen. Luminarias para interior: clasificación y
+características. Luminarias para alumbrado urbano y viario:
+clasificación y características-. Proyectores:
+clasificación y características.
+Tema 4.- EQUIPOS AUXILIARES. Definición. Selección
+de equipos auxiliares. 
+BLOQUE TEMÁTICO III: DISEÑO DE INSTALACIONES DE
+ALUMBRADO.
+Tema 5.- DIALUX.  Interface. Fundamentos. Proyectos
+interior-exterior.
+Tema 6. ALUMBRADO INTERIOR. Tipos y clasificación.
+Aspectos cualitativos y cuantitativos del alumbrado interior.
+Criterios de diseño. Proceso de cálculo.
+Normativa.
+Tema 7. ALUMBRADO EXTERIOR. Tipos y clasificación.
+Aspectos cualitativos y cuantitativos del alumbrado exterior.
+Criterios de diseño. Normativa. 
+BLOQUE TEMÁTICO IV: AHORRO ENERGÉTICO EN
+INSTALACIONES DE ALUMBRADO
+Tema 8. AHORRO ENERGÉTICO EN INSTALACIONES DE ALUMBRADO.
+Eficiencia energética en las instalaciones de
+alumbrado.Código Técnico de la Edificación.
+Reglamento de eficiencia energética en las instalaciones de
+alumbrado exterior.
+'

@@ -1,0 +1,647 @@
+'
+
+Especificación e implementación de Estructuras de
+datos. Contenedores secuenciales y asociativos. Estructuras para
+representar datos multidimensionales.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Módulo
+          A:
+
+
+
+
+
+
+Introducción
+
+
+
+
+
+
+
+
+
+Lección
+          1:
+
+
+
+
+
+
+Presentación
+          e introducción a las estructuras de
+          datos.
+
+
+
+
+
+Lección
+        2:
+
+
+Contenedores:
+        tipos. Análisis de
+        complejidad.
+
+
+
+
+
+
+
+
+Lección
+          3:
+
+
+
+
+
+
+Definición
+          de patrones en C++. Operadores. Gestión de
+          memoria.
+
+
+
+
+
+
+Módulo
+
+
+
+
+
+
+B:
+
+
+
+
+
+
+Vectores
+          y listas
+
+
+
+
+
+
+
+
+
+Leccion
+          4:
+
+
+
+
+
+
+Vectores
+          estáticos y
+          dinámicos.
+
+
+
+
+
+
+
+
+
+Leccion
+          5:
+
+
+
+
+
+
+Matrices
+          y arrays multidimensionales. Conjuntos de
+          bits.
+
+
+
+
+
+
+
+
+
+Lección
+          6:
+
+
+
+
+
+
+Listas
+          enlazadas.
+          Iteración.
+
+
+
+
+
+
+
+
+
+Lección
+          7:
+
+
+
+
+
+
+Listas
+          doblemente enlazadas. Listas circulares. Matrices
+          dispersas.
+
+
+
+
+
+
+
+
+
+Lección
+          8:
+
+
+
+
+
+
+Introducción
+          a STL. Clases vector, deque y
+          list.
+
+
+
+
+
+
+Módulo
+
+
+
+
+
+
+C:
+
+
+
+
+
+
+Pilas
+          y colas
+
+
+
+
+
+
+
+
+
+Lección
+          9:
+
+
+
+
+
+
+Pilas,
+          colas, colas con prioridad. Adaptadores de
+          STL.
+
+
+
+
+
+
+Módulo
+
+
+
+
+
+
+D:
+
+
+
+
+
+
+Árboles.
+
+
+
+
+
+
+
+
+
+Leccion
+          10:
+
+
+
+
+
+
+Árboles.
+          Árboles binarios. Recorridos. Árboles
+          binarios de
+          búsqueda.
+
+
+
+
+
+
+
+
+
+Lección
+          11:
+
+
+
+
+
+
+Árboles
+          balanceados. Árboles
+          AVL
+
+
+
+
+
+
+
+
+
+Lección
+          12:
+
+
+
+
+
+
+Heaps.
+          Conjuntos
+          disjuntos
+
+
+
+
+
+
+
+
+
+Lección
+          13:
+
+
+
+
+
+
+Conjuntos
+          y mapas de
+          STL
+
+
+
+
+
+
+Módulo
+
+
+
+
+
+
+E:
+
+
+
+
+
+
+Dispersión.
+
+
+
+
+
+
+
+
+
+Lección
+          14:
+
+
+
+
+
+
+Tipos
+          de dispersión. Funciones de
+          dispersión.
+
+
+
+
+
+
+
+
+
+Leccion
+          15:
+
+
+
+
+
+
+Resolución
+          de
+          colisiones
+
+
+
+
+
+
+Módulo
+
+
+
+
+
+
+F:
+
+
+
+
+
+
+Grafos
+
+
+
+
+
+
+
+
+
+Lección
+          16:
+
+
+
+
+
+
+Representación
+          de grafos. Algoritmos sobre
+          grafos.
+
+
+
+
+
+
+Módulo
+
+
+
+
+
+
+G:
+
+
+
+
+
+
+Estructuras
+          de datos
+          multidimensionales.
+
+
+
+
+
+
+
+
+
+Leccion
+          17:
+
+
+
+
+
+
+Mallas
+          regulares.
+          Range-trees
+
+
+
+
+
+
+
+
+
+Lección
+          18:
+
+
+
+
+
+
+Árboles
+          k-d.
+          Quadtrees
+
+
+
+
+
+
+Módulo
+
+
+
+
+
+
+H:
+
+
+
+
+
+
+Estructuras
+          de datos para gestión de
+          ficheros
+
+
+
+
+
+
+
+
+
+Lección
+          19:
+
+
+
+
+
+
+Conceptos
+          y operaciones fundamentales sobre
+          archivos
+
+
+
+
+
+
+
+
+
+Lección
+          20:
+
+
+
+
+
+
+Indexación
+
+
+
+
+
+
+
+
+
+Lección
+          21:
+
+
+
+
+
+
+Árboles
+          B
+
+ 
+
+
+Programa
+          Práctico:
+
+Prácticas
+        desarrolladas en C++ sobre los diferentes
+        módulos:
+
+
+Práctica sobre
+            Módulo B
+
+
+Práctica sobre
+            Módulo C
+
+
+Práctica sobre
+            Módulo D
+
+
+Práctica sobre
+            Módulo E
+
+
+Práctica sobre
+            Módulo F
+
+
+Práctica sobre
+            Módulo G
+
+
+Práctica sobre
+            Módulo H 
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+'

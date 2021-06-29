@@ -1,0 +1,51 @@
+'
+
+Planificación de proyectos software. Gestión de
+riesgos. Gestión de recursos para desarrollo software.
+Gestión de la configuración.
+ 
+
+
+Bloque I. Conceptos Básicos para Proyectos
+  Software
+
+
+Fundamentos de la Gestión de Proyectos Software
+Gestión de Riesgos
+Gestión de Recursos Humanos
+Herramientas Básicas para Proyectos Proyectos
+  Software
+
+
+Bloque II. Grupos de Proceso en la Gestión de
+  Proyectos
+
+
+Modelos de Ciclo de Vida para la Gestión de
+  Proyectos
+Gestión del Ámbito del Proyecto
+Gestión de la Planificación del Proyecto
+Gestión de la Ejecución del Proyecto
+Seguimiento y Control del Proyecto
+Gestión de la Finalización del Proyecto
+
+
+Bloque III.
+Gestión de la Configuración
+
+Procesos para Gestión de la Configuración
+Herramientas para Gestión de la
+  Configuración
+
+
+Prácticas
+
+El alumnado tendrá la posibilidad de trabajar el
+siguiente programa práctico:
+
+Gestión del Ámbito del Proyecto
+Prototipado para Proyectos Software
+Presupuesto y Facturación de Proyectos Software
+Gestión Web de Proyectos Software
+
+'

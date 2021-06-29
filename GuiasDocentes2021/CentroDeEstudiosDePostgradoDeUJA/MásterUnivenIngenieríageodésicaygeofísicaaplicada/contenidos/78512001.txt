@@ -1,0 +1,100 @@
+'
+
+Sistemas lineales: señales y
+sistemas continuos y discretos, convolución y
+correlación de señales, respuesta al impulso,
+análisis de Fourier.
+Modulaciones digitales: PSK, FSK,
+QAM, MSK, OFDM. Codificación de canal: conceptos
+básicos y tipos. Multiplexado y acceso múltiple.
+Protocolos de comunicación.
+Entramado. Radiación y
+radiocomunicación. Comunicaciones por satélite:
+arquitectura del sistema (segmento tierra y segmento espacial),
+servicios, frecuencias, coberturas, balance del enlace.
+Transmisión de
+señales GNSS. Generación e identificación de
+códigos PRN. Procesado de la señal GNSS.
+
+Telecomunicaciones y Teoría de la Señal es una de
+las asignaturas obligatorias para la formación en el
+Máster Universitario en Ingeniería Geodesica y
+Geofísica Aplicada. Dicha asignatura permite al alumno
+adquirir conocimientos sobre los fundamentos y conceptos
+básicos para el análisis y diseño de
+sistemas lineales, comprender las especificaciones y
+parámetros fundamentales de un sistema de comunicaciones,
+conocer los principales elementos constitutivos de los sistemas de
+comunicación digital para analizar el comportamiento de las
+señales en transmisión y recepción, entender
+el principio de funcionamiento de los Sistemas de Comunicaciones
+por Satélite.
+BLOQUE TEÓRICO
+Tema 1. Señales y sistemas en tiempo continuo y
+discreto.
+·  Clasificación de señales.
+·  Sistemas lineales invariantes en el tiempo
+(LTI). Respuesta al impulso en sistemas.
+·  Convolución en tiempo.
+Tema 2. Análisis de Fourier.
+·  Respuesta de un sistema LTI.
+·  Desarrollo en Serie de Fourier.
+·  Transformada de Fourier.
+·  Función de transferencias de un
+sistema.
+·  Muestreo
+Tema 3. Análisis espectral basado en Transformada
+Discreta de Fourier (DFT).
+ ·  La Transformada Discreta de Fourier (DFT).
+·  Propiedades de la DFT.
+·  Convolución lineal usando la DFT.
+·  Análisis de señales sinusoidales
+mediante la DFT.
+·  Efecto del enventanado.
+·  Efecto del muestreo del espectro.
+Tema 4. Modulaciones digitales.
+·  Modulaciones binarias: BPSK, BFSK, QAM, MSK,
+OFDM.
+·  Modulaciones M-arias: M-PSK, M-FSK, M-QAM.
+·  Modulaciones multiportadora: OFDM.
+Tema 5. Fundamentos de la codificación canal.
+·  Codificación de canal de secuencias
+estructuradas.
+·  Códigos de bloque lineales.
+Tema 6. Multiplexado y acceso múltiple.
+·  Multiplexación/acceso múltiple
+por división de frecuencia (FDM/FDMA).
+·  Multiplexación/acceso múltiple
+por división de tiempo (TDM/TDMA).
+·  Multiplexación/Acceso múltiple
+por división de código.
+Tema 7. Radiocomunicación.
+· Fundamentos de Radiación
+electromagnética y Antenas.
+ · Balance de potencias de un radioenlace.
+· Mecanismos básicos de propagación
+radioeléctrica.
+Tema 8. Comunicaciones por satélite.
+·  Mecánica orbital y lanzadores.
+·  Satélites.
+·  Diseño de enlaces satélite.
+·  Navegación satélite y sistema de
+posicionamiento global (GPS).
+Tema 9. Transmisión de señales GNSS.
+Generación de códigos PRN. Identificación de
+códigos PRN.
+·  Sistema satelital en GPS. Constelación.
+·  Posicionamiento por correlación de
+códigos de ruido .pseudoaleatorios.
+·  Fuentes de error de coordenadas GPS.
+·  Aplicaciones.
+BLOQUE GRUPO REDUCIDO
+Práctica 1. Señales y sistemas.
+Práctica 2. Modulaciones digitales.
+Práctica 3. GNU Radio Modulador Digital.
+Práctica 4. Codificación de canal.
+Resolución de problemas relacionados con el temario
+impartido en clase expositiva.
+SEMINARIOS
+SEMINARIO 1. INTRODUCCIÓN A MATLAB.
+'

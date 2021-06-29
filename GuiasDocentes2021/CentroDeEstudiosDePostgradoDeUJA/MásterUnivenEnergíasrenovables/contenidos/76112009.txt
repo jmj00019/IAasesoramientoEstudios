@@ -1,0 +1,38 @@
+'
+
+Bloque 1. Introducción: operaciones previas, pirolisis,
+combustión, cogeneración, gasificación
+Bloque 2. Digestión anaerobia: biogás
+Bloque 3. La biomasa como fuente de calor y frío
+Bloque 4. Generación eléctrica con biomasa
+
+Bloque 1. Procesos de obtención de biocombustibles para
+generación térmica y eléctrica
+* Biocombustibles
+sólidos
+* Densificación
+* Combustión parcial
+* Biocombustibles gaseosos
+* Pirolisis y
+gasificación
+* Obtención de
+hidrógeno
+* Obtención de
+biogás
+ 
+Bloque 2. Aplicaciones térmicas y eléctricas de
+los biocombustibles
+* Calefacción y/o agua
+caliente
+* Sector doméstico
+* Industrial
+* Pequeño negocio
+* Generación
+eléctrica
+* Cogeneración
+* Co-combustión
+ 
+Bloque 3. Hidrógeno y pilas de combustible
+* Ciclo del agua
+* Pilas de combustible
+'

@@ -1,0 +1,163 @@
+'
+
+· Introducción a los sistema embebidos.
+· Arquitecturas de sistemas embebidos.
+· Periféricos digitales y analógicos en
+sistemas embebidos.
+· Programación de sistemas embebidos mediante
+lenguaje de alto nivel: Labview.
+· Sistemas embebidos basados en FPGAs.
+· Sistemas embebidos para la instrumentación y
+el control de procesos industriales.
+· Programación de microcontroladores.
+
+
+
+
+CONTENIDOS
+  TEÓRICOS:
+
+
+ 
+
+
+
+
+Tema
+  1. Sistemas embebidos basados en
+  microcontroladores
+
+
+
+Introducción
+  a los sistemas embebidos. Arduino
+
+
+
+
+
+
+Sistema
+    de desarrollo Arduino y otras plataformas. Aplicaciones.
+
+
+Software
+    de desarrollo para Arduino.
+
+
+El
+    sistema de interrupciones en Arduino. Programación
+    basada en eventos.
+
+
+
+
+
+Tema
+  2. Periféricos digitales y analógicos en sistemas
+  embebidos  
+  
+
+
+
+Periféricos
+    integrados en el sistema Arduino (Puertos digitales y
+    analógicos, temporizadores, comparadores, moduladores
+    PWM, conversores AD, comunicaciones serie).
+
+
+Sensores,
+    actuadores y periféricos de comunicaciones (drivers de
+    potencia, interfaces, comunicaciones serie e
+    inalámbricas, sensores, memoria externa, otros
+    periféricos).
+
+
+
+
+Tema
+   3. Tecnología de los computadores
+  monoplaca
+
+
+
+Introducción
+    a los computadores monoplaca.
+    
+
+
+Aplicaciones. 
+    
+
+
+Bases
+    de instalación de sistema operativo y
+    configuración.
+
+
+Conexión
+    y control de  dispositivos.
+
+
+
+
+
+Tema
+  4. Introducción a los sistemas embebidos
+  monoplaca
+
+
+
+Metodología.
+
+
+Casos
+    de estudio.
+
+
+Nociones
+    básicas de Programación de hardware
+    reconfigurable.
+
+
+Nociones
+    básicas de Circuitos lógicos programables.
+
+
+ 
+
+
+
+CONTENIDOS
+  PRÁCTICOS:
+
+
+
+Práctica
+    1: Introducción al sistema de desarrollo Arduino
+
+
+Práctica
+    2: Manejo de puertos analógicos y digitales y
+    temporizadores.
+
+
+Práctica
+    3: Aplicaciones basada en interrupciones
+
+
+Práctica
+    4: Comunicaciones serie e inalámbricas
+
+
+Práctica
+    5: Sistema de adquisición y control
+
+
+
+Práctica
+    6: Sistema embebidos inteligentes basados en sensores
+    
+
+
+'

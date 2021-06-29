@@ -1,0 +1,56 @@
+'
+
+1. Gestión de proyectos y organizaciones. Marco de
+referencia para la gestión de los proyectos.
+2. Gestión de la integración del
+proyecto.Gestión del alcance, del coste y del plazo del
+proyecto. Gestión de la calidad del proyecto. Gestión
+de las comunicaciones
+del proyecto. Gestión de los riesgos del proyecto.
+3. Técnicas y herramientas ligadas a la gestión
+de proyectos.
+4. Los proyectos en el ámbito de la geomática.
+Experiencias nacionales e internacionales.
+5. Los proyectos de I+D+i en el ámbito de la
+geomática. Norma ISO 166.000
+
+Tema 1. Introducción a la Gestión de Proyectos
+
+1.1 Concepto de proyecto
+1.2 Proyectos vs Operaciones
+1.3 ¿Qué es la gestión de proyectos?
+1.4 Metodologías de Gestión de Proyectos
+1.5 Beneficios de Gestión de Proyectos
+1.6 ¿Qué es un proceso?
+1.7 El rol de Director de Proyecto
+1.8 Áreas de conocimiento del Director de Proyecto y
+Grupos de Procesos de Gestión del Proyecto
+Tema 2. El contexto del Proyecto
+
+2.1 El ciclo de vida del proyecto: Fases, Relaciones entre
+las Fases, Características, Grupos de Procesos.
+2.2 Factores influyentes en el Proyecto.
+2.3 Stakeholders
+Tema 3. Gestión del Proyecto por fases
+
+3.1 Fase de inicio. Viabilidad. Preplan de Proyecto
+3.2 Fase de organización y preparación. Plan de
+Proyecto.
+3.3 Fase de ejecución.
+3.4 Fase de cierre.
+Tema 4. Proyecto, Programa, Portafolios
+
+4.1 Plan Estratégico y Organización.
+4.2 Proyectos. Ejemplos.
+4.3 Planes y Programas. Ejemplos.
+4.4 Portafolios. Ejemplos.
+Tema 5. I+D+i en Geomática. Gestión de
+proyectos de I+D+i
+
+5.1 Conceptos básicos de I+D+i.
+5.2 I+D+i. Planes y convocatorias.
+5.3 Gestión de la calidad en I+D+i. Norma UNE 166.000.
+5.4 Etapas de un proyectos de I+D+i.
+Tema 6. Ejemplos prácticos de gestión de
+proyectos
+'

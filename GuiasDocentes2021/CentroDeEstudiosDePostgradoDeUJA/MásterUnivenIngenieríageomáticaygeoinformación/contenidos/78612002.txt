@@ -1,0 +1,66 @@
+'
+
+1. Sistemas de referencia.
+2. Fundamentos del posicionamiento. Tipos.
+3. Posicionamiento por satélite. Sistemas GNSS (GPS,
+GLONASS, Galileo, RTK, redes permanentes).
+4. Posicionamiento por redes de telefonía.
+Posicionamiento por radiofrecuencia. Posicionamiento WiFi.
+5. Fundamentos de navegación. Sistemas SBAS.
+Integridad. Sistemas inerciales (INS).
+
+
+1. Sistemas de referencia en Geodesia.
+
+1.1.- Sistemas y Marcos de Referencia
+1.1.1.- Sistemas de Referencia
+Celestes
+1.1.2.- Sistemas de Referencia
+Terrestres
+1.1.3.- Revisión de algunos
+Sistemas de Referencia
+1.1.4.- Otros
+1.2.- Sistemas de Referencia Altimétricos
+1.3.- Sistemas de coordenadas
+
+2. Fundamentos del posicionamiento
+
+2.1.- Introducción
+2.2.- GPS.
+2.2.- Modos de posicionamiento
+2.3.- GLONASS
+2.4.- Galileo      
+2.5.- Formatos y ficheros utilizados en GNSS
+
+3 GNSS:
+
+
+
+  Posicionamiento relativo.
+
+  Posicionamiento absoluto (PPP).
+
+  Posicionamiento RTK.
+Redes
+  permanentes.
+
+
+
+4 Navegación:
+
+
+    Fundamentos de Navegación.
+Sistemas
+    SBAS. Integridad.
+Sistemas
+    Inerciales (INS).
+
+
+
+Aspectos Prácticos:
+
+1.- Sistemas de Referencia: transformaciones de coordenadas
+entre sistemas de referencia.
+2.- Combinando ecuaciones normales.
+3.- RTK
+'

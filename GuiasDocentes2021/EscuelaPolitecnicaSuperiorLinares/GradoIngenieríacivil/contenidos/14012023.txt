@@ -1,0 +1,166 @@
+'
+
+
+TEORÍA DE CIRCUITOS
+
+
+MÁQUINAS ELÉCTRICAS
+
+
+SISTEMAS ELÉCTRICOS DE POTENCIA
+
+
+SISTEMAS ELECTRÓNICOS Y DE CONTROL
+ 
+
+ 
+
+
+Tema 1.- Introducción y conceptos generales
+
+Dipolo eléctrico
+Corriente de un dipolo
+Diferencia de potencial entre los terminales de un
+  dipolo
+Potencia de un dipolo
+Cortocircuito y circuito abierto
+
+Tema 2.- Componentes elementales
+
+Definición de circuito eléctrico
+Elementos activos
+Elementos pasivos
+Elementos activos. Modelos más próximos a la
+  realidad
+
+Tema 3.- Leyes de Kirchhoff
+
+Definición de nudo y malla
+Ley de los  nudos o 1ª Ley de Kirchhoff
+Ley de las mallas o 2ª Ley de Kirchhoff
+Asociación de elementos pasivos
+Asosociación de elementos activos
+Conversión de fuentes de tensión en fuentes de
+  intesidad y viceversa
+
+Tema 4.- Análisis de circuitos lineales
+
+Método general
+Análisis de circuitos por el método de las
+  mallas
+Análisis de circuitos por el método de los
+  nudos
+
+Tema 5.- Teoremas fundamentales del análisis de
+circuitos
+
+Principio de superposición
+Teorema de sustitución
+Dipolo equivalente Thevenin y dipolo equivalente Norton
+
+Tema 6.- Magnitudes sinusoidales
+
+Introducción
+Valor eficaz
+Notación compleja
+Leyes de Kirchhoff
+Notación compleja en valores eficaces 
+
+Tema 7.- Comportamiento de los elementos ideales en corriente
+alterna
+
+Resistencia, bobina, condensador
+Impedancia compleja
+Asociación de impedancias en serie
+Asociación de impedancias en paralelo
+Circuito básico RLC
+Análisis de circuitos en corriente alterna
+Teoremas
+
+Tema 8.- Potencia en corriente alterna
+
+Potencia instantánea y activa consumida
+Potencia compleja
+Potencia alterna en los elementos básico
+Balance de potencias
+Factor de potencia
+
+Tema 9.- Sistemas trifásicos
+
+Definición
+Circuitos trifásicos equilibrados
+Magnitudes de línea y de fase
+Solución de circuitos trifásicos
+  equilibrados
+Conversión estrella-triángulo
+
+Tema 10.- Potencia en los sistemas trifásicos
+equilibrados
+
+Potencia instantánea
+Potencia trifásica
+Compensación del factor de potencia
+Medida de la potencia en sistemas trifásicos
+
+
+
+   Tema 11.- Principios generales de
+las máquinas eléctricas
+
+Definiciones
+Clasificación general de las máquinas
+  eléctricas
+Elementos constructivos básicos
+Balance energético y rendimiento
+Valores nominales y placa de características
+
+Tema 12.- Transformadores
+
+Constitución y formas constructivas
+Transformador ideal
+Circuito equivalente del transformador real
+Ensayos de vacío y de cortocircuito
+Funcionamiento en carga
+Transformadores trifásicos
+
+Tema 13.- Máquinas asíncronas
+
+Constitución y principio de funcionamiento
+Circuito equivalente simplificado
+Ensayos
+Curvas características
+Balance de potencia
+Arranque 
+El motor monofásico
+
+
+  Tema 14.- Líneas
+eléctricas. Cálculo de secciones
+
+Tipos de líneas eléctricas
+Parámetros y modelos
+Corrientes de cortocircuito
+Cálculo de secciones
+
+Tema 15.- Aparamenta, protección y control
+
+Sistemas y dispositivos de protección
+Protección frente a sobrecargas
+Protección frente a cortocircuitos
+Efecos fisiológicos de la corriente eléctrica y
+  puestas a tierra
+Protección contra contactos directos e indirectos
+Protección contra sobretensiones
+Dispositivos electrónicos y de control
+
+Tema 16.- Diseño de instalaciones de baja
+tensión
+
+Acometida
+Intalaciones de enlace
+Instalaciones interiores o receptoras
+Puesta a tierra de las masas 
+
+ 
+ 
+'

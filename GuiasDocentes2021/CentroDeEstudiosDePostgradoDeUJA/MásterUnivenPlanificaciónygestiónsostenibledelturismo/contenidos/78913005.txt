@@ -1,0 +1,72 @@
+'
+
+Tema 1:
+Introducción a la Gestión de la Cadena de
+Suministros (SCM). Evolución histórica. Sistemas
+Productivos.
+Tema 2:
+SCM como un nuevo Modelo Competitivo y de Dirección.
+Tema 3:
+Modelos aplicados en la SCM. Colaboración e
+Integración de Procesos en la Cadena de Suministros.
+Tema 4:
+Gestión de la Demanda en la Cadena de Suministros.
+Tema 5:
+Reestructuración y consolidación de Cadenas de
+Suministro. Desarrollo de proveedores. Planificación
+y Gestión Colaborativa (EDI, ECR, VMI, CR, CPFR).
+Outsourcing. Representantes en planta. Early
+Supplier Involvement (ESI). Postponement.
+Tema 6:
+Medición de desempeño en la SCM. Cuadro de
+Mando Integral en la SCM. Logística en la SCM: Lead
+Times, Logística Inversa, Milk Run, Cross-docking,
+Transit points, Merge in Transit, Just-in-sequence.
+Otros modelos aplicados en la SCM.
+
+
+Tema 1:
+
+Introducción a la Gestión de la Cadena de
+Suministros (SCM). Evolución histórica.
+Diversificación de productos. El modelo japonés. El
+papel de la Logística. Sistemas Productivos.
+
+Tema 2:
+
+SCM como un nuevo Modelo Competitivo y de Dirección.
+Redes de Suministro y Cadenas de Suministro. Cadenas Productivas y
+Cadenas de Suministro. Cadenas de Valor y Cadenas de Suministro.
+Gestión de la Cadena de Suministro y Logística. Ejes
+de Configuración de la SCM. Cadenas de Suministro Ajustadas
+y Cadenas de Suministro Ágiles.
+
+Tema 3:
+
+Modelos, figuras de cooperación y de integración
+de procesos para la SCM. Colaboración e Integración
+de Procesos en la Cadena de Suministros.
+
+Tema 4:
+
+Gestión de la Demanda en la fabricación y en los
+servicios. incertidumbre de la demanda en la SCM. Métodos
+analíticos y sistemas informáticos aplicados en la
+SCM.
+
+Tema 5:
+
+Reestructuración y consolidación de Cadenas de
+Suministro. Desarrollo de proveedores. Planificación y
+Gestión Colaborativa (EDI, ECR, VMI, CR, CPFR). Outsourcing.
+Representantes en planta. Early Supplier Involvement (ESI).
+Postponement.
+
+Tema 6:
+
+Medición de desempeño en la SCM. Cuadro de Mando
+Integral en la SCM. Logística en la SCM: Lead Times,
+Logística Inversa, Milk Run, Cross-docking, Transit points,
+Merge in Transit, Just-in-sequence. Otros modelos aplicados en la
+SCM.
+'

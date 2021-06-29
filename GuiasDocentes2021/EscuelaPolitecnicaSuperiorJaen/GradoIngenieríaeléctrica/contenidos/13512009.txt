@@ -1,0 +1,109 @@
+'
+
+Fundamentos y elementos que integran los circuitos
+eléctricos
+Técnicas de análisis y medida de circuitos
+Constitución y principio de funcionamiento de las
+máquinas eléctricas
+
+Fundamentos y elementos que integran los circuitos
+eléctricos 
+Técnicas de análisis y medida de
+circuitos 
+Constitución y principio de funcionamiento de las
+máquinas eléctricas
+Tema 1. FUNDAMENTOS 
+1.1 Dipolo eléctrico. Corriente de un dipolo. 
+1.2 Diferencia de potencial entre los terminales de un
+dipolo. 
+1.3 Potencia de un dipolo. 
+1.4 Cortocircuito y circuito abierto. 
+1.5 Definición de circuito eléctrico. 
+1.6 Elementos activos. Elementos pasivos. 
+1.7 Formas de onda.
+
+Tema 2. TÉCNICAS DE ANÁLISIS DE CIRCUITOS 
+2.1 Definición de nudo y malla. 
+2.2 Ley de nudos o 1ª Ley de Kirchhoff. 
+2.3 Ley de mallas o 2ª Ley de Kirchhoff. 
+2.4 Asociación de elementos pasivos. Asociación
+de elementos activos. 
+2.5 Análisis de circuitos eléctricos utilizando
+el método de mallas 
+3.6 Análisis de circuitos eléctricos utilizando
+el método de nudos.
+
+Tema 3. CIRCUITOS EN RÉGIMEN ESTACIONARIO
+SENOIDAL 
+3.1 Introducción. Magnitudes fundamentales.
+Notación compleja. 
+3.2 Resistencia. Bobina. Condensador. 
+3.3 Impedancia Compleja. 
+3.4 Circuito RLC serie. 
+3.5 Análisis de circuitos en corriente alterna. 
+3.6 Potencia en corriente alterna. 
+3.6.1 Potencia instantánea y potencia activa. 
+3.6.2 Potencias activa, reactiva y aparente. 
+3.6.3 Balance de potencias. 
+3.6.4 El factor de potencia.
+
+Tema 4. SISTEMAS TRIFÁSICOS 
+4.1 Definición. 
+4.2 Valores de fase y de línea 
+4.3 Potencia instantánea. Potencia
+trifásica 
+4.4 Corrección del factor de potencia
+TEMA 5: INSTALACIONES ELÉCTRICAS DE BAJA
+TENSIÓN 
+5.1 Introducción. Elementos de una instalación
+eléctrica. 
+5.2 Estructura del Reglamento Electrotécnico para Baja
+Tensión. 
+5.3 Cálculo eléctrico de líneas.
+Criterios de diseño. 
+5.4 Puesta a tierra. 
+5.5 Esquemas de conexión en baja tensión. 
+5.6 Protecciones. 
+5.7 Instalaciones de alumbrado. 
+5.8 Facturación eléctrica.
+
+Tema 6. PRINCIPIOS GENERALES DE LAS MÁQUINAS
+ELÉCTRICAS 
+6.1 Definiciones. Clasificación general de las
+máquinas eléctricas. 
+6.2 Elementos constructivos básicos. 
+6.3 Balance energético y rendimiento. 
+6.4 Valores nominales y placa de
+características. 
+6.5 Transformadores. 
+6.5.1 Introducción. Constitución y magnitudes
+fundamentales. 
+6.5.2 Ensayos de vacío y cortocircuito. 
+6.5.3 Funcionamiento en carga: Caída de tensión
+interna. Rendimiento y regulación. 
+6.5.4 Transformadores trifásicos. Grupos de
+conexión. 
+6.5.5 Transformadores especiales: autotransformadores y
+transformadores de medida y protección. 
+6.6 Máquinas asíncronas 
+6.6.1 Introducción. Constitución
+física 
+6.6.2 Arranque del motor de inducción
+trifásico 
+6.6.3 Regulación de velocidad 
+6.6.4 El motor de inducción monofásico.
+
+Tema 7. EL SISTEMA ELÉCTRICO
+7.1 Generación eléctrica. Nuevas tendencias. 
+7.2 Cargas eléctricas. El vehículo
+eléctrico 
+7.2 Redes eléctricas. Smart grids.
+ 
+PRÁCTICAS.
+1. Circuitos de corriente continua. Leyes de Kirchhoff. 
+2. Circuitos de corriente alterna. Análisis de
+circuitos serie y paralelo RLC. 
+3. Sistemas trifásicos. 
+4. Esquemas de distribución en baja tensión
+5. Ensayos del transformador
+'

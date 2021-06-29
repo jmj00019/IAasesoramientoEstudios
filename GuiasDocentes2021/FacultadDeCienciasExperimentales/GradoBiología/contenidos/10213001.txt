@@ -1,0 +1,149 @@
+'
+
+Técnicas de manipulación de ácidos
+nucleicos in vitro. Metodología del ADN recombinante.
+Manipulación genética de microorganismos.
+Manipulación genética de células animales y
+vegetales. Técnicas moleculares de mejora
+genética
+
+
+Programa  de contenidos desarrollado:
+
+
+
+TEORÍA
+
+
+BLOQUE I: Manipulación de ácidos nucleicos 
+  in vitro. Técnicas básicas.
+
+1.    
+Introducción a la Ingeniería genética.
+Técnicas básicas de manipulación de
+ácidos nucleicos 
+in vitro. Perspectiva histórica de las
+tecnologías de análisis y manipulación de
+ácidos nucleicos. Purificación de ADN y ARN.
+Separación y análisis de ácidos nucleicos
+mediante electroforesis en geles.
+2.    
+Enzimas empleadas en la manipulación de
+ácidos nucleicos 
+in vitro. Corte y ligamiento del ADN.
+Modificación in vitro. Síntesis y
+degradación.
+3.    
+Amplificación de ácidos nucleicos 
+in vitro (PCR) y sus aplicaciones.
+Reacción en cadena de la polimerasa (PCR): 
+Taq polimerasa, cebadores y amplificación. PCR de
+ARN (RT-PCR). Aplicaciones de la PCR.
+4.    
+Identificación de secuencias
+específicas. Transferencia a soporte sólido.
+Sondas. Hibridación. Detección.
+5.    
+Análisis de la expresión de genes.
+Northern-blots, ensayos de protección frente a RNasas,
+RT-PCR, qPCR, hibridación in situ, ensayo de
+extensión de cebadores.
+
+BLOQUE II: Manipulación genética en
+  procariotas ( 
+  E. coli)
+
+6.    
+Clonación y expresión en Procariotas ( 
+E. coli), Parte I: Introducción a la
+clonación. Vectores de clonación utilizados en
+procariotas. Métodos de introducción de nueva
+información genética en procariotas.
+7.    
+Clonación y expresión en Procariotas ( 
+E. coli), Parte II: Detección e
+identificación de un clon: selección de
+recombinantes.
+8.    
+Clonación y expresión en Procariotas ( 
+E. coli), Parte III: Estrategias de
+clonación y expresión del ADN recombinante en 
+E. coli: Genotecas.
+9.    
+Mutagénesis 
+in vitro. Mutagénesis aleatoria y
+mutagénesis dirigida.
+
+BLOQUE III: manipulación genética en
+  eucariotas
+
+10.  
+Manipulación y mejora genética en
+microorganismos. Aplicaciones. Las levaduras como modelo
+eucariota. Importancia biotecnológica de las levaduras.
+Ingeniería genética de levaduras y hongos
+filamentosos. Ejemplos y aplicaciones.
+11.  
+Manipulación y mejora genética en plantas.
+Aplicaciones. Mejora vegetal clásica.
+Técnicas de estudio y manipulación genética.
+Plantas transgénicas. Ejemplos y aplicaciones.
+12.  
+Manipulación y mejora genética en animales.
+Aplicaciones. Mejora animal clásica.
+Modificación genética de células.
+Modificación genética de organismos completos.
+Crecimiento y producción. Algunas aplicaciones.
+13.  
+Regulación del uso de organismos modificados
+genéticamente y patentes. Aspectos
+económicos, éticos y culturales.
+Legislación.
+
+
+
+PRÁCTICAS
+
+
+A)  
+
+Prácticas de laboratorio
+Las prácticas de laboratorio estarán divididas en
+dos semanas intensivas (sesiones de 2 horas diarias), y en ellas se
+llevarán a cabo algunas de las técnicas de
+manipulación genética tratadas en teoría.
+Las prácticas propuestas para el próximo curso
+podrían cambiar en función del escenario presencial
+aplicable atendiendo a la situación sanitaria vigente.
+- 
+
+PRÁCTICA 1
+. Southern-blot. Esta práctica incluye el
+aprendizaje de técnicas de marcaje de ácidos
+nucleidos, cuantificación de los niveles de marcaje,
+transferencia de ADN a una membrana de nailon y posterior
+hibridación con una sonda marcada, y la detección de
+marcaje mediante revelado inmunológico.
+
+- 
+
+PRÁCTICA
+2 . Esta práctica incluye: corte y ligamiento de
+fragmentos específicos, obtención de bacterias
+competentes, transformación de éstas con ADN
+recombinante (previamente preparado en clase), selección de
+bacterias recombinantes, extracción de ADN
+plasmídico, digestión y electroforesis del mismo y
+comprobación de la presencia del inserto.
+
+B)  
+
+Actividades formativas
+Posibles temas propuestos:
+-      Aplicaciones de la PCR.
+-      Alternativas a la ligasa para la
+obtención de moléculas de ARN recombinante.
+-      Plataformas de NGS.
+-      Aplicación de la
+obtención de proteínas recombinantes.
+'

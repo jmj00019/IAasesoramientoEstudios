@@ -1,0 +1,66 @@
+'
+
+Concepto de BD y sus ventajas frente a los sistemas de
+archivos
+Niveles de información
+Enfoques de datos: BD relacionales
+Normalización de tablas
+BD espaciales
+El lenguaje SQL
+
+
+PROGRAMA DE TEORÍA
+
+1. Introducción a las Bases de Datos
+1.1 Conceptos fundamentales
+1.2 Niveles de información
+1.3 Descripción funcional del SGBD
+
+2. El enfoque de datos relacional
+2.1 La estructura de datos relacional
+2.2 Álgebra relacional
+
+3. El lenguaje SQL
+3.1 Lenguaje de Definición de Datos (DDL)
+3.2 Lenguaje de Manipulación de Datos (DML)
+
+4. El modelo Entidad/Relación
+4.1 Conceptos fundamentales
+4.2 Reducción a relaciones jerárquicas
+4.3 Transformación de relaciones ternarias
+4.4 Conversión de Entidades débiles en fuertes
+4.5 Aplicación del enfoque lógico de datos
+relacional a esquemas conceptuales
+4.6 Normalización de tablas
+
+
+PROGRAMA PRACTICO:
+1. Programación en SQL
+1.1. Entorno de trabajo SQL*Plus de Oracle. Conexión
+al servidor.
+1.2 Comandos CREATE TABLE, ALTER TABLE y DELETE TABLE .
+1.3 Inserción, modificación y borrado: Comandos
+INSERT, UPDATE y DELETE
+Reglas de Integridad
+1.4 Consulta de información I. Usos básicos del
+comando SELECT
+1.5 Consulta de información II. Usos avanzados del
+comando SELECT
+1.6 Subconsultas en las sentencias INSERT, DELETE Y UPDATE
+1.7 Creación y consultas de vistas: Comando CREATE
+VIEW
+
+2. Proyecto de Bases de Datos (integración de
+conceptos adquiridos sobre un supuesto real)
+2.1 Elaboración del documento de requerimientos
+según documento-guía
+2.2. Diseño conceptual (modelo
+Entidad-Relación): Definición de entidades y
+relaciones, Definición de restricciones y
+Documentación del modelo
+2.3. Diseño lógico relacional:
+Conversión de relaciones N-M, Reglas de validación y
+valores por defecto, Documentación del modelo.
+2.4. Generación de sentencias DDL y DML para el DBMS
+seleccionado
+'

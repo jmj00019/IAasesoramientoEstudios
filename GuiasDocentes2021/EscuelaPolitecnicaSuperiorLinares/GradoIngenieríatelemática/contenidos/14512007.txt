@@ -1,0 +1,40 @@
+'
+
+En esta asignatura se desarrollarán capacidades para
+construir, explotar y gestionar servicios y aplicaciones de
+telecomunicación, entendiéndolas como sistemas de
+captación, representación, procesado, almacenamiento,
+gestión y presentación de información, desde
+el punto de vista de los servicios telemáticos.
+En la parte práctica de la asignatura se estudian
+distintos aspectos relativos a la desarrollo, implementación
+y despliegue de aplicaciones telemáticas que dan soporte a
+servicios de telecomunicaciones.
+Palabras clave: Servicio de telecomunicación,
+tecnologías web, aplicaciones en red.
+
+
+BLOQUE TEÓRICO
+
+Tema 1.- Aplicaciones MVC. Tecnologías Servlet.
+Tema 2.- Framework Spring MVC.
+Tema 3.- Servicios REST y SOAP.
+Tema 4.- Plataformas orientadas a Servicio: Google Cloud
+Platform.
+
+BLOQUE PRÁCTICO
+
+Práctica 1.- Plataforma de desarrollo colaborativo:
+GitHub.
+Práctica 2.- Desarrollo de Aplicaciones MVC.
+Práctica 3.- Desarrollo de Servicios REST.
+Práctica 4.- Uso de Google Cloud Platform.
+
+SEMINARIOS
+
+
+Bases de datos.
+Servicios de pago electrónico: PayPal.
+GCP
+
+'

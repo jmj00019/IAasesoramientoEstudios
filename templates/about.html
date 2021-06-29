@@ -1,0 +1,39 @@
+<style>
+    h1 {
+      color: 008000;
+    }
+
+    p {
+      font-size:20px;
+      line-height:25px;
+      text-indent:25px;
+    }
+</style>
+
+{% extends "layout.html" %}
+{% block body %}
+
+<div class="col-lg-8">
+    <div>
+        <h1 class="font-weight-bold text-center"> ¿Cuál es la carrera y las asignaturas que se ajustan más a ti? </h1>
+    </div>
+    <div class="d-md-flex pt-4">
+        <div class="form-group justify-content-start my-2 float-left ml-5">
+            <p class="text-center font-weight-bold">
+            Si te interesa saber cual son las </br>
+            asignaturas y carreras que te <br>
+            complementarian y son más afines a ti, <br>
+            rellena este formulario y obtendras la <br>
+            respuesta.
+            </p>
+            <div class="d-flex justify-content-center">
+                <a href="/"> <button type="button" class="btn btn-success">Descubre tu futuro</button> </a>
+            </div>
+        </div>
+         <div class="col-4 ml-5">
+             <img src="/static/img/portada.png" class="img-thumbnail" alt='portada'>
+         </div>
+    </div>
+</div>
+
+{% endblock %}

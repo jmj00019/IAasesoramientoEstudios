@@ -1,0 +1,49 @@
+'
+
+
+Estructura,
+  programación y recursos de los sistemas digitales.
+
+
+Programación
+  de tarjetas de adquisición de datos e
+  instrumentación virtual.
+
+
+Diseño
+  de convertidores de potencia.
+
+
+TEORÍA:
+ 
+Bloque 1. Convertidores de potencia
+Dispositivos semiconductores de potencia. Rectificadores.
+Convertidores DC/DC. Inversores. Convertidores AC/AC.
+ 
+Bloque 2. Smart grids
+Concepto. Objetivos. Principales características.
+Ventajas e inconvenientes. Arquitectura general. Microrredes.
+Tecnologías implicadas.
+ 
+Bloque 3. Integración de energías renovables en la
+smart grid. Caso de estudio: energía fotovoltaica
+Topologías de inversores fotovoltaicos conectados a la
+red eléctrica. Casos de estudio de integración de
+energía fotovoltaica en la red eléctrica.
+ 
+PRÁCTICAS:
+ 
+Bloque práctico 1. Simulación de convertidores de
+potencia
+Utilización de diodos, tiristores y transistores para
+conmutación. Simulación de convertidores de
+potencia.
+ 
+Bloque práctico 2. Simulación de microrredes con
+integración de energía fotovoltaica.
+
+Simulación
+  de inversores fotovoltaicos para interconexión con la red
+  eléctrica. Simulación de microrredes.
+
+'

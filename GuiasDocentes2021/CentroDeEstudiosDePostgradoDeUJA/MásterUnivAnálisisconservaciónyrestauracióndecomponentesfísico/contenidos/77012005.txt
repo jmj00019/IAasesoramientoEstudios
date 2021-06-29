@@ -1,0 +1,73 @@
+'
+
+Con objeto de dotar a los alumnos de herramientas y
+métodos para la caracterización de los componentes
+físicos del hábitat, esta asignatura incluye las
+técnicas de análisis geoquímico de muestra
+total, técnicas espectroscópicas, métodos de
+caracterización de la materia orgánica, así
+como las técnicas microanalíticas basadas en la
+microscopía electrónica. Finalmente, se
+introducirá al alumno en el estudio de los métodos de
+estudio geofísico de la superficie terrestre.
+
+CONTENIDOS DESARROLLADOS:
+Técnicas de análisis
+geoquímico de muestra total:
+Introducción a los
+métodos analíticos en geoquímica.
+Técnicas de rayos X: Difracción de rayos X,
+fundamentos y ley de Bragg; Fluorescencia de rayos X (FRX),
+fundamentos y preparación de muestras, modo de trabajo.
+Espectrometría de Masas con fuente de Plasma de Acoplamiento
+Inductivo (ICP-MS): Fundamentos y preparación de muestras.
+Modo de trabajo. Otras técnicas de análisis
+geoquímico de muestra total (AAS e ICP-AES). Aplicaciones en
+materiales geológicos y tratamiento de datos.
+Técnicas
+espectroscópicas:
+Espectroscopía Infrarroja.
+Absorción de radiación en la región
+infrarroja: vibraciones fundamentales, sobretonos y bandas de
+combinación.  Instrumentos para el registro de
+espectros de infrarrojo medio por transformada de Fourier (FT-IR).
+Preparación de muestras y formas de medida.
+Microscopía infrarroja. Aplicaciones.
+ Espectroscopía de infrarrojo cercano (NIR). Formas de
+medida. Aplicaciones.  Espectroscopía Raman: el efecto
+Raman. Instrumentación. Microscopía Raman.
+Aplicaciones.
+Caracterización de la
+materia orgánica:
+
+Introducción. Compuestos orgánicos en el medio
+ambiente. Determinación de Materia Orgánica.
+Biomarcadores. Normativa en la caracterización de
+materia orgánica.
+Técnicas
+microanalíticas en microscopía
+electrónica:
+Interacción de los
+electrones con la materia: señales
+producidas. Instrumentación básica. Fuentes de
+electrones. Detectores. Configuración de un microscopio
+electrónico de barrido (SEM). Preparación de
+muestras para SEM. Tipos de imágenes en SEM. Imagen de
+electrones secundarios. Imagen de electrones
+retrodispersados. Otras
+imágenes. Configuración de un microscopio
+electrónico de transmisión
+(TEM). Preparación de muestras para
+TEM. Difracción de electrones. Tipos de
+imágenes en TEM. Contrastes de amplitud y de fase. Campo
+claro y campo oscuro. STEM. Microscopía electrónica
+de alta resolución (HRTEM). Análisis
+químico in situ. Espectrometría de dispersión
+de energía de rayos-X (EDX). Detectores. Procesamiento
+de espectros. Espectrometría de dispersión de
+longitud de onda de rayos-X (WDX). Espectrómetros de
+longitud de onda. Análisis cuantitativo. Condiciones
+experimentales. Particularidades en el TEM. Aplicaciones de SEM y
+TEM.
+ 
+'

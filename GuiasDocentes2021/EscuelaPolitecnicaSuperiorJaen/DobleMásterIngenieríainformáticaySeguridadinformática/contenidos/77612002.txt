@@ -1,0 +1,36 @@
+'
+
+
+Auditoría de sistemas informáticos.
+Certificaciones.
+Delitos informáticos y análisis forense.
+Seguridad en sistemas de información.
+Leyes de protección de datos
+
+
+Tema 1: Sistemas de Gestión de la Seguridad de la
+Información
+
+Buenas prácticas, normas y certificaciones.
+Protección de sistemas críticos.
+Desarrollo de Software Seguro.
+
+Tema 2: Auditoría
+
+Sistemas de gestión de la información
+Auditoría informática: método,
+  preparación, realización y plan de
+  contingencias.
+
+Tema 3: Análisis forense y legislación
+
+Delitos informáticos y análisis forense.
+Leyes de protección de datos.
+
+ 
+Práctica 1: Sistemas para la gestión de la
+seguridad.
+Práctica 2: Sistemas para la auditoría
+informática.
+Práctica 3: Sistemas para análisis forense.
+'

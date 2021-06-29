@@ -1,0 +1,50 @@
+'
+
+Estructura profunda de la Tierra,
+Tectónica de Placas y su influencia en el relieve. Esfuerzo
+y deformación en materiales terrestres. Procesos
+litosféricos
+activos. Cinemática de las
+placas tectónicas, resolución de problemas
+geométricos y nuevos modelos de deformación en
+límites complejos de placas.
+Geomorfología
+Tectónica. Índices geomorfológicos, marcadores
+geomorfológicos y cálculo de velocidades de
+deformación de fallas y pliegues activos.
+Paleosismicidad. Otras
+deformaciones en grandes áreas: volcanes y deslizamientos.
+Salidas de campo.
+
+Tema 1. Introducción, Geodinámica Interna.
+Estructura profunda de la Tierra. Controversias actuales sobre los
+mecanismos dinámicos del interior de la Tierra.
+Tema 2. Tectónica de Placas y su influencia en el
+relieve. Interacciones entre el modelado externo y la
+Tectónica.
+Tema 3. Esfuerzo y deformación en materiales terrestres.
+Ley de Mohr-Coulomb y comportamientos reológicos de los
+materiales terrestres en diferentes condiciones de presión y
+temperatura.
+Tema 4. Procesos litosféricos activos. Cinemática
+de las placas tectónicas, resolución de problemas
+geométricos. Nuevos modelos de deformación en
+límites complejos de placas.
+Tema 5. Geomorfología Tectónica. Índices
+geomorfológicos. Índices clásicos y su
+evolución ante la creciente información
+geográfica digital
+Tema 6. Marcadores geomorfológicos. Identificación
+de marcadores en campo. Marcadores identificables en MDT
+Tema 7. Deformación del relieve mediante fallas y
+pliegues activos. El ciclo sísmico y su utilidad para la
+predicción sísmica.
+Tema 8. Métodos de datación de superficies y
+sedimentos recientes. Cálculo de velocidades de
+deformación.
+Tema 9. Paleosismicidad y Arqueosismología. Efectos
+directos e indirectos de terremotos, y su influencia en el
+relieve.
+Tema 10. Otras deformaciones en grandes áreas: volcanes y
+movimientos de ladera masivos.
+'

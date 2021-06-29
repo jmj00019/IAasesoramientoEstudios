@@ -1,0 +1,50 @@
+'
+
+- Mecánica.
+- Oscilaciones y Ondas.
+
+Tema 1: ÁLGEBRA VECTORIAL. Magnitudes físicas.
+Magnitudes escalares y vectores. Algebra vectorial. Concepto de
+dimensión. Tema 2. CINEMÁTICA DE LA PARTÍCULA.
+Introducción. Vector de posición y desplazamiento.
+Vector velocidad. Vector aceleración. Clasificación
+del movimiento. Composición de movimientos. Movimiento
+relativo. Tema 3. DINÁMICA DE LA PARTÍCULA. Objeto de
+la dinámica. Leyes de Newton. Cantidad de movimiento.
+Momento cinético. Fuerzas de rozamiento. Fuerzas de inercia.
+Tema 4.- TRABAJO Y ENERGÍA. Trabajo y potencia
+mecánica. Energía cinética. Fuerzas
+conservativas. Energía potencial. Conservación de la
+energía mecánica. Fuerzas no conservativas. Tema 5.-
+CAMPO GRAVITATORIO. Leyes de Kepler. Ley de gravitación
+universal. Campo gravitatorio. Energía potencial
+gravitatoria. Campo gravitatorio terrestre. Tema 6.-
+DINÁMICA DE LOS SISTEMAS DE PARTÍCULAS. Fuerzas
+interiores y exteriores de un sistema de partículas. Centro
+de masas. Cantidad de movimiento y momento cinético:
+teoremas de conservación. Sistema de referencia del centro
+de masas. Energía cinética de un sistema de
+partículas. Choques y sus clases. Tema 7.- DINÁMICA
+DE LA ROTACIÓN Cinemática del sólido
+rígido. Ecuación fundamental: momento de inercia.
+Cálculo de momentos de inercia. Momento cinético.
+Energía cinética de rotación. TEMA 8.-
+ESTÁTICA DE FLUIDOS Concepto de fluido. Presión y
+densidad. Ecuación fundamental de la estática de
+fluidos. Principio de Pascal. Principio de Arquímedes.
+Equilibrio de cuerpos sumergidos y flotantes. TEMA 9.-
+DINÁMICA DE FLUIDOS Líneas de corriente:
+ecuación de continuidad. Teorema de Bernouilli. Aplicaciones
+del Teorema de Bernouilli. Viscosidad. Pérdida de carga de
+una conducción. Régimen laminar: ley de Poiseuille.-
+Régimen turbulento: número de Reynolds. Movimiento
+relativo de sólidos en el seno de un fluido. Tema 10.-
+MOVIMIENTO OSCILATORIO. Fuerzas de recuperación
+elástica. Cinemática y dinámica del movimiento
+armónico simple. Energía de un oscilador
+armónico. Ejemplos de osciladores. Oscilaciones forzadas y
+resonancia. Tema 11.- MOVIMIENTO ONDULATORIO. Concepto de onda.
+Tipos de ondas. Ecuación de ondas. Ondas armónicas.
+Intensidad y absorción. Fenómenos de interferencias.
+Ondas estacionarias.
+'

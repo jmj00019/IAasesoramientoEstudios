@@ -1,0 +1,89 @@
+'
+
+Ámbito temporal de la actividad económica.
+Marco teórico del análisis de la coyuntura.
+Aspectos metodológicos para la realización del
+análisis de la coyuntura.
+Producción y demanda interna.
+Mercado laboral.
+Precios y salarios.
+Sector público.
+Sector exterior.
+Variables monetarias y financieras.
+
+PRIMERA PARTE: BLOQUE TEÓRICO
+TEMA 1: INTRODUCCIÓN.- LA EMPRESA Y SU ENTORNO
+1.1 Entorno general y específico.
+1.2 Factores económicos generales que influyen en la
+empresa.
+TEMA 2: EL ÁMBITO TEMPORAL DE LA ACTIVIDAD
+ECONÓMICA
+2.1 El entorno macroeconómico de la empresa y su
+ámbito temporal.
+2.2 El crecimiento económico como visión a
+largo plazo.
+2.3 Las fluctuaciones del corto plazo.
+2.4 Los ciclos económicos.
+TEMA 3: MARCO TEÓRICO DEL ANÁLISIS DE COYUNTURA
+3.1 Introducción.
+3.2 Aspectos teóricos del análisis de
+coyuntura.
+3.3 Análisis e interpretación de los
+principales cuadros macroeconómicos.
+SEGUNDA PARTE: BLOQUE PRÁCTICO
+TEMA 4: ASPECTOS METODOLÓGICOS PARA LA REALIZACIÓN
+DEL ANÁLISIS DE COYUNTURA
+4.1 Fuentes de información estadística para la
+realización del análisis de la coyuntura
+económica española.
+4.2 Estructura de los informes de coyuntura.
+4.3 Indicadores económicos.
+4.4 Análisis de las series.
+4.5 Previsión económica.
+TEMA 5: PRODUCCIÓN Y DEMANDA INTERNA
+5.1 Introducción.
+5.2 Indicadores de oferta.
+5.2.1 Agricultura y pesca.
+5.2.2 Industria.
+5.2.3 Construcción.
+5.2.4 Servicios.
+5.3 Indicadores de demanda interna.
+5.3.1 Consumo privado (Consumo individual).
+5.3.2 Inversión (Formación Bruta de Capital).
+5.3.3 Gasto público (Consumo Colectivo).
+TEMA 6: MERCADO LABORAL
+6.1 Conceptos básicos: Población en edad de
+trabajar, población activa, tasa de actividad, tasa de
+empleo y
+tasa de paro.
+6.2 Indicadores de empleo y paro.
+6.2.1 Encuesta de Población Activa.
+6.2.2 Paro registrado en el Servicio Público de Empleo
+Estatal (SEPE).
+6.2.3 Afiliación a la Seguridad Social.
+TEMA 7: PRECIOS Y SALARIOS
+7.1 Indicadores de precios. Inflación.
+7.1.1 Índice de precios de consumo (IPC-IPCA).
+7.2.2 Deflactor del PIB.
+7.2.3 Indicadores a corto plazo de inflación e
+indicadores sobre expectativas de inflación.
+7.2 Indicadores de salarios.
+7.2.1 Ganancia media por asalariado.
+7.2.2 Salarios pactados en convenio.
+TEMA 8: SECTOR PÚBLICO
+8.1 Organización y estructura del Sector
+Público.
+8.2 Indicadores del Sector público.
+8.2.1 Gastos e ingresos públicos.
+8.2.2 Déficit público.
+8.2.3 Deuda pública.
+TEMA 9: SECTOR EXTERIOR
+9.1 Balanza de Pagos.
+9.2 Tipos de cambio.
+9.3 Indicadores del Sector exterior: Tasa de cobertura,
+Relación Real de Intercambio.
+TEMA 10: VARIABLES MONETARIAS Y FINANCIERAS
+10.1 Agregados monetarios.
+10.2 Tipos de interés.
+10.3 Indicadores bursátiles.
+'

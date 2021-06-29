@@ -1,0 +1,100 @@
+'
+
+Tipologías de Complejos Industriales y sus instalaciones.
+Análisis sectorial. Decisiones sobre combinaciones
+producto/proceso. Decisiones sobre optimización de
+localización de Complejos Industriales. Decisiones sobre
+optimización de distribución en planta de Complejos
+Industriales. Decisiones sobre capacidad de producción en
+los Complejos Industriales.
+ 
+
+Capítulo I.- APROXIMACIÓN A LOS COMPLEJOS
+INDUSTRIALES
+
+Introducción.- Características de los complejos
+industriales.- Evolución de los complejos industriales.
+
+Capítulo II.- EL EDIFICIO INDUSTRIAL Y SUS
+INSTALACIONES
+
+Introducción Y características básicas.-
+El sistema estructural.- Los cerramientos en los edificios
+industriales.- Otros elementos del edificio industrial.-
+Instalaciones de agua fría.- Instalación de agua
+caliente sanitaria.- Instalaciones de evacuación y
+saneamiento.- Instalaciones de aire comprimido.- Instalaciones de
+vapor.- Instalación eléctrica.- Ventilación.-
+Climatización. - Casos prácticos del capítulo
+2.
+
+Capítulo III.- ESTRATEGIA DE PRODUCCIÓN EN LA
+INDUSTRIA
+
+Introducción a la Estrategia Empresarial.-
+Diagnóstico de la situación actual.- La Estrategia de
+Producción.- Objetivos del Sistema Productivo.- Decisiones
+estratégicas de Producción.- Casos prácticos
+del capítulo 3.
+
+Capítulo IV.- SELECCIÓN Y DISEÑO DEL
+PRODUCTO
+
+Selección del producto: opciones de producto,
+identificación de nuevas oportunidades de productos, ciclo
+de vida del producto, ciclo de vida y estrategia.- Desarrollo del
+producto: etapas en el desarrollo, análisis de valor,
+competencia basada en el tiempo, producto por valor.-
+Definición y documentación del producto:
+tecnología de grupos, diseño asistido por computador
+(CAD).- Aplicación de árboles de decisión en
+el diseño de productos.- Casos prácticos del
+capítulo 4.
+
+Capítulo V.- SELECCIÓN DEL PROCESO Y LA
+TECNOLOGÍA
+
+Tipos de procesos o configuraciones productivas.-
+Configuración productiva por proyecto.- Configuración
+productiva por lotes: job-shop, línea.- Configuración
+continua.- Estrategias de proceso: matriz producto-proceso, ventaja
+competitiva, prioridades competitivas.- El diseño del
+proceso.- Factores condicionantes del diseño del proceso.-
+Casos prácticos del capítulo 5.
+
+ Capítulo VI.- DECISIÓN ESTRATÉGICA
+DE LA CAPACIDAD
+
+Problemática de la capacidad.- Planificación de
+las necesidades de capacidad: determinación de las
+necesidades de capacidad, alternativas de adecuación de la
+capacidad disponible a la necesaria, evaluación de
+alternativas.- Técnicas de evaluación de
+alternativas: Criterio del valor capital VC, Gráficas de
+punto muerto, árboles de decisión, técnicas
+multicriterio.- Casos prácticos del capítulo 6.
+
+Capítulo VII.- LA LOCALIZACIÓN
+
+Objetivo de la estrategia de localización.- Factores
+clave en la decisión de localización: productividad
+de la mano de obra, tipos de cambio, costes, actitudes.-
+Métodos de evaluación de alternativas de
+localización.- Análisis del punto muerto de
+localización.- Método del centro de gravedad.-
+Método de los factores ponderados.- El método Electra
+I.- Método del  transporte.- Casos prácticos del
+capítulo 7.
+
+Capítulo VIII.- DISTRIBUCIÓN EN PLANTA
+
+Objetivos de la distribución en planta.- Tipos de
+distribución en planta.- Distribución en planta por
+posición fija.- Distribución en planta por proceso.-
+Distribuciones híbridas o células de trabajo.-
+Distribución en planta por producto.- Equilibrado de
+líneas de montaje: descripción del modelo,
+representación gráfica, programación
+dinámica, métodos heurísticos.- Casos
+prácticos del capítulo 8.
+'

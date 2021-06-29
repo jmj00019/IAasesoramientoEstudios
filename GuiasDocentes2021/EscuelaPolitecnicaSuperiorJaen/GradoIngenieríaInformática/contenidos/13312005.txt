@@ -1,0 +1,32 @@
+'
+
+Principios y metodologías del desarrollo ágil
+(programación extrema, prototipado rápido,
+diseño basado en componentes). Desarrollo centrado en el
+usuario. Modelos de procesos de desarrollo
+ 
+
+
+CONTENIDOS DESARROLLADOS
+
+
+   
+TEORIA:
+
+Introducción
+Scrum y GASPs
+eXtreme Programming
+Lean y Kanban
+TDD
+
+
+     
+PRÁCTICAS:
+
+Herramientas colaborativas para gestión de proyectos
+  ágiles.
+Historias de Usuario y prototipado rápido.
+Desarrollo de proyecto individual.
+Desarrollo de proyecto grupal.
+
+'

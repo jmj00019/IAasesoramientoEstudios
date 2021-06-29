@@ -1,0 +1,56 @@
+'
+
+Aspectos básicos y metodología de los proyectos.
+Morfología de proyectos y otros documentos
+técnicos.
+Evaluación, planificación, programación
+y control de proyectos.
+Dirección, contratación y ejecución de
+proyectos.
+
+I .ENTORNO PROFESIONAL
+II. PROYECTO Y TRAMITACIÓN
+III. PLANIFICACIÓN IV.DIRECCIÓN,
+CONTRATACIÓN Y EJECUCIÓN
+I. ENTORNO PROFESIONAL
+Tema 1. Ingeniero y Sociedad
+Tema 2. Oficina Técnica
+Tema 3. Informes y Trabajos Técnicos
+II. PROYECTO Y TRAMITACIÓN
+Tema 4. Introducción al Proyecto
+Tema 5. Fases en el Desarrollo de un Proyecto
+Tema 6. Proyecto. Documento Memoria
+Tema 7. Documento Planos
+Tema 8. Documento Pliego de Condiciones y Presupuesto
+Tema 9. Tramitación de Proyectos. Colegios
+Profesionales
+Tema 10. Legislación Normativa Industrial
+III. PLANIFICACIÓN
+Tema 11. Planificación de Proyectos I. Planning
+Tema 12. Planificación de ProyectosII. Pert
+IV. DIRECCIÓN, CONTRATACIÓN Y EJECUCIÓN
+Tema 13.Contratación y Supervisión de la
+Construcción y Montaje de Obras e Instalaciones
+Tema 14. Puesta en Servicio Y Recepción de Obras e
+Instalaciones.
+ 
+CONTENIDOS DE PRÁCTICAS
+El Programa Práctico se desarrollará aplicando
+la metodología de aprendizaje basado en proyectos, de
+manera que se desarrollen en grupos de trabajo la
+redacción de un proyecto de Ingeniería, así
+como se
+ponen en práctica contenidos relacionados con la
+Evaluación, Planificación, Programación y
+Control de
+Proyectos (Bloque 4).
+Adicionalmente se realizarán dos seminarios
+específicos para el aprendizaje de dos herramientas usadas
+en
+la elaboración, gestión y planificación
+de Proyectos:
+* Seminario 1: Software para la Planificación y
+Evaluación de Proyectos (Ej. Project)
+* Seminario 2: Software para la confección de
+Presupuestos (Ej. Presto)
+'

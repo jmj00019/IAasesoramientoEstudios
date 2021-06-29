@@ -1,0 +1,64 @@
+'
+
+Modelos físicos. Interacciones tierra-atmósfera.
+Procesos hidrológicos: precipitación,
+infiltración, escorrentía superficial. Modelos
+Hidrológicos. Hidráulica
+de medios porosos. Hidrología subterránea:
+acuíferos, sondeos, interacción
+río-acuífero, recarga. 
+
+Tema 
+1. El ciclo del agua. El agua en la Naturaleza:
+ámbitos de aparición e importancia relativa. El ciclo
+hidrológico: concepto, principales componentes,
+expresión cuantitativa simplificada. Factores que
+condicionan el ciclo.
+
+Tema 2. Características hidrogeológicas de
+los materiales. Porosidad: concepto, tipos y factores
+condicionantes. Porosidad efectiva y retención
+específica. Determinación de la porosidad. Valores
+característicos en materiales geológicos. Concepto
+cualitativo de permeabilidad. Perfil del agua en el suelo.
+
+Tema 3. Comportamiento hidrogeológico de los
+materiales. Acuíferos: concepto. Zonas de un
+acuífero. Acuíferos libres y confinados: superficie
+piezométrica. Tipos de acuíferos. Relaciones entre
+los acuíferos y las superficies de agua libre. Fluctuaciones
+del nivel piezométrico. Manantiales.
+
+Tema 4. Parámetros hidrogeológicos
+fundamentales: Ley de Darcy. Experiencia y Ley de Darcy:
+gradiente hidráulico y permeabilidad o conductividad
+hidráulica. Dominio de validez de la Ley de Darcy. Velocidad
+de Darcy y velocidad efectiva. Métodos de medida de la
+permeabilidad en laboratorio. Permeabilidad en secuencias
+heterogéneas.
+
+Tema 5. Principios del flujo subterráneo.
+Líneas de corriente y líneas equipotenciales: red de
+flujo. Sistemas de flujo. Ecuación diferencial general del
+flujo. Modelización hidrogeológica.
+
+Tema 6. Precipitación. Precipitaciones:
+medida y tratamiento de datos. Isoyetas. Precipitación media
+sobre una cuenca. Curvas IDF.
+
+Tema 7. Pérdidas de precipitación.
+Evaporación y evapotranspiración.
+Infiltración. Conceptos y métodos de cálculo.
+Balances hídricos.
+
+Tema 8. Escorrentía y aforos en cursos de
+agua. Cuenca. Aforos directos y estaciones de aforo.
+Transformación lluvia-caudal: método racional,
+Hidrograma Unitario. Inundabilidad. Estudio de máximas
+avenidas. Prevención de inundaciones: los mapas de
+riesgos.
+
+Tema 9. Hidrogeoquímica. Calidad de los
+recursos hídricos. Procesos de transporte de solutos.
+Contaminación de los recursos hídricos.
+'

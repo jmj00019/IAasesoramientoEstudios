@@ -1,0 +1,248 @@
+'
+
+
+Procesos estocásticos.
+Modelos estacionarios y no estacionarios.
+Predicción.
+Fases de ajuste del modelo. 
+
+
+
+1.
+
+    
+CONCEPTOS
+FUNDAMENTALES.
+
+
+Procesos 
+    Estocásticos.
+
+
+Las
+    funciones de autocovarianza y autocorrelación.
+
+
+La
+    función de autocorrelación parcial.
+
+
+Procesos
+    de ruido blanco.
+
+
+Estimación
+    de la media, autocovarianzas y autocorrelaciones.
+
+
+Representaciones
+    autorregresivas y de medias móviles de procesos de
+    series temporales.
+
+
+Ecuaciones
+    en diferencias lineales.
+
+
+ 
+
+2.
+
+    
+MODELOS
+DE SERIES TEMPORALES ESTACIONARIOS.
+
+
+Modelos
+    autorregresivos.
+
+
+Modelos
+    de medias móviles.
+
+
+Relación
+    dual entre los modelos autorregresivos y de medias
+    móviles.
+
+
+Modelos
+    autorregresivos de medias móviles.
+
+
+ 
+
+3.
+
+    
+MODELOS
+DE SERIES TEMPORALES NO ESTACIONARIOS.   
+
+
+No
+    estacionariedad en la media.
+
+
+Modelos
+    autorregresivos de medias móviles integrados.
+
+
+
+ 
+No
+  estacionariedad en la varianza y en la
+  autocovarianza.
+
+ 
+
+4.
+
+    
+PREDICCIÓN.   
+
+
+
+ 
+Predicción
+  de minimo error en media cuadrática.
+
+
+ 
+Cálculo
+  de las predicciones.
+
+Actualización
+  de las predicciones.
+ 
+
+ 
+
+5.
+
+    
+IDENTIFICACIÓN. 
+
+
+
+ 
+Identificación
+  de modelos.
+
+Representaciones
+    gráficas y transformaciones.
+
+
+ 
+
+6.
+
+    
+ESTIMACIÓN.
+
+
+
+ 
+Método
+  de los momentos.
+
+
+ 
+Método
+  de máxima verosimilitud.
+
+
+ 
+Método
+  de mínimos cuadrados.
+
+
+  
+Optimización
+  numérica.
+
+ 
+
+7.
+
+    
+DIAGNOSIS
+Y VALIDACIÓN.
+
+
+
+  
+Análisis
+  de estacionariedad.
+
+
+ 
+Análisis
+  residual.
+
+ Subespecificación
+    del modelo.
+
+
+
+ 
+Sobreespecificación
+  del modelo.
+
+ Criterios
+    para seleccionar modelos.
+
+
+
+ 
+Validación.
+
+ 
+
+8.
+
+    
+MODELOS
+DE SERIES TEMPORALES ESTACIONALES.
+
+
+ Métodos
+    tradicionales.
+
+
+
+ 
+Modelos
+  autorregresivos de medias móviles integrados
+  estacionales.
+
+
+ 
+Identificación,
+  estimación,  predicción y diagnosis de modelos
+  estacionales.
+
+ 
+
+9.
+  
+      
+  
+  OTROS
+  TEMAS DE INTERÉS
+
+.
+
+
+
+
+ Análisis
+    espectral.
+
+
+
+ 
+Modelos
+  de transferencia.
+
+ 
+'

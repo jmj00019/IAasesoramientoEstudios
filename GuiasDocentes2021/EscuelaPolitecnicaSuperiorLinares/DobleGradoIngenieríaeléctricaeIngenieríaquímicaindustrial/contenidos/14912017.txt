@@ -1,0 +1,141 @@
+'
+
+BLOQUE I: Introducción a la Ingeniería de las
+Reacciones Químicas
+BLOQUE II: Sistemas Químicos Homogéneos
+BLOQUE III: Reactores Químicos Homogéneos
+BLOQUE IV: Flujo no ideal en Reactores
+BLOQUE V: Sistemas Químicos Heterogéneos
+BLOQUE VI: Reactores Químicos Heterogéneos
+
+
+BLOQUE I. Introducción a la Ingeniería de
+  las Reacciones Químicas
+
+TEMA 1. ELEMENTOS DE CINÉTICA QUÍMICA APLICADA
+1. Ingeniería de la Reacción Química,
+¿qué es? 2. La reacción química.
+Conversión y extensión de la reacción 3.
+Clasificación de las reacciones químicas 4.
+Definición de velocidad de reacción 5. Aspectos
+termodinámicos: El equilibrio químico y la
+conversión de equilibrio
+
+BLOQUE II. Sistemas Químicos
+Homogéneos.
+TEMA 2. CINÉTICA DE LAS REACCIONES HOMOGÉNEAS
+1. La ecuación cinética. 2. Término
+dependiente de la concentración en la ecuación
+cinética: Reacciones elementales y no elementales.
+Molecularidad y orden de reacción. Representación de
+una reacción elemental. Representación de una
+reacción no elemental. Modelos cinéticos para
+reacciones no elementales. Búsqueda de mecanismo de
+reacción. 3. Término dependiente de la temperatura en
+la ecuación cinética: Dependencia de la temperatura
+según la ley de Arrhenius. Energía de
+activación y dependencia de la temperatura
+TEMA 3. INTERPRETACIÓN DE LOS DATOS OBTENIDOS CON UN
+REACTOR INTERMITENTE
+1. Introducción. 2. Reactor intermitente de volumen
+constante: Análisis de los datos de presión total
+obtenidos en un sistema a volumen constante. La conversión.
+Método integral de análisis de datos: Reacciones
+monomoleculares irreversibles de primer orden. Reacciones
+bimoleculares irreversibles de segundo orden. Reacciones
+trimoleculares irreversibles de tercer orden. Ecuaciones
+cinéticas empíricas de orden n. Reacciones de orden
+cero. Orden global de reacciones irreversibles a partir del tiempo
+de vida medio t 
+1/2. Método de la fracción de vida t 
+F. Reacciones reversibles de primer orden. Reacciones
+reversibles de segundo orden. Reacciones en las que cambia el
+orden. Método diferencial de análisis de datos. 3.
+Reactor intermitente de volumen variable.
+
+BLOQUE III. Reactores Químicos
+  Homogéneos
+
+ TEMA 4. REACTORES HOMOGÉNEOS IDEALES
+1. Análisis de los reactores químicos
+homogéneos. 2. Ecuación general del balance de moles.
+3. Reactores ideales isotermos: Reactor discontinuo mezcla
+perfecta. Reactor continuo mezcla perfecta. Reactor continuo flujo
+pistón. 4. Comparación de los reactores ideales
+continuos: Reactores continuos mezcla perfecta en serie. Reactores
+continuos de flujo pistón en serie y en paralelo. Reactores
+continuos de tipos diferentes en serie. Reactor de flujo
+pistón con recirculación.
+TEMA 5. INTERCAMBIO DE CALOR EN REACTORES HOMOGÉNEOS
+IDEALES
+1. Introducción. 2. Balance de energía en un
+reactor discontinuo: Balance de energía en un reactor
+discontinuo isotermo. Balance de energía en un reactor
+discontinuo adiabático. 3. Balance de energía en un
+reactor mezcla perfecta: Balance de energía en un reactor
+mezcal perfecta adiabático. 4. Balance de energía en
+un reactor flujo pistón:Balance de energía en un
+reactor flujo pistón isotérmico. Balance de
+energía en un reactor flujo pistón adiabático.
+5. Transmisión de calor en reactores homogéneos
+TEMA 6. DISEÑO DE REACTORES HOMOGÉNEOS PARA
+REACCIONES COMPLEJAS
+1. Distribución de productos. Selectividad. 2.
+Diseño de reactores para reacciones múltiples:
+Reacciones en paralelo. Reacciones en serie. Reacciones en
+serie-paralelo.
+
+BLOQUE IV. Flujo no ideal en reactores
+
+TEMA 7. FLUJO REAL EN SISTEMAS HOMOGÉNEOS
+1. Función de distribución de tiempos de
+residencia. 2. Medición de la DTR: Entrada en pulso.
+Función E(t). Entrada en escalón. Función
+F(t). Relación entre las funciones E(t) y F(t).
+Distribución interna de tiempos de residencia I(t). 3.
+Distribución de tiempos de residencia en reactores ideales.
+4. Modelos para flujo real: Modelos sin parámetros
+ajustables: Segregación completa. Mezcla máxima.
+Modelos con un parámetro ajustable: Tanques en serie.
+Dispersión. Modelos con varios parámetros ajustables:
+Dos RMP interconectados. RMP con volumen muerto y cortocircuito.
+Combinación de flujos ideales.
+
+BLOQUE V. Sistemas Químicos
+  Heterogéneos
+
+TEMA 8. REACCIONES EN FASE FLUIDA CATALIZADA POR
+SÓLIDOS
+1. Naturaleza de la catálisis heterogénea. 2.
+Adsorción sobre superficies sólidas. 3. Propiedades
+de los catalizadores sólidos. 4. Mecanismos de las
+reacciones en fase fluida catalizada por sólidos. 5. Etapas
+superficiales. 6. Ecuaciones cinéticas para las etapas
+superficiales. 7. Desactivación de catalizadores. 8.
+Mecanismos de la desactivación de catalizadores.
+
+BLOQUE VI. Reactores Químicos
+  Heterogéneos
+
+TEMA 9. REACTORES DE LECHO FIJO
+1. Factores involucrados en el diseño de un reactor de
+lecho fijo. 2. Modelo de reactores de lecho fijo utilizados. 3.
+Diseño del reactor de lecho fijo.
+TEMA 10. REACTORES DE LECHO FLUIDIZADO
+1. Factores involucrados en el diseño de un reactor de
+lecho fluidizado. 2. Diseño de reactores de lecho
+fluidizado.
+
+PRÁCTICAS DE LABORATORIO
+
+
+Influencia de la temperatura sobre la constante de
+  velocidad.
+Estudio cinético de la decoloración de la
+  fenoftaleína en medio básico.
+Determinación del orden y la velocidad de la
+  reacción de oxidación del etanol por Cr (VI).
+Estudio cinético en un reactor discontinuo tanque
+  agitado.
+
+'

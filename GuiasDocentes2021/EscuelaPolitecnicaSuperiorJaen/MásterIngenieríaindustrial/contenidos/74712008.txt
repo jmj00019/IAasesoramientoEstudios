@@ -1,0 +1,159 @@
+'
+
+Descripción de las principales soluciones actuales de
+automatización de procesos.
+Diseño e integración de máquinas
+automáticas.
+Diseño e implantación de sistemas distribuidos
+de control.
+Diseño de proyectos de automatización y control
+de procesos.
+
+Teoría
+Bloques Temáticos
+1. 
+      
+Introducción a la Robótica industrial.
+Configuraciones básicas y programación.
+2. 
+     
+Interfaz Gráfico con el usuario (GUI) y Sistemas SCADA.
+3. 
+     
+Autómatas programables. Programación en lenguaje
+estructurado.
+4. 
+   
+  Accionamientos eléctricos. Control de motores
+eléctricos
+ 
+ 
+1. 
+      
+Introducción a la Robótica industrial.
+Configuraciones básicas y programación.
+
+Principales
+  configuraciones de los robots industriales.
+
+
+Programación
+  de un robot industrial FANUC. Ejemplos prácticos.
+
+
+Sincronización
+  entre robots. Robots cooperantes.
+
+2.      Interfaz Gráfico con el
+usuario y Sistemas SCADA
+Dispositivos tradicionales de interfaz con el usuario.
+Visualizadores y Paneles táctiles.
+Definición de un Sistema SCADA.
+3. 
+     
+Autómatas programables. Programación en lenguaje
+estructurado.
+
+Recordatorio de
+  automatismos programados.
+
+
+Tipos de lenguajes
+  para autómatas programables
+
+
+Características
+  del PLC S7-1200 de Siemens.
+
+
+Programación
+  de Autómatas Programables con Grafcet.
+
+Componentes de un Grafcet según la norma
+61131-3 
+
+Traducción
+  a lenguaje estructurado de las estructuras básicas de
+  Grafcet.
+
+
+Recursos
+  compartidos.
+
+
+Marchas
+  y paradas de emergencia
+
+4.  
+   
+  Accionamientos eléctricos. Control de
+motores eléctricos
+Motores de corriente alterna
+Motores de corriente continua
+Estabilidad. Curvas Par-Velocidad.
+Control de motores 
+Prácticas
+
+Las prácticas
+  se realizarán semanalmente, en grupos de dos personas, y
+  serán de dos horas de duración.
+
+
+Previo a la
+  práctica se proporcionará un guión con un
+  ejercicio que el alumno debe plantear. A lo largo de las dos
+  horas de prácticas, se completará y probará
+  el ejercicio, comprobando su funcionamiento.
+
+
+Están
+  previstas las siguientes prácticas.
+
+
+
+Manejo de un robot
+    industrial Fanuc. Diseño de un programa de
+    manipulación sencillo
+
+
+Manejo de un robot
+    industrial Fanuc. Diseño de programa de
+    manipulación II.
+
+
+Software de
+    programación de robot Roboguide I. Diseño de
+    célula y programa sencillo de manipulación
+
+
+Software de
+    programación de robots Roboguide II.
+    Sincronización entre robots
+
+
+Programación con
+    autómatas programables I. Configuración de red
+    Profinet.
+
+
+Programación con
+    autómatas programables II. Ejercicio de
+    automatización en lenguaje estructurado con contadores.
+    Paneles neumáticos
+
+
+Programación con
+    autómatas programables III. Funciones en lenguaje
+    estructurado y paneles neumáticos.
+
+
+Programación con
+    autómatas programables IV. Ejercicio de
+    automatización en lenguaje estructurado con
+    gestión de paradas y marchas.
+
+Diseño de un sistema SCADA I
+Control de motores de corriente continua y motores paso a
+  paso
+
+'

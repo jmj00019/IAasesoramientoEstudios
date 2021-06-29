@@ -1,0 +1,35 @@
+'
+
+Estructura, usos y funcionalidades de las redes
+informáticas. Arquitectura de servidores.
+Configuración de servidores de aplicaciones en red.
+Administración
+de servidores y equipos en red. Programación distribuida.
+Programación en internet. Programación Web.
+Diseño de aplicaciones y software para Internet.
+ 
+
+TEORIA
+Tema 1. Introducción
+Tema 2. Aplicaciones y su programación
+Tema 3. Internet. Administración de Sistemas y
+Servicios
+Tema 4. Seguridad en Redes
+Tema 5. Hardware de Redes
+PRACTICAS
+Práctica 0. Configuración de herramientas
+Práctica 1. Introducción a la
+administración de un servidor Linux
+Práctica 2. Diseño Web con HTML
+Práctica 3. Diseño Web con JavaScript
+Práctica 4. Diseño Web con CSS
+Práctica 5. Programación con Sockets
+Práctica 6. Configuración de red TCP/IP
+Práctica 7. Monitorización
+Práctica 8. Configuración de un servidor
+NFS
+Práctica 9. Configuración de un servidor
+Apache
+Práctica 10. Configuración de un servidor DHCP
+Práctica 11. Configuración de un servidor SSH
+'

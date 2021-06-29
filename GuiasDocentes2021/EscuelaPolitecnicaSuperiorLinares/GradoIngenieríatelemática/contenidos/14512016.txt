@@ -1,0 +1,149 @@
+'
+
+La asignatura Servicios y Aplicaciones Telemáticas
+proporciona al alumno conocimiento en distintos servicios de voz,
+datos, audio, video y servicios interactivos. Así mismo se
+estudian conceptos relacionados con el desarrollo de aplicaciones
+telemáticas para proporcionar dichos servicios. Uno de los
+objetivos principales de la asignatura es capacitar al alumno para
+que aprenda de manera autónoma nuevos conocimientos y
+técnicas adecuadas para la concepción, desarrollo y
+explotación de aplicaciones y servicios de
+telecomunicación.
+En la parte práctica de la asignatura se estudian
+distintos aspectos relativos a las aplicaciones telemáticas
+orientadas a dar soporte a los servicios estudiados.
+Palabras clave: servicios de voz, datos e interactivos.
+
+Bloque teórico
+
+
+Tema
+  1. Introducción a los servicios de
+  telecomunicación
+
+
+Introducción a los servicios de
+  telecomunicación
+Definición de un servicio de
+  telecomunicación
+Historia de los servicios de telecomunicación
+Servicios ofrecidos en Internet
+El servicio web y el protocolo HTTP.
+
+
+
+Tema
+  2. Servicios basados en aplicaciones cliente
+
+
+Aplicaciones web.
+Lenguajes de marcas: XML, HTML5.
+Formatos para el intercambio de datos: JSON.
+Interfaces de usuario interactivas: JavaScript.
+Comunicaciones con JavaScript.
+Integración de servicios multimedia en aplicaciones
+  web.
+Rendimiento en comunicaciones web.
+
+
+
+Tema
+  3. Servicios basados en aplicaciones de servidor.
+
+
+Servidores de aplicaciones.
+Despliegue de servidores.
+Arquitectura MVC.
+Arquitectura MVVM.
+Desarrollo de servicios basados en aplicaciones de
+  servidor.
+
+
+
+Tema
+  4. Tecnologías avanzadas para aplicaciones
+  cliente.
+
+
+Introducción a React Js.
+Componentes y JSX.
+Flujo de la aplicación.
+Gestión de los estados.
+
+Bloque práctico
+El bloque práctico de la asignatura se compone de
+prácticas en el laboratorio, y su carácter es
+obligatorio.
+El objetivo de las prácticas propuestas es la
+consecución de las competencias establecidas, así
+como las habilidades necesarias para el diseño,
+implementación y prueba aplicaciones telemáticas,
+clientes y servidores en Internet.
+Además, se desarrollarán habilidades de
+comunicación información, ideas, problemas y
+soluciones en el ámbito de ingeniería y la sociedad
+en general a través de procesos de entrega de
+documentación o presentaciones orales.
+Con respecto a la organización del trabajo, se
+fomentará la colaboración y trabajo en equipo a
+través del propio diseño de las prácticas.
+Práctica 1. Generación de contenidos para el
+usuario
+En esta práctica se abordará el diseño y
+generación de contenidos para el usuario en el servicio web
+con HTML5 y CSS.
+
+
+Temporización
+
+
+Sesiones en el laboratorio: 4 dos horas (8 horas).
+Tiempo de trabajo autónomo: 12 horas.
+
+Práctica 2. Aplicaciones web en el cliente
+En esta práctica se introducirá en el desarrollo
+de aplicaciones cliente interactivas con JavaScript.
+
+
+Temporización
+
+
+Sesiones en el laboratorio: 4 (8 horas).
+Tiempo de trabajo autónomo: 12 horas.
+
+Práctica 3. Aplicaciones web en el servidor
+El objeto de esta práctica es desarrollar una
+aplicación cliente que interactúe con la
+aplicación desarrollada en la práctica 2, incluyendo
+el almacenamiento en bases de datos noSQL.
+
+
+Temporización
+
+
+Sesiones en el laboratorio: 4 (6 horas).
+Tiempo de trabajo autónomo: 15 horas.
+
+Práctica 4. Aplicaciones con React JS
+El objeto de esta práctica es introducir al alumno en el
+desarrollo de aplicaciones web cliente profesionales con un
+framework comercial como es React Js.
+
+
+Temporización
+
+
+Sesiones en el laboratorio: 3 (6 horas).
+Tiempo de trabajo autónomo: 9 horas.
+
+Seminarios
+
+Seminario. Generación de contenido en HTML5 (2
+  h).
+Seminario. Diseño de páginas web con CSS (2
+  h).
+Seminario. Github - Plataforma de colaboración para el
+  desarrollo de proyectos (1 h).
+
+'

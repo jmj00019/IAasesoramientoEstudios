@@ -1,0 +1,49 @@
+'
+
+Extracción de conocimiento en bases de datos. Almacenes
+de datos. Preparación de datos. Minería de datos
+predictiva. Minería de datos descriptiva. Evaluación,
+difusión y uso de modelos. Herramientas de análisis
+de datos.
+ 
+
+Teoría
+I. Introducción a la Minería de Datos
+1. El proceso de extracción de
+conocimiento en grandes bases de datos. Minería de datos.
+Aplicaciones.
+II. Preparación de datos
+2. Recopilación y
+preparación de los datos.
+3. Reducción de la
+dimensionalidad.
+4. Discretización.
+III. Minería de datos predictiva
+5. El problema de
+clasificación.
+6. Clasificación con
+árboles y reglas.
+7. Clasificación con otras
+técnicas.
+8. Predicción numérica
+o regresión.
+IV. Minería de datos descriptiva
+9. Descubrimiento de asociaciones
+10. Agrupamiento
+VI. Evaluación, difusión y uso de modelos.
+Herramientas de análisis de datos.
+11. Evaluación,
+difusión y uso de modelos. Herramientas de análisis
+de datos.
+VII. Nuevas tendencias en Minería de datos.
+12. Bussiness Intelligence. Big
+data
+ 
+Prácticas
+Práctica 1. Preparación
+de datos
+Práctica 2. Minería de
+datos predictiva
+Práctica 3. Minería de
+datos descriptiva
+'

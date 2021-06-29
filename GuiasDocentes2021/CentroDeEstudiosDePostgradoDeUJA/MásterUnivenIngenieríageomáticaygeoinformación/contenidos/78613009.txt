@@ -1,0 +1,104 @@
+'
+
+1. Modelos en las ciencias experimentales y en la
+Geomática.
+2. El tratamiento de datos espaciales. Modelos
+Geoestadísticos.
+3. Ejemplos de proyectos de modelización de recursos
+naturales. Datos a considerar y tratamiento de datos.
+4. Conceptos de riesgo y catástrofe. Evaluación
+del riesgo.
+5. Sistemas de alarma temprana y respuesta. Protección
+civil. Sistemas inteligentes para la gestión de crisis.
+Planes de evacuación y gestión en tiempo real.
+6. Plataformas geoespaciales para la gestión de
+crisis. Ejemplos
+
+
+
+Teoría
+
+
+Tema 1. Modelos en las ciencias experimentales y en la
+  Geomática.
+
+Introducción. Espacio geográfico y su
+conocimiento. Análisis geográfico.
+Características y métodos. Concepto de territorio. El
+territorio como sistema. Estructura del sistema territorial.
+Geomática como instrumento de análisis territorial.
+Fuentes de información espacial. Procesamiento de la
+información espacial. Expresión de la
+información espacial. Aplicación de la
+información espacial.
+
+Tema 2. El tratamiento de datos espaciales. Modelos
+  Geoestadísticos.
+
+La Geomática como elemento básico en la
+Modelización de Recursos Naturales. La captura de datos en
+los proyectos de modelización de recursos naturales.
+Modelización geoestadística de recursos naturales.
+Monitorización ambiental. Teoría de Variables
+Regionalizadas. Análisis de continuidad espacial. Inferencia
+espacial. Simulación estocástica.
+
+Tema 3. Ejemplos de proyectos de modelización de
+  recursos naturales.
+
+Ejemplos. Datos a considerar y tratamiento de datos.
+Aplicaciones en fotogrametría, topografía y LiDAR.
+Gestión de riesgos. Modelización y gestión de
+recursos naturales.
+
+Tema 4. Conceptos de riesgo y catástrofe.
+  Evaluación del riesgo.
+
+Conceptos y terminología. Riesgo y catástrofe.
+Predicción y prevención. Clasificación de los
+riesgos. Impacto de los riesgos. Procesos de riesgo. Riesgos
+ligados a la dinámica interna: sísmico y
+volcánico. Riesgos asociados a la dinámica externa:
+deslizamientos, erosión, inundaciones. Evaluación del
+riesgo. Cartografía de riesgos.
+
+Tema 5. Gestión de riesgos y
+  catástrofes.
+
+Gestión del riesgo. Ciclo del riesgo. Preparación
+ante los procesos. Sistemas de alerta temprana. Respuesta a la
+crisis. Protección civil. Sistemas inteligentes para la
+gestión de crisis. Planes de evacuación y
+gestión en tiempo real. Medidas para la
+recuperación.
+
+Tema 6. Plataformas geoespaciales para la gestión
+  de crisis.
+
+Datos y modelos en la gestión de crisis. Captura de datos
+para la gestión de crisis. Sensores. Tipos de datos. Modelos
+de datos operacionales. Modelos para la navegación y
+evacuación. Sistemas espaciales de apoyo a la
+decisión. Map mashups, servicios de testimonio y demanda de
+respuesta.
+
+
+Prácticas:
+
+
+Practica 1. Aplicación de métodos
+geoestadísticos.
+
+Práctica 2. Ejemplos de análisis y
+evaluación de riesgos: riesgo sísmico y riesgo de
+deslizamientos.
+
+Práctica 3. Ejemplo de navegación en
+un escenario de crisis. Navegación con obstáculos y
+obstáculos móviles.
+
+Práctica 4. Jornada de campo para
+observación de procesos ligados a la geodinámica
+externa: deslizamientos y procesos erosivos. Gestión
+integral de procesos.
+'

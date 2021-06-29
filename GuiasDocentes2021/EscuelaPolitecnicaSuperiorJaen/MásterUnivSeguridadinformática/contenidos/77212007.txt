@@ -1,0 +1,63 @@
+'
+
+- Arquitecturas software en la nube.
+- Arquitecturas orientadas a servicios
+- Desarrollo de aplicaciones en la nube
+- Alta disponibilidad.
+- Escalabilidad y monitorización.
+- Pruebas de carga
+- Servicios en la nube.
+
+
+Tema 1. Introducción y conceptos
+  básicos
+
+
+Tecnologías y servicios en la nube
+Aspectos de seguridad software en la nube
+Amenazas de seguridad en la nube
+
+
+Tema 2. Seguridad en el ciclo de vida de desarrollo
+  software
+
+
+Protección frente ataques habituales en aplicaciones
+  web
+
+
+Tema 3. Escalabilidad, alta disponibilidad y tolerancia
+  frente a fallos
+
+
+Arquitecturas software en la nube y microservicios
+Patrones de diseño en la nube
+
+
+Tema 4. Configuración y despliegue de aplicaciones
+  en la nube
+
+
+Proveedores de servicio en la nube
+Servicios en la nube
+Despliegue de aplicaciones
+
+
+Tema 5. Monitorización y detección de
+  amenazas
+
+
+Gestión centralizada de logs
+Visualización de métricas
+Detección y respuesta a amenazas
+
+
+Tema 6. La seguridad en la empresa. Análisis de
+  seguridad de aplicaciones web
+
+
+Organización de seguridad en la empresa
+Análisis estático
+Análisis dinámico
+
+'

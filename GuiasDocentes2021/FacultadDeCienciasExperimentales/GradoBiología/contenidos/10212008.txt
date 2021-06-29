@@ -1,0 +1,286 @@
+'
+
+Metabolismo de las plantas: fotosíntesis,
+respiración y asimilación de elementos minerales.
+Agua y nutrientes esenciales para las plantas: absorción,
+movimiento a través de células, tejidos y planta
+completa. Transporte de fotosintetizados. Regulación del
+crecimiento y desarrollo de las plantas.
+
+
+
+
+
+
+Introducción a la Fisiología Vegetal 
+          
+Objeto de estudio de la Fisiología
+            Vegetal
+Características de los vegetales
+Clasificación de los organismos en
+            función del tipo de energía y de
+            moléculas que requieren del exterior
+
+La luz y el aparato fotosintético. 
+          
+Introducción
+Estudio del aparato fotosintético: los
+            cloroplastos
+Pigmentos fotosintéticos
+Características de la radiación
+            luminosa
+Captación de la luz por los pigmentos
+
+La etapa fotoquímica de la
+          fotosíntesis. 
+          
+Introducción
+Transporte acíclico de e   
+            - y fotofosforilación
+Fotofosforilación cíclica
+Herbicidas y fase luminosa de la
+            fotosíntesis
+
+Asimilación fotosintética del carbono. 
+          
+Ciclo de Calvin.
+Síntesis de sacarosa  almidón y
+            fructanos
+Fotorrespiración
+Mecanismos de
+            concentración de CO   
+            2
+
+Asimilación del C en las plantas
+              C   
+              4
+Metabolismo ácido de las
+              crasuláceas
+
+Otros procesos que tienen lugar en el
+            cloroplasto.
+
+Influencia del ambiente sobre la fotosíntesis.
+          
+          
+Introducción
+Factores que
+            influyen sobre la fotosíntesis 
+            
+Ambientales
+Endógenos
+
+
+La respiración en los vegetales. 
+          
+Introducción
+Formación de hexosas a partir de
+            carbohidratos de reserva
+Glucolisis
+Procesamiento anaeróbico del piruvato
+Procesamiento aeróbico del piruvato
+Vía de las pentosas fosfato
+Factores que influyen sobre la respiración
+            en las plantas
+
+Asimilación del nitrógeno y del azufre.
+          
+          
+Introducción
+Asimilación de nitrógeno
+Asimilación de azufre
+Transferencia de potencial energético y
+            reductor desde el cloroplasto al hialoplasma
+Asimilación de otros elementos
+
+Introducción al metabolismo secundario. 
+          
+Metabolitos secundarios: concepto,
+            características y funciones
+Terpenos
+Compuestos fenólicos
+Compuestos secundarios nitrogenados
+
+El agua en las plantas: conceptos básicos. 
+          
+Propiedades del agua que le confieren importancia
+            biológica
+Movimientos del agua
+Potencial hídrico y sus componentes:
+            unidades
+Métodos de medida de los distintos
+            potenciales
+
+Movimiento del agua en el continuo
+          suelo-planta-atmósfera. 
+          
+El agua en el suelo. Introducción
+Zonas de absorción de la raíz
+Anatomía del xilema
+Ascenso del agua a través del xilema
+Transpiración a través de los estomas
+            y su control
+
+Transporte por el floema. 
+          
+Anatomía del floema
+Materiales transportados
+Características del transporte
+Carga del floema
+Descarga del floema
+Mecanismo de transporte vía floema
+Control de la distribución y uso de los
+            fotosintetizados 
+El floema como vía de transporte de
+            señales
+
+Nutrición mineral. 
+          
+Introducción
+Elementos esenciales y criterios de
+            esencialidad.
+Macronutrientes y micronutrientes.
+Funciones de los elementos esenciales
+Análisis del estado nutricional
+Papel de las asociaciones simbióticas.
+
+Absorción y transporte de solutos. 
+          
+Introducción
+Transportes activo y pasivo y ecuación de
+            Nerst
+Mecanismos de transporte activo y pasivo en
+            plantas
+Sistemas redox del plasmalema
+Homeostasis del potencial de membrana y del pH y
+            Ca  
+            2+ libre del citoplasma
+
+Desarrollo de las plantas. 
+          
+Introducción
+Conceptos básicos
+Ciclo vital de las
+            plantas 
+            
+Embriogénesis
+Etapa vegetativa
+Etapa reproductiva
+
+
+Regulación endógena del desarrollo:
+          Hormonas vegetales. 
+          
+Las hormonas como mensajeros químicos
+Naturaleza
+            química, efectos fisiológicos y
+            mecanismos de acción de las hormonas: 
+            
+Auxinas
+Citoquininas
+Giberelinas
+Etileno
+Ácido abscísico
+Brasinosteroides
+Otras hormonas y reguladores del crecimiento
+
+
+Fotomorfogénesis. 
+          
+Introducción
+Los fitocromos
+Receptores de luz
+            azul 
+            
+Los criptocromos
+Las fototropinas
+Zeaxantina
+
+Fotorreceptores de UV b
+
+Floración. 
+          
+Introducción
+Desarrollo de la flor
+Regulación de
+            la floración 
+            
+Fotoperiodicidad
+Vernalización
+Otras señales implicadas en la
+              floración
+
+
+La semilla y del fruto 
+          
+La polinización
+La semilla 
+            
+Desarrollo
+Dormición
+Germinación
+
+El fruto 
+            
+Crecimiento y desarrollo
+Nutrición de los frutos
+Maduración
+
+
+Senescencia y abscisión. 
+          
+Introducción
+Procesos fisiológicos y bioquímicos
+            que se modifican durante la senescencia
+Senescencia de algunos órganos de la
+            planta
+Muerte celular programada
+Control de la senescencia
+Abscisión
+
+Movimientos de las plantas. 
+          
+Introducción
+Tropismos: concepto y tipos
+Nastias: concepto y tipos
+
+
+
+
+
+
+PROGRAMA DE PRÁCTICAS DE LABORATORIO:
+
+Preparación de soluciones nutritivas para el cultivo
+  de plantas
+Puesta en germinación y siembra de
+  plántulas.
+Extracción de cloroplastos y reacción de Hill
+  en plantas sometidas a distinta radiación luminosa.
+Diagnóstico de deficiencias nutricionales por
+  síntomas visuales
+Determinación de la actividad nitrato reductasa
+Estudio del efecto de la radiación luminosa sobre la
+  concentración de las clorofilas a y b
+Toma de valores de parámetros de crecimiento
+Determinación de Nitrógeno en hoja
+Determinación del contenido de Fe en hoja
+Relaciones hídricas
+Determinación del potencial hídrico por el
+  método de Chardakov
+Cultivo in vitro de plantas
+Visualización del efecto de las citoquininas
+Efecto de ácido giberélico y ácido
+  abscísico sobre la germinación de semillas de
+  lenteja
+Triple respuesta al etileno de las plántula etioladas
+  de soja
+3 sesiones de aula de informática de 2 h de
+  duración
+
+PROGRAMA DE SEMINARIOS:
+4 Seminarios de 2 horas de duración cada uno
+
+ 4 h, se cubren con la asistencia al
+Congresode prácticas
+'

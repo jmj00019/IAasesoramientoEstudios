@@ -1,0 +1,59 @@
+'
+
+Fundamentos del procesamiento de información visual
+digital. Extracción de características.
+Análisis del movimiento. Segmentación y
+reconocimiento de patrones visuales. Aplicaciones centradas en la
+identificación, interacción y seguridad de acceso a
+sistemas.
+ 
+
+Programa Teórico
+
+ Tema 1: Fundamentos del procesamiento de
+  información Visual Digital 
+  
+Conceptos básicos
+Procesos de captura de información visual
+
+Tema 2: Extracción de características 
+  
+Concepto de característica
+Dominio espacial y frecuencial
+Prcoesos de filtrado
+
+Tema 3: Segmentación y reconocimiento de Patrones
+  Visuales 
+  
+Paradigmas y técnicas de segmentación
+Modelos de reconocimiento
+
+Tema 4: Análisis del movimiento 
+  
+Procesamiento de Vídeo
+Flujo Óptico
+Seguimiento Basado en Modelos
+
+Tema 5: Aplicaciones centradas en la identificación,
+  interacción y seguridad de acceso a sistemas.
+
+Programa Práctico
+
+Práctica 1: Procesamiento de imágenes con
+  ImageJ.
+Práctica 2: Procesamiento básico de
+  imágenes con OpenCV y Python.
+Práctica 3: Cálculo y visualización de
+  histogramas.
+Práctica 4: Igualación de histogramas y
+  convoluciones.
+Práctica 5: Procesamiento en el dominio
+  frecuencial.
+Práctica 6: Umbralización global y local de
+  imágenes.
+Práctica 7: Detección de objetos mediante
+  cascadas de Haar.
+Práctica 8: Cálculo del flujo
+  óptico.
+
+'

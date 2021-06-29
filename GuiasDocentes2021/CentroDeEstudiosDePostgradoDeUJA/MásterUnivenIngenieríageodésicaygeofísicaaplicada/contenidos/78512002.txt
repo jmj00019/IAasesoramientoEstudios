@@ -1,0 +1,137 @@
+'
+
+Formatos de datos en Ciencias de la Tierra y del Espacio
+* Ráster vs. vectorial
+* Formatos de imagen
+* Formatos de información 3D
+* Lectura y escritura de archivos
+- Fuentes de datos geográficos
+* Páginas web de referencia para descarga
+* Obtención de datos procedentes de dispositivos de
+captura
+* Preparación de los datos para su procesamiento
+- Visualización de datos en 2D y 3D
+* Generación de gráficas
+* Generación de mapas 2D
+* Generación de modelos 3D
+- Procesamiento de imágenes de satélite
+* Filtrado, corrección y rectificación de
+imágenes
+- Aplicaciones para el análisis y la
+simulación
+* Creación de animaciones 2D y 3D
+
+
+
+
+Contenido
+  Teórico:
+
+
+Tema
+  1: Formatos de datos en Ciencias de la Tierra y del
+  Espacio
+
+
+
+Ráster
+    vs. vectorial
+
+
+Formatos
+    de imagen
+
+
+Formatos
+    de información 3D
+
+
+Lectura
+    y escritura de archivos
+
+
+
+Tema
+  2: Fuentes de datos geográficos
+
+
+
+Páginas
+    web de referencia para descarga
+
+
+Obtención
+    de datos procedentes de dispositivos de captura
+
+
+Preparación
+    de los datos para su procesamiento
+
+
+
+Tema
+  3: Procesamiento de imágenes de satélite o
+  UAVs
+
+
+
+Filtrado,
+    corrección y rectificación de
+    imágenes
+
+
+
+Tema
+  4: Visualización de datos en 2D y 3D
+
+
+
+Generación
+    de mapas 2D
+
+
+Generación
+    de modelos 3D
+
+
+Generación
+    de gráficas
+
+
+
+Tema
+  5: Aplicaciones para el análisis y la
+  simulación
+
+
+
+Creación
+    de animaciones 2D y 3D
+
+
+
+
+
+Contenido
+  Práctico:
+
+
+Práctica
+  1: Manejo de tipos de datos básicos en Matlab.
+
+
+Práctica
+  2: Desarrollo de algoritmos de procesamiento de imágenes
+  en Matlab.
+
+
+Practica3:
+  Manejo de herramientas para la generación de modelos
+  3D.
+
+
+Práctica
+  4: Desarrollo de un proyecto en Matlab relativo al contenido
+  teórico.
+
+'

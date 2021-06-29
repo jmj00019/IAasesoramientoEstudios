@@ -1,0 +1,83 @@
+'
+
+Ingeniería Química: Conceptos generales.
+Balances de Materia y Balances de Energía.
+Fenómenos de Transporte: Transferencia de
+Materia.
+Prácticas de laboratorio.
+
+
+
+TEMAS
+
+TEMA 1.- INGENIERÍA QUÍMICA: CONCEPTOS GENERALES.
+1.1. Industrial química. 1.2. Concepto de Ingeniería
+Química. 1.3. Proceso químico y etapas del proceso.
+1.4. Aspectos para el diseño y funcionamiento de los equipos
+industriales. 1.5. Descripción de procesos
+químico-industriales.
+TEMA 2.- BALANCES DE MATERIA. FUNDAMENTOS. 2.1. Leyes de
+conservación de la materia y la energía. 2.2.
+Definición de "balance de materia". 2.3. Aplicaciones y
+clasificación de los balances de materia. 2.4. Variables en
+los balances de materia. 2.5. Concepto y selección de una
+base de cálculo. 2.6. Ejercicios.
+TEMA 3.- BALANCES DE MATERIA EN SISTEMAS SIN REACCIÓN
+QUÍMICA Y ESTADO ESTACIONARIO. 3.1. Procedimiento general de
+resolución. 3.2. Unidad simple. 3.3. Sistemas formados por
+unidades en serie. 3.4. Sistemas con corriente de derivación
+(by-pass). 3.5.Sistemas con corrientes de recirculación y
+purga. 3.6. Ejercicios.
+TEMA 4.- BALANCES DE MATERIA EN SISTEMAS CON REACCIÓN
+QUÍMICA Y ESTADO ESTACIONARIO. 4.1. Estequiometría y
+terminología de las reacciones químicas. 4.2.
+Balances de materia a los compuestos. 4.3. Balances de materia
+atómicos o elementales. 4.4. Balances con reacciones
+químicas, separación ideal y recirculación.
+4.5. Ejercicios.
+TEMA 5.- BALANCES DE ENERGÍA. 5.1. Formas de
+energía. 5.2. Balances de energía en sistemas
+cerrados. 5.3. Balances de energía en sistemas abiertos.
+5.4. Algunas aplicaciones para sistemas continuos. 5.5.
+Ejercicios.
+TEMA 6: INTRODUCCIÓN AL EQUILIBRIO
+LÍQUIDO-GAS. 6.1. Introducción. 6.2. Equilibrio
+líquido-vapor en sistemas ideales. 6.3. Determinación
+de los puntos de burbuja y de rocío. 6.4. Equilibrio
+líquido-vapor en sistemas no ideales. 6.5. Diagramas
+entalpía-composición. 6.6. Destilación de
+mezclas binarias. 6.7. Sistemas líquido-gas:
+absorción de gases. 6.8. Ejercicios.
+TEMA 7: INTRODUCCIÓN AL EQUILIBRIO
+SÓLIDO-LÍQUIDO. 8.1. Introducción. 8.2.
+Estudio del equilibrio sólido-líquido. 8.3. Diagramas
+de equilibrio. 8.4. Ejercicios.
+
+
+SEMINARIOS
+
+SEMINARIO 1: Balances macroscópicos de materia en
+sistemas sin reacción química y en estado no
+estacionario.
+SEMINARIO 2: Magnitudes físicas y sistemas de
+unidades.
+SEMINARIO 3: Introducción al equilibrio
+líquido-líquido.
+SEMINARIO 4: Fenómenos de transporte en Ingeniería
+Química
+SEMINARIO 5: Aspectos introductorios a las prácticas de
+laboratorio.
+
+
+PRÁCTICAS DE LABORATORIO
+
+Práctica 1. Balance macroscópico de materia en
+estado no estacionario.
+Práctica 2. Balance macroscópico de energía
+en estado no estacionario.
+Práctica 3. Equilibrio líquido-líquido para
+el sistema agua-cloroformo-ácido acético.
+Práctica 4. Equilibrio líquido-vapor:
+construcción de diagramas de equilibrio.
+Práctica 5. Equilibrio sólido-líquido.
+'

@@ -1,0 +1,144 @@
+'
+
+La asignatura se divide en dos bloques de igual carga docente.
+Cuando se haya superado la asignatura, los alumnos tendrán
+los conocimientos teóricos necesarios y serán capaces
+de resolver problemas en relación a:
+Bloque I. Señales y sistemas
+· Las propiedades de las señales y las
+operaciones con estas, así como sus distintos tipos
+frecuentes en ingeniería de telecomunicación.
+· Las propiedades de los sistemas, su
+interconexión y su caracterización temporal,
+así como la convolución y el cálculo de la
+respuesta de un sistema lineal e invariante en el tiempo (LTI) ante
+cualquier excitación.
+· Uso de la transformada unilateral de Laplace para el
+estudio de sistemas LTI de tiempo continuo en el dominio S de las
+frecuencias complejas.
+· Uso de la transformación fasorial para el
+estudio de sistemas LTI de tiempo continuo en régimen
+permanente sinusoidal.
+Bloque II. Análisis de circuitos
+· Fundamentos del análisis de circuitos;
+magnitudes, componentes, energía y potencia. Leyes de
+Kirchhoff.
+· Análisis en continua. Técnicas de
+análisis. Teoremas fundamentales: superposición,
+proporcionalidad, Thevenin, Norton, teorema de la máxima
+transferencia de potencia.
+· Técnicas de análisis nodal y de mallas
+para circuitos lineales en el dominio S de las frecuencias
+complejas. Análisis en régimen permanente sinusoidal.
+Bipuertos (cuadripolos). Fundamentos, definiciones y
+propiedades. Asociación de bipuertos.
+
+
+
+Conceptos teóricos
+
+
+PRIMERA PARTE: ANÁLISIS DE CIRCUITOS
+
+
+Conceptos básicos (T1)
+
+
+Variables de un circuito (carga, corriente, tensión,
+  energía, potencia).
+Elementos de un circuito y relaciones constitutivas (fuentes
+  independientes,  resistencia, condensador, bobina, fuentes
+  controladas).
+Interconexión de elementos. Leyes de Kirchhoff.
+Cálculo de la potencia.
+
+
+Régimen estacionario sinusoidal (T2)
+
+
+Señales sinusoidales en el dominio del tiempo.
+Fasores y representación fasorial de las relaciones
+  constitutivas. Impedancia
+Cálculo de la potencia.
+
+
+Técnicas de análisis sistemático
+  (T3)
+
+
+Análisis nodal. Incorporación al
+  análisis nodal de fuentes de corriente controladas.
+  Movilidad de generadores de tensión.
+Análisis de las corrientes de malla.
+  Incorporación al análisis de corriente de malla de
+  las fuentes de tensión controlada. Movilidad de
+  generadores de corriente.
+Sistematización del análisis de circuitos con
+  amplificador operacional.
+
+
+Teoremas de la teoría de circuitos (T4)
+
+
+Teoremas de superposición y proporcionalidad.
+Circuitos equivalentes y teoremas de Thévenin y
+  Norton.
+
+ 
+
+SEGUNDA PARTE: SEÑALES Y SISTEMAS
+
+
+Introducción a las señales  y los
+  sistemas (T5)
+
+
+Caracterización temporal de las señales de
+  tiempo continuo habituales en circuitos y sistemas
+Operaciones básicas con señales.
+Definición de sistema. El circuito lineal como
+  sistema
+
+
+Transformada de Laplace Unilateral. Circuito transformado
+  de Laplace (T6)
+
+
+Definición de la transformada de Laplace.
+Propiedades y pares de transformadas de Laplace.
+Diagramas de polos y ceros.
+Transformada inversa de Laplace.
+Transformada de Laplace de las relaciones constitutivas de
+  los elementos de un circuito.
+Transformada de Laplace de las leyes de
+  interconexión.
+Análisis sistemático de circuitos en el dominio
+  transformado de Laplace.
+
+
+Dinámica y respuesta en frecuencia de los
+  circuitos y sistemas lineales (T7)
+
+
+Definición de función de transferencia.
+Componentes libre y forzada de la respuesta temporal.
+Régimen transitorio y régimen permanente.
+Estabilidad de circuitos y sistemas lineales.
+Formas de la respuesta libre.
+Respuesta al impulso de circuitos y sistemas lineales.
+Respuesta al escalón de circuitos y sistemas
+  lineales.
+Respuesta en frecuencia de circuitos y sistemas
+  lineales.
+Magnitud logarítmica e introducción a diagrama
+  asintótico de Bode.
+
+
+
+Prácticas de
+  Laboratorio
+
+Bloque 1. Instrumentación de laboratorio.
+Bloque 2. Montaje de circuitos en corriente continua.
+Bloque 3. Montaje de circuitos en corriente alterna.
+'

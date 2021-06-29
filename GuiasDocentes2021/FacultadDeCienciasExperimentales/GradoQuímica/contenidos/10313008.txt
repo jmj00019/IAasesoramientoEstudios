@@ -1,0 +1,70 @@
+'
+
+
+Clasificación,
+  nomenclatura, estructura, reactividad y síntesis de los
+  compuestos heterociclicos 
+
+
+
+Tema
+  1.- Introducción a la Química de los Compuestos
+  Heterocíclicos.
+   1.1. Importancia y clasificación de los compuestos
+  heterocíclicos.
+   1.2. Nomenclatura de los compuestos heterocíclicos.
+   Tema 2.- Compuestos Heterocíclicos
+  Aromáticos. Aspectos Generales.
+   2.1. Estructura de los compuestos heterocíclicos de
+  seis y cinco miembros.
+   2.2. Reacciones tipo en la química de los
+  compuestos heterocíclicos.
+   2.3. Síntesis de anillos heterocíclicos.
+   Tema 3.- Compuestos Heterocíclicos
+  Aromáticos de Seis Miembros.
+   3.1. Piridina y derivados. Estructura, reactividad y
+  síntesis.
+   3.2. Benzopiridinas: Quinolina e Isoquinolina. Estructura,
+  reactividad y síntesis.
+   3.3. Diazinas: Piridazina, Pirimidina y Pirazina.
+  Estructura, reactividad y síntesis.
+   3.4. Pirilios y Benzopirilios. Estructura, reactividad y
+  síntesis.
+   Tema 4. Compuestos Heterocíclicos Aromáticos
+  de Cinco Miembros.
+   4.1. Pirroles. Estructura, reactividad y
+  síntesis.
+
+
+4.2.
+  Benzopirroles: Indol. Estructura, reactividad y
+  síntesis. 
+
+4.3. Furanos y Tiofenos. Estructura, reactividad y
+síntesis. 
+
+
+4.4.
+    Compuestos heterocíclicos aromáticos de cinco
+    miembros con dos heteroátomos: 1,3- y 1,2-azoles. 
+    Estructura, reactividad y síntesis.
+     Tema 5. Otros Compuestos Heterocíclicos.
+     5.1. Purinas. Estructura, reactividad y
+    síntesis.
+
+
+ 
+
+
+Práctica
+  1. Busqueda bibliografica de
+  compuestos heterocíclicos mediante
+  ordenador.
+
+Practica 2. Sistesis de compuestos heterocíclicos
+asistida por ordenador.
+
+ 
+
+ 
+'

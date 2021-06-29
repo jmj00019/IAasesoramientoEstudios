@@ -1,0 +1,133 @@
+'
+
+QUÍMICA INORGÁNICA
+QUÍMICA ORGÁNICA
+BLOQUE PRÁCTICO:
+TÉCNICAS GENERALES DEL LABORATORIO INTEGRADO DE
+QUÍMICA INORGÓNICA Y ORGÁNICA
+CARACTERIZACIÓN Y MONITORIZACIÓN DE COMPUESTOS
+QUÍMICOS
+SÍNTESIS COMPUESTOS QUÍMICOS.
+
+
+Resumen de la asignatura
+
+Aproximación a la
+Química Experimental en las áreas de Química
+Inorgánica y Orgánica utilización de la
+bibliografía básica, uso adecuado de técnicas
+fundamentales de laboratorio, manejo y seguridad con productos
+químicos, dominio de las herramientas propias del
+laboratorio de Química Inorgánica y Orgánica.
+Desarrollo de la capacidad de análisis, síntesis e
+interpretación de los resultados obtenidos.
+
+QUÍMICA INORGÁNICA
+
+Tema 1. QUÍMICA DE LA
+COORDINACIÓN. Visión actual de los compuestos de
+coordinación. Estructuras y simetrías.
+Isomería de complejos de metales de transición.
+Teoría del campo cristalino. Colores de los complejos de
+metales de transición. Transiciones electrónicas.
+Color y propiedades magnéticas.
+Tema 2. QUÍMICA
+BIOINORGÁNICA. Origen y especificidad de metales en sistemas
+biológico. Los elementos químicos de la vida.
+Biodisponibilidad. Metales en Medicina. Principales funciones
+biológicas en las que participan iones metálicos: a)
+Transporte y almacenamiento de oxígeno, b) Transporte y
+almacenamiento de hierro.
+Tema 3. QUÍMICA DEL ESTADO
+SÓLIDO. Propiedades y aplicaciones Eléctricas delos
+sólidos: Propiedades dieléctricas y
+polarización, Piezoeléctricos, Semiconductores,
+Superconductores, Electrolitos sólidos.
+
+QUÍMICA ORGÁNICA
+
+Tema 0. CONCEPTOS FUNDAMENTALES EN
+QUÍMICA ORGÁNICA (QO). Nomenclatura básica y
+grupos funcionales. Interconversión entre ellos. Conceptos
+básicos en QO. Reactantes en síntesis
+orgánica. Intermedios y mecanismos de reacción.
+Control termodinámico vs cinético. Reactividad y
+reacciones. Isomería y estereoquímica.
+Tema 1. HIDROCARBUROS: ALCANOS,
+ALQUENOS Y ALQUINOS. El petróleo como fuente  de
+compuestos químicos. Raw and Fine Chemicals. Alcanos,
+alquenos y alquinos: Nomenclatura, propiedades, reactividad y
+síntesis-
+Tema 2. QUÍMICA DE
+HALOGENUROS DE ALQUILO Y ORGANOMETÁLICA. RX: Nomenclatura,
+propiedades, síntesis y reactividad de los halogenuros de
+alquilo. Compuestos con enlace Metal-C. Química
+organo-metálica.
+Tema 3. INTERCONVERSIÓN DE
+GRUPOS FUNCIONALES EN ORDEN CRECIENTE DE OXIDACIÓN.
+Alcoholes, aldehídos y cetonas, ácidos
+carboxílicos y ésteres. Nomenclatura y propiedades.
+Reactividad básica, síntesis e interconversión
+entre ellos.
+Tema 4. Polímeros. Conceptos
+básicos. Caracterización y reactividad.
+Copolímeros. Tecnología y degradación
+SEMINARIOS INTEGRADOS DE
+QUÍMICA INORGÁNICA Y ORGÁNICA
+Seminario 1: CONOCIMIENTOS PREVIOS
+AL DESARROLLO EXPERIMENTAL EN EL LABORATORIO. Normas de seguridad e
+higiene en el laboratorio. Logística, identificación
+y gestión de residuos. Elaboración de un cuaderno y
+de un informe.
+Seminario 2: INDICADORES
+BIBLIOMÉTRICOS Y SOFTWARE DE REPRESENTACIÓN
+QUÍMICA. Bases de Datos en Química, Base de datos
+bibliográfica y los indicadores bibliométricos.
+Editores Moleculares (ACD/ChemSketch Freeware)
+Seminario 3: TEORÍA DE
+ORBITALES MOLECULARES. Concepto de Orbitales Moleculares.
+Aplicación en moléculas diatómicas
+homonucleares y polinucleares. Aplicaciones del concepto ABDB de
+Pearson.
+Seminario 4. PROCEDIMIENTOS
+GENÉRICOS EN UN LABORATORIO DE QUÍMICA
+INORGÁNICA Y ORGÁNICA: Técnicas de
+purificación y separación. Filtración.
+Destilación: Simple, fraccionada, a vacío, a media
+presión, etc. Manejo del rotavapor. Extracción: L-L,
+S-L y continua. Cristalización y recristalización.
+Introducción a la cromatografía. Técnicas
+cromatográficas (TLC, columna y GC).
+Seminario 5: ESPECTROSCOPIA UV/VIS.
+El espectro electromagnético y las técnicas
+espectroscópicas: Fundamentos de la espectroscopia UVvis,
+espectrómetro UV-Vis, Ley de Beer Lambert.
+Determinación cuantitativa.
+Seminario 6. ESPECTROSCOPÍA
+IR. Conceptos básicos. Preparación de muestras
+líquidas y sólidas. Interpretación de
+espectros de MIR.
+ 
+
+PRÁCTICAS DE LABORATORIO INTEGRADO DE
+  QUÍMICA INORGÁNICA Y ORGÁNICA.
+
+Crecimiento Cristalino en Gel
+Determinación de la
+Energía de Estabilización del Campo Cristalino en
+complejos de Cr(III)
+Síntesis de un
+organopolysiloxano. .
+Síntesis de ésteres
+de alcohol o ácido.
+Síntesis de Fischer de
+Acetato de etilo.
+Práctica de Química
+Sostenible
+Química de los materiales
+poliméricos: Síntesis  y reciclaje de
+tereftelato de polietileno PET
+ 
+ 
+ 
+'

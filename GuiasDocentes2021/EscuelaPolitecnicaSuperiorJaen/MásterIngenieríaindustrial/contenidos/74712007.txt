@@ -1,0 +1,82 @@
+'
+
+
+Bloque 1: Sistemas electrónicos
+1.- Fuentes de alimentación. 2.- Convertidores
+electrónicos de potencia. 3.-Aplicaciones de sistemas
+electrónicos
+
+
+Bloque 2: Sistemas de adquisición de datos e
+instrumentación industrial
+1.-Filtrado. 2.-Sensores y transductores. 3.-Circuitos de
+acondicionamiento de señal. 4.-Software industrial standard.
+5.-Instrumentación industrial y comunicaciones
+industriales
+
+
+
+Sistemas Electrónicos:
+
+
+
+Unidad 1.- Convertidores electrónicos de potencia 
+  (Resultado Aprendizaje
+  7.1).
+
+Lección 1.- Introducción Electrónica de
+Potencia y Sistemas Electrónicos
+Lección  2 .- Convertidores DC/AC: Inversores
+Lección 3.- Convertidores DC/DC: Troceadores
+
+
+Unidad 2 .- Fuentes de alimentación y Aplicaciones
+  de sistemas electrónicos 
+  (Resultado Aprendizaje
+  7.2-7.3)
+
+Lección 4.- Introducción a las fuentes de
+alimentación lineales
+Lección 5.-  Introducción a las fuentes de
+alimentación conmutadas. Realimentación y circuitos
+de control
+Aplicaciones sistmas electrónicos: Sistemas de
+iluminación en el automóvil, electrónica y
+futuro.
+
+
+PRACTICAS DE SISTEMAS
+  ELECTRÓNICOS:
+
+1.- Simulación de sistemas electrónicos con Pspice
+ 
+2.- Inversores I
+3.- Inversores II
+4.- Convertidores DC-DC
+5.- Fuente connutada
+
+
+Sistemas de adquisición de
+datos e instrumentación industrial:
+
+(Resultado Aprendizaje 7.4-7.5). 
+Lección 1.- Introducción 
+ Lección 2.- Sistemas de medida sensores traductores
+ Lección 3.-  Análisis de sistemas de
+medida sensores traductores 
+ Lección 4.-Circuitos de acondicionamiento 
+ Lección 5.- Filtrado
+ Lección 6.- Comunicaciones industriales
+ Lección 7.- Compatibilidad
+electromagnética
+  
+
+PRÁCTICAS DE
+INSTRUMENTACIÓN:
+Práctica 1.1 Caraterización de sensores
+Práctica 1.2 Calibración de sistema de medida
+Práctica 2.1 Diseño de un sistema de
+adquisición de datos
+Práctica 2.2 Diseño de un sistema de
+adquisición de datos
+'

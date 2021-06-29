@@ -1,0 +1,706 @@
+'
+
+UNIDAD TEMATICA I. PROSPECCION GEOFISICA. UNIDAD TEMATICA II.
+METODOS ELECTRICOS. UNIDAD TEMATICA III. METODOS SISMICOS. UNIDAD
+TEMATICA IV. METODO GRAVIMETRICO.
+UNIDAD TEMATICA V. METODO MAGNETICO UNIDAD TEMATICA VI.
+METODOS RADIOMETRICOS. UNIDAD TEMATICA VII. TESTIFICACION
+GEOFISICA. UNIDAD TEMATICA VIII. TECNICAS
+ESPECIALES DE PROSPECCION. UNIDAD TEMÁTICA IX:
+APLICACIÓN DE LA PROSPECCIÓN GEOFÍSICA EN LA
+MODELIZACIÓN DE YACIMIENTOS.
+
+UNIDAD TEMÁTICA  I. PROSPECCIÓN
+GEOFÍSICA.
+ 
+
+Competencias específicas
+  Procedimentales/Instrumentales:
+
+     Elaboración e
+interpretación de planos y mapas topográficos,
+geológicos, temáticos y de ingeniería,
+Modelización de yacimientos: recursos mineros,
+energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+
+ 
+
+
+Competencias específicas
+  Aptitudinales/Actitudinales:
+
+    Capacidad de interrelacionar todos los
+conocimientos adquiridos, Capacidad de adaptarse a la
+evolución tecnológica y Capacidad para organizar,
+interpretar, asimilar y elaborar la información, Capacidad
+para desarrollar investigación aplicada en el ámbito
+de formación. 
+ 
+TEMA 1.- Introducción.
+Introducción a los métodos geofísicos de
+prospección. Aplicaciones de las técnicas
+geofísicas: En prospección petrolífera, en
+minería, en hidrogeología, en ingeniería civil
+y en medio ambiente. Programación de una campaña de
+prospección geofísica. Estado actual de la
+metodología geofísica. Conclusiones.
+ 
+UNIDAD TEMÁTICA II. MÉTODOS ELÉCTRICOS.
+ 
+
+Competencias específicas
+  Procedimentales/Instrumentales:
+
+     Elaboración e
+interpretación de planos y mapas topográficos,
+geológicos, temáticos y de ingeniería,
+Modelización de yacimientos: recursos mineros,
+energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+
+ 
+
+
+Competencias específicas
+  Aptitudinales/Actitudinales:
+
+    Capacidad de interrelacionar todos los
+conocimientos adquiridos, Capacidad de adaptarse a la
+evolución tecnológica y Capacidad para organizar,
+interpretar, asimilar y elaborar la información, Capacidad
+para desarrollar investigación aplicada en el ámbito
+de formación. 
+ 
+ 
+TEMA 2.- Introducción.
+Métodos eléctricos y su desarrollo
+histórico. Clasificación de los métodos
+eléctricos. Aplicaciones. Propiedades
+electromagnéticas de las rocas. Constante
+dieléctrica. Actividad electroquímica.
+Isotropía y anisotropía. Resistividad de las rocas:
+Efecto del agua de impregnación. Resistividad de las rocas
+más frecuentes. Conductividad de las rocas: Ley de Archie.
+Determinación de la resistividad de las rocas: En
+laboratorio y en el campo.
+ 
+TEMA 3.- Métodos de resistividades. Concepto y
+dispositivos.
+Introducción. Ecuaciones generales. Resistividad
+aparente. Dispositivos electródicos.
+Clasificación.
+ 
+TEMA 4.- Teoría del Sondeo Eléctrico Vertical.
+Definición. Penetración, efectos laterales y punto
+de atribución. Capa geoeléctrica y cortes
+geoeléctricos: Notación y nomenclatura.
+Parámetros de Dar Zarrouk; Resistencia transversal unitaria
+y conductancia longitudinal. Determinación de los puntos
+angulosos.
+Práctica del Sondeo Eléctrico Vertical.
+Clasificación de los cortes geoeléctricos.
+Programación del trabajo de campo. Trabajo de campo.
+Instrumentación. Proceso de medición: Recogida de
+datos, hojas de campo, calidad de las curvas de campo.
+Interpretación: 1. Cualitativa; perfiles y mapas de
+isorresistividades. 2. Cuantitativa; a) Método de
+superposición. B) Método de reducción
+(método del punto auxiliar). Método de aproximaciones
+sucesivas (Interpretación con ordenador).
+ 
+TEMA 5.- Calicatas eléctricas.
+Definición y clasificación. Representación
+gráfica. Notación. Puntos característicos.
+Valoración de anomalías. Elección del tipo de
+calicatas. Programación del trabajo de campo.
+Anomalías típicas. Interpretación.
+Tomografía eléctrica.
+ 
+TEMA 6.- Tomografía Eléctrica o Tomografía
+Geoeléctrica.
+Introducción. Objetivos del método. Principios
+teóricos básicos. Esquemas básicos de
+funcionamiento del método. Equipo requerido.
+Metodología de campo. Planificación de la
+campaña de reconocimiento. Colocación del dispositivo
+y adquisición de datos. Profundidad de investigación
+. Procesado de los datos de campo. Interpretación de los
+resultados. Ventajas y limitaciones del método.
+ 
+TEMA 7.- Otros métodos de Corriente Continua.
+Método de las líneas equipotenciales. Fundamento y
+aplicación. Aplicación del método del cuerpo
+cargado (Mise à la Masse). Método de la
+polarización espontánea. Fundamentos y
+aplicación.
+ 
+TEMA 8.- Método de polarización inducida.
+Conceptos fundamentales de la polarización.
+Polarización de electrodos. Polarización de membrana.
+Dominio del tiempo. Dominio de la frecuencia. Trabajos de campo.
+Interpretación.
+ 
+TEMA 9.- Métodos electromagnéticos.
+Principios del método. Modalidades. Sondeos
+Electromagnéticos S.E.M. Sondeos de Frecuencia Variable
+S.F.V. Calicatas Electromagnéticas C.E.M. Método de
+Inclinación de Campo. Método Turam. Método
+Slingram. Método Afmag. Métodos
+electromagnéticos aéreos.
+Electromagnético Profundo (EM-37). Caso particular de
+Arrayanes.
+ 
+UNIDAD TEMÁTICA III. TESTIFICACIÓN
+GEOFÍSICA.
+ 
+
+Competencias específicas
+  Procedimentales/Instrumentales:
+
+     Elaboración e
+interpretación de planos y mapas topográficos,
+geológicos, temáticos y de ingeniería,
+Modelización de yacimientos: recursos mineros,
+energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+
+
+ 
+
+
+Competencias específicas
+  Aptitudinales/Actitudinales:
+
+    Capacidad de interrelacionar todos los
+conocimientos adquiridos, Capacidad de adaptarse a la
+evolución tecnológica y Capacidad para organizar,
+interpretar, asimilar y elaborar la información, Capacidad
+para desarrollar investigación aplicada en el ámbito
+de formación. 
+ 
+TEMA 10.- Introducción a la testificación.
+Generalidades. Antecedentes e importancia económica.
+Notificaciones. Clasificación. Aplicaciones.
+ 
+TEMA 11.- Testificación eléctrica.
+Perfil de resistividades. Dispositivos. Interpretación.
+Perfiles microrresistivos (microlog).
+Perfil de potencial espontáneo. Origen y uso del
+potencial espontáneo. Interpretación.
+Conclusiones.
+ 
+TEMA 12.- Testificación inductiva.
+Generalidades. Equipos, constitución y funcionamiento.
+Estudio de los perfiles.
+ 
+TEMA 13.- Testificación sónica.
+Generalidades. Equipos, constitución y funcionamiento.
+Sonda microsónica. Estudio de los perfiles.
+Aplicaciones.
+ 
+TEMA 14.- Testificación radioactiva.
+Testificación por rayos gamma. Equipos. Estudio de los
+perfiles. Testificación por gamma-gamma. Equipos. Estudio de
+los perfiles.
+ 
+TEMA 15.- Otras testificaciones.
+Testificación de calibre. Testificación
+térmica. Testificación de buzamiento. Control de
+envejecimiento de pozos.
+ 
+UNIDAD TEMÁTICA IV. TÉCNICAS ESPECIALES DE
+PROSPECCIÓN.
+ 
+
+Competencias específicas
+  Procedimentales/Instrumentales:
+
+     Elaboración e
+interpretación de planos y mapas topográficos,
+geológicos, temáticos y de ingeniería,
+Modelización de yacimientos: recursos mineros,
+energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+
+
+ 
+
+
+Competencias específicas
+  Aptitudinales/Actitudinales:
+
+    Capacidad de interrelacionar todos los
+conocimientos adquiridos, Capacidad de adaptarse a la
+evolución tecnológica y Capacidad para organizar,
+interpretar, asimilar y elaborar la información, Capacidad
+para desarrollar investigación aplicada en el ámbito
+de formación. 
+ 
+TEMA 16.- Georadar.
+El radar como técnica prospectiva. Principio de
+funcionamiento de un equipo radar. Resolución y capacidad de
+penetración. Tratamiento de los datos. Equipos utilizados.
+Técnicas de trabajo. Calicatas. Sondeos de velocidad.
+Ensayos de transmisión. Aplicaciones.
+ 
+UNIDAD TEMÁTICA V.  MÉTODOS SISMICOS.
+ 
+
+Competencias específicas
+  Procedimentales/Instrumentales:
+
+     Elaboración e
+interpretación de planos y mapas topográficos,
+geológicos, temáticos y de ingeniería,
+Modelización de yacimientos: recursos mineros,
+energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+
+ 
+
+
+Competencias específicas
+  Aptitudinales/Actitudinales:
+
+    Capacidad de interrelacionar todos los
+conocimientos adquiridos, Capacidad de adaptarse a la
+evolución tecnológica y Capacidad para organizar,
+interpretar, asimilar y elaborar la información, Capacidad
+para desarrollar investigación aplicada en el ámbito
+de formación. 
+ 
+TEMA 17.- Fundamentos físicos empleados en
+sismología.
+Introducción. Constantes elásticas: Módulo
+de Young. Coeficiente de Poisson. Módulo de rigidez o de
+cizallamiento. Módulo volumétrico. Ondas
+elásticas. Leyes que rigen la propagación
+sísmica. Velocidad de propagación de las ondas.
+ 
+TEMA 18.- Métodos sísmicos de
+prospección.
+Métodos sísmicos y su desarrollo histórico.
+Generación y propagación de ondas sísmicas.
+Velocidades de propagación en las rocas. Generalidades sobre
+los métodos de reflexión y refracción. Estudio
+de la gráfica tiempo distancia o dromocrona. Aplicaciones.
+Instrumentación: Fuentes de energía. Geófonos.
+Sistemas de registro.
+ 
+TEMA 19.- Método sísmico de refracción.
+Introducción. Caso de un refractor horizontal. Caso de un
+refractor inclinado. Caso de varias capas. Caso de una falla.
+Principios generales de interpretación. Otros
+métodos: Método de los Delay Times. Práctica
+del método. Equipo empleado. Reducciones al datum. Empleo
+del método de refracción.
+ 
+TEMA 20.- Método sísmico de reflexión.
+Generalidades. Disposición de los geófonos y
+sistemas de tiro. Determinaciones de espejos sísmicos
+en  profundidad. Operaciones de campo y gabinete:
+Composición del equipo. Variables a tener en cuenta en el
+registro sísmico. Determinación de las reflexiones.
+Interpretación del método de reflexión.
+Reducción  al datum. Determinación de las
+velocidades. Correlaciones entre sismogramas; secciones-tiempo y
+secciones-profundidad. Correcciones.
+ 
+TEMA 21.- Sísmica de refracción en sondeos.
+Up-hole y Cross-hole.   Aplicación en la
+ingeniería civil.
+ 
+UNIDAD TEMÁTICA VI. MÉTODO
+GRAVIMÉTRICO.
+ 
+
+Competencias específicas
+  Procedimentales/Instrumentales:
+
+     Elaboración e
+interpretación de planos y mapas topográficos,
+geológicos, temáticos y de ingeniería,
+Modelización de yacimientos: recursos mineros,
+energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+
+ 
+
+
+Competencias específicas
+  Aptitudinales/Actitudinales:
+
+    Capacidad de interrelacionar todos los
+conocimientos adquiridos, Capacidad de adaptarse a la
+evolución tecnológica y Capacidad para organizar,
+interpretar, asimilar y elaborar la información, Capacidad
+para desarrollar investigación aplicada en el ámbito
+de formación. 
+ 
+TEMA 22.- Principios básicos de gravimetría.
+Generalidades. El campo gravífico terrestre y la
+gravedad. Variación de la gravedad sobre la superficie
+terrestre. Fórmulas de la gravedad teórica.
+Fundamentos del método gravimétrico. Aplicaciones.
+Formas de medir la gravedad: Instrumentos y su
+calibración.
+ 
+TEMA 23.- Trabajo de campo. Campaña
+gravimétrica.
+Composición del equipo. Fases de la campaña. Red
+de bases. Cálculo. Medición de la gravedad sobre el
+terreno. Correcciones de deriva y lunisolar. Levantamiento
+topográfico. Planimetría. Altimetría.
+ 
+TEMA 24.- Anomalías gravimétricas.
+Anomalía de Bouguer. Corrección de aire libre o de
+Faye. Corrección de Bouguer. Corrección
+topográfica.
+ 
+TEMA 25.- Densidad de las rocas.
+Importancia de la densidad de las rocas en el método
+gravimétrico. Cálculo de la densidad: métodos
+directos, métodos indirectos, métodos
+gravimétricos.
+TEMA 26.- Interpretación.
+Interpretación Cualitativa: Obtención y
+análisis del mapa de Bouguer. Anomalía residual 
+y regional. Técnicas de separación de
+anomalías. Mapa de gravedad de segunda derivadas.
+Interpretación Cuantitativa: Efectos gravíficos de
+cuerpos de geometría sencilla: La esfera, el cilindro
+horizontal, capa infinita de espesor constante.
+ 
+UNIDAD TEMÁTICA VII. MÉTODO MAGNÉTICO.
+ 
+
+Competencias específicas
+  Procedimentales/Instrumentales:
+
+     Elaboración e
+interpretación de planos y mapas topográficos,
+geológicos, temáticos y de ingeniería,
+Modelización de yacimientos: recursos mineros,
+energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+
+
+ 
+
+
+Competencias específicas
+  Aptitudinales/Actitudinales:
+
+    Capacidad de interrelacionar todos los
+conocimientos adquiridos, Capacidad de adaptarse a la
+evolución tecnológica y Capacidad para organizar,
+interpretar, asimilar y elaborar la información, Capacidad
+para desarrollar investigación aplicada en el ámbito
+de formación. 
+ 
+TEMA 27.- Principios básicos del método.
+Introducción. Generalidades. Propiedades
+magnéticas de las rocas. Medición de la
+susceptibilidad y la remanencia. Posibilidad de utilizar la
+susceptibilidad para deducir las estructuras del subsuelo.
+Aplicaciones.
+El campo geomagnético. Campo interno. Variación
+secular. Campo externo. Variación diurna. Descripción
+del campo total.
+Instrumentos: Balanza magnética. Magnetómetros.
+Calibración y funcionamiento.
+ 
+TEMA 28.- Trabajo de campo.
+Fases del trabajo de campo. Planteamiento. Toma de datos sobre
+el terreno. Cálculo.
+Interpretación Cualitativa: Anomalías producidas
+por cuerpos de varias dimensiones.
+Interpretación Cuantitativa: Preparación de datos.
+Separación regional y residual. Interpretación por
+estimadores y ábacos.
+ 
+TEMA 29.- Prospección aereomagnética.
+Características del método aéreo. Toma de
+datos. Interpretación.
+ 
+UNIDAD TEMÁTICA VIII. MÉTODOS
+RADIOMÉTRICOS.
+ 
+
+Competencias específicas
+  Procedimentales/Instrumentales:
+
+     Elaboración e
+interpretación de planos y mapas topográficos,
+geológicos, temáticos y de ingeniería,
+Modelización de yacimientos: recursos mineros,
+energéticos, hidrogeológicos, Diseño,
+ejecución e interpretación de campañas de
+sondeos de investigación de recursos naturales.
+
+ 
+
+
+Competencias específicas
+  Aptitudinales/Actitudinales:
+
+    Capacidad de interrelacionar todos los
+conocimientos adquiridos, Capacidad de adaptarse a la
+evolución tecnológica y Capacidad para organizar,
+interpretar, asimilar y elaborar la información, Capacidad
+para desarrollar investigación aplicada en el ámbito
+de formación. 
+ 
+TEMA 30.- Prospección radiométrica.
+Radioactividad natural. Tipos de radiaciones. Efectos. Elementos
+radiactivos y minerales asociados a estos. Contador Geiger-Muller.
+Escintilómetro. Detección. Prospección
+radiométrica de superficie aérea.
+ 
+ 
+PROGRAMA DE PRÁCTICAS DE PROSPECCIÓN
+GEOFÍSICA
+ 
+PRÁCTICAS DE LABORATORIO
+ 
+PRÁCTICA Nº 1.- Estudio de curvas teóricas de
+Sondeos Eléctricos Verticales.
+Objeto: Determinar las resistividades y los espesores de curvas
+teóricas de dos, tres y cuatro capas de la colección
+Orellana.
+Material: - Colección de curvas de Orellana.
+Gráficos auxiliares.
+
+              
+- Hojas Bilogarítmicas (módulo 62,5 mm)
+
+              
+- Hojas transparentes para S.E.V.
+
+              
+- Material diverso de escritorio.
+ 
+PRÁCTICA Nº 2.- Instrumentación y
+mantenimiento.
+Objeto: Aprendizaje por parte del alumno del manejo del
+instrumental de campo, de su revisión y mantenimiento.
+Realizar antes de las salidas al campo una revisión de
+todo el equipo utilizando el polímetro, así como un
+inventario de lo que se va a llevar al campo.
+Material: - Instrumental de campo. (Equipo Geotron C.C.,
+electrodos,  carretes,
+
+                
+pilas, convertidor, etc.)
+
+              
+- Polímetro.
+
+            
+  - Caja de herramientas. (alicates, cables, conexiones
+etc).
+ 
+PRÁCTICA Nº 3.- Interpretación de curvas de
+campo de S.E.V.. Cortes geoeléctricos.
+Objeto: - Representación de la curva.
+
+            
+- Comentar la calidad de la curva.
+
+            
+- Reconocer el tipo de curva.
+
+            
+- Determinar las resistividades y espesores.
+
+            
+- Realización de los cortes geoeléctricos.
+Material: - Estadillos para S.E.V. (con las anotaciones de
+campo).
+
+              
+- Hojas bilogarítmicas (módulo 62,5 mm y
+transparencias para
+
+                 
+S.E.V..
+
+              
+- Papel milimetrado.
+
+              
+- Colección de curvas de Orellana-Gráficos
+auxiliares.
+
+              
+- Material diverso de escritorio.
+ 
+PRÁCTICA Nº 4.- Estudio de curvas de campo de
+calicatas eléctricas.
+Objeto: Representación e interpretación de
+perfiles de calicatas eléctricas.
+Material: - Abacos de Blokh.
+
+              
+- Papel semilogarítmico.
+
+              
+- Hojas transparentes.
+
+              
+- Material diverso de escritorio.
+ 
+PRÁCTICA Nº 5.- Estudio e interpretación de
+curvas tiempo-distancia de perfiles de refracción.
+Objeto: 1) Determinar las velocidades y profundidades de los
+refractores para unas   determinadas dromocronas.
+
+            
+2) Interpretar curvas obtenidas en el campo.
+
+               
+- Definir los tiempos de primeras llegadas en el sismograma.
+
+               
+- Dibujar en unos ejes cartesianos los valores obtenidos en el
+campo
+
+               
+- Construir la dromocrona.
+
+               
+- Observar el número de capas existentes y su
+buzamiento.
+
+               
+- Calcular las velocidades y profundidades de los refractores.
+Material: - Perfiles teóricos.
+
+              
+- Hojas de campo de refracción.
+
+              
+- Registros permanentes. (sismograma).
+
+              
+- Papel milimetrado.
+
+              
+- Calculadora.
+
+              
+- Material diverso de escritorio.
+ 
+PRÁCTICA Nº 6.- Práctica de métodos
+gravimétricos.
+ 
+Objeto: 1) Realizar la corrección topográfica de
+un mapa base con datos de
+gravedad,                         
+       previamente dibujada la
+plantilla a partir de los datos de la tabla de Hammer.
+
+            
+2) Interpretación de diferentes mapas de anomalías de
+Bouguer, eliminación de la    
+anomalía regional,  comparación de la
+anomalía con modelos teóricos.
+Material: - Mapa de datos de gravedad.
+
+              
+- Tabla de Hammer.
+
+              
+- Papel transparente.
+
+              
+- Estadillos con datos de estaciones y anomalías.
+
+              
+- Mapas de Bouguer.
+
+              
+- Calculadora. Material diverso de escritorio.
+ 
+PRÁCTICAS DE CAMPO.
+ 
+MÉTODOS ELÉCTRICOS.
+ 
+PRÁCTICA Nº 1.- Realización de S.E.V. 
+AB = 200 m y AB = 1.000 m.
+Objeto: - Determinar los espesores del recubrimiento hasta
+llegar al granito en la zona de la Garza.
+
+            
+- Realización de otros S.E.V. con fines
+hidrogeológicos en diferentes zonas.
+ 
+PRÁCTICA Nº 2.- Calicatas eléctricas.
+Dispositivos Schlumberger.
+Objeto: Empleo de calicata eléctricas para el seguimiento
+de filones, fallas, contactos subverticales, etc.
+Material: - Equipo Geotron de c.c. (Amperímetro y
+voltímetro)
+
+              
+- Convertidor de c.c.
+
+              
+- Electrodos de acero e impolarizables.
+
+              
+-  Carretes de cable de 500 m, con doble aislamiento.
+
+              
+- Caja de herramientas, mesa, silla, etc.
+
+              
+- Brújula.
+
+              
+- Estadillos para S.E.V. y C.E.
+
+              
+- Hojas bilogarítmicas (módulo 62,5 mm)
+     
+ 
+MÉTODOS SISMICOS
+ 
+PRÁCTICA Nº 3.- Sísmica de
+refracción.
+Objeto: Empleo del equipo de sísmica de refracción
+para la determinación de la roca firme bajo
+recubrimiento.
+Material: - Sismograma Nimbus ES-125 de un solo canal.
+
+              
+- Registrador de banda Er-100-.
+
+              
+- Geófonos.
+
+              
+- Martillo con acelerómetro.
+
+              
+- Carrete de cable.
+ 
+             -
+Papel milimetrado.
+
+              
+- Calculadora.
+
+              
+- Caja de herramientas, mesa, silla, etc.
+ 
+ 
+'

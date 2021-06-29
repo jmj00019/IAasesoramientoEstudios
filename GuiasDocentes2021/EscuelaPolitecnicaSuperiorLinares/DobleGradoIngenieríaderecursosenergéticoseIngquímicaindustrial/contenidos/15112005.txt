@@ -1,0 +1,254 @@
+'
+
+GENERALIDADES
+TRANSMISORES
+ELEMENTOS FINALES DE CONTROL (I)
+ELEMENTOS FINALES DE CONTROL (II)
+ELEMENTOS FINALES DE CONTROL (III)
+DIMENSIONADO DE LAS VÁLVULAS DE CONTROL.
+REGULACIÓN AUTOMÁTICA
+MODOS DE REGULACIÓN (I)
+MODOS DE REGULACIÓN (II)
+MODOS DE REGULACIÓN (III)
+APLICACIONES INDUSTRIALES
+
+
+
+PARTE A: 
+  
+
+CONTROL DE PROCESOS
+  QUÍMICOS
+
+
+
+TEMA 1.-
+  GENERALIDADES
+
+
+Introducción.
+  Conceptos y definiciones básicas: proceso de medida,
+  componentes de un sistema de control, clasificación de los
+  instrumentos de medida, la transmisión de la media
+  (codificación de la información). Diagrama de
+  tuberías e instrumentación.
+  Bibliografía.
+
+
+
+TEMA 2.-
+  TRANSMISORES
+
+
+Introducción
+  a los transmisores. Tipos de transmisores: transmisores
+  neumáticos, transmisores electrónicos, transmisores
+  digitales. Comparativa de transmisores.
+  Bibliografía. 
+
+
+
+TEMA 3.-
+  INTRODUCCIÓN A LOS CONTROLADORES
+
+
+Definiciones
+  básicas. Lazo de control. Tipos de control.
+  Selección de un controlador PID. Reglas de
+  sintonización de un controlador PID.
+  Bibliografía.
+
+
+
+TEMA 4.-
+  MODELADO DEL COMPORTAMIENTO DINÁMICO DE UN PROCESO
+  QUÍMICO
+
+
+Introducción.
+  Consideraciones generales relacionadas con procesos
+  matemáticos. Ejemplos de modelos dinámicos de
+  procesos químicos. Bibliografía. 
+
+
+
+TEMA 5.-
+  ANÁLISIS DINÁMICO DE PROCESOS EN EL DOMINIO
+  TIEMPO
+
+
+Introducción.
+  Linealización de modelos dinámicos de procesos
+  químicos. Sistemas de primer orden. Sistemas de segundo
+  orden. Sistemas de orden superior. Bibliografía.
+
+
+
+TEMA 6.-
+  ANÁLISIS DINÁMICO EN EL DOMINIO DE LAPLACE.
+  FUNCIONES DE TRANSFERNCIA
+
+
+Introducción.
+  Transformada de Laplace. Resolución de ecuaciones
+  diferenciales lineales. Funciones de transferencia y modelos de
+  entrada y salida. Funciones de transferencia de sistemas de
+  parámetros distribuidos. Análisis cualitativo del
+  comportamiento dinámico de un sistema y concepto de
+  estabilidad. Diagramas de bloques. Reducción de modelos de
+  funciones de transferencia. Bibliografía.
+
+
+
+TEMA 7.-
+  ANÁLISIS DINÁMICO EN EL DOMINIO DE
+  FRECUENCIA
+
+
+Introducción.
+  Respuesta en frecuencia. Respuesta en frecuencia de sistemas
+  basados en varias funciones. Bibliografía.
+
+
+
+TEMA 8.-
+  MODELOS EMPÍRICOS PARA CONTROL DE PROCESOS
+
+
+Introducción.
+  Metodología general. Método de la curva de
+  reacción. Bibliografía.
+
+
+
+TEMA 9.-
+  SINTONIZACIÓN DE CONTROLADORES PID
+
+
+Introducción.
+  Criterios de calidad de respuesta. Selección del tipo de
+  controlador y su sintonización. Métodos
+  empíricos de sintonización de controladores.
+  Bibliografía.
+
+
+
+PARTE B.- 
+  
+
+INSTRUMENTACIÓN
+  DE PROCESOS QUÍMICOS
+
+
+
+TEMA 10.-
+  ELEMENTOS FINALES DE CONTROL. VÁLVULAS DE
+  CONTROL
+
+
+Introducción
+  a los elementos finales de control. Partes de una válvula.
+  Tipos de válvulas de control. Característica
+  inherente de una válvula. Dimensionamiento de una
+  válvula. Criterios de dimensionamiento. Cavitación.
+  Ruido en válvulas. Controlador en válvulas.
+  Bibliografía.
+
+
+
+TEMA 11.-
+  SENSORES DE TEMPERATURA
+
+
+Introducción.
+  Factores involucrados en la medición de la
+  temperatura. Tipos de sensores de
+  temperatura. Comparativa de los sensores de temperatura.
+  Bibliografía.
+
+
+
+TEMA 12.-
+  SENSORES DE NIVEL
+
+
+Introducción.
+  Conceptos generales. Clasificación de los sensores de
+  nivel. Comparativa de los sensores de nivel.
+  Bibliografía.
+
+
+
+TEMA 13.-
+  SENSORES DE CAUDAL
+
+
+Medida de
+  caudal. Clasificación de los sensores de caudal.
+  Elección de un sensor de caudal.
+  Bibliografía.
+
+
+
+TEMA 14.-
+  SENSORES DE PRESIÓN
+
+
+Concepto de
+  presión y unidades. Tipos de sensores de presión.
+  Accesorios de los manómetros. Criterios de elección
+  de un medidor de presión.
+  Bibliografía. 
+
+
+
+
+SEMINA
+RIO I
+
+:
+Exposición de
+trabajos sobre Instrumentación.
+
+
+
+SEMINARIO II : Introducción a los
+  sensores. Aplicaciones.
+
+
+
+
+
+PRÁCTICAS DE
+  LABORATORIO
+
+
+
+
+Práctica 1:
+    Determinación experimental de los parámetros de
+    un controlador PID
+
+
+
+Práctica 2:
+    LLenado del depósito B101 del equipo de
+    control
+
+
+
+Práctica 3:
+    Control automático de caudal
+
+
+
+Práctica 4:
+    Control automático de presión
+
+
+
+Práctica 5:
+    Control automático de nivel
+
+
+'

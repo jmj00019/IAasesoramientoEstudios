@@ -1,0 +1,33 @@
+'
+
+Conceptos básicos sobre proyectos en Química.
+Tipos de proyectos. Evaluación económica de
+proyectos. Estudio medioambiental y de seguridad.
+Elaboración de informes. Partes de un proyecto. Proyectos
+químico-industriales. Proyectos
+químico-investigadores. Elaboración de un
+anteproyecto.
+
+Tema 1. INTRODUCCIÓN.
+Definición de proyecto. Tipos de proyectos. Proyectos
+industriales. Proyecto investigador.
+Tema 2. REDACCIÓN DE
+PROYECTOS. Estudios previos. Anteproyecto o estudio de viabilidad.
+Ciclos del proyecto. Documentos de un proyecto. Elaboración
+de alternativas o procesos. Diagramas de flujo. Balances de materia
+y energía. Selección y dimensionamiento de
+equipos.
+Tema 3. CONCEPTOS BÁSICOS DE
+ECONOMÍA I. Introducción. Estimación del
+capital inmovilizado y circulante. Estimación de los costes
+de producción.
+Tema 4. CONCEPTOS BÁSICOS DE
+ECONOMÍA II. Estimación de las ventas. Métodos
+para la evaluación de inversiones. La rentabilidad.
+Tema 5. ASPECTOS LEGALES,
+AMBIENTALES Y DE SEGURIDAD. Aspectos legales. Aspectos
+medioambientales. Aspectos de seguridad. Otros aspectos.
+Tema 6. GESTIÓN DE
+PROYECTOS. Introducción. Programación del proyecto.
+Programación basada en las redes PERT/CPM.
+'

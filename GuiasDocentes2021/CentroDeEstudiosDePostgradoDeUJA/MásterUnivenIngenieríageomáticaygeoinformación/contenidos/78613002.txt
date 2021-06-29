@@ -1,0 +1,83 @@
+'
+
+
+Fundamentos de Teledetección. Leyes de la
+  radiación. Espectro electromagnético. Sensores y
+  plataformas.
+Teledetección hiperespectral. Sensores.
+  Clasificación e índices hiperespectrales.
+  Aplicaciones.
+Teledetección en la banda térmica del espectro.
+  Calibración. Aplicaciones.
+Fundamentos del RADAR. Plataformas espaciales, RADAR
+  aerotransportado y terrestre. SAR. Aplicaciones.
+Interferometría de RADAR (InSAR) e
+  Interferometría Diferencial (DInSAR). Aplicaciones.
+
+
+
+
+
+1.
+  Fundamentos de Teledetección
+
+
+Radiacción
+  electromagnética. Espectro electromagnético.
+  Radiancia. Leyes de la radiación. Interacción con
+  la materia y la atmósfera. Signatura espectral. Sensores y
+  plataformas.
+
+
+
+2.
+  Teledetección hiperespectral.
+
+
+Sensores
+  hiperespectrales aerotransportados y satelitales. Correcciones
+  atmosféricas. Indices hiperespectrales. Clasificaciones
+  hiperespectrales. Aplicaciones de la teledetección
+  hiperespectral.
+
+
+
+3.
+  Teledetección en la banda térmica del
+  espectro.
+
+
+El
+  espectro de emisión. Emisividad de los cuerpos.
+  Correcciones atmosféricos. Calibración de sensores
+  térmicos. Aplicaciones de la teledetección
+  térmica.
+
+
+
+4.
+  Fundamentos del RADAR.
+
+
+Interacción
+  entre la radiación y la superficie. Principios del radar.
+  Propiedades de la señal. Radares de apertura real. Radares
+  de apertura sintética (SAR). Sensores de radar no
+  formadores de imágenes. Programas especiales. Radar
+  aerotransportado y terrestre. Aplicaciones de los sistemas RADAR
+  a la observación terrestre.
+
+
+
+5.
+  Interferometría de RADAR
+
+
+Interferometría
+  de Radar (InSAR). Registro de las imágenes radar.
+  Creación de interferogramas. MDE obtenidos con InSAR.
+  Decorrelación y efectos atmosféricos. Principios de
+  la Interferometría Diferencial (DInSAR).
+  Aplicaciones.
+
+'

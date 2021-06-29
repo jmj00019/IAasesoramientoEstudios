@@ -1,0 +1,220 @@
+'
+
+Forma de la Tierra. Sistemas de referencia, ISO 6709.
+Geometría diferencial de superficies.
+Normativas ISO sobre Sistemas de Referencia y Proyecciones.
+EPSG.
+Proyecciones planas o perspectivas
+Desarrollos cónicos y cilíndricos
+UTM. Cuadrícula UTM. Transformaciones de coordenadas.
+Cónica Confome de Lambert.
+Ajustes cartográficos
+
+
+
+
+PROGRAMA DE LA ASIGNATURA
+  DETALLADO
+
+ 
+
+
+PROGRAMA DE
+  TEORÍA
+
+
+
+Objetivos: Adquirir conocimientos y habilidades
+  generales sobre sistemas de referencia, proyecciones y
+  métodos de cambio entre ellos.
+
+
+
+Tema 1: Introducción.
+
+
+Forma de la Tierra
+  (Introducción. Geoide. Elipsoide. Coordenadas
+  geográficas. Datum. Concepto de proyecciones. Escala de
+  los mapas. Sistemas de referencia). Factor de escala como base de
+  la Cartografía Matemática
+
+
+
+Tema 2. Normativas ISO sobre Sistemas de Referencia y
+  Proyecciones. EPSG.
+
+Entidades dedicadas a la normalización. 
+ISO 19111, 19112, 6709, etc.
+Sistema EPSG
+
+
+Tema 3. Introducción a los cambios de Sistemas de
+  Referencia y Proyección. Ajustes
+  Cartográficos.
+
+
+Cambios de sistemas de
+  referencia y de proyección. Cambios desarrollados por la
+  EPSG. Ajustes cartográficos (Ajustes 2D, Rubber Sheeting,
+  ...).
+
+
+
+Tema 4. Geometría diferencial.
+
+
+Geometría diferencial de
+  superficies (Módulos de deformación. Elipse
+  indicatriz de Tissot. Propiedades de las proyecciones.
+  Parámetros de las proyecciones. Clasificación
+  según propiedades y geometría).
+
+
+
+Tema 5. Proyecciones (Planas, Desarrollos).
+  UTM.
+
+
+Proyecciones planas o
+  perspectivas (acimutales, escenográfica, gnomónica,
+  estereográfica, ortográfica).
+
+
+Desarrollos (Cónicos,
+  proyección cónica conforme de Lambert.
+  Cilíndricos. Proyección cilíndrica conforme
+  de Mercator).
+
+
+UTM (convergencia de meridianos,
+  factor de escala, cuadrícula UTM, transformaciones de
+  coordenadas, etc.).
+
+
+ 
+
+
+
+PROGRAMA DE PRÁCTICAS
+
+
+
+Objetivo 1: Conocer dónde encontrar
+  ayudas y apoyo en problemas de cartografía
+  matemática
+
+
+Conocer dónde encontrar
+  ayuda: Enlaces web, normativa ISO. Modelos de geoide y
+  estándares. Metadatos información sobre
+  proyecciones y sistemas de referencia más comunes.
+
+
+
+Objetivo 2: Saber resolver los casos usuales en
+  cartografía matemática
+
+
+Resolver los problemas directo e
+  inverso. Problema directo. Problema inverso. Problema directo
+  para las proyecciones y sistemas de referencia oficiales de
+  España. Problema inverso para las proyecciones y sistemas
+  de referencia oficiales de España.
+
+
+
+Objetivo 3: Saber cuantificar las deformaciones
+  de una proyección cartográfica y relacionarlos para
+  la elección de una proyección adecuada.
+  
+
+
+Cuantificar deformaciones.
+  Determinación de la deformación superficial.
+  Determinación de la deformación lineal.
+  Determinación de la deformación angular.
+
+
+
+Objetivo 4: Trabajar con conjuntos de datos
+  puntuales.
+
+
+Aplicar diversos métodos:
+  Aplicación de transformaciones polinómicas a datos
+  puntuales. Determinación de los parámetros de
+  transformación desde datos puntuales. Aplicación de
+  transformaciones rubber sheeting a datos puntuales.
+  Determinación de los parámetros de
+  transformación rubber sheeting desde datos
+  puntuales.
+
+
+
+Objetivo 5: Implementar diversos problemas de la
+  Cartografía Matemática
+  
+
+
+Implementación del
+  problema directo y comprobación para las proyecciones
+  oficiales. Implementación del problema inverso y
+  comprobación para las proyecciones oficiales.
+  Implementación de las transformaciones polinómicas
+  sobre datos puntuales (determinación de parámetros
+  y transformaciones).
+
+
+ 
+
+
+Estos objetivos se
+  desarrollarán en las siguientes prácticas:
+
+
+
+Introducción. Enlaces
+    web, explicación de la normativa ISO, etc. Modelos de
+    geoide y estándares. Metadatos información sobre
+    proyecciones y sistemas de referencia más
+    comunes.
+
+
+Problema directo y 
+    Problema inverso. Implementacion.
+
+
+Aplicación de
+    transformaciones polinómicas a datos puntuales y
+    determinación de los parámetros de
+    transformación desde datos puntuales.
+    Implementación.
+
+
+Aplicación de
+    transformaciones rubber sheeting a datos puntuales y
+    determinación de los parámetros de
+    transformación rubber sheeting desde datos puntuales.
+    Implementación.
+
+
+Determinación de la
+    deformación superficial, la deformación lineal y
+    la deformación angular. Aplicaciones
+    prácticas.
+
+
+En esta asignatura se realiza un aprendizaje basado en proyectos
+en coordinación con las asignaturas de este grado:
+Cartografía, Cartografía Matemática Sistemas
+de Ifnormación Geográfica e Infraestructura de Datos
+Espaciales. En particular, en el curso 2018/2019 se concedió
+un Proyecto de Innovación Docente solicitado y coordinado
+por profesores del Departamento de Ingeniería
+Cartográfica, Geodésica y Fotogrametría,
+titulado: PRODATO: UN CONJUNTO DE PRACTICAS DE CARTOGRAFIA
+ENLAZADAS PARA LOS ESTUDIANTES DEL GRADO EN GEOMATICA Y TOPOGRAFIA
+para la realización de un aprendizaje basado en
+proyectos.
+'

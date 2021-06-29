@@ -1,0 +1,91 @@
+'
+
+Mecánica. Fenómenos de transporte y
+Termodinámica. Electricidad y Magnetismo. Óptica.
+Radiación y radiactividad.
+
+Tema 1: INTRODUCCIÓN
+Relación de la Física con la Biología.
+Patrones de medida y sistemas de unidades. Análisis
+dimensional. Leyes de escala: tamaño, forma y vida Escalares
+y vectores.  
+TEMA 2 CINEMÁTICA
+Vector posición. Vector velocidad. Vector
+aceleración. Clasificación de los movimientos.
+Composición de movimientos. Movimiento relativo. El oido
+TEMA 3: DINÁMICA
+Fuerza. Leyes de Newton. Sistemas de partículas. Centro
+de masas. Cantidad de movimiento: teorema de conservación.
+Momento cinético: teorema de conservación.
+Sólido rígido.
+TEMA 4: ESTÁTICA
+Equilibrio de traslación. Momento de una fuerza.
+Equilibrio de rotación. Estabilidad
+TEMA 5: TRABAJO Y ENERGÍA
+Trabajo y potencia mecánica. Energía
+cinética. Fuerzas conservativas. Energía potencial.
+Energía potencial gravitatoria. Energía potencial
+elástica. Conservación de la energía
+mecánica. La energía en los seres vivos.
+TEMA 6: INTRODUCCIÓN A LA TERMODINÁMICA
+Temperatura y calor. Equilibrio térmico. Escala de
+temperaturas. Trabajo. Primera ley de la termodinámica:
+energía interna. Procesos termodinámicos.
+Irreversibilidad. Concepto de entropía. La segunda ley en
+biología.
+TEMA 7: ELASTICIDAD
+Esfuerzo y deformación. Compresión y
+tracción. Esfuerzo tangencial. Esfuerzo de torsión.
+Elasticidad del DNA y las proteínas.
+TEMA 8: ESTÁTICA DE FLUIDOS
+Concepto de fluido. Presión y densidad. Ecuación
+fundamental de la estática de fluidos. Principio de Pascal.
+Principio de Arquímedes. Equilibrio de cuerpos sumergidos y
+flotantes.
+TEMA 9: DINÁMICA DE FLUIDOS
+
+Líneas de corriente: ecuación de continuidad.
+Teorema de Bernouilli. Aplicaciones del Teorema de Bernouilli.
+Viscosidad. Pérdida de carga de una conducción.
+Régimen laminar: ley de Poiseuille. El corazón.
+TEMA 10. FENÓMENOS DE SUPERFICIE 
+Tensión superficial. Presión debida a la
+curvatura: ley de Laplace. Capilaridad y ángulo de contacto.
+Ósmosis. Difusión. Transporte a través de
+membranas biológicas. Intercambio gaseoso en los
+pulmones.
+TEMA 11: NOCIONES DE ELECTRICIDAD Y MAGNETISMO
+Carga eléctrica. Ley de Coulomb. Concepto de Campo
+eléctrico. Dipolo eléctrico. Potencial. Corriente
+eléctrica: ley de Ohm. Resistencia. Fuerza electromotriz.
+Condensador. Campo magnético. Movimiento de
+partículas cagadas en un campo magnético:
+aplicacaciones.
+TEMA 12: POTENCIALES BIOELÉCTRICOS
+Trasporte de iones a través de la membrana celular.
+Ecuación de Nerst. Potencial de membrana. Equilibrio Donnan.
+Bomba de Sodio-Potasio. El impulso nervioso: potencial de
+acción.
+TEMA 13: PRINCIOS DE ÓPTICA GEOMÉTRICA
+Propagación de la luz. Índice de
+refracción. Dispersión. Leyes de Snell.
+Reflexión total. Dióptrio plano. Espejos. Lentes
+delgadas. El ojo.
+TEMA 14: RADIACIÓN Y RADIOACTIVIDAD
+Introducción a la Física Atómica y Nuclear.
+Radiación ionizante. Dosimetría.
+Prácticas:
+
+Estática: Estudio de un sistema en equilibrio
+  estático. 2. Elasticidad: Determinación de la
+  constante elástica de un muelle. 3. Fluidos:
+  Determinación de la viscosidad de un fluido.
+  Determinación de la densidad de un sólido. 4.
+  Termodinámica: Determinación del coeficiente de
+  dilatación de un líquido. 5. Óptica:
+  Determinación de la distancia focal de una lente
+  convergente. 6. Radioactividad: Determinación de la
+  radiación ambiental de fondo.
+
+ 
+'

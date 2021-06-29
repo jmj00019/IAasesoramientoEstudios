@@ -1,0 +1,102 @@
+'
+
+Bloque I.
+Panorama energético actual: Sostenibilidad
+Bloque II.
+Energía solar fotovoltaica y térmica: La
+célula solar, sistemas fotovoltaicos, energía solar
+térmica de baja y media temperatura
+Bloque III.
+Electrónica de potencia: Dispositivos de
+electrónica de potencia, Convertidores de energía
+Bloque IV.
+Amplificación: Concepto y tipos. Amplificación
+de baja y media potencia, Implementación de filtros activos.
+Bloque V.
+Fundamentos de electrotecnia: Fundamentos y máquinas
+eléctricas
+
+
+
+TEORíA y PRÁCTICA
+
+
+Módulo
+  I:  AO, Realimentación, Circuitos no lineales y
+  Osciladores, Adaptación de sensores
+
+
+
+Tema 1: El amplificador
+    operacional real
+
+
+Tema 2: Realimentación.
+    Circuitos no Lineales. Osciladores
+
+
+Tema 3: Adaptación de
+    sensores. Usos del amplificador operacional
+
+
+
+ 
+Módulo II: Energías
+renovables
+
+
+Tema 4: Sostenibilidad.
+    Energías Renovables. Panorama Energético
+    Actual
+
+
+Tema 5: Energía Solar.
+    Energía Fotovoltaica. Sistemas FV
+    autónomos
+
+
+
+
+ Módulo
+  III: Fuentes de alimentación regulada, Dispositivos de
+  electrónica de Potencia
+
+
+
+Tema 6: Fuentes de
+    alimentación regulada
+
+
+Tema 7: Dispositivos de
+    electrónica de potencia
+
+
+
+
+ Módulo
+  IV: Respuesta en frecuencia. Filtros activos
+
+
+
+Tema
+    8: Respuesta en frecuencia
+
+
+Tema 9: Dispositivos de
+    electrónica de potencia
+
+
+
+
+ Módulo
+  V: Fundamentos de electrotecnia y máquinas
+  eléctricas
+
+
+
+Tema 10: Fundamentos de
+    electrotecnia. Máquinas eléctricas
+
+
+ 
+'

@@ -1,0 +1,112 @@
+'
+
+1.- Leyes y Conceptos Fundamentales.
+2.- Estructura de la Materia
+3.- Transformaciones Químicas de la Materia
+4.- Química Aplicada
+
+
+PROGRAMA DE
+  TEORÍA:
+
+TEMA 1. CONCEPTOS Y LEYES FUNDAMENTALES DE LA QUÍMICA
+Concepto de Ciencia .Objeto, importancia y clasificación
+de la Química. Clasificación de la materia. Leyes
+fundamentales de las transformaciones químicas.
+Teoría atómica de Dalton. Símbolos y
+fórmulas. Formulación y nomenclatura de los
+compuestos orgánicos. Concepto de mol, número de
+Avogadro, volumen molar. Determinación de fórmulas
+empíricas y moleculares. Cálculos
+estequiométricos.
+TEMA 2. ESTRUCTURA DEL ÁTOMO: NUCLEO ATÓMICO
+Partículas elementales: el electrón, el
+protón y el neutrón. Modelo atómico de
+Rutherford. Número atómico y número
+másico. Isótopos e Isóbaros. Estabilidad
+nuclear. Radiactividad natural. Cinética de la
+desintregración radiactiva.
+TEMA 3. ESTRUCTURA ELECTRÓNICA. PROPIEDADES
+PERIÓDICAS. CLASIFICACIÓN PERIÓDICA DE LOS
+ELEMENTOS.
+Interacción materia y energía. Espectros
+atómicos. Modelo atómico de Börh. Estructura
+extranuclear del átomo según la mecánica
+onduatoria: Dualismo Onda-partícula de la materia. Principio
+de Incertidumbre de Heinsemberg. Orbitales atómicos. Base
+electrónica de la clasificación periódica.
+Descripción de la tabla periódica actual. Propiedades
+periódicas.
+TEMA 4. ENLACE QUÍMICO: IÓNICO, COVALENTE Y
+METÁLICO. FUERZAS INTERMOLECULARES.
+Enlace iónico. Redes cristalinas. Energía
+reticular. Naturaleza del enlace covalente. Estructuras de Lewis y
+regla del octeto. Teoría del enlace de valencia.
+Hibridación de orbitales atómicos. Teoría de
+Orbitales Moleculares. Orden y estabilidad del enlace. Polaridad
+del enlace covalente. Resonancia. Teoría de bandas en
+metales. Fuerzas intermoleculares.
+TEMA 5. ESTADOS DE AGREGACIÓN DE LA MATARIA. CAMBIOS DE
+ESTADO.
+Estado sólido. Estado gaseoso. Las leyes de los gases
+ideales. gases reales. teoría cinético-molecular de
+los gases. Estado líquido. Propiedades de los
+líquidos. cambios de estado. regla de las fases. Diagramas
+de fases. Otros materiales.
+TEMA 6. SISTEMAS DISPERSOS. DISOLUCIONES. PROPIEDADES
+COLIGATIVAS DE LAS DISOLUCIONES.
+Sistemas dispersos. Clasificación. Concepto de
+disolución. Solubilidad. Disoluciones ideales y no ideales.
+Ley de Raoult. Ley de Henry. Propiedades Coligativas de las
+disoluciones que contienen solutos  no volátiles.
+TEMA 7. ESTUDIO TERMODINÁMICO DE LAS REACCIONES
+QUÍMICAS
+Definición de los términos de la
+termodinámica. Primer principio. Energía interna.
+Entalpía. Termoquímica. Ley de Hess. Espontaneidad,
+reversibilidad y equilibrio. Entropía. Segundo principio de
+la termodinámica y tercer principio de la
+termodinámica. Condiciones de equilibrio y espontaneidad a
+temperatura constante: funciones de Gibbs.
+TEMA 8. CINÉTICA QUÍMICA
+velocidad de las reacciones químicas. Reacciones
+elementales. Mecanismo de reacción. Ecuación general
+de la velocidad de reacción. Orden de reacción.
+teorías sobre la velocidad de las reacciones.
+Catálisis.
+TEMA 9. EQUILIBRIO QUÍMICO
+Concepto de equilibrio químico. Reacciones 
+reversibles. Estudio cinético del equilibrio. Estudio
+termodinámico del equilibrio. Constante de equilibrio.
+Influencia de la temperatura en la constante de equilibrio.
+Factores que afectan al equilibrio. Equilibrio en sistemas
+heterogéneos.
+TEMA 10. ELECTROQUÍMICA
+Reacciones de oxidación-reducción. Células
+electroquímicas. Potencial de electrodo. Potencial
+estándar de electrodo. Potencial de célula y
+energía libre. Potencial de célula y
+concentración. Ecuación de Nernst. Células
+voltaicas comerciales. Corrosión. Electrolisis. Procesos
+electrolíticos comerciales.
+
+PROGRAMA DE
+  PRÁCTICAS:
+
+PRÁCTICA 1.- Reconocimiento de material de
+laboratorio.
+PRÁCTICA  2.- Sustancias puras.
+PRÁCTICA  3.- Pesada de sólidos y
+líquidos.
+PRÁCTICA  4.- Mezcla y Combinación
+.Obtención  del sulfuro de hierro (II).
+PRÁCTICA   5.- Técnicas de Filtración
+y Cristalización.
+PRÁCTICA  6.- Preparación de
+disoluciones.
+PRÁCTICA  7.- Solubilidad.
+PRÁCTICA  8.- Volumetría.
+PRÁCTICA 9.- Determinación del Calor de
+Reacción.
+.
+'

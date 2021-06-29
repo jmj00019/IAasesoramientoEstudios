@@ -1,0 +1,91 @@
+'
+
+----
+Tablas de contingencia bidimensionales. Independencia y
+asociación
+Tablas de contingencia tridimensionales
+Modelos logarítmico-lineales
+----
+
+
+
+Introducción al
+    Análisis de Datos Cualitativos
+
+
+
+
+Introducción
+
+
+Distribución de
+        frecuencias observadas
+
+
+Diseños muestrales
+        usuales
+
+
+
+
+Análisis de tablas de
+  contingencia bidimensionales
+
+
+Independencia en tablas
+      bidimensionales
+
+
+Cocientes de ventajas
+
+
+Otras medidas de
+      asociación
+
+
+
+Análisis de tablas
+    cuadradas generadas por datos dependientes
+
+
+Tablas de contingencia
+  tridimensionales
+
+
+Modelos de independencia y
+      asociación en tablas tridimensionales
+
+
+Paradoja de Simpson
+
+
+
+Modelos
+    logarítmico-lineales
+
+
+
+
+Formulación e
+        interpretación de modelos
+
+
+Ajuste de modelos
+        log-lineales
+
+
+Selección de modelos
+        log-lineales
+
+
+Inferencia y bondad de
+        ajuste
+
+
+Modelos log-lineales
+        ordinales
+
+
+
+
+'

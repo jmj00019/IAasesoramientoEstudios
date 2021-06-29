@@ -1,0 +1,386 @@
+'
+
+En esta asignatura se estudiarán las tecnologías
+de la información y las comunicaciones, procesos y
+técnicas que se utilizan para proporcionar seguridad en los
+servicios telemáticos de mayor demanda e impacto. Entre
+otros aspectos se detallarán las técnicas para
+alcanzar comunicaciones que verifiquen autenticación entre
+partes, integridad y confidencialidad en el acceso a dichos
+servicios.
+En la parte práctica se analizarán,
+planificarán, diseñarán y/o
+implementarán medidas y soluciones de seguridad en servicios
+telemáticos de gran demanda.
+Palabras clave: administración electrónica,
+EDI, registro telemático, tecnologías web, entidades
+emisoras de certificados digitales, seguridad para IoT.
+
+
+Tema
+  1. Introducción a Administración
+  Electrónica
+
+
+
+Concepto
+    de Administración Electrónica
+
+
+Marco
+    regulador
+
+
+Retos
+    de la Administración Electrónica
+
+
+Principios
+    y Derechos
+
+
+La
+    Telemática en la Administración
+    Electrónica
+
+
+Desarrollo
+    e implantación de la Administración
+    Electrónica.
+
+
+
+Tema
+  2. Técnicas y principios básicos de seguridad de la
+  información.
+
+
+
+Introducción
+
+
+Criptografía
+
+
+Cifrado
+    simétrico
+
+
+Criptografía
+    de clave pública
+
+
+Autenticación
+
+
+Funciones
+    de resumen de mensaje (HASH)
+
+
+Certificados
+
+
+Firma
+    digital
+
+
+
+Tema
+  3. Infraestructuras y servicios telemáticos de la
+  Administración Electrónica
+
+
+
+Infraestructuras
+  Telemáticas de la AE
+
+
+Las
+      Redes Administrativas Telemáticas Transeuropeas
+
+
+La
+      red TESTA (TESTA II y sTESTA)
+
+
+La
+      red SARA
+
+
+
+DNIe
+
+
+Normativa
+      sobre el DNIe
+
+
+¿Qué
+      utilidad tiene?
+
+
+Características
+      físicas
+
+
+Características
+      electrónicas
+
+
+Desarrollo
+      de aplicaciones con el DNIe
+
+
+Certificados
+      presentes en el DNIe
+
+
+Sintaxis
+      de Transferencia ASN.1
+
+
+
+Firma
+  electrónica
+
+
+Tipos
+      de firma electrónica
+
+
+Gestión
+      de certificados
+
+
+Formatos
+      básicos de firma
+
+
+Formatos
+      avanzados de firma
+
+
+Plataforma
+      @firma.
+
+
+
+
+Tema
+  4. Servicios telemáticos en la sociedad
+
+
+
+Introduccion 
+
+
+Observatorio
+      de la administración electrónica.
+
+
+Otros
+      observatorios.
+
+
+
+Administracion,
+  comercio electrónico y facturación
+  electrónica.
+
+
+Algunos
+      datos.
+
+
+El
+      comercio Electrónico.
+
+
+La
+      factura electrónica.
+
+
+Pasarela
+      de pagos.
+
+
+Sistema
+      Cl@ave.
+
+
+
+Administración
+  electrónica y la sanidad.
+
+
+Servicios
+      existentes.
+
+
+Diraya-historia
+      clínica electrónica.
+
+
+
+La
+  Seguridad Social.
+
+
+Servicios
+      al ciudadano.
+
+
+Servicos
+      para la empresa.
+
+
+
+
+Tema
+  5. La seguridad en los medios inalámbricos
+
+
+
+Estándar
+  WiFI.
+
+
+Visión
+      general.
+
+
+Medidas
+      de seguridad
+
+
+Vulnerabilidades
+
+
+
+Sistemas
+    de seguridad externos.
+
+
+Auditorías
+
+
+
+ 
+
+
+
+Bloque
+  práctico
+
+
+El
+  bloque práctico de la asignatura se compone tanto de
+  prácticas en el laboratorio como de ejercicios guiados
+  (confección de informes).
+
+
+Las
+  prácticas podrán realizarse individualmente o,
+  preferiblemente, por parejas.
+
+
+A
+  continuación, aparecen las características
+  generales de las prácticas, las cuales serán
+  descritas con mayor detalle en el guion correspondiente.
+
+
+ 
+
+
+
+Práctica
+  1. Legislación.
+
+
+El
+  objeto de esta práctica es analizar la legislación
+  que cubre la Administración Electrónica del Estado
+  y legislación afín a la protección y uso de
+  la información y los servicios electrónicos. Pasos
+  de la práctica:
+
+
+Encontrar
+  las últimas normativas que regulen algún aspecto
+  nuevo de la Administración Electrónica (al menos
+  dos, de cualquier estamento, ya sea estatal, autonómico o
+  municipal)
+
+
+Analizar
+  los resultados por su importancia y área.
+
+
+Elaborar
+  un informe en el que se evalúen la repercusión,
+  tanto de uso, como técnica, que puede conllevar las normas
+  analizadas.
+
+
+
+ 
+
+
+
+Práctica
+  2. Acceso a un servicio de la Administración
+  Electrónica.
+
+
+El
+  objeto de esta práctica es que el alumno acceda, con sus
+  propios datos, a algún servicio de la
+  Administración Electrónica a través de su
+  certificado personal.
+
+
+
+Práctica
+  3. Implementación de un servicio básico de
+  autenticación con DNIe.
+
+
+El
+  objeto de esta práctica es que el alumno,
+  apoyándose en las APIs disponibles en el CTT (Centro de
+  Transferencia de Tecnología de la AE) para la
+  programación de servicios de la AE, implemente una
+  aplicación capaz de interactuar con el usuario a
+  través del DNIe para autenticarlo frente a un servidor
+  genérico.
+
+
+
+Práctica
+  4. Uso de certificados digitales para firmar
+  documentos.
+
+
+El
+  objeto de esta práctica es que el alumno,
+  apoyándose en los APIs disponibles en el CTT (Centro de
+  Transferencia de Tecnología de la AE) para la
+  programación de servicios de la AE, implemente una
+  aplicación capaz de firmar digitalmente un
+  documento.
+
+
+
+Práctica
+  5. Seguridad en redes inalámbricas.
+
+
+El
+  objeto de esta práctica es que el estudiante sea capaz de
+  añadir mecanismos de seguridad en redes
+  inalámbricas tanto en el ámbito de las redes WIFI
+  como en una red IoT del tipo Zigbee.
+
+ 
+'

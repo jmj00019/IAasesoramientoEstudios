@@ -1,0 +1,206 @@
+'
+
+
+Mercados
+  de energía eléctrica. Participación de las
+  renovables en los mercados.
+
+
+Dinámica
+  de sistemas de potencia con generación distribuida.
+  Contribución de la generación renovable a los
+  servicios complementarios. Impacto de la generación
+  renovable en la estabilidad del sistema eléctrico.
+
+
+Almacenamiento
+  energético para integración de renovables.
+
+
+Integración
+  en la red de sistemas fotovoltaicos.
+
+
+Integración
+  en la red de sistemas eólicos.
+
+
+Temas
+  avanzados de integración en red.
+
+
+
+
+Tema 1.
+  Mercado eléctrico
+
+ 
+ 
+   
+
+-
+Mercados de
+energía eléctrica.
+
+-
+  Participación de las renovables en los mercados.
+
+
+ 
+
+
+
+Tema
+    2. Integración de energías renovables.
+
+ 
+ 
+     
+   - Dinámica de sistemas de potencia con
+  generación distribuida.
+
+
+-
+  Contribución de la generación renovable a los
+  servicios complementarios.
+
+
+- Impacto de la
+  generación renovable en la estabilidad del sistema
+  eléctrico.
+
+
+
+ 
+
+
+
+
+Tema
+    3. Sistemas distribuidos de Almacenamiento de
+    Energía
+
+
+
+-Tipos
+  de almacenamiento energético para integración de
+  renovables.
+
+
+ 
+
+
+
+Tema
+    4. Energía solar Fotovoltaica.
+
+
+
+-
+  Introducción a los sistemas fotovoltaicos.
+
+
+-
+Integración a red de sistemas fotovoltaicos.
+
+
+
+
+
+ 
+
+
+Tema 5.
+  Energía solar Eólica.
+
+ 
+  
+
+ 
+
+
+
+ -
+
+Introducción
+a los sistemas eólicos.
+
+ -
+Integración
+a red de sistemas eólicos.
+ 
+  
+
+ 
+
+
+
+Tema
+  6. Temas avanzados de integración en
+  red  
+
+ 
+
+
+
+
+
+ -
+El vehículo eléctrico en la red.  
+  - Gestión activa de la demanda. 
+   
+
+
+ 
+
+
+
+
+Relación de
+  Prácticas
+
+
+
+Nº 1: 
+  Introducción
+  funcionamiento del software de simulación.   
+    
+
+
+
+Nº 2: 
+  Introducción al
+  modelado de sistema eléctricos.
+
+
+
+Nº 3:
+  Visitas a
+  instalaciones.
+
+
+
+Nº 4: 
+  Modelado de sistemas de
+  acumulación.
+
+
+
+Nº 5: 
+  Modelado de una plata de
+  generación fotovoltaica.
+
+
+
+Nº 6:
+   Modelado de una plata de
+  generación eólica.
+
+
+
+Nº 7:
+   Modelado del
+  vehículo elé
+ctrico en la red.
+
+'

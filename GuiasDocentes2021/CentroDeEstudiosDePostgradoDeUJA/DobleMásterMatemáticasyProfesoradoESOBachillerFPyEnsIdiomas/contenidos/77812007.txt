@@ -1,0 +1,50 @@
+'
+
+I. Criptografía simétrica y asimétrica.
+Certificación digital. Protocolos.
+II. Técnicas geométricas aplicadas a la
+Informática. Geometría Computacional.
+
+
+Conceptos
+  básicos de criptografía
+
+  Criptografía simétrica: DES, IDEA, AES, y cifrados
+  de flujo.
+
+  Criptografía asimétrica: RSA, Diffie-Hellman y
+  ElGamal.
+
+  Criptosistemas basados en curvas elípticas y en modelos no
+  conmutativos
+
+  Códigos correctores de errores. Códigos
+  cíclicos.
+
+  Criptosistema de McEliece.
+Algoritmos
+  básicos en anillos de polinomios.
+Algoritmo
+  de la división y bases de Groebner.
+
+  Cálculo de invariantes en álgebra conmutativa y no
+  conmutativa.
+
+  Aplicaciones a la geometría en el plano y el espacio.
+  .
+
+  Aplicaciones a otros campos de la Matemática:
+  interpolación, ecuaciones diferenciales,
+  programación, optimización.
+
+  Aplicaciones a otras ciencias, la industria y la empresa.
+
+ 
+
+Sesiones
+  Prácticas de Ordenador con programas de protección
+  de seguridad de sistemas informáticos,  y de las
+  comunicaciones,  y programas de cálculo
+  simbólico.
+
+'

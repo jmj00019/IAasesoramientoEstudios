@@ -1,0 +1,28 @@
+'
+
+INTRODUCCIÓN AL DISEÑO INDUSTRIAL.
+APLICACIONES CAD EN INGENIERÍA ELÉCTRICA.
+SISTEMAS CAD/CAM AVANZADOS.
+
+
+Introducción al diseño industrial.
+  Diseño asistido por ordenador con AUTOCAD 2020. 1.1. La
+  interfaz de trabajo. 1.2. Las operaciones básicas de
+  dibujo. 1.3. Los modificadores. 1.4. Las capas.1.5. Operaciones
+  de Acotado. 1.6. Las anotaciones. 1.7. Las escalas
+  anotativas.1.8. Presentaciones. La impresión de
+  planos.
+Normalización electrotécnica. Esquemas
+  electricos. Simbología en el diseño de planos de
+  electricidad.
+Fundamentos del Diseño eléctrico con AUTOCAD
+  ELECTRICAL 2020. 2.1. El espacio de trabajo. 2.2. La estructura
+  eléctrica. 2.3. Acotar y dimensionar elementos y cables.
+  2.4. Trabajar con librerías de componentes
+  eléctricos estandards.
+ Diseño en el espacio tridimensional. Operaciones
+  básicas.  Generación de planos.
+ Fabricación aditiva e impresión 3D.
+  Ingeniería inversa. Digitalización 3D.
+
+'

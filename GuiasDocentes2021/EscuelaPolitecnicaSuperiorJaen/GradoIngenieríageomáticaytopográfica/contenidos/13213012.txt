@@ -1,0 +1,94 @@
+'
+
+Introducción a las aplicaciones de la
+Teledetección
+Aplicaciones a estudios atmosféricos y
+climáticos
+Aplicaciones en hidrología, oceanografía y
+superficies heladas y nivales
+Aplicaciones en Ciencias de la Tierra y Minería,
+Aplicaciones en estudios de la vegetación,
+agronomía y ciencias forestales
+Aplicaciones en Cartografía, ingeniería, medio
+ambiente, urbanismo y ordenación del territorio
+ 
+
+Tema 1. Introducción a las aplicaciones de la
+Teledetección.
+Tema 2. Aplicaciones de la Teledetección en los recursos
+agrícolas y forestales.
+2.1 Monitorización de zonas agrícolas.
+Clasificación multitemporal.
+2.2 Monitorización de zonas forestales. Control de la
+desforestación.     
+Tema 3. Aplicaciones en Ciencias de la Tierra y Mineria.
+3.1 Clasificación de imágenes orientada a la
+obtención de cartografía litológica.
+Tema 4. Aplicaciones en Hidrología, Oceanografía y
+Criosfera.
+4.1 Monitorización de calidad de superficies de agua.
+4.2 Determinación de la altura de superficies de
+agua.
+4.3 Control de tráfico marítimo.
+Monitorización de vertidos.
+4.4 Monitorización de superficies de hielo y nivales.
+Tema 5. Aplicaciones de la Teledetección en estudios
+atmosféricos y climáticos.
+5.1 Estimación de parámetros climáticos.
+Temperatura de la superficie terrestre.
+5.2 Monitorización de contaminantes
+atmosféricos.
+Tema 6. Gestión de catástrofes naturales mediante
+Teledetección.
+6.1 Análisis de deformaciones producidas por
+deslizamientos de laderas.
+6.2 Análisis de deformaciones producidas por
+terremotos.
+6.3 Monitorización de incendios forestales y de labores
+de recuperación de zonas afectadas.
+Tema 7. Teledetección Urbana.
+7.1 Clasificación de zonas urbanas mediante
+clasificación de imágenes satelitales.
+Evolución de las ciudades.
+7.2 Determinación de parámetros climáticos
+en las ciudades. Efecto isla de calor.
+Tema 8. Teledetección de alta resolución.
+El programa de prácticas consistirá en el
+desarrollo de un total de 15 actividades basadas en casos reales
+por parte del alumno, relacionadas con los temas abordados en esta
+asignatura, incluyendo el análisis de aspectos relacionados
+con las zonas terrestres, marinas, contaminación
+atmosférica, gestión de catastrofes, etc.
+Actividad 1. Sistema de procesamiento ESA SNAP.
+Actividad 2. Clasificación multitemporal de cultivos a
+partir de imágenes multiespectrales.
+Actividad 3. Análisis de desforestación a partir
+de imágenes RADAR.
+Actividad 4. Elaboración de cartografía
+litológica a partir de clasificación de
+imágenes multiespectrales.
+Actividad 5. Monitorización de la calidad del agua
+(imágenes multiespectrales).
+Actividad 6. Altimetría en zonas marinas y cubierta de
+agua.
+Actividad 7. Control de tráfico marítimo.
+Detección de vertidos.
+Actividad 8. Monitorización de superficies de hielo y
+nivales.
+Actividad 9. Monitorización de contaminantes
+atmosféricos.
+Actividad 10. Monitorización de zonas inundadas.
+Actividad 11. Análisis de deformaciones de la superficie
+terrestre provocadas por terremotos y deslizamientos mediante
+técnicas de interferometría RADAR.
+Actividad 12. Monitorización de zonas afectadas por
+incendios forestales.
+Actividad 13. Análisis de la evolución de zonas
+urbanas mediante uso combinado de imágenes multiespectrales
+y RADAR.
+Actividad 14. Caracterización de islas de calor
+urbano.
+Actividad 15. Obtención de MDE y ortoimágenes a
+partir de modelos estereoscópicos de satélites de
+alta y muy alta resolución.
+'

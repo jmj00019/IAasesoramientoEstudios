@@ -1,0 +1,39 @@
+'
+
+La asignatura comprende el análisis de protocolos de
+comunicaciones habituales enfocado a las deficiencias o debilidades
+relativas a la seguridad. Seguidamente, se estudian las
+alternativas que, según el nivel de la familia de protocolos
+TCP/IP, existen para asegurar la confidencialidad, integridad y
+autenticación en las comunicaciones. Finalmente, se
+presentan los diferentes dispositivos de red que se utilizan para
+implementar una política de seguridad en las redes de
+telecomunicación actuales.
+En la parte práctica de la asignatura, se realiza la
+configuración de dispositivos de red y el establecimiento de
+comunicaciones seguras usando los protocolos de seguridad.
+También se verifican las debilidades de algún
+protocolo de los descritos en la asignatura.
+Palabras clave: autenticación, integridad,
+confidencialidad.
+
+Tema 0. Introducción.
+Tema 1. Criptografía.
+Tema 2. Protocolos para comunicaciones seguras.
+Práctica 1. Equipos y organización.
+Práctica 2. GPG.
+Práctica 3. Protocolos para comunicaciones seguras.
+Se dotará al alumno de la capacidad para estar al
+día en las novedades en ciencia y tecnología, sobre
+todo en este tipo de materias, tan ligadas a un entono tan
+dínamico como son las telecomunicaciones, y en concreto la
+Ingeniería Telemática. Además, se
+desarrollarán habilidades de comunicación
+información, ideas, problemas y soluciones en el
+ámbito de ingeniería y la sociedad en general a
+través de procesos de entrega de documentación o
+presentaciones orales. Con respecto a la organización del
+trabajo, se fomentará la colaboración y trabajo en
+equipo a través del propio diseño de las
+prácticas. 
+'

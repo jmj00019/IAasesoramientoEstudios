@@ -1,0 +1,68 @@
+'
+
+
+Bloque I.
+Principio físico de los semiconductores: Materiales
+semiconductores. Conducción en semiconductores.
+
+Bloque II.
+Dispositivos electrónicos y fotónicos: El
+diodo, El transistor, El amplificador
+operacional, Dispositivos fotónicos.
+
+Bloque III.
+Familias lógicas: Introducción a las puertas
+lógicas, Desarrollo histórico de las
+familias lógicas y construcción.
+
+Bloque IV.
+Tecnologías de los materiales: Aplicación de la
+tecnología de los materiales
+
+Bloque I.
+Principio físico de los semiconductores: Materiales
+semiconductores. Conducción en semiconductores.
+
+Bloque II.
+Dispositivos electrónicos y fotónicos: El
+diodo, El transistor, El amplificador operacional, Dispositivos
+fotónicos.
+Bloque III.
+Familias lógicas: Introducción a las puertas
+lógicas, Desarrollo histórico de las familias
+lógicas y construcción.
+Tema 1: Introducción a los semiconductores.
+1.1. Estructura aómica de la materia. 1.1. Aislantes,
+conductores y semiconductores. 1.2. Corriente
+en semiconductores. 1.3. Semiconductores tipo N y tipo P. 1.4.
+Conducción en semiconductores. 1.5. La
+unión PN.
+Tema 2: El diodo.
+2.1. Introducción. 2.2. La unión PN en
+equilibrio. 2.3. Polarización del diodo. 2.4. Curva
+característica del diodo. 2.5. Modelos del diodo. 2.6.
+Diodo Zener. 2.7. Otros tipos de diodo. Circuitos con diodos.
+2.8. Dispositivos fotónicos.
+Tema 3: El transistor bipolar (BJT)
+3.1. Introducción. 3.2. Aspectos generales. 3.3. El
+transistor en polarización. 3.4.Curvas del transistor.
+3.5. Análisis de circuitos con transistores. 3.6. Redes
+de polarización. 
+Tema 4: Amplificación con el BJT. 4.1.
+Introducción. 4.2. Teorema de superposición en
+amplificadores. 4.3. Análisis de
+amplificadores mediante parámetros pi. 4.4.
+Análisis de amplificadores BJTmonoetapa. 4.5. Amplificadores
+BJT multietapa. 4.6. Modelo en parámetros
+híbridos.
+Tema 5: El transistor de efecto de campo JFET y MOSFET.
+5.1 Introducción. 5.2. El transistor de unión
+JFET. 5.3. El MOSFET DE enriquecimiento. 5.4. El MOSFET de
+deplexión. 5.5. Estados de un transistor unipolar. 5.6.
+Análisis C.C. de circuitos con transistores FET.
+5.7. Amplificación con FET.
+Tema 6: El amplificador operacional
+6.1. Amplificación: definición y concepto. 6.2.
+El amplificador operacional ideal. 6.3. Análisis de
+circuitos con AO ideal.
+'

@@ -1,0 +1,59 @@
+'
+
+
+Fuentes de energía. Caracterización
+  energética.
+Generación de calor. Procesos y
+  tecnologías.
+Generación de Trabajo. Procesos y
+  tecnología.
+Dimensionado de la etapa de potencia (generación de
+  trabajo) en centrales eléctricas.
+
+
+
+
+
+
+BLOQUE 1.- CENTRALES HIDRÁULICAS.- Principios
+        básicos de funcionamiento, estudio específico
+        de las centrales hidroeléctricas, necesidad y origen
+        de las mismas, ubicación y tipos, elementos
+        constituyentes, funcionamientoy cálculo de los
+        elementos constituyentes, estudio de laregulación y
+        cálculo de la energía obtenida.Instalaciones
+        eólicas de producción de
+        energíaeléctrica. Potencia de
+        aeroturbinas
+BLOQUE 2.- CENTRALESTERMICAS CONVENCIONALES.- Estudio
+        especifico de las centralestérmicas convencionales,
+        componentes fundamentales de lasmismas, balances
+        energéticos en los componentes, estudio
+        ycálculo de los ciclos más usuales (ciclos de
+        vapor,ciclos de gas, ciclos diesel y ciclos mixtos gas
+        ).
+BLOQUE 3.-CENTRALES NUCLEARES.- Introducción a la
+        físicanuclear, estudio de las principales reacciones
+        nucleares,energía desprendida en la reacción
+        yutilización de la citada energía para
+        sutransformación en energía eléctrica,
+        Seestudian los reactores nucleares más usuales y los
+        elementosmás importantes a tener en cuenta en los
+        mismos(combustible, moderador, refrigerante y
+        reflector).
+CONTENIDOS PRÁCTICAS
+Centrales hidráulicas:
+1: Determinación de las características
+        operativas de la turbina Pelton
+2: Determinación de las características
+        operativas de la turbina Francis.
+3: Caracterización de la bomba hidráulica.
+        Bombas en serie y en paralelo.
+Centrales térmicas:
+4: Estudio de una central térmica de vapor.
+5: Estudio de una turbina de gas.
+
+
+
+
+'

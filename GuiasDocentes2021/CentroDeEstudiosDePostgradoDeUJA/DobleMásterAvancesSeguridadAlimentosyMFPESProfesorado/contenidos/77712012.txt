@@ -1,0 +1,93 @@
+'
+
+Introducción al análisis químico de
+alimentos. Técnicas de toma y tratamiento de muestras de
+alimentos. Técnicas cromatográficas para el
+análisis de alimentos. Técnicas
+espectroscópicas para el análisis de alimentos.
+Prácticas de laboratorio: aplicación de
+técnicas de preparación sobre diferentes tipos de
+muestras de alimentos; análisis mediante
+espectroscopía de absorción molecular y mediante
+cromatografía de gases.
+
+
+PROGRAMA
+  TEÓRICO
+
+Tema 1.- Introducción al análisis químico.
+Introducción a la Química Analítica.
+Clasificación de los métodos analíticos.
+Métodos clásicos. Métodos instrumentales.
+Método analítico. Características de los
+métodos analíticos. Aplicaciones de la Química
+analítica.
+Tema 2.- Toma y tratamiento de muestras. Definición de un
+problema Analítico. Toma de muestras. Tratamiento de
+muestras.
+Tema 3.- Introducción a las técnicas
+espectroscópicas. Propiedades físico-químicas
+de la materia. Radiación electromagnética.
+Espectroscopia. Clasificación de los métodos
+espectroscópicos. Fundamentos de las técnicas
+espectroscópicas. Instrumentación. 
+Tema 4.- Técnicas espectroscópicas
+atómicas. Clasificación de las técnicas
+espectroscópicas atómicas. Fundamentos de las
+técnicas espectroscópicas atómicas.
+Instrumentación. Aplicación al análisis de los
+alimentos de las técnicas de espectroscopía
+atómica.
+Tema 5.- Técnicas espectroscópicas
+moleculares. Clasificación de las técnicas
+espectroscópicas moleculares. Fundamentos de las
+técnicas espectroscópicas moleculares.
+Instrumentación. Aplicación al análisis de los
+alimentos de las técnicas de espectroscopía
+molecular.
+Tema 6.- Espectrometría de Masas. Fundamentos.
+Componentes del Espectrómetro de Masas. Técnicas
+Acopladas. Aplicaciones al análisis de los alimentos de la
+técnica de espectrometría de masas.
+Tema 7.- Introducción a las técnicas
+cromatográficas. Fundamentos, definición y
+clasificación. Principios básicos: eficacia, plato
+teórico, retención, cromatograma. Separación
+de mezclas.
+Tema 8.- Aplicación de la cromatografía de gases
+para el análisis de alimentos. Instrumentación.
+Control de la temperatura. Derivatización. Aplicaciones
+generales. Análisis de alimentos: nutrientes y
+contaminantes.
+Tema 9.- Aplicación de la cromatografía de
+líquidos para el análisis de alimentos.
+Instrumentación. Clasificación de las técnicas
+de cromatografía líquida. Cromatografía
+líquida de  partición. Derivatización.
+Aplicaciones generales. Análisis de alimentos: nutrientes y
+contaminantes.
+Seminario: Fundamentos de Química: Calibración y
+tratamiento de Datos.
+
+PROGRAMA
+  PRÁCTICO
+
+Seminario 1.- Normas de seguridad e higiene en el
+laboratorio de química.
+Seminario 2.- Material de  laboratorio.
+Práctica 1.- Tratamiento de muestras (I).
+Destilación a reflujo: diacetilo en zumo, en cerveza y en
+vinagre.
+Practica 2.- Tratamiento de muestras (II). Disolución por
+vía húmeda: quesos, carnes y derivados.
+Práctica 3. Tratamiento de muestras (III). Extraccion
+"QuEChERS": frutas, verduras y pescado.
+Práctica 4.- Determinación de hierro en vinos
+mediante espectroscopía de absorción molecular
+UV-VIS.
+Práctica 5.-  Determinación de ácidos
+grasos en aceites vegetales mediante cromatografía de
+gases.
+ Práctica 6.- Visita a una Empresa
+Agroalimentaria
+'

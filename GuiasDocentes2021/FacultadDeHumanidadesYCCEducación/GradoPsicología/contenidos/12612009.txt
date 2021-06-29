@@ -1,0 +1,130 @@
+'
+
+La investigación científica en Psicología y
+los Esquemas de investigación científica. La
+definición de variables. El diseño de investigaciones
+psicológicas. Los principales tipos de diseños en
+función de los diferentes esquemas de investigación.
+Diseños no experimentales: esquema cualitativo, descriptivo
+y de encuestas. Diseños en el esquema experimental.
+Diseños en el esquema cuasiexperimental. Diseño de
+series temporales interrumpidas, longitudinales y diseños de
+caso único.
+
+
+I. FUNDAMENTOS METODOLÓGICOS DE LA
+  INVESTIGACIÓN PSICOLÓGICA
+
+
+
+1. La investigación científica en
+Psicología y los Esquemas de investigación
+científica
+
+El método científico y el desarrollo del
+  conocimiento científico.
+Modelo general de actuación científico y
+  variantes de investigación científica según
+  el esquema clásico: Descriptivo, Selectivo y
+  Experimental.
+El conocimiento científico y la explicación
+  causal.
+Desarrollo conceptual: desde las teorías a las
+  hipótesis.
+
+
+2. El diseño de la investigación
+
+
+Acciones que cubre el diseño de investigación:
+  planificación, estructura y estrategia.
+Coordenadas para la planificación de la
+  investigación. Teoría de validez.
+La estructuración de la investigación
+  psicológica a través de la definición de las
+  variables y la problemática de la validez de
+  constructo.
+El control de variables extrañas y la
+  problemática de la validez interna.
+Delimitación de las unidades de la
+  investigación: selección de participantes, muestreo
+  y validez externa.
+La importancia de los aparatos, instrumentos y tareas en el
+  estudio del comportamiento.
+
+
+
+II. LA INVESTIGACIÓN PSICOLÓGICA A PARTIR DE
+LOS DISEÑOS MÁS DESTACADOS
+
+
+3. Esquema metodológico experimental y
+cuasiexperimental
+
+Características definitorias. Manipulación
+  directa e indirecta de variables, control de variables
+  extrañas, medida de variables dependientes y la
+  replicación de los resultados, limitaciones en la
+  asignación a grupos no equivalentes.
+Diseños experimentales. Entre versus Intra.
+  Factoriales.
+Diseños cuasiexperimentales. Estudios de casos. Grupo
+  de comparación no equivalente. Pre-Post. Cuatro grupos de
+  Solomon. Cohorte.
+Técnicas de análisis estadístico.
+  Comparación de medias, variabilidad error, ANOVA y ANCOVA.
+  ARIMA. El meta-análisis.
+El esquema experimental y cuasiexperimental en las
+  coordenadas de validez.
+Diseños especiales. Experimentos de Caso Único.
+  Series temporales interrumpidas. Discontinuidad en la
+  Regresión
+
+
+4. Esquema metodológico selectivo.
+
+
+Características definitorias. Técnicas de
+  muestreo para la selección de unidades, cuestionarios
+  (test) como instrumento representativo de captación de
+  datos. Confusión entre métodos de
+  investigación y técnicas de recogida de datos.
+Diseños selectivos. Transversales versus
+  Longitudinales. De panel, tendencias y cohorte.
+Técnicas de análisis estadístico.
+  Correlación, Regresión y Ecuaciones Estructurales.
+  Análisis psicométricos: fiabilidad, validez,
+  representatividad muestra y Análisis Factorial.
+El esquema selectivo en las coordenadas de validez.
+Diseños especiales. Diseños ex post facto.
+
+
+5. Esquema metodológico descriptivo
+
+
+Características
+  definitorias. La observación como núcleo de la
+  metodología descriptiva. Parámetros o criterios que
+  debe cumplir el registro de los datos en la Ciencia
+  Comportamental: qué, cómo, a quién,
+  cuándo y dónde. La metodología cualitativa
+  como marco metodológico general. Análisis de
+  contenidos. La contraposición entre lo cualitativo y lo
+  cuantitativo.
+Diseños descriptivos.
+  Observación participante y auto-observación,
+  estructurada y de campo. Encuesta- entrevista, narraciones y
+  material documental (diarios y registros biográficos),
+  grupos de discusión.
+Técnicas de
+  análisis estadístico. Índices de
+  asociación y Bondad de Ajuste. Índices de
+  concordancia y fiabilidad interjueces. Análisis
+  estadísticos de los datos de registro.
+El esquema descriptivo en las
+  coordenadas de validez.
+Diseños especiales.
+  Estudios de campo versus Experimentos de campo. Los diarios en la
+  metodología cualitativa
+
+'

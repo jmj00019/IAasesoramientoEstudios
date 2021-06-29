@@ -1,0 +1,105 @@
+'
+
+Arquitecturas: Clusters, grids y clouds. Sistemas de ficheros
+distribuidos. Bases de datos para bigdata. Procesamiento de bigdata
+en clusters masivos. Altas prestaciones en clusters.
+ 
+ 
+
+
+Módulo
+  1. Diseño de arquitecturas para computación
+  distribuida
+
+
+Tema
+  1.0.- Introducción al BigData
+
+
+Tema
+  1.1.- Arquitectura del Modelo BigData
+
+
+Tema
+  1.2.- Impacto de BigData en la sociedad: Casos Reales
+
+
+Tema
+  1.3.- BigData en los Medios
+
+
+Tema
+  1.4.- Arquitecturas de Computación Distribuida
+   - Fundamentos y arquitectura
+   - Caso práctico con Rocks Cluster
+   - Otras arquitecturas
+
+
+Prácticas:
+  Ejercicios de administración de Rocks cluster
+
+ 
+
+Módulo
+  2. Bases de datos para BigData. 
+
+
+Tema
+  2.0. Introducción a bases de datos No-SQL
+   Tema 2.1. Concepto y diseño de Bases de Datos
+  No-SQL
+   Tema 2.2. MongoDB: Métodos database
+   Tema 2.3. MongoDB: CRUD - Create, Read, Update, Delete.
+   Tema 2.4. MongoDB: Índices
+   Tema 2.5. MongoDB: Agregación
+   Tema 2.6. MongoDB: Replicación
+   Tema 2.7. MongoDB: Sharding
+
+
+Practicas:
+  Ejercicios prácticos de instalación y uso de
+  MongoDB
+
+
+Módulo
+  3. Sistemas de ficheros distribuidos y procesamiento de datos con
+  Spark. 
+
+
+
+ Tema 3.1. Big Data (Introducción) 
+   Tema 3.2. Paradigma Map Reduce 
+   Tema 3.3. Sistema de ficheros distribuidos:
+  HDFS 
+   Tema 3.4. Introducción a Spark 
+   Tema 3.5. Programación con RDDs 
+   Tema 3.6. Programación con RDDs de pares
+  clave-valor 
+   Tema 3.7. Profundizando en Spark 
+   Tema 3.8. Ciencia de datos
+  con Spark: MLlib
+
+
+Prácticas:
+  Ejercicios prácticos de Spark
+
+
+Módulo
+  4. Procesamiento de datos a gran escala con Open MPI.
+
+
+ 
+   Tema 4.1 Introducción a OpenMPI. Modos de
+  comunicación 
+   Tema 4.2. Comunicaciones colectivas OpenMPI 
+   Tema 4.3. Tipos de datos derivados. Grupos, comunicadores
+  y topologías. 
+   Tema 4.4. Manejo de errores. Ficheros. 
+   Tema 4.5. Funciones avanzadas. Comunicaciones
+  one-side 
+
+
+Prácticas:
+  Ejercicios prácticos de OpenMPI
+
+'

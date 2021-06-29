@@ -1,0 +1,212 @@
+'
+
+
+CONTENIDOS BÁSICOS
+
+Estructura y función de biomoléculas.
+Replicación, transcripción, traducción y
+modificación del material genético.
+Bioenergética. Principales rutas metabólicas y su
+regulación. Técnicas y métodos experimentales
+en Bioquímica y Biología Molecular. Manejo de
+instrumental y aparataje básico de laboratorio
+bioquímica y conocimiento de técnicas para la
+determinación y separación de moléculas
+biológicas.
+
+
+PROGRAMA DE TEORÍA
+
+
+BLOQUE I. INTRODUCCIÓN A LA
+  BIOQUÍMICA
+
+Tema 1. Introducción al estudio de la Bioquímica:
+La lógica molecular de la vida. Los elementos
+químicos de la materia viva. Moléculas
+biológicas.
+Tema 2. El medio intracelular: Estructura y propiedades del
+agua. Interacciones entre las moléculas y el agua.
+Soluciones amortiguadoras del pH (tampones).
+
+BLOQUE II. PROTEÍNAS
+
+Tema 3. Introducción a las proteínas.
+Aminoácidos: Características generales,
+distribución y función biológica de las
+proteínas. Estructura, clasificación y
+estereoquímica de los aminoácidos. Propiedades
+ácido-base. Derivados de aminoácidos de
+interés biológico.
+Tema 4. Enlace peptídico y péptidos:
+Características del enlace peptídico.
+Oligopéptidos de interés biológico.
+Tema 5. Proteínas: niveles de estructuración:
+Estructura primaria. Estructuras secundarias regulares:
+hélice alfa, estructura beta, hélice de
+colágeno. Regiones con estructura 2ª no repetitiva:
+bucles, giros. Motivos estructurales. Estructura terciaria y
+dominios estructurales. Estructura cuaternaria. Plegamiento y
+estabilidad de las proteínas.
+Tema 6. Proteínas: relación estructura y
+función: Proteínas fibrosas: queratina,
+colágeno y elastina. Proteínas globulares: mioglobina
+y hemoglobina.
+
+BLOQUE III. ENZIMOLOGÍA
+
+Tema 7. Catálisis enzimática: Concepto de enzima.
+Características generales. Nomenclatura y
+clasificación. Modo de actuación de las enzimas.
+Mecanismos de catálisis enzimática. Coenzimas y
+vitaminas.
+Tema 8. Cinética enzimática: Estado estacionario.
+Velocidad inicial. Efecto de la concentración de enzima, pH
+y temperatura. Efecto de la concentración de sustrato.
+Ecuación de Michaelis-Menten. Representación de
+Lineweaver-Burk. Reacciones multisustrato. Inhibición
+enzimática.
+Tema 9. Regulación de la actividad enzimática:
+Control celular de la actividad enzimática. Enzimas
+reguladoras: enzimas alostéricas y enzimas reguladas por
+modificación covalente. Otras formas de regulación:
+isoenzimas, complejos multienzimáticos, enzimas
+multifuncionales, zimógenos.
+
+BLOQUE IV. ALMACENAMIENTO Y METABOLISMO DE LA
+  INFORMACIÓN GENÉTICA
+
+Tema 10. Ácidos nucleicos: composición y
+estructura: Introducción. Bases nitrogenadas.
+Nucleósidos. Estructura y funciones de los
+nucleótidos. Polinucleótidos. Estructura primaria de
+los ácidos nucleicos. El ADN como material genético.
+La doble hélice de Watson y Crick (ADN-B); propiedades y
+relación estructura-función. Otras estructuras
+alternativas del ADN. Organización y empaquetamiento del ADN
+en células eucariotas. Estructura y tipos de ARN;
+función biológica.
+Tema 11. Replicación y reparación del material
+genético: Características generales del proceso de
+replicación del ADN. Enzimas implicadas en la
+replicación. Proceso global de replicación en
+procariotas: iniciación, elongación y
+terminación. Diferencias entre la replicación en
+procariotas y eucariotas. Mecanismos de reparación.
+Replicación del ARN: replicasas y retrotranscriptasas.
+Tema 12. Transferencia de la información genética.
+Transcripción: Características generales de la
+transcripción. ARN polimerasa. Etapas de la
+transcripción en procariotas: iniciación,
+elongación y terminación. Diferencias entre la
+transcripción en procariotas y eucariotas. Maduración
+y procesamiento del ARN.
+Tema 13. Descodificación de la información.
+Traducción: El código genético. Mutaciones.
+Estructura de los ribosomas. Etapas de la traducción en
+procariotas: activación de los aminoácidos,
+iniciación, elongación y terminación. Gasto
+energético del proceso. Diferencias entre la
+traducción en procariotas y eucariotas. Modificaciones
+postraduccionales. Transporte y degradación de las
+proteínas.
+
+BLOQUE V. METABOLISMO INTERMEDIARIO
+
+Tema 14. Características generales de las rutas
+metabólicas: Metabolismo intermediario: definición,
+funciones y organización. Rutas catabólicas,
+anabólicas y anfibólicas. Necesidad y mecanismos
+generales de regulación.
+Tema 15. Bioenergética: Termodinámica de los
+procesos bioquímicos. Compuestos ricos en energía.
+Transportadores de electrones.
+Tema 16. Estructura y función biológica de los
+glúcidos: Concepto, terminología,
+clasificación y funciones. Monosacáridos y sus
+derivados: estructura y función biológica.
+Disacáridos y oligosacáridos: estructura
+química y propiedades de los disacáridos más
+frecuentes. Polisacáridos: características generales,
+homopolisacáridos de reserva, homopolisacáridos
+estructurales, heteropolisacáridos.
+Tema 17. Glucólisis: Función biológica y
+localización subcelular. Descripción de la ruta.
+Balance energético. Regulación. Rutas alimentadoras
+de la glucólisis.
+Tema 18. Destinos metabólicos del piruvato: El piruvato
+como encrucijada metabólica. Fermentaciones.
+Oxidación del piruvato a acetil-CoA.
+Tema 19. Ciclo de los ácidos tricarboxílicos
+(Ciclo de Krebs): Papel central del ciclo de Krebs en el
+metabolismo intermediario. Características generales.
+Descripción de la ruta. Regulación. Reacciones
+anapleróticas. Carácter anfibólico del
+ciclo.
+Tema 20. Cadena de transporte electrónico y
+fosforilación oxidativa: Generalidades. Sistemas de
+lanzadera para el ingreso de electrones citoplasmáticos en
+la mitocondria. Organización y funcionamiento de la cadena
+de transporte electrónico. Fosforilación oxidativa:
+mecanismo quimiosmótico. Estructura y mecanismo de
+acción de la ATP sintasa.
+Tema 21. Metabolismo del glucógeno: Biosíntesis y
+catabolismo. Regulación.
+Tema 22. Otras rutas del metabolismo glucídico: Ruta de
+las pentosas fosfato: importancia y etapas. Gluconeogénesis:
+generalidades y precursores. Gluconeogénesis a partir de
+piruvato, lactato, aminoácidos, intermediarios del ciclo de
+Krebs, glicerol y propionato. Ciclo del glioxilato.
+Tema 23. Lípidos: Características generales de los
+lípidos. Ácidos grasos. Lípidos de
+almacenamiento. Lípidos de membrana. Otros lípidos
+con funciones especiales. Transporte de lípidos:
+lipoproteínas.
+Tema 24. Metabolismo de lípidos: Digestión y
+absorción de lípidos. Almacenamiento y
+movilización de triacilglicéridos. Oxidación
+de los ácidos grasos. Metabolismo de los cuerpos
+cetónicos. Síntesis de ácidos grasos.
+Tema 25. Metabolismo de los compuestos nitrogenados: Recambio
+proteico. Mecanismos generales de degradación de
+aminoácidos. Destoxificación y excreción de
+amonio. Ciclo de la urea.
+Tema 26. Integración metabólica: Perfil
+metabólico de los principales órganos y tejidos.
+Interrelaciones metabólicas en diferentes situaciones
+fisiológicas y patológicas.
+
+PROGRAMA DE PROBLEMAS
+
+
+Disoluciones. pH. Tampones.
+Determinación de secuencias peptídicas.
+Enzimología: determinación de parámetros
+  cinéticos e inhibición enzimática.
+Ácidos nucleicos y flujo de la información
+  genética: código genético y mutaciones.
+Termodinámica y metabolismo intermediario.
+
+
+PROGRAMA DE PRÁCTICAS DE LABORATORIO
+
+PRÁCTICA 1.- Purificación y caracterización
+de una enzima.
+  Sesión 1. Caracterización cinética
+de la enzima: determinación de Km y  Vmáx.
+(Lab.1)
+  Sesión 2. Fraccionamiento proteico por
+precipitación con sulfato amónico.(Lab. 2)
+  Sesión 3. Purificación por
+cromatografía de intercambio iónico. (Lab.3)
+  Sesión 4. Determinación de la
+concentración de proteína. Realización de una
+tabla de purificación. (Lab.4)
+  Sesión 5. Electroforesis en geles de
+poliacrilamida en condiciones desnaturalizantes.(Lab. 5)
+PRÁCTICA 2.- Purificación de ARN y
+caracterización de ARN ribosómico. (Lab. 6)
+PRÁCTICA 3.- Estudio de la estructura de
+macromoléculas mediante el simulador de
+bioinformática Protein Explorer. (Lab. 7)
+'

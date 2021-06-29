@@ -1,0 +1,38 @@
+'
+
+1. Introduction to Project Management. Foundation principles of
+Project Management. Evolution of the discipline of PM. The
+cost-schedule-quality equilibrium. PM Life
+Cycle. PM functions. Project Managers and Leaders. Microsoft
+Project: Guidelines for Effective Use.
+2. Defining the Project. The role of the stakeholders in PM.
+Key documents in PM.
+3. The Planning Process. Risk Management in the Planning of
+Projects. Work breakdown structure. Realistic scheduling. Accurate
+estimating of costs and schedules.
+Balancing the trade-off among cost, schedule and quality.
+4. Controlling the project. Team building in PM.
+Communication management among Project Stakeholders. Measuring
+progress in PM. Problem solving in PM.
+5. Advanced PM. Enterprise PM: Coordination of all Projects
+and Projects resources in the organization. Project Portfolio
+Management. Lean Principles and PM. PM in a
+global environment. PM with global teams.
+
+Introduction to Project Management. Foundation principles of
+Project Management. Evolution of the discipline of PM. The
+cost-schedule-quality equilibrium. PM Life Cycle. PM functions.
+Project Managers and Leaders. Microsoft Project: Guidelines for
+Effective Use. Defining the Project. The role of the stakeholders
+in PM. Key documents in PM. The Planning Process. Risk Management
+in the Planning of Projects. Work breakdown structure. Realistic
+scheduling. Accurate estimating of costs and schedules. Balancing
+the trade-off among cost, schedule and quality. Controlling the
+project. Team building in PM. Communication management among
+Project Stakeholders. Measuring progress in PM. Controlling and Key
+Performance Indicators in Project Management. Problem solving in
+PM. Advanced PM. Enterprise PM: Coordination of all Projects and
+Projects resources in the organization. Project Portfolio
+Management. Lean Principles and PM. PM in a global environment. PM
+with global teams.
+'

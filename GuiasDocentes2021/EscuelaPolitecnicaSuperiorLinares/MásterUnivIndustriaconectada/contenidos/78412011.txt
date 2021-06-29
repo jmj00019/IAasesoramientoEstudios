@@ -1,0 +1,54 @@
+'
+
+En esta asignatura el alumnado
+conocerá las principales clasificaciones de nuevos modelos
+de negocio con el principal objetivo de conocer y comprender los
+principales elementos que ayudan a diseñar e implementar
+modelos de negocio en el ámbito de la industria conectada.
+En concreto:
+· Definición y comprensión de qué
+constituye un modelo de negocio.
+· Identificación de los componentes
+básicos de un modelo de negocio.
+· Comprensión de las diferentes clasificaciones
+de modelos de negocio.
+· Identificación de los nuevos modelos de
+negocio.
+· Utilización de las principales herramientas
+de análisis de modelos de negocio.
+· Propuesta de modelos de negocio a partir de las
+herramientas anteriores.
+
+
+Nuevos modelos de negocio:
+  definición y antecedentes
+
+
+Nuevos modelos de negocio: hacia los
+  modelos de negocio digital
+
+
+Clasificaciones
+  de modelos de e-business basados en cadena
+
+
+Clasificaciones
+  de modelos de negocio: clasificaciones estáticas
+
+
+Timmers
+
+
+Rappa
+
+
+Análisis
+  dinámicos de modelos de negocio: Lienzo de Modelos de
+  Negocio-Método Canvas y Lean Startup
+
+
+Aplicaciones sectoriales de modelos
+  de negocio: Modelos de negocio en industria conectada y en
+  logística digital
+
+'

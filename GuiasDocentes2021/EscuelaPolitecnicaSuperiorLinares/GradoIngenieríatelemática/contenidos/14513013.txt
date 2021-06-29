@@ -1,0 +1,85 @@
+'
+
+En esta asignatura se estudiarán los aspectos generales
+del paradigma de Internet de las Cosas, tanto desde el punto de
+vista de las redes de comunicación, servicios de
+telecomunicación y dispositivos de comunicaciones, como
+desde sus implicaciones en la sociedad, la industria y el acceso a
+la información en general.
+Se estudiarán las tecnologías y protocolos de
+comunicación, así como las plataformas de
+dispositivos, más relevantes, además de aspectos
+operativos como la gestión de los dispositivos y la
+recolección y análisis de información.
+Palabras clave: Internet de las Cosas, internet del todo, redes
+de sensores, inteligencia ambiental, computación ubicua.
+
+En esta asignatura el alumno conocerá las distintas redes
+de sensores, cableadas e inalámbricas que se utilizan en los
+desarrollos relacionados con Internet de los objetos. En el
+laboratorio se realizarán aplicaciones que permitan a estos
+sensores publicar sus datos en Internet para su posterior uso.
+
+· Introducción a Internet de las cosas.
+· Redes de sensores cableadas e inalámbricas.
+· Tecnologías de aplicaciones
+telemáticas.
+
+PARTE
+  TEÓRICA
+   1. Introducción a IoT
+
+
+Protocolos
+
+
+Redes
+
+
+Dispositivos
+
+
+Redes
+  de sensores
+
+
+Tecnologías
+  de actuales
+
+
+Tecnologías
+  de aplicación industrial
+
+
+Tecnologías
+  de aplicaciones telemáticas
+
+
+Paradigma
+  cliente-servidor.
+
+
+Paradigma
+  peer to peer.
+
+
+Tecnologías
+  Back-end.
+
+
+Tecnologías
+  Front-end.
+
+
+Tecnologías
+  de aplicaciones móviles.
+
+ 
+PARTE PRÁCTICA
+Las prácticas seguirán un modelo de aprendizaje
+basado en proyectos y de forma colaborativa entre dos
+alumnos.
+1. Introducción a los dispositivos IOT.
+2. Especificación y diseño de un Proyecto de
+aplicación de la IOT.
+'

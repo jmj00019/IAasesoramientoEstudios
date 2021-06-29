@@ -1,0 +1,47 @@
+'
+
+
+Sistemas operativos. Software libre
+Sistemas operativos basados en Linux. Uso y
+  ademinsitración básica
+Aplicaciones software de apoyo a la docencia sobre plataforma
+  Linux
+Hadware de apyo a la docencia 
+Descripciión y características de los centros
+  Escuela TIC 2.0. Servicios 
+Web 2.0
+Plataformas digitales de apyo a la docencia
+
+
+Contenidos desarrollados
+
+Software libre y sistema GNU/Linux 
+  
+Computadoras, hardware y software
+Sistemas operativos
+Software libre
+Sistema GNU/Linux
+GNU/Linux: nivel usuario
+GNU/Linux: administración básica
+
+Herramientas web 2.0 de apoyo a la docencia 
+  
+Aplicaciones para creación de contenidos y trabajo
+    colaborativo: Netboard como caso práctico
+Ofimática web 2.0: Google Drive (Documentos, hojas
+    de cálculo, presentaciones y formularios) como caso
+    práctico
+Plataformas educativas: Google Classroom como caso
+    práctico
+
+Sistemas de docencia virtual en Centros TIC 
+  
+Plataformas de docencia virtual: Moodle como caso
+    práctico
+Herramientas para creación de contenidos:
+    eXeLearning como caso práctico
+Repositorios de material para docencia virtual: Agrega2
+    como caso práctico
+
+
+'

@@ -1,0 +1,39 @@
+'
+
+Descripción de variables estadísticas.
+Cálculo de probabilidades. Estimación de
+parámetros poblacionales y verificación de
+hipótesis. Estadística pública: indicadores
+sociales.
+
+
+1.  Estadística descriptiva
+  unidimensional.
+
+Tipos de variables estadísticas. Tablas de frecuencias.
+Métodos gráficos para el análisis de datos.
+Medidas descriptivas para el análisis de datos.
+
+2. Estadística descriptiva bidimensional.
+
+Distribución conjunta de frecuencias: tablas de doble
+entrada. Distribuciones marginales y condicionadas. Análisis
+de la asociación.
+
+3. Cálculo de probabilidades.
+
+Definición e interpretación de probabilidad.
+Conceptos y resultados básicos. Variables aleatorias.
+Características. Modelos teóricos de
+probabilidad.
+
+4. Inferencia estadística
+
+Estadísticos y parámetros. Estimación
+puntual y por intervalos de confianza. Contrastes de
+hipótesis.
+
+5. Estadística pública: indicadores
+  sociales.
+
+'

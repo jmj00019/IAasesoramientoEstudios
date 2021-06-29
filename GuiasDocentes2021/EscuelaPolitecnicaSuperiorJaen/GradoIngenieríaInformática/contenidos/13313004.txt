@@ -1,0 +1,33 @@
+'
+
+
+
+Modelos de simulación continuos y discretos.
+    Generación de datos. Verificación y
+    validación de modelos de simulación.
+    Análisis de salidas y Configuración de sistemas
+    en simulación.
+
+
+
+Módulo 1. Introducción a la simulación
+
+Simulación. Definiciones y aplicaciones
+Construcción de modelos de simulación
+
+Módulo 2. Series aleatorias
+
+Modelado de las distribuciones de probabilidad de
+  entrada
+Generación y verificación de series
+  aleatorias
+Generación de observaciones de variables
+  aleatorias
+
+Módulo 3. Verificación y validación
+
+Verificación y validación de modelos
+Análisis de salidas
+Configuración de sistemas en simulación
+
+'

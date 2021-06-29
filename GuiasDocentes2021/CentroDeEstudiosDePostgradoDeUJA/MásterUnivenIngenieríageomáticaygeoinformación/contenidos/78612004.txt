@@ -1,0 +1,123 @@
+'
+
+1. Concepto de ciudad inteligente (Smart Cities).
+2. Variables: medioambiente, energía, movilidad,
+personas, gobernanza.
+3. Bases para la monitorización y gestión
+inteligente de la ciudad mediante técnicas
+geomáticas.
+4. Territorio inteligente. Bases para la
+monitorización y gestión del territorio mediante
+técnicas geomáticas
+
+
+
+Teoría
+
+
+
+1.
+  Concepto de ciudad inteligente (Smart Cities).
+
+
+Introducción.
+  Resumen histórico. Las ciudades en la actualidad. Concepto
+  de ciudad inteligente. Modelos de ciudad inteligente. Redes de
+  ciudades inteligentes.
+
+
+
+2
+. Elementos y variables de la ciudad
+  inteligente
+
+
+Introducción.
+Variables: capital humano y social; calidad de vida;
+economía; gobernanza; movilidad; medioambiente y
+energía. Otros elementos: t
+ecnologías
+en la ciudad inteligente; servicios y negocios. Estrategias para la
+implantación de una ciudad inteligente. 
+
+
+3. Territorio inteligente.
+
+
+Concepto
+  de territorio inteligente. Ejemplos de territorios inteligentes:
+  regiones, municipios, parques. Diagnóstico territorial.
+  Herramientas de planificación y gestión. Servicios
+  y productos.
+
+
+
+4.
+  Información Geoespacial en el ámbito de las
+  Ciudades y Territorios Inteligentes.
+
+
+Características
+  de la información. Sistemas para la captura de
+  información en entornos urbanos.  Sistemas para la
+  captura de información en entornos rurales.
+
+
+
+5. Sensores conectados.
+
+
+Definición
+  de sensor conectado. Tipología de sensores.
+  Clasificación y requerimientos. Principales arquitecturas
+  y redes. Conexión de sensores. Aplicaciones Gestión
+  y Mantenimiento de redes de sensores.
+
+
+
+6. Transformación digital. Internet del
+  todo.
+
+
+Evolución
+  de Internet. Internet del todo. Conexión de personas,
+  procesos, datos y objetos. Tecnología como agente
+  facilitador en la mejora de la gestión. Seguridad y
+  gestión. Cloud city operation center.
+
+
+
+7.
+  Big Data y Open Data.
+
+
+Tipología
+  de los datos. Importancia de los datos y de la
+  información. Open Data. Interoperabilidad. Aplicaciones y
+  Servicios. Big Data en el entorno de las Ciudades y los
+  Territorios Inteligentes. Machine learning y Deep lerning en el
+  entorno de las Ciudades y los Territorios Inteligentes.
+
+
+
+8.
+  Oportunidades de negocio. Aplicaciones y
+  Conceptos.
+
+
+Iniciativas
+  de normalización. Casos de éxito.
+
+
+
+
+Practica
+
+
+Desarrollo
+  de una propuesta de gestión inteligente de un espacio o
+  territorio, con empleo de herramientas geomáticas de
+  captura y análisis de la información
+  geoespacial.
+
+'

@@ -1,0 +1,60 @@
+'
+
+
+Análisis descriptivo de un conjunto de
+  datos.·
+Aspectos descriptivos de las series temporales.·
+Números índices.
+Cálculo de probabilidades.
+
+
+
+Introducción a la estadística descriptiva.
+      1.1. Conceptos fundamentales de
+  estadística descriptiva.
+      1.2. Variables estadísticas
+  unidimensionales.
+             1.2.1. Tablas de
+  frecuencias y representaciones gráficas.
+             1.2.2. Medidas de
+  posición, dispersión y forma.
+             1.2.3. Medidas de
+  concentración.
+      1.3. Introducción a la
+  estadística descriptiva bidimensional
+Aspectos descriptivos de las series cronológicas.
+      2.1. Introducción.
+      2.2. Componentes de una serie
+  cronológica.
+      2.3. Determinación de la tendencia.
+      2.4. Determinación de las variaciones
+  estacionales.
+      2.5. Desestacionalización.
+Números índices.
+      3.1. Índices simples.
+      3.2. Índices compuestos.
+      3.3. Números índices de
+  precios, cantidades y valores.
+      3.4. Cambio de base, renovación y
+  enlace.
+      3.5. Deflación de series.
+Introducción al cálculo de probabilidades.
+      4.1. Definición de probabilidad.
+      4.2. Probabilidad condicionada.
+      4.3. Independencia estocástica de
+  sucesos.
+      4.4.Teoremas fundamentales del cálculo
+  de probabilidades.
+Variable aleatoria.
+      5.1. Variables discretas. Función masa
+  de probabilidad.
+      5.2. Variables continuas. Función de
+  densidad de probabilidad.
+      5.3. Vectores aleatorios.
+  Características.
+Modelos de distribuciones de probabilidad.
+      6.1. Modelos de distribuciones discretas.
+      6.2. Modelos de distribuciones continuas.
+     
+
+'

@@ -1,0 +1,71 @@
+'
+
+
+Regresión lineal
+  múltiple.
+Regresión
+  logística.
+Análisis multivariado de
+  la varianza.
+Análisis factorial.
+Otras técnicas de
+  análisis: análisis de clúster,
+  análisis discriminante, regresión canónica,
+  análisis de supervivencia, ecuaciones estructurales.
+Programas informáticos
+  para análisis estadísticos avanzados
+
+
+
+
+Regresión Lineal Múltiple. Modelo
+  general de análisis basado en los principios de
+  Modelización Lineal con enfoque aplicado..
+  Extensión Mutivariante del Modelo Lineal general.
+  Regresión Lineal múltiple. Regresión por
+  pasos para modelos complejos. Aplicaciones en el ámbito de
+  Ciencias de la Salud.
+
+Regresión Logística. Acercamiento
+  multivariado para la explicación de variables
+  categóricas. Bases del Análisis categórico.
+  Análisis de Regresión Logística a partir de
+  la Modelización Lineal. Análisis de datos
+  categóricos en Ciencias de la Salud: Riesgo Relativo y la
+  Ventaja Relativa (Odds Ratio).
+
+Análisis Multivariado de la Varianza.
+  Acercamiento multivariado para la explicación de
+  diferencias. MANOVA. MANCOVA. Enfoque multivariado de los
+  diseños de medidas repetidas o anidados. Aplicaciones en
+  el ámbito de Ciencias de la Salud.
+
+Análisis Factorial. Acercamientos
+  estadísticos a la reducción de datos. Bases
+  Conceptuales del análisis factorial y de componentes
+  principales. Planteamiento computacional del análisis
+  factorial y de componentes principales. El Análisis
+  Factorial y de Componentes Principales y las variantes
+  Confirmatoria y Exploratoria. Aplicaciones en el ámbito de
+  Ciencias de la Salud.
+
+Otras técnicas de análisis.
+  Comparación entre las diferentes técnicas
+  multivariadas. Clasificación en función de
+  diferentes parámetros. La utilidad de otras
+  técnicas destacadas: análisis de clúster,
+  análisis discriminante, regresión canónica,
+  análisis de supervivencia, ecuaciones estructurales. La
+  problemática de los supuestos del análisis
+  estadístico.
+
+Programas informáticos para análisis
+  estadísticos avanzados. Aproximación
+  aplicada y autodidacta a las técnicas de análisis
+  estadístico: desarrollos mediante el programa R. Bases
+  computacionales del análisis mediante R/Rcmdr.
+  Ejemplificación del análisis en algunos casos
+  representativos. Análisis Multivariante y
+  modelización en Ciencias de la Salud.
+
+'

@@ -1,0 +1,93 @@
+'
+
+- Manejo del material de laboratorio. Seguridad.
+- Introducción a las técnicas básicas en
+el laboratorio químico.
+- Organización y gestión de calidad del
+laboratorio químico.
+
+
+
+
+1.
+  Organización y gestión de calidad del laboratorio
+  químico
+
+
+El
+  cuaderno de laboratorio. Planificación y desarrollo de una
+  experiencia. Toma y tratamiento de datos. Cálculo de
+  errores.
+
+
+
+
+2.
+  Seguridad en el Laboratorio
+
+
+Normas
+  de seguridad. Equipamiento de protección y de emergencia.
+  Peligrosidad de las sustancias químicas.
+  Eliminación de residuos.
+
+
+
+
+3.
+  Material básico del Laboratorio
+
+
+Nombre
+  y descripción. Manejo habitual y condiciones de
+  uso.
+
+
+
+
+4.
+  Técnicas y operaciones básicas en el laboratorio
+  químico. Aplicaciones.
+
+
+Medida
+  de masas: la balanza.
+
+
+Preparación
+  de disoluciones.
+
+
+Identificación
+  de iones en disolución: reconocimiento de cationes y
+  aniones.
+
+
+Determinación
+  de la presión de vapor.
+
+
+Precipitación
+  y filtración de un compuesto químico.
+
+
+Separación
+  de componentes de una mezcla. Extracción L-L simple y
+  múltiple.
+
+
+Valoración
+  de disoluciones.
+
+
+Crioscopía.
+
+
+Celdas
+  galvánicas y electrolíticas.
+
+
+Cinética
+  Química.
+
+'

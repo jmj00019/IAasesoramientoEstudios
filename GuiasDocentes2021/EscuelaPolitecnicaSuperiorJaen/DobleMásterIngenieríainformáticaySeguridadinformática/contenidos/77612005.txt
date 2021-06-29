@@ -1,0 +1,82 @@
+'
+
+·     Intrusiones en Sistemas
+Informáticos.
+·     Tipos de ataques e
+intrusiones.
+·     Registros de
+Auditoría.
+·     Sistemas de Detección de
+Intrusiones.
+·     Escáneres.
+ .    Honeypots
+
+
+Programa de
+  teoría:
+
+Tema 1. Introducción
+
+Detección de intrusiones: Intrusiones y ataques
+  digitales
+Tipos de ataques digitales
+
+Tema 2. Intrusiones en Sistemas Informáticos
+
+Tipos de ataques digitales
+Clasificación de intrusos
+Fases de un ataque informático
+Auditorías informáticas
+
+Tema 3. Firewalls
+
+Arquitectura
+Políticas
+Categorías
+Identificación
+Ejemplos
+Limitaciones
+Evasión
+
+Tema 4. Honeypots
+
+Clasificación
+Ubicación
+Diseño
+Ventajas y desventajas
+HoneyNets
+
+ Tema 5. Sistemas de detección de intrusiones
+
+Clasificación de intrusos
+Fases de un ataque informático
+Clasificación de IDS
+Requisitos de un IDS
+IDS basado en máquina
+IDS basado en red
+Detección de anomalías
+Detección de usos indebidos
+Implantación real de un IDS
+
+Tema 6. Evasión de IDS
+
+Algunos ejemplos de IDS
+Snort
+Tipping Point
+Evasión de IDS
+Contramedidas
+Pentesting
+
+
+Programa de
+  prácticas:
+
+
+Introducción a la detección de intrusiones
+Firewalls: tipos y aplicaciones
+Honeypots y honeynets: HoneyDrive
+Sistemas de detección de intrusiones:
+  Introducción a Snort
+
+ 
+'

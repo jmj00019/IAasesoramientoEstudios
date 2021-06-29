@@ -1,0 +1,221 @@
+'
+
+Revisión histórica. Instrumentos de
+navegación. sistemas de apoyo a la navegación por
+satélites (EGNOS, WAAS,...). Fundamentos matemáticos.
+Posicionamiento en tiempo real, filtro Kalman. Aplicaciones de la
+navegación: control de trayectorias, control de flotas en
+segmentos terrestre, marítimo, aéreo y espacial,
+guiado de vehículos, navegación peatonal,
+navegación "indoor", medidas del campo de la gravedad
+terrestre. Sistemas LBS. Navegación inercial.
+
+
+TEMA
+  1.- Fundamentos del posicionamiento y la navegación por
+  satélites
+
+
+
+Revisión
+    histórica
+
+
+Posicionamiento
+    y navegación
+
+
+Determinación
+    de la posición
+
+
+Determinación
+    de la velocidad
+
+
+Determinación
+    de la orientación
+
+
+
+Práctica
+  de ordenador
+
+
+TEMA
+  2.- Sistemas de apoyo a la navegación por
+  satélites
+
+
+
+Introducción
+
+
+Sistemas
+    terrestres de apoyo (GBAS)
+
+
+Sistemas
+    de apoyo basados en satélites (SBAS)
+
+
+EGNOS
+
+
+Correcciones
+    transmitidas. SISNET
+
+
+Concepto
+    de integridad
+
+
+
+Prácticas
+  de campo y ordenador. Análisis del posicionamiento
+  SBAS
+
+
+TEMA
+  3.- Posicionamiento GNSS diferencial
+
+
+
+Fundamentos
+    del posicionamiento RTK con observaciones de código y
+    fase
+
+
+Solución
+    con una estación de referencia y solución de
+    red
+
+
+Posicionamiento
+    RTK: VRS, MAX, i-MAX
+
+
+Práctica
+    de campo y ordenador. Análisis del posicionamiento
+    diferencial
+
+
+
+TEMA
+  4: Filtro de Kalman
+
+
+
+Fundamento:
+    filtrado, suavizado, predicción, correcciones
+
+
+Modelo
+    dinámico
+
+
+Modelo
+    a velocidad constante
+
+
+Modelo
+    a aceleración constante
+
+
+
+Práctica
+  de campo y ordenador. Análisis de rutas
+
+
+TEMA
+  5. Instrumentos GNSS
+
+
+
+Receptores
+    GNSS geodésicos
+
+
+Receptores
+    GNSS de bajo coste
+
+
+Integración
+    de receptores GNSS con otros sensores
+
+
+
+Prácticas
+  de campo. Análisis de soluciones
+  multiconstelación.
+
+TEMA 6.- Sistemas inerciales de
+navegación (INS)
+
+
+Sistemas
+    de referencia
+
+
+Sensores
+    inerciales
+
+
+Ecuaciones
+    de navegación
+
+
+Estimación
+    de errores
+
+
+
+Práctica.
+Cálculo
+de transformaciones entre marcos de referencia en navegación
+inercial
+
+TEMA
+  7 - Aplicaciones de la navegación por
+  satélites
+
+
+
+Control,
+    planificación y guiado de ruta
+
+
+Control
+    de flotas
+
+
+Navegación
+    peatonal
+
+
+Navegación
+    "Indoor"
+
+
+"Mobile
+    mapping"
+
+
+Sistemas
+    "Location-Based Services" (LBS)
+
+
+Medidas
+    del campo de la gravedad terrestre
+
+
+Aplicaciones
+    con teléfonos móviles
+
+
+
+Práctica.
+  Lectura y presentación de un artículo de
+  divulgación
+
+'

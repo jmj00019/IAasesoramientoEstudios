@@ -1,0 +1,95 @@
+'
+
+Proceso químico e industria química.
+Introducción al cálculo en Ingeniería
+Química
+Balance de materia y energía.
+Mecanismos de transporte. Transporte molecular y convectivo
+Operaciones unitarias: circulación de fluidos,
+transmisión de calor y transferencia de materia.
+Diseño de reactores químicos.
+Laboratorio sobre propiedades termodinámicas y de
+transporte, circulación de fluidos, transmisión de
+calor, transferencia de materia y cinética química
+aplicada
+
+
+Tema 1.- Introducción a la Ingeniería
+  Química. Operaciones Unitarias
+
+1.1. Concepto de Ingeniería Química. 1.2.
+Desarrollo histórico de los procesos químicos. 1.3.
+Descripción de un proceso. 1.4. Definición y
+clasificación de las operaciones unitarias.
+
+ 
+
+
+Tema 2.- Balances macroscópicos de
+  materia
+
+2.1. Unidades sin reacción química. 2.2. Sistemas
+sin reacción química. 2.3. Unidades con
+reacción química. 2.4. Sistemas con reacción
+química.
+ 
+
+Tema 3.- Balances macroscópicos de
+  energía
+
+3.1. Tipos de energía. 3.2. Balances a sistemas cerrados
+y a sistemas abiertos. 3.3 Operación sin reacción
+química: Evaporación. 3.4. Operación con
+reacción química: Combustión.
+ 
+
+Tema 4.- Introducción a los fenómenos de
+  transporte
+
+4.1. Transferencia de cantidad de movimiento: Ley de Newton.
+4.2. Transferencia de energía: Ley de Fourier. 4.3.
+Transferencia de materia: Ley de Fick.
+ 
+
+Tema 5.- Transferencia de cantidad de movimiento. Flujo
+  de fluidos
+
+5.1. Circulación de fluidos. 5.2. Impulsión de
+fluidos. 5.3. Interacción fluido-partícula:
+Operaciones sólido-líquido y
+líquido-sólido.
+ 
+
+Tema 6.- Transferencia de energía
+
+6.1. Mecanismos de transporte. 6.2. Aislamiento térmico.
+6.3. Cambiadores de calor. 6.4. Evaporadores.
+ 
+
+Tema 7.- Transferencia de materia
+
+7.1. Mecanismos de transporte. 7.2. Equilibrio entre fases. 7.3.
+Coeficientes individuales y coeficientes globales. 7.4. Operaciones
+de separación: Destilación, rectificación,
+absorción, extracción. 7.5. Transferencia
+simultánea de materia y energía:
+Humidificación.
+ 
+
+Tema 8.- Ingeniería de la reacción
+  química
+
+8.1. Introducción. 8.2. Cinética de las reacciones
+homogéneas. 8.3. Diseño de reactores.
+ 
+
+Prácticas de ordenador:
+
+Introducción al cálculo en Ingeniería
+Química.
+ 
+
+Prácticas de laboratorio:
+
+Practicas de fenómenos de transporte.
+'

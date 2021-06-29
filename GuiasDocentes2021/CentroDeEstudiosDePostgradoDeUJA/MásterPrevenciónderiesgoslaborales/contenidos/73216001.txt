@@ -1,0 +1,18 @@
+'
+
+Los contenidos versarán sobre la especialidad de
+Seguridad en el Trabajo, que habrá sido elegida por el
+alumno y asignada por la dirección del Master.
+En todo caso, esta materia consistirá en el desarrollo
+de un trabajo original de investigación relacionado con los
+conocimientos adquiridos en el Master
+en Prevención de Riesgos Laborales.
+
+Los contenidos versarán sobre la especialidad de
+Seguridad en el Trabajo, que habrá sido elegida por el
+alumno y asignada por la dirección del Máster.
+En todo caso, esta materia consistirá en el desarrollo de
+un trabajo original de investigación relacionado con los
+conocimientos adquiridos en el Máster en Prevención
+de Riesgos Laborales.
+'

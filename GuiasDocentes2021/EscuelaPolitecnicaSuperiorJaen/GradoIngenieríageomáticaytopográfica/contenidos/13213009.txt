@@ -1,0 +1,29 @@
+'
+
+Sistemas y herramientas FOSS
+Metodología para el desarrollo de soluciones
+Formalización de un caso
+Desarrollo de una solución SIG
+
+Bloque 1: Marco general:
+
+Sistemas y herramientas FOSS.
+Internet de las cosas
+Metodología para el desarrollo de soluciones.
+Formalización de un caso
+
+Bloque 2: Desarrollo de soluciones SIG:
+
+Programación en
+  Arduino
+Sensores y actuadores
+Programación para entornos
+  web
+
+Prácticas: Desarrollo de una solución:
+
+Desarrollo de una solución que incluya
+  programación en Arduino, sensores y actuadores y servicios
+  web.
+
+'

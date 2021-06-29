@@ -1,0 +1,45 @@
+'
+
+ 
+
+Introducción: el estudio del lenguaje.
+El lenguaje como estructura de estructuras.
+Las palabras y las clases de palabras.
+Los sintagmas.
+Las oraciones simples.
+Las oraciones coordinadas y subordinadas.
+Proyección del modelo y recapitulación.
+
+
+UNIT ONE - Introduction
+1.1. The study of language.
+1.2. Language and grammar.
+UNIT TWO - Language as a structure of structures.
+2.1. Phonetics and phonology.
+2.2. Morphology.
+2.3. Syntax.
+2.4. Semantics.
+2.5. Pragmatics.
+UNIT THREE - Words
+3.1. Word-classes
+3.2. Open word classes: classification and basic features.
+3.3. Closed word classes: classification and basic features.
+UNIT FOUR - Phrases
+4.1. The structure of phrases.
+4.2. Noun phrases.
+4.3. Prepositional phrases.
+4.4. Adjective phrases.
+4.5. Adverb phrases.
+4.6. Verb phrases.
+UNIT FIVE - Clauses
+5.1. The structure of clauses.
+5.2. The classification of clauses.
+5.3. Clause patterns.
+UNIT SIX - Sentences
+6.1. Structure expansion
+6.1.1. Coordination.
+6.1.2. Subordination.
+UNIT SEVEN - Information packaging.
+7.1. Basic and derived structures.
+7.2. Transformations.
+'

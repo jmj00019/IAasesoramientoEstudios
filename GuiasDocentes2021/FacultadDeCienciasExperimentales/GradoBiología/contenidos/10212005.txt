@@ -1,0 +1,1281 @@
+'
+
+1. Concepto y desarrollo de la Microbiología
+2. Estructura y tipos de microorganismos
+3. Características generales de los Procariotas.
+Métodos de observación y estudio.
+4. Estructura de los Procariotas.
+5. Nutrición y Metabolismo Energético
+Bacteriano.
+6. Crecimiento bacteriano
+7. Genética bacteriana.
+8. Diversidad de los Procariotas.
+9. Las Arqueas.
+10. Bacterias Termófilas y bacteria fotosintétivas
+no proteobacterias.
+11. Prroteobacterias.
+12. Firmicutes de bajo G+C y Actinobacterias.
+13. Espiroquetas y otras líneas filogenéticas.
+14. Los virus y otras partículas subvirásicas.
+Métodos de estudioy grupos de virus. Bacteriófagos y
+virus eucariotas.
+15. Distribución de microorganismos en la Bioesfera.
+Papel de los microorganismos een los ciclos biogeoquímicos.
+Interacciones de los microorganismos con el resto de seres
+vivos.
+16. Aplicaciones biotecnológicas de los
+microorganismo.
+
+  
+PROGRAMA DE CLASES TEÓRICAS
+ I. INTRODUCCIÓN A LA MICROBIOLOGÍA
+ * TEMA 1. CONCEPTO Y DESARROLLO DE LA
+MICROBIOLOGÍA.
+ 
+1.1.- Definiciones. Microbiología y microorganismos.
+1.2.- Historia de la Microbiología.
+1.2.1.- El descubrimiento de los microorganismos. A.
+Leeuwenhoek.
+1.2.2.- Controversia acerca de la generación
+espontánea:
+
+           
+F. Redi, J. Needham, L. Spallanzani, y L. Pasteur.
+1.2.3.- Desarrollo de la Microbiología clínica.
+Postulados de Koch.
+1.3.- Presente y futuro de la Microbiología.
+1.3.1.- Microbiología Clínica.
+1.3.2.- Microbiología Aplicada.
+1.3.2.1. Biotecnología
+ * TEMA 2. ESTRUCTURA Y TIPOS DE MICROORGANISMOS
+ 2.1.- 
+.1.- Árbol filogenético universal de
+la vida 
+. Dominios 
+Eukarya, Bacteria y Archea.
+2.2.- La célula procariota y eucariota: Principales
+diferencias.
+2.3.- Los virus y partículas subvirásicas:
+Viroides, virusoides y priones.
+2.3.1.- Los virus.
+2.3.1.1.- Características biológicas.
+2.3.1.2.- Origen de los virus
+2.3.2.- Partículas subvirásicas
+2.3.2.1.- Viroides
+2.3.2.2.- Virusoides
+2.3.2.3.- Priones
+ II. VIROLOGÍA
+ * TEMA 3. INTRODUCCIÓN A LA VIROLOGÍA.
+ 3.1.- Definición y Propiedades generales de los
+virus.
+3.2.- Estructura general de los virus.
+3.2.1.- Tamaño.
+3.2.2.- Genoma.
+3.2.3.- Cápsida.
+3.2.4.- Estructuras no presentes en todos los virus.
+3.2.4.1.- Cubierta o envoltura.
+3.2.4.2.- Enzimas
+3.2.4.2.1.- ARN polimerasas dependientes de ARN
+3.2.5.- El caso especial de los 
+Mimivirus.
+3.3.- Replicación de los virus. Etapas.
+3.3.1.- Adherencia o fijación a la célula
+diana.
+3.3.2.- Penetración.
+3.3.3.- Obtención de ARNm vírico.
+Clasificación de Baltimore.
+3.3.4.- Síntesis de proteínas tempranas.
+3.3.5.- Replicación del genoma del virus.
+3.3.6.- Síntesis de proteínas tardías.
+3.3.7.- Ensamblaje.
+3.3.8.- Lisis de la bacteria y liberación de la nueva
+progenie de virus.
+3.4.- Taxonomía de virus. Clásica e International
+Committee on Taxonomy of Viruses (ICTV).
+ TEMA 4. VIRUS BACTERIANOS (BACTERIOFAGOS).
+ 4.1.- Características y Estructuras típicas
+de los bacteriófagos.
+4.2.- Etapas de la infección de los
+bacteriófagos.
+4.2.1.- Adsorción del virus a la célula diana.
+4.2.2.- Penetración del genoma del fago.
+4.2.3.- Síntesis de ARNm vírico, producción
+de proteínas y copias del genoma del fago.
+4.2.4.- Ensamblaje.
+4.2.5.- Lisis de la bacteria y liberación de la nueva
+progenie de virus.
+4.3.- Descripción de los bacteriófagos más
+representativos.
+4.3.1.- Características y replicación de fagos ARN
+mc (+): MS2.
+4.3.2.- Características y replicación de fagos ADN
+mc Fagos utilizados en Biotecnología.
+4.3.2.1.- Características y replicación de fago
+fX174.
+4.3.2.2.- Características y replicación de fago
+M13.
+4.3.3.- Características y replicación de fagos ADN
+bc: fago T4.
+4.3.3.1.- Adsorción y penetración genoma.
+4.3.3.2.- Características genéticas.
+4.3.3.3.- Replicación del genoma.
+4.3.4.- Conceptos en la lisogenia.
+4.3.4.1.- Regulación genética en el
+bacteriófago l.
+4.3.4.2.-Integración del genoma de l en el cromosoma de 
+Escherichia coli
+4.3.5.-Genoma e integración del fago m.
+4.4.- Bacteriófagos de 
+Archaeas.
+ * TEMA 5. VIRUS EUCARIOTAS.
+ 5.1.- Características y estructura general de los
+virus de vertebrados
+5.1.2.- Etapas en la infección vírica.
+5.1.2.1.- Adsorción del virus a la célula
+diana.
+5.1.2.2.- Penetración y descapsidación.
+5.1.2.3.- Obtención de ARNm vírico en la
+célula hospedadora. Clasificación de Baltimore
+5.1.2.4.- Replicación del genoma vírico y
+síntesis de proteínas estructurales.
+5.1.2.5.- Salida del virus de la célula hospedadora y
+adquisición de la envoltura
+5.1.3.- Principales grupos de virus animales
+5.1.3.1.- Virus con genoma ARN.
+5.1.3.1.1.- Virus ARN mc.
+5.1.3.1.1.1.- ARN mc (+). Características generales,
+clasificación y replicación.
+5.1.3.1.1.1.1.- Replicación de 
+Picornavirus y 
+Hepacivirus.
+5.1.3.1.1.1.2.- Familia 
+Retroviridae. Gen 
+Lentivirus (VIH). Características generales y
+replicación.
+5.1.3.1.1.2.- Virus ARN mc (-): Clasificación y
+replicación general.
+5.1.3.1.1.2.1.- Características generales y
+Replicación de Ortomixovirus.
+5.1.3.1.1.2.2.- Características generales y
+Replicación de Rabdovirus.
+5.1.3.1.2.- Virus ARN bc; Características generales y
+Replicación. Reovirus.
+5.1.3.2.- Virus con genoma ADN.
+5.1.3.2.1.- AND mc; parvovirus.
+5.1.3.2.2.- ADN bc: Características generales y
+Replicación.
+5.1.3.2.2.1.- Características generales y
+Replicación de Hepadnavirus (hepatitis B).
+5.1.3.2.2.2.- Características generales y
+Replicación de Virus Oncógenos:Poliomavirus.
+5.1.3.2.2.3.- Características generales y
+Replicación de Herpesvirus.
+5.1.3.2.2.4.- Características generales y
+Replicación de Poxvirus.
+5.1.3.2.2.5.- Características generales y
+Replicación de Adenovirus.
+5.2.- Agentes antivirales.
+5.2.1.- Nucleósidos.
+5.2.1.1.- Aciclovir.
+5.2.1.2.- Ribavirina.
+5.2.1.3.- Ganciclovir.
+5.2.1.4.- Cidofovir.
+5.2.2.- Inhibidores de proteasas víricas.
+5.2.2.1.- Nucleosídicos.
+5.2.1.2.- No Nucleosídicos.
+5.2.3.- Inhibidores nucleósidos de transcriptasa inversa
+(INTI).
+5.2.4.- Inhibidores de la neuraminidasa.
+5.2.5.- Otros.
+5.2.6.- Resistencias a antivirales.
+5.3. Virus de insectos.
+5.4.- Virus de plantas.
+5.5.- Virus y cáncer.
+ II BACTERIOLOGÍA
+ II.I. MORFOLOGÍA Y ESTRUCTURA DE LAS BACTERIAS
+ 
+ TEMA 6. TAMAÑO Y FORMA DE LAS BACTERIAS.
+CÁPSULA.
+ 6.1.- Tamaño de las bacterias.
+6.1.1.- Propiedades bacterianas asociadas a su
+tamaño.
+6.1.2.- Nanobacterias.
+6.2.- Morfología bacteriana.
+6.3.- Estructura de la célula bacteriana.
+6.4.- Polímeros extracelulares: Glicocalix
+(cápsula y capas mucosas externas) y Capa S
+6.4.1.- Cápsula o Glicocalix
+6.4.1.1.- Composición Química
+6.4.1.2.- Observación
+6.4.1.3.- Biosíntesis
+6.4.1.4.- Funciones
+6.4.2.- Capa S
+  TEMA 7.- PARED CELULAR BACTERIANA.
+ 7.1.- Tinción de Gram.
+7.2.- Tipos de Pared Celular.
+7.2.1.- Pared celular de las bacterias Gram positivas.
+7.2.1.1.- Péptidoglicano.
+7.2.1.2.- Otros componentes.
+7.2.1.2.1.- Ácidos teicoicos.
+7.2.1.2.2.- Ácidos lipoteicoicos.
+7.2.1.2.3.- Proteínas de la Pared.
+7.2.1.2.3.1.- Exoenzimas.
+7.2.1.2.3.2.- Proteínas de superficie.
+7.2.1.2.4.- Lípidos.
+7.2.1.3.- Características de la Pared celular de
+bacterias Gram positivas.
+7.2.2.- Pared celular de las bacterias Gram negativas.
+7.2.2.1.- Péptidoglicano.
+7.2.2.2.- Membrana Externa.
+7.2.2.2.1.- Proteínas.
+7.2.2.2.1.1.- Lipoproteína de Braun.
+7.2.2.2.1.2.- Porinas.
+7.2.2.2.2.- Lipopolisacárido.
+7.2.2.2.2.1.- Lípido A.
+7.2.2.2.2.2.- Cadena R.
+7.2.2.2.2.3.- Cadena lateral.
+7.2.2.2.2.4.- Función del LPS.
+7.3.- Función de la Pared celular bacteriana.
+7.4.- Diferencias en la Pared Celular de bacterias Gram (+) y
+Gram (-).
+7.5.- La pared celular en 
+Archaeas.
+7.6.- Síntesis del péptidoglicano.
+7.7.- Crecimiento de la pared celular.
+7.8.- Formas bacterianas carentes de pared celular:
+Esferoplastos, Protoplastos y Formas L.
+TEMA 8.- MEMBRANA CITOPLASMÁTICA.
+ 8.1.- Composición química.
+8.1.1.- Proteínas.
+8.1.2.- Lípidos.
+8.2.- Lípidos de la Membrana de Arqueobacterias.
+8.3.- Modelos de Membranas en Arqueas.
+8.4.- Espacio periplasmático.
+8.4.1.- Función de los enzimas del espacio
+periplasmático.
+8.5.- Función de la Membrana citoplasmática.
+8.6.- SISTEMAS DE SECRECIÓN DE PROTEÍNAS.
+8.6.1.-Sistema dependiente de Sec.
+8.6.2.- Sistemas de secreción en bacterias Gram (-).
+8.7.- Estructuras asociadas a la Membrana
+citoplasmática.
+8.7.1.- Mesosomas.
+8.7.2.- Cromatóforos.
+TEMA 9.- PROTOPLASTO O CITOPLASMA BACTERIANO.
+9.1.- Ribosomas.
+9.1.1.-Diferencias con los de la célula eucariota.
+9.1.2.- Función.
+9.2.- Cromosoma.
+9.2.1.- Composición química.
+9.2.2.- Tamaño y estructura.
+9.3.- Elementos genéticos extracromosómicos.
+9.3.1.- Plásmidos.
+9.3.1.1.- Características.
+9.3.1.2.- Tipos de Plásmidos.
+9.3.1.3.- Curación.
+9.3.2.- Elementos genéticos transponibles.
+9.3.2.1.- Secuencias de Inserción (IS).
+9.3.2.2.- Transposones (Tn).
+9.3.2.2.1.- Mecanismo de integración de transposones.
+9.4.-INCLUSIONES Y ORGÁNULOS CITOPLASMÁTICOS.
+9.4.1.- Inclusiones de reserva.
+9.4.1.1.-Inclusiones de reserva de compuestos
+orgánicos.
+9.4.1.1.1.- Compuestos de reserva de átomos de
+Carbono.
+9.4.1.1.1.1.- Gránulos de poli-hidroxi- alcanoatos.
+Granulos de  poli - b - hidroxibutírico (PHB).
+9.4.1.1.1.2.- Inclusiones de polisacáridos.
+9.4.1.1.1 3.-Inclusiones de Hidrocarburos.
+9.4.1.1.2.- Compuestos de reserva de átomos de
+Nitrógeno. Gránulos de cianoficina.
+9.4.1.2.-Inclusiones de reserva de compuestos
+inorgánicos.
+9.4.1.2.1.- Gránulos de polifosfatos.
+(metalocromáticos, Volutina).
+9.4.1.2.2.- Carboxisomas.
+9.4.1.2.3.- Gránulos de azufre.
+9.4.2.- Inclusiones y orgánulos no de reserva.
+9.4.2.1.- Vesículas de gas.
+9.4.2.2.- Inclusiones de sales minerales.
+9.4.2.3.- Clorosomas y Tilacoides.
+9.4.2.4.-Magnetosomas.
+9.4.2.5.- Anammoxosoma.
+ TEMA 10.- APENDICES BACTERIANOS Y MOVIMIENTO.
+ 10.1.- Flagelo.
+10.1.1.- Estructura del flagelo.
+10.1.1.1.- Filamento.
+10.1.1.2.- Gancho o codo.
+10.1.1.3.- Cuerpo o corpúsculo basal.
+10.1.2.- Función y características del movimiento
+flagelar.
+10.1.3.- Biosíntesis del flagelo.
+10.2.- Taxias.
+10.2.1.- Casos especiales de taxias
+10.3.- Flagelos periplasmáticos.
+10.4.- Movimiento deslizante.
+10.5.- Otros apéndices bacterianos.
+10.5.1.- Fimbrias o Pili.
+10.5.2- Pelos sexuales.
+10.5.3.- Prosteca.
+10.5.4.- Tallos y pedúnculos.
+ TEMA 11.- DIFERENCIACIÓN CELULAR.
+ESPORULACIÓN.
+ 11.1.- Endospora bacteriana.
+11.1.1.- Características generales.
+11.1.1.2.- Estructura general de la endospora bacteriana.
+11.1.1.2.1.- Protoplasto.
+11.1.1.2.2.- Pared de la espora.
+11.1.1.2.3.- Corteza.
+11.1.1.2.4.- Pared de la espora.
+11.1.1.2.6.- Corteza.
+11.1.1.2.7.- Cubierta.
+11.1.1.2.8.- Exosporio.
+11.1.2.- Esporulación.
+11.1.2.1.- Activación del proceso de
+esporulación.
+11.1.2.2.- Sustancias de interés producidas durante la
+esporulación.
+11.1.2.3.- Etapas de la esporulación. Género 
+Bacillus.
+11.1.3.- Propiedades biológicas de la espora.
+11.1.4.- Germinación.
+11.1.4.1.- Fase de Activación.
+11.1.4.2.- Fase de Germinación.
+11.1.4.3.- Crecimiento externo.
+11.2.-Otras formas bacterianas originadas por
+diferenciación celular.
+11.2.1.- Quistes.
+11.2.2.- Heteroquistes.
+11.2.3.- Aquinetos.
+11.3.- Formas bacterianas de carácter reproductivo
+11.3.1.- Exosporas.
+11.3.2.- Esporas de Actinomicetos
+II.II. CRECIMIENTO BACTERIANO Y SU CONTROL
+ TEMA 12.- NUTRICIÓN BACTERIANA.
+ 12.1.- Concepto de Nutrición.
+12.2.- Nutrientes universales.
+12.2.1.- Agua.
+12.2.2.- Carbono.
+12.2.2.1.- Clasificación de bacterias en función
+de su fuente de carbono.
+12.2.2.1.1.- Bacterias heterótrofas.
+12.2.2.1.2.- Bacterias autótrofas. Fijación del CO
+
+2 atmosférico.
+12.2.3.- Nitrógeno.
+12.2.3.1.- Fijación del nitrógeno
+atmosférico.
+12.2.4.- Fósforo.
+12.2.5.- Azufre.
+12.2.6.-  Sales minerales.
+12.2.7.- Oligoelementos o micronutrientes.
+12.3.- Factores de crecimiento
+12.3.1.- Concepto de Auxotrofía y Prototrofía.
+12.3.1.1.- Utilidad de las bacterias auxotrofas.
+12.4.- Transporte a través de la membrana
+citoplasmática.
+12.4.1.- Transporte pasivo no específico o
+Difusión.
+12.4.2.- Transporte pasivo específico o Transporte
+facilitado.
+12.4.3.- Transporte activo.
+12.4.3.1.- Transporte activo debido a proteínas
+periplasmáticas.
+12.4.3.2.- Transporte activo asociado al trasiego de
+protones.
+12.4.3.3.-Transporte por translocación de grupos.
+12.4.4.- Captación de Hierro.
+ 13.- METABOLISMO ENERGÉTICO BACTERIANO
+13.1.- CLASIFICACIÓN DE LOS SERES VIVOS SEGÚN SU
+FORMA DE OBTENCIÓN DE ENERGÍA: Quimiotrofía y
+fototrofía.
+13.2.1.- Quimiotrofía.
+13.2.1.1.- FERMENTACIÓN.
+13.2.1.1.1.- tipos de fermentaciones bacterianas:
+alcohólica; homoláctica; Otras fermentaciones
+bacterianas de interés
+13.2.1.2.- RESPIRACIÓN BACTERIANA.
+13.2.1.2.1.- Respiración quimioorganotrofa.
+13.2.1.2.1.1.- Cadena de transporte electrónico.
+13.2.1.2.1.2.- Balance energético de la
+respiración.
+13.2.1.2.1.3. Respiración quimioorganotrofa
+anaerobia.
+13.2.1.2.1.3.1.- Bacterias Desnitrificantes. Importancia
+ecológica.
+13.2.1.2.1.3.2.- Bacterias Reductoras del Azufre y sulfatos.
+13.2.1.2.1.3.3.- Bacterias Metanógenas.
+13.2.1.2.1.3.4.- Otros aceptores de electrones de la
+respiración anaerobia bacteriana.
+13.2.1.2.2.- Respiración quimiolitotrofa.
+13.2.1.2.2.1.- Bacterias oxidantes del azufre.
+13.2.1.2.2.2.- Bacterias oxidantes del Nitrógeno
+(nitrificantes). Bacterias Anammox.
+13.2.1.2.2.3.- Bacterias oxidantes del hidrógeno.
+13.2.1.2.2.4.- Bacterias oxidantes Fe 2+.
+13.2.1.2.2.5.- Oxidación anóxica del Metano.
+13.2.2.- FOTOTROFÍA. Fotosíntesis bacteriana.
+13.2.3.1.-  Fotosíntesis acíclica.
+13.2.3.2.- Fotosíntesis cíclica.
+ TEMA 14.- CRECIMIENTO Y CULTIVO BACTERIANO.
+ 14.1. - Definiciones.
+14.2.- Procesos en la formación del septo de
+división bacteriana
+14.3.- Ciclo celular bacteriano
+14.4.- Crecimiento poblacional.
+14.4.1.- Crecimiento sincrónico.
+14.4.1.1.- Obtención de cultivos sincrónicos.
+14.4.2.- Crecimiento balanceado o equilibrado.
+14.4.3.- Crecimiento restringido y no restringido
+14.4.4.- Cultivo bacteriano continuo. Quimiostato y
+Turbidostato.
+ TEMA 15.- EFECTO DE AGENTES EXTERNOS SOBRE EL CRECIMIENTO
+BACTERIANO.
+ 15.1.- Temperatura.
+15.1.1.- Clasificación de las bacterias por temperatura
+de crecimiento.
+15.1.2.- Mecanismos de adaptación de bacterias a
+hábitat con temperaturas extremas.
+15.2.- pH.
+15.3.- Presión osmótica.
+15.3.1.- Bacterias halófilas.
+15.3.1.1.- Mecanismo de adaptación.
+ TEMA 16.- AGENTES ANTIBACTERIANOS DE UTILIZACIÓN
+CLÍNICA. I. ACCIÓN TÓPICA:
+ANTISÉPTICOS.
+ 16.- Agentes antibacterianos.
+16.1.- ANTISÉPTICOS.
+16.1.1.- ACIDOS.
+16.1.1.1.- Ácido acético.
+16.1.1.2.- Ácido Bórico.
+16.1.2.- ALCOHOLES.
+16.1.2.1.- Alcohol isopropílico.
+16.1.2.2.- Alcohol etílico.
+16.1.3.- OXIDANTES.
+16.1.3.1.- Permanganato potásico.
+16.1.3.2.- Agua Oxigenada (Peróxido de
+Hidrógeno).
+16.1.4.- HALOGENOS.
+16.1.4.1.- Hipoclorito sódico.
+16.1.4.2.- Cloramina (Tosilcloramina, Cloramina T).
+16.1.4.3.- Yodo.
+16.1.4.4.- Povidona iodada.
+16.1.5.- IONES METALICOS.
+16.1.5.1.- Merbromina Tiomersal.
+16.1.5.2.- Nitrato de plata.
+16.1.6.- FENOLES.
+16.1.6.1.- Fenol y Cresoles.
+16.1.6.2.- Hexaclorofeno.
+16.1.6.3.- Triclosán.
+16.1.7.- DETERGENTES CATIONICOS.
+16.1.7.1.- Cloruro de benzalconio. Cloruro de benzetonio.
+16.1.8.- COLORANTES.
+16.1.8.1.- Metilrosanilina (Violeta de Genciana).
+16.1.9.- OTROS.
+16.1.9.1.- Clorhexidina.
+ TEMA 17.- AGENTES ANTIBACTERIANOS DE UTILIZACIÓN
+CLÍNICA. II. ACCIÓN SISTÉMICA:
+ANTIBIÓTICOS Y QUIMIOTERÁPICOS DE SÍNTESIS Y
+ANTIMICÓTICOS.
+17.1.- AGENTES ANTIBACTERIANOS QUE ACTÚAN SOBRE LA PARED
+BACTERIANA.
+17.1.1.- Antibióticos beta - lactámicos. Mecanismo
+de acción.
+17.1.1.1.- Penicilinas. Características generales y
+clasificación.
+17.1.1.1.1.- Penicilinas naturales: Bencil - penicilina (G) y
+Fenoxi-metil-penicilina (V).
+17.1.1.1.2.- Penicilinas anti-estafilocócicas: Isoxacil -
+penicilinas (Oxacilina, Cloxacilina, Dicloxacilina, Flucoxacilina),
+Nafcilina, y Meticilina.
+17.1.1.1.3.- Amino-penicilinas o Penicilinas de amplio espectro:
+Amoxicilina, y Ampicilina: (Bacampicilina, Metampicilina
+Pivampicilina Talampicilina).
+17.1.1.1.4.- Amidino-penicilinas, o penicilinas antibacterias
+Gram (-): Mecilinan (Pivmecilinan).
+17.1.1.1.5.- Penicilinas Anti- 
+Pseudomonas. Carboxipenicilinas (Ticarcilina y
+Carbenicilina) y Ureidopenicilinas (Azlocilina, Mezlocilina y
+Piperacina).
+17.1.1.2.- Cefalosporinas. Características
+genenerales.
+17.1.1.2.1.- Principales cefalosporinas. Cefalosporinas de
+1ª, 2ª, 3ª, 4ª y 5ª generación.
+17.1.1.3.- Otros betalactámicos.
+17.1.1.3.1.- Monobactámicos.
+17.1.1.3.2.- Carbapénicos.
+17.1.1.4.- Inhibidores de beta-lactamasas: Derivados de Oxapenam
+y sulfonas del ácido penicilámico.
+17.1.2.- Antibióticos Glicopéptidos.
+17.1.3.- Fosfomicina.
+17.1.4.- Bacitracina.
+17.1.5.- Isoniacidas.
+17.2.- AGENTES ANTIBACTERIANOS QUE ACTÚAN SOBRE LA
+MEMBRANA CITOPLASMÁTICA.
+17.2.1.- Antibióticos polipeptidicos. Polimixinas.
+ 17.3.- AGENTES ANTIBACTERIANOS QUE ACTÚAN SOBRE LA
+SÍNTESIS DE ÁCIDOS NUCLÉICOS.
+17.3.1.- Síntesis de ADN
+17.3.1.1.-  Quinolonas.
+17.3.1.2.- Metronidazol
+17.3.1.3.- Análogos estructurales del P.A.B.A:
+Sulfamidas. PAS, Sulfonas,
+17.3.1.4.- Trimetoprim.
+17.3.2.-Síntesis de ARN: Rifampicinas.
+17.4.- AGENTES ANTIBACTERIANOS QUE ACTÚAN SOBRE RIBOSOMA
+BACTERIANO
+17.4.1.- SUBUNIDAD 30 S.
+17.4.1.1.- Aminoglucósidos.
+17.4.1.2.- Tetraciclinas.
+17.4.2.- SUBUNIDAD 50 S.
+17.4.2.1.- Macrólidos y Ketólidos.
+17.4.2.2.- Oxazolidinonas.
+17.4.2.3.- Estreptograminas.
+17.4.2.4.- Lincosaminas. Clindamicina.
+17.4.2.5.- Anficoles. Cloranfenicol.
+17.5.- RESISTENCIA BACTERIANA A FÁRMACOS
+ANTIBACTERIANOS.
+17.5.1.- Definición.
+17.5.2.- Tipos.
+17.5.2.1.- Natural o intrínsica.
+17.5.2.2.- Adquirida.
+17.5.2.2.1.- Mecanismos de adquisición.
+17.5.3.- Multirresistencia.
+17.5.4.- Diseminación de la resistencia.
+17.5.5.- Terapia antibacteriana. Consideraciones generales.
+17.5.6.- Superinfecciones.
+17.6.- AGENTES ANTIMICÓTICOS.
+17.6.1.- Mecanismos de acción.
+17.6.2.- Antimicóticos para micosis superficiales.
+17.6.2.1.- Antibióticos: Nistatina, Griseofulvina.
+17.6.2.2.- Derivados del Imidazol.
+17.6.2.3.- Otros antifúngicos: Tolnaftato.
+17.6.3.- Antimicóticos para micosis profundas.
+Anfotericina B, Derivados del Imidazol, Flucitosina.
+ II.III. GENÉTICA
+ TEMA 18.- GENÉTICA BACTERIANA.
+ 18.1.- Variaciones bacterianas Tipos.
+18.2.- Variaciones genotípicas No asociadas a intercambio
+de información genética.
+18.2.1.- Mutaciones.
+18.2.1.1.- Agentes mutagénicos.
+18.2.1.1.1.- Agentes físicos. Radiaciones ionizantes y
+ultravioleta.
+18.2.1.1.2.- Agentes químicos.
+18.2.1.1.2.1.- Análogos de bases. 2, Aminopurina y 5,
+Bromouracilo.
+18.2.1.1.2.2.- Agentes que alteran las bases: Óxido
+nitroso e Hidroxilamina.
+18.2.1.1.2.3.- Agentes alquilantes: Nitrosguanidinas; Etilmetano
+sulfonato; Mostazas nitrogenadas; Mitomicina
+18.2.1.1.2.4.- Agentes intercalantes: Naranja de Acridina;
+Bromuro de etidio.
+18.2.1.2.- .- Mutaciones en genomas ARN.
+18.2.1.3.- Mecanismos de reparación del ADN.
+18.2.1.3.1.- Reparación por escisión.
+18.2.1.3.2.- Reparación por recombinación.
+18.2.1.3.3.- Mecanismo de reparación de emergencia.
+18.2.1.4.- Reversión de mutaciones.
+18.2.1.4.1.- Directas.
+18.2.1.4.2.- Indirectas.
+18.2.1.5.- Metodología utilizada en el estudio de las
+mutaciones.
+18.2.1.5.1.- Detección de mutantes.
+18.2.1.5.2.- Enriquecimiento mutantes.
+18.2.1.5.2.1.- Enriquecimiento por contraselección.
+18.2.1.6.- Ensayos de mutagenicidad y carcinogénesis.
+18.2.1.6.1.- Test de Ames.
+18.2.1.6.2.- Inductest.
+18.2.1.6.3.- Mutatest.
+ TEMA 19.- TRANSFERENCIA DE MATERIAL GENÉTICO ENTRE
+BACTERIAS
+ 19.1.-TRANSFORMACIÓN.
+19.1.1.- Transformación en Bacterias Gram (+).
+19.1.1.1.- Factor Activador de la Competencia (FAC).
+19.1.1.2.- Entrada del ADN a la bacteria receptora.
+19.1.1.3.-Integración ADN.
+19.1.2.- Transformación en bacterias Gram (-), 
+Haemophilus.
+19.1.3.- Transformación artificial.
+19.1.3.1.-Transfección.
+19.1.3.2.- Transformación por Plásmidos.
+19.1.3.3.- Electroporación
+19.2.- CONJUGACIÓN  BACTERIANA.
+19.2.1.- Bacterias F 
+- y F 
++.
+19.2.2.- Conjugación en bacterias Gram (-).
+19.2.2.1.- Formación de agregados inestables.
+19.2.2.2.- Estabilización del cruce.
+19.2.2.3.- Transferencia de material genético.
+19.2.2.4.- Desagregación activa.
+19.2.3.- Bacterias Hfr.
+19.2.3.1.- Zigosis letal.
+19.2.3.2.- Construcción de mapa genético con
+Hfr
+ 19.2.4.- Conjugación en bacterias Gram (+).
+19.2.5.- Sexducción.
+19.3.-TRANSDUCCIÓN.
+19.3.1.- Transducción generalizada.
+19.3.2.- Transducción específica.
+19.3.3.- Transducción abortiva.
+ II. IV.- TAXONOMÍA BACTERIANA
+ TEMA 20.- TAXONOMÍA BACTERIANA
+ 20.1.- Definiciones.
+20.2.- Tipos de clasificación en bacterias.
+20.2.1.- Fenética.
+20.2.1.1.- Numérica.
+20.2.2.- Filogenética.
+20.2.2.1.- Distancia evolutiva y secuencias signaturas.
+20.2.2.2. Árbol filogenético bacteriano.
+20.2.3.- Genotípica
+20.3.- Características utilizadas en taxonomía y
+filogenia bacteriana.
+20.3.1.- Clásicas.
+20.3.1.1.- Morfológicas.
+20.3.1.2.- Fisiológicas y metabólicas.
+20.3.1.3.- Ecológicas.
+20.3.1.4.- Genéticas.
+20.3.2.- Moleculares.
+20.3.2.1.- Composición de ácidos nucléicos
+(% G+C).
+20.3.2.2.- Hibridación de ácidos
+nucléicos.
+20.3.2.3.- Secuenciación de ácidos
+nucléicos.
+20.3.3.4.- Huella genómica
+20.3.3.5.- Secuenciación de aminoácidos.
+20.4.- Nomenclatura bacteriana: binomial.
+20.5.- Bergey´s Manual of Systematic Bacteriology.
+ TEMA 21.- DOMINIO 
+ARCHAEA (Arqueobacterias).
+ 21.1.- Características generales. Pared, membrana,
+genética, metabolismo y hábitats.
+21.2.- Dominio 
+Archaea. Taxonomía.
+21.2.1.- Phylum AI. 
+Crenarchaeota. Características generales y
+órdenes más importantes.
+21.2.1.1.- Órdenes más importantes: Orden 
+Sulfolobales y Orden 
+Thermoproteales.
+21.2.2.- Phylum AII. 
+Euryarchaeota.
+21.2.2.1.- 
+Archaea Metanógenas Características
+generales.
+21.2.2.1.1.- Sustratos metanolizables por metanógenas
+21.2.2.1.2.- Hábitat e Importancia eclógica de 
+Archaea metanógenas.
+21.2.2.1.3.- Taxonomía.
+21.2.2.2.- 
+Archaea halófilas. Características
+generales.
+21.2.2.2.1.- Mecanismos de adaptación
+21.2.2.3.- Termoplasmas. Características generales
+Taxonomía.
+21.2.2.3.1. Características generales de los
+géneros: Thermoplasma; Picrophilus.
+21.2.2.4. 
+Archaea solubilizadoras de Azufre. Géneros: 
+Thermococci y 
+Pyrococcus.
+
+21.2.2.5.- Archaea reductoras de sulfatos. Género: 
+Archaeoglobus
+.
+ TEMA 22.- BACTERIAS TERMÓFILAS.
+ 22.1.- Phylum BI. 
+Aquificae.
+22.2.- Phylum  BII. 
+Thermothogae.
+22.3.- Phylum BIII. 
+Thermodesulfobacteria.
+22.4.- Phylum  B IV. 
+Deinococous-Thermus.
+22.4.1.- Deinococos. Características generales.
+22.4.1.1.- Diferencias de Deinococos con otras bacterias.
+22.4.2.- Género 
+Thermus.
+22.5.- Phylum  B V. 
+Chrysiogenetes.
+22.5.- Bacterias filamentosos fototrofas
+anoxigénicas.
+22.5.1.- Bacterias verdes no del azufre. Orden I. 
+Chloroflexales.
+22.6.- Phylum VIII. 
+Nitrospirae.
+ TEMA 23.- CIANOBACTERIAS Y 
+CHOROBI.
+ 23.1. Phylum BX. Bacterias fotosintéticas
+oxigénicas (Cianobacterias).
+23.1.1.- Características generales.
+23.1.2.- Taxonomía.
+23.2.-Phylum BXI. 
+Chlorobi. Bacterias verdes del Azufre
+23.2.1.- Características generales.
+TEMA 24.- CLASE I. ALFA-PROTEOBACTERIAS.
+ 24.1.- Orden I. 
+Rhodospirillaceales.
+24.1.1.- Fam. I. 
+Rhodospirillaceae. [Bacterias Purpúreas (Rojas) No
+del Azufre].
+24.1.1.1.- Características generales.
+24.1.1.2.- Géneros: 
+Rhodospirilum, 
+Azospirillum.
+Magnetospirillum.
+24.1.2.- Fam. II. 
+Acetobacteraceae.
+24.1.2.1.- Características generales.
+24.1.2.2.- Géneros: 
+Acetobacter y 
+Gluconobacter.
+24.2.- Orden II. 
+Rickettsiales.
+24.2.1.- Fam. I. 
+Rickettsiaceae.
+
+24.2.1.1.- Características generales.
+
+
+24.2.1.2.- Género Rickettsia. R. conorii, R.
+prowazakii. Patogenia, diagnóstico y tratamiento.
+24.2.2.- Fam. II. 
+Ehrlichiaceae. Género 
+Ehrlichia.
+24.2.2.1.- Características generales y patogenia.
+24.3.- Orden IV. 
+Sphingomonadales.
+24.4.- Orden V. 
+Caulobacterales. Gen. 
+Caulobacter. Características generales y ciclo
+celular.
+24.5.- Orden VI. 
+Rhizobiales.
+24.5.1.- Fam. I. 
+Rhizobiaceae.
+24.5.2.- Fam. II. 
+Bartonellaceae. Gen. Bartonella. B. quintana y 
+B.henselae.Patogenia, diagnóstico y
+tratamiento.
+24.5.3.- Fam. III. 
+Brucellaceae. G. 
+Brucella. Patogenia, diagnóstico y tratamiento.
+24.5.4.- Fam. VII. 
+Bradyrhizobiaceae. Gen. 
+Nitrobacter.
+24.5.5.- Fam. VIII. 
+Hyphomicrobiaceae. Gen. 
+Hyphomicrobium.
+TEMA 25.- CLASE II. BETA-PROTEOBACTERIA.
+ 25.1.- Orden. I. 
+Burkholderiales.
+25.1.1.- Fam. I. 
+Burkholderiaceae. Características generales.
+25.1.1.1.- Género 
+Burkholderia. Especies patógenas: 
+B. cepacia y 
+B. mallei.
+25.1.2.- Fam. IV. 
+Alcaligenaceae.
+25.1.2.1.- Género 
+Alcalígenes.
+25.1.2.2.- Género 
+Bordetella.
+25.1.3.- Fam. V 
+. Comamonadaceae.
+25.2.- Orden II. Hydrogenophilales.
+25.2.1.- Fam. I. 
+Hydrogenophilaceae. Gen. 
+Thiobacillus y 
+Thiomicrospira.
+25.3.- Orden IV. 
+Neisseriales.
+25.3.1.- Fam. I.- 
+Neisseriaceae.
+25.3.1.1.- Gen. 
+Neisseria.
+25.3.1.1.1.- 
+N. gonorrhoeae (gonococo). Patogenia, diagnóstico y
+tratamiento.
+25.3.1.1.2.- 
+N. meningitidis (meningococo). Patogenia,
+diagnóstico, y tratamiento.
+25.3.1.2.- Géneros 
+Aquaspirillum
+y Chromobacterium.
+25.4.- Orden V. 
+Nitrosomonadales.
+25.4.1.-Fam. I. 
+Nitrosomonadaceae.
+25.4.2.- Fam. II. 
+Spirillaceae.
+25.4.3.- Fam. III. 
+Gallionellaceae.
+ TEMA 26.- CLASE III. GAMMA-PROTEOBACTERIA
+ 26.1.- Orden. I. Chromatiales
+26.1.1.- Fam. I. 
+Chromatiaceae [Bacterias Purpúreas (Rojas) del
+Azufre]. Gen. 
+Chromatium.
+26.1.2.- Fam. II. 
+Ectothiorhodospiraceae.
+Gen. Ectothiorhodospira.
+26.2.- Orden II. Xanthomonadales.
+26.2.1.- Fam. I. 
+Xanthomonadaceae
+26.3.- Orden III. Fam. I. 
+Cardiobacteraceae.
+26.4.- Orden IV. 
+Thiotrichales.
+26.4.1.-Género 
+Beggiatoa.
+26.4.2.- Género 
+Thiotrix.
+26.4.3.- Género 
+Leucothrix.
+26.5.- Orden V. 
+Legionellales.
+26.5.1.- Fam. I. 
+Legionellaceae. Características generales. Gen. 
+Legionella. 
+L. pneumophila. Patogenia. Diagnóstico.
+Tratamiento.
+26.5.2.- Fam. II. 
+Coxiellaceae.
+26.5.2.1 
+.- Género 
+Coxiella.
+C. buerneti. Patogenia. Diagnóstico.
+Tratamiento.
+26.6.- Orden VI. 
+Methylococcales.
+26.7.- Orden. VIII. 
+Pseudomonadales.
+26.7.1.- Fam. I. 
+Pseudomonadaceae.
+26.7.1.1.- Gen. 
+Pseudomonas.
+26.7.1.2.- Género 
+Azotobacter.
+26.7.2.- Fam II. 
+Moraxellaceae.
+26.7.2.1.- Gen. 
+Moraxella.
+26.7.2.2.- Gen. 
+Acinetobacter.
+26.8. Orden X. 
+Vibrionales. Fam. I. 
+Vibrionaceae.
+26.8.1.- Gen. 
+Vibrio
+26.8.2.- Gen. 
+Photobacterium.
+26.9.- Orden XI. 
+Enterobacteriales. Fam. 
+Enterobacteriaceae
+26.9.1.- Características generales.
+26.9.2.- Gen. 
+Escherichia.
+26.9.3.- Gen. 
+Shigella.
+26.9.4.- Gen. 
+Salmonella.
+26.9.5.- Gen. 
+Klebsiella.
+26.9.6.- Gen. 
+Enterobacter.
+26.9.7.- Gen. 
+Citrobacter.
+26.9.8.- Gen. 
+Serratia.
+26.9.9.- Gen. 
+Proteus.
+26.9.10.- Gen. 
+Yersinia.
+26.9.11.- Gen. 
+Calymmatobacterium.
+26.9.12.- Gen. 
+Erwinia.
+26.10.- Orden XII. 
+Pasteurellales.
+26.10.1.- 
+Gen. Pasteurella.
+26.10.2.- Gen. 
+Haemophilus.
+26.10.2.1.- 
+H. Influenzae.
+26.10.2.2.- 
+H. ducreyi.
+ TEMA 27.- CLASE IV. DELTA-PROTEOBACTERIA Y CLASE V.
+EPSILON-PROTEOBACTERIA
+ 27.1.- Bacterias reductoras del Azufre y Sulfatos
+(Ordenes: Desulfurellales,
+27.2.- Orden VI. 
+Bdellovibrionales. Fam. 
+Bdellovibronaceae.
+27.3.- Orden VII. Myxococcales.
+27.3.1.- Ciclo celular.
+27.4.- Clase V. Epsilon-proteobacteria.
+27.4.1.- Orden I. 
+Campylobacterales.
+22.4.1.1.- Fam. I. 
+Campylobacteraceae.
+27.4.1.2.- Fam II. 
+Helicobacteraceae.
+ TEMA 28.- PHYLUM BXIII. FIRMICUTES CON BAJO CONTENIDO EN
+G+C
+ 28.1.- Clase 
+Clostridia.
+28.1.1.- Orden I. 
+Clostridiales. Fam. I. 
+Clostridiaceae. Gen. 
+Clostridium.
+28.1.1.1.- Características generales.
+28.1.1.2.- 
+C. tetani. Patogenia, tratamiento y profilaxis.
+28.1.1.3.- 
+C. botulinum. Patogenia, tratamiento y profilaxis.
+28.1.1.4.- 
+C. difficile. Patogenia, tratamiento.
+28.1.1.5.- 
+C. perfringens. Patogenia, tratamiento y profilaxis.
+28.1.2.- Otras familias.
+Fam.II. 
+Lachnospiraceae. Gen. 
+Ruminococcus y 
+Coprococcus
+Fam.III. 
+Peptostreptococcaceae. Gen. 
+Peptostreptococcus.
+Fam.IV. 
+Peptococcaceae. Gen. 
+Peptococcus. Gen. 
+Desulfotomaculum.
+Fam.V. 
+Heliobacteriaceae. Gen. 
+Heliobacterium y 
+Heliophilum
+28.2.- Clase II. 
+Mollicutes.
+28.2.1.- Orden I. 
+Mycoplasmatales.
+28.2.1.1.- Fam. I. 
+Mycoplasmataceae. Gen. 
+Mycoplasma y 
+Ureoplasma.
+28.2.2.- Orden II. 
+Entomoplasmatales.
+28.2.2.1.- Fam. I. 
+Entomoplasmataceae. Gen. 
+Entomoplasma.
+28.2.2.2.- Fam.II. 
+Spiroplasmataceae.
+Gen. Spiroplasma.
+28.2.3.- Familia de inclusión incierta. Fam. 
+Erysipelotricheae. Gen. 
+Erysipelothrix.
+28.3.- Clase III 
+Bacilli.
+28.3.1.- Orden I. 
+Bacillales.
+28.3.1.1.- Fam. 
+Bacillaceae.
+28.3.1.1.1.- Gen. 
+Bacillus. 
+B. anthracis. Patogenia, tratamiento y profilaxis.
+28.3.1.1.2.- Otras especies de 
+Bacillus: B. cereus.
+B. thurigiensis, B. popilliae.
+28.3.1.2.- Fam. II. 
+Caryophanaceae. Gen 
+. Caryophanom.
+28.3.1.3.- Fam. III. 
+Listeraceae. Gen 
+Listeria. 
+L. monocytogenes. Patogenia, y tratamiento
+28.3.1.4.- Fam. IV. 
+Staphylococcaceae.
+28.3.1.4.1.- Gen. 
+Staphylococcus.
+28.3.1.4.1.1.- 
+S. aureus. Patogenia, Diagnóstico, Tratamiento y
+profilaxis.
+28.3.1.4.1.2.- 
+S. epidermidis. Patogenia, Diagnóstico, Tratamiento
+y profilaxis.
+28.3.1.4.1.3.- Otros 
+Staphylococcus de interés clínico. 
+S. saprophyticus y 
+S.
+lugdunensis.
+28.3.2.- Orden II. 
+Lactobacillales
+28.3.2.1.- Fam. 
+Lactobacillaleaceae
+28.3.2.1.1.- Gen. 
+Lactobacillus
+28.3.2.2.- Fam. II. 
+Enterococcaceae. Gen. Enterococcus. Interés
+clínico.
+28.3.2.3.- Fam. III. 
+Leuconostocaceae.
+28.3.2.4.- Fam IV. 
+Streptococcaceae.
+28.3.2.4.1.- Gen. 
+Streptococcus.
+28.3.2.4.1.1.- Grupo hemolítico o Piogénico.
+28.3.2.4.1.1.1.- 
+S. pyogenes. Patogenia, Diagnóstico,
+Tratamiento.
+28.3.2.4.1.1.2.- 
+S. pneumoniae. Patogenia, Diagnóstico,
+Tratamiento.
+28.3.2.4.1.1.3.- 
+S. agalactiae. Patogenia, Diagnóstico,
+Tratamiento.
+28.3.2.4.1.2.- Grupo de estreptococos orales.
+28.3.2.4.2.- Género 
+Lactococus.
+TEMA 29.- 
+ACTINOBACTERIA.
+ 29.1.- Orden I. 
+Actinomycetales.
+29.1.1.- Suborden I. 
+Actinomycineae. Características generales.
+29.1.1.1.- Fam. I. 
+Actinomycetaceae.
+29.1.2.- Suborden 
+Micrococcineae.
+29.1.2.1.- Fam. Micrococcaceae.
+29.1.2.2.- Fam. 
+Cellulomanadaceae.
+29.1.2.3.- Fam. 
+Dermatophilaceae.
+29.1.3.- Suborden. 
+Corynebacterineae.
+29.1.3.1.- Fam. 
+Corynebacteraceae.
+29.1.3.1.1.- Gen. 
+Corynebacterium.
+29.1.3.2.- Fam II. 
+Mycobacteraceae.
+29.1.3.2.1.- Gen. 
+Mycobacterium.
+29.1.3.2.1.1.- 
+M. tuberculosis.
+29.1.3.2.1.2.- Micobacterias atípicas.
+29.1.3.2.1.3.- 
+M. leprae.
+29.1.3.3.- Fam. III. 
+Norcardiaceae.
+29.1.4.- Suborden IV. 
+Micromonosporineae.
+29.1.4.1.- Fam. I. 
+Micromonosporinaceae.
+29.1.5.- Suborden V. 
+Propionibacterineae.
+29.1.5.1.- Fam. I. 
+Propionibacteraceae.
+29.1.6.- Suborden VI. 
+Streptomycineae.
+29.1.6.1.- Fam. I. 
+Streptomycetaceae
+29.1.7.- Suborden VII. 
+Streptosporangineae.
+29.1.7.1.- Fam. II. 
+Thermomonosporaceae.
+29.1.8.- Suborden VIII. 
+Frankineae.
+29.1.8.- Fam. I. 
+Frankiaceae.
+29.2.- Orden II. 
+Bifidobacteriales.
+29.2.1.- Fam. 
+Bifidobacteriaceae.
+ TEMA 30.- PLANCTOMICETOS CLAMIDEAS Y ESPIROQUETAS
+ 30.1.- Phylum BXV. Planctomicetes.
+30.2.- Phylum BXVI. Clamydiae.
+30.2.1.- Gen. 
+Chlamydia.
+30.3.- Phylum BXVII Spirochaetes.
+30.3.1.- Características generales.
+30.3.2.- Familia I. 
+Spirochaetaceae.
+30.3.2.1.- Géneros patógenos: 
+Treponema.
+30.3.2.2.- Gen. 
+Borrelia
+30.3.3.- Familia II. 
+Leptospiraceae. Género 
+Leptospira.
+TEMA 31.- BACTEROIDES Y FUSOBACTERIAS.
+ 31.1.- Phylum XX. Bacteroides.
+31.1.1.- Gen. 
+Bacteroides.
+31.2.- Phylum XXI. Fusobacterias.
+31.2.1.- Gen. 
+Fusobacterium.
+31.2.2.- Gen. 
+Streptobacillus.
+ PROGRAMA DE SEMINARIOS
+ TEMA 1.- NORMAS BÁSICAS DE SEGURIDAD EN EL
+LABORATORIO DE MICROBIOLOGÍA.
+1.1.- ANTECEDENTES HISTÓRICOS.
+ 1.2.- PRINCIPALES VÍAS DE INFECCIÓN EN EL
+LABORATORIO.
+1.2.1.- Inhalación.
+1.2.2.- Ingestión.
+1.2.3.- Inoculación.
+1.2.4.- Penetración por vía cutánea o
+mucosas.
+ 1.3.- CLASIFICACIÓN DE LOS AGENTES
+BIOLÓGICOS EN FUNCIÓN DEL RIESGO DE
+INFECCIÓN.
+ 1.3.1.- LABORATORIOS DE BAJO NIVEL DE CONTENCIÓN
+BIOLÓGICA [NIVELES 1 Y 2].
+ 1.3.1.1.- AGENTES BIOLÓGICOS: GRUPO 1.
+1.3.1.1.1.- Recomendaciones para trabajos con agentes
+biológicos del grupo 1.
+1.3.1.1.2.- Prácticas especiales.
+1.3.1.1.3.- Equipo de seguridad.
+1.3.1.1.4.-Instalaciones.
+ 1.3.1.2.- AGENTES BIOLÓGICOS: GRUPO 2.
+1.3.1.2.1.- Recomendaciones para trabajos con agentes
+biológicos del grupo 2.
+1.3.1.2.2.- Prácticas especiales.
+1.3.1.2.3.- Equipos de seguridad.
+1.3.1.2.4.- Instalaciones.
+ 1.3.2.- LABORATORIOS DE ALTO NIVEL DE CONTENCIÓN
+BIOLÓGICA [NIVELES 3 Y 4].
+ 1.3.2.1.- AGENTES BIOLÓGICOS: GRUPO 3.
+1.3.2.1.1.- Prácticas especiales.
+1.3.2.1.2.- Equipo de seguridad.
+1.3.1.3.- Instalaciones.
+ 1.3.2.2.- AGENTES BIOLÓGICOS: GRUPO 4.
+1.3.2.2.1.- Prácticas especiales.
+1.3.2.2.2.- Equipos de seguridad.
+1.3.2.2.3.- Instalación del laboratorio de nivel 4.
+
+ 1.4.- NIVELES DE CONTENCIÓN EN
+CULTIVOS CELULARES.
+ TEMA 2.- CONTROL DEL CRECIMIENTO BACTERIANO
+2.- Control del crecimiento bacteriano.
+2.1. Agentes esterilizantes, Bacteriostáticos,
+Bactericidas Desinfectantes, Antisépticos.
+Quimioterápicos, y Antibióticos. Definiciones
+ 2.1.1.- Agentes esterilizantes.
+ 2.1.1.1.- El calor.
+2.1.1.1.1.- Temperaturas críticas. Temperatura:
+mínima; óptima y máxima de crecimiento.
+2.1.1.1.2.- Efecto letal del calor y sus aplicaciones. Punto
+térmico mortal. Tiempo térmico mortal. Tiempo de
+reducción decimal. Constante de Resistencia Termal.
+2.1.1.2.- Esterilización con calor húmedo (vapor
+de agua).
+2.1.1.2.1.- Autoclave.
+2.1.1.2.2.- Tratamientos específicos para la leche:
+Pasteurización. Otros tratamientos: HTST y UHT.
+2.1.1.3.- Esterilización por calor seco.
+2.1.1.4.- Controles en la esterilización.
+2.1.1.5.- Efecto de las bajas Temperaturas sobre el crecimiento
+bacteriano.
+2.1.1.5.1.- Refrigeración.
+2.1.1.5.2.- Congelación.
+2.1.1.5.3.- Liofilización.
+ 2.1.1.2.- Efecto de las radiaciones.
+2.1.1.2.1.- Radiaciones ionizantes.
+2.1.1.2.2.- Radiaciones electromagnéticas o no
+ionizantes.
+2.1.1.2.3- Radiación ultravioleta.
+2.1.1.2.4.- Luz visible. Sensibilización
+fotodinámica.
+ 
+2.1.1.3.- Efecto de las ondas sonoras.
+2.1.1.4.- Efecto de la presión hidrostática.
+ 2.1.1.5.- OTRAS METODOLOGÍAS DE
+ESTERILIZACIÓN
+2.1.1.5.1.- Filtración.
+2.1.1.5.1.1.- Filtros en profundidad.
+2.1.1.5.1.2.- Filtros de membrana.
+2.1.1.5.1.3.- Filtros HEPA
+ 2.2.- DESINFECTANTES.
+2.2.1.- Formaldehído (Formol).
+2.2.2.- Glutaraldehído.
+2.2.3.- Hipoclorito sódico.
+2.2.4.- Fenol.
+2.2.5.- Cresol.
+ TEMA 3.- CULTIVO 
+in vitro DE LAS BACTERIAS.
+3.1.- Medios de cultivo
+3.1.1.- Definición.
+3.1.2.- Tipos de medios.
+3.2.- Componentes de los medios de cultivo.
+3.2.1.- Agentes gelificantes.
+3.2.2.- Nutrientes.
+3.2.2.1.- Fuente de carbono.
+3.2.2.2.- Fuente de proteínas y aminoácidos.
+3.2.3.- Componentes inorgánicos.
+3.2.3.1.- Sistemas amortiguadores del pH.
+3.2.3.2.- Fuente de sales.
+3.2.3.3.- Compuestos utilizados en medios enriquecidos.
+3.2.3.4.- Compuestos utilizados en medios selectivos.
+ TEMA 5.- CRECIMIENTO BACTERIANO.
+5.1.- Crecimiento poblacional bacteriano y su
+determinación.
+5.1.1.- Determinación del número de bacterias.
+5.1.1.1.- Métodos directos. Cámaras de recuento
+bacteriano.
+5.1.1.2. Métodos indirectos. Recuento de unidades
+formadoras de colonias (UFC) y recuentos por filtración.
+5.1.2.- Determinación de la masa bacteriana.
+5.1.2.1.- Métodos directos.
+5.1.2.2.- Métodos indirectos.
+5.1.3.- Determinación de la actividad
+metabólica.
+PROGRAMA DE PRÁCTICAS DE LABORATORIO
+Práctica 1
+OBSERVACIÓN DE LA MORFOLOGÍA BACTERIANA MEDIANTE
+LA TINCIÓN SENCILLA.
+Práctica 2
+EMPLEO DE TINCIONES DIFERENCIALES EN BACTERIOLOGÍA.
+TINCIÓN DE GRAM
+Práctica 3
+EMPLEO DE TINCIONES DIFERENCIALES EN
+BACTERIOLOGÍA.TINCIÓN DE ZIEHL NEELSEN
+Práctica 4
+TINCIONES PARA EL ESTUDIO DE ESTRUCTURAS BACTERIANA.
+TINCIÓN DE ESPORAS
+Práctica 5
+TINCIONES PARA EL ESTUDIO DE ESTRUCTURAS
+BACTERIANA.TINCIÓN DE CÁPSULA
+Práctica 6
+OBSERVACIÓN DE LA MOVILIDAD BACTERIANA
+Prácticas 7, 8 y 9
+MEDIOS DE CULTIVO: TIPOS, PREPARACIÓN Y
+ESTERILIZACIÓN
+Práctica 10
+SIEMBRA DE MEDIOS. ANTIBIOGRAMA.
+Prácticas 11y 12
+DETERMINACIÓN DE LA CURVA DE CRECIMIENTO BACTERIANO EN
+MEDIOS CERRADOS.
+Prácticas 13, 14 y 15
+PRUEBAS BIOQUÍMICAS PARA LA IDENTIFICACIÓN
+BACTERIANA.
+1. Prueba de la catalasa.
+2. Prueba del indol (I).
+3. Prueba del rojo de metilo (M).
+4. Prueba de Voges-Proskauer (V).
+5. Utilización de citratos (C).
+6. Reducción de nitratos.
+7. Producción de ácido y gas por las
+bacterias.
+8. Prueba O/F.
+9. Hidrólisis del almidón.
+10. Prueba del agar de Kligler (agar hierro y doble
+azúcar).
+11. Prueba de la urea.
+12. Prueba de la fenilalanina.
+'

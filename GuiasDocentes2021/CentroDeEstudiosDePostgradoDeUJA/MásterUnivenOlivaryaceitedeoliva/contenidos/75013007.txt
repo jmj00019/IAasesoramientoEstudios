@@ -1,0 +1,64 @@
+'
+
+Control de la contaminación. Procesos tóxicos.
+Análisis de riesgos. Estimación de exposición,
+caracterización y estimación de riesgos. Sistemas de
+tratamiento de suelos. Restauración ambiental.
+Normativa legal y planes oficiales de control sobre residuos de
+plaguicidas. Metodología de muestreo y análisis
+de residuos de plaguicidas. Problemática de residuos de
+plaguicidas en aceituna. Problemática de residuos de
+plaguicidas en aceites
+
+TEMA 1. INTRODUCCIÓN. ASPECTOS BÁSICOS
+ 
+TEMA 2. CONTROL DE LA CONTAMINACIÓN. PROCESOS
+TÓXICOS
+Tipos de contaminantes. Ciclos de los contaminantes.
+Distribución de los contaminantes en el medio. Mecanismos de
+control.
+ 
+TEMA 3. ANÁLISIS DE RIESGOS. ESTIMACIÓN DE
+EXPOSICIÓN, CARACTERIZACIÓN Y ESTIMACIÓN DE
+RIESGOS
+Conceptos básicos. Uso del análisis de riesgos.
+Metodología y técnicas. Identificación del
+peligro. Evaluación de riesgos. Determinación de la
+importancia del riesgo. Comunicación de riesgos. Escenario
+de la exposición. Ruta de exposición.
+Cuantificación de la exposición. Evaluación de
+la exposición. Plaguicidas. Técnicas de
+aplicación.
+ 
+TEMA 4. SISTEMAS DE TRATAMIENTO DE SUELOS. RESTAURACIÓN
+AMBIENTAL
+Proyectos de remediación. Estudios de viabilidad.
+Técnicas de restauración ambiental. 
+Biorestauración. Fitorestauración.
+Biorremediación. Extracción. Técnicas de
+control. Aspectos legales.
+ 
+TEMA 5. NORMATIVA LEGAL Y PLANES OFICIALES DE CONTROL SOBRE
+RESIDUOS DE PLAGUICIDAS
+Límites Máximos de Residuos. Legislación
+nacional y comunitaria sobre residuos de plaguicidas. Programas
+nacionales e internacionales de vigilancia.
+ 
+TEMA 6. METODOLOGIA DE MUESTREO Y ANÁLISIS DE RESIDUOS DE
+PLAGUICIDAS
+Introducción. Muestreo: agua, suelo, hoja, aceituna y
+aceite. Análisis de las muestras: preparación,
+extracción, determinación y cuantificación
+ 
+TEMA 7. PROBLEMÁTICA DE RESIDUOS DE PLAGUICIDAS EN
+ACEITUNA
+Introducción. Persistencia. Vías de
+degradación. Mecanismos de contaminación por malas
+prácticas agrícolas.
+ 
+TEMA 8. PROBLEMÁTICA DE RESIDUOS DE PLAGUICIDAS EN
+ACEITES
+Introducción. Mecanismos de contaminación por
+malas prácticas industriales. Persistencia. Vías de
+degradación.
+'

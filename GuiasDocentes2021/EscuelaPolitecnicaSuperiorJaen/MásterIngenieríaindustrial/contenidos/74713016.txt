@@ -1,0 +1,89 @@
+'
+
+Cinemática de la partícula y cinemática de
+sólido.Teoría de mecanismos
+Análisis y cálculo de elementos
+mecánicos sometidos a cargas constantes y cargas fluctuantes
+Procesos de conformado por arranque de material
+Metrología dimensional
+Estados límite últimos y de servicio.
+Cálculo matricial de estructuras: Teoría y
+resolución práctica de estructuras.
+
+Bloque I - Diseño de Máquinas
+Tema 1 - Análisis y cálculo de elementos
+mecánicos sometidos a cargas constantes.
+Diseño por resistencia estática.
+Concentración de esfuerzo ante solicitaciones
+estáticas. Criterios de fallo estático. Fallo en
+materiales dúctiles y frágiles. Sensibilidad a la
+entalla
+Fractura estática. Fractura dúctil y fractura
+frágil. Factor de intensificación de esfuerzo.
+Tenacidad a la fractura. Modos de fractura
+Tema 2 - Análisis y cálculo de elementos
+mecánicos sometidos a cargas fluctuantes.
+Diseño por resistencia a la fatiga frente a cargas
+alternantes. Diagrama S-N. Resistencia a la fatiga y límite
+de fatiga. Corrección del límite de fatiga. Factores
+de Marin
+Diseño por resistencia a fatiga mediante cargas
+fluctuantes. Influencia de la tensión media. Teorías
+de fallo por fatiga. Tensión alternante equivalente.
+Línea de carga. Factores de seguridad. Cargas combinadas
+fluctuantes. Caso de materiales frágiles. Fatiga
+superficial. Daño acumulado por fatiga. Diagrama S-N para
+materiales dañados. Reglas de Miner y Manson. Daño
+producido por estados de carga con tensión media.
+Corrección del límite de fatiga de materiales
+dañados. Factor de deterioro. Propagación de grietas
+bajo cargas
+cíclicas
+Bloque II - Mecánica del sólido rígido
+Tema 3 - Cinemática de la partícula y
+cinemática de sólido. Tipos de movimientos.
+Movimiento general, Traslación y rotación. Movimiento
+plano. Movimiento relativo a un sistema en rotación,
+Aceleración de Coriolis.
+Tema 4 - Teoría de mecanismos. Conceptos fundamentales
+de Teoría de Máquinas y Mecanismos. Análisis
+cinemático y dinámico de mecanismos planos.
+Bloque III - Procesos de Fabricación y Metrología
+Tema 5 - Procesos de conformado por arranque de material.
+Introducción: Clasificación de los procesos de
+arranque de material, Materiales mecanizables y maquinabilidad,
+Materiales de las herramientas de corte, Condiciones de corte:
+Movimientos de corte, avance y profundidad.
+Modelo de la formación de viruta. Modelo de corte
+ortogonal. Cinemática de la viruta
+Fuerzas en el arranque de viruta. Ecuación de
+Merchant. Potencia corte.
+Estimación de la temperatura de corte.
+Estimación de la vida útil de la Herramienta.
+Economía del mecanizado.
+Torneado, fresado y taladrado.
+Tema 6 - Metrología dimensional.
+Introducción a la metrología. Sistema
+internacional de unidades. Instrumentos para la medida de
+tolerancias dimensionales, geométricas y acabado
+superficial
+Incertidumbre de medida. Estimación de la variabilidad.
+Determinación de la incertidumbre de medida. Criterio de
+rechazo de Chauvenet. Calibración.
+Relación tolerancia - incertidumbre.
+Bloque IV - Teoría de Estructuras
+Tema 7 - Dimensionado y Comprobación de Elementos
+Estructurales. Estados Límites.
+Acero Estructural. Agotamiento Elástico y
+Plástico de Secciones. Clases de Secciones.
+Estados Límites Últimos (ELU) de Resistencia.
+Estados Límites Últimos (ELU) de Estabilidad. Estados
+Límites de Servicio.
+Tema 8 - Cálculo Matricial de Estructuras
+Descripción del Método Directo de la
+Rigidez.Estudio del Elemento. Matriz de Rigidez Elemental.
+Síntesis de la Matriz Global de Rigidez. Ensamblaje.
+Imposición de las Condiciones de Contorno.
+Resolución del Sistema.
+Obtención de los Esfuerzos en las Barras.
+'

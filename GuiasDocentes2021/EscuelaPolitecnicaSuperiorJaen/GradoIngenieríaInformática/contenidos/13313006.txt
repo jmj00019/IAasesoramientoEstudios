@@ -1,0 +1,50 @@
+'
+
+Concepto de Inteligencia Ambiental y su importancia como nueva
+fuente de aplicaciones y servicios dentro de las Tecnologías
+de Información. Computación ubícua,
+comunicación ubícua e interfaces inteligentes de
+usuario. Gestión, fusión y explotación de
+información para computación ubicua. Plataformas de
+cómputo en ambientes inteligentes. Automatismos. Redes de
+sensores. Modelos de ambiente inteligentes y técnicas de
+Inteligencia Artificial. Sistemas de personalización,
+inteligencia en los interfaces y computación afectiva.
+Diseño, implantación y evaluación de
+soluciones de Inteligencia Ambiental.
+ 
+
+
+Teoría:
+
+
+Tema 1. Computación Ubicua
+Tema 2. Sensores
+Tema 3. Internet de las Cosas
+Tema 4. Interacción Persona-Ordenador
+Tema 5. Consciencia del Contexto  
+
+
+Prácticas:
+
+Las prácticas de la asignatura se descomponen en dos
+partes:
+Práctica 1. Introducción a Arduino.
+Práctica 2. Proyecto práctico.
+
+Trabajo en equipo o individual, en función de la
+  disponibilidad de los estudiantes.
+El contenido y la complejidad de las tareas que se
+  llevarán a cabo dependerá del número de
+  alumnos participantes, pudiendo incluir: 
+  
+Desarrollo de aplicaciones móviles para
+    localización y reconocimiento de objetos o personas
+Diseño y prototipado de sistemas basados en redes de
+    sensores
+Desarrollo de aplicaciones para domótica
+etc.
+
+
+ 
+'

@@ -1,0 +1,529 @@
+'
+
+Principios generales de las máquinas eléctricas.
+Circuitos magnéticos.
+Aspectos generales de las máquinas eléctricas.
+Máquinas asíncronas o de inducción.
+Aspectos generales de las máquinas síncronas.
+Aspectos generales de las máquinas de corriente
+continua.
+Principios generales del control de las máquinas
+eléctricas.  
+Protección de motores de inducción.
+Protección de generadores.
+Aplicaciones de las máquinas eléctricas
+
+
+Tema
+  1. Principios generales de las máquinas
+  eléctricas
+
+
+
+Introducción
+
+
+Formas
+    construcciones
+
+
+Grados
+    de protección
+
+
+Potencia
+    asignada
+
+
+Pérdidas,
+    calentamiento y refrigeración
+
+
+
+Tema
+  2. Circuitos magnéticos   
+
+
+
+Leyes de
+    los circuitos magnéticos
+
+
+Inductancias
+    propias de una bobina
+
+
+Bobinas
+    con acoplamiento magnético
+
+
+Bobinas
+    con acoplamiento parcial. Flujos de dispersión
+
+
+Bobina
+    real con núcleo de hierro
+
+
+
+Tema
+  3. Aspectos generales de las máquinas
+  eléctricas
+
+
+
+Estructura
+  general de las máquinas eléctricas
+
+
+Máquina
+      síncrona elemental
+
+
+Máquina
+      asíncrona elemental
+
+
+Máquina
+      de corriente continua elemental
+
+
+
+Campo
+  magnético en la máquina
+
+
+Producido
+      por una bobina diametral
+
+
+Producido
+      por una bobina de paso acortado
+
+
+Producido
+      por una bobina distribuida
+
+
+
+Campo
+    magnético creado por una corriente alterna
+
+
+Campos
+  magnéticos giratorios en máquinas de corriente
+  alterna
+
+
+Campo
+      giratorio de un inductor móvil
+
+
+Campo
+      giratorio producido por devanados polifásicos. Teorema
+      de Ferraris.
+
+
+Teorema
+      de Leblanc
+
+
+
+Tensiones
+  inducidas
+
+
+FEM de
+      transformación
+
+
+FEM
+      por movimiento
+
+
+
+Factores
+  que afectan a la FEM inducida
+
+
+Factor
+      de distribución
+
+
+Factor
+      de paso
+
+
+Factor
+      de inclinación
+
+
+Factor
+      de devanado
+
+
+
+
+Tema
+  4. Máquinas asíncronas o de inducción
+
+
+
+Constitución
+  y formas constructivas
+
+
+Partes
+      de la máquina
+
+
+Placa
+      de bornas y conexionado
+
+
+
+Principio
+    de funcionamiento
+
+
+Circuito
+    equivalente en régimen permanente
+
+
+Circuito
+    equivalente simplificado
+
+
+Parámetros
+  del circuito.
+
+
+Mediante
+      ensayos
+
+
+Mediante
+      Normas
+
+
+
+Potencias
+    en la máquina
+
+
+Característica
+    Par-velocidad
+
+
+Arranque
+    del motor asíncrono
+
+
+Variación
+    de velocidad en la máquina asíncrona
+
+
+Frenado
+    de los motores asíncronos
+
+
+
+Tema
+  5. Máquinas Síncronas
+
+
+
+Formas
+    constructivas de la máquina síncrona
+
+
+Sistema
+    de excitación de los alternadores
+
+
+Funcionamiento
+  en vacío y en carga
+
+
+Diagrama
+      fasorial y circuito equivalente de las máquinas de
+      rotor cilíndrico
+
+
+Máquina
+      saturada e insaturada. Ensayo en cortocircuito.
+
+
+Caída
+      de tensión interna
+
+
+
+Característica
+    mecánica del alternador síncrono. Curva
+    potencia-ángulo de carga
+
+
+Generador
+    síncrono en funcionamiento en red aislada
+
+
+Generador
+    síncrono en una red de potencia infinita
+
+
+Máquinas
+    de polos salientes. Teoría de las dos reacciones.
+
+
+
+ 
+
+
+Tema
+  6. Máquinas de corriente continua
+
+
+
+Formas
+    constructivas
+
+
+Denanados
+
+
+FEM
+  inducida
+
+
+Inductor
+
+
+Inducido
+
+
+Conmutación.
+      Corrección de la misma
+
+
+Reacción
+      de inducido. Corrección del mismo
+
+
+
+Potencias
+    en la máquina de corriente continua
+
+
+Par
+    producido
+
+
+Curvas
+  características
+
+
+Funcionamiento
+      como generador
+
+
+Funcionamiento
+      como motor
+
+
+
+Arranque
+    de las máquinas de corriente continua
+
+
+Frenado
+    de las máquinas de corriente continua
+
+
+
+ 
+
+
+Tema
+  7. Principio de control de las máquinas de corriente
+  continua
+
+
+
+Funcionamiento
+    de la máquina de corriente continua en los cuatro
+    cuadrantes
+
+
+Regulación
+    de velocidad de motores de corriente continua mediante
+    rectificadores controlados
+
+
+Regulación
+    de velocidad de motores de corriente continua por medio de
+    choppers
+
+
+
+Tema
+  8. Principio de control de motores asíncronos
+
+
+
+Tipos de
+    regulación
+
+
+Regulación
+    de velocidad por control de tensión aplicada
+
+
+Regulación
+    de velocidad por medio de la tensión y frecuencia
+
+
+Regulación
+    de velocidad por control estático de resistencia
+    adicional en el rotor
+
+
+
+Tema
+  9. Principio de control de motores síncronos
+
+
+
+Regulación
+    de velocidad de motores síncronos en lazo cerrado
+
+
+Regulación
+    de velocidad de motores síncronos en lazo abierto
+
+
+Motores
+    de imanes permanentes PSPM
+
+
+
+Tema
+  10. Protección de motores.
+
+
+
+Tipos de
+  protección
+
+
+Cambio
+      de secuencia de fase
+
+
+Fallo
+      a tierra
+
+
+Rotor
+      bloqueado
+
+
+Sobrecarga
+
+
+Desequilibrios
+
+
+Contra
+      secuencia inversa
+
+
+
+Protección
+    de motores monofásicos
+
+
+Elementos
+    y equipos para protección
+
+
+
+Tema
+  11. Protección de generadores síncronos
+
+
+
+Tipos de
+  protección
+
+
+Fallo
+      a tierra
+
+
+Sobrecarga
+
+
+Embalamiento
+
+
+Pérdida
+      de excitación
+
+
+Baja
+      velocidad
+
+
+
+Protecciones
+    específicas de generadores hidráulicos
+
+
+ 
+
+Prácticas
+
+
+ 
+
+
+Ensayos
+  con circuitos magnéticos excitados por corriente
+  alteña
+
+
+ 
+
+
+Ensayos
+  en el motor de inducción trifásico: carga, rotor
+  libre y rotor bloqueado.
+
+
+ 
+
+
+Medida
+  de par en motores trifásicos
+
+
+ 
+
+
+Arranque
+  de los motores de inducción monofásicos
+
+
+ 
+
+
+Ensayo
+  de vacío y acoplamiento de un alternador a la red.
+
+
+Sistemas
+  de excitación de las máquinas de corriente
+  continua, curva de vacío y funcionamiento en carga.
+
+'

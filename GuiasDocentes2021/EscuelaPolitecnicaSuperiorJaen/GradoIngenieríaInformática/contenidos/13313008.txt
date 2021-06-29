@@ -1,0 +1,58 @@
+'
+
+Minería web. Minería de contenido web.
+Minería de contenidos de páginas web. Minería
+de resultados de búsqueda. Personalización.
+Minería de estructuras web. Minería de uso web.
+Preprocesamiento. Descubrimiento de patrones (reglas de
+asociación, patrones secuenciales, episodios frecuentes,
+secuencias frecuentes maximales, etc). Análisis de patrones.
+Personalización. Aplicaciones de la minería web.
+ 
+
+
+Contenidos desarrollados:
+
+ 
+
+TEORÍA:
+
+
+Módulo 1: Introducción 
+  
+Fundamentos de la Minería Web
+Técnicas y aplicaciones de la Minería
+    Web
+
+Módulo 2: Minería de la estructura de la Web 
+  
+Recuperación de Información y Búsqueda
+    Web
+Ranking de Hiperenlaces
+
+Módulo 3: Minería del contenido de la Web 
+  
+Aprendizaje en minería de contenido
+Aplicaciones de la minería del contenido de la
+    web
+
+Módulo 4: Minería de uso de la Web 
+  
+Analítica web
+Modelización y personalización
+
+
+
+PRÁCTICAS:
+
+Se crearán equipos de prácticas
+querealizarán una aplicación usando las
+técnicasdescritas en clase de teoría
+
+Práctica 1: Minería de la estructura de la
+  Web
+Práctica 2: Minería del contenido de la
+  Web
+Práctica 3: Minería de uso de la Web
+
+'

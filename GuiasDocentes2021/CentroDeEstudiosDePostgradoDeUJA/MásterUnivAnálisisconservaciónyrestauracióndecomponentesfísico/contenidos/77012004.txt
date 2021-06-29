@@ -1,0 +1,94 @@
+'
+
+La conservación, desde un punto de vista práctico,
+consiste en limitar el uso o la explotación de los recursos
+naturales. En esta asignatura se revisarán los principales
+tipos de impacto antropozoógeno y se abordará la
+explotación sostenible de recursos geológicos no
+renovables como minerales y rocas, la conservación y
+restauración de laderas y vertientes y la lucha contra la
+erosión y la desertificación.
+También se revisará la restauración de
+ecosistemas terrestres, incluyendo aquellos espacios afectados por
+contaminación, así como la dinámica y las
+series de vegetación de interés para la
+conservación y restauración. Finalmente se
+analizarán las repercusiones del cambio climático
+sobre los hábitats terrestres.
+
+
+TEORÍA
+
+
+BLOQUE TEMÁTICO 1: Análisis, Gestión y
+  Restauración del Medio Físico Terrestre.
+
+Tema
+1. Dinámica terrestre y recursos geológicos no
+renovables. Combustibles fósiles y elementos fisionables.
+Minerales y rocas. Tendencias en la producción y consumo de
+minerales frente a las reservas existentes. Impacto social y
+medioambiental de las actividades mineras y extractivas. 
+Thanatia y el destino final de los recursos minerales y
+energéticos del planeta. Estrategias para una gestión
+inteligente de los recursos geológicos no renovables.
+Tema
+2. Conservación y Restauración de laderas y
+vertientes. Procesos hídricos en laderas. Erosión
+laminar y en surcos: aplicación de RUSLE.2015 2D.
+Erosión en cárcavas: detección y
+caracterización mediante fotogrametría y GIS.
+Técnicas avanzadas de control de la erosión en
+cárcavas: diseño de diques y disipadores de
+energía, tratamiento de taludes de cárcavas mediante
+geotextiles y bioingeniería. Procesos gravitacionales:
+análisis del factor de seguridad mediante Slide 2D.
+Soft-engineering aplicada a la restauración de taludes.
+Tema
+3. Desertificación. Definiciones. Índice SDI. Mapas
+de vulnerabilidad del NCRS y la EEA. Procesos de degradación
+del suelo relacionados con la desertificación:
+pérdida de potencial biológico, erosión,
+salinización y sodificación. La
+desertificación en el mediterráneo.
+
+BLOQUE TEMÁTICO 2: Conservación y
+  Restauración de ecosistemas terrestres.
+
+Tema
+4. Conceptos sobre restauración. Fases a considerar en la
+elaboración de proyectos de restauración: fase
+diagnóstica, fase experimental, monitoreo y
+consolidación.
+Tema
+5. Elaboración de proyectos de restauración. Fase
+diagnóstica: evaluación ecosistema inicial, escalas y
+niveles de organización, escalas y niveles de disturbio,
+participación ciudadana, evaluación potencial de
+regeneración, búsqueda y selección de
+especies.
+Tema
+6. Elaboración de proyectos de restauración. Fase
+experimental: propagación y manejo de especies, estrategias
+de superación de barreras a la restauración. Fase de
+monitoreo y consolidación: tipos de monitoreo,
+selección de indicadores. (Juan Antonio: 2 horas
+teoría)
+Tema
+7. Conservación y Restauración de biodiversidad y
+servicios ecosistémicos en sistemas agrícolas.
+
+PRÁCTICAS
+
+Práctica
+campo I: Conservación del suelo y restauración de
+cubiertas vegetales en olivares andaluces.
+Práctica
+campo II: Caso práctico: Recuperando la biodiversidad y los
+servicios ecosistémicos en los olivares andaluces.
+Practica
+de Laboratorio I: Detección y caracterización de
+cárcavas a partir de fotos aéreas. Dinámica de
+crecimiento. Mapas de densidad de erosión por
+cárcavas.
+'

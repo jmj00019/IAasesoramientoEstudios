@@ -1,0 +1,41 @@
+'
+
+
+Contenidos básicos: Cálculo
+diferencial e integral para funciones reales de varias
+variables reales. Ecuaciones diferenciales.
+
+
+Contenidos desarrollados:
+
+
+Tema 1. Límite y continuidad de funciones reales de
+varias variables reales. El espacio R 
+n. Funciones escalares. Límite de funciones
+escalares. Continuidad de funciones escalares.
+
+Tema 2. Derivación de funciones reales de varias
+variables reales. Derivada parcial. Derivada direccional.
+Diferencial. Aplicaciones económicas.
+
+Tema 3. Funciones vectoriales. Límite,
+continuidad y derivación de funciones vectoriales.
+Diferenciabilidad de funciones compuestas.  Función
+homogénea. Aplicaciones económicas.
+
+Tema 4. Extremos relativos de funciones reales de varias
+variables reales. Formas cuadráticas. Extremos
+relativos libres. Extremos relativos condicionados. Aplicaciones
+económicas.
+
+Tema 5. Integración de funciones reales de varias
+variables reales. Construcción de la integral
+doble. Integral doble en dominios rectangulares. Integral doble en
+recintos acotados.
+
+Tema 6. Introducción a las ecuaciones
+diferenciales. Definiciones básicas y
+terminología. Métodos de integración de
+algunos tipos de ecuaciones diferenciales ordinarias de primer
+orden y primer grado. Aplicaciones económicas.
+'

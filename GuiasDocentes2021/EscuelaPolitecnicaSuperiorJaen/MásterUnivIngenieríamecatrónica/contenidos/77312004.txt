@@ -1,0 +1,127 @@
+'
+
+· Fundamentos de elasticidad y plasticidad.
+· Fatiga y fractura de materiales y estructuras.
+· Análisis de fluencia y comportamiento de
+materiales a alta temperatura.
+· Polímeros y materiales compuestos.
+· Métodos y técnicas experimentales para
+el análisis de tensiones y deformaciones.
+
+  
+Tema 1.
+Fundamentos de elasticidad y plasticidad
+
+1.1.
+  Introducción. Revisión de los conceptos de
+  tensión y deformación
+
+
+1.2. Propiedades
+  mecánicas de los materiales
+
+
+1.3.
+  Caracterización mecánica de materiales
+
+
+1.4.
+  Relación entre tensión-deformación para
+  estados multiaxiales. Tensiones principales, estado de
+  tensión y deformación plana.
+
+
+1.5. Tensores de
+  deformación
+
+
+1.6.
+  Isotropía y anisotropía
+
+
+1.7. Criterios
+  de plasticidad
+
+
+1.8.
+  Endurecimiento por deformación
+
+
+Tema 2. Fatiga y
+  fractura
+
+
+2.1.
+  Introducción. Criterios para el análisis a
+  fatiga
+
+
+2.2. Mecanismos
+  del proceso de fatiga: deformación cíclica e inicio
+  de grieta
+
+
+2.3. La
+  mecánica de la fractura y sus aplicaciones para el estudio
+  de fatiga
+
+
+Tema 3.
+  Análisis de fluencia y comportamiento de materiales a alta
+  temperatura
+
+
+2.1.
+  Introducción. Influencia de la temperatura en el
+  comportamiento mecánico de materiales
+
+
+2.2. Fundamentos
+  y mecanismos de la fluencia a alta temperatura
+
+
+2.3. Dependencia
+  de la temperatura y mecanismos de deformación
+
+
+Tema 4.
+  Polímeros y materiales compuestos
+
+
+4.1.
+  Introducción al comportamiento mecánico de los
+  polímeros
+
+
+4.2.
+  Parametrización mecánica: damping, yielding y
+  strain-rate
+
+
+4.3.
+  Introducción al comportamiento mecánico de los
+  materiales reforzados con fibra
+
+
+4.4
+  Parametrización mecánica: propiedades
+  elásticas, resistencia, influencia de la
+  orientación de la fibra, fracción
+  volumétrica de fibra y mecanismos de fallo.
+
+
+Tema 5.
+  Análisis experimental de tensiones y deformaciones
+
+
+5.1 Fundamentos
+  y clasificación de los métodos
+  experimentales
+
+
+5.2
+  Técnicas de campo completo: fotoelastcidad,
+  correlación digital de imágenes, técnicas
+  interferométricas, método térmicos
+
+'

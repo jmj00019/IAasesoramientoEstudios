@@ -1,0 +1,66 @@
+'
+
+
+CONTENIDOS BÁSICOS: 
+  
+
+
+
+Cálculo diferencial e integral en una variable aplicado a
+la economía y la empresa.
+Álgebra lineal aplicada a la economía y la
+empresa.
+ 
+
+
+Contenidos teóricos:
+
+
+Tema 1. Funciones.
+La recta real. Funciones reales de variable real. Funciones
+elementales. Límites y continuidad de funciones.
+Modelización de fenómenos utilizando funciones y el
+concepto de límite.
+
+
+Tema 2. Derivación de funciones.
+Concepto de derivada, velocidad o tasa puntual de crecimiento
+en fenómenos modelizados por funciones,
+interpretación geométrica de la derivada.
+Cálculo de derivadas. Derivación y propiedades
+de  forma de una función. Teorema de
+L'Hôpital.
+
+
+Tema 3. Integración de funciones.
+Primitiva, integral indefinida y propiedades. Cálculo
+de primitivas. Integral definida y propiedades. Aplicaciones de la
+integral definida
+
+Tema 4. Matrices.
+Representación de datos mediante matrices.
+Definiciones básicas y operaciones matriciales. Potencias de
+matrices y modelos matriciales iterativos. Rango de una matriz.
+Determinantes. Matriz inversa.
+
+Tema 5. Sistemas lineales. Vectores.
+Clasificación de los sistemas lineales de ecuaciones.
+Expresión paramétrica de la solución de un
+sistema lineal. Métodos de Gauss y Cramer para la
+resolución de sistemas. Subespacios vectoriales. Bases,
+coordenadas y dimensión de subespacios vectoriales.
+
+
+Tema 6. Diagonalización de matrices.
+Proceso de diagonalización: valores y vectores
+propios, polinomio característico. Interpretación de
+vectores y valores propios en procesos matriciales iterativos.
+Estudio de la tendencia en procesos iterativos mediante el
+análisis de vector y valor propio dominante.
+
+Contenidos prácticos:
+Relaciones de ejercicios y prácticas con ordenador
+relacionados con los contenidos teóricos.
+ 
+ 
+'

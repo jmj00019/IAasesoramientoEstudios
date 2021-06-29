@@ -1,0 +1,41 @@
+'
+
+
+Empezando a Trabajar en Tres Dimensiones.
+Polilíneas y Curvas 3D.
+Generación De Superficies 3D.
+Edición de Curvas y Superficies 3D. Operaciones
+  3D.
+Visualización Avanzada.
+Creación de Sólidos y Regiones.
+Representación Fotorrealista.
+Conexión con otros Programas.
+Diseño Paramétrico 3D.
+
+
+
+INTRODUCCIÓN AL DISEÑO 3D. Entorno. Operaciones
+  de boceto. Restricciones de parámetro y de cota. P01
+ELEMENTOS 3D. Bocetos 3D. Curvas paramétricas y
+  libres. Operaciones. P02
+SUPERFICIES. Diseño. Edición.
+DISEÑO DE ELEMENTOS MECÁNICOS. Ejes,
+  engranajes, resortes, conexión mediante perno.
+ENSAMBLAJES. Restricciones. Adaptabilidad.
+REPRESENTACIÓN Y VISUALIZACIÓN  DE
+  MECANISMOS. Presentaciones de montaje. Fotorrealismo
+CREACIÓN DE PLANOS NORMALIZADOS. Anotación de
+  planos según norma.
+FORMATOS DE INTERCAMBIO.
+DISEÑO PARAMÉTRICO. Análisis de
+  tensiones.
+
+CONTENIDO PRÁCTICO
+P01-BOCETOS PARAMÉTRICOS
+P02-PIEZAS-3D
+P03-SUPERFICIES
+P04-MECANISMOS
+P05-ANÁLISIS DE TENSIONES
+P06- PRESENTACIONES DE MONTAJE
+P07-PLANOS NORMALIZADOS
+'

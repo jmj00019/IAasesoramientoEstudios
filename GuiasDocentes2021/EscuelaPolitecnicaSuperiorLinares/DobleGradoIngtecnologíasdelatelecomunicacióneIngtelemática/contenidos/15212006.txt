@@ -1,0 +1,156 @@
+'
+
+El alumno diferenciará entre
+las redes de acceso y transporte que se utilizan en la actualidad
+por los operadores de telecomunicaciones, en todos sus
+ámbitos, ya sean redes fijas o inalámbricas. La
+asignatura se centrará en la descripción de los
+principios básicos de las tecnologías ya implantadas,
+ya sean de datos o multimedia. 
+Las prácticas se desarrollarán en el
+laboratorio y versarán sobre las tecnologías
+existentes y necesarias para el acceso a redes de
+telecomunicación y el transporte de datos. En concreto, se
+utilizarán los distintos multiplexores, encaminadores,
+pasarelas multiprotocolos y otros elementos del laboratorio para
+implementar infraestructura de red que soporten una variedad de
+servicios. 
+Palabras clave: red de acceso, red de transporte.
+
+BLOQUE TEÓRICO
+Tema 1. Introducción a los
+sistemas de telecomunicaciones. 
+Tema 2. Introducción a las
+redes de transporte. 
+Tema 3. Redes digitales: IP y
+MPLS
+Tema 4. Introducción a las
+redes de acceso.  
+Tema 5. Redes de acceso basadas en
+cable: RDSI, xDSL, coaxial, fibra óptica, red
+eléctrica, redes VLAN. 
+Tema 6. Redes de acceso
+inalámbricas: GSM, UMTS, LTE, 5G, WIMAX. 
+Tema 1. Introducción a los
+sistemas de telecomunicaciones.
+En este tema se
+abordará la necesidad de la formación continua y de
+la interdisciplinariedad en la Ingeniería. 
+
+Identificación de las
+  partes en las que se puede dividir un operador de
+  telecomunicaciones. 
+ Servicios y redes de
+  telecomunicación. 
+ Redes de acceso, redes
+  troncales, red de señalización.
+
+Se abordarán ejemplos de
+tecnologías actuales y pasadas para cada una de las partes
+definidas anteriormente.
+Tema 2. Introducción a las
+redes de transporte.
+
+Redes de transporte.
+  Tecnologías de transporte plesiocronas y
+  síncronas.
+Redes de transporte
+  digitales.
+
+Tema 3. Redes digitales: IP y
+MPLS.
+
+Redes previas:  Frame Relay
+  y ATM.
+Introducción a IP.
+Estandares, arquitecturas y
+  etiquetas en MPLS.
+
+Tema 4. Introducción a las
+redes de acceso.
+
+ Conceptos básicos y
+  caracterización de las redes de acceso. 
+ Tipo de redes de
+  acceso. 
+ El acceso a la banda
+  ancha.
+
+Tema 5. Redes de acceso basadas en
+cable: RDSI, xDSL , coaxial, fibra óptica, red
+eléctrica. 
+
+Protocolos de enlace de datos:
+  HDLC.
+Red telefónica
+  básica. Red digital de servicios integrados.
+Arquitectura de Redes xDSL:
+  ADSL, GigaADSL, HDSL. SDSL, VDSL.
+Redes de acceso
+  IP.  
+Redes de Acceso por Coaxial
+  (HFC): arquitectura y equipos. 
+Redes de Acceso por Fibra
+  Óptica (FTTx): tecnologías y arquitecturas.
+Acceso a través de red
+  eléctrica: características básicas de Power
+  Line Comunications (PLC), tecnologías y
+  arquitectura. 
+
+Tema 6. Redes de acceso
+inalámbricas.
+
+Redes basadas en dispositivos
+  móviles: El modelo celular, introducción, servicios
+  y facilidades de GSM. Características y arquitectura de
+  GPRS. Características y arquitectura de UMTS. 
+  Características y arquitectura de LTE.
+  Características y arquitectura de 5G.
+Redes WIMAX:
+  Características y arquitectura. 
+ Otras redes de acceso
+  inalámbricas.
+
+ 
+BLOQUE PRÁCTICO
+Los alumnos se dividirán en
+grupos para realizar las prácticas. El diseño de las
+mismas implican que tengan que colaborar varios grupos en la
+realización de las mismas, por lo que el trabajo en equipo
+es primordial en estas prácticas.
+Práctica 0. Organismos de
+estandarización, fabricantes, operadores.
+En esta práctica se
+presentarán distintos organismos de estandarización
+existentes. Además, se presentarán páginas de
+fabricantes de equipos de telecomunicaciones y de operadores para
+que tengan una visión actual de los mismos. 
+Práctica 1. Creación
+de una red de área local para realizar llamadas de VoIP.
+Instalación, uso
+y configuración de dispositivos que permitan
+realizar llamadas de VoIP.
+Práctica 2. Emulación
+de redes.
+Uso y configuración de
+software para la simulación de redes de
+comunicaciones. 
+Práctica 3. Encaminamiento
+estático IP .
+Configuración real de
+equipos con distintos interfaces para configurar tablas de
+encaminamiento IP sencillas.
+Práctica 4. Uso
+básico de un switch.
+Configuración básica
+de un switch.
+Práctica 5. Uso
+básico de VLAN.
+Creación de distintas VLAN
+en un switch.
+Práctica 6. LTE en el
+simulador ns3.
+Simulación de aspectos
+básicos de LTE.
+ 
+'

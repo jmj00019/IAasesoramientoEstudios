@@ -1,0 +1,158 @@
+'
+
+BLOQUE I: Transporte, Distribución y Almacenamiento de
+Líquidos
+BLOQUE II: Transporte, Distribución y Almacenamiento
+de Gases
+BLOQUE III: Transporte, Distribución y Almacenamiento
+de Sólidos
+
+
+TEMA
+  1: TRANSPORTE DE LÍQUIDOS
+
+
+ 1
+.
+Introducción
+
+2.
+  Fenómeno de flujo de fluidos
+
+
+3. Ecuaciones
+  básicas
+
+
+TEMA
+  2: TRANSPORTE DE GASES
+
+
+0.
+  Introducción
+
+
+1. -
+  Combustibles gaseosos naturales 
+
+
+2
+  Combustibles gaseosos manufacturados
+
+
+3.
+  Clasificación de los combustibles gaseosos
+
+
+4.-
+  Propiedades y Características de los gases
+
+
+5 Ecuaciones
+  básicas
+
+
+6.
+  Tipología conducciones
+
+
+7. Equipos de
+  transporte de gases con aplicaciones en minería
+
+
+TEMA
+  3: TRANSPORTE Y DISTRIBUCIÓN DE SÓLIDOS
+
+
+1.
+  Introducción
+
+
+2.
+T
+ransporte en
+minería Subterránea
+
+3. Equipos de
+  transporte en minería subterránea
+
+
+4 Sistemas de
+  transporte a cielo abierto
+
+
+5.-
+  Cálculo del ciclo básico de transporte
+
+
+6.- Tipo de
+  carga en minería
+
+
+7.- Unidades
+  de carga
+
+
+8.-
+  Consolidación de la carga
+
+
+9.- Modos
+  transporte
+
+
+10.-
+  Infraestructuras logísticas
+
+
+11.-
+  Planificación de cargas y rutas
+
+
+TEMA 4:
+  Distribución de líquidos y gases
+
+
+1.-
+  Tipología de instalaciones de varias
+  tuberías
+
+
+2.- Redes
+  Ramificadas
+
+
+3.- Redes
+  malladas en fluidos líquidos
+
+
+4.
+  Oleoductos
+
+
+5.- Redes de
+  gas natural
+
+
+6.- Redes de
+  GLP
+
+
+TEMA
+  5: ALMACÉN DE PRODUCTOS
+
+
+ 
+
+1.- Sistemas de almacén de
+líquidos.
+
+2.- Sistemas
+  de almacén de gases.
+
+
+3.- Sistemas
+  de almacén de sólidos en sistemas mineros.
+  Silos
+
+'

@@ -1,0 +1,36 @@
+'
+
+Fundamentos y conceptos de los Sistemas de la Calidad.
+Normalización, Certificación y Documentación
+de la Calidad. Auditorías de la Calidad. Incertidumbre de
+medida y calibración de equipos. Fundamentos de las
+técnicas estadísticas en Calidad: Estudios de
+Capacidad de Procesos. Gráficos de control por variables y
+por atributos. Planes de muestreo según UNE 66-020. Mejora
+Continua y sus herramientas. 9.- Herramientas básicas de la
+Calidad. Herramientas avanzadas de la Calidad. Ingeniería de
+Calidad: QFD, AMFE, DEE.
+ 
+
+CONTENIDOS TEÓRICOS:
+1.- Introducción a la calidad en la empresa. Sistemas de
+calidad: conceptos y fundamentos.
+2.- Total Quality Management (TQM). Los principios de la Calidad
+Total
+3.- Normalización y aseguramiento de la calidad. Los
+sistemas de gestión de la calidad según la UNE-EN ISO
+9001:2015 
+3.- Otros modelos de gestión de la calidad: EFQM, Seis
+Sigma, 5S, etc.
+4.- Implantación de Sistemas de Gestión de
+Caliadad en las empresas. Fases, costes, auditorias,
+temporalización, etc. 
+CONTENIDOS PRÁCTICOS:
+1.- Caso nº 1: La parábola del césped verde y
+la calidad es lo primero
+2.- Sistema de Gestión de la Calidad en empresa de
+viajes. Implantación de la UNE-EN ISO 9001:2015: riegos,
+contexto y partes interesadas, etc.
+3.- Costes de calidad y de no calidad. Aplicación
+práctica
+'

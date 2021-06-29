@@ -1,0 +1,131 @@
+'
+
+
+- El recurso suelo:
+  su calidad y su degradación por
+  contaminación
+
+
+- Tipos de
+  contaminación de suelos
+
+
+- Vulnerabilidad y
+  autodepuración del suelo
+
+
+- El recurso
+  agua
+
+
+- Tipos de
+  contaminación de aguas
+
+
+- Muestreo y
+  análisis de aguas
+
+
+- Redes de control
+  y vigilancia de la calidad de las aguas
+
+ 
+
+BLOQUE CONTAMINACIÓN EN SUELOS
+TEMA 1.- El recurso natural suelo. Calidad del suelo y su
+degradación por contaminación. Procesos de
+degradación del suelo. Procesos de amortiguación del
+suelo. Vulnerabilidad y autodepuración del suelo.
+TEMA 2.- Definición de contaminación del suelo y
+efectos desfavorables sobre el ecosistema, la producción y
+la salud humana. Origen de la contaminación del suelo. Tipos
+de contaminación del suelo.
+TEMA 3.- Degradación del suelo por exceso de sales.
+Origen de las sales del suelo. Suelos de regadío.
+Definición de suelos salinos y sódicos.
+Parámetros de evaluación de la salinidad y la
+sodicidad. Clasificación de suelos afectados por sales.
+Recuperación de suelos salinos y sódicos.
+TEMA 4.- Degradación del suelo por prácticas
+agrícolas inadecuadas. Contaminación por
+agroquímicos: Fertilizantes; Pesticidas.
+TEMA 5.- Degradación por contaminantes metálicos.
+Degradación del suelo por contaminantes
+orgánicos.
+TEMA 6.- Otros tipos de contaminación del suelo.
+Degradación del suelo por acidificación. Suelos
+ácidos. Acidificación antrópica debida a las
+malas prácticas agrícolas. Acidificación
+antrópica debida a vertidos mineros, industriales y urbanos.
+El problema de la lluvia ácida. Contaminación del
+suelo por radionucleidos.
+TEMA 7.- Tecnologías aplicables a la recuperación
+de suelos contaminados. Técnicas de descontaminación
+de suelos: Técnicas biológicas; Técnicas
+físico-químicas, Técnicas térmicas.
+BLOQUE CONTAMINACIÓN DEL AGUA
+Tema 8.- Introducción. Química ambiental de los
+medios líquidos. Contaminación de medios
+líquidos. Fuentes, usos y ciclos del agua. Propiedades y
+características del agua. Introducción a la
+Química Analítica Ambiental. Clasificación de
+los métodos de análisis químico en muestras
+medioambientales. El proceso analítico global.
+Tema 9.- Contaminación del agua. Elementos contaminantes.
+Especies inorgánicas. Metales pesados. Metaloides.
+Contaminantes orgánicos: jabones, detergentes, pesticidas.
+Contaminación por fuentes radiactivas.
+Tema 10.- Normativas que regulan la calidad del agua.
+Introducción. Normativas generales. Ley de Aguas. Normativas
+específicas sobre la calidad de las aguas. Programas de
+vigilancia sanitaria y de calidad de aguas de consumo humano.
+Tema 11.- Principales parámetros indicadores  de
+contaminación usados como criterios de calidad.
+Parámetros físicos. Parámetros
+químicos. Parámetros (micro)biológicos.
+Parámetros radiactivos.
+Tema 12.- Consideraciones en la toma de muestra para la
+evaluación de la contaminación de las aguas. Toma,
+conservación y tratamiento de muestra. Técnicas de
+extracción y preconcentración de contaminantes
+inorgánicos. Técnicas de extracción y
+preconcentración de contaminantes orgánicos.
+Tema 13.- Control analítico de contaminantes
+inorgánicos en agua. Análisis de aniones
+mayoritarios. Análisis de metales en agua a nivel de trazas
+y ultratrazas. Especiación elemental y su significado
+medioambiental.
+Tema 14.- Control analítico de contaminantes
+orgánicos en agua. Análisis de compuestos
+orgánicos volátiles. Análisis de compuestos
+orgánicos prioritarios. Análisis de compuestos
+orgánicos emergentes.
+ 
+
+PROGRAMA DE
+  PRÁCTICAS DE LABORATORIO Y SEMINARIOS
+
+
+- Seminarios
+  teórico-prácticos sobre contaminación de
+  suelos y aguas
+
+
+- Prácticas
+  de laboratorio sobre análisis y control de
+  contaminación de suelos y aguas
+
+
+Análisis de
+  metales en agua
+
+
+Análisis
+  cualitativo de parámetros indicadores de
+  contaminación
+
+
+Análisis de
+  plaguicidas en suelos y agua
+
+'

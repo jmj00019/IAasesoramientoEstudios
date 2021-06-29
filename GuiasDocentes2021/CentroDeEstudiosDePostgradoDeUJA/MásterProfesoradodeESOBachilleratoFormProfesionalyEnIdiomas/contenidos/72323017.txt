@@ -1,0 +1,102 @@
+'
+
+Aspectos claves del desarrollo histórico de las ciencias
+físico-químicas. Aplicaciones interdisciplinares de
+la Física y la Química. Relaciones entre ciencia,
+tecnología y sociedad. Nuestro lugar en el universo.
+Física, Química y salud. Física,
+Química y medio ambiente. El problema energético. El
+papel de la Física y Química en el desarrollo de
+nuevos materiales y de las nuevas tecnologías de la
+información. Demostraciones de aula. Experiencias con
+materiales cotidianos. Diseño de experiencias como
+pequeñas investigaciones. Fenómenos
+físico-químicos y dispositivos técnicos en la
+vida cotidiana. Experiencias simuladas de Física y
+Química usando nuevas tecnologías.
+
+
+PARTE 1: Complementos específicos de
+  Física
+
+
+BLOQUE I:
+MECÁNICA, ELECTROMAGNETISMO Y TERMODINÁMICA
+
+ Tema 1: MECÁNICA.
+
+Introducción: la Física y el método
+científico
+Preconceptos en Mecánica
+El estudio del movimiento: diversificación de la
+instrucción
+(simulaciones, uso de gráficos, etc.)
+Mecánica clásica vs. Mecánica
+cuántica
+La Mecánica en nuestra vida cotidiana
+Mecánica e innovación
+
+Tema 2: ELECTROMAGNETISMO
+
+Preconceptos en Electromagnetismo
+Diversificación de la instrucción en
+Electromagnetismo (simulaciones, uso
+de gráficos, etc.)
+El Electromagnetismo en nuestra vida cotidiana
+Electromagnetismo e innovación
+
+Tema 3: TERMODINÁMICA.
+
+Preconceptos en Termodinámica
+Diversificación de la instrucción en
+Termodinámica (simulaciones, uso de
+gráficos, etc.)
+La Termodinámica en nuestra vida cotidiana
+Termodinámica e innovación
+
+
+
+BLOQUE II.- LUZ Y
+COLOR.
+
+Electromagnetismo. Ondas electromagnéticas.
+Dualidad onda partícula: naturaleza dual de la
+radiación.
+Fuentes luminosas. Interacción luz-materia.
+Propagación de la luz. Fenómenos ópticos
+en la atmósfera.
+Fundamentos de la visión. Defectos de la
+visión.
+Visión del color. Teoría física del
+color.
+Prácticas de Física con Arduino.
+
+PARTE 2: Complementos Específicos de
+  Química
+
+
+BLOQUE 1: Historia y
+  enseñanza de la Química
+
+Tema 1. Historia y enseñanza de la Química
+Tema 2. Los elementos Químicos. Teoría
+Atómica de Dalton.
+Tema 3. La tabla periódica. Ley Periódica.
+Tema 4. Modelos atómicos y enlace químico.
+
+BLOQUE 2: Fronteras del
+  conocimiento e investigación en Química
+
+Tema 5. Origen de los elementos químicos.
+Astroquímica.
+Tema 6. Nuevos materiales
+Tema 7. Bases mnoleculares de las enfermedades.
+Fármacos.
+Tema 8: Química y Medio Ambiente
+
+BLOQUE 3:
+  Gestión de la Información en Química
+
+Tema 9: Gestión de la información en
+Química
+'

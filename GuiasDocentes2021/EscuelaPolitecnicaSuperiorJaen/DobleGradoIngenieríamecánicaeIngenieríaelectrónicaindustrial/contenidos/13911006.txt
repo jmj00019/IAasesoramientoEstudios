@@ -1,0 +1,121 @@
+'
+
+Leyes y Conceptos Fundamentales.
+Estructura de la Materia.
+Transformaciones Químicas de la Materia.
+Química Aplicada.
+
+PROGRAMA DE TEORÍA:
+TEMA 1. CONCEPTOS Y LEYES FUNDAMENTALES DE LA
+QUíMICA.
+Concepto de Ciencia. Objeto, importancia y
+clasificaciónde la Química. Clasificación de
+la materia. Leyesfundamentales de las transformaciones
+químicas.Teoría atómica de Dalton.
+Símbolos yfórmulas. Formulación y nomenclatura
+de loscompuestos inorgánicos.Concepto de mol, número
+deAvogadro, volumen molar. Determinación de
+fórmulasempíricas y moleculares.
+Cálculosestequiométricos.
+ 
+TEMA 2. ESTRUCTURA DEL ÁTOMO:
+NÚCLEOATÓMICO.
+Partículas elementales: el electrón,
+elprotón y el neutrón. Modelo atómico
+deRutherford. Número atómico y
+númeromásico, Isótopos e Isóbaros.
+Estabilidadnuclear. Radiactividad natural. Cinética de
+ladesintegración radiactiva.
+ 
+TEMA 3. ESTRUCTURA ELECTRÓNICA. PROPIEDADES
+PERIÓDICAS. CLASIFICACION PERIÓDICA DE LOS
+ELEMENTOS.
+Interacción matería y energía.
+Espectrosatómicos. Modelo atómico de Bohr.
+Estructuraextranuclear del átomo según la
+mecánicaondulatoria: dualismo onda-partícula.
+Principio deincertidumbre de Heisenberg. Ecuación de
+Schrödingerpara el átomo de hidrógeno.
+Númeroscuánticos. Orbitales atómicos.
+Baseelectrónica de la clasificación
+periódica.Descripción de la tabla periódica
+actual. PropiedadesPeriódicas.
+ 
+TEMA 4. ENLACE QUIMICO: IÓNICO, COVALENTE Y
+METÁLICO. FUERZAS INTERMOLECULARES.
+Enlace Iónico. Redes cristalinas.
+Energíareticular. Naturaleza del enlace covalente.
+Estructura de Lewis yregla del octeto. Teoría del enlace de
+valencia.Hibridación de orbitales atómicos.
+Teoría deOrbitales Moleculares. Orden y estabilidad de
+enlace. Polaridad del enlace covalente. Resonancia. Teoría
+de bandas en metales.Fuerzas intermoleculares.
+ 
+TEMA 5.  ESTADOS DE AGREGACION DE LA MATERIA. CAMBIOS DE
+ESTADO.
+Estado sólido. Estado gaseoso. Las leyes de los
+gasesideales. Gases reales. Teoría cinético-
+molecular delos gases. Estado líquido. Propiedades de
+loslíquidos. Cambios de estado. Regla de las fases. Diagrama
+de fases. Otros materiales.
+ 
+TEMA 6. SISTEMAS DISPERSOS. DISOLUCIONES. PROPIEDADES
+COLIGATIVAS DE LAS DISOLUCIONES.
+Sistemas dispersos. Clasificación. Concepto
+dedisolución. Solubilidad. Disoluciones ideales y no
+ideales.Ley de Raoult. Ley de Henry. Propiedades Coligativas de
+lasdisoluciones que contienen solutos no volátiles.
+ 
+TEMA 7.  ESTUDIO TERMODINÁMICO DE LAS REACCIONES
+QUÍMICAS
+Definición de los términos de
+latermodinámica. Primer principio. Energía
+interna.Entalpía. Termoquímica. Ley de Hess.
+Espontaneidad,reversibilidad y equilibrio. Entropía. Segundo
+principio dela termodinámica y tercer principio de
+latermodinámica. Condiciones de equilibrio y espontaneidad
+atemperatura constante. Función de Gibbs.
+ 
+TEMA 8. CINÉTICA QUÍMICA.
+Velocidad de las reacciones químicas.
+Reaccioneselementales. Mecanismo de reacción.
+Ecuación generalde la velocidad de reacción. Orden de
+reacción.Teorías sobre la velocidad de las
+reacciones.Catálisis.
+ 
+TEMA 9.  EQUILIBRIO QUIMICO.
+Concepto de equilibrio químico. Reacciones
+reversibles.Estudio cinético del equilibrio.
+Estudiotermodinámico del equilibrio. Constante de
+equilibrio. Influencia de la temperatura en la constante de
+equilibrio.Factores que afectan al equilibrio. Equilibrios en
+sistemas heterogéneos.
+ 
+TEMA 10.  ELECTROQUÍMICA.
+Reacciones de oxidación-reducción.
+Célulaselectroquímicas. Potencial de electrodo.
+Potencialestándar de los electrodos. Potencial de
+célula y energía libre. Potencial de célula
+yconcentración. Ecuación de Nernst. Células
+voltaicas comerciales. Corrosión.
+Electrólisis.Procesos electrolíticos comerciales.
+ 
+PROGRAMA DE PRÁCTICAS:
+PRÁCTICA 1: SÍNTESIS. OBTENCIÓN DEL SULFATO
+DE TETRAMIN COBRE(II).
+PRÁCTICA 2:  SOLUBILIDAD Y
+PRECIPITACIÓN.
+PRÁCTICA 3: VOLUMETRÍAS
+ÁCIDO-BASE.DETERMINACIÓN DE LA ÁCIDEZ DE UN
+VINAGRE.
+PRÁCTICA 4: DESTILACIÓN DE UNA MEZCLA
+ETANOL-AGUA.
+PRÁCTICA 5: CINÉTICA. HIDRÓLISIS
+ÁCIDA DEL ACETATO DE METILO.
+SEMINARIO I: PRESENTACIÓN PROGRAMA DE
+PRÁCTICAS; NORMAS DE SEGURIDAD; RECONOCIMIENTO DEL MATERIAL
+DE LABORATORIO Y SUS APLICACIONES.
+SEMINARIO  II: FORMAS  DE  EXPRESAR
+ LA CONCENTRACIÓN.  CÁLCULOS  EN
+ EL LABORATORIO DE QUÍMICA.
+'

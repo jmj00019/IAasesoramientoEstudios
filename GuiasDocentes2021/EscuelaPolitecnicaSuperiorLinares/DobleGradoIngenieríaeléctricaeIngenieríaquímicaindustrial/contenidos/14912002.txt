@@ -1,0 +1,90 @@
+'
+
+
+Introducción al análisis y simulación de
+  procesos.
+Simulación de procesos en estado estacionario.
+Estrategia modular para la simulación de procesos en
+  régimen estacionario.
+Introducción a la optimización.
+Optimización de procesos industriales.
+
+
+BLOQUE I: INTRODUCCIÓN AL ANÁLISIS Y
+SIMULACIÓN DE PROCESOS
+Síntesis de procesos químicos. Estrategia de
+diseño de procesos. Herramientas de diseño de
+procesos. Método jerárquico para la síntesis
+de procesos químicos. Análisis multicriterio para la
+toma de decisiones. 
+Concepto
+y necesidad de la simulación. Análisis de variables y
+modelización de procesos.
+
+ 
+
+
+BLOQUE
+  II: SIMULACIÓN DE PROCESOS EN ESTADO ESTACIONARIO
+
+
+Tipos
+  de simuladores comerciales. Ambientes y comandos del programa
+  Aspen-Plus. Librerías de componentes y paquetes de
+  propiedades termodinámicas. Construcción del
+  diagrama de flujo. Operaciones unitarias disponibles en el
+  simulador Aspen-Plus.
+
+
+ 
+
+
+BLOQUE
+  III: ESTRATEGIA MODULAR PARA LA SIMULACIÓN DE PROCESOS EN
+  RÉGIMEN ESTACIONARIO
+
+
+Simulación
+de operaciones unitarias de transferencia de materia.
+Diseño de secuencias de separación. Extracción
+líquido-líquido. Destilación.
+
+
+Simulación
+  de operaciones de transferencia de calor. Diseño y
+  simulación de calderas, cambiadores de calor,
+  evaporación.
+
+
+Simulación
+de reactores químicos. Diseño y
+simulación de reactores basados en balance de masas, basados
+en equilibrio y basados en modelos cinéticos.
+
+
+ 
+
+
+BLOQUE
+  IV: INTRODUCCIÓN A LA OPTIMIZACIÓN
+
+
+Introducción.
+  Formulación de un problema de optimización. Grados
+  de libertad. Función Objetivo. Problemas de
+  optimización.
+
+
+ 
+
+
+BLOQUEV:
+  OPTIMIZACIÓN DE PROCESOS INDUSTRIALES
+
+
+Estudio
+  de casos de procesos químicos industriales. Empleo del
+  simulador Aspen-Plus para el diseño y optimización
+  de operaciones y procesos químicos.
+
+'

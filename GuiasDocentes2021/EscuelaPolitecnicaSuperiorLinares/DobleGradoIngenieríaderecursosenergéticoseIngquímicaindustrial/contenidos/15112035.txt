@@ -1,0 +1,208 @@
+'
+
+Petrología sedimentaria: análisis de sedimentos y
+rocas sedimentarias.
+Concepto y tipos de facies.
+Ambientes y modelos sedimentarios. Reconocimiento en el
+registro fósil
+Registro estratigráfico: unidades y síntesis
+estratigráfica.
+
+Teoría. Unidades
+temáticas
+I. Petrología sedimentaria
+Tema 1.- Sedimentos y Rocas Detríticos.
+Introducción. Ruditas y areniscas. Texturas sedimentarias:
+tamaño, morfología, textura superficial y
+fábrica de los granos. Madurez textural. Estructuras
+sedimentarias: erosionales, deposicionales, postdeposicionales,
+biogénicas. Porosidad, permeabilidad y comportamiento
+mecánico. Lutitas. Texturas y estructuras, constituyentes
+minerales. Porosidad, permeabilidad y comportamiento
+mecánico.
+Tema 2.- Sedimentos y Rocas No Detríticas: Carbonatos.
+Introducción. Mineralogía. Textura. Trama:
+extraclastos y aloquímicos (intraclastos, lumps, granos
+revestidos, bioclastos, pellets). Matriz. Cementos. Porosidad,
+permeabilidad y comportamiento mecánico.
+Clasificación. Estructuras sedimentarias. Descripción
+y génesis de los diferentes tipos.
+Tema 3.- Hidrocarburos: Génesis. Introducción:
+los hidrocarburos y los distintos tipos. Génesis de los
+hidrocarburos. La roca madre. La materia orgánica en los
+sedimentos. Los macerales. Transformaciones: el kerógeno:
+concepto, tipos y evolución. Diagrama de van krevelen. La
+diagénesis catagénesis y metagénesis. La
+ventana del petróleo. Análisis básico de las
+rocas generadoras: reflectancia de la vitrinita, indice de
+alteracion termica, técnica de Rock Eval.
+Tema 4. Hidrocarburos: Migración y Entrampamiento.
+Clasificación de la migración. Mecanismos de
+expulsión (o de migración primaria). Mecanismos de
+migración secundaria. Desplazamiento de los hidrocarburos
+durante la migración. Yacimientos estructurales por
+plegamiento. Yacimientos asociados a fracturación.
+Yacimientos asociados a la tectónica halocinética.
+Yacimientos estratigráficos: por discordancias, por cambios
+laterales de facies.
+Tema 5. El Carbón: Producción,
+acumulación y conservación de la materia
+orgánica. El carbón a escala macroscópica y
+microscópica. Grupos macerales. Medios sedimentos:
+definición y reconocimiento en el registro fósil. La
+carbonización y maduración de la materia
+orgánica. Factores de control: Tª, P y tiempo. Rangos,
+componentes y tipos de carbón.
+Tema 6. Otras rocas Rocas No Detríticas. Sedimentos y
+rocas silíceas: radiolaritas, diatomitas, esponjolitas.
+Sedimentos y rocas alumino-ferruginosas: bauxitas, lateritas.
+Evaporitas. Génesis de las diferentes litologías.
+Rocas fosfatadas: tipos.
+Tema 7.- Parámetros petrofísico y su
+evolución diagenética: Propiedades físicas de
+la roca: Porosidad, Permeabilidad, saturación de agua,
+capilaridad, resistividad. Relación entre porosidad,
+permeabilidad y textura de la roca. La diagénesis: Concepto
+y generalidades sobre la diagénesis. Fases y procesos
+diagenéticos. La diagénesis en los diferentes tipos
+de rocas. Estructuras diagenéticas. Efecto de la
+diagénesis en la calidad del reservorio: Porosidad primaria
+y secundaria.
+II. Facies y asociaciones de facies
+Tema 8.- Facies. Concepto y tipos de facies. Relaciones y
+asociaciones de facies. Ley de Walther. Factores que controlan la
+naturaleza y distribución de las facies. Mapas de facies.
+Modelos sedimentarios. Reconocimiento de ambientes sedimentarios
+antiguos.
+Tema 9.- Asociaciones de Facies Continentales.
+Introducción al concepto de facies y asociaciones de facies.
+Abanicos aluviales. Medios fluviales. Medios lacustres y palustres.
+Medios eólicos. Glaciares. Reconocimiento de ambientes
+sedimentarios antiguos.
+Tema 10.- Asociaciones de Facies de Medios de
+Transición. Playas. Llanuras de mareas. Deltas.
+Reconocimiento de ambientes sedimentarios antiguos.
+Tema 11.- Asociaciones de Facies de Medios Marinos.
+Plataformas detríticas. Plataformas carbonatadas.
+Asociaciones de facies pelágicas y turbidíticas.
+Reconocimiento de ambientes sedimentarios antiguos.
+III. Unidades y Síntesis
+Estratigráfica
+Tema 12.- Unidades Estratigráficas:
+Introducción al concepto de Correlación
+estratigráfica. UNIDADES LITOESTRATIGRÁFICAS.
+Definición. Rangos. Ventajas e inconvenientes de su uso.
+Forma. Relaciones laterales y verticales de las unidades
+litoestratigráficas. Representación gráfica.
+UNIDADES BIOESTRATIGRÁFICAS Y CRONOESTRATIGRÁFICAS.
+Bioestratigrafía y unidades bioestratigráficas.
+Unidades cronoestratigráficas. Relación entre los
+distintos tipos de unidades unidades y ventajas y limitaciones en
+sus respectivas aplicaciones.
+Tema 13.- Discontinuidades Estratigráficas.
+Definición. Tipos de discontinuidades. Criterios de
+reconocimiento. Interés práctico de las
+discontinuidades estratigráficas. Yacimientos de
+interés económico asociados.
+Tema 14.- Cambios Relativos del Nivel del Mar. Concepto de
+transgresión y regresión. Factores: eustatismo,
+aportes sedimentarios, tectónica. Métodos de
+reconocimiento.
+Tema 15.- Estratigrafía Sísmica y Secuencial.
+Introducción. Unidades genéticas. Las secuencias
+deposicionales. Los Cortejos Sedimentarios. Reconocimiento en
+perfiles sísmicos de cuencas sin estructurar y en el
+registro fósil. Herramienta de correlación.
+Interés económico.
+Programa de prácticas de
+Laboratorio-gabinete
+Se han reservado 20 h (2
+créditos), en 10 sesiones de 2 horas cada una para las
+prácticas de laboratoriogabinete. Por un lado, se dedican 5
+sesiones para el reconocimiento y estudio de sedimentos y rocas
+sedimentarias a muestra de mano y microscopio petrográfico.
+Por otro lado, se analizarán Mapas Geológicos, Mapas
+de Isopacas, Contorno de Estructuras, se realizarán cortes y
+perfiles estratigráficos, así como estudios de
+síntesis estratigráfica. Se pretende insistir en las
+competencias CG7, CC8 y CBB5.
+PROBLEMAS GEOMETRICOS
+Sesión 1 y Sesión 2. Problemas Relacionados con
+la geología de subsuelo
+* Determinación de direcciones y buzamientos de
+estratos.
+* Orientación de líneas.
+* Potencias reales y aparentes.
+* Problemas relacionados con sondeos.
+* Uso de la falsilla estereográfica en la
+resolución de problemas geométricos.
+
+PETROLOGÍA SEDIMENTARIA
+Sesión 3: Rocas Sedimentarias (visu): análisis
+a muestra de mano de las principales rocas sedimentarias. Se
+recuerdan conceptos analizados en Geología I.
+Sesión 4: Rocas Sedimentarias I (microscopio): repaso
+características ópticas de los principales minerales
+sedimentarios (cuarzo, calcita, feldespatos, micas).
+Análisis y Clasificación de Rocas Detríticas
+al microscopio (Detríticas).
+Sesión 5: Rocas Sedimentarias II (microscopio):
+Análisis de Carbonatos al microscopio.
+Caracterización de los aloquímicos más
+abundantes. Caracterización de medios sedimentarios y
+Clasificación de la roca. La presencia de algún
+fósil podría ayudar a determinar la edad de la roca.
+Sesión 6: Estudio de Carbones (microscopio):
+análisis de la evolución de las texturas a
+microscopio de reflexión: Medida de la maduración
+térmica de la materia orgánica (Reflectancia de la
+vitrinita).
+Sesión 7: Análisis de Procesos
+Diagenéticos (visu y microscopio): Procesos de
+disolución. Cementación (estudio de diferentes tipos
+y fases de cementación). Recristalización.
+Reemplazamiento. Las dolomías: mineralogía,
+técnicas de estudio (tinciones), los procesos de
+reemplazamiento. Silicificación.
+MAPAS GEOLÓGICOS
+Sesión 8 y 9: Mapas Geológicos I y II: Aunque
+el alumno ya ha tratado mapas geológicos en primer curso,
+parece muy importante seguir insistiendo en esta materia. Es
+fundamental que al finalizar sus estudios de grado el alumno sepa
+interpretar perfectamente un mapa geológico.
+Sesión 10: Mapas Geológicos III
+(Colección IGME): se trata de aplicar la experiencia ya
+adquirida en el tratamiento de mapas geológicos a mapas
+reales. Por un lado, el alumno se familiarizará con la
+representación y estructuración de estos mapas. Por
+otro lado, se analizarán ejemplos de menor a mayor
+complejidad tectónica, introduciendo algunos aspectos de
+geología regional.
+Sesión 11: Elaboración de mapas de contorno de
+estructuras y mapas de isopacas: a partir de información de
+sondeos, los alumnos elaborarán este tipo de mapas. Ello
+permite visualizar zonas de mayor interés para la
+investigación de yacimientos sedimentarios de interés
+económico.
+Sesión 12: Síntesis estratigráfica: a
+partir de una serie de muestras (muestra de mano/láminas
+delgadas) así como información adicional (espesores,
+estructuras sedimentarias existentes) el alumno levantará
+columnas estratigráficas, deducirá ambientes
+sedimentarios y su evolución en la vertical, marcará
+los límites de unidades genéticas, deducirá
+procesos transgresivos/regresivos. Señalará las
+unidades más propicias para la investigación de
+determinados yacimientos de interés económico.
+Programa de Práctica de
+campo
+Se realiza una salida al campo, de
+un día completo, con desplazamiento a un sector situado unos
+kilómetros al Norte de Segura de la Sierra, con una
+duración de unas 8 h. Los alumnos levantarán dos
+columnas estratigráficas en sectores relativamente
+próximos. La correlación de las mismas
+permitirá destacar las diferencias entre ellas y deducir las
+causas asociadas a estos cuerpos irregulares que se acuñan
+lateralmente.
+'

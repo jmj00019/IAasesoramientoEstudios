@@ -1,0 +1,40 @@
+'
+
+Radiocommunications and radiodetermination is one of the
+subjects belonging to the module of telecommunication technologies
+in the field of Signal Theory and Communications. This course
+enables students to acquire advanced knowledge of antennas,
+propagation, and radar and satellite communications.
+ 
+
+
+THEORY AND PROBLEMS
+
+1. Rewiew of  Mawell equations in RPS. Sources of the
+electromagnetic field. Potential vectors.
+2. Antennas: Parameters of the antennas. Types of antennas:
+Linear antennas, aperture antennas, reflectors, arrays of antennas.
+Array pattern synthesis.
+3. Propagation: Link budget, path loss, interferences and
+fading. Noise in comunication systems.
+4. Satellite comunications: Satellite orbits. Satellite path
+free space loss. Rain fading considering ITU Rain Attenuation model
+for satellite path.
+5. Navigation systems:GPS: Description  of GPS systems.
+Common uses of
+GPS.         
+6. Radar Systems: The radar  range equation. Resolution and
+accuracy. False Alarm Rate and probability of
+detection           
+ 
+
+PRACTICE
+
+ Practice 1. Analysis of antennas I ussing AWAS
+program
+Practice 2. Analysis of antennas II ussing AWAS program and
+Synthesis of antennas.
+Practice 3: Link budget 
+Practice 4. Determination of Look angle for satellite
+communications and Design of a Satellite Link  (Software).
+'

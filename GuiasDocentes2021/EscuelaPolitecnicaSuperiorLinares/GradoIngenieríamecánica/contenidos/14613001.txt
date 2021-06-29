@@ -1,0 +1,54 @@
+'
+
+Ventajas constructivas de la fabricación in situ de una
+roca artificial (hormigón armado).
+Carasterísticas resistivas del hormigón armado y
+pretensado.
+Fundamentos para la aplicación y diseño de
+elementos de hormigón armado y pretensado.
+Métodos  de fabricación de elementos de
+hormigón pretensado necesarios para coordinar la
+producción de una empresa de este sector.
+Designación de la normativa existente e
+interacción con el uso y diseño de elementos de
+hormigón armado y pretensado.
+
+El 
+Acero como material de construcción.
+
+Bases de cálculo: métodos de cálculo y
+  clases de secciones.
+Compresión y Pandeo: Soportes.
+Flexión: Abolladura, Vigas Armadas, Vigas
+  Alveolares.
+Secciones Clase 4.
+Nudos: tipología. Uniones Atornilladas, Uniones
+  Soldadas.
+Entregas a Cimentación: Placas de Anclaje.
+Organización en Estructuras Porticadas y Naves
+  Industriales.
+
+El material 
+Hormigón Armado:
+
+Componentes, dosificación, propiedades y ensayos.
+Puesta en Obra: Adherencia, disposición, anclajes y
+  empalmes. Preparación y transporte del hormigón.
+  Colocación y curado.
+Cálculo en Estados Límite: Calculo de secciones
+  en Estados Límite Últimos.
+Cuantías.
+Diagramas de pivotes y de interacción.
+Utilización de tablas, ábacos y diagramas
+  adimensionales.
+Cálculo a pandeo. Cálculo a cortadura. Estados
+  Límite de Servicio. Otros
+Elementos Estructurales de Hormigón Armado:
+  Cimentaciones Superficiales, Forjados.
+
+ 
+Aplicación práctica de los epígrafes
+anteriores en el 
+cálculo específico de una estructura
+industrial
+'

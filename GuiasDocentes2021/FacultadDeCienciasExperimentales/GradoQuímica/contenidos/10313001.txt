@@ -1,0 +1,187 @@
+'
+
+
+
+Programa
+  Teórico:
+
+En este Asignatura se desarrallorrán los siguientes
+contenidos:
+- Principios básicos en el análisis químico
+de muestras biológicas y medioambientales.
+- Análisis de muestras biológicas (tipos de
+muestras, toma y tratamiento de muestra y métodos de
+análisis).
+- Parámetros analíticos específicos de
+sangre y orina: componentes mayoritarios, componentes minoritarios
+y tóxicos.
+- Análisis de muestras medioambientales (tipos de
+muestras, toma y tratamiento de muestra y métodos de
+análisis).
+- Parámetros analíticos específicos en
+aire, aguas y sólidos (partículas
+atmosféricas, suelos, lodos, sedimentos, etc.): componentes
+mayoritarios, componentes minoritarios y tóxicos.
+- Aplicaciones de las técnicas analíticas
+clásicas e instrumentales al análisis de muestras
+biológicas y medioambientales
+
+Estos contenidos han sido
+agrupados en los siguientes Bloques Temáticos:
+BLOQUE I: INTRODUCCIÓN A LA QUÍMICA
+ANALÍTICA CLÍNICA Y MEDIOAMBIENTAL. TÉCNICAS
+DE ANÁLISIS.
+BLOQUE II. QUÍMICA ANALÍTICA CLÍNICA
+BLOQUE III: QUÍMICA ANALÍTICA AMBIENTAL
+ 
+
+
+Programa Práctico
+:
+Realización de ocho experimentos relacionados con la
+materia.
+ 
+
+
+Actividades
+  Académicamente Dirigidas:
+
+Exposición por parte del alumno de temáticas
+relacionadas con la materia y realización de diferentes
+problemas y ejercicios. 
+
+
+ 
+
+
+
+PROGRAMA TEÓRICO DESARROLLADO
+
+
+BLOQUE I: INTRODUCCIÓN A LA QUÍMICA
+  ANALÍTICA CLÍNICA Y MEDIOAMBIENTAL. TÉCNICAS
+  DE ANÁLISIS
+
+Tema 1. PRINCIPIOS BÁSICOS DEL LABORATORIO DE
+ANÁLISIS CLÍNICO Y MEDIOAMBIENTAL. Unidades de
+medida. Mediciones de masa. Material de laboratorio. Agua de
+laboratorio. Seguridad en el laboratorio clínico.
+Tema 2. TÉCNICAS ANALÍTICAS MÁS
+FRECUENTEMENTE UTILIZADAS (I). Espectrometría de
+absorción molecular. Fluorimetría.
+Turbidimetría y nefelometría. Luminometría.
+Espectrometría atómica. Osmometría.
+Cromatografía. Electroforesis. Técnicas
+electroquímicas.
+Tema 3. TÉCNICAS ANALÍTICAS MÁS
+FRECUENTEMENTE UTILIZADAS (II). Técnicas
+inmunoquímicas. Producción de antisueros y
+anticuerpos monoclonales. Reacciones de aglutinación e
+inmunoprecipitación.  Inmunoanálisis con
+reactivos marcados. Clases de inmunoanálisis con reactivos
+marcados. Automatización.
+
+ 
+
+
+BLOQUE II: QUÍMICA ANALÍTICA
+  CLÍNICA
+
+Tema 4. ANÁLISIS DE SANGRE. Tipos de muestra. Recipientes
+de recolección. Variables de recolección. Criterios
+de laboratorio para muestras inaceptables. Procesamiento y
+tratamiento de muestras. Errores en el laboratorio clínico.
+Programa de control de calidad. Hemograma sanguíneo.
+Tema 5. ANÁLISIS DE ORINA. Fisiología renal.
+Análisis de orina. Examen físico de la orina. Examen
+químico. Examen microscópico. Enfoque coordinado del
+análisis de orina.
+Tema 6. MÉTODOS DE ANÁLISIS
+DE AMINOÁCIDOS, PROTEÍNAS, HIDRATOS DE CARBONO,
+LÍPIDOS, VITAMINAS Y ENZIMAS. Definición y
+clasificación. Propiedades químicas, físicas y
+biológicas. Análisis específico de
+parámetros clínicos: Proteínas séricas
+totales, Urea, Albúmina, Glucosa, Insulina,
+Fosfolípidos del líquido amniótico,
+Colesterol, Triglicéridos y Vitaminas (hidrosolubles y
+liposolubles).
+ 
+
+BLOQUE III: QUÍMICA ANALÍTICA
+  AMBIENTAL
+
+Tema 7. LA QUÍMICA ANALÍTICA AMBIENTAL Y SU CAMPO
+DE APLICACIÓN. El medio ambiente. Química
+Analítica y Medio Ambiente. Concepto de
+contaminación. Clasificación de los contaminantes
+químicos. Transporte de contaminantes. Criterios para la
+selección del método de análisis.
+Tema 8. ANÁLISIS ATMOSFÉRICO: GASES Y
+PARTÍCULAS. Composición de la atmósfera,
+contaminantes comunes del aire y sus fuentes. Muestreo y
+preconcentración. Análisis de gases. Fuentes de
+sólidos en suspensión. Medidas de materia suspendida
+total. Técnicas de discriminación del tamaño
+de partícula. Análisis de
+partículas. Técnicas de detección
+remota. 
+Tema 9. ANÁLISIS DE AGUAS: CONSTITUYENTES MAYORITARIOS Y
+CONTAMINANTES TRAZA. Calidad de las aguas: aguas naturales y
+residuales. Toma de muestra. Análisis de parámetros
+generales. Determinación de gases y compuestos
+orgánicos no específicos. Análisis de
+componentes mayoritarios aniónicos y catiónicos.
+Iones metálicos traza. Contaminantes orgánicos a
+nivel de trazas.
+Tema 10. ANÁLISIS DE MUESTRAS SÓLIDAS. Tipos de
+muestras sólidas. Muestreo y almacenamiento.
+Determinación de compuestos orgánicos. Métodos
+de de determinación.
+ 
+
+
+PROGRAMA PRÁCTICO DESARROLLADO
+
+
+
+Sesión 1
+
+
+Práctica 1: Determinación de hierro en
+suero.
+
+Práctica 2: Determinación de Albúmina
+en suero.
+
+
+Sesión 2
+
+
+Práctica 3: Determinación de bicarbonato en
+suero.
+
+Práctica 4: Determinación de ácido
+ascórbico en orina mediante el método oficial de
+análisis (AOAC).
+
+
+Sesión 3
+
+
+Práctica 5: Determinación enzimática
+de glucosa en suero.
+
+Práctica 6: Determinación de la turbidez del
+agua.
+
+
+Sesión 4
+
+
+Práctica 7: Determinación de oxígeno
+disuelto en aguas.
+
+Práctica 8: Determinación de la materia
+orgánica total de una muestra de suelo.
+'

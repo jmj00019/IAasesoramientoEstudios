@@ -1,0 +1,29 @@
+'
+
+
+Estadística descriptiva.
+Probabilidad. Probabilidad condicionada.
+Variables aleatorias. Principales modelos
+  teóricos.
+Vectores aleatorios. Distribuciones conjunta, marginales y
+  condicionadas. Independencia. Normal multidimensional.
+Inferencia estadística. Estimación puntual.
+  Contraste de hipótesis.
+Procesos aleatorios. Media y autocorrelación de un
+  proceso. Procesos estacionarios. Densidad espectral. Sistemas
+  lineales. Proceso de Poisson y procesos normales.
+
+
+Tema 1. Introducción.
+Tema 2. Estadística descriptiva.
+Tema 3. Probabilidad.
+Tema 4. Variables aleatorias.
+Tema 5. Distribuciones de probabilidad.
+Tema 6. Vectores aleatorios.
+Tema 7. Introducción a la inferencia
+estadística.
+Tema 8. Estimación de parámetros de una
+distribución.
+Tema 9. Contraste de hipótesis paramétricas.
+Tema 10. Procesos aleatorios. 
+'

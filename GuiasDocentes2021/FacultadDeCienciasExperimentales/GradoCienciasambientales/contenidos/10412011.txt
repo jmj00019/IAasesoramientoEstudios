@@ -1,0 +1,83 @@
+'
+
+
+Ecología
+  de las perturbaciones como marco conceptual general para la
+  Evaluación del Impacto Ambiental (EIA). Procedimientos
+  administrativos y técnicos en la EIA. Conceptos
+  básicos: efecto e impacto, capacidad de acogida versus
+  impacto ambiental, integración ambiental. Técnicas
+  de valoración del impacto (tipificación
+  cualitativa, decisión multicriterio, métodos
+  matemáticos y estadísticos). Medidas correctoras,
+  compensatorias y de vigilancia.
+
+
+
+CONTENIDOS TEÓRICOS:
+
+
+Ecología de las
+perturbaciones e impactos ambientales. Conceptos de
+estabilidad y dinámica de los ecosistemas. Actividades
+humanas y régimen de perturbación de los ecosistemas.
+Concepto, diagnóstico, causas y naturaleza de los
+impactos.
+
+La Evaluación de
+Impacto Ambiental (EIA) como instrumento administrativo. La
+EIA dentro de la Gestión Ambiental. Marcos legislativos: UE,
+nacional y autonómica sobre EIA. Procesos administrativos
+involucrados en la EIA.
+ 
+
+Capacidad de Acogida y
+Evaluación de Alternativas. Acciones del proyecto,
+identificación de susceptibilidad de impactos y factores de
+riesgo. Generación y valoración de alternativas.
+Métodos de decisión multicriterio.
+
+Inventario y
+Valoración Ambiental. Conceptos y modelos generales.
+Variables e indicadores. Técnicas de ponderación,
+integración y representación de la
+información. Escalas espacio-temporales. Criterios de
+valoración. Especificidades para diferentes factores del
+medio.
+
+Identificación y
+valoración cualitativa de Impactos. Listas de
+chequeo. Métodos matriciales. Grafos causa-efecto. Magnitud
+e importancia (atributos) del impacto.
+
+Valoración
+cuantitativa de Impactos. Métodos de diferencia.
+Métodos integrales. Métodos multivariantes. Funciones
+de transformación.
+
+Mitigación y
+Vigilancia de Impactos. Medidas correctoras, de
+restauración y compensación. Programas de
+monitorización ambiental post-operacional.
+
+Comunicación en
+EIA. Comunicación administrativa: estructura y
+características semánticas y formales del Informe de
+EIA. Comunicación pública: el documento Social y de
+Síntesis.
+
+CONTENIDOS PRÁCTICOS:
+
+
+Aplicación
+  de métodos estadísticos multivariantes al
+  cálculo de impacto ambiental. Métodos de
+  Evaluación de Capacidad de Acogida. Métodos de
+  Generación y selección de Alternativas. El
+  Inventario Ambiental - Valoración de Factores del Medio.
+  Valoración cualitativa y cuantitativa del impacto.
+  Funciones de transformación. Visitas de campo:
+  valoración del medio, planes de vigilancia
+  ambiental.
+
+'

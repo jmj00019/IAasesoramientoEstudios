@@ -1,0 +1,188 @@
+'
+
+1. Introducción al software y librerías FOSS.
+2. Introducción a los procesos de desarrollo de
+aplicaciones.
+3. Introducción a los desarrollos basados en
+Modelo-Vista-Controlador.
+4. Librerías y software para la lectura, escritura y
+procesamiento de datos geográficos de diferentes fuentes.
+5. Desarrollo de ejemplos básicos integrados en
+software y/o específicos.
+
+
+
+Teoría
+
+
+Capítulo 1.
+  Introducción al software y librerías FOSS.
+
+
+         
+    1.1. Introducción
+
+
+           
+  1.2. Características de Java
+
+
+           
+  1.3. Instalación del entorno de desarrollo
+
+
+           
+  1.4. Creación de clases en Java
+
+
+           
+  1.5. Creación y utilización de objetos
+
+
+           
+  1.6. Comentarios y documentación javadoc
+
+
+           
+  1.7. El encapsulamiento y la visibilidad en Java
+
+
+           
+  1.8. La herencia en Java
+
+
+           
+  1.9. La sobrecarga en Java
+
+
+           
+  1.10. El polimorfismo en Java
+
+
+           
+  1.11. Clases abstractas, interfaces y herencia
+  múltiple
+
+
+           
+  1.12. Tipos enumerados en Java
+
+
+           
+  1.13. Las colecciones en Java
+
+
+           
+  1.14. Referencia Java
+
+
+
+ Capítulo 2. Introducción a los procesos de
+  desarrollo de aplicaciones.
+
+
+2.1. Introducción al proceso
+  de desarrollo
+
+
+2.2. Ingeniería e
+  Ingeniería del Software
+
+
+2.3. Modelo de la Ingeniería
+  del software
+
+
+2.4. Ciclo de Vida del
+  Software
+
+
+2.5. Construcción
+  Rápida de Prototipos Desechables
+
+
+2.6. Metodologías de
+  Desarrollo del Software
+
+
+ 
+
+
+Capítulo 3.
+  Introducción a los desarrollos basados en
+  Modelo-Vista-Controlador.
+
+
+3.1. Descripción
+  General
+
+
+3.2. Arquitectura MVC
+  Básica
+
+
+3.3. Clases de la
+  Aplicación
+
+
+3.4. Ejecución de la
+  Aplicación
+  
+
+
+
+Capítulo 4. Librerías y
+  software para la lectura, escritura y procesamiento de datos
+  geográficos de diferentes fuentes.
+  
+
+
+
+Capítulo 5. Desarrollo de
+  ejemplos básicos integrados en software y/o
+  específicos.
+
+
+5.1. Introducción a Android y
+  entorno de desarrollo
+
+
+5.2. Diseño del interfaz del
+  usuario - Vistas y Layouts
+
+
+5.3. Actividades, Barra de Acciones y
+  Preferencias
+
+
+5.4. RecyclerView e
+  Intenciones
+
+
+5.5. Ciclo de vida de una Actividad y
+  Seguridad
+
+
+5.6. Posicionamiento y Mapas
+
+
+5.7. Bases de datos y Fragments en
+  Android
+
+
+ 
+
+
+
+Prácticas
+
+
+Se
+  realizarán diferentes actividades en el laboratorio de
+  prácticas al objeto de aclarar, profundizar y afianzar los
+  contenidos prácticos de la asignatura. Estos contenidos
+  serán desarrollados tanto en las sesiones de teoría
+  en gran grupo como en las sesiones de prácticas en el
+  laboratorio.
+
+'

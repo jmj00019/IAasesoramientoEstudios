@@ -1,0 +1,90 @@
+'
+
+Sistemas de gestión del transporte y desplazamientos
+(Travel and Transportation Management).
+Sistemas de gestión de la demanda de desplazamientos
+(Travel Demand Management).
+ Operación del Transporte Público (Public
+Transportation Operation).
+ Gestión del Tráfico Urbano.
+ Tarificación electrónica (Electronic
+Payment).
+Operación de vehículos comerciales (Commercial
+Vehicle Operations).
+Sistemas de gestión emergencias (Emergency
+Management).
+ Sistemas avanzados de control y seguridad de
+vehículos (Advanced Vehicle Control and Safety Systems).
+Sistemas e instalaciones en carreteras, túneles y
+peajes.
+Sistemas de información al viajero.
+Aplicaciones ITS para vehículos privados, transporte
+público y vehículos comerciales.
+Beneficios de los ITS: seguridad vial, medio ambiente,
+tiempo, intermodalidad, interoperabilidad, fiabilidad y
+variabilidad, eficiencia, sinergias.
+
+
+Introducción a los sistemas inteligentes
+
+
+Nociones y Conceptos básicos de Teoría de
+  Conjuntos Difuso. Introducción
+Enfoque Lingüístico Difuso.
+  Introducción
+Modelos de Representación
+Definiciones y Operaciones
+Modelos de Computación
+Sistemas Inteligentes de Toma de Decisiones
+Introducción a Problemas de Toma de
+  Decisión
+Clasificación de Problemas de Toma de
+  Decisión
+Modelado de preferencias
+Métodos de Resolución de Problemas de Toma de
+  Decisión
+Sistemas Inteligentes de Apoyo a la Toma de Decisiones
+
+
+Computación evolutiva y bio-inspirada
+
+
+Algoritmos genéticos
+Particle Swarm Optimization
+Hibridaciones en Soft Computing
+Sistemas borroso-genéticos
+Últimas tendencias
+Ejemplos de aplicación
+
+
+Aplicaciones Pr&aacute;cticas en el transporte
+  I
+
+
+Sistemas de Gestión Avanzada del Tráfico
+  Urbano.
+Sistemas de Gestión de Infraestructuras
+  Críticas en Carreteras (túneles, puentes ...)
+Sistemas de Gestión de Peajes
+Sistemas de Gestión de Ticketing en Trasporte
+  Público
+Sistemas Avanzados de Información al Viajero en
+  Movilidad
+
+
+Aplicaciones Prácticas en el Transporte
+  II
+
+
+Sistemas de gestión del transporte y
+  desplazamientos
+Sistemas de gestión de la demanda de
+  desplazamientos
+Operación de vehículos comerciales
+Sistemas de gestión emergencias
+Sistemas avanzados de control y seguridad de
+  vehículos
+Aplicaciones ITS para vehículos privados, transporte
+  público y vehículos comerciales.
+
+'

@@ -1,0 +1,38 @@
+'
+
+La presente asignatura pretende abordar tanto los problemas que
+se plantean en la edición de textos desde el punto de vista
+filológico, como desde
+el punto de vista editorial. Por ello se expondrán los
+métodos y las herramientas necesarias para realizar una
+edición y también para la corrección de
+pruebas.
+BLOQUE I: LA EDICIÓN
+1. Introducción: historia de la crítica
+textual.
+1.1. De la filología humanística a nuestros
+días.
+2. La edición del texto.
+2.1. Tipos de edición.
+3. La Transmisión textual.
+3.1. La transmisión de los textos a lo largo de la
+historia.
+3.2. Tradición manuscrita y tradición impresa.
+3.3. Los problemas de la transmisión
+4. La edición crítica.
+4.1. La recensio.
+4.2. La constitutio textus.
+4.3. La dispositio textus.
+5. Anotación e interpretación del texto.
+BLOQUE II: LA CORRECCIÓN
+6. Introducción.
+7. La ortotipografía.
+8. El corrector y el trabajo del corrector.
+9. Metodología y herramientas de trabajo.
+9.1. Signos y llamadas.
+9.2. Plantilla de llamadas y marcas de corrección.
+10. El libro y sus partes.
+
+Los contenidos se encuentran desarrollados en la plataforma de
+Docencia Virtual
+'

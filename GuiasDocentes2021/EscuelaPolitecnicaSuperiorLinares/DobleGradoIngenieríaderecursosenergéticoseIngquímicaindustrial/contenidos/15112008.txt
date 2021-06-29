@@ -1,0 +1,89 @@
+'
+
+Bloque I: Determinación de propiedades físicas de
+fluidos.
+Bloque II: Operaciones básicas de transferencia de
+cantidad de movimiento.
+Bloque III: Operaciones básicas de transferencia de
+materia.
+
+
+Bloque
+I: Determinación de propiedades físicas.
+
+1.
+Determinación de la viscosidad. Viscosímetros Copa
+Ford y Engler.
+
+2.
+Influencia de la temperatura sobre la viscosidad.
+
+3.
+Determinación de la densidad de líquidos y
+disoluciones.
+
+4.
+Refractómetro. Índice de refracción de aceites
+vegetales.
+
+5.
+Refractómetro. Determinación de la
+concentración de sacarosa en bebidas azucaradas.
+
+6.
+Determinación del contenido de carbonatos en
+materiales
+
+Bloque
+II: Operaciones básicas de transferencia de cantidad de
+movimiento.
+
+1.
+Caída de partículas esféricas en el seno de un
+fluído.
+
+2.
+Flujo a través de columnas de relleno
+
+Bloque
+III: Operaciones básicas de transferencia de materia.
+
+1.
+Determinación de la humedad de una materia grasa.
+
+2.
+Destilación sencilla y en contacto repetido.
+
+3.
+Destilación sencilla de un vino para la determinación
+de su grado alcohólico.
+
+4.
+Convección natural.
+
+Bloque
+IV. Seminarios de Métodos de Cálculo.
+
+1.
+Introducción al análisis gráfico I: escalas
+lineales y logarítmicas.
+
+2.
+Introducción al análisis gráfico II: diagramas
+triangulares. Resolución de Balances de Materia
+utilizando
+
+diagramas
+triangulares.
+
+3.
+Utilización de Excell 2016 como herramienta para la
+representación de datos experimentales.
+
+Bloque
+  V. Participación en las actividades programadas dentro de
+  un Proyecto de Fomento de Cultura Emprendedora solicitado al
+  Vicerrectorado de Transferencia del Conocimiento, Empleabilidad y
+  Emprendimiento.
+
+'

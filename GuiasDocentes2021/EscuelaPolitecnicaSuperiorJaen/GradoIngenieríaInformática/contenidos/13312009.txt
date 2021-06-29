@@ -1,0 +1,51 @@
+'
+
+
+
+Algoritmos Divide y Vencerás. Algoritmos Voraces.
+    Algoritmos basados en Programación Dinámica.
+    Algoritmos para la Exploración de Grafos. Algoritmos
+    Probabilísticos. Autómatas Finitos.
+
+
+
+
+Teoría
+
+MÓDULO I: Autómatas Finitos. Revisión
+teorico práctica de los lenguages regulares y sus
+máquinas abstractas. Recorrido por los diferentes tipos de
+autómatas finitos. Diseño de Autómatas.
+Definición de lenguajes regulares mediante expresiones
+regulares. Definición y diseño de gramáticas
+regulares. Intercambio y transformación entre los distintos
+elementos estudiados.
+
+Tema 1: Autómatas Finitos, Gramáticas y
+  Lenguajes Regulares
+
+
+MÓDULO II: Teoría de Algoritmos. Estudio de las
+técnicas básicas de implementación de
+algoritmos eficientes
+
+Tema 0: Teoría de Algoritmos.
+Tema 2: Algoritmos Divide y Vencerás.
+Tema 3: Algoritmos Voraces.
+Tema 4: Algoritmos basados en Programación
+  Dinámica.
+Tema 5: Algoritmos de Vuelta Atrás.
+Tema 6: Algoritmos Probabilísticos.
+
+
+
+Prácticas
+
+Gramáticas y Lenguajes.
+Autómatas Finitos.
+Expresiones Regulares.
+Algoritmos Voraces.
+Divide y Vencerás.
+Programación Dinámica.
+
+'

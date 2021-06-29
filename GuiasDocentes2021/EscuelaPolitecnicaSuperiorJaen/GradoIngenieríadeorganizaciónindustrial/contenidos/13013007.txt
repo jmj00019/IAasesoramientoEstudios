@@ -1,0 +1,107 @@
+'
+
+· Introducción a las tecnologías de redes e
+infraestructuras de telecomunicaciones de mayor interés para
+la industria.
+· Introducción a los servicios de
+telecomunicación de más demanda en la industria.
+· Introducción a las tecnologías y
+servicios de telecomunicación emergentes de interés
+para la industria.
+
+
+COMPETENCIAS:
+
+CB1 - Que los
+estudiantes hayan demostrado poseer y comprender conocimientos en
+un área de estudio que parte de la base de la
+educación secundaria general, y se suele encontrar a un
+nivel que, si bien se apoya en libros de texto avanzados, incluye
+también algunos aspectos que implican conocimientos
+procedentes de la vanguardia de su campo de estudio.
+CB2 - Que los estudiantes sepan aplicar sus conocimientos a su
+trabajo o vocación de una forma profesional y posean las
+competencias que suelen demostrarse por medio de la
+elaboración y defensa de argumentos y la resolución
+de problemas dentro de su área de estudio.
+CBB3 - Conocimientos básicos sobre el uso y
+programación de los ordenadores, sistemas operativos, bases
+de datos y programas informáticos con aplicación en
+ingeniería.
+CT1 - Capacidad para trabajar, dirigir y gestionar conflictos en
+un grupo multidisciplinar y/o en un entorno multilingüe.
+CT2 - Capacidad
+para la gestión de la información, manejo y
+aplicación de las especificaciones técnica y la
+legislación necesaria para la práctica de la
+ingeniería.
+CT4 - Capacidad para aplicar nuevas tecnologías incluidas
+las tecnologías de la información y la
+comunicación.
+
+RESULTADOS:
+
+RE1.Conoce las características fundamentales de las redes
+e infraestructuras de telecomunicación que se emplean en los
+entornos industriales.
+RE2. Conoce las características fundamentales de los
+servicios de telecomunicación que se emplean en los entornos
+industriales.
+RE3. Planifica de manera general el despliegue de
+infraestructuras y servicios de telecomunicación en una
+instalación industrial.
+ 
+
+TEORÍA:
+
+
+TEMA 1.
+  Introducción. Estructura de Internet. Comunicaciones
+  industriales. Servicios en la industria.
+
+
+TEMA 2. Redes de
+  datos. Redes de área local. Ethernet industrial. Internet.
+  Protocolo IP. Direccionamiento y enrutamiento. 
+
+
+TEMA 3. Internet
+  de las Cosas (IoT). Dispositivos en IoT. Protocolos y redes
+  utilizados en IoT. Plataformas IoT.
+
+
+TEMA
+  4.  Conceptos de sesión multimedia (SDP), Transporte
+  de datos multimedia (RTP).
+
+TEMA
+5.  Servicio de streaming (RTSP) y servicio de voz sobre IP
+(SIP)
+
+ 
+
+
+
+PRÁCTICAS:
+
+
+Práctica 1:
+  Comunicaciones en una red de datos local, extensa o de
+  sensores.
+
+
+Práctica 2:
+  Diseño e instalación de una aplicación IoT.
+   
+
+
+Práctica
+  3. Instalación, configuración y evaluación
+  de servidores de streaming.
+
+Práctica
+4. Utilización de plataformas de VoIP para estudio de
+intercambio de mensajes SIP.
+ 
+ 
+'

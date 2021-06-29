@@ -1,0 +1,70 @@
+'
+
+Introducción a la programación de aplicaciones
+para entornos corporativos y empresariales. Diseño e
+implementación de la capa de negocio mediante componentes
+distribuidos. Diseño de datos y persistencia. Aplicaciones
+orientadas a servicios. Servicios Web
+ 
+
+
+Contenidos teóricos
+
+Bloque 1: Introducción al desarrollo de aplicaciones
+empresariales
+   1. Introducción al desarrollo de
+aplicaciones empresariales
+ 
+Bloque 2: Diseño e implementación de la capa de
+negocio
+   2. Contenedores de objetos de negocio
+   3. Inyección de dependencias
+   4. Soporte de aspectos
+   5. Ejecución asíncrona y programada
+de operaciones
+ 
+Bloque 3: Diseño e implementación de la capa de
+persistencia
+   6. Persistencia en bases de datos
+   7. Acceso a bases de datos mediante JDBC
+   8. Mapeado objeto-relacional: JPA
+   9. Gestión de persistencia mediante JPA
+   10. Transacciones
+   11. JPA avanzado: concurrencia y cacheado
+   12. Bases de datos NoSQL
+ 
+Bloque 4: Diseño e implementación de la capa de
+servicios
+   13. Arquitectura orientada a servicios (SOA).
+Microservicios
+   14. Tecnologías de objetos
+distribuidos 
+   15. Servicios Web basados en SOAP
+   16. Servicios Web REST
+   17. Implementación de servicios Web REST
+   18. Mensajería asíncrona
+   20. Seguridad en la capa de servicios
+   21. Implementación de políticas de
+seguridad
+ 
+Bloque 5: Computación en la nube 
+   22. Computación en la nube. Contenedores de
+software
+  
+
+Programa práctico
+
+   1.  Desarrollo de una aplicación
+empresarial básica: objetos de negocio, inyección de
+dependencias y configuración. Desarrollo de un cliente
+sencillo.
+   2. Soporte de persistencia en aplicaciones
+empresariales: dar soporte de persistencia a la aplicación
+desarrollada en la práctica 1 utilizando un ORM y el API
+JPA, gestionar transacciones y utilizar cacheado para la
+aceleración del acceso a la base de datos.
+   3. Servicios Web: proporcionar una interfaz de
+servicios basada en REST para la aplicación desarrollada en
+la práctica 2. Desarrollar un cliente web o móvil
+completo que utilice esta interfaz REST.
+'

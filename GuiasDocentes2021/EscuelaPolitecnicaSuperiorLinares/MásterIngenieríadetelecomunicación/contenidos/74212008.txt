@@ -1,0 +1,36 @@
+'
+
+In this subject several aspects related to IP network
+configuration, design, simulation and management will be studied,
+as well as the implementation of web services with J2EE.
+
+THEORY
+Unit 1. Introduction to computer networks.
+            Local area
+networks. TCP/IP networks. Routing protocols in TCP/IP
+networks.
+Unit 2. Network management.
+            Management
+architectures. SNMP. Management techniques and tools.
+Unit 3. Technologies of telematic applications.
+            Web applications
+technologies. Servlets. Jdbc. Spring MVC. REST Services. Google
+Cloud Platform.
+Unit 4. Design and dimensioning of networks and services.
+            Queuing theory.
+Teletraffic.
+Unit 5. Simulation models of IP networks.
+            Network simulation.
+Discrete event simulation.   
+Unit 6. Transport networks.
+            Gigabit Ethernet.
+MPLS. Traffic Engineering. IP over WDM.
+PRACTICAL UNITS
+Unit 1. Planning, cabling, testing, troubleshooting and
+configuring a LAN.
+Unit 2. Network management with SNMP.
+Unit 3. Web applications development. GCP.
+Unit 4. Modeling and simulation of IP networks with
+ns3.
+Unit 5. MPLS.
+'

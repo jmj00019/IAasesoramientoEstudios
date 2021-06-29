@@ -1,0 +1,72 @@
+'
+
+El acero como material de construcción.
+Bases de cálculo: métodos de cálculo y
+clases de secciones.
+Compresión y Pandeo: Soportes.
+Flexión: Abolladura, Vigas Armadas, Vigas Alveolares.
+Secciones Clase 4.
+Nudos: tipología. Uniones Atornilladas, Uniones
+Soldadas.
+Entregas a Cimentación: Placas de Anclaje.
+Organización en Estructuras Porticadas y Naves
+Industriales.
+Control y Tolerancias.
+Fatiga en Estructuras Metálicas.
+
+Tema 1: Introducción a las estructuras metálicas.
+
+1.1 Introducción histórica.
+1.2 Estructuras metálicas en la actualidad.
+1.3 Tipologías estructurales y usos.
+1.4 Normativa de aplicación.
+1.5 Documentación de los proyectos.
+
+ Tema 2: El acero como material estructural.
+
+2.1 Composición y fabricación del acero.
+2.2 Tipos y productos de acero estructural.
+2.3 Características de los aceros. Propiedades
+mecánicas.
+2.4 Criterios de plastificación y fallo.
+
+ Tema 3: Bases de proyecto.
+
+3.1 Finalidad.
+3.2 Seguridad de las estructuras.
+3.3 Estados Límite a verificar en estructuras
+metálicas.
+3.4 Situaciones de proyecto.
+3.5 Modelado de la estructura.
+3.6 Procedimiento de cálculo estructural.
+3.7 Durabilidad.
+
+ Tema 4: Diseño de edificios industriales. Sistema
+estructural.
+
+4.1 Introducción.
+4.2 Condicionantes del diseño.
+4.3 Etapas del diseño.
+4.4 La ventilación en edificios industriales.
+4.5 El sistema estructural.
+4.6 Elementos del sistema estructural.
+4.7 Estabilidad. Sistemas de arriostramiento.
+
+ Tema 5: Cálculo de elementos estructurales.
+
+5.1 Selección del material de cubierta.
+5.2 Cálculo de vigas y correas.
+5.3 Puentes grúa.
+5.4 Soportes.
+5.5 Forjados.
+5.6 Escaleras.
+5.7 Soleras y pavimentos.
+5.8 Cerramientos verticales o fachadas.
+
+ Tema 6: Uniones.
+
+ Tema 7: Cimentaciones. Estructura mixta.
+
+ Tema 8: Ejecución, control y tolerancias en
+estructuras metálicas.
+'

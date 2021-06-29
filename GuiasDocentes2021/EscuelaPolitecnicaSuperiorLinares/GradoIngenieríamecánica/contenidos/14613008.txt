@@ -1,0 +1,38 @@
+'
+
+Introducción a la modelización de elementos
+mecánicos para su entrada como datos en un software de
+diseño mecánico.
+Análisis de los resultados de un cálculo
+resultante de un software de diseño mecánico.
+Correlación entre los resultados analáticos y
+los obtenidos con los métodos avanzados de diseño
+mecánico.
+Ventajas actual en el uso de los métodos avanzados de
+diseño mecánico.
+
+Fundamentos de la ingeniería asistida por ordenador
+(CAE).
+Fundamentos del método de los elementos finitos.
+Empleo de herramientas CAE en cálculo
+mecánico.
+Tema 1. Fundamentos del diseño asistido por
+ordenador.
+Tema 2. Fundamentos del método de los elementos
+finitos.
+Tema 3. Formulación variacional del elemento barra.
+Tema 4. Formulación variacional del elemento viga.
+Tema 5. Formulación variacional del elemento plano.
+Tema 6. Formulación isoparamétrica del elemento
+plano.
+Tema 7. Formulación de los elementos placa y Shell
+Tema 8. Formulación del elemento tridimensional
+ 
+Práctica 1. Elementos unidimensionales.
+Práctica 2. Elementos planos bidimensionales (I).
+Práctica 3. Elementos planos bidimensionales (II).
+Práctica 4. Elementos tridimensionales (I).
+Práctica 5. Elementos tridimensionales (II).
+Práctica 6 Introducción al análisis de
+vibraciones.
+'

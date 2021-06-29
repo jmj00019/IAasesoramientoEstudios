@@ -1,0 +1,105 @@
+'
+
+
+
+  MATRICES
+
+Definiciones básicas y
+cálculo matricial. Potencia de matrices y modelos
+matriciales iterativos. Combinaciones lineales, dependencia e
+independencia. Rango y determinante de una matriz.
+Resolución de sistemas.
+
+
+  GEOMETRÍA
+
+Puntos y vectores, representaciones
+geométricas en el plano y el espacio. Distancias,
+ángulos y perpendicularidad. Figuras geométricas
+dadas mediante ecuaciones implícitas: subespacio vectorial y
+afín, cónicas. Programación lineal en dos
+variables.
+
+ESTUDIO DE
+  MODELOS MATRICIALES
+
+Polinomio característico,
+valores y vectores propios, diagonalización de una matriz.
+Planteamiento de modelos matriciales iterativos e
+interpretación de vectores y valores propios. Estudio de la
+tendencia. Aplicaciones.
+
+
+  FUNCIONES
+
+Dependencia funcional de magnitudes
+y magnitudes que varían con respecto al tiempo.
+Representación de funciones. Funciones matemáticas
+elementales en los fenómenos naturales.
+Interpolación. Límites y continuidad.
+
+
+  DERIVACIÓN E INTEGRACIÓN
+
+Conceptos y operaciones
+básicas de derivación e integración.
+Interpretación de la derivada en fenómenos
+representados mediante funciones. Optimización y estudio de
+las propiedades de forma de una función.
+Interpretación y aplicaciones de la integral definida.
+
+
+  INTRODUCCIÓN AL CÁLCULO DE FUNCIONES DE VARIAS
+  VARIABLES.
+
+Representación de funciones
+de varias variables. Derivadas parciales y cálculo de
+máximos y mínimos para funciones de varias variables.
+Gradiente y curvas de nivel. Introducción a la
+integración en varias variables, aplicaciones.
+
+ECUACIONES
+  DIFERENCIALES
+
+Concepto de ecuación
+diferencial. Modelos matemáticos planteados mediante
+ecuaciones diferenciales. Ecuaciones diferenciales ordinarias de
+primer orden. Ecuaciones lineales de orden superior. Sistemas
+lineales de ecuaciones diferenciales y su estudio cualitativo.
+Modelos matemáticos mediante sistemas lineales.
+Introducción a los sistemas dinámicos.
+
+PROGRAMA DE PRÁCTICAS.
+ 
+
+FUNCIONES. Conceptos básicos del software Wolfram
+  Research-Mathematica. Definición de funciones de una
+  variable. Gráficas de funciones. Límites.
+  Interpolación polinomial.
+DERIVACIÓN E INTEGRACIÓN. Instrucciones de
+  derivación e integración con Mathematica. Estudio
+  de propiedades de forma. Extremos relativos y absolutos.
+  Interpolación mediante funciones spline. Valor medio de
+  una función. 
+INTRODUCCIÓN AL CÁLCULO DE FUNCIONES DE VARIAS
+  VARIABLES. Definición de funciones de varias variables con
+  Mathematica. Representación gráfica 3D.
+  Cálculo de derivadas parciales. Integración en
+  varias variables. Cálculo de extremos relativos en varias
+  variables. Ajuste por mínimos cuadrados.
+MATRICES. Cálculo matricial con Mathematica.
+  Determinantes, rangos. Modelos matriciales.
+GEOMETRÍA. Representación gráfica de
+  puntos y vectores. Cálculo de distancias, ángulos y
+  perpendicularidad. Programación lineal.
+ESTUDIO DE MODELOS MATRICIALES. Instrucciones para el
+  cálculo de valores y vectores propios de una matriz
+  cuadrada con el programa Mathematica. Estudio de modelos
+  matriciales mediante el análisis de la tendencia. Modelo
+  de Leslie.
+ECUACIONES DIFERENCIALES. Instrucciones para la
+  resolución de ecuaciones diferenciales ordinarias con
+  Mathematica. Planteamiento y estudio de modelos mediante
+  ecuaciones diferenciales.
+
+'

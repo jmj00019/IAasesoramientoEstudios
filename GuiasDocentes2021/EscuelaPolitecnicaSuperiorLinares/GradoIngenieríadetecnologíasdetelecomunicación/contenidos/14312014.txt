@@ -1,0 +1,207 @@
+'
+
+El alumno adquirirá conocimientos que le capaciten para
+el diseño y dimensionamiento de instalaciones para la
+producción audiovisual. Se analiza la estructura
+básica, organización, equipamiento y personal de los
+Centros de Producción Audiovisual (CPA), prestando especial
+interés las necesidades técnicas y humanas de las
+distintas fases del proceso de producción audiovisual.
+Será capaz de analizar, especificar, diseñar,
+realizar, mantener y controlar sistemas y equipos de audio y video.
+Aprenderá las características que deben tener los
+centros de producción de programas de radio, doblaje,
+sonorización, televisión, estudios de
+grabación. Se realizarán despliegues de
+infraestructuras y diseños de locales e instalaciones
+destinados a la producción y grabación de
+señales de audio y video (iluminación,
+acústica y tratamiento de señales audiovisuales).
+Paralelamente, se introduce al alumno en la
+planificación, programación y gestión del
+despliegue de infraestructuras relacionadas con la especialidad de
+sonido e imagen. Se detalla la reglamentación asociada a
+estas infraestructuras.
+Palabras Clave: centros de producción audiovisual
+(CPA), estudios de grabación, doblaje, sonorización,
+despliegue de infraestructuras, instalaciones audiovisuales.
+
+CONTENIDOS TEÓRICOS
+
+
+Tema 1. Teoría general de proyectos
+
+El proyecto
+Fases previas de
+    elaboración de n proyecto
+Normativa y
+    legislación
+El proyecto clásico
+Documentación. Norma UNE
+    157001
+Roles en un proyecto
+
+
+Tema 2. Evaluación del proyecto
+
+Evaluación inicial
+Evaluación durante el
+    resto del trabajo
+Planificación y
+    programación de proyectos. Técnicas de
+    planificación y programación
+
+
+Tema 3. Acústica medioambiental
+
+El ruido como contaminante.
+    Caracterización del ruido como contaminante
+    ambiental
+Tipos de ruido
+Niveles de exposición al
+    ruido
+Legislación ambiental y
+    laboral sobre ruido
+Medición de niveles
+    sonoros en recintos
+Características
+    acústicas de los recintos
+Equipos de medición
+Tiempos de integración y
+    curvas de ponderación
+Magnitudes y parámetros
+    de medida de niveles sonoros
+Medición de ruido
+    ambiental y laboral
+Realización de mapas de
+    ruido
+Medidas preventivas contra el
+    ruido
+
+
+Tema 4. Acondicionamiento acústico
+
+
+Comportamiento acústico
+    de los materiales. Energía acústica y materiales.
+    Coeficientes. Materiales aislantes y absorbentes
+Acústicas de salas.
+    Características, ecos, reflexiones tempranas, ambiencia,
+    reverberación, campos sonoros de un recinto y
+    resonancias
+
+
+Tema 5. Estudios de grabación de sonido y de
+  radio
+
+Parámetros
+    acústicos relevantes (TR, pérdida de
+    articulación, STI, claridad, ratio D/R, ITD Gap, tiempo
+    de llegada y distancia crítica)
+Elementos acústicos.
+    Elementos absorbentes y difusores
+Distribución del local.
+    Sala de control y de grabación
+Metodología de
+    diseño de la sala de control
+Determinación del punto
+    de escucha
+Colocación de los
+    altavoces y monitores de estudio. SBIR y LBIR
+Acondicionamiento
+    acústico. Eliminación de reflexiones tempranas.
+    Trampas de graves. Elementos difusores
+
+
+Tema 6. Centros de producción audiovisual
+
+Introducción a los
+    CPA
+Estructura y elementos
+Flujo de trabajo
+Equipamiento
+
+
+CONTENIDOS PRÁCTICOS
+
+Práctica 1: Sistemas y software de gestion de
+  proyectos. Microsoft Project
+Práctica 2: Estudio inicial y realización de un
+  anteproyecto de ingeniería acústica
+Práctica 3: Realización de un proyecto
+  técnico de ingeniería acústica
+  (acústica medioambiental, acondicionamiento
+  acústico, diseño de una sala de control de
+  grabación de audio, etc)
+Práctica 4: Preparación y exposición
+  oral del proyecto realizado
+
+SEMINARIOS
+
+Seminario 1: Estilado de documentos mediante procesador de
+  textos
+Seminario 2: Realización de presentaciones
+
+ 
+COMPETENCIAS EUR-ACE
+A través de las distintas actividades de la asignatura se
+tendrá en cuenta la adquisición por parte del
+alumnado de las siguientes competencias transversales:
+Elaboración de juicios
+
+Capacidad de recoger e interpretar datos y manejar conceptos
+  complejos dentro de su especialidad, para emitir juicios que
+  impliquen reflexión sobre temas éticos y
+  sociales.
+Capacidad de gestionar complejas actividades técnicas
+  o profesionales o proyectos de su especialidad,
+  responsabilizándose de la toma de decisiones.
+
+Comunicación y trabajo en Equipo
+
+Capacidad para comunicar eficazmente información,
+  ideas, problemas y soluciones en el ámbito de
+  ingeniería y con la sociedad en general.
+Capacidad para funcionar eficazmente en contextos nacionales
+  e internacionales, de forma individual y en equipo y cooperar
+  tanto con ingenieros como con personas de otras disciplinas.
+
+Formación continua
+
+Capacidad de reconocer la necesidad de la formación
+  continua propia y de emprender esta actividad a lo largo de su
+  vida profesional de forma independiente.
+Capacidad para estar al día en las novedades en
+  ciencia y tecnología.
+
+Las competencias EUR-ACE específicas para la asignatura
+que se trabajarán son:
+
+Capacidad para proyectar, diseñar y desarrollar
+  productos complejos (piezas, componentes, productos acabados,
+  etc.), procesos y sistemas de su especialidad, que cumplan con
+  los requisitos establecidos, incluyendo tener conciencia de los
+  aspectos sociales, de salud y seguridad, ambientales,
+  económicos e industriales; así como seleccionar y
+  aplicar métodos de proyecto apropiados.
+Capacidad para consultar y aplicar códigos de buena
+  práctica y de seguridad de su especialidad.
+Competencia práctica para resolver problemas
+  complejos, realizar proyectos complejos de ingeniería y
+  llevar a cabo investigaciones propias de su especialidad.
+Ideas generales sobre cuestiones económicas, de
+  organización y de gestión (como gestión de
+  proyectos, gestión del riesgo y del cambio) en el contexto
+  industrial y de empresa.
+Capacidad de gestionar complejas actividades técnicas
+  o profesionales o proyectos de su especialidad,
+  responsabilizándose de la toma de decisiones.
+Capacidad para comunicar eficazmente información,
+  ideas, problemas y soluciones en el ámbito de
+  ingeniería y con la sociedad en general.
+
+La totalidad de estas competencias específicas se
+adquirirán de forma natural mediante el desarrollo de los
+proyectos de ingeniería propuestos en las
+prácticas.
+'

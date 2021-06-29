@@ -1,0 +1,153 @@
+'
+
+Cálculo eléctrico de líneas e instalaciones
+eléctricas en alta tensión
+Cálculo mecánico de líneas
+eléctricas en alta tensión
+Elementos de protección a sobretensiones
+Subestaciones y centros de transformación
+
+
+UNIDAD 1.
+  CÁLCULO MECÁNICO DE CONDUCTORES
+
+1.1.- Introducción al cálculo mecánico de
+conductores.
+1.2.- Objetivos del cálculo mecánico y
+ecuación de cambio de condiciones.
+1.3.- Prescripciones del RLAT para el cálculo
+mecánico de conductores.
+1.4.- Cálculo del coeficiente de sobrecarga del
+conductor.
+1.5.- Ejemplo de cálculo mecánico de conductor, en
+un vano desnivelado, comparando los modelos de la catenaria y
+parábola con el método de Truxá.
+1.6.- Ejemplo de cálculo mecánico de vano a
+nivel.
+1.7.- Ejemplo de cálculo mecánico de vano
+desnivelado.
+1.8.- Ejemplo de cálculo mecánico de un
+cantón de línea.
+1.9.- Ejemplo de cálculo mecánico de un
+cantón de línea de Categoría Especial.
+1.10.- Repotenciación de una línea utilizando
+conductores de alta temperatura.
+1.11.- Ejemplo de cálculo mecánico de conductores
+unipolares aislados reunidos en haz.
+
+UNIDAD 2.
+  CÁLCULO DE APOYOS PARA LÍNEAS ELÉCTRICAS DE
+  ALTA TENSIÓN.
+
+2.1.- Introducción al cálculo mecánico de
+apoyos.
+2.2.- Tipos de apoyos para líneas aéreas de alta
+tensión.
+2.3.- Cálculo mecánico de apoyos.
+2.4.- Ejemplo de cálculo de apoyos en línea
+aérea de 3ª categoría simple circuito.
+2.5.- Desviación de las cadenas de aisladores.
+2.6.- Ejemplo de cálculo de distancias mínimas de
+seguridad.
+2.7.- Ejemplo de cálculo de apoyos en línea
+aérea de 3ª categoría doble circuito.
+2.8.- Ejemplo de cálculo mecánico de apoyos que
+sustentan conductores unipolares aislados reunidos en haz.
+2.9.- Ejemplo de cálculo de apoyos en línea
+aérea de 2ª categoría.
+2.10.- Ejemplo de cálculo de apoyos en línea
+aérea de Categoría especial.
+
+UNIDAD 3.
+  CÁLCULO DE CIMENTACIONES
+
+3.1.- Introducción.
+3.2.- Cimentación monobloque.
+3.3.- Cimentación de macizos independientes (patas
+separadas).
+3.4.- Ejemplos de cálculo de cimentaciones
+
+UNIDAD 4.
+  CÁLCULO DE PUESTAS A TIERRA DE LOS APOYOS
+
+4.1.- Cálculo de puestas a tierra.
+4.2.- Ejemplo de cálculo de puesta a tierra en
+línea aérea de 3ª categoría con neutro
+impedante y neutro aislado.
+4.3.- Cálculo de puesta a tierra en línea
+aérea de 2ª categoría con cable de tierra y sin
+cable de tierra.
+4.4.- Comportamiento frente al rayo de las puestas a tierra y
+longitud crítica de los electrodos.
+
+UNIDAD 5.
+  CÁLCULO ELÉCTRICO DE LÍNEAS
+  ELÉCTRICAS DE ALTA TENSIÓN
+
+5.1.- Introducción a los tipos de conductores empleados
+en líneas aéreas de alta tensión.
+5.2.- Cálculo eléctrico de líneas.
+5.3.- Cálculo eléctrico de línea corta
+simple circuito.
+5.4.- Cálculo eléctrico de línea corta
+doble circuito.
+5.5.- Cálculo eléctrico de línea larga.
+5.6.- Cálculo del efecto corona.
+5.7.- Cálculo eléctrico de aisladores
+5.8.- Selección de pararrayos en apoyo de paso
+aéreo-subterráneo.
+
+UNIDAD 6.
+  CÁLCULO DE LÍNEAS SUBTERRÁNEAS DE ALTA
+  TENSIÓN
+
+6.1.- Fundamentos para el cálculo de líneas
+subterráneas.
+6.2.- Cálculo de la intensidad admisible de un cable, en
+régimen permanente, sobrecarga o cortocircuito.
+6.3.- Ejemplo de cálculo eléctrico de línea
+de alimentación a un centro de transformación de
+cliente.
+6.4.- Ejemplo de cálculo eléctrico de una red de
+distribución de compañía entre dos
+subestaciones.
+6.5.- Puesta a tierra de las pantallas en cables de alta
+tensión.
+6.6.- Cálculo del campo magnético en el entorno de
+líneas subterráneas. Comparación con
+línea aérea.
+
+UNIDAD 7. DISEÑO
+  Y CÁLCULO DE SUBESTACIONES ELÉCTRICAS Y CENTROS DE
+  TRANSFORMACIÓN
+
+7.1.      Introducción.
+Reglamentación
+7.2.      Aparamenta de maniobra en
+alta tensión
+7.3.      Perturbaciones de origen
+eléctrico.
+7.4.      Transformadores de
+distribución
+7.5.      Transformadores de medida y
+protección
+7.6.      Instalaciones de
+conexión. Subestaciones
+7.7.      Dimensionado de conductores y
+barras
+7.8.      Instalaciones de Puesta a
+Tierra en C.T. y subestaciones.
+7.9.      Instalaciones Complementarias
+del Centro de Transformación y Subestaciones 
+Prácticas
+
+Prácticas para el diseño y cálculo de un
+  proyecto de línea aérea de alta tensión,
+  línea subterránea y centro de
+  transformación.
+Prácticas de utilización de software de
+  cálculo de instalaciones eléctricas de alta
+  tensión
+
+ 
+'

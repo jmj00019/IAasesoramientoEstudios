@@ -1,0 +1,50 @@
+'
+
+Introducción a la informática. Conceptos y
+componentes.
+Historia Hardware Software
+Aplicación ofimática al Turismo.
+Paquetes ofimáticos
+Generación de informes
+Introducción y servicios ofrecidos por Internet
+Redes de computadoras Internet
+Servicios de Internet Búsqueda de Información
+Sistemas informáticos del Turismo.
+Sistemas Informáticos para la Gestión Hotelera y
+Agencias de Viajes 
+  Sistemas CRS-GDS  
+
+ 
+ 
+Contenidos para teoría y para prácticas. En
+teoría se ven los aspectos teóricos de esos temas y
+en prácticas los aspectos prácticos.
+Capítulo 1: ¿Qué es un ordenador?
+Capítulo 2: Sistemas operativos
+Capítulo 3: Instalación y configuración de
+un ordenador
+Capítulo 4: Uso de aplicaciones
+Capítulo 5: Procesador de textos
+Capítulo 6: Hoja de cálculo
+Capítulo 7: Hardware
+Capítulo 8: Mantenimiento del ordenador
+Capítulo 9: Solucionar problemas de TI
+(Tecnologías de la información)
+Capítulo 10: Redes
+Capítulo 11: Seguridad en las redes
+Capítulo 12: Negocio electrónico
+Capítulo 13: Sistemas de reservas
+Capítulo 14: Uso de blogs para posicionar un negocio
+ 
+
+Nota: Todos estos temas están
+enfocados al uso que un profesional del turismo va a
+hacer de las TI (Tecnologías de la información). Por
+ejemplo, los estudiantes no aprenderán la
+tecnología que posibilita que dos ordenadores se conecten
+entre sí, sino cómo identificar páginas web
+maliciosas, cómo conectar un dispositivo a un router de
+forma sencilla y segura, o qué hacer si algún tipo de
+malware infecta su equipo.
+ 
+'

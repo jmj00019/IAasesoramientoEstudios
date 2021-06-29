@@ -1,0 +1,49 @@
+'
+
+Oleohidráulica y neumática. Principios
+básicos y elementos constitutivos en los circuitos de
+utilización práctica (actuadores, válvulas y
+otros elementos).
+Diseño de circuitos de Oleohidráulica y
+neumática por computador. Introducción a los
+Autámatas Programables aplicados a automatismos
+neumáticos
+y oleohidráulicos.
+Redes de distribución de fluidos. Análisis de
+redes ramificadas y redes en malla. Cavitación y Golpe de
+ariete.
+Cálculo de redes mediante herramientas computacionales
+de uso industrial: introducción al manejo de programas de
+cálculo de redes.
+Estudio del flujo en canales abiertos: Energía
+especifica de un canal, Flujo bajo compuerta y por un vertedero,
+Resalto hidráulico.
+
+
+BLOQUE 1. Redes de distribución de fluidos.
+TEMA 1: El agua como recurso. Su utilización.
+Captación de aguas.
+TEMA 2: Tratamiento de agua destinada al consumo humano.
+Tratamiento de aguas industriales . Depuración de aguas.
+TEMA 3: Regulación y almacenamiento. Tuberías y
+accesorios en redes.
+TEMA 4: Redes de distribución. Diseño de la
+red. Cálculo de redes. Cavitación y golpe de ariete.
+TEMA 5: introducción al manejo de programas de
+cálculo de redes.
+
+BLOQUE 2. Neumática.
+TEMA 6: Principios básicos y elementos constitutivos
+en los circuitos neumáticos. Actuadores, válvulas y
+otros
+elementos.
+TEMA 7: Diseño de circuitos de neumática y
+Oleohidráulica por computador.
+TEMA 8: Introducción a los Autómatas
+programables aplicados a automatismos neumáticos y
+oleohidráulicos.
+
+BLOQUE 3. Canales.
+TEMA 9: Estudio del flujo en canales abiertos. Flujo bajo
+compuerta y por un vertedero, Resalto hidráulico.
+'

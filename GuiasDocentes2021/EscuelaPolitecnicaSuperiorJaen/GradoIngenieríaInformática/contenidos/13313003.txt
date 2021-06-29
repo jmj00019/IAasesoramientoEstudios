@@ -1,0 +1,126 @@
+'
+
+Arquitectura de juegos y simuladores. Modelado de entornos
+virtuales y personajes. Grafos de escena. Visualización en
+tiempo real. Efectos visuales y sonido. Detección de
+colisiones. Programación de juegos en red.
+ 
+
+Tema
+1. Introducción y conceptos básicos. 
+Tema
+2. Mi primer videojuego: iteración 1
+
+
+Mecánicas
+    de juego.
+
+
+Arquitectura
+    Sistema-Entidad-Componente
+
+
+Scripting
+
+
+Ciclo
+    de un juego
+
+
+Componentes
+    para la detección de colisiones.
+
+
+Tema
+3. Mi primer videojuego: iteración 2
+
+
+Revisión
+    de las mecánicas de juego principales.
+
+
+Experiencia
+    de juego
+
+
+Prototipado
+
+
+Interfaz
+    de usuario: Modelos de cámara y de
+    interacción.
+
+
+Modos
+    de juego
+
+
+Sonido
+
+
+Diseño
+    de niveles de dificultad
+
+
+Tema
+4. Temas avanzados
+
+
+Modelado
+    de entornos virtuales y personajes.
+
+
+Efectos
+    visuales.
+
+
+Patrones
+    de diseño para videojuegos.
+
+
+Animación
+    por comportamiento
+
+
+Realidad
+    virtual y aumentada
+
+
+Juegos
+    en red
+
+
+Mallas
+    de navegación
+
+
+
+ 
+
+ 
+
+Prácticas: 
+
+ 
+Práctica
+0. Mi primer videojuego.
+Práctica
+1. Enemigos e interfaz de usuario. 
+Práctica
+2. Terrenos.
+Práctica
+3. Cámara en juegos en primera persona. 
+Práctica
+4. Físicas.
+ 
+Proyecto:
+Se desarrollará un prototipo de videojuego de libre
+elección.
+ 
+Las
+prácticas son individuales y el proyecto se desarrolla por
+grupos de hasta tres miembros. 
+
+ 
+ 
+'

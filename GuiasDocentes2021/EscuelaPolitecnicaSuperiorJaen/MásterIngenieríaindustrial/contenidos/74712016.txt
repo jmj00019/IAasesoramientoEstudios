@@ -1,0 +1,138 @@
+'
+
+Gestión de la calidad en la empresa.
+Herramientas para la gestión de la calidad.
+Control estadístico de la calidad.
+Verificación y control de instalaciones, procesos y
+productos.
+Certificaciones, auditorías, verificaciones, ensayos e
+informes en materia de calidad.
+
+TEMA 01 - INTRODUCCIÓN A LA CALIDAD
+
+1.- INTRODUCCIÓN.
+
+2.- LA CALIDAD Y SU GESTIÓN EN LA EMPRESA.
+
+3.- EVOLUCIÓN DE LOS ENFOQUES SOBRE GESTIÓN DE
+LACALIDAD.
+
+4.- CALIDAD Y EFICIENCIA: LOS COSTES DE LA CALIDAD.
+
+5.- LOS GURÚS DE LA CALIDAD.
+
+ 
+
+TEMA 02 - CALIDAD TOTAL: PRINCIPIOS E IMPLANTACIÓN
+
+1.- INTRODUCCIÓN.
+
+2.- ELEMENTOS BÁSICOS DE LA GESTIÓN DE LA
+CALIDAD TOTAL.
+
+3.- LA ORIENTACIÓN HACIA EL CLIENTE.
+
+5.- LA MEJORA CONTINUA.
+
+6.- IMPLANTACIÓN DE PROGRAMAS DE GESTIÓN DE LA
+CALIDAD TOTAL.
+
+ 
+
+TEMA 03 - CALIDAD TOTAL: HERRAMIENTAS DE MEJORA
+
+1.- INTRODUCCIÓN.
+
+2.- TORMENTA DE IDEAS (BRAINSTORMING).
+
+3.- HERRAMIENTAS BÁSICAS DE MEJORA.
+
+4.- HERRAMIENTAS DE PLANIFICACIÓN Y GESTIÓN DE
+LA CALIDAD.
+
+5.- BENCHMARKING.
+
+6.- REINGENIERÍA DE PROCESOS DE NEGOCIO.
+
+ 
+
+TEMA 04 - CALIDAD TOTAL: TÉCNICAS ESTADÍSTICAS
+
+1.- INTRODUCCIÓN.
+
+2.- VARIABILIDAD INDUSTRIAL Y CONTROL ESTADÍSTICO DE
+PROCESOS.
+
+3.- GRÁFICOS DE CONTROL.
+
+4.- CAPACIDAD DE LOS PROCESOS.
+
+5.- MUESTREO DE ACEPTACIÓN.
+
+ 
+
+TEMA 05 - CALIDAD TOTAL: OPTIMIZACIÓN DEL
+DISEÑO DE PRODUCTOS Y PROCESOS
+
+1.- INTRODUCCIÓN.
+
+2.- DESPLIEGUE DE LA FUNCIÓN DE CALIDAD (QFD).
+
+3.- ANÁLISIS MODAL DE FALLOS Y EFECTOS (AMFE).
+
+4.- DISEÑO ESTADÍSTICO DE EXPERIMENTOS (DEE).
+
+ 
+
+TEMA 06 - NORMALIZACIÓN Y ASEGURAMIENTO DE LA
+CALIDAD 
+
+1.- INTRODUCCIÓN.
+
+2.- CONCEPTOS BÁSICOS.
+
+3.- EL MODELO DE SISTEMA DE CALIDAD DE LA NORMA ISO
+9001. REQUISITOS. 
+
+4.- IMPLANTACIÓN Y PUESTA EN MARCHA DEL SISTEMA.
+
+5.- PROCESO DE CERTIFICACIÓN.
+
+ 
+
+TEMA 07 - MODELOS ALTERNATIVOS PARA LA GESTIÓN DE
+LA CALIDAD
+
+1.- INTRODUCCIÓN.
+
+2.- EL MODELO EFQM.
+
+3.- PREMIOS Y RECONOCIMIENTOS A LA CALIDAD.
+
+4.- EL PROGRAMA SEIS SIGMA.
+
+5.- EL MÉTODO DE LAS 5S.
+
+ 
+
+TEMA 08 - LA AUDITORÍA DE LA CALIDAD
+
+1.- INTRODUCCIÓN.
+
+2.- DEFINICIÓN Y CLASES DE AUDITORÍAS.
+
+3.- EL AUDITOR DE CALIDAD.
+
+4.- ETAPAS EN EL PROCESO DE AUDITORÍA.
+
+A lo largo de todo el curso, en las clases prácticas, se
+desarrollarán los ejercicios y casos prácticos
+correspondientes al tema que se vaya desarrollando. Los temas 3, 4
+y 5 son temas eminentemente prácticos, por lo que la
+mayoría de los ejercicios se desarrollarán en dichos
+temas. En el resto de temas, el contenido práctico se
+desarrollará recurriendo a cuestionarios de respuesta
+alternativa y a casos prácticos con implicación
+activa del alumnado en la búsqueda de información en
+internet y otras fuentes.
+'

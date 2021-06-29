@@ -1,0 +1,92 @@
+'
+
+
+Bloque 1: Electrónica analógica
+1.- Componentes electrónicos y circuitos
+integrados.
+2.- Conceptos sobre amplificadores, respuesta en frecuencia y
+retroalimentación.
+3.- Amplificadores de potencia
+
+
+Bloque 2: Electrónica digital
+1.- Fundamentos de circuitos digitales.
+2.- Diseño lógica combinacional y secuencial.
+
+
+Se
+  iniciará la asignatura con el bloque de electrónica
+  digital y se continuará con el bloque de
+  electrónica analógica.
+
+
+BLOQUE
+  ELECTRONICA DIGITAL
+
+
+
+Teoría
+
+ Tema 1:Fundamentos de la electrónica digital
+ Sistemas de numeración, puertas lógicas,
+Algebra de Boole y funciones lógicas.
+ Tema 2: Sistemas digitales combinacionales
+ Proceso de diseño combinacional. Sistemas
+combinacionales MSI.
+ Tema 3: Sistemas digitales con memoria.
+ Circuitos digitales realimentados. Biestables, monoestables
+y astables. Aplicaciones.
+ Tema 4: Sistemas digitales secuenciales.
+ Máquinas de estados síncronas y
+asíncronas. Proceso de diseño secuencial.
+
+
+Prácticas
+
+
+De
+  cada tema se realizarán diferentes supuestos
+  prácticos y ejercicios
+  
+
+
+BLOQUE
+  ELECTRONICA ANALÓGICA
+
+
+
+Teoría
+
+ Tema 5. Introducción.
+ Semiconductores. Sistemas Electrónicos
+Analógicos y Digitales.
+ Tema 6. Dispositivos Electrónicos: Transistor.
+ Transistores de unión bipolares. Transistores de
+efecto de campo. Polarización de transistores.
+ Tema 7. Amplificación
+ Estudio del concepto de amplificación
+ Tema 8: Retroalimentación Negativa
+ Concepto. Tipos de Retroalimentación negativa.
+ Tema 9: Circuitos lineales y no lineales con AO
+Amplificadores de Instrumentación.
+ Comparadores con referencia cero. Comparadores con
+Histéresis. Generadores de forma de onda.
+ Tema 10: Dispositivos Electrónicos: Circuitos
+Integrados. Ejemplos de circuitos integrados comerciales
+ Tema 11: Filtros Activos
+ Filtros pasivos y activos. Filtros activos pasa baja, pasa
+alta, pasa banda.
+ Tema 12: Osciladores.
+ Principios de los osciladores. Oscilador de Puente de
+Wien
+
+
+Prácticas
+
+
+De
+  cada tema se realizarán diferentes supuestos
+  prácticos y ejercicios resueltos
+  
+
+'

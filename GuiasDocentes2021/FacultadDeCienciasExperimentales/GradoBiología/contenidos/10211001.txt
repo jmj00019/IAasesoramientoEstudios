@@ -1,0 +1,108 @@
+'
+
+1. Análisis descriptivo de un conjunto de datos.
+Distribución de frecuencias y gráficos.
+Características básicas asociadas a una
+distribución de frecuencias.
+2. Cálculo de probabilidades
+Variable aleatoria. Características de una variable
+aleatoria.
+Principales distribuciones discretas y continuas.
+3. Inferencia estadística.
+Estimación puntual y por intervalos.
+Contrastes de hipótesis.
+Modelo de regresión lineal.
+4. Tests estadísticos asociados a la chi-cuadrado.
+Tablas de contingencia.
+Test de independencia.
+Test de homogeneidad
+
+
+
+Programa
+  de teoría
+
+
+
+1.
+    Análisis descriptivo de un conjunto de datos. 
+    1.1.  
+    Definición y
+    representaciones gráficas. 1.2. 
+Medidas de posición,
+    dispersión y forma.
+
+
+
+2. Cálculo de
+    probabilidades. 2.1. 
+Definición de
+    probabilidad. 2.2. T
+eoremas fundamentales.
+    2.3. 
+Variable aleatoria y
+    distribuciones de probabilidad. 2.4. 
+Definición de variable
+    aleatoria discreta y continua. 2.5. 
+Caracterización de una
+    variable aleatoria. 2.6. 
+Distribuciones de probabilidad
+    más importantes.
+
+
+
+3. Inferencia
+    estadística. 3.1. 
+Estimación puntual y
+    mediante intervalos de confianza. 3.2. 
+Contrastes de hipótesis
+    (paramétricos y no paramétricos).
+    3.3. 
+Análisis de la varianza
+    (paramétrico y no paramétrico). 3.4. 
+Modelos de regresión
+    lineal.
+
+
+
+4. Test estadísticos
+    asociados a la chi-cuadrado. 4.1. 
+Tablas de contingencia. 4.2.
+    T
+est de bondad de ajuste.
+    4.3. 
+Test de independencia y
+    homogeneidad.
+
+
+
+
+Programa de prácticas por
+  ordenador
+
+
+
+Introducción
+    al uso de ordenador en Estadística.
+
+
+Estadística
+    descriptiva en ordenador.
+
+
+Probabilidad
+    en ordenador.
+
+
+Inferencia
+    estadística en ordenador.
+
+
+Test
+    asociados a la Chi-cuadrado en ordenador.
+
+
+
+ 
+
+'

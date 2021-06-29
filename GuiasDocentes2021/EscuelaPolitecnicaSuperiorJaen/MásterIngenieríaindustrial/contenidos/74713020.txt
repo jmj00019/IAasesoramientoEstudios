@@ -1,0 +1,71 @@
+'
+
+
+Bloque 1: Control automático
+1.- Conceptos básicos de la teoría de control
+en sistemas continuos.
+2.-Control digital.
+3.- Elementos de un controlador digital.
+4.- Transformada Z. Muestreo y retención. Sistemas
+muestreados. Transformada Z inversa.
+
+5.- Diseño de sistemas de control discretos en el
+dominio del tiempo.
+6.- Diseño de un controlador digital a nivel
+hardware.
+7.-Programación de controladores digitales.
+
+
+Bloque 2: Electrónica programada
+1.- Dispositivos programables. Memorias. Máquinas de
+proceso programables.
+2.- Microprocesadores y microcontroladores.
+
+
+TEORÍA
+
+
+Control Automático
+
+Tema 1. Conceptos básicos de control: respuesta temporal
+y en frecuencia de sistemas dinámicos, estabilidad y
+esquemas de control. 
+Tema 2. Diseño de controladores en tiempo continuo: lugar
+de las raíces y dominio de la frecuencia. 
+Tema 3. Diseño de controladores en tiempo discreto:
+motivación, transformada Z e implementación.
+
+Electrónica Programada
+
+Tema 4. Lógica programada. Memorias. El sistema
+microprocesador y el sistema microcontrolador.
+Tema 5. Sistemas basados en microprocesadores.
+Arquitectura, programación y hardware.
+Tema 6. Sistemas basados en microcontroladores. Arquitectura,
+programación y hardware (entorno Arduino).
+   
+EJERCICIOS Y   PRÁCTICAS
+
+Control Automático
+
+Actividad 1: Sistemas realimentados.
+Actividad 2: Diseño de Controladores con el Lugar de las
+Raíces.
+Actividad 3: Respuesta en frecuencia.
+Actividad 4: Control discreto I.
+Actividad 5: Control discreto II.
+
+Electrónica Programada
+
+Actividad 6: Ejercicios de programación microprocesador:
+memoria y operaciones aritmeticas.
+Actividad 7: Entorno de trabajo, programación, interfaces
+y E/S digitales y analógicas (Arduino).
+Actividad 8: Diseño y montaje de aplicaciones con
+arduino: sistemas de monotorización y control.
+Actividad 9: Diseño y montaje de aplicaciones con
+arduino: temporización e interupciones.
+Actividad 10: Diseño y montaje de aplicaciones con
+arduino: sistema de control complejo.
+ 
+'

@@ -1,0 +1,49 @@
+'
+
+Física de semiconductores. Estructura del estado
+sólido. Semiconductores.
+Microelectrónica: Historia, Procesos de
+obtención de silicio.
+Circuitos Integrados.
+Tecnología básica.
+Consumo de potencia y reglas de escalado.
+Funciones y estructuras lógicas básicas.
+Diseño y simulación de circuitos
+integrados.
+
+
+Teoría
+A.- Fundamentos de los dispositivos electrónicos
+
+Propiedades físicas de los materiales
+  conductores.
+Ecuaciones de transporte de portadores de carga en
+  semiconductores.
+La unión PN en equilibrio.
+Polarización directa e inversa de la Unión PN.
+  Ecuación característica del diodo.
+Respuesta temporal y en frecuencia de la unión
+  PN.
+El transistor bipolar.
+Los transistores de efecto campo. El JFET.
+
+B.- Implementación de los dispositivos
+electrónicos
+
+Tecnología microelectrónica.
+Circuitos analógicos CMOS.
+Circuitos digitales CMOS
+Diseño de circuitos 
+  full-custom.
+
+
+Práctica
+
+Problemas y ejercicios acerca de los conceptos
+  teóricos
+Simulación y diseño de circuitos vistos en
+  teoría
+Exposición de temas de profundización en la
+  materia
+
+'

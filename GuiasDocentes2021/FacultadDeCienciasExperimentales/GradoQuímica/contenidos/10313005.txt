@@ -1,0 +1,50 @@
+'
+
+Elementos esenciales para la vida. Metaloproteínas y
+moléculas biológicas que contienen metales.
+Aplicaciones médicas y toxicidad de elementos y compuestos
+inorgánicos.
+
+BLOQUE 1: ELEMENTOS ESENCIALES PARA LA VIDA. PRINCIPIOS
+GENERALES.
+Tema 1: Elementos esenciales para la vida.
+Tema 2: Interacciones de iones metálicos con ligandos
+biológicos
+Tema 3: Procesos de biomineralización.
+ 
+BLOQUE 2: ASPECTOS FUNDAMENTALES DE LA QUIMICA BIOINORGANICA DE
+DIFERENTES ELEMENTOS.
+Tema 4: Activación biológica del oxígeno y
+del nitrógeno.
+Tema 5: Química bioinorgánica del hierro.
+Tema 6: Química bioinorgánica del cobalto.
+Tema 7: Química bioinorgánica del cobre.
+Tema 8: Química bioinorgánica del cinc.
+Tema 9: Química bioinorgánica del molibdeno.
+Tema 10: Química bioinorgánica de otros metales de
+transición.
+Tema 11: Química bioinorgánica de metales
+alcalinos y alcalinotérreos.
+Tema 12: Química bioinorgánica de elementos no
+metálicos.
+ 
+BLOQUE 3: ACCIÓN TERAPEUTICA Y TOXICIDAD.
+Tema 13: Compuestos metálicos en terapia y
+diagnóstico.
+Tema 14: Toxicidad de elementos y compuestos
+inorgánicos.
+ 
+ PRÁCTICAS DE LABORATORIO:
+
+Separación e identificación de componentes
+  inorgánicos de los huesos
+Efecto plantilla: Preparación de un macrociclo
+  coordinado a un catión metálico
+Sistemas modelo de complejos con actividad antitumoral:
+  Preparación de un complejo de Cu(II) con glicina y
+  terbutilamina como ligandos
+Sistemas modelo de transportadores de oxígeno:
+  Preparación de complejos de Co(III) con
+  dioxígeno
+
+'

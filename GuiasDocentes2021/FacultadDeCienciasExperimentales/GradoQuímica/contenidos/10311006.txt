@@ -1,0 +1,70 @@
+'
+
+ELECTROMAGNETISMO
+ÓPTICA
+ 
+
+Bloque I: Electrostática
+1.- CAMPO ELÉCTRICO: Carga eléctrica. Ley de
+Coulomb. Campo eléctrico. Flujo eléctrico. Ley de
+Gauss: aplicaciones. Dipolo eléctrico. Problemas
+2.- POTENCIAL ELÉCTRICO: Potencial eléctrico.
+Relación entre E y V. Superficies equipotenciales.
+Energía potencial eléctrica. Problemas.
+3.- CONDUCTORES Y DIELÉCTRICOS: Conductores en equilibrio
+electrostático. Condensadores. Cálculo de
+capacidades. Asociación de condensadores. Energía de
+un condensador cargado. Energía del campo
+electrostático. Dieléctricos. Problemas.
+Bloque II: Circuitos de corriente continua
+4.- CORRIENTE ELÉCTRICA: Intensidad y densidad de
+corriente. Ley de Ohm. Resistencia eléctrica.
+Asociación de resistencias. Energía de la corriente
+eléctrica. Ley de Joule. Problemas.
+5.- CIRCUITOS DE CORRIENTE CONTINUA: Fuerza electromotriz.
+Reglas de Kirchhoff. Métodos de análisis de
+circuitos. Circuito RC. Problemas.
+Bloque III: Magnetostática
+6.- INTERACCIÓN MAGNÉTICA: Campo magnético.
+Lineas de inducción. Movimiento de partículas
+cargadas en campos magnéticos. Fuerza sobre un conductor.
+Fuerza sobre una espira. Efecto Hall. Problemas.
+7.- FUENTES DEL CAMPO MAGNÉTICO: Introducción.
+Campo magnético creado por corriente eléctrica: Ley
+de Biot y Savart. Fuerza magnética entre corrientes. Ley de
+Gauss para el campo magnético. Ley de Ampére.
+Corriente de desplazamiento. Ley de Ampére Generalizada.
+Problemas.
+Bloque IV: Inducción Electromagnética. Circuitos
+de Corriente Alterna.
+8.- INDUCCIÓN ELECTROMAGNÉTICA: Fuerza
+electromotriz inducida. Leyes de Faraday y Lenz. Aplicaciones de la
+Ley de Faraday. Inductores. Autoinducción. Circuitos RL.
+Energía magnética. Circuitos LC y RLC. Magnetismo en
+la materia. Problemas.
+9.- CORRIENTE ALTERNA: Magnitudes en corriente alterna. Valores
+medios y eficaces. Resistencia y reactancia. Análisis de
+circuitos de corriente alterna. Potencia en los circuitos de
+corriente alterna. Problemas.
+Bloque V: Óptica.
+10.- ÓPTICA: Introducción. Reflexión y
+refracción. Reflexión interna total. Lentes. Espejos.
+Interferencia. Difracción. Polarización.
+Problemas.
+ 
+Prácticas de laboratorio.-
+Se realizarán cuatro prácticas de laboratorio
+de entre las que se indican a continuación: 1. Campo
+eléctrico y potencial entre las placas de un condensador
+cargado. 2. Estudio de la función de carga y descarga de un
+condensador. 3. Campo magnético en espiras y bobinas. 4.
+Inductancia en solenoides. 5. Ley de Ohm. 6. Índice de
+refracción de un prisma. 7. Formación de
+imágenes por lentes delgadas.
+Alternativamente se podrán realizar ejercicios
+prácticos
+basados en la interpretación de datos procedentes de
+observaciones y medidas de tipo experimental sobre
+aspectos fundamentales de los contenidos de la
+asignatura.
+'

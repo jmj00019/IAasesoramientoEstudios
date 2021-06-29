@@ -1,0 +1,88 @@
+'
+
+Introducción a las IDE
+Aspectos tecnológicos
+Aspectos económicos y sociales y de regulación
+Normalización. Estándares ISO y OGC relativos a
+IDE
+
+
+Metadatos,
+  Nomenclátores, Catálogos y
+
+
+
+Clearing-Houses
+
+
+
+para la
+  Información Geográfica
+
+Servicios IDE
+Herramientas y servicios fundamentales
+Desarrollo de proyectos IDE
+ 
+
+TEORÍA:
+Tema 1: Introducción a las IDE
+- Introducción.
+- La Web y la sociedad de la información.
+- Qué es una IDE.
+- Interoperabilidad IDE
+- La experiencia europea y española en IDE.
+- Regulación: INSPIRE y Sistema Cartográfico
+Nacional (LISIGE).
+Tema 2: Internet, Comunicaciones, Protocolos e
+Identificación de recursos. Arquitectura Cliente/Servidor.
+OGC
+- Introducción
+- Internet (protocolos y direcciones)
+- Servicios ISO 19119 
+Tema 3: Servicios de datos
+- Servicio de Mapas (ISO 19128).
+- Servicio de Fenómenos (WFS).
+- Servicio de Coberturas (OGC-WCS).
+- Otros servicios (posicionamiento ISO 19116,
+representación ISO 19117)
+
+  Tema 4: Descripción, descubrimiento y acceso a
+los datos
+- Introducción
+- Metadatos y servicios de metadatos (ISo 19115-1, 19115-2, ISO
+19139)
+- Catálogos y servicio de catálogo (OGC-CWS).
+- Nomenclátor (ISO 19112) y servicios de
+nomenclátor (OGC-gazetteer).
+Tema 5: Bases Tecnológicas.
+
+XML
+HTML Y
+  CSS
+GML
+
+  JAVASCRIPT
+
+ Tema 6: Proyectos IDE
+- Propiedad intelectual de la IG
+- Aspectos legales
+- Modelos de licencias
+- Aspectos económicos.
+PRÁCTICAS:
+Práctica 1.- Servicios de Datos.
+Práctica 2.- Metadatos.
+Práctica 3.- Tecnologías aplicadas a las IDE.
+En esta asignatura se realiza un aprendizaje basado en proyectos
+en coordinación con las asignaturas de este
+grado: CARTOGRAFIA, CARTOGRAFIA MATEMATICA, SISTEMAS DE
+INFORMACION GEOGRAFICA, PRODUCCION CARTOGRAFICA, CARTOGRAFIA
+TEMATICA Y SOLUCIONES SIG. En particular, en el curso
+2018/2019 se concedió un Proyecto de Innovación
+Docente solicitado y coordinado por profesores del Departamento de
+Ingeniería Cartográfica, Geodésica y
+Fotogrametría, titulado: PRODATO: UN CONJUNTO DE PRACTICAS
+DE CARTOGRAFIA ENLAZADAS PARA LOS ESTUDIANTES DEL GRADO EN
+GEOMATICA Y TOPOGRAFIA para la realización de un aprendizaje
+basado en proyectos
+ 
+'

@@ -1,0 +1,217 @@
+'
+
+Codificación, procesamiento y transmisión
+multimedia utilizando protocolos de aplicación, transporte y
+red. Esta asignatura dotará al alumno de la capacidad para
+construir, explotar y gestionar servicios de telecomunicaciones
+orientados a la transmisión de contenidos multimedia.
+En la parte práctica de la asignatura se estudian
+distintos aspectos relativos a los protocolos usados para la
+transmisión en tiempo real de contenido multimedia y redes
+necesarias para proporcionar servicios de transmisión de
+contenidos multimedia. Así mismo, se planifica y despliegan
+distintos servicios destinados a la comunicación
+multimedia.
+Palabras Clave: Calidad de servicio, audio, video, protocolos de
+tiempo real.
+
+
+En
+  esta asignatura se dará al alumno una visión
+  general de los protocolos a nivel de aplicación y
+  transporte de datos multimedia. Además también se
+  verán el conjunto de protocolos usados en la
+  gestión de sesiones multimedia. Se dotará al alumno
+  de la capacidad para estar al día en las novedades en
+  ciencia y tecnología, sobre todo en este tipo de materias,
+  tan ligadas a un entono tan dinámico como son las
+  telecomunicaciones, y en concreto la Ingeniería
+  Telemática.
+
+
+
+Unidades
+  Teóricas
+
+
+
+Tema
+  1. Introducción a los servicios y aplicaciones
+  multimedia.
+
+
+1.1
+  Introducción.
+
+
+1.2
+  Características del tráfico multimedia.
+
+
+1.3
+  Servicios y aplicaciones multimedia.
+
+
+1.4
+  Tipos de contenidos multimedia.
+
+
+1.5
+  Codificadores de contenidos multimedia.
+
+
+1.6
+  Protocolos de soporte multimedia.
+
+
+
+Tema
+  2. Servidores de streaming.
+
+
+2.1
+  Servidores de distribución de audio y video
+  almacenado
+
+
+2.2
+  Servidores de distribución de audio y video en tiempo
+  real
+
+
+2.3
+  Servicios de audio y video interactivos
+
+
+2.3.1
+  VoIP
+
+
+
+Tema
+  3. Protocolos de soporte en aplicaciones multimedia
+  (red).
+
+
+3.1
+  Protocolo IP
+
+
+3.2
+  Modelo IP multicast.
+
+
+3.3.
+  Introducción a Calidad de servicio
+
+
+
+Tema
+  4. Protocolos de soporte en aplicaciones multimedia
+  (transporte).
+
+
+4.1
+  La pila de protocolos para comunicaciones multimedia en
+  Internet
+
+
+4.2
+  Protocolos y modelos de servicio de Internet
+
+
+4.3
+  Protocolos de transporte de tiempo real RTP y RTCP
+
+
+4.4
+  Concepto de sesión multimedia
+
+
+
+Tema
+  5. Protocolos de soporte en aplicaciones multimedia
+  (aplicación).
+
+
+5.1
+  Introducción a las sesiones.
+
+
+5.2
+  Descripción de sesiones con SDP.
+
+
+5.3
+  El protocolo SIP para establecimiento de sesiones
+
+
+5.4
+Real-Time 
+ 
+Streaming 
+ 
+Protocol
+(RTSP)
+
+
+Unidades
+  Prácticas
+
+
+El
+  bloque práctico de la asignatura se compone de
+  prácticas en el laboratorio, y su carácter es
+  obligatorio. Además, se desarrollarán habilidades
+  de comunicación información, ideas, problemas y
+  soluciones en el ámbito de ingeniería y la sociedad
+  en general a través de procesos de entrega de
+  documentación o presentaciones orales. 
+   Con respecto a la organización del trabajo, se
+  fomentará la colaboración y trabajo en equipo a
+  través del propio diseño de las
+  prácticas.
+
+
+
+Práctica
+1
+.
+Estudio y análisis de servicios de streaming sobre HTTP y
+RTSP y VoIP.
+
+
+Práctica
+2.
+Estudio
+y análisis de plataformas de TV a la carta.
+
+
+Práctica
+3
+.
+Instalación, configuración y evaluación de
+servidores de streaming con RTP
+
+
+3.1
+    Configuración de sesiones multimedia
+
+
+3.2
+    Uso de distintos códec en la transmisión de
+    contenidos multimedia y medidas de parámetros.
+
+
+3.3
+    Análisis de tráfico generado en la
+    transmisión de contenidos multimedia
+
+
+
+
+Práctica
+4
+.
+Configuración de multicasting en LAN y MAN
+'

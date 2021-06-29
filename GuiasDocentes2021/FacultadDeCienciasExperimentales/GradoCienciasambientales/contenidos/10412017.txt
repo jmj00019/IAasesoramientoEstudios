@@ -1,0 +1,240 @@
+'
+
+- Introducción a la química analítica
+instrumental.
+-Obtención y preparación de las muestras para el
+análisis.
+-Validación de métodos analíticos.
+-Principales técnicas instrumentales en análisis
+ambiental: técnicas espectroscópicas atómicas
+y moleculares, técnicas electroanalíticas,
+técnicas cromatográficas.
+
+
+
+TEMA
+    1.- INTRODUCCIÓN A LA QUÍMICA ANALÍTICA
+    AMBIENTAL
+
+
+
+Química
+  Analítica y Medio Ambiente. Conceptos básicos.
+  Tipos de análisis. Escala del análisis.
+  Clasificación de los métodos de análisis
+  químico. El problema analítico y el proceso
+  analítico global.
+
+
+
+TEMA
+    2.- El MUESTREO
+
+
+
+El
+  problema del muestreo y la representatividad: consideraciones
+  generales. Tipos de muestras. Plan de muestreo. Toma de muestra
+  de aguas. Estrategias de muestreo de aire. Muestreo de gases
+  atmosféricos. Muestreo de partículas
+  atmosféricas. Toma de muestra de suelos y
+  sedimentos.
+
+
+
+TEMA
+    3. TRATAMIENTO DE MUESTRAS
+
+
+
+Consideraciones
+generales. Tratamientos previos. 
+
+Tratamiento
+de muestras para determinación de analitos
+inorgánicos
+:
+Disolución de muestras sólidas. Disgregaciones.
+Destrucción de la materia orgánica. 
+
+Tratamiento
+de muestras para determinación de analitos
+orgánicos
+:
+Extracción sólido-líquido.
+Preconcentración, purificación y eliminación
+de interferencias en muestras líquidas y extractos:
+extracción líquido-líquido y extracción
+en fase sólida.
+
+
+TEMA
+    4. METODOLOGÍA EN ANÁLISIS INSTRUMENTAL
+
+
+
+La
+  señal analítica. Instrumentos analíticos:
+  componentes fundamentales. Calibración instrumental.
+  Calibración analítica. Tipos: con patrones
+  externos, adición de patrón y patrón
+  interno. Calidad de los resultados analíticos y tipos de
+  errores.Validación de métodos
+  analíticos. 
+
+
+
+TEMA
+    5.- PRINCIPALES TÉCNICAS ELECTROQUÍMICAS EN
+    ANÁLISIS AMBIENTAL.
+
+
+
+Clasificación
+  de las técnicas electroanalíticas.
+  Conductimetría. Potenciometría: electrodos de
+  referencia y electrodos indicadores. Sensores
+  potenciométricos: electrodos selectivos de iones. 
+  Sensores amperométricos: sensor de oxígeno
+  disuelto
+
+
+
+TEMA
+    6.-  TÉCNICAS ESPECTROSCÓPICAS  DE
+    ABSORCIÓN MOLECULAR .
+
+
+
+Introducción
+a las técnicas espectroscópicas: absorción y
+emisión de radiación electromagnética
+
+.
+ 
+
+Espectrometría
+de absorción molecular.
+Principios
+generales: ley de Lambert-Beer . Instrumentación
+básica y metodología. Aplicaciones en análisis
+ambiental.
+
+
+
+TEMA
+    7.-  TÉCNICAS ESPECTROSCÓPICAS DE
+    LUMINISCENCIA MOLECULAR
+
+
+
+
+Fotoluminiscencia
+:
+fluorescencia y fosforescencia. Principios generales,
+instrumentación y aplicaciones en análisis
+medioambiental. 
+
+Quimiolumiscencia:
+Fundamento
+y aplicaciones en análisis medioambiental.
+
+TEMA
+  8.- TÉCNICAS ESPECTROSCÓPICAS ATÓMICAS.
+  Introducción. Espectros atómicos. Sistemas de
+  atomización. Técnicas de absorción
+  atómica de llama y electrotérmica. Técnicas
+  de emisión atómica de llama y con fuente de plasma
+  (ICP).  Aplicaciones en medioambiente.
+
+
+TEMA
+  9. ESPECTROMETRÍA DE RAYOS X
+
+
+Clasificación
+  de los métodos de rayos X: absorción,
+  emisión y difracción. Espectrometría de
+  fluorescencia de rayos X. Instrumentación. Análisis
+  cualitativo y cuantitativo.  Ventajas e inconvenientes.
+  Aplicaciones.
+
+
+TEMA
+  10.- INTRODUCCIÓN A LAS SEPARACIONES
+  CROMATOGRÁFICAS
+
+
+Fundamento
+  y clasificación de los métodos
+  cromatográficos. Consideraciones generales sobre la
+  cromatografía columna. Parámetros
+  cromatográficos. Análisis químico con
+  métodos cromatográficos: identificación y
+  cuantificación.
+
+
+TEMA
+  11: CROMATOGRAFÍA DE GASES. Introducción.
+  Instrumentación general. Introducción de la
+  muestra. Columnas cromatográficas y fases estacionarias.
+  Detectores. Preparación de muestras ambientales para
+  cromatografía de gases. Aplicaciones más relevantes
+  en medio ambiente.
+
+
+TEMA
+  12.- CROMATOGRAFÍA DE LÍQUIDOS DE ALTA
+  RESOLUCIÓN
+
+
+Introducción.
+  Instrumentación general. Sistemas de bombeo.
+  Introducción de la muestra. Fases estacionarias en
+  cromatografía de partición y adsorción.
+  Fases móviles: separación isocrática y en
+  gradiente. Detectores. Aplicaciones más relevantes en
+  medio ambiente. Cromatografía iónica. 
+
+
+
+Programa
+  Práctico:
+
+
+
+Conocimientos
+    básicos: Formas de expresar la concentración.
+    Preparación de disoluciones patrón y reactivos
+    auxiliares.
+
+
+Determinación
+    de la conductividad de disoluciones electrolíticas y
+    aguas naturales
+
+
+Determinación
+    de nitratos en agua: método espectrométrico
+    ultravioleta selectivo
+
+
+Determinación
+    de potasio en hojas de olivo mediante fotometría de
+    llama.
+
+
+Determinación
+    de metales pesados solubles en agua regia en suelos o
+    sedimentos
+
+
+Cromatografía
+    de gases: influencia de la temperatura en la separación.
+    Identificación y determinación de contaminantes
+    orgánicos. Preparación de muestras para
+    cromatografía de gases: extracción
+    líquido-líquido.
+
+
+'

@@ -1,0 +1,43 @@
+'
+
+Dominios de aplicación; Microcontrolados; Elementos
+actuadores y sensores; Interfaces de comunicación. Internet
+de las cosas y computación ubicua.
+
+
+Programa de teoría
+
+Módulo 1: Computación ubicua
+
+Introducción a la computación ubicua
+Arquitecturas de fusión de conocimiento
+Fusión de información contextual en sistemas
+  ubicuos
+
+Módulo 2: Sistemas empotrados en internet de las
+cosas
+
+Internet de las cosas
+Dispositivos de última generación
+Tecnologías emergentes
+
+Módulo 3: Sistemas empotrados en aplicaciones del
+futuro
+
+Procesamiento inteligente de la información
+Aplicaciones de sistemas empotrados y ubicos.
+
+
+Programa de prácticas
+
+
+Práctica 1. Fusión de información en
+  redes de sensores. Implementación de un prototipo para
+  gestión de datos heterogéneos procedentes de
+  sensores.
+Práctica 2. Placas ESP8266. Sensores y
+  Actuadores.
+Práctica 3. Placas ESP8266. Servicio web y protocolo
+  MQTT.
+
+'

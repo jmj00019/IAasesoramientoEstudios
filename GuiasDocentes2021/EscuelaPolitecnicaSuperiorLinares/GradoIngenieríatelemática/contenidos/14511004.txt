@@ -1,0 +1,50 @@
+'
+
+
+Cálculo
+diferencial e integral en una y varias variables:
+Números reales. Sucesiones y completitud. Funciones reales
+de variable real. Continuidad de funciones. Derivabilidad.
+Optimización. Integral: Concepto. Cálculo de
+primitivas. Teorema fundamental del Cálculo. Sucesiones y
+series de funciones de una variable real. Convergencias puntual y
+uniforme. Desarrollos de Taylor y de Fourier. Funciones de varias
+variables: límites, continuidad, derivada, diferencial.
+Integración en dominios del espacio. Introducción a
+la geometría diferencial: curvas y superficies en el
+espacio.
+
+Métodos
+Numéricos: Introducción al Cálculo
+numérico: Notación científica, errores, etc.
+Interpolación polinómica de funciones.
+Derivación e Integración numérica.
+
+Clases expositivas en gran grupo:
+1. Clasificación de los números. Números
+complejos.
+2. Función real de variable real. Continuidad.
+3. Funciones de variable real. Derivabilidad.
+4. Sucesiones y series de números reales. Límites
+de sucesiones. Suma de series numéricas. Series
+funcionales.
+5. Integral definida.
+6. Funciones de varias variables.
+7. Diferenciación en varias variables.
+8. Integración en varias variables.
+Clases en grupos de prácticas:
+1. Introducción al Mathematica.
+2. Números complejos. Prácticas con
+Mathematica.
+3. Conceptos básicos de programación con
+Mathematica.
+4. Polinomio de Taylor. Prácticas con Mathematica.
+5. Polinomio de interpolación. Prácticas con
+Mathematica.
+6. Integración numérica. Prácticas con
+Mathematica.
+7. Ajustes de curvas. Prácticas con Mathematica.
+8. Extremos locales y absolutos en funciones de una y varias
+variables. Extremos con ecuaciones de ligadura. Prácticas
+con Mathematica.
+'

@@ -1,0 +1,30 @@
+'
+
+Flotas de transporte. Planificación de rutas y cargas. La
+logística en la gestión de flotas. Funciones del
+departamento de tráfico. Sistemas telemáticos de
+control y planificación. Sistemas de apoyo a la
+gestión. Comparativa de costes.
+ 
+
+CONTENIDOS 
+
+TEÓRICOS
+:
+1.- Introducción a la logística. La la cadena de
+valor
+2.- La logística en la cadena de suministro
+3.- Aprovisionamiento
+4.- Localización de almacenes
+5.- Logística multimodal e internacional
+6.- Logística "verde" y logística "inversa"
+7.- Gestión de flotas
+CONTENIDOS 
+PRÁCTICOS (Estudio de casos):
+1.- Diseño de red logística
+2.- La huella de carbono en las actividades
+logísticas
+3.- Integración de proveedores
+4.- Incoterms
+5.- Métodos avanzados de gestión de flotas
+'

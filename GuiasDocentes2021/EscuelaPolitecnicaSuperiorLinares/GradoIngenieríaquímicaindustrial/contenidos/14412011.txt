@@ -1,0 +1,80 @@
+'
+
+
+Conceptos básicos sobre medidas e
+  instrumentación de medida.
+Conceptos básicos sobre Electrónica
+  Analógica.
+Conceptos básicos sobre Electrónica
+  Digital.
+
+
+
+TEORÍA
+
+
+Bloque I. Señales, Componentes e
+  instrumentación.
+
+Tipos de señales. Componentes básicos de los
+circuitos eléctricos (fuentes, resistencias, condensadores,
+bobinas y transformadores). Otros componentes.
+
+Bloque II. Semiconductores. Diodo y Transistor
+  Bipolar.
+
+Semiconductores. Flujo en semiconductores. Tipos de
+semiconductores. La unión PN. Polarización de la
+unión PN. Diodo. Curva V-I del diodo. Características
+eléctricas del diodo. Linealización de la curva V-I
+del diodo. Circuitos básicos con diodos. Hojas de
+características de los diodos. Otros diodos. Transistores
+bipolares de unión.
+
+
+Bloque III. Amplificador Operacional.
+Concepto de amplificador. Modelo de amplificador de
+tensión. Conexión en cascada de
+amplificadores. Concepto de Amplificador Diferencial. El
+Amplificador Operacional (AO) Ideal. Circuitos lineales
+usando Amplificadores Operacionales. Circuitos lineales con
+AO. El AO real. 
+
+
+Bloque IV. Electrónica Digital.
+Señales digitales. Representación de la
+información. Representación de magnitudes enteras,
+naturales y reales. Códigos binarios. Álgebra de
+Boole. Puertas lógicas. Funciones combinacionales. Tabla de
+verdad. Formas canónicas de una función
+lógica. Minitérminos y Maxitérminos. Funciones
+lógicas con indiferencias. Simplificación de
+funciones lógicas. Mapas de Karnaugh. Simplificación
+de funciones utilizando mapas de Karnaugh. Diseño de
+circuitos combinacionales.
+
+PRÁCTICAS
+
+
+Bloque Práctico I.
+  Instrumentación.
+
+Montaje de circuitos en placa de prototipos. Utilización
+de los instrumentos básicos de un laboratorio de
+Electrónica. Realización de medidas.
+
+Bloque Práctico II. Electrónica
+  Analógica.
+
+Circuitos con diodos (montaje y simulación). Circuitos
+con amplificadores operacionales (montaje y simulación).
+Circuitos con transistores bipolares (montaje y
+simulación).
+ 
+
+Bloque Práctico III. Electrónica
+Digital.
+Diseño y montaje de circuitos combinacionales, utilizando
+puertas lógicas.
+ 
+'

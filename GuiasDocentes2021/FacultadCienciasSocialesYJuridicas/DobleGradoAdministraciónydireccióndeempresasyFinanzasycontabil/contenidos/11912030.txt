@@ -1,0 +1,76 @@
+'
+
+
+Mercados financieros y regulación financiera
+  española.
+Mercados e instrumentos de renta variable:
+  características, operativa, riesgo y fiscalidad.
+Mercados e instrumentos de renta fija:
+  características, operativa, riesgo y fiscalidad.
+Mercados e instrumentos de derivados: características,
+  operativa, riesgo y fiscalidad.
+Mercados de divisas: características, operativa,
+  riesgo y fiscalidad.
+Inversión colectiva: características,
+  operativa, riesgo y fiscalidad.
+
+
+
+Unidad 1. Introducción.
+
+1.1. Instrumentos financieros
+1.2. Mercados financieros
+1.3. Cómo negociar en los mercados financieros
+1.4. Mercados secundarios oficiales españoles
+1.5. Fiscalidad de la inversión en instrumentos
+financieros. Aspectos generales.
+1.6. Marco regulatorio español de servicios
+financieros.
+1.7. Protección del inversor. 
+
+Unidad 2. Instrumentos de renta variable. 
+
+2.1. Las acciones: definición y
+características.
+2.2. Los flujos de caja de la inversión en acciones.
+2.3. El mercado bursátil español
+2.4. Mercados bursátiles internacionales
+2.5. Fiscalidad de la inversión en acciones
+
+Tema 3. Instrumentos de renta fija.
+
+3.1. Características y tipos de instrumentos de renta
+fija.
+3.2. Instrumentos de deuda pública
+3.3. Instrumentos de deuda corporativa
+3.4. Fiscalidad de los rendimientos en renta fija
+
+Unidad 4. Instrumentos financieros derivados
+
+4.1. Características y funcionamiento de los futuros.
+4.2. Los futuros negociados en el MEFF
+4.3. Características y funcionamiento de las opciones
+4.4. Las opciones cotizadas en MEFF
+4.5. Aplicaciones prácticas de cobertura y
+especulación
+4.6. Productos estructurados
+4.7. Fiscalidad de futuros y opciones
+
+Unidad 5. Mercado de divisas.
+
+5.1. Definición de divisa
+5.2. Características del mercado de divisas
+5.3. Formación de precios
+5.4. Operativa en el mercado de divisas
+5.5. Fiscalidad de la inversión en divisas
+
+Unidad 6. Inversión colectiva.
+
+6.1. Fondos y sociedades de inversión
+mobiliaria. 
+6.2. Sociedades de inversión de capital variable
+(SICAV)
+6.3. Fondos de inversión inmobiliaria
+6.4. Planes y fondos de pensiones
+6.5. Fiscalidad de la inversión colectiva
+'

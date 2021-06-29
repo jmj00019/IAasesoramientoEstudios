@@ -1,0 +1,13 @@
+(74916001,'Trabajo fin de Máster','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74916001/es/2020-21-74916001_es.html'),
+(74912007,'Materiales aplicados a la edificación sostenible','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912007/es/2020-21-74912007_es.html'),
+(74912001,'Nutrientes tecnológicos','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912001/es/2020-21-74912001_es.html'),
+(74912006,'Tecnología del medio ambiente y valorización de residuos','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912006/es/2020-21-74912006_es.html'),
+(74912008,'Materiales aplicados a la ingeniería civil','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912008/es/2020-21-74912008_es.html'),
+(74912003,'Cerámicos avanzados','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912003/es/2020-21-74912003_es.html'),
+(74912011,'Materiales con propiedades especiales','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912011/es/2020-21-74912011_es.html'),
+(74912005,'Materiales compuestos avanzados','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912005/es/2020-21-74912005_es.html'),
+(74912012,'Prácticas en entorno investigador y profesional','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912012/es/2020-21-74912012_es.html'),
+(74912002,'Nuevas aleaciones metálicas','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912002/es/2020-21-74912002_es.html'),
+(74912004,'Nuevos materiales poliméricos','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912004/es/2020-21-74912004_es.html'),
+(74912010,'Tecnologías de simulación','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912010/es/2020-21-74912010_es.html'),
+(74912009,'Nanomateriales','67','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/749A/74912009/es/2020-21-74912009_es.html')

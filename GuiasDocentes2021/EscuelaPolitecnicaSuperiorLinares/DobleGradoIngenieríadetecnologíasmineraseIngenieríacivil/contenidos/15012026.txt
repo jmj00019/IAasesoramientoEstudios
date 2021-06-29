@@ -1,0 +1,388 @@
+'
+
+Bloque I. SONDEOS A PERCUSIÓN Bloque II. SONDEOS A
+ROTOPERCUSION Bloque III. ROTACION A CIRCULACION INVERSA. Bloque
+IV. SONDEOS PARA CAPTACION DE AGUAS SUBTERRANEAS
+Bloque V. SONDEOS CON OBTENCIÓN DE TESTIGO (mineros y
+geotécnicos) Bloque VI. SEGURIDAD EN LOS EQUIPOS Y
+DISEÑO DE LAS INSTALACIONES.
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+
+TEORÍA
+
+ 
+
+BLOQUE I: 
+INTRODUCCIÓN. ASPECTOS GENERALES.
+ 
+TEMA 1. OBJETO DE LOS SONDEOS
+Planteamiento general de la asignatura. Concepto de sondeos.
+Bosquejo histórico. División de los sondeos.
+Principios generales de los distintos sistemas de
+perforación. Métodos de perforación.
+Parámetros de perforación. Campos de
+aplicación de los distintos métodos de
+perforación.
+TEMA 2. PROPIEDADES DE LAS ROCAS. FACTORES QUE AFECTAN A SU
+PERFORABILIDAD
+Introducción. Propiedades físicas.
+ Perforabilidad de las rocas.  Perforación
+rotopercutiva. Perforación rotativa. Factores que afectan a
+la velocidad de perforación de las formaciones rocosas.
+TEMA 3. PLANIFICACIÓN DE UN POZO
+Proceso de iniciación de un pozo. Programa de pozo.
+Estimación del tiempo de ejecución del pozo.
+Elección de contratistas. Estimación del coste del
+pozo.
+ 
+
+BLOQUE II:
+FLUIDOS DE PERFORACION
+
+ 
+
+TEMA 4. FUNCIONES Y CARACTERISTICAS
+Introducción. Funciones de los fluidos de
+perforación. Características de los fluidos de
+perforación. Físicas. Químicas.
+Características reológicas. Viscosidad y modelos de
+flujo.
+ TEMA 5.-CONTROL DE LODOS
+Generalidades. Medida de la densidad. Viscosidad y
+tixotropía. Viscosímetros. Agua de filtrado y cake.
+Ensayos. Contenido en arenas. Ph. Contenido en sales.
+ TEMA 6. TIPOS DE LODOS
+Lodos a base de agua y arcilla. Lodos a base de aceites.
+ Espumas estables. Polimeros. Otros tipos.
+TEMA 7. FABRICACION Y CIRCULACION DEL LODO
+Fabricación del lodo. Equipos. Circulación del
+lodo. Líneas de impulsión. Bombas. Potencia necesaria
+en un equipo de bombeo. Perdidas de carga. Informe de
+inyección de lodos. Programación.
+TEMA 8. CONTAMINACION DEL LODO
+Contaminación química. Contaminación
+física. Tratamiento. Vibradores. Ciclones desarenadores.
+Desiltores. Desgasificador. 
+ 
+
+BLOQUE III: 
+SONDEOS A PERCUSION Y SONDEOS A ROTOPERCUSION
+
+ 
+
+TEMA 9. PERFORACION CON CABLE
+Procedimiento canadiense y pensilvaniense. Descripción de
+la máquina. Herramientas de golpeo y batería de
+perforación. Trépanos. Barras de carga. Tijeras.
+Giratoria y cables. Cuchara de limpieza. Mecánica del
+sistema. Forma de perforar. Formaciones mas adecuadas para perforar
+a percusión. Problemas más frecuentes.
+Averías.  Ventajas e inconvenientes.
+ TEMA 10. MARTILLOS DE PERCUSION
+Descripción. Producción y utilización del
+aire comprimido. Mecanismo de golpeo. Mecanismo de rotación.
+dispositivo par evacuar los detritus. dispositivo de avance.
+Barrenas.
+TEMA 11. MARTILLOS HIDRAULICOS
+Introducción a la hidráulica. Principios de la
+energía hidráulica.  Actuadores
+hidráulicos. Circuitos. Bombas. Motores. Forma de trabajar
+el martillo. Ventajas y desventajas. Evacuación del
+detritus. Equipos de perforación con martillo en cabeza.
+Columnas y carros. Colectores de polvos.
+TEMA 12. MARTILLOS EN FONDO
+Descripción. Funcionamiento. Lubricación.
+Evacuación de detritus. Limites de profundidad. Concepto de
+sumergencia. Parámetros de perforación.
+Elección del compresor. Perforación con espumas
+aireadas. Gráficas. Perforación bajo recubrimiento.
+Método Odex. Equipos empleados. Problemas en la
+perforación. Rango de aplicabilidad en función de las
+litologías.
+Ventajas e inconvenientes del sistema.
+
+ 
+
+
+BLOQUE IV: 
+SONDEOS A CIRCULACION INVERSA.PERFORACION
+DIRIGIDA
+
+ 
+
+TEMA 13. CIRCULACION INVERSA
+Fundamentos. Maquinaria empleada. Perforación de pozos de
+gran diámetro. Varillas. Mecánica del sistema. Fases
+de perforació y entubación. Ventajas e
+inconvenientes. Circulación inversa con martillo en el
+fondo. Rango de aplicabilidad según litologías.
+TEMA 14. PERFORACION  HORIZONTAL DIRIGIDA
+Fundamentos. Técnica de perforación. Criterios de
+selección de equipos. Perforación horizontal dirigida
+aplicada a la captación de agua subterránea, marina,
+y, a la instalación de tuberías y conducciones.
+ 
+
+BLOQUE V: SONDEOS PARA CAPTACIÓN DE AGUAS
+  SUBTERRANEAS
+
+ 
+TEMA 15. ASPECTOS GENERALES
+Pozos y sondeos. Diámetros de perforación.
+Ensanchamientos. Tuberías de revestimiento. Filtros.
+Empaques de gravas.
+TEMA 16. COMPLETACION DEL SONDEO
+Desarrollos. Procedimientos empleados. Ensayos de bombeo.
+Obtención de caudales. Colocación de la bomba.
+Diseño e instalación de grupos elevadores. Cuadros
+eléctricos 
+.
+Transformadores. Grupos electrógenos.
+
+ 
+
+
+ 
+BLOQUE V: SONDEOS DE INVESTIGACIÓN
+MINERA.
+ 
+TEMA 17. MAQUINARIA DE PERFORACION
+Maquinaria de perforación. Características de la
+sondas de investigación minera. Sistemas de empuje. Sistemas
+de rotación. Avance hidráulico. Extracción de
+varillas. Cabrestantes. Frenos. Castilletes.
+TEMA 18. BOMBAS
+Bombas de Inyección. Características y
+funcionamiento. Tipos de bombas.Bombas de pistón. Bombas
+duplex y triplex. Mangueras. Giratoria de inyección.
+TEMA 19. CORONAS
+Tipos de coronas. Coronas de widia. Coronas de diamante.
+Concrección y Insercción. Rangos de aplicabilidad en
+función de las litologias. Mecánica de la
+perforación. Número y tamaño de diamantes que
+debe tener una corona. Peso sobre la corona. Revoluciones.
+Recuperaciòn de diamantes. Incidentes. Manguitos
+calibradores.
+TEMA 20. TUBOS TESTIGOS
+Tubos sacatestigos simples. Batería tipo B. Tubos
+sacatestigos dobles: Descipción y funcionamiento.
+Batería tipo T. Tubo testigo J.P.H.. Tubos triples.
+Batería tipo K. Testificación continua. Sistema Wire
+Line. Descripción y funcionamiento. Ventajas del Wire Line
+sobre el sistema convencional.
+ TEMA 21.- VARILLAS. MANGUITOS. TUBERIAS DE
+REVESTIMIENTO
+ Introducción. Propiedades físicas.
+Manguitos. Normalización de sus dimensiones. Sistema
+métrico. Sistema americano. Otros sistemas. tuberías
+de revestimiento. Características. Introducción y
+extracción. Coronas zapata.
+TEMA 22. OPERACIONES EN LOS SONDEOS
+Operaciones de salvamento. Rotura o desenrosque del tren de
+varillas. Bloqueo de la sarta. Control de desviaciones. Cuña
+desviadora. Herramientas de pesca.
+
+ 
+
+
+BLOQUE VII:  
+SONDEOS GEOTECNICOS         
+                 
+                 
+                 
+             
+  
+
+ 
+
+TEMA 23.-RECONOCIMIENTO DE SUELOS
+Reconocimiento de suelos con obtención de muestras.
+Barrenas helicohidales. Tubos testigos. Muestras inalteradas. Tubos
+tomamuestras pared gruesa. Tubo tomamuestras pared delgada Shelby.
+Ensayos in situ.-S.P.T.. Penetrometros estáticos y
+dinámicos. Presíometros. Vane test.
+Planificación de los reconocimientos.
+ TEMA 24. RECONOCIMIENTO EN ROCAS
+Indice de calidad de la roca RQD. Ensayo de carga puntual.
+Martillo Schmidt. Ensayo dilatométrico. Clasificaciones
+geomecánicas. Modelo de registro geotécnico de un
+sondeo.
+ TEMA 25. INTERPRETACION DE ESTUDIOS GEOTECNICOS
+Interpretación de los ensayos in situ en suelos y rocas.
+Interpretación de los ensayos de laboratorio en suelos y
+rocas. Caracterización geotécnica. Conclusiones.
+
+ 
+
+
+BLOQUE VIII: SEGURIDAD EN LOS EQUIPOS  E
+  INSTALACIONES
+
+ 
+TEMA 26. NORMAS BASICAS DE SEGURIDAD.
+Reglamento general. Instrucciones técnicas
+complementarias I.T.C..Prescripciones generales.
+TEMA 27. NORMAS DE SEGURIDAD EN SONDEOS
+Proyecto. Personal. Protección ambiental.
+Protección contra incendios. Protección contra
+electrocución. Torres de sondeos. Equipo de
+perforación. Cables y cabrestantes. Accesos.
+Circulación de vehículos.
+
+ 
+
+
+PROGRAMA DE PRACTICAS DE TECNOLOGIA DE SONDEOS I
+
+
+ 
+
+
+PRACTICA Nº 1.  CONTROL DE LODOS
+
+Objeto: Determinar las características físicas,
+químicas y reológicas de los lodos.
+Fabricación de lodos a base de bentonita-agua en diferentes
+proporciones.
+
+ 
+
+
+PRACTICA Nº 2 . BOMBAS
+
+Objeto: Calcular las perdidas de carga en un circuito de
+inyección de lodos. Cálculo de la potencia del motor
+de accionamiento de la bomba.
+
+ 
+
+
+PRACTICA Nº 3. INYECCION DE LODOS
+
+Objeto: Efectuar los cálculos necesarios para completar
+un informe de inyección de lodos.
+
+ 
+
+
+PRACTICA Nº4.  MARTILLO PERFORADOR Y MARTILLO
+  EN  FONDO
+
+Objeto: Despiezar, croquizar y esquematizar funcionamientos.
+Realizar informes de funcionamiento, con presentación de
+croquis y esquemas a escala.
+          
+
+PRACTICA Nº5.  NOCIONES DE HIDRAULICA.
+  ACTUADORES
+
+Objeto: Conocer el funcionamiento y diseño de los
+actuadores hidráulicos. Motores y cilindros.
+determinación de velocidades, caudales, fuerza y
+presión en los cilindros. Determinación de
+desplazamiento, par y presión en los motores.
+ 
+
+PRACTICA Nº 6.  SONDEOS DE CAPTACION DE
+  AGUAS
+
+Objeto: Diseñar el equipo de perforación para la
+realización de un sondeo de captación de aguas, en
+función de las especificaciones técnicas.
+Selección de empaque de gravas, rejillas y filtros.
+Selección del grupo elevador.
+ 
+
+PRÁCTICAS Nº 7.  MEMORIA Y PROYETO.
+  LEGALIZACIÓN DE SONDEOS
+
+
+
+
+ Memoria descriptiva y justificación de las obras a
+realizar para el alumbramiento y la explotación de un caudal
+de agua subterránea. Proyecto de captación de agua
+subterráneas de un sondeo. trámites para la
+legalización de un sondeo.
+
+                  
+
+PRACTICA Nº 8. SONDA DE AVANCE SENSITIVO
+
+Objeto: Reconocer y manejar todos los accionamientos
+(cabrestante,correas de transmisión, giratoria de
+inyección, cabeza de rotación., etc..) de una sonda
+de estas características.Se ha de despiezar, croquizar y
+esquematizar, los diferentes accionamientos. Se presentará
+un informe de funcionamiento con la presentación de esquemas
+a escala.
+ 
+
+PRACTICA Nº 9.  BATERIAS TIPO B, T, Y WIRE LINE
+  CORONAS.
+
+Objeto: Despiece, croquis y esquemas, funcionamientos. Realizar
+un informe del funcionamiento, con presentación de esquemas
+y croquis a escala.
+ 
+
+PRACTICA Nº 10. INCIDENCIAS EN LOS SONDEOS
+
+Objeto: Solucionar problemas sencillos de atascos, o roturas de
+la sarta de perforación. Operaciones a realizar. Control de
+inclinación del sondeo.
+ 
+
+PRACTICA Nº 11.  SELECCION DE EQUIPOS DE
+  PERFORACION
+
+Objeto: Diseñar las características que debe tener
+una sonda de investigación minera, para la
+realización de un sondeo, según, unas determinadas
+especificaciones técnicas( litologías, profundidades,
+diámetros, etc..).Programación del proyecto.
+  
+
+PRACTICA Nº 12.  ENSAYO DE PENETRACION DINAM
+  DINAMICA
+
+Objeto: Determinar la resistencia dinámica y carga
+admisible del terreno, mediante la ejecución en el campo de
+un ensayo de Penetración dinámica DPSH., y su
+posterior interpretación en el laboratorio.
+
+ 
+
+
+PRACTICA Nº 13.  INTERPRETACION DE ESTUDIOS
+  GEOTECNICOS.
+
+
+               
+                   
+   REALIZACION DE   INFORME.
+
+Objeto: Interpretar y valorar tanto los ensayos in situ como de
+laboratorio, aportados por los estudios geotécnicos.
+Establecimiento de parámetros geotécnicos y su rango
+de aplicabilidad.
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+'

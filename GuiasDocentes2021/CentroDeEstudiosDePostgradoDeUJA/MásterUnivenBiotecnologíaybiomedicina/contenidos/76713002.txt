@@ -1,0 +1,45 @@
+'
+
+1. Enfermedades infecciosas transmitidas por vectores. 1.1.
+Enfermedades infecciosas transmitidas por vectores. 1.2. Modelos
+infecciosos que implican
+transmisión vectorial. 1.3. Bases moleculares de la
+relación parásito-hospedador. 1.4. Bases moleculares
+de los mecanismos de acción de fármacos
+antiparasitarios. 1.5. Vectores y enfermedades emergentes:
+nuevas oportunidades de investigación en biomedicina.
+2. Enfermedades infecciosas provocadas por virus. 2.1. Bases
+moleculares de la infección por virus con ARN. 2.2. Bases
+moleculares de la infección
+por virus con ADN. 2.3. Bases moleculares de la
+infección por virus con reversotranscriptasa. 2.4.
+Interacciones moleculares virus/hospedador. 2.5.
+Terapia antiviral y vacunas.
+
+
+PROGRAMA
+  TEÓRICO 1. Enfermedades infecciosas transmitidas por
+  vectores: Introducción. 2. Hospedadores intermediarios. 3.
+  Los organismos patógenos con transmisión vectorial:
+  implicaciones ecológicas. 4. Modelos infecciosos que
+  implican transmisión vectorial. 5. Vectores y enfermedades
+  emergentes. 6. Bases moleculares de la relación
+  parásito-hospedador. 7. Enfermedades infecciosas
+  provocadas por virus 8. Estructura viral y mecanismos de
+  expresión y replicación. 9. Interacciones
+  moleculares virus/hospedador 10. Estrategias de subversión
+  del sistema inmune y defensas del hospedador 11.
+  Patogénesis, epidemiología, con especial
+  mención a virus emergentes 12. Vectores virales 13.
+  Terapia antiviral 14. Vacunas 15. Resistencia genética a
+  infecciones virales PROGRAMA PRÁCTICO 1. Recogida de
+  vectores de enfermedades infecciosas. 2. Detección
+  molecular de agentes patógenos con extracción de
+  ADN/ARN, amplificación mediante PCR/RTPCR,
+  purificación de productos de PCR, secuenciación,
+  etc. 3. Análisis de antígenos y proteínas
+  virales: test inmunoenzimáticos, inmunofluorescencia,
+  western blot 4. Análisis genómicos:
+  hibridación molecular in situ.
+
+'

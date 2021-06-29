@@ -1,0 +1,30 @@
+'
+
+Tipos de servicios de transporte por carretera. Unidades
+móviles. Las nuevas tecnologías. Legislación.
+Modelización de la demanda. Estructura de costes. Calidad y
+seguridad del transporte por carretera.
+Perspectivas futuras.
+
+Tema 1.El transporte por carretera. Importancia y
+evolución histórica
+Tema 2. El sistema de transportes. Modos y tipologías
+Tema 3. Nuevas tecnologías en el transporte por
+carretera
+Tema 4. Introducción al sistema del flujo de
+tráfico
+Tema 5. Unidades móviles en el transporte por carretera.
+Normativa aplicable: validaciones, pruebas y ensayos.
+Tema 6. Calidad y seguridad en el transporte de perecederos por
+carretera. Normativa ATP.
+Tema 7. Legislación española en materia de
+transporte por carretera
+Tema 8. El transporte de mercancías que requieren
+precauciones especiales
+Tema 9. Los servicios públicos de transporte de
+mercancías
+Tema 10. Calidad y seguridad del transporte por carretera
+Tema 11.Perspectivas futuras: construcción de un sistema
+de mallado, apuesta por corredores de alta capacidad,
+intermodalidad
+'

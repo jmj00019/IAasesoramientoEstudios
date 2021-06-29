@@ -1,0 +1,155 @@
+'
+
+NORMALIZACIÓN APLICADA. SIMBOLOGÍAS
+GEOMETRÍA DESCRIPTIVA II DIBUJO TÉCNICO APLICADO A LA
+INGENIERÍA
+
+
+
+
+
+
+BLOQUE I:   ESCALAS. DIBUJO
+          TÉCNICO. SIMBOLOGÍAS
+
+Tema 01.  Escalas: Clases. Tipos. Casos especiales.
+          Relación entre escalas y áreas. Grado
+        de apreciación visual. Problemas de escalas.
+Tema 02.  Dibujo Técnico, principios de la
+          representación técnica: Formatos.
+        Líneas. Doblado de planos. Plegado de   mapas.
+        Esquemas. Croquización. Vistas. Cortes. Secciones.
+        Roturas.
+Tema 03.  Acotación: Normas. Elementos.
+        Casos   particulares.
+Tema 04.  Representación de conjuntos y
+        despieces.
+Tema 05. Representación de tuberías.
+
+BLOQUE II:  GEOMETRÍA DESCRIPTIVA
+          II
+
+Tema 06. Planos acotados   I: Generalidades. Punto.
+        Recta. Plano. Aplicaciones
+Tema 07.   Planos acotados II: Intersección
+        de planos. Problemas de rectas y planos.   Cubiertas y
+        tejados.
+Tema 08. Planos acotados III:   Paralelismo.
+        Perpendicularidad. Distancias. Aplicaciones.
+Tema 09. Planos acotados IV:   Abatimientos.
+        Ángulos. Cambios de plano. Giros. Aplicaciones.
+Tema 10. Planos acotados V: Curvas   de nivel.
+        Estudio, formas y trazados. Superficies
+        topográficas.
+ 
+
+BLOQUE III:  DIBUJO APLICADO A LA
+          INGENIERÍA
+
+Tema 11.  Representación de Planos y Mapas.
+        Nociones   cartográficas. Proyecciones
+        cartográficas. Formas de representación de
+          planos.
+Tema 12.  Trazado de perfiles longitudinales y
+          transversales: Tipología de perfiles. Formas
+        de representación. Cálculos de  
+        superficies y volúmenes.
+Tema 13.   Movimiento de Tierras: Trazado de
+          explanaciones. Trazado de viales   
+        horizontales e inclinados. Línea neutra. Acuerdos
+        cónicos y   cilíndricos.
+        Aplicaciones
+Tema 14.  Normalización aplicada: N.T.E.
+        Hormigón   armado. Soldadura. Elementos de
+        obra. Terrenos y excavaciones, etc.
+Tema 15. Dibujo aplicado a la especialidad.
+
+
+CONTENIDOS
+          PRÁCTICOS
+
+
+ 
+
+
+
+Práctica
+        1.
+ Representación
+        normalizada de piezas. Vistas.
+
+
+Práctica
+        2.
+ Representación
+        normalizada de piezas. Cortes. Secciones.
+
+
+Práctica
+          3. Acotación.
+
+
+
+Práctica
+        4.
+ Representación
+        de conjuntos. Despieces
+
+
+Práctica
+        5.
+ Tuberías.
+
+
+Práctica
+        6.
+ 
+Planos
+        acotados I
+
+
+Práctica
+        7.
+ Planos
+        acotados II. Cubiertas
+
+
+Práctica
+        8.
+ Planos
+        acotados. Aplicaciones I
+
+
+Práctica
+        9.
+Planos
+        acotados. Aplicaciones II
+
+
+Práctica
+        10.
+Superficies
+        topográficas.
+
+
+Práctica
+        11.
+Perfiles.
+
+
+Práctica
+        12.
+ Explanaciones.
+        Caminos.
+
+
+Práctica
+        13. Obra lineal.  
+        Movimiento
+        de tierras.
+ 
+
+
+
+
+'

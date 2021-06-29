@@ -1,0 +1,80 @@
+'
+
+Energía Hidráulica:
+Recursos hidráulicos (hidrología). Centrales
+hidroeléctricas. Golpe de ariete y formas de evitarlo.
+Energía Mareomotriz: Energía de las mareas.
+Energía de las olas. Energía undimotriz. Otras.
+Introducción y aprovechamiento de la energía
+del viento: Historia. Clasificación de los sistemas
+eólicos. Características del viento.
+Principios de aerodinámica. Teoría de alas.
+Introducción a la turbulencia libre. Estelas
+turbulentas y su simulación numérica.
+Interacción fluido-estructura.
+Optimización computacional de turbinas eólicas
+Aplicaciones de la energía eólica:
+Producción eléctrica. Aspectos
+económicos..
+
+CONTENIDOS DESARROLLADOS
+1. Introducción y aprovechamiento de la energía
+del viento
+
+Historia
+Clasificación de los sistemas eólicos
+Aplicación de la energía eólica:
+  producción eléctrica. Aspectos
+  económicos
+
+2. Características del viento
+
+Naturaleza del viento
+Turbulencia
+ABL
+Terrenos complejos. La rosa
+Medida y predicción
+Casos estándar de estudio
+
+3. Aerodinámica de las turbinas axiales horizontales
+
+Componentes
+Principios de la aerodinámica
+Teoría de alas
+Disco actuador, teoría del rotor disco, rotor-pala,
+  influencia del número de palas y otros aspectos
+
+4. Estelas
+
+Turbulencia libre
+Estelas turbulentas y simulación numérica
+Cargas dinámicas generadas sobre el aerogenerador.
+  Interacción fluido-estructura
+
+5. Optimización computacional de turbinas
+eólicas
+
+Teoría del plano de mezcla
+Sistemas rotatorios simples y múltiples
+DNS en mallas fijas/móviles
+Análisis en el dominio de la frecuencia
+Técnicas de optimización
+
+6. Introducción y aprovechamiento de la energía
+mareomotriz
+
+Energía de las mareas y olas
+Estado del arte de las turbinas
+Modelado y control de turbinas
+Energía undimotriz
+
+7. Energía hidráulica
+
+Recursos hidráulicos e hidrología.
+Centrales hidroeléctricas. Golpe de ariete y formas de
+  evitarlos en centrales hidroeléctricas.
+
+Se realizarán prácticas durante el curso
+disponiéndose de más información en Docencia
+Virtual.
+'

@@ -1,0 +1,129 @@
+'
+
+Diseño y análisis de
+redes para control de deformaciones en Ingeniería civil y en
+el medio natural. Monitorización episódica y
+continua. Software específico para control geodésico
+de deformaciones de estructuras y sistemas de alerta. Proyectos de
+auscultación en ingeniería civil. Requerimientos
+específicos. Monitorización de deformaciones en el
+medio natural. Correlación de deformaciones con factores
+geológicos.
+
+
+ 
+
+
+Tema
+  1.- Introducción.
+
+
+           
+  Conceptos básicos.
+
+
+           
+  Marcos de actuación.
+
+
+           
+  Visión global.
+
+
+Tema
+  2.- Redes geodésicas para monitorización de
+  estructuras.
+
+
+           
+  Definición.
+
+
+           
+  Diseño.
+
+
+           
+  Análisis.
+
+
+           
+  Ejemplos prácticos.
+
+
+Tema
+  3.- Técnicas de monitorización.
+
+
+           
+  Episódica.
+
+
+           
+  Continua.
+
+
+           
+  Ejemplos prácticos.
+
+
+Tema
+  4.- Instrumentación y sistemas avanzados de control en
+  tiempo real.
+
+
+           
+  Sensores GNSS
+
+
+           
+  Estación total
+
+
+           
+  Sensores geotécnicos
+
+
+           
+  Integración de sensores.
+
+
+           
+  Software específico y sistemas de alerta.
+
+
+Tema
+  5.- Proyectos de auscultación de estructuras en
+  ingeniería civil
+
+
+           
+  Aspectos generales 
+
+
+           
+  Requerimientos específicos
+
+
+           
+  Ejemplos.
+
+
+ Práctica
+  1.- Diseño red geodésica horizontal para control
+  estructura.
+
+
+Práctica
+  2.- Aplicación Test de Congruencia a un caso.
+
+
+Práctica
+  3.- Caso práctico con software de control de
+  deformaciones.
+
+
+Práctica
+  4.- Trabajo expositivo final de curso.
+
+'

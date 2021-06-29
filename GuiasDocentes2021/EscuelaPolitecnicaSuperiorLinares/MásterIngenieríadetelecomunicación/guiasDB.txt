@@ -1,0 +1,12 @@
+(74212007,'Redes basadas en IP','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212007/es/2020-21-74212007_es.html'),
+(74212010,'Integración de tecnologías','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212010/es/2020-21-74212010_es.html'),
+(74212006,'Diseño de sistemas digitales complejos','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212006/es/2020-21-74212006_es.html'),
+(74216001,'Trabajo fin de Máster','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74216001/es/2020-21-74216001_es.html'),
+(74212003,'Tecnologías ópticas','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212003/es/2020-21-74212003_es.html'),
+(74212011,'Infraestructuras de telecomunicación','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212011/es/2020-21-74212011_es.html'),
+(74212004,'Procesado de señal para comunicaciones','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212004/es/2020-21-74212004_es.html'),
+(74212002,'Circuitos y sistemas de comunicaciones','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212002/es/2020-21-74212002_es.html'),
+(74212001,'Radiocomunicaciones y radiodeterminación','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212001/es/2020-21-74212001_es.html'),
+(74212009,'Servicios avanzados multimedia','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212009/es/2020-21-74212009_es.html'),
+(74212008,'Tecnologías de redes y servicios','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212008/es/2020-21-74212008_es.html'),
+(74212005,'Circuitos de instrumentación electrónica','65','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/5/742A/74212005/es/2020-21-74212005_es.html')

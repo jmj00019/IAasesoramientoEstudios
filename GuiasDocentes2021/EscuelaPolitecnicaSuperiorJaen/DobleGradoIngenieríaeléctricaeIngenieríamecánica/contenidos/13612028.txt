@@ -1,0 +1,699 @@
+'
+
+Reglamentación de las instalaciones eléctricas de
+baja tensión
+Representación gráfica de la instalación
+eléctrica
+Diseño de la topología de la instalación
+eléctrica
+Previsión de potencia de la instalación
+eléctrica
+Cálculo de secciones
+Cálculo de corrientes de cortocircuito
+Aparamenta eléctrica
+Protección de sobreintensidades
+Instalaciones de puesta a tierra
+Protección de personas frente a contactos directos e
+indirectos
+
+
+
+CONTENIDOS
+  TEÓRICOS:
+
+
+
+TEMA
+1. INTRODUCCIÓN Y GENERALIDADES DE LAS INSTALACIONES
+ELÉCTRICAS DE BAJA TENSIÓN
+.
+
+1.1.
+  Objeto de la asignatura
+
+
+1.2. Programa
+  de la asignatura
+
+
+1.3. Metodología
+  de teoría y prácticas
+
+
+1.4. Evaluación
+
+
+1.5. Seguridad
+  y calidad de las instalaciones
+
+
+1.6. Normativa
+
+
+1.7. Instaladores
+  autorizados en BT
+
+
+1.8. Documentación
+  de las instalaciones. 
+
+
+1.9.
+  Ejecución y tramitación de instalaciones
+
+
+1.10. Verificaciones
+  e inspecciones
+
+
+1.11.
+  Contexto de la Asignatura en el Panorama Internacional de Redes
+  Eléctricas Inteligentes para la Transición
+  Energética.
+
+
+
+TEMA 2.
+  DISTRIBUCIÓN EN BAJA TENSIÓN. EL CONDUCTOR
+  ELÉCTRICO
+
+
+2.1.
+  Descripción de un sistema de energía
+  eléctrica
+
+
+2.2.
+  Redes de distribución en B.T.
+
+
+2.3.
+  Influencia de la naturaleza de la corriente en la sección
+  y peso de los conductores
+
+
+2.4.
+  Influencia de la tensión en la elección de la
+  sección de la línea
+
+
+2.5. El
+  conductor eléctrico
+
+
+2.6. El
+  cuadro eléctrico
+
+
+2.7. El
+  cortocircuito
+
+
+2.8.
+  Cálculo de la corriente de cortocircuito en el
+  REBT.
+
+
+2.9. Los
+  sistemas de distribución en el REBT
+
+
+2.10.
+  Los niveles de aislamiento de los conductores en el REBT
+
+
+2.11.
+  Problemas
+
+
+
+TEMA 3.
+  CÁLCULO ELÉCTRICO DE LOS CONDUCTORES DE LAS
+  LÍNEAS ELÉCTRICAS DE BAJA
+  TENSIÓN
+
+
+3.1.
+  Cálculo de la sección de un conductor
+
+
+3.2.
+  Cálculo de la sección del conductor en una
+  línea de corriente alterna y de corriente continua, con
+  carga única
+
+
+3.3.
+  Líneas abiertas con cargas distribuidas
+
+
+3.4.
+  Líneas abiertas con cargas uniformemente
+  distribuidas
+
+
+3.5.
+  Líneas abiertas con cargas irregularmente distribuidas y
+  otras uniformemente distribuidas
+
+
+3.6.
+  Líneas abiertas con derivaciones
+
+
+3.7.
+  Línea cerrada alimentada por los dos extremos a la misma
+  tensión
+
+
+3.8.
+  Líneas en anillo
+
+
+3.9.
+  Caída de tensión en una línea cerrada de
+  sección no uniforme
+
+
+3.10.
+  Líneas imperfectamente cerradas
+
+
+3.11.
+  Líneas abiertas
+
+
+3.12.
+  Problemas
+
+
+
+TEMA 4.
+  LÍNEAS DE DISTRIBUCIÓN AÉREAS Y
+  SUBTERRÁNEAS EN B.T. CÁLCULO
+  ELÉCTRICO
+
+
+4.1.
+  Redes de distribución en BT
+
+
+4.2.
+  Redes aéreas de distribución en B.T. con
+  conductores desnudos.
+
+
+4.3.
+  Redes aéreas de distribución en B.T. con
+  conductores aislados unipolares.
+
+
+4.4.
+  Redes aéreas de distribución en B.T. con
+  conductores aislados trenzados en haz
+
+
+4.5.
+  Redes subterráneas de distribución en B.T.
+
+
+4.6.
+  Redes aéreas para distribución en el REBT.
+  Generalidades
+
+
+4.7
+  redes subterráneas para distribución en el
+  REBT.
+
+
+4.8.
+  Resumen del cálculo eléctrico de una línea
+  de distribución. Previsión de carga
+
+
+4.9.
+  Problemas
+
+
+
+TEMA 5.
+  INSTALACIÓN DE ENLACE
+
+
+5.1.
+  Previsión de cargas en edificios
+
+
+5.2. La
+  instalación de enlace: definición, partes
+
+
+5.3.
+  Caja general de protección
+
+
+5.4.
+  Cálculo de la corriente de cortocircuito al principio de
+  la instalación
+
+
+5.5.
+  Línea general de alimentación
+
+
+5.6.
+  Centralización de contadores
+
+
+5.7.
+  Derivación individual
+
+
+5.8.
+  Dispositivos generales de mando y protección
+
+
+5.9.
+  Resumen
+
+
+5.10.
+  Problemas
+
+
+
+TEMA 6.
+  INSTALACIONES DE INTERIOR
+
+
+6.1.
+  Prescripciones generales en instalaciones interiores o
+  receptoras. ITC-BT.19
+
+
+6.2.
+  Sistemas de instalación en instalaciones interiores o
+  receptoras. ITC-BT-20
+
+
+6.3.
+  Tubos y canales protectoras en instalaciones Interiores o
+  receptoras. ITC-BT-21
+
+
+6.4.
+  Protección contra sobreintensidades en instalaciones
+  Interiores o receptoras. ITC-BT-22
+
+
+6.5.
+  Instalaciones interiores en viviendas. ITC-BT-25, 26 Y 27
+
+
+6.6.
+  Otras instalaciones en edificio de viviendas
+
+
+6.7.
+  Instalaciones en edificios singulares e industriales
+
+
+6.8.
+  Locales de pública concurrencia. ITC-BT-28
+
+
+6.9.
+  Locales con riesgo de incendio o explosión.
+  ITC-BT-29
+
+
+6.10.
+  Locales con características especiales. ITC-BT-30
+
+
+6.11.
+  Instalaciones con fines especiales
+
+
+6.12.
+  Cálculo de la sección de los conductores en las
+  Instalaciones interiores
+
+
+6.13.
+  Problemas
+
+
+
+TEMA 7.
+  APARAMENTA EN BAJA TENSIÓN
+
+
+7.1.
+  Aparamenta eléctrica. Definición y
+  clasificación
+
+
+7.2.
+  Magnitudes eléctricas características de los
+  aparatos de maniobra y protección.
+
+
+7.3.
+  Aparatos de maniobra
+
+
+7.4.
+  Aparatos de protección
+
+
+7.5.
+  Protección contra sobrecargas y cortocircuitos de las
+  líneas: cálculo del dispositivo.
+
+
+7.6.
+  Selectividad
+
+
+7.7. La
+  protección contra sobreintensidades en el REBT.
+
+
+7.8. La
+  protección diferencial en el REBT.
+
+
+7.9. La
+  protección contra sobretensiones en el REBT.
+
+
+7.10.
+  Problemas
+
+
+
+TEMA 8.
+  ILUMINACIÓN INTERIOR Y EXTERIOR
+
+
+8.1.
+  Luminotecnia. La luz. El color.
+
+
+8.2.
+  Propiedades de la luz: reflexión, refracción,
+  transmisión, absorción
+
+
+8.3.
+  Magnitudes y unidades luminosas.
+
+
+8.4.
+  Leyes fundamentales de la luminotecnia
+
+
+8.5.
+  Lámparas y luminarias
+
+
+8.6.
+  Diagramas de iluminación
+
+
+8.7.
+  Alumbrado de interiores. Cálculo por el método de
+  los Lúmenes
+
+
+8.8.
+  Alumbrado de exteriores
+
+
+8.9.
+  Alumbrado con proyectores
+
+
+8.10.
+  Problemas
+
+
+
+TEMA 9.
+  PUESTA A TIERRA
+
+
+9.1.
+  Introducción y finalidad
+
+
+9.2. El
+  terreno
+
+
+9.3. Los
+  electrodos
+
+
+9.4.
+  Estudio de la resistencia de la puesta a tierra
+
+
+9.5.
+  Tensión de contacto y tensión de paso
+
+
+9.6. La
+  resistencia de tierra en función de la sensibilidad del
+  interruptor diferencial
+
+
+9.7. La
+  instalación de puesta tierra en el REBT
+
+
+9.8.
+  Medida de la puesta a tierra
+
+
+9.9.
+  Problemas
+
+
+
+TEMA 10.
+  CÁLCULO MECÁNICO DE LAS LÍNEAS DE
+  DISTRIBUCIÓN AÉREAS EN B.T.
+
+
+10.1.
+  Líneas aéreas. Cálculo
+  mecánico
+
+
+10.2.
+  Apoyos. Tipos de apoyos
+
+
+10.3.
+  Redes aéreas de distribución en BT. con conductores
+  aislados trenzados en haz. Características.
+
+
+10.4.
+  Redes aéreas para distibución en el REBT.
+  Cálculo mecánico de los conductores
+
+
+10.5.
+  Redes aéreas para distibución en el REBT.
+  Cálculo mecánico de los apoyos
+
+
+10.6.
+  Problemas
+
+
+
+TEMA 11.
+  CENTROS DE TRANSFORMACIÓN
+
+
+11.1.
+  Definición y funciones de un centro de
+  transformación
+
+
+11.2.
+  Clasificación de los centros de
+  transformación
+
+
+11.3.
+  Constitución de un CT.
+
+
+11.4.
+  Régimen del neutro en el CT.
+
+
+11.5.
+  Aparamenta de maniobra y protección en MT. en los
+  CT.
+
+
+11.6.
+  Maniobras en los CT.
+
+
+11.7.
+  Puesta a tierra en los CT.
+
+
+11.8.
+  Ventilación de un CT.
+
+
+11.9.
+  Cálculo de un CT.
+
+
+11.10.
+  Problemas
+
+
+
+TEMA 12.
+  SEGURIDAD ELÉCTRICA EN B.T.
+
+
+12.1.
+  Definiciones sobre seguridad y salud en el trabajo
+
+
+12.2.
+  Riesgo eléctrico
+
+
+12.3.
+  Efectos de la corriente sobre el cuerpo humano
+
+
+12.4.
+  Factores de los que dependen los efectos fisiológicos
+  sobre el cuerpo humano debido al paso de la corriente
+
+
+12.5.
+  Tipos de accidentes por contacto eléctrico
+
+
+12.6.
+  Protecciones en las instalaciones eléctricas
+
+
+12.7.
+  Trabajos eléctricos en BT.
+
+
+12.8.
+  Primeros auxilios en un accidente eléctrico
+
+
+12.9.
+  Problemas
+
+
+
+TEMA 13.
+  DOCUMENTACIÓN, EJECUCIÓN, TRAMITACIÓN Y
+  PUESTA EN SERVICIO DE LAS INSTALACIONES
+
+
+13.1.
+  Documentación, ejecución, tramitación y
+  puesta en servicio de las instalaciones
+
+
+13.2.
+  Memoria técnica de diseño
+
+
+13.3.
+  Proyecto técnico
+
+
+
+TEMA 14.
+  PROYECTO DE APLICACIÓN
+
+
+14.1.
+  Definición del proyecto
+
+
+14.2.
+  Cálculos
+
+
+
+TEMA 15.
+  LAS REDES INTELIGENTES EN LAS INSTALACIONES ELÉCTRICAS DE
+  BAJA TENSIÓN
+
+
+15.1.
+  Redes inteligentes en las instalaciones eléctricas de baja
+  tensión. Generalidades.
+
+
+15.2.
+  Eficiencia energética y sostenibilidad en sistemas de
+  instalaciones eléctricas de baja tensión.
+
+
+15.3.
+  Conclusiones y recomendaciones para la redacción de
+  proyectos para la transición energética y
+  sostenibilidad ambiental.
+
+
+ 
+
+
+
+CONTENIDOS
+  PRÁCTICOS
+
+
+P1.
+  Proyectos de Instalaciones Eléctricas de B.T.
+
+
+P2.
+  Visitas Técnicas a Instalaciones Eléctricas de
+  B.T.
+
+
+P3. Inspección
+y verificación de instalaciones en baja tensión.
+
+P4:
+  Compensación de energía reactiva.
+
+
+P5:
+  Protección contra sobreintensidades
+
+
+P6:
+  Protección de personas I-II
+
+
+P7.
+  Simulación de Instalaciones Eléctricas de
+  B.T.
+
+'

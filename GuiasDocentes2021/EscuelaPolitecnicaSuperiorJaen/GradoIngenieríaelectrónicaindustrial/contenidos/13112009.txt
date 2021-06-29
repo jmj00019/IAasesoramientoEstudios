@@ -1,0 +1,220 @@
+'
+
+Revisión de fundamentos de Electrónica Digital.
+Códigos binarios. Características de los circuitos
+electrónicos digitales. Diseño lógico
+combinacional con MSI. Sistemas digitales realimentados.
+Máquinas de estados. Diseño lógico secuencial
+síncrono y asíncrono. Análisis y
+simulación de circuitos digitales. Dispositivos
+lógicos programables. Memorias. Máquinas de proceso
+programables. Introducción a los microprocesadores y su
+programación en lenguaje ensamblador.
+ 
+
+
+
+TEORÍA
+
+
+
+Bloque
+  0: Introducción a la electrónica
+  digital.
+
+
+
+Tema
+  0: Introducción a la asignatura.
+
+
+Descripción
+  del programa, bibliografía, metodología, proceso de
+  evaluación, etc. de la asignatura.
+
+
+
+Bloque
+  1: Fundamentos de la electrónica digital.
+
+
+
+Tema
+  1: Sistemas de numeración.
+
+
+Sistemas
+  de numeración: binario, decimal y hexadecimal.
+  Aritmética binaria. El complemento.
+
+
+
+Tema
+  2: Representación de la información.
+
+
+Información
+  numérica y alfanumérica. Representación en
+  coma fija y coma flotante.
+
+
+
+Tema 3:
+  Códigos.
+
+
+Códigos.
+  Detección y corrección de errores.
+
+
+
+Tema
+  4: Las leyes de la lógica.
+
+
+Álgebra
+  de Boole. Funciones lógicas. Puertas
+  lógicas.
+
+
+
+Tema
+  5: Circuitos digitales.
+
+
+Circuitos
+  integrados digitales. Características estáticas y
+  dinámicas.
+
+
+
+Bloque
+  2: Diseño de circuitos digitales.
+
+
+
+Tema
+  6: Sistemas digitales combinacionales.
+
+
+Proceso
+  de diseño combinacional. Bloques funcionales
+  combinacionales. Diseño con bloques
+  combinacionales.
+
+
+
+Tema
+  7: Sistemas digitales con memoria.
+
+
+Circuitos
+  digitales realimentados. Biestables, monoestables y astables.
+  Aplicaciones: contadores, registros y memorias.
+
+
+
+Tema
+  8: Sistemas digitales secuenciales
+  asíncronos.
+
+
+Máquinas
+  de estados finitos. Proceso de diseño y análisis de
+  circuitos secuenciales asíncronos.
+
+
+
+Tema
+  9: Sistemas digitales secuenciales
+  síncronos.
+
+
+Sistemas
+  secuenciales síncronos frente a asíncronos.
+  Máquinas de estados síncronas. Proceso de
+  diseño y análisis de circuitos secuenciales
+  síncronos.
+
+
+
+Bloque
+  3: Evolución del hardware
+  digital.
+
+
+
+Tema
+  10: Dispositivos lógicos programables.
+
+
+Concepto
+  y tipos de PLD. Diseño con PLD.
+
+
+
+Tema
+  11: Introducción a los microprocesadores.
+
+
+Concepto
+  de lógica programada. La arquitectura de Von Neumann. El
+  lenguaje ensamblador. Procesadores integrados.
+
+
+ 
+
+
+
+PRÁCTICAS
+
+
+
+Bloque
+  1: Puertas lógicas.
+
+
+Funcionamiento
+  básico de las puertas lógicas.
+  Características de las puertas lógicas
+  integradas.
+
+
+
+Bloque
+  2: Circuitos combinacionales.
+
+
+Diseño,
+  simulación y montaje de circuitos digitales
+  combinacionales.
+
+
+
+Bloque
+  3: Biestables.
+
+
+Funcionamiento
+  básico de los diferentes tipos de biestables.
+
+
+
+Bloque
+  4: Circuitos secuenciales.
+
+
+Diseño,
+  simulación y montaje de circuitos digitales
+  secuenciales.
+
+
+
+Bloque
+  5: Lógica programada.
+
+
+Programación
+  en ensamblador.
+
+'

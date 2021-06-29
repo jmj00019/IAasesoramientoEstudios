@@ -1,0 +1,286 @@
+'
+
+Técnicas de representación y normalización
+Geometría descriptiva
+Dibujo asistido por ordenador
+
+
+
+BLOQUE I. TÉCNICAS DE REPRESENTACIÓN Y
+  NORMALIZACIÓN
+
+
+
+Tema 1: Introducción
+
+
+Concepto
+  de norma. Formatos de papel y plegado de planos. Márgenes.
+  Escalas. Rotulación. Líneas normalizadas. (UNE
+  1035:1995, UNE 1037:1995, UNE-EN ISO 216:2002, UNE-EN ISO
+  128-20:2002, UNE-EN ISO 5455:1996, UNE-EN ISO 5457:2000)
+
+
+
+Tema 2: Descripción y análisis de formas
+  industriales
+
+
+Representaciones
+  normalizadas. Cubo de proyecciones. Elección de vistas.
+  Posición del objeto. Criterios de elección y
+  economía de las vistas. Planos de proyección
+  auxiliares. Otros convencionalismos (UNE 1032:1982 (ISO 128);
+  UNE-EN ISO 5456- 1:2000, UNE-EN ISO 5456-2:2000).
+  Introducción a la acotación. (UNE 1039:1994)
+
+
+
+BLOQUE II. GEOMETRÍA DESCRIPTIVA
+
+
+
+Tema 3: Fundamentos de los Sistemas de
+  Representación
+
+
+Clases
+  de proyección: cónica y cilíndrica.
+  Reversibilidad de la proyección. Sistemas de
+  representación usuales en la ingeniería:
+  diédrico, acotado y axonométrico.
+
+
+
+SISTEMA DIÉDRICO
+
+
+
+Tema 4: Introducción
+
+
+Finalidad.
+  Conceptos fundamentales y nomenclatura. Vistas principales.
+  Representación y determinación de elementos
+  notables. Alfabetos.
+
+
+
+Tema 5: Relaciones de pertenencia, incidencia y
+  posición relativa entre elementos notables.
+  Resolución de problemas métricos.
+
+
+Intersecciones
+  entre planos y entre rectas y planos. Paralelismo entre rectas,
+  entre planos y entre rectas y planos. Perpendicularidad entre
+  rectas, entre rectas y planos y entre planos. Distancias entre
+  puntos, entre punto y plano, de punto a recta, mínima
+  distancia entre dos rectas que se cruzan. Ángulos entre
+  recta y plano y entre dos planos. Ángulos de rectas y
+  planos con los planos de proyección.
+
+
+
+Tema 6: Métodos de obtención de verdaderas
+  formas y magnitudes
+
+
+Abatimiento
+  de un plano. Fundamentos. Afinidad plana. Proceso inverso.
+  Cambios de plano. Justificación. Giros. Posición de
+  los ejes de giro. Giro de punto, recta y plano.
+
+
+
+Tema 7: Superficies
+
+
+Conceptos
+  de curva y superficie. Plano tangente a una superficie en uno de
+  sus puntos. Clasificación. Contorno aparente. Superficies
+  radiadas de base poligonal y circular (prisma, pirámide,
+  cilindro y cono). Representación, secciones planas,
+  intersección con rectas, desarrollos y transformadas.
+  Superficie esférica. Contorno aparente. Situación
+  de puntos en la esfera y plano tangente en un punto.
+  Sección plana e intersección con recta.
+
+
+
+Tema 8: Intersección de
+  superficies
+
+
+Método
+  general. Planos límites y planos auxiliares.
+  Penetración, penetración tangencial,
+  penetración mutua o máxima y mordedura.
+  Método de Planos Radiales. 
+
+
+
+SISTEMA DE PLANOS ACOTADOS
+
+
+
+Tema 9: Introducción
+
+
+Fundamentos.
+  Módulo o Intervalo. Representación y
+  determinación de elementos notables. Alfabetos.
+
+
+
+Tema 10: Relaciones de pertenencia, incidencia y
+  posición relativa entre elementos notables.
+  Resolución de problemas métricos.
+
+
+Intersecciones
+  entre planos y entre rectas y planos. Paralelismo entre rectas,
+  entre planos y entre rectas y planos. Perpendicularidad entre
+  rectas, entre rectas y planos y entre planos. Distancias entre
+  puntos, entre punto y plano y de punto a recta. Ángulos
+  entre recta y plano y entre dos planos.
+
+
+
+Tema 11: Método de obtención de verdaderas
+  formas y magnitudes
+
+
+Abatimiento
+  de un plano. Fundamentos. Proceso inverso.
+
+
+
+Tema 12: Aplicaciones
+
+
+Cubiertas
+  y Tejados. Aplicaciones topográficas: perfiles
+  longitudinales y explanaciones.
+
+
+SISTEMA
+  AXONOMÉTRICO
+
+
+
+Tema 13: Introducción. Representación de
+  elementos notables
+
+
+Justificación.
+  Axonometrías ortogonal y oblicua. Coeficiente de
+  reducción y escalas axonométricas. Triángulo
+  de trazas. Traza ordinaria de un plano. Problemas directo e
+  inverso de la axonometría. Teorema de
+  Schlömilch-Weisbach. Axonometría ortogonal:
+  Representación de punto, recta y plano. Alfabetos.
+
+
+
+Tema 14: Perspectivas axonométricas y su
+  aplicación
+
+
+Perspectivas
+  axonométricas ortogonales: isométrica,
+  dimétrica y trimétrica. Perspectiva caballera
+  normalizada. Proyecciones axonométricas partiendo de las
+  vistas diédricas. Secciones planas. Abatimientos.
+
+
+
+BLOQUE III. DIBUJO ASISTIDO POR ORDENADOR
+
+
+Este
+  bloque se imparte en el horario de prácticas en el aula de
+  CAD. No existe por tanto, bloque teórico como tal y se
+  realizarán con un programa CAD comercial de amplia
+  implantación (Autodesk Inventor Professional) en las
+  prácticas relativas a normalización.
+
+
+Asimismo,
+el conocimiento adquirido con la realización de las
+prácticas realizadas con CAD servirá como
+comprobación de los resultados obtenidos en las
+prácticas basadas en las proyecciones y realizadas con
+herramientas euclidianas, de forma que a partir del modelado CAD
+3D, se obtengan las proyecciones diédricas de la pieza y
+acotación de la misma, secciones planas y verdaderas
+magnitudes, o representación de cuerpos geométricos y
+perspectivas axonométricas. 
+
+
+CONTENIDOS PRÁCTICOS
+
+
+
+Práctica 1. Principios de
+  normalización. CAD 3D.
+
+
+
+Práctica 2. Principios de
+  normalización. CAD 3D.
+
+
+
+Práctica 3. Sistema Diédrico.
+  Pertenencias, incidencias y posiciones relativas.
+
+
+
+Práctica 4. Sistema Diédrico.
+  Verdaderas magnitudes y secciones planas.
+
+
+
+Práctica 5. Sistema Diédrico.
+  Representación de superficies y cuerpos.
+
+
+
+Práctica 6. Sistema
+  Diédrico. Representación de superficies y
+  cuerpos.
+
+
+
+Práctica 7. Sistema de Planos Acotados.
+  Fundamentos, elementos notables y posiciones relativas.
+
+
+
+Práctica 8. Sistema de Planos Acotados.
+  Verdaderas formas y magnitudes. Representación de
+  cuerpos.
+
+
+
+Práctica 9. Sistema de Planos Acotados.
+  Representación de cubiertas.
+
+
+
+Práctica 10. Sistema de Planos Acotados.
+  Superficies Topográficas. Intersecciones. Perfiles
+  longitudinales y explanaciones.
+
+
+
+Práctica 11. Sistema Axonométrico
+  Ortogonal. Representación de cuerpos.
+
+
+
+Práctica 12. Sistema Axonométrico
+  Ortogonal. Secciones planas.
+
+'

@@ -1,0 +1,35 @@
+'
+
+
+
+Motores de búsqueda. Recuperación de
+    información en la web. Recuperación multimodal y
+    multilingüe. Minería de textos.
+
+
+
+TEORÍA
+Módulo I: Fundamentos de los Sistemas de
+Recuperación de Información (SRI)
+T1. Introducción.
+T2. Análisis léxico.
+T3. Modelo de recuperación booleano
+T4. Modelo de recuperación espacio-vectorial
+T5: Modelo de recuperación probabilístico
+T6: Evaluación de SRI
+Módulo II: SRI avanzados
+T7: Recuperación de información web.
+T8: Recuperación de información multimodal.
+T9: Recuperación de información subjetiva
+Módulo III: Aplicaciones de los SRI
+T11: Técnicas avanzadas
+T12: Motores de búsqueda
+ 
+PRÁCTICAS:
+Práctica 1: Desarrollo de un sistema de
+recuperación de información
+Práctica 2: Mejoras al sistema de recuperación de
+información
+Práctica 3: Implementación y uso de sistemas de RI
+de software libre
+'

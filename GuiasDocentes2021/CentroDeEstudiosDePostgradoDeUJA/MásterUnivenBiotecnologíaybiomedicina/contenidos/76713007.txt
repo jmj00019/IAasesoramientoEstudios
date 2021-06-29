@@ -1,0 +1,65 @@
+'
+
+La industria del diagnóstico biotecnológico:
+sectores, productos, principales empresas, impacto
+económico. Estrategias de identificación de
+biomarcadores
+de uso diagnóstico. Normativa de producción y
+comercialización de productos de diagnóstico
+biotecnológico. Producción y aplicaciones de
+anticuerpos
+monoclonales: Inmunohistoquímica, Hibridación
+in situ, Citometría de flujo, Biosensores,
+tecnologías de modificación de anticuerpos,
+producción
+industrial de anticuerpos para diagnóstico.
+Biología molecular en diagnóstico I: Técnicas
+de cuantificación de ADN/ARN y sus aplicaciones
+diagnósticas
+(RT-PCR, Microarrays de expresión, CGH y microARNs en
+diagnóstico clínico). Biología molecular en
+diagnóstico II: técnicas de genotipado
+de SNPs a escala baja, media y masiva (Veracode, GWAS).
+Aplicaciones en descubrimiento de biomarcadores y
+diagnóstico clínico. Cálculo de haplotipos
+y fases de cromosomas así como sus aplicaciones.
+Técnicas avanzadas de secuenciación masiva (NGS) y su
+uso en diagnóstico. Principales estrategias
+de análisis de datos.
+
+1. La citología e histología molecular en el
+diagnóstico clínico:
+1.1. Inmunohistoquímica (anticuerpos monoclonales y
+policlonales)
+1.2. Hibridación in situ
+2. Citometría de flujo
+3. Biosensores
+4. Biología molecular en diagnóstico
+clínico I:
+4.1. Cuantificación de la expresión
+génica mediante PCR en tiempo real y sus aplicaciones
+4.2. Técnicas de PCR en tiempo real múltiple
+para diagnóstico
+5. Biología molecular en diagnóstico
+clínico II:
+5.1. Técnicas avanzadas de secuenciación masiva
+de ADN
+5.2. Técnicas de genotipado de SNPs por PCR en tiempo
+real
+5.3. Técnicas de genotipado masivo (veracode,
+Illumina, etc.)
+5.4. Técnicas de genotipado de variación de
+número de copias y microsatélites
+5.5. Cálculo de haplotipos y cuantificación del
+riesgo genético
+5.6. Microarrays de expresión, CGH y microRNAs en
+diagnóstico clínico, aplicación a la
+caracterización de
+tumores y la receptividad endometrial.
+6. Análisis de paternidades y genética forense
+7. Consejo genético y cálculo de probabilidades
+8. Biotecnología de producción de reactivos de
+diagnóstico
+9. Normativa, legislación y patentes en
+diagnóstico molecular
+'

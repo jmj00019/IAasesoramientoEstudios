@@ -1,0 +1,500 @@
+'
+
+Tarificación eléctrica y mercado eléctrico
+Ahorro energético en motores y transformadores
+Compensación de energía reactiva Ahorro y eficiencia
+energética
+en redes eléctricas Influencia de los armónicos en
+la eficiencia eléctrica Ahorro energético en
+iluminación Sistemas de control de ahorro
+energético
+ 
+
+
+
+CONTENIDOS
+  TEÓRICOS
+
+
+
+ 
+
+
+
+TEMA
+  1.  INTRODUCCIÓN. GENERALIDADES
+
+
+1.1.
+Introducción.
+
+1.2.
+Modelos de utilización de la energía.
+
+1.3. Aspectos
+  sociológicos del consumo/generación de
+  energía.
+
+
+1.4. La
+demanda de energía en el futuro.
+Horizonte
+2020-2050.
+
+1.5. Smart
+Cities y Smart Grids.
+Redes
+Inteligentes para la Transición Energética.
+Estrategia 2050 de la Unión Europea.
+
+1.6.
+  Recursos energéticos y limitaciones geopolíticas y
+  sociales.
+
+
+1.7. Problemas,
+  riesgos e incertidumbres.
+
+
+1.8.
+  Normativa.
+
+
+1.9.
+  Conclusiones.
+
+
+
+ 
+
+
+
+TEMA
+  2.  FUENTES ENERGÉTICAS
+
+
+2.1.
+  Introducción. Definiciones.
+
+
+2.2. Tipos
+  de energía. Clasificación.
+
+
+2.3. Conversión
+  energética.
+
+
+2.4.
+  Unidades utilidades en la conversión. 
+
+
+2.5. Fuentes
+  primarias de energía para la producción de
+  electricidad
+
+
+2.6. Energía
+  Eléctrica. Sistemas eléctricos
+
+
+2.7. Estructura
+  de la potencia eléctrica instalada, generada y
+  consumida.
+
+
+2.8. Producción
+  de energía eléctrica y su importancia en el
+  desarrollo de la sociedad.
+
+
+2.9. Índices
+Energéticos.
+
+2.10.
+  Conclusiones.
+
+
+ 
+
+
+
+TEMA 3.
+  MERCADOS ENERGÉTICOS
+
+
+3.1. El
+  Mercado Eléctrico/Energético en
+  España.
+
+
+3.2.
+  Evolución histórica.
+
+
+3.3. La
+  situación energética en países de la
+  Unión Europea y en el mundo.
+
+
+3.4. El
+  futuro en los mercados energéticos hacía la
+  transición energética y los sistemas
+  inteligentes.
+
+
+3.5.
+  Conclusiones y trabajo del alumnado.
+
+
+
+ 
+
+
+
+TEMA 4.
+  OPTIMIZACIÓN DEL CONSUMO ENERGÉTICO
+
+
+4.1.
+  Introducción.
+
+
+4.2.
+  Consumos energéticos de una instalación.
+
+
+4.3. El
+  consumo de energía eléctrica. Energía y
+  potencia de una instalación.
+
+
+4.4.
+  Facturación, modelos y sistemas de ahorro.
+
+
+4.5.
+Equipos de medida y control.
+
+4.6.
+  Sistemas inteligentes de gestión y medida
+  energética.
+
+
+4.7.
+  Conclusiones y trabajo del alumnado
+
+
+
+ 
+
+
+
+TEMA 5.
+  APROVECHAMIENTO Y AHORRO ENERGÉTICO EN REDES
+  ELÉCTRICAS INTELIGENTES. HACÍA LA TRANSICIÓN
+  ENERGÉTICA.
+
+
+5.1.
+  Introducción a la transición energética,
+  conceptos y generalidades.
+
+
+5.2. Las
+  redes eléctricas inteligentes y su contribución a
+  la eficiencia energética
+
+
+5.3.
+  Modelos de redes eléctricas
+
+
+5.4.
+  Sistemas de mejora de las redes inteligentes.
+  Automatización, control y gestión
+  energética.
+
+
+5.5.
+  Conclusiones y trabajo del alumnado.
+
+
+
+ 
+
+
+
+TEMA 6.
+  SISTEMAS DE AHORRO ENERGÉTICO EN INSTALACIONES
+  ELÉCTRICAS
+
+
+6.1.
+  Introducción. Definiciones.
+
+
+6.2.
+  Efectos del consumo de energía reactiva en la eficiencia
+  energética.
+
+
+6.3.
+Compensación de energía reactiva y mejora de la
+eficiencia.
+
+6.4.
+  Ahorro y eficiencia mediante sistemas inteligentes, control y
+  automatización.
+
+
+6.5.
+  Energías renovables para el ahorro
+  energético.
+
+
+6.6.
+  Código técnico de la edificación en
+  España, normativa y aplicaciones.
+
+
+6.7.
+  Casos prácticos, proyectos y conclusiones.
+
+
+ 
+
+
+
+TEMA 7.
+  AUDITORIA ENERGÉTICA
+
+
+7.1.
+  Introducción. Definiciones.
+
+
+7.2.
+  Tipos de auditorías energéticas.
+
+
+7.3.
+  Niveles y fases de la auditoría
+
+
+7.4.
+  Requisitos necesarios para la realización de la
+  auditoría.
+
+
+7.5.
+  Influencia de la auditoría en la planificación
+  energética de una instalación
+
+
+7.6.
+  Balance de materia y energía en las operaciones
+  básicas.
+
+
+7.7.
+  Sistemas inteligentes para la gestión y
+  automatización energética.
+
+
+7.8.
+  Normativa para la realización de auditoria
+  energética.
+
+
+7.9.
+Ejemplos de auditorías energéticas. Casos
+prácticos.
+
+7.10.
+  Conclusiones y trabajo del alumnado.
+
+
+ 
+
+
+
+TEMA 8.
+  APROVECHAMIENTO Y AHORRO ENERGÉTICO EN INSTALACIONES
+  INDUSTRIALES, COMERCIALES Y AGRÍCOLAS
+
+
+8.1.
+  Introducción a las instalaciones energéticas
+  industriales, comerciales y agrícolas.
+
+
+8.2.
+  Eficiencia y ahorro energético en la industria, comercio y
+  en el sector agrícola.
+
+
+8.3.
+  Sistemas de gestión energética inteligente en la
+  industria, comercio y en el sector agrícola.
+
+
+8.4.
+  Mejora de la productividad derivada del ahorro energético
+  industrial, comercial y agrícola.
+
+
+8.5.
+  Sistemas de ahorro energético en el sector del
+  olivar.
+
+
+8.6.
+  Proyectos y casos prácticos.
+
+
+ 
+
+
+
+TEMA 9.
+  APROVECHAMIENTO Y AHORRO ENERGÉTICO EN INSTALACIONES
+  RESIDENCIALES
+
+
+9.1.
+  Introducción a las instalaciones energéticas
+  residenciales.
+
+
+9.2.
+  Eficiencia y ahorro energético en el sector
+  residencial
+
+
+9.3.
+  Sistemas de gestión energética inteligente en el
+  sector residencial
+
+
+9.4.
+  Mejora de la productividad derivada del ahorro energético
+  residencial.
+
+
+9.5.
+  Proyectos y casos prácticos.
+
+
+ 
+
+
+
+TEMA 10.
+  EFICIENCIA Y AHORRO ENERGÉTICO EN INSTALACIONES DE
+  ILUMINACIÓN
+
+
+10.1.
+  Introducción.
+
+
+10.2.
+  Aplicaciones eficientes en el sistema de iluminación y
+  Análisis de luminarias.
+
+
+10.3.
+  Equipos auxiliares, control y regulación.
+
+
+10.4.
+  Sistemas eficientes de control y regulación de alumbrado
+  de interiores.
+
+
+10.5.
+  Sistemas eficientes de control y regulación de alumbrado
+  de exteriores.
+
+
+10.6.
+  Equipos de medida y certificación
+  energética.
+
+
+10.7.
+  Conclusiones
+
+
+
+ 
+
+
+
+TEMA
+  11.- CERTIFICACIÓN ENERGÉTICA DE
+  INSTALACIONES MEDIANTE SIMULACIÓN
+
+
+11.1.
+  Introducción.
+
+
+11.2.
+Herramientas informáticas de certificación
+energética.
+
+11.3.
+  Certificación energética de edificios
+  residenciales
+
+
+11.4.
+  Certificación energética del sector industrial y
+  terciario.
+
+
+11.5.
+  Casos prácticos y proyectos.
+
+
+11.6.
+  Trabajo del alumnado
+
+
+
+ 
+
+
+
+CONTENIDOS
+  PRÁCTICOS
+
+
+Práctica
+1: Redes Inteligentes y su aportación a la sostenibilidad.
+Hacía un modelo de transición
+energética.
+
+Práctica
+  2: Optimización de la facturación eléctrica
+  y energética.
+
+
+Práctica
+  3: Análisis del consumo y eficiencia de la energía
+  reactiva
+
+
+Práctica
+  4: Análisis del consumo y eficiencia energética en
+  instalaciones de iluminación.
+
+
+Práctica
+  5. Certificación Energética de Edificio, mediante
+  software.
+
+ 
+'

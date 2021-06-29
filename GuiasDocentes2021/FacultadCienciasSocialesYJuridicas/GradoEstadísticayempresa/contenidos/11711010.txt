@@ -1,0 +1,73 @@
+'
+
+
+Contrastes paramétricos
+Contrastes no paramétricos
+Contrastes asociados a la verificación de modelos
+
+
+Tema 1.- Introducción a la inferencia
+estadística.
+
+Test de hipótesis
+Métodos paramétricos frente a no
+  paramétricos
+
+Tema 2.- Procedimientos para una muestra.
+
+Inferencia sobre parámetro de localización
+Inferencia sobre parámetro de dispersión
+Inferencia sobre una proporción poblacional
+Pruebas de aleatoriedad
+
+Tema 3.- Bondad de ajuste.
+
+Test chi-cuadrado de bondad de ajuste
+Contraste de Kolmogorov-Smirnov
+Otros contrastes de normalidad
+
+Tema 4.- Procedimientos para dos muestras independientes.
+
+Inferencia sobre la diferencia de dos parámetros de
+  localización
+Inferencia sobre la igualdad de dos parámetros de
+  dispersión
+Otros tests
+
+ Tema 5.- Procedimientos para dos muestras
+relacionadas.
+
+Inferencia sobre parámetros de
+  localización
+Contraste de igualdad de proporciones
+Otros tests
+
+Tema 6.- Tests de independencia.
+
+Medidas de asociación
+Test chi-cuadrado de independencia
+Test chi-cuadrado de homogeneidad
+
+ Tema 7.- Procedimientos para tres o más muestras
+independientes.
+
+Contrastes de igualdad de medias
+Comparaciones múltiples
+Contrastes de igualdad de varianzas
+Otros tests
+
+ Tema 8.- Procedimientos para tres o más muestras
+relacionadas.
+
+Contrastes de igualdad de medias
+Comparaciones múltiples
+Otros tests
+
+ Tema 9.- Otros procedimientos para la verificación
+de modelos.
+
+Análisis de residuos
+Procedimientos gráficos
+Otros tests
+
+'

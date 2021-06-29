@@ -1,0 +1,11 @@
+(73912002,'Criminología y prevención del delito','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912002/es/2020-21-73912002_es.html'),
+(73912001,'Política criminal de la seguridad','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912001/es/2020-21-73912001_es.html'),
+(73916001,'Trabajo fin de Máster','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73916001/es/2020-21-73916001_es.html'),
+(73912006,'La pena de prisión: determinación y aplicación judicial','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912006/es/2020-21-73912006_es.html'),
+(73912008,'Sistema penitenciario','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912008/es/2020-21-73912008_es.html'),
+(73912004,'Victimología','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912004/es/2020-21-73912004_es.html'),
+(73912010,'Delitos contra los derechos fundamentales de detenidos y presos','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912010/es/2020-21-73912010_es.html'),
+(73912005,'Sistema de sanciones penales','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912005/es/2020-21-73912005_es.html'),
+(73912003,'Derechos humanos y sistema penal','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912003/es/2020-21-73912003_es.html'),
+(73912009,'Programa de tratamiento y servicios sociales','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912009/es/2020-21-73912009_es.html'),
+(73912007,'Alternativas a la pena de prisión','30','2020-21','https://uvirtual.ujaen.es/pub/es/informacionacademica/catalogoguiasdocentes/p/2020-21/205/739A/73912007/es/2020-21-73912007_es.html')

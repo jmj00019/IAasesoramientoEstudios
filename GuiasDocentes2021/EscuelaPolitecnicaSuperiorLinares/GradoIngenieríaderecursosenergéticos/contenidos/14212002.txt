@@ -1,0 +1,266 @@
+'
+
+CONTENIDOS BÁSICOS:
+- CIRCUITOS MAGNÉTICOS, ELÉCTRICOS Y
+CONVERSIÓN DE ENERGÍA
+- PRINCIPIOS GENERALES DE LAS MÁQUINAS
+ELÉCTRICAS
+- TRANSFORMADORES
+- MÁQUINAS ASÍNCRONAS O DE INDUCCIÓN
+- MÁQUINAS DE CORRIENTE CONTINUA
+- MÁQUINAS SINCRONAS
+
+
+
+UNIDAD 1. 
+  
+Circuitos Trifásicos. Circuitos Magnéticos,
+Eléctricos y Conversión de
+Energía.
+
+ 
+
+
+- Introducción
+
+
+- Fases y secuencia de fases
+
+
+- Fuentes trifásicas y
+  equivalencias                                            
+
+
+- Líneas y receptores
+  trifásicos
+
+
+- Tensiones y corrientes de fase y de
+  línea
+
+
+- Análisis de circuitos
+  trifásicos
+
+
+- Circuito trifásico
+  equilibrado y monofásico equivalente
+
+
+- Potencia instantánea y
+  potencia media
+
+
+- Potencias activa, reactiva y
+  aparente
+
+
+- Potencia compleja y
+  triángulo de potencias
+
+
+- Balance de potencias. Teorema de
+  Boucherot
+
+
+- Medida de potencias activa y
+  reactiva.
+
+
+
+ 
+
+
+
+ 
+
+
+
+UNIDAD 2: Generalidades de las
+  Máquinas Eléctricas
+
+
+ 
+
+
+- Circuitos Magnéticos y
+  Conversión de Energía
+
+
+- Principios Generales de las
+  Máquinas Eléctricas        
+         
+
+
+
+- 
+Transformadores
+
+- Motores. Máquinas
+  Asíncronas de Inducción
+
+
+- Generadores. Máquinas
+  Síncronas
+
+
+
+ 
+
+
+
+ 
+
+
+
+UNIDAD 3.
+  Transformadores
+
+
+ 
+
+
+- Introducción
+
+
+- Aspectos constructivos
+
+
+- Principio de funcionamiento
+
+
+- Circuito equivalente
+
+
+- Pérdidas y
+  rendimiento
+
+
+- Ensayos
+
+
+
+ 
+
+
+
+ 
+
+
+
+UNIDAD 4. Máquinas de
+  corriente continua
+
+
+
+ 
+
+
+
+-
+ Introduccción
+
+- Aspectos constructivos
+
+
+- Principio de funcionamiento
+
+
+- Generadores
+
+
+- Motores
+
+
+
+ 
+
+
+
+ 
+
+
+
+UNIDAD 5. Máquinas
+  asíncronas
+
+
+- Introducción
+
+
+- Ensayos, potencias y arranque del
+  motor asíncrono
+
+
+- Dinámica del motor
+  asíncrono.
+
+
+- Motor de induccion
+  monofásico.
+
+
+- Regulación de
+  velocidad
+
+
+
+ 
+
+
+
+ 
+
+
+
+UNIDAD 6. Máquinas
+  síncronas
+
+
+
+ 
+
+
+
+-
+
+I
+ntroducción.
+
+- Principio de funcionamiento del
+  alternador
+
+
+- Análisis lineal de la
+  máquina síncrona: el circuito equivalente.
+
+
+- Análisis no lineal de la
+  máquina síncrona. Regulación de
+  tensión.
+
+
+- Funcionamiento del alternador en
+  una red aislada. Acoplamiento a la red.
+
+
+- Potencias.
+
+
+
+ 
+
+
+
+PRÁCTICAS
+
+
+- Prácticas de Máquinas
+  Eléctricas
+
+
+- Práctica de
+  Compensación de Energía Reactiva.
+  Simulación
+
+'

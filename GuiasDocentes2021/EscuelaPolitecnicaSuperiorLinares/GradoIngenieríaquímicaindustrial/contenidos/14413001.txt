@@ -1,0 +1,20 @@
+'
+
+
+Bloque
+  I: Introducción
+
+Bloque II: Biocombustibles
+sólidos
+Bloque III: Biocombustibles
+líquidos
+Bloque IV: Biocombustibles
+gaseosos
+
+Programa teórico: Introducción- Procesos
+Tecnológicos- Biomasa- Biodiesel- Bioetanol- Biogas- Impacto
+ambiental del uso de combustibles
+Programa de prácticas: Haciendo biodiesel- Caracterizando
+biodiesel- Haciendo bioetanol- Caracterizando bietanol-
+Caracterizando biomasa
+'

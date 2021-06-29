@@ -1,0 +1,185 @@
+'
+
+Técnicas analíticas de separación:
+técnicas no cromatográficas y cromatográficas.
+Hibridación instrumental. Aplicaciones de las principales
+técnicas instrumentales empleadas en Química
+Analítica: cromatográficas, ópticas,
+electroquímicas, etc.
+
+
+TEMA
+  1. INTRODUCCIÓN.
+
+
+1.
+  Análisis de trazas. 2. Problemática del
+  análisis de trazas en muestras complejas. 3. Tratamiento
+  de muestras. 4. Análisis de un sólo componente y
+  análisis multicomponente. 5. Etapa de
+  determinación. 6. Técnicas de separación en
+  Química Analítica. 7. Clasificación de las
+  técnicas de separación.
+
+TEMA 2.- INTRODUCCIÓN A LA
+CROMATOGRAFÍA
+
+1.Breve
+  historia 2. Definiciones y clasificación de las
+  técnicas cromatográficas. 3. El proceso
+  cromatográfico.4. Parámetros en
+  cromatografía. 5. Teoría cinética de la
+  cromatografía. 6. Estimación experimental de N y H.
+  7. Influencia de la velocidad de la fase móvil:
+  Ecuación de Van Deemter. 8. Optimización de un
+  análisis cromatográfico. 9. Resolución de la
+  columna. 10. Eficiencia de la columna. 11. Separación y
+  resolución: Factores que influyen. 12. El problema general
+  de la elución. 13. Análisis cualitativo y
+  cuantitativo en cromatografía.
+
+TEMA 3.- CROMATOGRAFÍA DE
+GASES
+
+1.Introducción.
+  2. Clasificación. 3. Instrumentación de
+  cromatografía de gases. 4. Gas portador. 5. Columna
+  cromatográfica. 6. Inyectores y sistema de muestreo. 7.
+  Fases estacionarias. 8. Temperatura en cromatografía de
+  gases. 9. Detectores. 10. Cromatografía multidimensional.
+  11. Aplicaciones.
+
+TEMA 4.- CROMATOGRAFÍA
+LÍQUIDA DE ALTA RESOLUCIÓN
+
+1.Introducción.
+  2. Instrumentación en cromatografía líquida
+  de alta resolución (HPLC). 3. Bombas. 4. Sistemas de
+  inyección. 5. Columnas. 6. Fases estacionarias. 7.
+  Cromatografía quiral. 8. Fases móviles. 9.
+  Detectores en HPLC. 10 Modos de trabajo en HPLC. 11. Efecto de la
+  temperatura en HPLC. 12. HPLC de ultra-elevada presión
+  (UHPLC). 13. Cromatografía multidimensional. 14. El empleo
+  de flujos reducidos en HPLC: HPLC analítico,
+  cromatografía capilar y cromatografía de
+  nanoflujos. 15. Aplicaciones analíticas de la HPLC.
+
+TEMA 5.- CROMATOGRAFÍA
+IÓNICA
+1. Fundamento de la
+cromatografía iónica. 2. Fases estacionarias. 3.
+Fases móviles. 4. Detectores de conductividad. 5. El
+supresor de iones.
+TEMA
+6.- OTRAS TÉCNICAS CROMATOGRÁFICAS DE
+INTERÉS
+
+1.Cromatografía
+  de exclusión por tamaño. 2. Cromatografía en
+  capa fina de alto rendimiento. 3. Cromatografía de fluidos
+  supercríticos
+
+TEMA
+7.- ELECTROFORESIS CAPILAR. 
+
+1.Evolución
+  histórica de la electroforesis. 2. Fundamento de la
+  electroforesis capilar y conceptos básicos. 3.
+  Fenómenos de migración: Movilidad
+  electroforética y flujo electroosmótico. 4.
+  Instrumentación en electroforesis capilar: Sistemas de
+  introducción de muestra y sistemas de detección 5.
+  Modos de separación en electroforesis capilar:
+  Electroforesis capilar de zona. Isotacoforesis capilar.
+  Isoelectroenfoque capilar. Cromatografía
+  electrocinética micelar. Electroforesis capilar en gel.
+  Electrocromatografía capilar. 6. Aplicaciones
+  analíticas.
+
+TEMA
+8.- TÉCNICAS DE TRATAMIENTO DE MUESTRA PARA ANÁLISIS
+DE TRAZAS
+
+1.Necesidad
+  de los tratamientos previos. 2. Solubilización y
+  tratamientos previos. 3. Concepto y necesidad de
+  extracción. 4. Extracción
+  líquido-líquido. 5.Extracción en fase
+  sólida (SPE). 6. Microextracción en fase
+  sólida (SPME). 7. Extracción con barras de
+  agitación absorbentes (SBSE). 8. Técnicas de
+  espacio de cabeza (HS). 9. Extracción de muestras
+  sólidas por dispersión de matriz en fase
+  sólida (MSPD). 10. Extracción Soxhlet. 11.
+  Extracción con disolventes acelerada (con fluidos
+  presurizados (PLE, ASE) y microondas). 12. Extracción con
+  fluidos supercríticos (SFE).
+
+TEMA 9.- INTRODUCCCIÓN A LA ESPECTROMETRÍA DE
+MASAS MOLECULAR
+
+1.El
+  espectrómetro de masas 2. Elementos de un
+  espectrómetro de masas. 3. La etapa de ionización
+  en espectrometría de masa: a) Ionización por
+  impacto electrónico (EI); b) Ionización a
+  presión atmosférica por 
+  electrospray (ESI); c) Ionización química
+  a presión atmosférica (APCI); d) Ionización
+  por desorción con láser asistida por matriz
+  (MALDI). 4. Analizadores empleados en espectrometría de
+  masas. 5. Detectores de iones. 6. Espectrometría de masas
+  en tándem: instrumentación y experimentos
+  típicos. 7. Fragmentación en espectrometría
+  de masas. 8. Espectrometría de masas de alta
+  resolución. 9. Introducción a la
+  interpretación de espectros de masas.
+
+TEMA
+10.- HIBRIDACIÓN INSTRUMENTAL: ACOPLAMIENTOS
+CROMATOGRAFÍA/ ESPECTROMETRÍA DE MASAS
+
+1.Instrumentación.
+  2. Aplicaciones
+
+TEMA 11.- ESPECTROMETRÍA DE
+MASAS ELEMENTAL Y SU HIBRIDACIÓN CON TÉCNICAS DE
+SEPARACIÓN.
+
+1.Espectrometría
+  de masas con ionización con plasma acoplado inductivamente
+  (ICP-MS): fundamento, instrumentación y aplicaciones. 2.
+  Hibridación de las técnicas cromatográficas
+  con ICP-MS y otras técnicas de detección
+  atómica. 3 Aplicaciones en especiación
+  elemental.
+
+
+PROGRAMA
+  DE PRÁCTICAS y SEMINARIOS
+  
+
+
+
+Resolución
+    de problemas y empleo de simulador para CG y/o HPLC
+
+
+Aplicaciones
+    analíticas de HPLC
+
+
+Aplicaciones
+    analíticas de C.G.
+
+
+Estudio
+    de técnicas de tratamiento de muestra
+
+
+Introducción
+    a la interpretación de espectros de masas
+
+
+ 
+'

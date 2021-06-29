@@ -1,0 +1,64 @@
+'
+
+Técnicas rápidas en microbiología de
+alimentos. Identificación y tipificación de cepas
+microbianas mediante técnicas moleculares basadas en el ADN.
+Identificación mediante MALDI-TOF. Análisis de
+secuencias para la identificación de microorganismos.
+Métodos independientes de cultivo para el estudio
+de las comunidades microbianas en alimentos: DGGE, TTGE, y
+tecnologías basadas en la secuenciación masiva de
+ADN.
+
+
+1.-
+  Extracción de ADN bacteriano 
+
+-Extracción de ADN a partir
+de cultivo puro   
+
+-
+  Extracción de ADN (a partir de colonias) 
+   - Extracción de ADN a partir de alimentos 
+   - Determinación de la concentración de
+  ADN 
+   - Electroforesis de ADN 
+   - Coloración y visualización del ADN en
+  geles de poliacrilamida
+
+
+ 
+
+
+2.-
+  Identificación de microorganismos mediante
+  PCR 
+
+
+-
+  Amplificación del ADN mediante la Reacción en
+  Cadena de la Polimerasa. 
+   - Identificación de las cepas aisladas mediante
+  secuenciación del ADN 16S. Análisis comparativo de
+  secuencias.
+
+
+
+ 3.- Tipado molecular de cepas microbianas 
+   - Tipado Molecular de las cepas aisladas mediante la
+  técnica de RAPD (Randomly Amplified Polymorphic 
+   DNA). Otras técnicas de
+  tipificación. 
+
+
+
+ 4.- Estimación de la diversidad microbiana.
+  Técnicas clásicas y nuevas
+  tecnologías.  
+   - Extracción de ADN total del alimento a
+  analizar 
+   - Estrategias basadas en la amplificación de la
+  región hipervariable del ADN 16S mediante PCR 
+
+ 
+'

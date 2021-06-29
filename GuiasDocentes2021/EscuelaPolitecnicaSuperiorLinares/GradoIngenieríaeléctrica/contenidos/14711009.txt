@@ -1,0 +1,22 @@
+'
+
+Algebra Lineal,
+Geometría.
+Cálculo Diferencial e Integral para funciones de una
+variable.
+
+
+Desarrollo del Programa:
+
+Tema 1. Introducción al conjunto de los números
+complejos.
+Tema 2. Funciones reales de variable real. Límite.
+Continuidad.
+Tema 3. Funciones derivables.
+Tema 4. Integración.
+Tema 5. Matrices. Determinantes.
+Tema 6. Espacios vectoriales.
+Tema 7. Valores y vectores propios de una matriz.
+Tema 8. Geometría.
+ 
+'

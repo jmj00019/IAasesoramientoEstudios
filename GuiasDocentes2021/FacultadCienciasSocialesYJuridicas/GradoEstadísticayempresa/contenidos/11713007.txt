@@ -1,0 +1,100 @@
+'
+
+Sistemas de organización de los canales
+logísticos. Las empresas de logística,
+tipología básica, Decisiones estratégicas en
+empresas de gestión logística, Las funciones
+logísticas, Colaboración en la Cadena
+Logística, Gestión de la Logística
+Electrónica, Canales logísticos electrónicos,
+Sistemas Integrados de Gestión de la Cadena de Suministro,
+Planificación de los Recursos de Distribución,
+Respuesta Rápida al Consumidor, Aprovisionamiento
+Electrónico, e-fulfillment.
+
+
+
+BLOQUE I: LA LOGÍSTICA EMPRESARIAL Y LA CADENA
+    DE SUMINISTROS: CONCEPTOS BÁSICOS
+
+
+
+Conceptos
+  de logística, distribución y gestión de la
+  cadena de suministro. Las funciones
+  logísticas. Las empresas logísticas
+  tipología básica. La cadena de
+  suministros. Naturaleza e importancia estratégica de
+  la cadena logística. Planificación
+  estratégica de la logística y de la cadena de
+  suministros: objetivos y estrategias. Implantación de
+  las estrategias y control de su desempeño.
+
+
+
+BLOQUE II: ESTRATEGIA
+DE INVENTARIOS
+
+
+Introducción. Utilidad
+  y coste del inventario. Clases de Inventario. La
+  gestión de inventarios. Modelos de inventario para demanda
+  independiente. Modelos de inventario para demanda
+  dependiente.
+
+
+
+BLOQUE III: LOGÍSTICA DE ALMACENES
+
+
+
+Función
+  del almacén. Clasificación de los almacenes:
+  según naturaleza del producto; según la
+  función logística; según las manipulaciones;
+  según el tipo de estanterías de 
+  palets; almacenes automáticos. Elementos de
+  manipulación. Diseño del
+  almacén. Organización del
+  almacén. Tecnología y variables de
+  control. El 
+  Picking o preparación de pedidos: Equipos
+  especiales para el 
+  picking. Métodos operativos de 
+  picking. Picking y nuevas tecnologías.
+
+
+
+BLOQUE IV: LOGÍSTICA DE
+    DISTRIBUCIÓN
+
+
+
+Canales
+  y estrategias de distribución. Planificación
+  de la distribución. Tendencias en la
+  distribución. Logística integral. Nivel
+  de servicio. Distribución física:
+  transporte.  
+
+
+
+BLOQUE V: LA LOGÍSTICA EN EL COMERCIO
+    ELECTRÓNICO
+
+
+
+El
+  comercio electrónico. Tipos de comercio
+  electrónico. Elementos típicos de un sitio de
+  comercio electrónico. Gestión de la
+  logística electrónica. Canales
+  logísticos electrónicos. Respuesta
+  rápida al consumidor: las entregas. Aprovisionamiento
+  electrónico: 
+  e-procurement. Una visión integral: 
+  e-fulfillment. Problemas logísticos en el
+  comercio electrónico. Estrategias de
+  solución.
+
+'

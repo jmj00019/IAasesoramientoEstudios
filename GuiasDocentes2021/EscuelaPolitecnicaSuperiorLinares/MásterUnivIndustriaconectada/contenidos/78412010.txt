@@ -1,0 +1,124 @@
+'
+
+En esta asignatura el alumno
+conocerá herramientas de Big Data que podrán ser
+empleadas junto con técnicas de aprendizaje
+automático para extraer información útil
+aplicable a procesos industriales. En el laboratorio se
+realizarán actividades prácticas sobre cada uno de
+esos aspectos:
+· Introducción a
+aplicaciones de Big Data.
+· Métodos de aprendizaje automático para
+extracción de información relevante.
+· Estudio del empleo de esas técnicas en casos
+concretos del  ámbito de la ingeniería.
+
+Teoría
+
+Tema 1. Ciencia de Datos, analítica avanzada y big
+data
+o La era de los datos, científico de datos,
+minería de datos y KDD, aplicaciones
+o Interpretabilidad vs. Precisión
+o Big Data: las tres 'V'. Presencia en medios e impacto
+económico
+o Casos reales: sistemas de recomendación en Amazon y
+Netflix, transacciones de tarjetas de crédito,
+epidemiología, redes sociales
+o Software: Weka, KNIME, KEEL, scikit-learn (Python), R...
+o Competición Kaggle
+o Hacia dónde vamos, errores comunes,
+tecnología emergente, evolución de popularidad
+
+Tema 2. Preprocesamiento: selección y procesado de
+instancias y características, tratamiento del ruido
+o Importancia del preprocesamiento
+o Integración, limpieza, normalización,
+transformación... 
+o Valores perdidos
+o Datos con ruido
+o Selección de variable e instancias
+o Discretización: CAIM
+
+Tema 3. Fundamentos de clasificación: árboles
+de decisión, lazy, RNA, bayesianos, evaluación
+o Definición del problema
+o Etapas en el proceso de clasificación
+o Clasificadores basados en instancias: lazy learning y
+vecinos cercanos
+o Árboles de decisión e inducción de
+reglas: ID3 y C4.5
+o Redes neuronales: MLP, RBFN
+o Métodos bayesianos: Naïve Bayes,
+o Evaluación: métricas, métodos,
+comparación, ROC
+
+Tema 4. Segmentación y relaciones: clustering y reglas
+de asociación
+o Aprendizaje no supervisado
+o Clustering: definición, análisis, medidas de
+distancia y similaridad, métodos de particionamiento,
+k-means, métodos jerárquicos aglomerativos y
+divisivos
+o Reglas de asociación: market basket analysis,
+conceptos, asociaciones booleanas y cuantitativas, unidimensionales
+y multidimensionales, soporte y confianza, algoritmo Apriori,
+medidas de interés, lift, otros algoritmos (FP-Growth, OPUS,
+QAR).
+
+Tema 5. Aprendizaje incremental y data stream mining
+o Introducción y definición. 
+o Minería de flujo de datos.
+o Software y plataformas de flujo de datos.
+
+
+Tema 6. Exploración y visualización de los
+datos
+o Introducción y ejemplos. 
+o Tipos de representaciones gráficas. 
+o Análisis exploratorio de datos
+o Software para visualización de datos.
+ 
+Tema 7. Big data: fundamentos y paradigmas
+o Las 3+5 'V' 
+o Paradigma MapReduce
+o Ecosistema Hadoop, Spark
+o Mahout, MLlib, FlinkML, H2O... 
+o Big data preprocessing
+o Bibliotecas para analítica de datos, casos de
+estudio
+o Aplicaciones reales
+
+Tema 8. Big data e Inteligencia Aritificial: ejemplos en
+Ingeniería
+ 
+Prácticas:
+Entorno KNIME:
+o Introducción
+o Instalación de KNIME
+o Introducción a la interfaz gráfica de KNIME:
+editor, nodos, manipulación de datos, visualización,
+etc.
+o Creación de un flujo de dato básico
+(WorkFlow)
+o Ejercicios básicos
+o Scripting in KNIME
+o Validación cruzada
+o Preprocesamiento en KNIME: selección de
+características, normalización, selección de
+prototipos, discretización, valores perdidos (missing
+values)
+o Técnicas de comparación entre métodos
+o Ejercicios avanzados
+Desarrollo de un proyecto de Descubrimiento de
+Información en bases de datos haciendo uso de la plataforma
+KNIME. El alumno escogerá un problema sobre el que trabajar
+de entre los ofrecidos y deberá realizar las diferentes
+tareas del proceso de descubrimiento de conocimiento:
+- Preparación de los datos (Práctica 1)
+- Extracción de modelos mediante técnicas de
+minería de datos (Práctica 2)
+- Visualización de los resultados (Práctica 3)
+- Validación de los modelos (Práctica 4)
+'

@@ -1,0 +1,49 @@
+'
+
+BLOQUE I: Leyes Físicas de la Mecánica.
+BLOQUE II: Estática.
+BLOQUE III: Dinámica.
+
+TEMA 1: CINEMÁTICA 1.1.
+Introducción. 1.2. Velocidad y aceleración. 1.3.
+Movimiento con aceleración
+constante. 1.4. Movimiento circular uniforme. 1.5. Movimiento
+relativo. TEMA 2: LEYES DE NEWTON
+PARA EL MOVIMIENTO 2.1. Introducción. 2.2. Leyes de
+Newton. 2.3. Las fuerzas de la Naturaleza. 2.4.
+Polipastos. 2.5. Fuerzas de inercia. TEMA 3: TRABAJO Y
+ENERGÍA. CONSERVACIÓN DE LA ENERGÍA
+3.1. Introducción. 3.2. Trabajo y potencia. 3.3.
+Teorema de la energía cinética. 3.4. Fuerzas
+conservativas.
+Energía potencial. 3.5. Energía
+mecánica. Conservación de la energía
+mecánica. TEMA 4: MOVIMIENTO
+DE UN SISTEMA DE PARTÍCULAS 4.1. Introducción.
+4.2. Centro de masas. Movimiento del Centro de
+masas. 4.3. Cantidad de movimiento. Conservación de la
+cantidad de movimiento. 4.4. Energía cinética de
+un sistema de partículas. 4.5. Colisiones. 4.6.
+Fuerzas impulsoras. 4.6. Movimiento de un cohete. TEMA 5:
+ESTÁTICA 5.1. Introducción. 5.2. Momento de una
+fuerza respecto a un punto y respecto a un eje. 5.3. Equilibrio
+estático de un
+cuerpo rígido. 5.4. El centro de gravedad. 5.5.
+Palancas. 5.6. Deformación elástica de
+sólidos. 5.7. Fuerzas en
+un armazón simple. 5.8. Análisis de vigas. TEMA
+6: DINÁMICA DE UN CUERPO RÍGIDO 6.1.
+Introducción.
+6.2. Cinemática de la rotación alrededor de un
+eje fijo. 6.3. Energía cinética rotacional: momento
+de inercia.
+6.4. Movimiento de rodadura. 6.5. Dinámica rotacional
+de un cuerpo rígido alrededor de un eje fijo. 6.6.
+Bandas de transmisión y ruedas dentadas. 6.7.
+Conservación del momento angular. TEMA 7: DINÁMICA DE
+FLUIDOS 7.1. Presión en un fluido estático.
+7.2. Instrumentos para la medida de la presión. 7.3.
+Principio de
+Arquímedes. 7.4. Fluidos en movimiento y
+ecuación de Bernoulli. 7.5. Flujo viscoso.
+'

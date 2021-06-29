@@ -1,0 +1,167 @@
+'
+
+
+----
+
+
+Análisis descriptivo de un
+  conjunto de datos
+
+
+Aspectos descriptivos de las
+  series cronológicas
+
+
+Números
+  índices
+
+
+Cálculo de
+  probabilidades
+
+
+----
+
+
+
+
+Introducción a la
+    estadística descriptiva
+
+
+
+
+Conceptos fundamentales de
+        estadística descriptiva
+
+
+Variables
+        estadísticas unidimensionales
+
+
+
+
+Tablas de frecuencias y
+            representaciones gráficas
+
+
+Medidas de
+            posición, dispersión y forma
+
+
+Medidas de
+            concentración
+
+
+
+
+
+
+Aspectos descriptivos de las
+    series cronológicas
+
+
+
+
+Introducción
+
+
+Componentes de una serie
+        cronológica
+
+
+Determinación de la
+        tendencia
+
+
+Determinación de la
+        componente estacional
+
+
+Desestacionalización
+
+
+
+
+Números
+  índices
+
+
+Índices simples
+
+
+Índices
+      compuestos
+
+
+Números índices
+      de precios, cantidades y valores
+
+
+Cambio de base,
+      renovación y empalme
+
+
+Deflactación de
+      series
+
+
+
+Introducción al
+  cálculo de probabilidades
+
+
+Definición de
+      probabilidad
+
+
+Probabilidad
+      condicionada
+
+
+Independencia
+      estocástica de sucesos
+
+
+Teoremas fundamentales del
+      cálculo de probabilidades
+
+
+
+Variable aleatoria
+
+
+Variables discretas.
+      Función masa de probabilidad
+
+
+Variables continuas.
+      Función de densidad
+
+
+Vectores aleatorios.
+      Características
+
+
+Independencia
+
+
+
+Modelos de distribuciones de
+  probabilidad
+
+
+Modelos de distribuciones
+      discretas
+
+
+Modelos de distribuciones
+      continuas
+
+
+Aproximaciones. Teorema
+      Central del Limite
+
+
+
+'

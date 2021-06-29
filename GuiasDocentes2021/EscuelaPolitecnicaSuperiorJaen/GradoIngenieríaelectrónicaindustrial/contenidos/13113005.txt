@@ -1,0 +1,76 @@
+'
+
+Componentes de los sistemas fotovoltaicos. Tipos de sistemas. El
+generador FV. Radiación incidente sobre planos
+inclinados.
+Sistemas fotovoltaicos conectados a la red: Estructura y
+funcionamiento, interconexión de subsistemas, inversores,
+conexión a red, diseño y dimensionado.
+Sistemas fotovoltaicos autónomos: Estructura y
+funcionamiento, acumuladores, acondicionamiento de potencia,
+diseño y dimensionado.
+
+Tema 0. Presentación de la asignatura. Contenidos,
+objetivos, cronograma y evaluación.
+Tema 1. El generador fotovoltaico.
+El módulo fotovoltaico. Características
+eléctricas. Análisis de los parámetros
+eléctricos proporcionados por el fabricante.
+Tecnología de fabricación de módulos
+comerciales. Eficiencia, precios, ventajas e inconvenientes. El
+generador FV. Comportamiento en condiciones reales de
+operación. Efecto de la irradiancia y de la
+temperatura. Potencia instantánea. Pérdidas.
+Aspectos relacionados con la integración de generadores
+fotovoltaicos en edificios. Tipos de integración,
+componentes específicos, etc. Acceso a datos
+metorológicos.
+Tema 2. Ingeniería de los sistemas fotovoltaicos
+conectados a la red.
+Inversores para conexión a red. Características
+generales. Tipos de inversores comerciales. Rendimiento y
+eficiencia. Parámetros eléctricos
+característicos de un inversor de conexión a red.
+Dimensionado del generador fotovoltaico y del
+acondicionamiento de potencia. Dimensionado del cableado. Seguridad
+y protecciones. Estimación de la producción
+eléctrica y balance energético de un sistema
+fotovoltaico conectado a la red. 
+Tema 3. Ingeniería de los sistemas fotovoltaicos
+autónomos.
+Acumuladores electroquímicos. Principios de
+funcionamiento y características. Dispositivos para el
+control y el acondicionamiento de potencia: Reguladores. Tipos y
+características técnicas. Dispositivos para el
+control y el acondicionamiento de potencia: Inversores. Tipos y
+características técnicas. Consideraciones sobre el
+tipo de cargas en SFA. Dimensionado de sistemas fotovoltaicos
+autónomos. Métodos de diseño. Diseño
+del cableado. Calculo de secciones y normativas
+aplicables. 
+Tema 4. Autoconsumo fotovoltaico.
+Definición de autooconsumo fotovoltaico y
+clasificación. Perfiles de consumo y generación.
+Parámtros de estudio: índices de autosuficiencia y
+autoconsumo. Métodos de optimización del autoconsumo
+fotovoltaico. Dimensionado básico de un sistema de
+autoconsumo fotovoltaico.
+Tema 5. Otros aspectos de interés para la asignatura.
+Monitorización de la Instalación.
+Justificación y directrices generales. Variables
+económicas de interés en un proyecto fotovoltaico.
+Presupuesto, tiempo de amortización, TIR, VAN,
+Particularidades del pliego de condiciones y del estudio de
+seguridad e higiene. Legislación aplicable. Tramitaciones,
+autorizaciones y licencias. Estudio de impacto medioambiental.
+PRACTICA 0: Introducción. Presentación y
+objetivos.
+PRACTICA 1: Fundamentos del diseño de sistemas
+fotovoltaicos conectados a la red.
+PRACTICA 2: Fundamentos del diseño de sistemas
+fotovoltaicos autónomos.
+PRACTICA 3: Diseño de sistemas fotovoltaicos con
+PVSyst.
+ 
+ 
+'

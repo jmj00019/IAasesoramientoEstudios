@@ -1,0 +1,175 @@
+'
+
+This course deals with aspects related to infrastructures and
+multidisciplinary services in which telecommunications are
+involved. This activity field is mainly based in the development of
+projects.  Thus, this course describes required concepts and
+techniques for good practices managing telecommunications projects
+by following an approach that encompasses both, a business and a
+technological point of view.
+
+This course provides study cases of projects and describes
+the methodology followed for their conception, direction,
+coordination, and technological and economic management. Thus, the
+practical sessions consists of Telecommunication projects proposals
+using PMBOK as a source of good practices in management..
+
+
+
+Theory
+  and problems
+
+
+
+
+Introduction
+    to project management.
+
+
+
+
+Definitions.
+
+
+Project
+    management organizational structures.
+
+
+Strategic
+    management.
+
+
+Project
+    lifecycle phases.
+
+
+Interaction
+    between management phases.
+
+
+
+
+
+Type
+    of projects, tenders and regulations.
+
+
+
+
+Introduction.
+
+
+Technical
+    projects (Classic Project).
+
+
+Industrial
+    Project
+
+
+Projects
+    Selection criteria
+
+
+
+
+
+Basics
+    of project management.
+
+
+
+
+Opportunity
+    detection
+
+
+Assessment
+    and planning of the project
+
+
+Offer
+    preparation
+
+
+Tracking
+    and control of the project
+
+
+Closure
+    of the project
+
+
+
+
+
+The
+    Telecommunication Engineer as a professional.
+
+
+
+
+Introduction
+
+
+The
+    Association of Telecommunication Engineers.
+
+
+Legal
+    aspects of the profession.
+
+
+Professional
+    liability.
+
+
+The
+    practice as a Telecommunication Engineer.
+
+
+
+
+Practical
+  units
+
+
+
+Practice
+  1. Evaluation of a project proposal in the following
+  fields:
+
+
+
+Systems,
+    networks, infrastructures and telecommunication systems.
+
+
+Common
+    telecommunication infrastructures in buildings or residential
+    areas, including digital home projects.
+
+
+Telecommunication
+    infrastructures in transport and environment.
+
+
+Multidisciplinary
+    projects.
+
+
+
+
+Practice
+  2. Development of a project based on the proposal of practice
+  1.
+
+
+
+Practice
+  3. Proposal and project presentation
+
+
+ 
+
+'

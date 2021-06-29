@@ -1,0 +1,162 @@
+'
+
+
+Reactividad
+  y mecanismos de los principales tipos de reacciones
+  orgánicas. Síntesis orgánica,
+  formación de enlace en compuestos orgánicos.
+
+
+
+Tema 1. Acidez y basicidad de compuestos orgánicos.
+Transferencia de protones. (2h).
+Transferencia de protones en moléculas orgánicas.
+Acidez y basicidad relativa: las tablas de valores de pK 
+a. Factores estructurales que afectan a al acidez y
+basicidad de moléculas orgánicas. Acidez de
+hidrógenos unidos a carbono. Transferencia de protones en
+los mecanismos de reacción.
+ 
+
+Tema 2. Ácidos y bases de Lewis. Electrófilos
+y nucleófilos. (2h).
+Ácidos y bases de Lewis y su clasificación. Grupos
+nucleófilos en moléculas orgánicas:
+clasificación y reactividad. Grupos electrófilos en
+estructuras orgánica: clasificación y
+reactividad.
+ 
+
+Tema 3. Estructura de los compuestos
+aromáticos. (2h).
+Estructura del benceno como prototipo de compuesto
+aromático. Particularidades del benceno debido a su
+naturaleza aromática. Estructura de orbitales moleculares.
+Sistemas aromáticos y antiaromáticos; regla de
+Hückel. Sistemas aromáticos mononucleares distintos del
+benceno. Compuestos aromáticos polinucleares. Compuestos
+heteroaromáticos fusionados. Nomenclatura de derivados del
+benceno.
+ 
+
+Tema 4. Reactividad de los compuestos
+aromáticos. (3h).
+Sustitución aromática electrofílica
+clásica (Ar-S 
+E), aspectos termodinámicos: complejos de
+Wheland, perfil energético y reversibilidad. Aspectos
+cinéticos de la Ar-S 
+E: efectos de los sustituyentes en la reactividad de las
+posiciones aromáticas. Orientación de Ar-S 
+E en sistemas aromáticos polisustituidos.
+Reacciones de aplicación sintética que transcurren a
+través de Ar-S 
+E: halogenación, sulfonación,
+nitración, alquilación de Friedel-crafts, reacciones
+con aldehidos y cetonas, acilación de Friedel-Crafts,
+formilación, formación de diazocompuestos.
+Sustitución electrofílica vía
+organometálicos. Ar-S 
+N a través de complejos de
+Meisenheimer. Sustitución nucleofílica
+monomolecular (Ar-S 
+N1) a partir de sales de diazonio aromáticas.
+Ar-S 
+N via arinos. Transformación de grupos unidos a
+anillos aromáticos: reducción de nitro a amino;
+reducción de cetonas aromáticas; oxidación de
+cadenas laterales; comportamiento químico de fenoles;
+comportamiento químico de anilinas.
+ 
+
+Tema 5. Revisión de los principales mecanismos de
+reacción polares. Efectos estructurales, cinética y
+estereoquímica. (4h).
+Sustitución nucleofílica alifática. 
+b-Eliminación.
+Adición a dobles enlaces. Sustitución
+nucleofílica en centros trigonales planos. Reagrupamientos
+dirigidos a carbonos electrofílicos.
+ 
+
+Tema 6. Reacciones pericíclicas. (4 h).
+¿Qué es una reacción pericíclica?
+Tipos de reacciones pericíclicas concertadas.
+Construcción de diagramas de orbitales frontera en sistema
+"pi" deslocalizados. Cicloadiciones. Reacciones
+electrocíclicas. Reagrupamientos sigmatrópicos.
+Reacciones tipo "eno".
+ 
+
+Tema 7. Azufre, silicio y fósforo en química
+orgánica. (2h)
+Grupos funcionales de azufre. Aniones estabilizados por grupos
+de azufre. Yluros de sulfonio y de sulfoxonio. Comparación
+de silicio y carbono. Derivados de silicio útiles en
+síntesis orgánica. Grupos funcionales de azufre.
+Iluros de azufre.
+ 
+
+Tema 8. Formación de enlaces carbono-carbono (I).
+Reacciones de formación de enlaces C-C en medio
+básico. (4h).
+Enoles y Enolatos. Formación de enolatos de metales
+alcalinos. Regioselectividad: enolatos cinéticos y
+termodinámicos. Estereoselectividad en la formación
+de enolatos. Perspectiva general de la reactividad de enolatos;
+ambidoselectividad. Adición aldólica.
+Condensación aldólica (síntesis de aceptores
+de Michael). Acilación de enolatos. Variantes de reacciones
+entre enolatos y compuestos carbonílicos (Reacciones de
+Reformatzky, de Perkin, de Darzens, de Henry y de Knoevenagel).
+Alquilación de enolatos y azaenolatos. Síntesis
+malónica. Síntesis acetoacética.
+Formación de enlaces C=C a través de iluros de P y
+carbaniones estabilizados.
+ 
+
+Tema 9. Formación de enlaces carbono-carbono (II).
+Formación de enlaces C-C via enoles y sus equivalentes
+sintéticos. (2h).
+Extensión de la tautomería ceto-enol en derivados
+carbonílicos y carboxílicos. Formación de
+enlaces C-C vía enoles. Enaminas, enol éteres, silil
+enol éteres y silil acetales de cetena como equivalentes
+sintéticos de enoles.
+ 
+
+Tema 10. Formación de enlaces carbono-carbono (III).
+Formación de enlaces C-C a través de reactivos
+organometálicos y reacciones catalizadas por metales de
+transición. (5h).
+Compuestos organometálicos derivados de elementos de los
+grupos principales: preparación y propiedades. Reacciones de
+formación de enlaces C-C a través de reactivos
+organometálicos de magnesio, litio y zinc.
+Introducción a la química organometálica de
+metales de transición. Reactivos organometálicos de
+Cu y su utilidad sintética. Reacciones de formación
+de enlaces C-C catalizadas por Pd. Complejos de alquilidenos y sus
+aplicaciones sintéticas.
+ 
+
+Tema 11. Formación de enlaces
+carbono-nitrógeno. (3h).
+Funciones orgánicas nitrogenadas. Reactivos nitrogenados
+nucleofílicos y electrofílicos. Formación de
+enlaces C-N mediante reactivos nitrogenados nucleofílicos.
+Formación de enlaces C-N catalizada por metales de
+transición. Formación de enlaces C-N mediante
+reactivos nitrogenados electrofílicos. Síntesis de
+aminoácidos. Síntesis de péptidos.
+ 
+
+Tema 12. Introducción a la síntesis
+orgánica. (3h)
+Concepto de síntesis orgánica. Definición
+de síntesis lineal y convergente, síntesis totales,
+parciales y combinatorias, y síntesis estereoselectivas,
+estereoespecíficas y asimétricas. Generalidades sobre
+el diseño de síntesis: análisis
+retrosintético.
+'

@@ -1,0 +1,131 @@
+'
+
+
+TEÓRICOS
+
+
+Módulo I: Sistemas de Información.
+
+Introducción a Sistemas de Información
+Introducción a los Sistemas de Bases de Datos
+Introducción a los Sistemas de Gestión
+Documental.
+Otros sistemas (DataWarehouse, Datamart)
+
+Módulo II: Sistemas de Bases de Datos
+  Relaciones
+
+Introducción a los sistemas de bases de datos
+relaciones
+Planificación y diseño de un sistema de base de
+datos relacional
+Explotación de un sistema de base de datos relacional
+  
+Módulo III: Administración
+Electrónica. Servicios on-line prestados por la
+administración
+Agentes y funciones presentes en la administración
+electrónica.
+Tipos de relaciones entre usuarios, empresas y
+administración.
+Servicios prestados por portales administrativos a nivel local,
+autonómicos y estatal
+
+ Módulo IV: Seguridad en las transacciones
+  electrónicas
+
+Problemas de seguridad.
+Soluciones técnicas a los problemas de seguridad.
+Certificación y firma digital.
+
+Módulo V: Diseño y actualización de
+  portales administrativos
+
+Organización de la información en un portal
+administrativo.
+Herramientas informáticas para crear y actualizar
+contenidos web.
+
+ PRÁCTICOS
+El temario práctico se impartirá en los
+laboratorios de ordenadores. Se trabajará principalmente con
+herramientas informáticas  encuadradas dentro de la
+categoría de software libre aunque no obstante se
+utilizará software propietario en aquellos casos en que se
+considere oportuno. Las áreas temáticas serán
+las siguientes:
+Diseño y explotación de bases de datos
+relacionales.
+Herramientas para la gestión documental
+
+
+Programa de Teoría
+
+
+Tema 1: Sistemas de Información.
+
+
+Introducción a Sistemas de Información
+Introducción a los Sistemas de Bases de Datos
+Introducción a los Sistemas de Gestión
+  Documental.
+Otros sistemas: 
+  
+DataWarehouse,
+Datamart.
+
+
+
+Tema 2: Sistemas de Bases de Datos
+  Relaciones
+
+
+Introducción a los sistemas de
+  BBDD relaciones
+Planificación y diseño de un sistema de
+  BBDD relacional
+Explotación de un sistema de BBDD relacional
+
+
+Tema 3: Administración Electrónica.
+  Servicios on-line prestados por la Administración
+
+
+Agentes y funciones presentes en la Administración
+  electrónica.
+Tipos de relaciones entre usuarios, empresas y
+  administración: B2B, P2P, ...
+Servicios prestados por portales administrativos a nivel
+  local, autonómicos y estatal.
+
+
+Tema 4: Seguridad en las transacciones
+  electrónicas
+
+
+El problema de la seguridad informátioca y de las
+  comunicaicones. 
+Soluciones técnicas a los problemas de seguridad.
+Certificación y firma digital.
+
+
+Tema 5: Diseño y actualización de portales
+  administrativos
+
+
+Herramientas informáticas para crear y actualizar
+  contenidos web.
+Organización de la información en un portal
+  administrativo.
+
+ 
+
+Programa práctico:
+
+Práctica 1: Diseño y explotación de bases
+de datos relacionales.
+Práctica 2: Herramientas para la gestión
+documental.
+Práctica 3: Diseño y actualización de
+contenidos en la nube (Cloud Computing).
+'

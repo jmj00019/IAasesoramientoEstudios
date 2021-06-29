@@ -1,0 +1,121 @@
+'
+
+Introducción al diseño de máquinas
+Criterios de diseño en elementos de máquinas
+Análisis y cálculo de elementos
+mecánicos sometidos a cargas.
+Análisis y cálculo de elementos
+mecánicos sometidos a fluctuantes.
+Cálculo básico de elementos de unión,
+transmisión, sustentación y conversión en
+máquinas.
+
+Bloque temático I. Fundamentos del diseño de
+máquinas
+Tema 1. Introducción al diseño
+1.1 Diseño en ingeniería
+1.2 Consideraciones de esfuerzo, resistencia y factor de
+seguridad
+1.3 Confiabilidad. Seguridad y fiabilidad
+1.4 Factores económicos en el diseño
+1.5 Sistemas de unidades
+Tema 2. Materiales para la construcción demáquinas
+2.1 Propiedades mecánicas de los materiales
+2.2 Materiales más comúnmente empleados para la
+construcción de máquinas
+Tema 3. Análisis de tensiones y deformaciones
+3.1 Tensión y deformación
+3.2 Transformaciones de esfuerzos
+3.3 Flexión y torsión
+3.4 Tensión en elementos de máquinas
+3.5 Deformación en elementos de máquinas
+3.6 Elementos sometidos a compresión
+Bloque temático II. Condiciones de fallo en elementos
+resistentes
+Tema 4. Consideraciones estáticas en el diseño
+de mecánico
+4.1 Diseño por resistencia estática
+4.1.1 Concentración de esfuerzo ante solicitaciones
+estáticas
+4.1.2 Criterios de fallo estático
+4.1.3 Fallo en materiales dúctiles y frágiles.
+Sensibilidad a la entalla
+4.2 Fractura estática
+4.2.1 Fractura dúctil y fractura frágil
+4.2.2 Factor de intensificación de esfuerzo. Tenacidad
+a la fractura
+4.2.3 Modos de fractura
+Tema 5. Consideraciones dinámicas en el diseño
+mecánico
+5.1 Diseño por resistencia a la fatiga frente a cargas
+alternantes
+5.1.1 Diagrama S-N. Resistencia a la fatiga y límite
+de fatiga
+5.1.2 Corrección del límite de fatiga. Factores
+de Marin
+5.2 Diseño por resistencia a fatiga mediante cargas
+fluctuantes
+5.2.1 Influencia de la tensión media. Teorías
+de fallo por fatiga
+5.2.2 Tensión alternante equivalente
+5.2.3 Línea de carga. Factores de seguridad
+5.2.4 Cargas combinadas fluctuantes. Caso de materiales
+frágiles
+5.2.5 Fatiga superficial
+5.3 Daño acumulado por fatiga
+5.3.1 Diagrama S-N para materiales dañados. Reglas de
+Miner y
+Manson
+5.3.2 Daño producido por estados de carga con
+tensión media
+5.3.3 Corrección del límite de fatiga de
+materiales dañados.
+5.3.4 Propagación de grietas bajo cargas
+cíclicas
+Bloque temático III. Diseño de elementos de
+máquinas
+Tema 6. Ejes de transmisión
+6.1 Diseño de ejes de transmisión
+6.1.1 Estados de carga en ejes de transmisión
+6.1.2 Análisis por resistencia estática
+6.1.2 Análisis por resistencia a la fatiga
+6.2 Velocidades críticas en ejes
+6.2.1 Concepto de velocidad crítica
+6.2.2 Cálculo de las velocidades críticas
+6.2.3 Influencia de la excentricidad en la resistencia del
+eje
+Tema 8. Uniones
+8.1 Uniones atornilladas
+8.1.1 Rigidez del perno y de los elementos sujetados
+8.1.2 Resistencia del perno
+8.1.3 Reparto de carga externa
+8.1.4 Momento de torsión de apriete
+8.1.5 Factores de seguridad a cargas estáticas
+8.1.6 Juntas con empaquetadura
+8.1.7 Cargas de fatiga
+8.2 Grupos de pernos y remaches
+8.2.1 Centroides
+8.2.2 Proceso de cálculo para el caso de cargas
+excéntricas
+Tema 9. Resortes mecánicos
+9.1 Muelles helicoidales
+9.1.1 Tensiones y deformaciones en resortes helicoidales
+9.1.2 Resortes helicoidales a tracción
+9.1.3 Resortes helicoidales a compresión
+9.1.4 Estabilidad a pandeo
+9.1.5 Frecuencia crítica
+9.1.6 Cargas a fatiga
+9.1.7 Resortes helicoidales a torsión
+9.2 Otras tipologías de resortes
+Tema 10. Engranajes
+10.1 Descripción general
+10.1.1 Nomenclatura
+10.1.2 Análisis de fuerzas en engranajes rectos
+10.1.3 Análisis de fuerzas en engranajes
+cónicos
+10.2 Engranajes rectos y helicoidales
+10.2.1 Fórmula de Lewis
+10.2.2 Durabilidad de la superficie
+10.3.1 Fórmula de la tensión según AGMA
+10.3.2 Fórmula de la resistencia según AGMA
+'

@@ -1,0 +1,41 @@
+'
+
+La sociedad de la información y del conocimiento.
+Códigos deontológicos en informática.
+Licencias libres. La brecha digital. Especificaciones, reglamentos
+y normas de obligado cumplimiento en los proyectos
+informáticos. Pliegos de condiciones
+ 
+
+
+Teoría
+
+
+Bloque 1
+  
+
+1. Especificaciones, reglamentos y
+normas de obligado cumplimiento en los proyectos
+informáticos.
+2. Pliegos de condiciones.
+
+Bloque 2
+  
+
+3. La sociedad de la
+información y del conocimiento.
+4. Códigos
+deontológicos en informática.
+5. Licencias libres. La brecha
+digital.
+ 
+
+Prácticas
+
+Se realizarán diferentes
+actividades en el laboratorio de prácticas al objeto de
+aclarar, profundizar y afianzar los contenidos prácticos de
+la asignatura. Estos contenidos serán desarrollados tanto en
+las sesiones de teoría en gran grupo como en las sesiones de
+prácticas en el laboratorio.
+'

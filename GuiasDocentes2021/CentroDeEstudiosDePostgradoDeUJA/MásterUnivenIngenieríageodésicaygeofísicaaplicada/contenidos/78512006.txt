@@ -1,0 +1,251 @@
+'
+
+Posicionamiento y navegación con satélites
+GNSS
+· Descripción de los sistemas GNSS: GPS, GLONASS,
+GALILEO, COMPASS, etc
+Observables GNSS y fuentes de error:
+· Observables de código y fase
+· Descripción de las diferentes fuentes de
+error
+· Influencia de cada una de ellas
+· Minimización de sus efectos
+Combinaciones lineales de observables.
+· Simples, dobles y triples diferencias
+Métodos de posicionamiento GNSS.
+· Posicionamiento absoluto: estático y
+cinemático
+ o Posicionamiento diferencial: Estático,
+cinemático y RTK
+Ajuste de redes.
+· Modelos funcional y estocástico de
+compensación de una red GNSS
+· Ajuste con constreñimientos de una red
+GNSS
+Posicionamiento diferencial y redes RTK.
+· Posicionamiento diferencial basado en una única
+estación de referencia o S.R.S (Single Reference Station)
+ o Con medidas de código (DGNSS)
+ o Con medidas de fase (PDGNSS)
+· Posicionamiento diferencial basado en
+múltiples estaciones de referencia o M.R.S (Multiple
+Reference Station)
+· Modelos de corrección en redes RTK
+· Correcciones diferenciales: formatos estandarizados
+y protocolos de transmisión.
+· Redes activas nacionales y europeas
+Evaluación de la calidad del posicionamiento RTK basado
+en redes activas.
+Principios de la navegación GNSS.
+Filtro de Kalman.
+Sistemas inerciales de navegación (INS).
+Integración de datos INS y GNSS
+
+
+
+TEMARIO
+
+
+T1.
+  Posicionamiento y navegación con satélites
+  GNSS.
+
+
+*
+  Descripción de los sistemas GNSS: GPS, GLONASS, GALILEO,
+  COMPASS, etc.
+
+
+T2.
+  Observables GNSS y fuentes de error.
+
+
+*
+  Observables de código y fase
+
+
+*
+  Descripción de las diferentes fuentes de error
+
+
+*
+  Influencia de cada una de ellas
+
+
+*
+  Minimización de sus efectos
+
+
+T3.
+  Combinaciones lineales de observables.
+
+
+*
+  Simples, dobles y triples diferencias
+
+
+T4.
+  Métodos de posicionamiento GNSS.
+
+
+*
+  Posicionamiento absoluto: estático y
+  cinemático
+
+
+*
+  Posicionamiento diferencial: estático, cinemático y
+  RTK
+
+
+T5.
+  Posicionamiento diferencial y redes RTK.
+
+
+*
+  Posicionamiento diferencial basado en una única
+  estación de referencia o S. R. S. (Single Reference
+  Station)
+
+
+* Con
+  medidas de código (DGNSS)
+
+
+* Con
+  medidas de fase (PDGNSS)
+
+
+*
+  Posicionamiento diferencial basado en múltiples estaciones
+  de referencia o M. R. S. (Multiple Reference Station)
+
+
+*
+  Modelos de corrección en redes RTK
+
+
+*
+  Correcciones diferenciales: formatos estandarizados y protocolos
+  de transmisión
+
+
+*
+  Redes activas nacionales y europeas
+
+
+*
+  Evaluación de la calidad del posicionamiento RTK basado en
+  redes activas.
+
+
+T6.
+  Principios de la navegación GNSS.
+
+
+*
+  Filtro de Kalman.
+
+
+T7.
+  Sistemas inerciales de navegación (INS).
+
+
+*
+  Integración de datos INS y GNSS
+
+
+T8.
+  Ajuste de redes.
+
+
+*
+  Modelos funcional y estocástico de compensación de
+  una red GNSS
+
+
+*
+  Ajuste con constreñimientos de una red GNSS
+
+
+*
+  Ajuste secuencial o progresivo
+
+
+
+PRÁCTICAS
+
+
+P1.
+  Práctica de gabinete en aula de informática
+
+
+Configuración
+  básica de equipos GNSS
+
+
+P2.
+  Práctica de gabinete en aula de informática +
+  Práctica de campo
+
+
+Configuración
+  de software de procesamiento de datos
+
+
+Diseño
+  de una red
+
+
+Observación
+
+
+P3.
+  Práctica de gabinete en aula de informática
+
+
+Procesado
+  de los datos obtenidos con la observación anterior.
+
+
+P4.
+  Práctica de gabinete en aula de informática
+
+
+Revisión
+  de servicios ofrecidos por una red activa, datos de
+  conexión y solicitud de credenciales.
+
+
+P5.
+  Práctica de campo
+
+
+Configuración
+  de equipos para soluciones RTK.
+
+
+Configuración
+  de equipos para soluciones cinemáticas
+
+
+Toma
+  de datos.
+
+
+P6.
+  Práctica de gabinete en aula de informática
+
+
+Descarga
+  de datos, tratamiento y análisis de resultados.
+
+
+P7.
+  Práctica de gabinete en aula de informática
+
+
+Ajuste
+  de redes GNSS
+
+'

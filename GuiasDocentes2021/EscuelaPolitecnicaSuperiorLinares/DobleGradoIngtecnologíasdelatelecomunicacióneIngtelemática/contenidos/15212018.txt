@@ -1,0 +1,109 @@
+'
+
+El alumno adquirirá conocimientos sobre los diferentes
+elementos que intervienen en la cadena de audio. Especial
+interés se prestará al procesado analógico y
+digital, mezcla de señales, grabación, almacenamiento
+e interconexión de equipos.
+Igualmente, el alumno se familiarizará con el uso de
+los equipos más habituales y simulará el
+funcionamiento de varios de los elementos de una cadena de audio al
+objeto de caracterizarlos.
+Palabras Clave: audio, cadena de audio, procesado de audio,
+mezcla, grabación, almacenamiento, interconexión.
+
+Además, se dotará al
+alumno de la capacidad para estar al día en las novedades en
+ciencia y tecnología, sobre todo en este tipo de materias,
+tan ligadas a un entono tan dinámico como son las
+telecomunicaciones, y en concreto las Tecnologías de
+Telecomunicación.
+El programa se divide en tres
+partes:
+PARTE TEÓRICA:
+Tema 1: INTRODUCCIÓN A LOS
+SISTEMAS DE SONIDO  
+1.1. Presentación de la asignatura. Reseña
+histórica  
+1.2. Repaso de conceptos fundamentales  
+1.3. La cadena de audio  
+1.4. Resumen  
+
+Tema 2: AMPLIFICADORES  
+2.1 Introducción.  
+2.2. Amplificadores operacionales.  
+2.3. Preamplificadores.  
+2.4. Amplificadores de potencia.  
+2.5. Resumen y conclusiones.  
+
+Tema 3: EQUIPOS DE PROCESADO DE SEÑAL  
+3.1. Introducción.  
+3.2. Equipos de procesado de dinámica.  
+3.3. Procesado en el dominio del tiempo.  
+3.4. Procesado en el dominio de la frecuencia.  
+3.5. Introducción a los procesadores DSP. Procesadores
+multiefecto.  
+3.6. Resumen y conclusiones.  
+
+Tema 4: LA CONSOLA MULTICANAL  
+4.1. Introducción.  
+4.2. Funcionalidades básicas y estructura.
+4.3. Clasificación de las consolas.  
+4.4. Consola multicanal con configuración de cruce.
+ 
+4.5. Consola multicanal con configuración en
+línea.  
+4.6. Equipos de medida en una consola.  
+4.7. Utilización de la consola multicanal.  
+4.8. Automatización en consolas.  
+4.9. Introducción a las consolas multicanal digitales.
+ 
+4.10. Diagrama de bloques de consolas comerciales.  
+4.11. Resumen del tema y conclusiones.  
+
+Tema 5: AUDIO DIGITAL
+ 5.1. Ventajas del Audio Digital.  
+5.2. Conversación A/D.
+5.3. Técnicas de compresión.  
+5.4. Normas de codificación.  
+5.5. Conexión en cascada.
+5.6. Resumen y conclusiones.
+PARTE PRÁCTICA:
+El bloque práctico de la
+asignatura se compone de prácticas en el laboratorio, y su
+carácter es obligatorio. El objetivo de las prácticas
+propuestas es la consecución de las competencias
+establecidas. Además, se desarrollarán habilidades de
+comunicación información, ideas, problemas y
+soluciones en el ámbito de ingeniería y la sociedad
+en general a través de procesos de entrega de
+documentación o presentaciones  orales.
+Con respecto a la
+organización del trabajo, se fomentará la
+colaboración y trabajo en equipo a través del propio
+diseño de las prácticas.
+Los contenidos prácticos son
+los siguientes:
+Práctica 1: uso del editor
+de audio de software libre audacity.
+Práctica 2:
+introducción al lenguaje de programación
+Python para el procesado de señal de audio.
+Práctica 3:
+caracterización y simulación de diferentes elementos
+usados en audio.
+Práctica 4: uso de los
+equipos de audio instalados en el laboratorio: mesa de mezclas
+analógica, mesa de mezclas digital, compresor-puerta de
+ruido, generador de efectos, ecualizadores, instrumentos musicales
+electrónicos ...
+Debido a que el número de
+puestos con equipos está limitado, la práctica 4 se
+realizará de forma rotatoria entre los alumnos,
+combinándose con la realización de la práctica
+3. 
+
+SEMINARIOS
+
+Seminario 1: Dithering
+'

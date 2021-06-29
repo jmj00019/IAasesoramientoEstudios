@@ -1,0 +1,40 @@
+'
+
+Introducción a las
+máquinas de fluidos. Generalidades y
+clasificación.
+Teoría ideal de
+turbomáquinas hidráulicas. Diagrama de velocidades,
+ecuaciones de conservación de la masa, cantidad de
+movimiento, momento cinético y energía.
+Ecuación de Euler, grado de reacción y
+rendimientos.
+Semejanza física en
+turbomáquinas: Introducción al análisis
+dimensional, Parámetros adimensionales y relaciones de
+semejanza. Diagramas característicos y ensayo de bombas.
+Teoría de
+turbomáquinas centrífugas: Teoría
+unidimensional, influencia del ángulo de salida de los
+álabes, grado de reacción. Curvas
+características reales, pérdida y rendimientos.
+Teoría de
+turbomáquinas axiales. Sustentación de perfiles,
+cascada de perfiles, movimiento bidimensional en el roto. Conjunto
+estator-rotor. Grado de reacción.
+Introducción a las turbinas
+hidráulicas. Generalidades. Clasificación.
+Funcionamiento de una turbina centrípeta en régimen
+variable, curvas características. Semejanza en turbinas.
+Ensayo de turbinas.
+Descripción de los
+diferentes tipos de turbinas. Turbinas Francis, turbinas de
+hélice y Kaplan, turbinas Pelton: partes, componentes,
+curvas de funcionamiento y regulación.
+Cavitación en
+turbomáquinas.
+Dimensionado y cálculo de
+instalaciones de bombeo y turbinación.
+
+-Introducci
+'

@@ -1,0 +1,286 @@
+'
+
+En esta asignatura se realiza un análisis detallado de
+los sistemas de telecomunicación. Se parte del concepto de
+sistema de telecomunicación para detallar los tipos de
+sistemas y sus parámetros de calidad de servicio. Se inicia
+al alumno al marco legislativo español en relación a
+los sistemas de telecomunicación, así como se
+explican los organismos internacionales de normalización.
+También se trabajan los distintos aspectos de los sistemas
+de telecomunicación: recursos, carga, señales y
+redes. Seguidamente se tratan casos prácticos de sistemas de
+telecomunicación: móviles, radio, ópticos, por
+satélite, por cable, domóticos, etc.
+Paralelamente, se introduce al alumno en la
+planificación, programación y gestión del
+despliegue de infraestructuras relacionadas con la especialidad de
+sistemas de telecomunicación. Se detalla la
+reglamentación asociada a estas infraestructuras.
+Palabras Clave: Radio, cable, satélite, móvil,
+despliegue de infraestructuras, ICT.
+
+
+ 
+
+
+En
+  esta asignatura se ofrecerá al alumno una visión
+  general del desarrollo profesional del ingeniero en general y la
+  profesión regulada de Ingeniero Técnico de
+  Telecomunicación en particular.
+
+
+ 
+
+
+ 
+
+
+Se
+  presentan las herramientas necesarias para implementar y
+  desplegar sistemas de telecomunicación, presentando varios
+  ejemplos de proyectos que éste puede desempeñar en
+  su actividad profesional. El programa se divide en seis temas,
+  cuatro prácticas y tres seminarios:
+
+
+ 
+
+
+
+TEORIA
+
+
+
+TEMA
+I:
+La
+práctica del ejercicio profesional por los ingenieros
+técnicos de telecomunicación
+
+
+TEMA
+II: 
+Teoría
+general de proyectos
+
+
+TEMA
+III:  
+Documentación
+de un proyecto técnico
+
+
+TEMA
+IV: 
+Proyectos
+Técnicos de Sistemas de Telecomunicación
+
+
+TEMA
+V:
+Evaluación
+del proyecto
+
+
+TEMA
+VI:
+Oportunidades
+de negocio y elaboración de ofertas
+
+ 
+
+
+
+PRÁCTICAS
+
+
+
+Práctica
+I:
+Software
+de gestión de proyectos
+
+
+Práctica
+II:
+Estudio
+de viabilidad y anteproyecto tipo de Sistemas de
+Telecomunicación.
+
+
+Práctica
+III:
+
+ 
+Realización
+de un proyecto de Sistemas de Telecomunicación (ICT,
+Radiodifusión sonora y TV, Estaciones
+radioeléctricas, Redes
+inalámbricas, etc)
+
+
+Práctica
+IV:
+Presentación
+y defensa oral de proyecto.
+
+ 
+
+
+ 
+
+
+
+SEMINARIOS
+
+
+
+Seminario
+I:
+Creación
+de un modelo de negocio en una start-up.
+
+
+Seminario
+II:
+Debate
+para la propuesta de una solución a un reto
+tecnológico.
+
+
+Seminario
+III: Uso de instrumentación de medida en
+proyectos de Telecomunicación
+.
+
+ 
+
+
+
+Competencias
+  transversales
+
+
+A
+  través de las distintas actividades de la asignatura se
+  tendrá en cuenta la adquisición por parte del
+  alumnado de las siguientes competencias transversales:
+
+
+
+Elaboración
+  de juicios
+
+
+Capacidad
+      de recoger e interpretar datos y manejar conceptos complejos
+      dentro de su especialidad, para emitir juicios que impliquen
+      reflexión sobre temas éticos y sociales.
+
+
+Capacidad
+      de gestionar complejas actividades técnicas o
+      profesionales o proyectos de su especialidad,
+      responsabilizándose de la toma de decisiones.
+
+
+
+Comunicación
+  y trabajo en Equipo
+
+
+Capacidad
+      para funcionar eficazmente en contextos nacionales e
+      internacionales, de forma individual y en equipo y cooperar
+      tanto con ingenieros como con personas de otras
+      disciplinas.
+
+
+Capacidad
+      para comunicar eficazmente información, ideas,
+      problemas y soluciones en el ámbito de
+      ingeniería y con la sociedad en general
+
+
+
+Formación
+  continua
+
+
+Capacidad
+      de reconocer la necesidad de la formación continua
+      propia y de emprender esta actividad a lo largo de su vida
+      profesional de forma independiente.
+
+
+Capacidad
+      para estar al día en las novedades en ciencia y
+      tecnología
+
+
+
+
+ 
+
+
+Las
+  competencias EUR-ACE específicas para la asignatura que se
+  trabajarán son:
+
+
+ 
+
+
+
+Capacidad
+  para proyectar, diseñar y desarrollar productos complejos
+  (piezas, componentes, productos acabados, etc.), procesos y
+  sistemas de su especialidad, que cumplan con los requisitos
+  establecidos,incluyendo 
+tener
+  conciencia de los aspectos sociales, de salud y seguridad,
+  ambientales, económicos e industriales; así como
+  seleccionar y aplicar métodos de proyecto
+  apropiados.
+
+Capacidad
+    para consultar y aplicar códigos de buena
+    práctica y de seguridad de su especialidad.
+
+
+Competencia
+    práctica para resolver problemas complejos, realizar
+    proyectos complejos de ingeniería y llevar a cabo
+    investigaciones propias de su especialidad.
+
+
+Ideas
+    generales sobre cuestiones económicas, de
+    organización y de gestión (como gestión de
+    proyectos, gestión del riesgo y del cambio) en el
+    contexto industrial y de empresa.
+
+
+Capacidad
+    de gestionar complejas actividades técnicas o
+    profesionales o proyectos de su especialidad,
+    responsabilizándose de la toma de decisiones.
+
+
+Capacidad
+    para comunicar eficazmente información, ideas, problemas
+    y soluciones en el ámbito de ingeniería y con la
+    sociedad en general.
+
+
+
+La
+  totalidad de estas competencias específicas se
+  adquirirán de forma natural mediante el desarrollo de los
+  proyectos de ingeniería propuestos en las
+  prácticas.
+
+ 
+'

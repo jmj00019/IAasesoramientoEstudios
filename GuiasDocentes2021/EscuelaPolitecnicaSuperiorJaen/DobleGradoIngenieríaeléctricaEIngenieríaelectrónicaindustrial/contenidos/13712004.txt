@@ -1,0 +1,61 @@
+'
+
+Fuentes de energía. Caracterización
+energética
+Generación de calor. Procesos y tecnologías
+Generación de trabajo. Procesos y tecnologías
+Dimensionado de la etapa de potencia (generación de
+trabajo) en centrales eléctricas
+
+
+Bloque I: Centrales hidroeléctricas
+  :
+
+Tema I.1: Energía
+hidráulica. Tema I.2: Presas. Tema I.3: Clasificación
+de las centrales hidroeléctricas. Tema I.4: Estudio de la
+instalación hidráulica. Tema I.5:
+Turbomáquinas hidráulicas. Tema I.6:
+Turbomáquinas hidráulicas: Turbinas Pelton. Tema I.7:
+Turbomáquinas hidráulicas: Turbinas Francis. Tema
+I.8: Regulación de las turbinas hidráulicas. Tema
+I.9: Bombas hidráulicas.
+
+Bloque II: Centrales Térmicas :
+
+Tema II.1: Centrales
+térmicas: Combustible. Tema II.2: Centrales térmicas:
+Descripción. Tema II.3: Ciclos térmicos en centrales
+de vapor. Ciclo de Rankine avanzado. Tema II.4: Turbinas
+térmicas. Turbinas de gas. Centrales de ciclo combinado.
+
+Bloque III: Centrales Nucleares:
+
+Introducción a la
+física nuclear. Estudio de las principales reacciones
+nucleares. Energía desprendida en la reacción y
+utilización de la citada energía para su
+transformación en energía eléctrica. Reactores
+nucleares más usuales y los elementos más importantes
+a tener en cuenta en los mismos (combustible, moderador,
+refrigerante y reflector).
+
+CONTENIDOS PRÁCTICAS
+
+
+Centrales hidráulicas:
+
+1: Determinación de las
+características operativas de la turbina Pelton.
+2: Determinación de las
+características operativas de la turbina Francis.
+3: Caracterización de la
+bomba hidráulica. Bombas en serie y en paralelo.
+
+Centrales térmicas:
+
+4: Estudio de una central
+térmica de vapor.
+5: Estudio de una turbina de
+gas.
+'

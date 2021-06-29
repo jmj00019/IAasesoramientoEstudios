@@ -1,0 +1,69 @@
+'
+
+
+Aplicaciones
+  de los momentos dipolares y cuadrupolares en la
+  determinación de la estructura molecular.Propiedades
+  magnéticas de la materia y su aplicación al estudio
+  de los complejos metálicos. Fotoquímica.
+  Polímeros.
+
+
+
+TEORÍA
+
+TEMA 1: INTERACCIONES MOLECULARES
+Propiedades eléctricas de las moléculas.
+Propiedades magnéticas de las moléculas.
+Interacciones inter- e intramoleculares.
+TEMA 2: FOTOQUÍMICA
+Estados excitados. Fotofísica: fluorescencia,
+fosforescencia, transferencia de energía intra- e
+intermolecular, quimioluminiscencia. Excímeros y
+excíplejos. Fotoquímica en la naturaleza:
+visión, fotosíntesis, daño del ADN por
+radiación UV
+TEMA 3: MACROMOLÉCULAS (I): PRINCIPIOS
+GENERALES  
+Introducción: polímeros sintéticos y
+biológicos. Estructura de macromoléculas: niveles de
+estructura, bucles aleatorios. Propiedades de
+macromoléculas: propiedades mecánicas,
+ térmicas y eléctricas.
+Determinación del tamaño y la forma: masas molares
+promedio, técnicas experimentales de determinación de
+masas molares y distribuciones de masas moleculares.
+TEMA 4: MACROMOLÉCULAS (II): MACROMOLÉCULAS
+BIOLÓGICAS
+Estructura de proteínas. Estructura de ácidos
+nucleicos. Estructura de polisacáridos. Estructura de
+micelas y membranas biológicas. Simulaciones asistidas por
+ordenador: Mecánica Molecular, Dinámica Molecular,
+simulaciones Monte Carlo, relaciones cuantitativas
+estructura-actividad (QSAR)
+TEMA 5: RECONOCIMIENTO MOLECULAR
+Introducción. Modelos teóricos de enlace: sitio
+y afinidad únicos; sitios múltiples independientes y
+misma afinidad; sitios múltiples independientes y afinidad
+variable; enlace cooperativo. Técnicas experimentales de
+análisis.
+ 
+
+
+ACTIVIDADES ACADÉMICAMENTE DIRIGIDAS:
+
+Las actividades se orientarán a la obtención de
+propiedades moleculares mediante técnicas de
+Modelización Molecular asistidas por ordenador.
+
+PRÁCTICAS DE LABORATORIO:
+
+1) Aplicaciones de las medidas de susceptibilidad
+magnética
+2) Predicción in silico del sitio de unión de
+un fármaco a su diana
+3) Momentos dipolares en disolución
+4) Caracterización de un polímero a partir de
+medidas de viscosidad
+ 
+'

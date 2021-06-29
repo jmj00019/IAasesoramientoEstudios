@@ -1,0 +1,27 @@
+'
+
+CONTENIDOS BÁSICOS
+
+Concepto de probabilidad
+Variable aleatoria unidimensional
+Principales modelos de variables aleatorias
+  unidimensionales
+Variable aleatoria multidimensional
+
+
+CONTENIDOS DESARROLLADOS
+1. Introducción al concepto de probabilidad.
+2. Variables aleatorias unidimensionales.
+3. Características de las variables aleatorias
+unidimensionales.
+4. Modelos de probabilidad para variables aleatorias
+unidimensionales discretas.
+5. Modelos de probabilidad para variables aleatorias
+unidimensionales continuas.
+6. Variables aleatorias multidimensionales.
+7. Características de las variables aleatorias
+multidimensionales.
+8. Esperanza condicionada. Regresión y
+Correlación.
+ 
+'

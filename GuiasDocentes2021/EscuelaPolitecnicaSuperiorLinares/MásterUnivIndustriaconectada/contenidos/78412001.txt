@@ -1,0 +1,62 @@
+'
+
+
+Visión histórica de la industria en
+  España.
+La Industria 3.0: La automatización.
+Evolución 3.0 a 4.0: Sistemas SCADA y MES.
+Industria 4.0: Sistemas 100% Conectados.
+
+
+
+Tema 1: Visión histórica de la industria en
+  España.
+
+1.1.- Orígenes de la
+producción industrial y la prefabricación
+1.2.- Uniformidad y
+estandarización.
+1.3.- Producción
+masiva.
+ 
+
+Tema 2: La Industria 3.0: La
+  automatización.
+
+2.1.- Producción digital
+2.2.- Automatización y
+convergencia tecnológica.
+2.3.- Informatización de
+la industria.
+2.4.- Distritos
+industriales.
+ 
+
+Tema 3: Evolución 3.0 a 4.0: Sistemas SCADA y
+  MES.
+
+3.1.- Fabricación Informática en la ciencia de
+fabricación digital.
+3.2.- Propiedades principales de la información en
+fabricación.
+3.3.- Medición, síntesis y materialización
+de la fabricación informatizada
+3.4.- Integración, uso compartido y seguridad de la
+fabricación informatizada.
+ 
+
+Tema 4: Industria 4.0: Sistemas 100% Conectados.
+
+4.1.- Tecnología clave de la ciencia de la
+fabricación digital.
+4.2.- Diversas tecnologías digitales en el ciclo de vida
+del producto.
+4.3.- Tecnología de recursos y del entorno en la
+fabricación digital.
+4.4.- Tecnología de gestión en el proceso y
+sistema de fabricación digital.
+4.5.- Tecnología de control en fabricación
+digital.
+4.6.- Tecnología de Reconocimiento Digital e
+Integración en Producto.
+'

@@ -1,0 +1,64 @@
+'
+
+- Auditorías de software.
+- Auditorías de seguridad.
+- Políticas de seguridad.
+- Delitos informáticos.
+- Análisis forense.
+- Herramientas de análisis estático de
+código.
+- Herramientas de análisis dinámico de
+código
+
+
+Módulo
+  1. Introducción.
+
+
+
+Políticas
+    de seguridad y delitos informáticos.
+
+
+Auditorías.
+
+
+Análisis
+    forense.
+
+
+
+ 
+
+Módulo
+  2. Análisis estático del código.
+
+
+
+Ventajas.
+
+
+Técnicas.
+
+
+Herramientas.
+
+
+
+ 
+
+Módulo
+  3. Análisis dinámico del código.
+
+
+
+Ventajas.
+
+
+Técnicas.
+
+
+Herramientas.
+
+
+'

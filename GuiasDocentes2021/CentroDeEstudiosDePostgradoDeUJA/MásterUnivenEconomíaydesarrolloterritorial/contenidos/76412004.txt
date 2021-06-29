@@ -1,0 +1,67 @@
+'
+
+
+Encuestas.
+  Inferencia Estadística. Sistemas de Información
+  Geográfica (SIG).  Técnicas de recogida de
+  información: Muestreo en poblaciones finitas;
+  Cálculo del tamaño muestral. Comparación de
+  varias poblaciones: Análisis de la varianza y
+  Kruskal-Wallis. Estadística bidimensional y
+  regresión lineal Generalización multivariante.
+  Otros modelos de regresión. Categorización. Resumen
+  de los Técnicas cualitativas. Creación de
+  conexiones entre categorías: Test Chi-Cuadrado y
+  U-Mann-Whitney. Análisis multivariante de
+  discriminación por grupos: Análisis discriminante y
+  análisis clúster.
+
+
+
+
+El
+    proceso de investigación social: conceptos
+    básicos y fases   
+
+
+Encuestas
+
+
+Inferencia
+    Estadística.
+
+
+Sistemas
+    de Información Geográfica (SIG). 
+
+
+Técnicas
+    de recogida de información: Muestreo en poblaciones
+    finitas; Cálculo del tamaño muestral.
+
+
+Comparación
+    de varias poblaciones: Análisis de la varianza y
+    Kruskal-Wallis.
+
+
+Estadística
+    bidimensional y regresión lineal Generalización
+    multivariante. Otros modelos de regresión.
+
+
+Categorización.
+    Resumen de los Técnicas cualitativas. Creación de
+    conexiones entre categorías: Test Chi-Cuadrado y
+    U-Mann-Whitney.
+
+
+Análisis
+    multivariante de discriminación por grupos:
+    Análisis discriminante y análisis
+    clúster.
+
+
+   
+   
+'

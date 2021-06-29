@@ -1,0 +1,87 @@
+'
+
+1.- Estructura y clasificación de los materiales de
+carbón.
+2.- Preparación y caracterización de materiales
+de carbón.
+3.- Funcionalización superficial de materiales de
+carbón.
+4.- Aplicaciones de los materiales de carbón en
+escontaminación ambiental.
+5.- Aplicaciones de los materiales de carbón en
+catálisis.
+
+1.
+ESTRUCTURA Y CLASIFICACIÓN DE LOS MATERIALES DE
+CARBÓN DE BASE GRAFÍTICA.
+
+1.1.
+  Introducción. 1.2. Formas cristalinas del carbono. 1.3.
+  Carbones tecnológicos. 1.4. Estructura,
+  características y tipos de carbones activados.
+
+
+2.
+  PREPARACIÓN Y CARACTERIZACIÓN DE MATERIALES DE
+  CARBÓN
+
+
+2.1.
+  Preparación de materiales de carbón. 2.1.1.
+  Precursores. 2.1.2. Carbonización. 2.1.3. Métodos
+  de activación. 2.2. Caracterización textural.
+  2.2.1. Adsorción física de gases y vapores. 2.2.2.
+  Isotermas de adsorción de sólidos porosos y no
+  porosos. 2.2.3. Modelos para la obtención del área
+  superficial específica y porosidad. 2.2.4.
+  Porosimetría de mercurio. 2.2.5. Microcalorimetría
+  de inmersión. 2.3. Caracterización química.
+  2.3.1. Desorción térmica programada. 2.3.2.
+  Técnicas de determinación de las
+  características ácido-base superficiales. 2.3.3.
+  Espectroscopía de fotoemisión de rayos-X (XPS).
+  2.3.4. Espectroscopía de infrarrojos.
+
+
+3.
+  FUNCIONALIZACIÓN SUPERFICIAL DE MATERIALES DE
+  CARBÓN
+
+
+3.1.
+  Importancia de la Química superficial de los materiales de
+  carbón grafitizados. 3.2. Características de las
+  funciones químicas primarias. 3.3. Funcionalización
+  basada en la reactividad de las funciones superficiales
+  primarias.
+
+
+4.
+  APLICACIONES DE LOS MATERIALES DE CARBÓN EN
+  DESCONTAMINACIÓN AMBIENTAL
+
+
+4.1.
+  Tratamiento de aguas. 4.2. Tratamiento de efluentes gaseosos.
+  4.3. Almacenamiento de hidrógeno. 4.4. Aplicaciones
+  biomédicas.
+
+
+5.
+  APLICACIONES DE LOS MATERIALES DE CARBÓN EN
+  CATÁLISIS
+
+
+5.1.
+  Catálisis heterogénea y catálisis
+  hídrida. 5.2. Principios generales. 5.3. Naturaleza de los
+  catalizadores heterogéneos. 5.4. Métodos de
+  preparación de catalizadores híbridos. 5.5.
+  Materiales de carbón como catalizadores
+  heterogéneos y soporte de catalizadores. 5.6. Principales
+  aplicaciones de los materiales de carbón en procesos
+  catalíticos. 5.7. Nuevos materiales de carbón con
+  aplicaciones catalíticas.
+
+ 
+'

@@ -1,0 +1,52 @@
+'
+
+
+
+Teoría de la Decisión
+
+Situaciones de incertidumbre y riesgo.
+Criterios de decisión.
+Valor de la información imperfecta.
+Teoría de la utilidad esperada.
+
+
+Teoría de Juegos
+
+Situaciones de interacción estratégica.
+Juegos estáticos.
+Juegos dinámicos.
+Aplicaciones
+
+
+
+
+Bloque I: Teoría de la Decisión
+
+
+Conceptos básicos de Teoría de la
+  Decisión. Elementos y clasificación de un
+  problema de Decisión. Tablas de Decisión y
+  ejemplos.
+Decisión bajo condiciones de incertidumbre. Criterio
+  de Wald, maximax, Hurwicz, Savage y Laplace.
+Decisión bajo condiciones de riesgo. Valor
+  Monetario Esperado. Pérdida de Oportunidad Esperada. Valor
+  Esperado de la Información Perfecta. Árboles de
+  decisión. Análisis Bayesiano.
+Teoría de la utilidad. Utilidad Esperada. Equivalente
+  cierto. 
+
+
+Bloque II: Teoría de Juegos
+
+
+Introducción a la Teoría de Juegos.
+  Elementos y clasificación de los juegos.
+Juegos de dos jugadores con suma nula. Estrategias "maximin"
+  y "minimax". Equilibrio de Nash. Dominación. Estrategias
+  puras y mixtas. Ejemplos.
+Juegos de dos jugadores con suma no-nula. Dilema del
+  prisionero. La batalla de los sexos. Ejemplos.
+Juegos dinámicos.
+
+'

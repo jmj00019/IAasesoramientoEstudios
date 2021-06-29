@@ -1,0 +1,167 @@
+'
+
+· Introducción a la visión por computador y
+sus componentes: dispositivos de adquisición, ópticas
+y sistemas de iluminación.
+· Procesado de la imagen 2D.
+· Sistemas industriales de inspección
+automática.
+· Aplicaciones de la visión por computador en
+Robótica. Visión 3D.
+· Sensores para sistemas mecatrónicos. Sensores
+de ultrasonidos, proximidad, fuerza e inerciales.
+
+
+Tema
+  1. Introducción
+
+
+
+Tecnologías
+    sensoriales.
+
+
+Gestión
+    de la información.
+
+
+Aplicaciones
+    industriales y de servicios.
+
+
+Fusión
+    sensorial.
+
+
+
+ 
+
+
+Tema
+  2. Sistemas de percepción mecatrónicos
+
+
+
+Sensores
+    de distancia y posicionamiento.
+
+
+Sensores
+    de fuerza e inerciales.
+
+
+Sensores
+    olfativos.
+
+
+Sensores
+    de visión.
+
+
+Otros
+    sensores.
+
+
+
+ 
+
+
+Tema
+  3. Introducción a la visión por computador
+
+
+
+Definición
+    y conceptos fundamentales.
+
+
+Elementos
+    de un sistema de visión por computador.
+
+
+Adquisición
+    de la imagen.
+
+
+
+ 
+
+
+Tema
+  4. Procesado 2D de la imagen
+
+
+
+Preprocesado.
+
+
+Detección
+    de bordes.
+
+
+Segmentación.
+
+
+Extracción
+    de características.
+
+
+Reconocimiento
+    de objetos.
+
+
+
+ 
+
+
+Tema
+  5. Visión 3D
+
+
+
+Formación
+    geométrica de la imagen
+
+
+Calibración
+    de cámaras
+
+
+Técnicas
+    de extracción de la información 3D. Visión
+    estéreo,
+     triangulación y sensores de tiempo de
+    vuelo.
+
+
+
+  
+
+
+CONTENIDOS
+  PRÁCTICOS: (Desarrollo de
+  prácticas)
+
+
+ 
+
+
+Práctica
+  1: Sensores inerciales
+
+
+Práctica
+  2: Sensores olfativos
+
+
+Práctica
+  3: Visión y procesado 2D
+
+
+Práctica
+  4: Visión y procesado 3D
+
+
+ 
+
+'

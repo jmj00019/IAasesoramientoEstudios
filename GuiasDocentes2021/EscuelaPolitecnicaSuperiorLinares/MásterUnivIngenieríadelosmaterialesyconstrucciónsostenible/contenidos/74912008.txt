@@ -1,0 +1,140 @@
+'
+
+Introducción. Piedras naturales. Yesos. Cales.
+Composición y fabricación del cemento Portland.
+Características e hidratación del cemento Portland.
+Cementos. El agua y los áridos del hormigón.
+Hormigón fresco. Aditivos. Dosificación de
+hormigones. Hormigón endurecido. Durabilidad. Hormigones
+especiales. Materiales bituminosos. Propiedades de los materiales
+bituminosos. Usos en construcción.
+
+BLOQUE 1:
+INTRODUCCIÓN A LA INGENIERÍA DE MATERIALES
+Tema 1.
+INTRODUCCIÓN.
+Los materiales
+en la construcción. Sistemas constructivos y Elementos
+constructivos. Materiales y productos de construcción:
+tipologías. Materiales y Medioambiente.
+ 
+BLOQUE 2:
+CARACTERÍSTICAS DE LOS MATERIALES, PROPIEDADES DE LOS
+MATERIALES UTILIZADOS EN INGENIERÍA CIVIL
+ 
+Tema 2.
+PROPIEDADES FÍSICAS DE LOS MATERIALES DE
+CONSTRUCCIÓN
+Aspecto y
+forma. Peso y densidad. Porosidad. Acciones físicas.
+Comportamiento hídrico. Comportamiento térmico.
+Comportamiento acústico. Reacción al fuego.
+Heladicidad. Ensayos físicos. Durabilidad y mecanismos de
+degradación de los materiales. Protección frente a
+acciones externas.
+ 
+Tema 3.
+PROPIEDADES MECÁNICAS DE LOS MATERIALES DE
+CONSTRUCCIÓN
+Tensión
+y deformación. Rigidez. Tipos y mecanismos de
+deformación. Endurecimiento. Fluencia y relajación.
+Mecanismos de fractura. Acciones mecánicas y ensayos de
+laboratorio.
+ 
+Tema 4.
+CALIDAD, SOSTENIBILIDAD Y NORMATIVA DE LOS MATERIALES DE
+CONSTRUCCIÓN.
+El concepto de
+calidad. Caracterización experimental de materiales. Control
+de calidad. Normas y distintivos de calidad. Marcado CE. Normativa
+de materiales de construcción. Criterios generales de
+sostenibilidad en materiales de construcción.
+ 
+Tema 5.
+DETERIORO DE LOS MATERIALES. CORROSIÓN.
+Tipos de
+fallos. Corrosión seca y húmeda. Corrosión a
+alta temperatura. Fundamento de los fenómenos de
+corrosión húmeda. Formas de la corrosión.
+Protección contra la corrosión. Degradación de
+cerámicas y polímeros. Daño por
+radiación.
+ 
+BLOQUE 3:
+MATERIALES MÁS UTILIZADOS EN INGENIERÍA CIVIL
+ 
+Tema 6.
+CONGLOMERANTES Y AGLOMERANTES
+El proceso
+conglomerante: fraguado y endurecimiento. Hidraulicidad. Yeso y
+escayola. Cal aérea e hidráulica. Cementos naturales
+y artificiales. Aditivos y adiciones. Derivados y materiales
+compuestos. Morteros. Normativa, designación y
+aplicaciones.
+ 
+Tema 7.
+HORMIGONES.
+Componentes
+del hormigón. Proceso de elaboración del
+hormigón. Propiedades del hormigón en estado fresco y
+endurecido. Granulometría de los áridos.
+Dosificación de hormigones. Fabricación, puesta en
+obra y curado del hormigón. Hormigón en masa, armado
+y pretensado. Hormigones especiales: ligeros y de altas
+prestaciones. Normativa, designación y aplicaciones.
+ 
+Tema 8.
+HORMIGONES MULTIFUNCIONALES
+
+Introducción a la multifuncionalidad. Extracción
+electroquímica de cloruros usando pasta de cemento
+conductora. Acción contra heladas en estructuras de
+hormigón armado mediante hormigones conductores.
+Apantallamiento de interferencias electromagnéticas mediante
+hormigones conductores. Sensor intrínseco de
+percepción de la deformación. Estructuras
+autosensibles de su deformación.
+ 
+Tema 9:
+DISEÑO Y CÁLCULO CON HORMIGONES LIGEROS PARA
+APLICACIONES ESTRUCTURALES
+
+Introducción. Materiales utilizados en la fabricación
+y sus propiedades. Propiedades físico-mecánicas del
+hormigón ligero. Diseño, dosificación,
+fabricación y puesta en obra. Bases de cálculo de los
+hormigones ligeros estructurales de acuerdo con la
+Instrucción EHE-08.
+ 
+Tema 10.
+DISEÑO Y CÁLCULO CON HORMIGONES REFORZADOS CON FIBRAS
+PARA APLICACIONES ESTRUCTURALES
+
+Introducción. Materiales utilizados como fibras de refuerzo
+de hormigón. Aplicaciones de los hormigones
+fibro-reforzados: estructurales y no estructurales.
+Dosificación y puesta en obra. Bases de cálculo de
+los hormigones fibro-reforzados de acuerdo con la
+Instrucción EHE-08.
+ 
+Tema 11.
+MATERIALES BITUMINOSOS, ADHESIVOS, AISLANTES Y PINTURAS.
+Propiedades de
+los materiales bituminosos. Mezclas bituminosas, normativa,
+designación y sus aplicaciones. Propiedades de los
+materiales adhesivos. Proceso de fabricación, productos,
+designación y aplicaciones. Materiales aislantes. Pinturas y
+barnices: componentes, tipos y aplicaciones.
+ 
+Tema 12.
+MATERIALES BITUMINOSOS ESPECIALES
+
+Introducción. Betunes, betunes modificados, emulsiones
+bituminosas, ligantes y emulsiones bituminosas de última
+generación. Introducción a las mezclas bituminosas en
+caliente, templadas, semicalientes y en frio. SMA, mezclas
+bituminosas con altas tasas de material reciclado, mezclas con
+adiciones. Normativa europea para la caracterización.
+ 
+'

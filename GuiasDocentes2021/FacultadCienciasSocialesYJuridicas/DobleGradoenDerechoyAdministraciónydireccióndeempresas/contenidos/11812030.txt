@@ -1,0 +1,85 @@
+'
+
+
+
+Contenidos básicos
+
+
+Modelo lineal general
+Extensiones
+Especificación del modelo
+Heterocedasticidad
+Autocorrelación
+
+
+
+
+Contenidos desarrollados
+
+1. Introducción general a los modelos
+econométricos
+
+Concepto de econometría
+El método econométrico
+Modelos econométricos
+
+2. El modelo de regresión lineal general
+
+Planteamiento del modelo
+Estimación mínimo-cuadrática
+Propiedades de los estimadores MCO
+Bondad del ajuste
+Estimación por intervalos
+Contrastes de hipótesis
+Predicción
+
+3. Extensiones del MLG
+
+Extensión a modelos linealizables
+Modelos con interacción
+Regresión sin término independiente
+
+4. Regresión con factores cualitativos
+
+Modelos con una variable cualitativa
+Modelos con una variable cuantitativa y otra cualitativa
+Modelos con una variable cuantitativa y más de una
+  variable cualitativa
+
+5. Selección de modelos
+
+Errores de especificación
+Construcción de un modelo
+Criterios de selección de modelos
+
+6. Violación de los supuestos básicos:
+perturbaciones no esféricas
+
+Estimación mínimo-cuadrática
+  generalizada. Propiedades
+Intervalos de confianza y contrastación de
+  hipótesis
+Hipótesis básicas: normalidad y análisis
+  de residuos
+
+7. Heterocedasticidad
+
+Naturaleza del problema. Causas y consecuencias de la
+  heterocedasticidad
+Detección de la heterocedasticidad
+Soluciones al problema de la heterocedasticidad
+
+8. Autocorrelación
+
+Naturaleza del problema. Causas y consecuencias de la
+  autocorrelación
+Detección de la autocorrelación
+Soluciones al problema de la autocorrelación
+
+9. Multicolinealidad
+
+Naturaleza de la multicolinealidad
+Detección de la multicolinealidad
+Soluciones al problema de la multicolinealidad
+
+'

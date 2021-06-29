@@ -1,0 +1,267 @@
+'
+
+BLOQUE 1.- HIDRÁULICA.- Fundamentos de Mecánica de
+Fluidos: Estática y dinámica de fluidos.
+Análisis de sistemas de conducción de fluidos.
+Máquinas
+fluidomecánicas.
+BLOQUE 2.- TERMOTECNIA.- Transmisión de calor:
+conducción, Convección, radiación.
+Requerimientos de conservación de la energía.
+Análisis de
+problemas de transferencia de calor. Fundamentos y conceptos
+básicos de Máquinas térmicas.
+BLOQUE 3.-MECÁNICA. Mecánica Aplicada.
+Mecanismos y elementos de transmisión.
+
+ 
+
+HIDRÁULICA.
+
+
+TEMA 1: DEFINICIONES Y CONCEPTOS PRELIMINARES.
+  PROPIEDADES DE LOS LÍQUIDOS
+
+1.ÁMBITO DE HIDRÁULICA. .
+2.- DESARROLLO HISTÓRICO
+3.- CONCEPTOS BÁSICOS
+4.- DEFINICIÓN DE FLUIDO. DISTINCIÓN ENTRE UN
+SÓLIDO Y UN FLUIDO
+5.- DISTINCIÓN ENTRE UN GAS Y UN LÍQUIDO. -
+DENSIDAD, PESO ESPECÍFICO, VOLUMEN ESPECÍFICO Y
+DENSIDAD RELATIVA
+
+FLUIDOS COMPRESIBLES E INCOMPRESIBLES. COMPRESIBILIDAD DE LOS
+  LÍQUIDOS
+
+6.- VISCOSIDAD. 1 Medición de la viscosidad. Tipos de
+viscosímetros
+
+TENSIÓN SUPERFICIAL. . Capilaridad
+PRESIÓN DE VAPOR DE LOS LÍQUIDOS.
+  Presión de saturación. Cavitación.
+
+
+TEMA 2: HIDROSTÁTICA
+
+1.- INTRODUCCIÓN. 1.1.- Concepto de equilibrio. .1.2.-
+Aplicaciones de la ecuación de equilibrio. .1.3
+Presión en un punto igual en todas direcciones.
+2.- VARIACIÓN DE PRESIÓN EN UN FLUIDO EN
+REPOSO.
+3 PRESIÓN ABSOLUTA Y PRESIÓN MANOMÉTRICA
+Presión expresada como altura del fluido.  
+.
+4.- MEDICIÓN DE LA PRESIÓN .4.1 Medidores de
+presión absoluta: barómetros .4.2.- Medidores y
+transductores de presión.
+5.- FUERZA SOBRE UN ÁREA PLANA .5.1 Superficie horizontal
+.5.2.- Superficie plana inclinada .5.3.- Superficie curva
+
+TEMA 3: CARACTERÍSTICAS DEL FLUJO LÍQUIDO.
+  ECUACIONES FUNDAMENTALES
+
+1.- DEFINICIONES. .- PRINCIPALES TIPOS DE FLUJO
+ECUACIÓN DE CONTINUIDAD.ECUACIÓN DE LA
+ENERGÍA.
+Teorema de Bernoulli
+Aplicaciones del Teorema de Bernoulli
+2.- POTENCIA EN EL FLUJO FLUIDO.
+3.- PRINCIPIO DE CANTIDAD DE MOVIMIENTO.  Aplicación
+de la ecuación de cantidad de movimiento en conductos
+fijos
+
+TEMA 4: CONDUCCIONES FORZADAS EN RÉGIMEN
+  PERMANENTE
+
+1.- INTRODUCCIÓN : FLUJO LAMINAR Y TURBULENTO,
+NÚMERO DE REYNOLDS CRÍTICO, RADIO  
+HIDRÁULICO, DIÁMETRO HIDRÁULICO
+2.- PÉRDIDA DE CARGA EN CONDUCTOS DE SECCIÓN
+TRANSVERSAL CONSTANTE
+3. - PÉRDIDA DE CARGA EN CONDUCTOS CIRCULARES. -
+ECUACIÓN DE DARCY  - CÁLCULO DE LA
+PÉRDIDA DE CARGA EN RÉGIMEN LAMINAR - CÁLCULO
+DE LA PÉRDIDA DE CARGA EN RÉGIMEN TURBULENTO
+4.- FÓRMULA DE COLEBROOK Y DIAGRAMA DE MOODY
+5.- FORMA DE CÁLCULO EN LOS PROBLEMAS BÁSICOS EN
+TUBERÍAS
+6.- PÉRDIDAS DE CARGA LOCALES (SECUNDARIAS, ACCIDENTALES,
+DE ACCESORIOS)
+
+TEMA 05: BOMBAS. ESTACIONES ELEVADORAS
+
+1.- INTRODUCCIÓN
+2.- TIPOS DE BOMBAS - PARÁMETROS IMPLICADOS EN LA
+SELECCIÓN DE UNA BOMBA
+3.- CURVA CARACTERÍSTICA REAL H-Q .- CURVAS DE POTENCIAS
+Y DE RENDIMIENTO GLOBAL
+4 - PUNTO DE FUNCIONAMIENTO DE UNA BOMBA FUNCIONAMIENTO A
+VELOCIDAD ANGULAR VARIABLE
+5.- ACOPLAMIENTO DE BOMBAS A LA RED
+6.- CAVITACIÓN EN BOMBAS
+  
+TERMOTECNIA.
+
+Tema 6. Intruducción a la Termodinámica.
+  Conceptos básicos.
+
+6.1 Sistemas Cerrados. Definiciones.
+6.2 Primer Principio de la Termodinámica.
+6.3 Máquinas Térmicas.
+6.4 Máquina de Carnot.
+6.5 Segundo Principio de la Termodinámica.
+6.6 Gases Perfectos.
+6.7 Estudio de Vapores.
+6.8 Sistemas Abiertos.
+ 
+
+TEMA 07. Conceptos básicos de Transferencia de
+  Calor.
+
+7.1.- Introducción.
+7.2.- Conducción.
+7.3.- Convección.
+7.4.- Radiación.
+7.5.- Requerimientos de conservación de la
+energía.
+7.6.- Análisis de problemas de transferencia de
+calor.
+
+ 
+
+
+TEMA 8. Transmisión de Calor.
+  Conducción.
+
+8.1.- Introducción.
+8.2.- Conducción.
+8.2.1  El modelo para la conducción.
+8.2.2 Conducción unidimensional de estado estable:
+pared plana y pared cilíndrica.
+8.2.3 Conducción con generación de
+energía térmica.
+
+ 
+
+
+TEMA 09. Convección. Correlaciones
+  Empíricas.
+
+9.1.- Transferencia de calor por convección.
+9.2.- Capas límite de convección.
+9.3.- Flujo laminar y turbulento.
+9.4.- Ecuaciones para la transferencia por
+convección.
+9.5.- Aproximaciones y condiciones especiales.
+9.6.- Similitud de capas límite: ecuaciones de
+transferencia por convección normalizadas.
+9.7.- Significado físico de los parámetros
+adimensionales.
+9.8.- Analogías en la capa límite.
+9.9.- Efectos de la Turbulencia.
+9.10.- Correlaciones empíricas en convección.
+9.10.1.- Flujo externo, convección forzada, sin cambio de
+fase.
+9.10.2.- Flujo interno, convección forzada, sin cambio de
+fase. 
+
+ 
+
+
+TEMA 10. Intercambiadores de Calor.
+
+ 10.1 Introducción.
+10.2.- Tipos de intercambiadores de calor.
+10.3.- Coeficiente global de transferencia de calor.
+10.4.- Análisis del intercambiador de calor: Uso de la
+diferencia de temperatura media logarítmica (DTML).
+10.5.- Análisis del intercambiador de calor:
+Método de la eficiencia NUT.-
+10.6.- Metodología del cálculo de un
+intercambiador de calor.
+
+ 
+
+
+Tema 11. Radiación.
+
+11.1.- Introducción.
+11.2.- Intensidad de la radiación.
+11.2.1.- Definiciones.
+11.2.2 Relación con la emisión.
+11.2.3 Relación con la irradiación.
+11.2.4 Relación con la radiosidad.
+11.3.- Radiación de un cuerpo negro.
+11.3.1 Distribución de Planck.
+11.3.2 Ley de desplazamiento de Wien.
+11.3.3 Ley de Stefan-Boltzmann.
+11.3.4 Emisión de banda.
+11.4.- Emisión superficial.
+11.5. Absorción, reflexión y Transmisión
+superficiales.
+11.5.1 Absortividad.
+11.5.2 Reflectividad.
+11.5.3 Transmisividad.
+11.5.4 Consideraciones especiales.
+
+ 
+
+
+MECÁNICA APLICADA.
+ 
+BLOQUE 1. INTRODUCCION Y ESTATICA DE LA PARTICULA.
+TEMA 1. Introducción a la mecánica vectorial.
+ 1.1. Introducción.
+ 1.2. La mecánica en la Ingeniería
+Mecánica.
+ 1.3. Relaciones trigonométricas básicas.
+ 
+ TEMA 2. Estática de la partícula.
+ 2.1. Suma y descomposición de fuerzas.
+2.2. Equilibrio y primera ley de Newton.
+ 
+ BLOQUE 2. ESTÁTICA DEL SÓLIDO, ESTRUCTURAS Y
+MÁQUINAS.
+ TEMA 3. Efecto mecánico de las fuerzas sobre un
+sólido. Sistema de fuerzas.
+ 3.1. Efecto mecánico de una fuerza sobre un
+sólido.
+ 3.2. Par de fuerzas. 3.3. Resolución de sistemas de
+fuerzas.
+ 
+ TEMA 4. Estática del sólido
+rígido.
+ 4.1. Equilibrio del sólido rígido en tres
+dimensiones.
+4.2. Equilibrio en problemas planos.
+ 4.3. Cálculo de la resultante de las fuerzas
+internas en una sección del sólido.
+ 
+TEMA 5. Estática de sistemas mecánicos.
+Estructuras y Máquinas.
+ 5.1. Sistemas en equilibrio formados por enlace de
+distintos sólidos.
+ 5.2. Fundamentos del análisis de estructuras.
+5.3. Análisis de fuerzas en Máquinas y
+Entramados.
+ 
+BLOQUE 3. MOMENTOS DE PRIMER Y SEGUNDO ORDEN.
+TEMA 6. Centro de gravedad, de masas y centroides.
+6.1. Centro de gravedad de un sólido.
+6.2. Momentos de primer orden. Cálculo de centroides.
+6.3. Aplicaciones de los momentos de primer y segundo orden.
+ 
+TEMA 7. Momentos de inercia de superficies planas.
+7.1. Momentos de segundo orden o de inercia.
+7.2. Introducción a las aplicaciones de los momentos de
+inercia en cálculo de resistencia.
+7.3. Productos de inercia. Ejes principales de inercia.
+7.4. Aplicaciones del Círculo de Mohr.
+ 
+TEMA 8. Momentos de inercia de masas.
+ 8.1. Momentos de segundo orden de masa.
+Momentos de inercia respecto a un eje.
+8.2. Introducción a los ejes principales y elipsoide de
+inercia.
+'

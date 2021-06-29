@@ -1,0 +1,151 @@
+'
+
+
+Instrumentación en
+  Fotogrametría digital.
+
+ 
+
+Flujo de trabajo en
+  Fotogrametría digital.
+
+ 
+
+Orientación indirecta
+  soportada por GPS/INS.Orientación directa.
+
+ 
+
+Aplicación de los
+  modelos matemáticos deorientación a la
+  Teledetección.
+
+ 
+
+Correlación ( matching
+  ): concepto y clasificación de métodos.
+
+ 
+
+Automatización de los
+  procesos de orientación fotogramétrica.
+
+ 
+
+Métodos para la
+  generación automática de modelos digitales de
+  elevaciones.
+
+ 
+
+Ortoimágenes.
+  Rectificación y ortorrectificación. Control de
+  calidad en ortoimágenes.
+
+
+
+TEORÍA
+
+
+1. Fotogrametría Digital
+
+1.1 Concepto.
+1.2 Evolución histórica de la Fotogrametría
+Digital
+1.3 Oportunidades y potencial
+
+2. Instrumentación en Fotogrametría
+  Digital.
+
+2.1 Cámaras digitales fotogramétricas de gran y
+medio formato. Cámaras oblicuas y Sistemas multisensor.
+2.2 Sensores de alta resolución instalados en
+satélites.
+2.3 Escáneres Fotogramétricos.
+2.4 Preprocesado y almacenamiento de imágenes digitales
+en Fotogrametría y Teledetección.
+2.5 Sistemas Fotogramétricos Digitales
+
+3. Flujo de trabajo en Fotogrametría Digital.
+  Proyectos.
+
+3.1 Clasificación de los procesos fotogramétricos
+digitales
+3.2 Diagrama de flujo en fotogrametría digital
+
+4. Métodos avanzados de orientación
+  fotogramétrica y teledetección.
+
+4.1 Ajuste de haces. Autocalibración.
+4.2 Orientación soportada por GPS/INS.
+4.3 Orientación directa vs. indirecta.
+4.4 Modelos de orientación de otros sensores
+aéreos y espacio transportados.
+
+5. Automatización de los procesos de
+  medida.
+
+5.1 Concepto de correlación (matching). Fundamentos
+5.2 Métodos para la reducción del espacio de
+búsqueda
+5.3 Clasificación de los métodos de
+correlación
+5.4 Métodos de correlación a nivel de
+área
+5.5 Métodos de correlación a nivel de elemento
+5.6 Problemas asociados con el proceso de matching
+5.7 Nuevas tendencias en los procedimientos de matching. SfM.
+Aplicaciones de los nuevos métodos de matching a la
+orientación de las imágenes.
+
+6. Generación automática de modelos
+  digitales de elevaciones
+
+6.1 Modelos digitales del terreno y modelos digitales de
+elevaciones. Estructuras
+6.2 Modelos digitales por correlación
+automática.
+6.3 El sistema LiDAR.
+6.4 Control de calidad en modelos digitales de elevaciones.
+
+7. Ortoimagen digital
+
+7.1 Conceptos básicos. Rectificación y
+Ortorrectificación
+7.2 Métodos de rectificación de imágenes
+digitales
+7.3 Etapas de realización de una ortoimagen mediante
+rectificación diferencial
+7.4 Generación de ortoimágenes en zonas urbanas.
+Ortoimagen verdadera.
+7.5 Proyecto de ortofotografía. Control de calidad.
+ 
+
+PRÁCTICAS
+
+
+Práctica 1. Tratamiento de imágenes
+  digitales. OpenCV.
+
+
+Práctica 2. Orientación de imagenes en
+  Fotogrametría y Teledetección. OpenCV
+
+
+Práctica 3. Proyecto fotogramétrico para la
+  obtención de productos cartográficos.
+
+P3-1. Preparación e importación de la
+información
+P3-2. Orientación Fotogramétrica. 
+P3-3. Modelos Digitales de Elevaciones.
+P3-4. Ortorrectificación y mosaicos.
+
+Práctica 4. Operadores locales en imágenes.
+  Feature Based Matching. OpenCV
+
+
+Práctica 5. Tratamiento de información
+  LiDAR.
+
+'

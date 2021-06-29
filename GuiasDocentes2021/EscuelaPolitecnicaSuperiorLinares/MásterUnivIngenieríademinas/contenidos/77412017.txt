@@ -1,0 +1,312 @@
+'
+
+· Ordenación normativa del Territorio y planes de
+Ordenación Territorial
+· Redes Geodésicas Activas. Aplicación
+Minería. Demarcación de registros Mineros
+· Infraestructura de datos Espaciales. Portales
+Web-Map. Centros de descarga de información
+geográfica.
+· Sistemas de información Geográfica:
+funciones básicas, modelo de datos y análisis.
+Calidad de los datos.
+
+
+
+1.Contenidos
+  teóricos.
+
+
+
+ 
+
+
+
+         
+  Sistemas de información geográfica.
+
+
+
+ 
+
+
+
+Tema 1: Introducción
+  Sistemas de Información geográfica.
+
+
+Introducción.
+  Antecedentes y evolución. Disciplinas y tecnologías
+  relacionadas .Áreas de aplicación práctica.
+  Sistemas de referencia. Subsistemas de un SIG. Estructura de
+  datos en un SIG. Modelo de datos .Estructura raster . estructura
+  Vectorial.
+
+
+
+ 
+
+
+
+Tema 2: Fuentes de
+  Información.
+
+
+Instituto Geográfico
+  Nacional. Institutos Cartográficos Autonómicos.
+  Introducción a las  infraestructuras de Datos
+  Espaciales (IDE). IDE Nacional(IDEE).IDEs 
+  autonómico.
+
+
+ 
+
+
+
+Tema 3: Datos Espaciales:
+  Fuentes y Captura.
+
+
+Fuente de datos , datos
+  primarios , datos secundarios,  normalización y
+  difusión de la información. Datos 
+  secundarios, digitalizadores  y  escáner
+  ,   conversión de otras fuentes digitales ,
+  rasterización y vectorización, integración
+  de diferentes fuentes de datos, geoportales.
+
+
+ 
+
+
+
+Tema 4: SIG raster
+  .
+
+
+Descripción de un SIG
+  raster .valores de las celdas. Capas de información.
+  Posibilidades de explotación.
+
+
+Visualización de capas.
+  Operaciones locales. Operaciones con vecinos cercanos.
+  Operaciones con vecinos lejanos. Operaciones con zonas.
+  Contenidos de las capas. Mantenimiento esencial. Etapas de un
+  proyecto SIG.
+
+
+ 
+
+
+
+Tema 5: SIG
+Vectorial
+.                         
+
+Introducción y
+  definiciones .Relaciones entre objetos espaciales. Codificando
+  relaciones como atributo. Topología. Consistencia de los
+  objetos espaciales. Construir la topología. Diseño
+  y construcción  de un SIG. Posibilidades de un
+  SIG.   
+
+
+
+
+ 
+
+
+
+ 
+         Ordenación del
+  Territorio.
+
+
+
+
+ 
+
+
+
+Tema 6 : Ordenación
+  territorial .
+
+
+Conceptos generales. La
+  gestión ambiental y evaluación de impacto ambiental
+  como instrumento de ordenación territorial.
+
+
+
+ 
+
+
+
+Tema
+7: 
+Planes de  ordenación
+territorial.
+
+Metodologías para la
+  elaboración de planes de ordenación territorial,
+  análisis y diagnósticos del sistema territorial.
+  Subsistemas.  Integración de la componente social(La
+  población, actividades productivas, estructuras
+  económicas de los sectores de actividad) y del paisaje.
+  Marco legal.
+
+
+
+ 
+
+
+
+Tema 8: Ordenación
+  minera
+
+
+Estudios de ordenación
+  minera, planes directores de los recursos mineros.
+  Metodología para la elaboración de un mapa
+  minero-ambiental. Zonificación del territorio.
+
+
+
+ 
+
+
+
+Sistemas de navegación
+  por satélite  
+
+
+
+
+ 
+
+
+
+Tema 9: Sistemas
+  GNSS
+
+Geodesia espacial. Definición del sistema. Estructura de
+la señal. Medida de código y medida de fase.
+Clasificación de los receptores. Observables y
+precisión. Fuentes de error. Tipos de posicionamiento.
+Aplicaciones GNSS en minería.
+
+
+Tema 10: Redes geodésicas
+  activas
+
+Introducción. Definición
+del sistema. Servicios de posicionamiento en tiempo real. Formatos
+de corrección. Servicios ofrecidos por ERGNSS. Observaciones
+indirectas.
+
+Tema 11: Cartografía Minera.
+
+Introducción. Evolución de la unidad minera.
+Registros mineros. Demasías. 
+
+
+
+ 
+
+
+ 
+
+
+
+
+Contenidos
+    prácticos
+
+
+
+
+         
+
+
+
+             
+  Sistemas de información geográfica.
+
+
+
+ 
+
+
+Introducción tratamiento
+  digital de imágenes.
+
+
+Correcciones de una
+  imagen.
+
+
+Transformación a 
+  parámetros físicos.
+
+
+Realce y mejoras de la
+  imagen.
+
+
+Transformaciones de la imagen
+  digital.
+
+
+Clasificación de la
+  imagen digital.
+
+
+Análisis SIG
+  raster.
+
+
+Análisis SIG
+  vectorial.
+
+
+
+ 
+
+
+
+           
+  Ordenación del Territorio
+
+
+
+
+ 
+
+
+Elaboración de un mapa
+  minero ambienta 
+  l utilizando SIG
+
+
+
+   
+
+
+
+       
+     Redes geodésicas activas
+
+
+ 
+
+
+Métodos estáticos.
+  Posproceso. Métodos RTK utilizando correcciones
+  diferenciales de la R.AP   
+
+
+Replanteo punto de partida Ley
+  de Minas Actual utilizando la RAP.
+
+'

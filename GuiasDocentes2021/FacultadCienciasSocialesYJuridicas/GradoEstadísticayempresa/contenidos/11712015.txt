@@ -1,0 +1,44 @@
+'
+
+Fundamentos teoricos e importancia del control de gestion
+Analisis de costes para la toma de decisiones Herramientas clasicas
+para el control de gestión: . Elaboración de
+presupuestos funcionales y síntesis presupuestaria. Centros
+de actividad y precios de transparencia. Nuevas herramientas para
+el control de gestión: Gestión por procesos.
+Gestión por actividades: el modelo ABC. Cuandro de mando
+integral.
+
+TEMA 1: LOS COSTES DENTRO DEL PROCESO DE PLANIFICACIÓN Y
+CONTROL
+1.1. Dirección estratégica de costes y toma de
+decisiones. 1.2. Capacidad productiva disponible y capacidad
+limitada. 1.3. Capacidad y volumen de producción 1.4. El
+análisis coste-volumen-beneficio 1.5. Modelo simplificado
+del análisis CVB.
+TEMA 2: LOS COSTES Y LA TOMA DE DECISIONES
+2.1. Introducción a la toma de decisiones. 2.2.
+Decisión de fabricar o comprar 2.3. Aceptar o rechazar un
+pedido/oferta 2.4. Asignación de recursos escasos 2.5.
+Abandonar o mantener un producto de la empresa 2.6. Valor esperado
+y probabilidad de ocurrencia 2.7. Los costes de oportunidad
+TEMA 3: COSTES ESTÁNDARES Y ELABORACIÓN DE
+PRESUPUESTOS
+3.1.La relación del presupuesto con la estrategia. 3.2.
+El coste estándar 3.3. Establecimiento de costes
+estándares.
+3.4. El presupuesto 3.5. Planificación y control del
+área comercial 3.6. Planificación y control del
+área productiva
+3.7. Planificación y control financiero 3.8. El
+control de presupuestos
+TEMA 4: COSTES BASADOS EN
+ACTIVIDADES
+4.1. Fundamentos del modelo ABC 4.2. El concepto de actividad y
+sus clases 4.3. Los inductores del coste 4.4. Implantación
+de un sistema ABC 4.5. El proceso de gestión de las
+actividades: el ABM
+TEMA 5: INFORMES PARA LA DIRECCIÓN
+5.1. El cuadro de mando integral 5.2. El Estado de Capital
+Intelectual
+'

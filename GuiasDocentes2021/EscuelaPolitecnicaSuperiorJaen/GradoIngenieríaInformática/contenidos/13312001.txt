@@ -1,0 +1,151 @@
+'
+
+Clasificación de arquitecturas paralelas.
+Evaluación de prestaciones. Paralelismo a nivel de
+instrucción: procesadores segmentados y superescalares.
+Computadores paralelos: multiprocesadores, multicores,
+procesadores multihebra y multicomputadores. Optimización de
+código. Programación paralela.
+ 
+
+
+
+
+Teoría
+
+
+Módulo
+  1: Introducción.
+
+
+·
+Concepto de arquitectura y motivación al estudio de la
+asignatura
+
+·
+Estrategias para mejorar las prestaciones de los
+computadores
+
+·
+Clasificación de las arquitecturas
+
+·
+Medida de prestaciones de un computador
+
+Módulo 2:
+Segmentación de Cauce.
+
+·
+Introducción: Motivación y nota
+histórica
+
+·
+Principio y prestaciones generales
+
+·
+Diseño de un procesador segmentado sencillo
+
+·
+Espacio de diseño de los procesadores segmentados
+
+·
+Optimización de cauces funcionales
+
+·
+Interrupciones en un procesador segmentado
+
+Módulo 3:
+Procesadores Superescalares
+
+·
+Introducción: Motivación y nota
+histórica
+
+·
+Paralelismo entre instrucciones (ILP). Orden en Emisión y
+Finalización
+
+·
+Aspectos del procesamiento Superescalar
+
+·
+Procesamiento de Instrucciones
+
+Módulo 4:
+Procesadores VLIW
+
+·
+Introducción: Motivación y Nota
+Histórica
+
+·
+Principio y Espacio de Diseño
+
+·
+Aprovechamiento del Paralelismo en Arquitecturas VLIW
+
+·
+Ejemplos de Procesadores VLIW Comerciales
+
+Módulo 5:
+Procesadores Vectoriales
+
+·
+Introducción: Motivación y Nota
+Histórica
+
+·
+Principio, Espacio de Diseño y Prestaciones Generales
+
+·
+El Sistema de Memoria
+
+·
+Medida de Prestaciones de los Procesadores Vectoriales
+
+·
+Problemas en el Procesamiento Vectorial y Soluciones
+
+Módulo 6:
+Computadores Paralelos, Programación Paralela
+
+·
+Clasificación y estructura general
+
+·
+Arquitecturas paralelas y niveles de paralelismo
+
+·
+Programación paralela
+
+·
+Prestaciones en computadores paralelos
+
+  
+  
+Prácticas
+
+
+Las
+  prácticas están compuestas por 4 bloques:
+
+
+-Bloque
+  1: Introducción DLX.
+
+
+-Bloque
+  2: Procesador Segmentado y técnicas de
+  optimización.
+
+
+-Bloque
+  3: Procesador Superescalar.
+
+
+
+-Bloque
+  4: Optimización de código con paralelismo.
+
+
+'

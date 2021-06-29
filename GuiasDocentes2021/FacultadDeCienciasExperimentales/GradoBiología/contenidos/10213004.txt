@@ -1,0 +1,75 @@
+'
+
+Rutas de transducción de señales. Metabolismo
+glucídico, lipídico y nitrogenado, su
+regulación e integración. Regulación de la
+expresión génica en procariotas y eucariotas.
+Plegamiento, maduración, distribución y
+degradación de proteínas.
+Técnicas y métodos de experimentación del
+metabolismo y de la Biología Molecular.
+
+PROGRAMA DE TEORÍA DETALLADO
+
+Tema 1.    Introducción.
+Características generales de las rutas metabólicas.
+Regulación del metabolismo e integración.
+
+Tema 2.    Sistemas de transducción
+de señales. Rutas basadas en el AMPc.Rutas basadas
+en inositol polifosfato, diacilglicerol y calcio. Rutas basadas en
+receptores con actividad tirosina quinasa. Rutas basadas en el GMPc
+y óxido nítrico. Rutas de transducción de
+señales iniciadas por hormonas esteroideas.  
+
+Tema 3.    Metabolismo glucídico,
+lipídico y nitrogenado, su regulación e
+integración. Glucólisis y
+gluconeogénesis. Metabolismo del glucógeno. Ruta de
+las pentosas fosfato. Digestión, absorción y
+transporte de lípidos. Síntesis y degradación
+de ácidos grasos. Cuerpos cetónicos.
+Biosíntesis de triacilglicéridos y lípidos de
+membrana. Síntesis y degradación de
+nucleótidos. Reacciones generales del metabolismo de los
+aminoácidos y ciclo de la urea.
+
+Tema 4.    Regulación de la
+expresión génica. Regulación de la
+expresión génica en procariotas: Operón
+de la lactosa, operón de la arabinosa y operón del
+triptófano. Regulación del ciclo vital del fago
+lambda. ARNs pequeños. Regulación de la
+expresión génica en eucariotas: Estructura de la
+cromatina y expresión génica. Modificaciones del
+ADN. Características generales de los factores de
+transcripción y de su interacción con el ADN.
+Mecanismos de regulación post-transcripcional.
+
+Tema 5.    Plegamiento, maduración,
+distribución y degradación de
+proteínas. Plegamiento de proteínas en el
+interior de la célula. Modificaciones post-traduccionales y
+rutas de distribución de proteínas.
+Degradación de proteínas: el sistema
+ubiquitina-proteasoma y la degradación lisosomal.
+
+Tema 6.    Técnicas y métodos
+de determinación del nivel de expresión de
+proteínas y genes. Proteómica.
+Western-blot. Proteómica. 
+Northern-blot, RT-PCR cuantitativa y
+semicuantitativa, DNA arrays.  
+PROGRAMA DE PRÁCTICAS DETALLADO
+Efecto del ayuno sobre el comportamiento cinético y
+niveles de expresión proteica de las deshidrognasas de la
+ruta de las pentosas fosfato en hígado de rata
+Sesión 1 y 2: Determinación de la
+concentración de glucógeno hepático.
+Sesión 3: Preparación de muestras y
+determinación del comportamiento cinético de la
+glucosa 6-fosfato deshidrogenasa (G6PDH) y 6-fosfogluconato
+deshidrogenasa (6PGDH).
+Sesión 4 y 5: Determinación del nivel de
+expresión de la G6PDH mediante Western-blot.
+'

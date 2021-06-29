@@ -1,0 +1,45 @@
+'
+
+Sistemas de electrones: descripción cuántica.
+Ecuación de Schrödinger. Función de onda y
+densidad.Teoría del funcional de la densidad (DFT).
+Ecuaciones de Kohn-Sham y métodos de resolución.
+Propiedades electrónicas de sólidos nanoestructurados
+usando el código ADF. Supercomputación aplicada a
+cálculos de propiedades electrónicas usando el
+método del funcional de la densidad (DFT). Código
+ABINIT. Métodos de Elementos Finitos (FEM). Software de
+simulación y modelización. Descripción de
+diversos paquetes de simulación. Métodos de Elementos
+Finitos (FEM) II Programa ANSYS. Problemas termomecánicos
+(elasticidad, plasticidad y conductividad térmica).
+Problemas Termomecánicos II (elasticidad, plasticidad y
+conductividad térmica). Problemas
+electromagnéticos.
+
+Tema 1. Construcciones
+autosostenibles energéticamente. Ventilación,
+calefacción y refrigeración pasivas.
+Ventilación, calefacción y refrigeración
+activas. Aislamiento. Iluminación.Normativas.
+Minimización del consumo de agua. Monitorización de
+parámetros. Energías renovables aplicadas a la
+construcción (tejados y fachadas). Impacto en el medio
+ambiente (Energy payback, Recycling). Nuevos materiales 'cero
+emisiones'. Ejemplos: Solar Decathlon Europe. Prácticas:
+Manejo de programas sobre el recurso solar (PVGIS y PVSIST).
+Diseño de sistemas fotovoltaicos y térmicos para
+ACS.
+Tema 2. Algoritmos
+metaheurísticos. Introducción. Clasificación:
+algoritmos trayectoriales, algoritmos poblacionales (evolutivos y
+Swarm Intelligence) y algoritmos híbridos. Problemas
+multiobjetivo. aplicaciones en ingeniería de materiales.
+Tema 3. Sistemas basados en reglas
+borrosas. Fuzzy Rule-Based Systems. Genetic-Fuzzy Systems
+(Pittsburgh Approach y Michigan Approach). Swarm-Fuzzy Systems.
+Introducción. Knowledge Acquisition with a Swarm
+Intellegence Approach (KASIA). Knowledge Acquisition with Rules as
+Particles (KARP). Aplicaciones en Ingeniería de
+Materiales.
+'

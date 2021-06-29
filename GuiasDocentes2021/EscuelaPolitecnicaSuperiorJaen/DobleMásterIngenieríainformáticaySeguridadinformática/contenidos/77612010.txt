@@ -1,0 +1,104 @@
+'
+
+· Código máquina y archivos binarios.
+· Desensamblado y descompilado de código.
+· Lenguajes compilados.
+· Lenguajes interpretados.
+· Lenguajes basados en códigos intermedios.
+· Sandboxes.
+
+
+
+Bloque
+  I. Análisis básico de binarios
+
+
+ 
+
+
+Máquinas
+    virtuales
+
+
+Análisis
+    básico estático
+
+Análisis
+  básico dinámico 
+
+
+ 
+
+
+Bloque
+  II. Análisis estático avanzado
+
+
+ 
+
+
+Arquitectura
+    x86
+
+Código
+  C visto en ensamblador
+Analizando
+  binarios maliciosos en Windows
+IDA
+  Pro
+
+ 
+
+
+Bloque
+  III. Funcionalidades del malware
+
+
+ 
+
+
+Tipos
+    de malware y sus funcionalidades
+
+
+Cómo
+    se lanza el malware
+
+Codificación
+  de datos
+
+Detección
+  basada en conexiones de red 
+
+
+ 
+
+
+Bloque
+  IV. Análisis dinámico avanzado
+
+
+ 
+
+
+Depuración
+
+Ollydbg
+
+
+Bloque V. Android
+
+
+
+Análisis
+    de Malware en Android
+
+
+
+
+Prácticas
+
+El alumnado tendrá la posibilidad de desarrollar
+diferentes prácticas relacionadas con el contenido
+desarrollado en las sesiones presenciales
+'

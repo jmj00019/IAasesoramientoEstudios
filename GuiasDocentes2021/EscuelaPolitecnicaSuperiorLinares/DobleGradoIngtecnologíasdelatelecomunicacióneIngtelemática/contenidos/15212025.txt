@@ -1,0 +1,365 @@
+'
+
+En esta asignatura el alumno conocerá las distintas
+técnicas utilizadas en cuanto a la
+señalización y conmutación en las redes de
+telecomunicación actuales, tanto en entornos fijos como
+móviles. Además se estudiaran distintos aspectos de
+ingeniería de tráfico, incidiendo especialmente en
+problemas de optimización, dimensionamiento de redes y de
+técnicas de calidad de servicio.
+
+
+
+En esta asignatura
+se dotará al alumno de la
+  capacidad para estar al día en las novedades en ciencia y
+  tecnología, sobre todo en este tipo de materias, tan
+  ligadas a un entono tan dinámico como son las
+  telecomunicaciones, y en concreto la Ingeniería
+  Telemática.
+
+ 
+
+TEORIA:
+
+
+ 
+
+
+TEMA 1.
+           
+  Introducción a la
+  conmutación.             
+
+
+1.1      
+  Introducción a la 
+  conmutación. 
+
+
+1.2      
+  Conmutación de circuitos, paquetes, tramas y
+  celdas. 
+
+
+1.3      
+  Estructura y funcionamiento de los sistemas de
+  conmutación. 
+
+
+1.4      
+  Digitalización de voz, terminales de abonado, circuitos
+  interfaces, etapas en una red de
+  conexión.      
+
+
+1.5      
+  Estructura y evaluación de rendimiento de los sistemas de
+  control.      
+
+
+ 
+
+
+Tema 2.
+            
+  Teoría de
+  tráfico.                      
+
+
+2.1.     
+  Introducción.   
+
+
+2.2.     
+  Estructura básica de un sistema de
+  colas.       
+
+
+2.3.     
+  Caracterización de un sistema de
+  colas.           
+
+
+2.4.     
+  Medidas de las prestaciones de un sistema de
+  colas.  
+
+
+2.5.     
+  Colas con conservación de
+  trabajo.     
+
+
+2.6.     
+  Fórmulas de
+  Little.       
+
+
+2.7.     
+  Modelos Markovianos de
+  colas.          
+
+
+2.8.     
+  Conceptos de
+  teletráfico.        
+
+
+2.9.     
+  Sistemas de pérdidas. 
+
+
+2.10.     Sistemas
+  de espera.    
+
+
+2.11.    
+  Redes de
+  colas.          
+
+
+2.12.     Sistema
+  M/G/1.
+
+
+ 
+
+
+Tema
+  3.           
+  Redes de conmutación de
+  circuito.                            
+
+
+3.1.     
+  Introducción. Modelo simple de conmutación de
+  circuitos: modo de
+  colas.      
+
+
+3.2.     
+  Elementos de ingeniería del
+  tráfico.     
+
+
+3.3.     
+  Redes de conmutación digital. 
+
+
+ 
+
+
+Tema
+  4.           
+  Redes de conmutación de
+  paquetes.               
+
+
+4.1.     
+  Introducción.   
+
+
+4.2.     
+  Algoritmos de encaminamiento de camino más
+  corto.  
+
+
+4.3.     
+  Dimensionamiento. 
+
+
+4.4.     
+  Caracterización del tráfico y la calidad de
+  servicio.    
+
+
+ 
+
+
+Tema 5.
+            
+  Sistema de Señalización Nº
+  7.              
+
+
+5.1      
+  Introducción a los sistemas de
+  señalización.    
+
+
+5.2      
+  Arquitectura del sistema SS7.  
+
+
+5.3      
+  Modelo de referencia. Capas del
+  protocolo.     
+
+
+5.4      
+  Tipos de enlaces SS7. 
+
+
+5.5      
+  Estructura de las tramas SS7.  
+
+
+5.6      
+  Evolución sobre redes
+  móviles.   
+
+
+ 
+
+
+Tema
+  6.           
+  Redes
+  Síncronas                      
+
+
+6.1      
+  Modos de transferencia. Introducción a las redes
+  síncronas.    
+
+
+6.2      
+  Arquitectura
+  SDH.        
+
+
+6.3      
+  Modelo de referencia. Capas del
+  protocolo.    
+
+
+6.4      
+  Estructura de tramas
+  SDH.      
+
+
+6.5      
+  Configuraciones de
+  Red.         
+
+
+6.6      
+  Sincronización.
+
+
+ 
+
+
+PRÁCTICAS:
+
+
+ 
+
+
+En ellas se
+  desarrollarán  habilidades de comunicación
+  información, ideas, problemas y soluciones en el
+  ámbito de ingeniería y la sociedad en general a
+  través de procesos de entrega de documentación o
+  presentaciones orales. Con  respecto a la
+  organización del trabajo, se fomentará la
+  colaboración y trabajo en equipo a través del
+  propio diseño de las prácticas.
+
+
+ 
+
+
+Práctica
+  1.       
+  Familiarización con herramientas de simulación de
+  sistemas de
+  espera.          
+
+
+En esta práctica se
+  abordará el estudio de diversas herramientas
+  de:   
+
+
+1) Simulación de sistemas
+  de colas.
+
+
+2) Cálculo de
+  parámetros característicos de sistemas de
+  colas.
+
+
+Todo ello con objeto
+  de:         
+
+
+1) Simular el comportamiento de
+  los sistemas estudiados.
+
+
+2) Obtener los valores de los
+  parámetros que caracterizan el comportamiento de estos
+  sistemas.
+
+
+3) Comparar los valores obtenidos
+  experimentalmente con los calculados
+  analíticamente.
+
+
+ 
+
+
+Práctica 2.
+         Análisis de los
+  resultados de la simulación de un sistema de
+  colas.     
+
+
+En esta práctica se
+  estudiarán procesos ligados al análisis de los
+  resultados obtenidos en la simulación de los sistemas de
+  espera, con objeto de: 
+
+
+1) Entender la influencia de la
+  carga sobre el comportamiento del sistema.
+
+
+2) Realizar una estimación
+  del valor real de los parámetros que caracterizan el
+  comportamiento de los sistemas de espera, a partir de los
+  resultados obtenidos en sucesivas simulaciones.
+
+
+3) Calcular el número de
+  simulaciones necesarias para obtener una estimación del
+  valor real de un parámetro característico, con una
+  determinada precisión.
+
+
+ 
+
+
+Práctica
+  3.        Dimensionamiento de
+  redes mediante modelado por
+  simulación.        
+
+
+En esta práctica se
+  aprenderá a emplear la técnica de dimensionamiento
+  de redes mediante modelado por simulación. Partiendo de la
+  explicación de las distintas fases de esta técnica,
+  se abordará su aplicación al modelado y
+  dimensionamiento de redes de conmutación paquetes y de
+  circuitos. Para ellos se hará uso de las herramientas de
+  simulación y cálculo estudiadas en la
+  práctica 1 y de las técnicas de análisis
+  descritas en la práctica 2.
+
+'

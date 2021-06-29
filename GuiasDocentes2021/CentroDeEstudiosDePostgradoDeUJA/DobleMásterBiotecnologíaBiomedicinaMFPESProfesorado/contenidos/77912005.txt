@@ -1,0 +1,182 @@
+'
+
+En esta asignatura se pretende profundizar en los conocimientos
+acerca de la regulación de la expresión de genes
+tanto en el desarrollo embrionario como en el contexto de organismo
+adulto. Se abordará no solo el estudio de la
+regulación específica de determinados genes, sino
+también el papel que el ADN repetitivo, los elementos
+móviles asociados a este y el ADN no codificante juegan en
+la regulación de la expresión génica.
+Además de esto se abordará igualmente el uso de las
+técnicas de análisis y cuantificación de la
+expresión génica. Por otro lado, en esta asignatura
+se profundizará so-
+bre las metodologías que permiten modificar
+genéticamente células así como organismos
+animales y vegetales. Se tratará la base conceptual de este
+conjunto de técnicas, se abordará su
+aplicación a la clonación y la obtención de
+organismos modificados genéticamente y se darán a
+conocer sus apli-
+caciones en el ámbito de la Biomedicina y
+Biotecnología.
+
+TÉCNICAS
+Y HERRAMIENTAS MOLECULARES UTILIZADAS EN MANIPULACIÓN
+GENÉTICA
+
+Enzimas,
+  hibridación, PCR, secuenciación, vectores de
+  clonación y vectores de expresión, genotecas,
+  "recombineering", mutagénesis
+
+ 
+MANIPULACIÓN
+GENÉTICA EN PROCARIOTAS
+Manipulación
+del ADN en procariotas. Expresión de genes
+heterólogos en procariotas. Construcciones genéticas
+y cepas huésped. Síntesis de productos de
+interés terapéutico e interés industrial en E.
+coli. Modificación de bacterias para usos medioambientales.
+Aplicaciones de la Ingeniería Genética a la
+obtención de productos de interés terapéutico
+e industrial (proteínas, vacunas, antibióticos y
+biopolímeros). Estrategias de síntesis de vacunas
+recombinantes: subunidades de vacunas y vacunas vivas).
+ 
+MANIPULACIÓN
+GENÉTICA EN EUCARIOTAS (LEVADURAS)
+Manipulación
+del ADN en levaduras. Sistemas de expresión de
+proteínas heterólogas en levadura. Tipos de vectores,
+marcadores y cepas huésped utilizadas para la
+síntesis de proteínas. Estrategias de
+manipulación del genoma de levadura.
+ 
+INGENIERÍA
+GENÉTICA EN SISTEMAS ANIMALES
+Manipulación
+genética de células animales. Métodos de
+transferencia. Tipos de vectores y marcadores. Rescate e
+identificación de los genes transferidos. Aplicaciones al
+clonado de oncogenes humanos.
+Animales
+transgénicos. Métodos de obtención de animales
+transgénicos. Transformación en la línea
+germinal de Drosophila. Transformación en ratón.
+Métodos de transferencia de genes a células
+germinales y células somáticas. Animales knock-out y
+sustitución dirigida de genes. Knock-out condicionales.
+Transferencia de núcleos. Edición
+genómica.
+Animales
+transgénicos en especies modelo, aplicaciones en
+investigación básica y aplicada. Mejora
+genética animal, síntesis de productos
+heterólogos en la glándula mamaria de ovinos y
+bovinos.
+ 
+INGENIERIA
+GENETICA EN SISTEMAS VEGETALES
+Cultivos
+de células vegetales in vitro. El plásmido Ti como
+vector. Otros métodos de transferencia de genes a plantas.
+Selección de las células transfectadas y
+regeneración de la planta adulta.
+Plantas
+transgénicas. Aplicación a la mejora vegetal:
+resistencia a infecciones víricas, parásitos y
+herbicidas. Producción de variedades con interés
+agrícola y ornamental. Riesgos ecológicos.
+ 
+UTILIZACIÓN
+DE ELEMENTOS GENÉTICOS MÓVILES EN
+BIOTECNOLOGÍA
+Elementos
+genéticos móviles: características e
+interacciones con el genoma del hospedador. Los transposones como
+vectores: ventajas e inconvenientes. Utilización de
+elementos genéticos móviles en transgénesis:
+estado actual de esta tecnología en distintos organismos.
+Posibles aplicaciones.
+ 
+ANÁLISIS
+DE LA MAQUINARIA TRANSCRIPCIONAL IMPLICADA EN LA REGULACIÓN
+DE LA EXPRESIÓN GÉNICA. EFECTO DE LA CROMATINA
+
+ADN
+  repetitivo y su implicación en la remodelación de
+  la cromatina en la expresión génica
+RNA
+  polimerasas de procariotas y eucariotas
+Factores
+  de transcripción (factores generales y
+  específicos)
+Secuencias
+  de DNA implicadas en regulación de la expresión
+  génica
+
+REGULACIÓN
+transcripcional y regulación postranscripcional de RNAs
+
+Las
+  moléculas de RNA y su función en la
+  regulación de la expresión génica
+Síntesis
+  de RNAs y asociación con factores transcripcionales
+La
+  molécula de mRNA y la autoregulación del proceso de
+  expresión génica
+Modificaciones
+  co- y post-transcripcionales.
+
+REGULACION
+TRANSCRIPCIÓN-TRADUCCIÓN
+
+Asociación
+  mRNA-maquinaria de traducción.
+Papel
+  de la maquinaria de traducción en la regulación de
+  la expresión génica
+
+EL
+PAPEL DEL ARN EN LA REGULACIÓN DE LA EXPRESIÓN
+GÉNICA DEPENDIENTE DE HOMOLOGÍA
+
+Regulación
+  transcripcional. Mecanismo. Funciones biológicas.
+  Aplicaciones.
+Regulación
+  post-transcripcional. Mecanismo. Peculiaridades en distintos
+  organismos modelo. Funciones biológicas.
+  Aplicaciones.
+Otros
+  ARNs no codificantes reguladores: lncRNAs y circRNAs.
+
+REGULACION
+DE LA EXPRESION GENICA EN EL DESARROLLO, HOMEOSTASIS Y
+FISIOPATOLOGIA
+
+Factores
+  de transcripción durante el desarrollo;
+  diferenciación tisular
+Generación
+  de células madre inducibles; reprogramación celular
+  tejido especifico
+Alteraciones
+  fisiopatológicas y su repercusión en la
+  regulación de la expresión génica
+
+TECNICAS
+DE ANALISIS DE LA REGULACION DE LA EXPRESIÓN GENICA
+
+Técnicas
+  de análisis de ácidos nucleicos; ISH; RNAseq,
+  ChIP-seq
+Técnicas
+  de análisis de proteínas; ISH, proteómica
+  mono y bidimensional; MS/MS
+
+'

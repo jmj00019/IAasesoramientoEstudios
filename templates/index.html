@@ -1,0 +1,53 @@
+<style>
+    h2 {
+      color: 008000;
+    }
+
+    textarea {
+        box-sizing: border-box;
+        border: 1px solid #999;
+        vertical-align: top;
+    }
+
+    textarea#textCommentary {
+        height: 130px;
+    }
+</style>
+
+{% extends "layout.html" %}
+{% block body %}
+
+<div class="col-lg-9">
+  <div class="row pt-5">
+    <div class="col-4">
+      <h2 class="text-center font-weight-bold">
+        Escríbenos sobre tus </br>
+        pasiones, tus gustos o </br>
+        cualquier cosa en la </br>
+        que estés interesado, </br>
+        no te dejes ningún detalle.
+      </h2>
+    </div>
+
+    <div class="col-4">
+        <form action="{{url_for('resultado')}}" method="POST">
+          <div class="form-group justify-content-start h-75 my-2">
+              <div class="form-item">
+                  <textarea class="form-control border border-success bg-light text-dark font-weight-bold" type="text"
+                            name="textCommentary" id="textCommentary" maxlength="5000" placeholder="Texto..." required></textarea>
+              </div>
+          </div>
+          <div class="d-flex justify-content-center h-25">
+              <input type="submit" class="btn btn-success"></input>
+          </div>
+        </form>
+    </div>
+
+    <div class="col-2 ml-2">
+       <img src="/static/img/formulario.png" class="img-fluid" alt='portada'>
+    </div>
+
+  </div>
+</div>
+
+{% endblock %}

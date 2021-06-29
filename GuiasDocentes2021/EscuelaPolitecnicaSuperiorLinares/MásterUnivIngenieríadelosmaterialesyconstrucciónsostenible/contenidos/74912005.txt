@@ -1,0 +1,127 @@
+'
+
+Introducción a los distintos métodos de
+fabricación de materiales compuestos.
+Producción de laminados.
+Métodos de simulación para la producción de
+materiales
+compuestos.
+Ensayos de caracterización mecánica de materiales
+compuestos.
+Ensayos de caracterización térmica.
+Técnicas avanzadas de ensayo.
+
+
+Introducción a los distintos
+  métodos de fabricación de materiales
+  compuestos.
+
+
+
+Tipos
+    básicos de materiales compuestos y sus propiedades.
+    
+
+
+
+Métodos de
+    análisis de materiales compuestos.
+
+
+Terminología
+    empleada en los materiales compuestos.
+
+
+Arquitecturas
+    empleadas.
+
+
+Características
+    especiales.
+
+
+
+Producción de
+  laminados.
+
+
+
+
+
+Métodos de
+    fabricación.
+Moldeo por
+    vacío.
+Termoconformado.
+Métodos de
+    inyección de resina.
+Pultrusión.
+Moldeo por
+    contacto.
+
+
+
+
+Equipos para la fabricación:
+Consideraciones de
+    diseño de útiles.
+Moldes
+    metálicos.
+Moldes no
+    metálicos.
+Cámaras de
+    curado.
+
+
+
+Métodos de simulación
+  para la producción de materiales
+
+
+compuestos.
+
+
+Ensayos de caracterización
+  mecánica de materiales compuestos.
+
+
+
+
+
+Ensayos
+    destructivos.
+Instrumentación
+    de probetas. Ensayos de cortadura. 
+    Ensayos de
+    tracción.
+Ensayos de
+    flexión.
+
+
+
+
+
+Ensayos no destructivos.
+Ultrasonidos.
+    Otros ensayos.
+    
+
+
+
+Ensayos de 
+  caracterización
+  térmica.
+
+
+
+
+Termografías.
+    Determinacion del coeficiente K.
+    
+
+
+
+Técnicas
+  avanzadas de ensayo.
+
+'

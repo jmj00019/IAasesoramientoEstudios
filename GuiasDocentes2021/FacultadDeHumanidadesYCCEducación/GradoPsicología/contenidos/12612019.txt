@@ -1,0 +1,19 @@
+'
+
+Definición y ámbito de la Psicometría. La
+construcción de test, escalas y cuestionarios. Diferentes
+métodos para el estudio de propiedades psicométricas:
+fiabilidad, validez y análisis de ítems.
+Teoría de Respuesta al Ítem.
+
+
+Tema
+  1: Introducción a la psicometría
+
+Tema 2: La construcción de un test
+Tema 3: Fiabilidad
+Tema 4: Análisis de ítems
+Tema 5: Validez
+Tema 6: Introducción a la Teoría de Respuesta al
+Ítem
+'

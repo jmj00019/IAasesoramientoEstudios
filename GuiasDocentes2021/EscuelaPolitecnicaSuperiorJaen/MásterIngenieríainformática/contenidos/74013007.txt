@@ -1,0 +1,155 @@
+'
+
+· Introducción al Hacking Ético.
+· Obtención de información.
+· Escaneo.
+· Ataques Web.
+· Metasploit.
+· Explotación.
+
+Los contenidos teóricos de la asignatura son los
+siguientes:
+
+
+Introducción
+
+
+Hacking
+      ético y terminología esencial
+
+
+Elementos
+      de seguridad
+
+
+Fases
+      de hacker
+
+
+Tipos
+      de hacker
+
+
+Tipos
+      de test de seguridad
+
+
+
+Obtención
+  de información
+
+
+Pre-ataque:
+      Footprinting y escaneo
+
+
+Metodología
+      para obtener información
+
+
+Google
+      hacking
+
+
+Whois
+
+
+Nslookup
+
+
+Traceroute
+
+
+Herramientas
+
+
+
+Escaneo
+
+
+Ping
+
+
+Ping
+      sweeps
+
+
+Técnicas
+      de escaneo de puertos
+
+
+Tipos
+      de escaneos
+
+
+nmap
+      y otras herramientas
+
+
+
+Vulnerabilidades
+
+
+¿Qué
+      es la enumeración?
+
+
+Null
+      sessions y contramedidas
+
+
+Nessus
+
+
+Active
+      directory
+
+
+
+Hacking
+  del sistema
+
+
+Entrada
+      en los sistemas: pruebas, diccionario
+
+
+Password
+      sniffing
+
+
+Tipos
+      de ataques contra contraseñas
+
+
+Crackeo
+      de contraseñas
+
+
+Keyloggers
+
+
+Escalada
+      de privilegios
+
+
+Ataques
+      DoS
+
+
+Borrado
+      de huellas
+
+Navegación
+    anónima
+
+Ataques
+  Web
+Metasploit
+Explotación
+
+Los contenidos prácticos van emparejados con estos
+contenidos teóricos, de forma que cada semana se aplican en
+casos reales y con ejercicios prácticos que los alumnos
+tienen que implementar.
+'

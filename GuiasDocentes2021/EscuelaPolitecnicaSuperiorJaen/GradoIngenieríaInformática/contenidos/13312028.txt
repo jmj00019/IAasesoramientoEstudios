@@ -1,0 +1,57 @@
+'
+
+
+
+Exclusión mutua, sincronización y
+    comunicación entre procesos. Algoritmos para modelos
+    basados en memoria compartida y paso de mensajes.
+    Monitores.
+Paradigmas de integración de procesos en sistemas
+    distribuidos (cliente-servidor, peer to peer). Técnicas
+    para el diseño de sistemas de tiempo real.
+
+
+
+
+Programa Teórico:
+
+Tema 1. Introducción a la programación
+concurrente
+   1.1. Conceptos básicos y
+motivación.
+   1.2. Exclusión mutua y
+sincronización.
+   1.3. Propiedades de sistemas concurrentes.
+Verificación.
+Tema 2. Sincronización en sistemas de memoria
+compartida.
+   2.1. Algoritmos básicos de exclusión
+mutua en sistemas con memoria compartida.
+   2.2. Monitores como mecanismo de alto nivel.
+Tema 3. Paso de mensajes.
+   3.1. Mecanismos básicos en sistemas basados
+en paso de mensajes.
+   3.2. Modelos y lenguajes de programación
+distribuida.
+   3.3. Mecanismos de alto nivel en sistemas
+distribuidos.
+Tema 4. Técnicas para el diseño de sistemas de
+tiempo real.
+   4.1. Concepto de sistema de tiempo real. Medidas de
+tiempo y modelo de tareas.
+   4.2. Planificación de tareas
+periódicas con asignación de prioridades.
+   4.3. Modelos generales y específicos de
+tareas
+ 
+
+Programa Práctico:
+
+Práctica 1: Introducción a la concurrencia en
+Java
+Práctica 2: Marcos de ejecución concurrente
+en Java
+Práctica 3: Bibliotecas de utilidad para la concurrencia
+en Java
+Práctica 4: Programación JMS.
+'

@@ -1,0 +1,144 @@
+'
+
+La célula, estructura y función de los principales
+orgánulos celulares. Embriogénesis animal y vegetal.
+Tejidos animales y vegetales. Estructura histológica de los
+más importantes órganos en animales y en vegetales
+(espermatofitas).
+
+
+TEORÍA
+
+ CAPÍTULO 1. EPITELIO.
+1.- Introducción a la Biología Celular y Tisular
+Integrada. Niveles de organización de los seres vivos.
+Células, Tejidos, Órganos y Sistemas.
+2.- Membrana plasmática. Diferenciaciones de la membrana
+y polaridad celular.
+3.- Epitelios: clasificación morfo-funcional.
+Diferenciaciones apicales. 
+4.- Diferenciaciones laterales. Adhesión celular.
+ 
+5.- Diferenciaciones basales. Membrana basal. Migración
+celular.
+6.- Introducción al citoesqueleto. Microfilamentos y
+filamentos intermedios en la adhesión celular.
+7.- Microtúbulos. Centros organizadores de
+microtúbulos. Microtubulos en cílios y flagelos .
+8.- Núcleo. Envoltura nuclear. Transporte
+núcleo/citoplasma. Nucléolo .
+9.- Ciclo celular. Regulación del ciclo celular .
+10.- Renovación celular. Senescencia celular.
+Cáncer. 
+11.- Glándulas epiteliales: desarrollo, estructura y
+función. Tipos de secreción.
+12.- El sistema de endomembranas. Retículo
+endoplásmico y aparato de Golgi. 
+13.- Secreción celular. Tipos y mecanismos de
+exocitosis.
+14.- Vías endocíticas. Lisosomas, vacuolas y
+digestión intracelular.
+15.- Mitocondrias y peroxisomas: estructura, función y
+relaciones con el sistema de endomembranas.
+16.- Señalización celular: tipos y relación
+con exocitosis y endocitosis. 
+17.- Principales mecanismos moleculares de
+señalización extracelular e intracelular. 
+CAPÍTULO 2. TEJIDO CONJUNTIVO
+18.- Tejido conjuntivo: características principales,
+componentes y tipos. Síntesis, secreción y ensamblaje
+de colágeno y elastina .
+19.- Células del tejido conjuntivo: fibroblastos,
+macrófagos, mastocitos y células plasmáticas.
+Movilidad y residencia celular. 
+20.- Matriz extracelular y sustancia fundamental:
+composición y relaciones
+estructura/función. 
+21.- Transición epitelio/mesénquima. Diapedesis y
+metástasis.
+22.- Tejido adiposo: tipos y correlaciones
+estructura/función. Termogénesis e
+hibernación. 
+23.- Cartílago: componentes y tipos. Condrogenia.
+24.- El tejido óseo. Hueso esponjoso y hueso compacto. La
+osteona. 
+25.- Osteogénesis. Regeneración de
+cartílago y hueso. 
+26.- Sangre. Componentes. Diferencias entre sangre, plasma y
+suero. Hematopoyesis. 
+CAPÍTULO 3. TEJIDO MUSCULAR
+27.- Tejido muscular: tipos y correlación
+estructura/función. 
+28.- Músculo esquelético. Microfilamentos y
+contracción muscular.
+29.- Músculo liso. Mecanismo de contracción y
+localizaciones.
+30.- Músculo cardiaco. Mecanismo de la contracción
+cardiaca.
+CAPÍTULO 4. TEJIDO NERVIOSO
+31.- Organización general del sistema nervioso.
+Desarrollo del sistema nervioso.
+32.- La neurona. Mecanismos de transporte a través de la
+membrana plasmática. Microtúbulos y mecanismos de
+transporte intracelular. Tipos y mecanismos de sinapsis.
+33.- Células gliales: tipos, estructura,
+localización y funciones.
+34.- Histología de ganglios nerviosos y fibras nerviosas.
+Placa motora.
+CAPÍTULO 5. HISTOLOGÍA VEGETAL
+35.- Introducción a la histología y
+organografía vegetal. Crecimiento primario y secundario.
+36.- Meristemos. Tipos, localización e implicaciones
+funcionales.
+37.- Tejidos de protección: epidermis, peridermis,
+hipodermis y endodermis; tricomas.
+38.- Tejidos fundamentales: parénquima, colénquima
+y esclerénquima.
+39.- Tejidos vasculares: xilema y floema.
+40.- Raíz. Estructura tisular. Modificaciones
+estructurales y funcionales de la raíz.
+41.- Tallo. Estructura tisular. Modificaciones estructurales y
+funcionales del tallo.
+42.- Hoja. Estructura tisular. Modificaciones estructurales y
+funcionales de la hoja.
+43.- Flor. Estructura tisular. Modificaciones estructurales y
+funcionales de la flor.
+44.- Fruto. Clasificación del tipo de fruto. La
+semilla.
+
+PRÁCTICAS
+
+Práctica 1: Manejo Microscopio
+Practica 2: Corte micrótomo y tinción (I).
+Práctica 3: Estructuras celulares.
+Práctica 4: Tejidos de revestimiento y glandular.
+Práctica 5: Tejido Conjuntivo General.
+Práctica 6: Conjuntivo especializado: Cartílago,
+Hueso. Osificación endocondral.
+Práctica 7: Sangre.
+Práctica 8: Muscular.
+Práctica 9: Tejido Nervioso.
+Practica 10: Corte micrótomo y tinción
+(II). 
+Práctica 11: Estudio de glándulas endocrinas.
+Práctica 12: Órganos del sistema digestivo I:
+Observación de hígado, páncreas y
+esófago.
+Practica 13: Órganos del sistema digestivo II:
+Observación de  estómago e intestino.
+Práctica 14: Estudio del aparato excretor de
+mamíferos sobre secciones de riñón,
+vejiga.
+Práctica 15: Estudio del aparato reproductor de
+mamíferos testículo, ovario y trompas de Falopio.
+Practica 16: Corte micrótomo y tinción III.
+Práctica 17: Histología vegetal: revestimiento y
+secretores.
+Práctica 18: Histología vegetal: Parénquima
+y Sostén.
+Práctica 19: Histología vegetal: Vasculares I.
+Práctica 20: Histología vegetal: Vasculares
+II.
+Práctica 21: Histología vegetal: Flor y
+gametos.
+'

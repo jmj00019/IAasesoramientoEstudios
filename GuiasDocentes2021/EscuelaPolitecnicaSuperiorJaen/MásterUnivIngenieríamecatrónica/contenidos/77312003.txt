@@ -1,0 +1,141 @@
+'
+
+.Fabricación asistida por computador CAM.
+· Industrialización de procesos y servicios a
+procesos (seguridad, mantenimiento, manutención y control de
+calidad).
+· Industria 4.0. Integración de dispositivos
+inteligentes en los procesos de fabricación.
+· Prototipado rápido mediante
+fabricación aditiva.
+· Fabricación de elementos mecánicos.
+· Fabricación de circuitos, placas y otros
+sistemas electrónicos.
+
+
+
+Tema
+1. Industria 4.0
+
+
+(4 horas).
+
+Introducción
+
+
+Integración
+  de dispositivos inteligentes en los procesos de
+  fabricación
+
+
+Las
+  Smart factories
+
+
+
+Práctica
+  1. Ejemplo de análisis de ciclo de vida.
+
+ 
+
+
+
+Tema
+2. Fabricación asistida
+
+(6
+horas).
+
+Integración
+  de los sistemas productivos
+
+
+Filosofía
+  de integración: Diseño para la
+  fabricación
+
+
+Fabricación
+Asistida por Computador - Computer Aided Manufacturing
+CAM. 
+
+Práctica
+  2. Implementación de guías de diseño en
+  software CAD.
+
+
+Práctica
+  3. Software CAM.
+
+
+
+Tema
+  3. Industrialización de procesos y servicios a procesos (8
+  horas).
+
+
+Planificación
+  asistida de procesos CAPP
+
+
+Mejora
+  de procesos mediante: Tecnología de grupos.
+
+
+Simulación
+  como ayuda a la planificación de sistemas de
+  fabricación: operación, procesos y servicios a
+  procesos
+
+
+Control
+  de calidad en procesos de fabricación
+
+
+Práctica
+  4. Simulación FEM de operaciones convencionales.
+
+
+
+Tema
+  4. Prototipado rápido mediante fabricación aditiva
+  (4 horas).
+
+
+Introducción
+  a las técnicas aditivas: Tipos y aplicaciones.
+
+
+Etapas
+  del proceso de impresión 3D.
+
+
+Estimación
+  de costes en técnicas aditivas.
+
+
+
+
+Práctica 5.
+  Práctica de impresión 3D con máquina
+  FDM.
+
+
+
+Tema
+  5. Fabricación de componentes aplicados a la
+  ingeniería mecatrónica (8 horas).
+
+
+Fabricación
+  de elementos electrónicos.
+
+
+Fabricación
+  de dispositivos micro-electromecánicos.
+
+
+Modelado
+  de procesos de micromecanizado.
+
+'

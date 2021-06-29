@@ -1,0 +1,99 @@
+'
+
+Evaluación de aplicaciones, instalaciones y sistemas
+informáticos. El proceso de auditoría
+informática. Estándares y normas de calidad.
+Deontología del auditor informático. Impacto social y
+económico.
+ 
+
+Contenidos para teoría y para prácticas. En
+teoría se ven los aspectos teóricos de esos temas y
+en prácticas los aspectos prácticos.
+Capítulo 1:  
+Sistemas de información.
+Los sistemas de información (SI) ya implantados en las
+empresas son el objeto de estudio de las auditorías
+informáticas. Un buen SI garantiza que se produzca toda la
+información que la empresa necesita para su correcto
+funcionamiento, con un coste limitado. Por eso es muy importante
+comenzar la asignatura repasando conceptos e ideas sobre los SI que
+influyen en la manera de plantear una buena auditoría
+informática. Aplicaciones, instalaciones y sistemas
+informáticos.
+Capítulo 2: 
+Análisis de riesgos.
+Los distintos componentes de un SI tienen un valor
+intrínseco y un valor derivado de la utilidad que tenga ese
+componente para la organización en la que se implanta. Por
+ejemplo, un servicio de venta on-line genera muchísimo valor
+para una empresa que venda producntos solo por internet. El
+análisis de riesgos estudia el valor de los componentes de
+un SI y cómo las distintas amenazas degradan ese valor. Es
+una herramienta fundamental a la hora de hacer
+auditorías.
+Capítulo 3:  
+Controles internos o Salvaguardas.
+En todo buen SI debe haber controles que prevengan, detecten y
+corrijan situaciones anómalas que puedan hacer que el SI no
+funcione correctamente (amenazas(. Por eso una de las tareas de un
+auditor es revisar si existen dichos controles y su nivel de
+calidad.
+Capítulo 4:  
+Auditoría informática.
+Antes de estudiar con detalle cuáles son los pasos a dar
+para realizar una buena auditoría informática, se
+estudia qué es una 
+buena auditoría informática. De esta
+forma se podrán dar los pasos más adecuados para
+conseguir los mejores resultados con el menor coste. También
+se estudia la deontología del auditor informático que
+siempre debe regir el desarrollo de una auditoría.
+Capítulo 5:  
+Método de realización de una auditoría
+informática.
+En este capítulo se explica de manera general en
+qué consisten los pasos para realizar una buena
+auditoría informática. Es un capítulo
+introductorio cuya misión es que el estudiante no se
+pierda en los siguientes capítulos y tenga claro en todo
+momento qué lugar ocupa cada paso en el proceso global de
+realización de la auditoría.
+Capítulo 6:  
+Preparación de una auditoría
+informática.
+En una auditoría informática hay dos pasos
+claramente diferenciados, su planificación y su desarrollo.
+En este capítulo se estudia con detalle cómo debe
+prepararse una buena auditoría informática y
+cuáles son las tareas necesarias para planificar
+correctamente una auditoría siguiendo los estándares
+que se recogen en la norma
+UNE-ISO 19011:2018, Directrices para la auditoría
+de los sistemas de gestión.
+Capítulo 7:  
+Desarrollo de una auditoría
+informática.
+En este capítulo se estudia con detalle cómo debe
+realizarse el trabajo de campo y el análisis de los
+resultados de la auditoría.
+Capítulo 8:  
+Auditorías en contextos
+específicos.
+Los capítulos anteriores describen los pasos comunes
+necesarios para realizar cualquier auditoría. Sin embargo,
+según el contexto de auditoría de que se trate, hay
+aspectos concretos que deben tenerse en cuenta.
+En este capítulo se estudian algunos contextos de
+auditoría que el estudiante va a encontrar durante su
+vida profesional y cómo afrontarlos correctamente,
+así como el Impacto social y económico de las
+auditorías informáticas en esoscontextos
+específicos.
+
+Nota: Permite completar el estudio de la
+asignatura. En realidad, no es un capítulo separado, sino
+que su contenido se ve durante los ejercicios y casos
+prácticos que acompañan a los otros
+capítulos.
+'

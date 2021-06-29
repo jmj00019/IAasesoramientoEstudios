@@ -1,0 +1,208 @@
+'
+
+Introducción a la termodinámica y termotecnia.
+Balances térmicos
+Primer y segundo principio de la termodinámica.
+Sistemas cerrados y abiertos
+Análisis de sustancias. Comportamiento físico y
+químico.
+Ciclos termodinámicos de gas y vapor
+Transferencia de calor por conducción,
+convección y radiación. Balances en intercambiadores
+de calor
+
+
+Contenidos teóricos
+
+
+Tema 1:  
+Sistemas cerrados: primer y segundo
+principio.- 1.1.- Noción de Sistema. 1.2.-
+Equilibrio térmico y mecánico de los sistemas. 1.3.-
+Clasificación de los sistemas. 1.4.- Propiedades de un
+sistema. 1.5 Estados de equilibrio. Transformaciones y procesos.
+1.6.- Clases de procesos. 1.7.- Tipos de irreversibilidades. 1.8.-
+Concepto de calor y energía interna. 1.9.- Primer principio
+en sistemas cerrados. 1.10.- Trabajo de un sistema cerrado. 1.11.-
+Entalpía. 1.12.- Concepto de trabajo útil y efectivo.
+1.13.- Concepto de máquina térmica y máquina
+frigorífica. 1.14.- Máquina de Carnot. 1.15.- Segundo
+principio de la termodinámica. 1.16.- Flujo de
+entropía y entropía generada. 1.17.- Disponibilidad
+de un sistema cerrado.
+
+Tema 2: Estudio de gases perfectos.- 2.1.-
+Capacidad calorífica y calor específico. 2.1.1.-
+Valor del calor específico según la
+transformación del sistema. 2.2.- Calores específicos
+de los gases perfectos. 2.2.1.- Relación entre los calores
+específicos de los gases perfectos. 2.3.- Capacidades
+caloríficas medias. 2.3.1.- Valoración del calor
+específico medio a presión constante entre dos
+temperaturas. 2.4.- Valoración de la entalpía para
+gases perfectos. 2.5.- Valoración de la energía
+interna. 2.6.- Valoración de la entropía. 2.7.-
+Estudio de transformaciones en gases perfectos.
+
+Tema 3: Estudio de vapores. 3.1.- Cambios de fase
+en sistemas de un componente. 3.2.- Vapor húmedo, vapor
+saturado y vapor seco o recalentado. 3.3.- Diagrama
+entrópico T-s 3.3.1.- Estudio de transformaciones en el
+diagrama T-s. 3.3.2.- Ciclo de Carnot en el diagrama T-s. 3.3.3.-
+Ciclo de máximo rendimiento. 3.3.4.- Rendimiento
+térmico en ciclos reversibles. 3.3.5.- Diagrama T-s para el
+vapor de agua. 3.4.- Diagrama h-s para vapor de agua.
+
+Tema 4: Sistemas abiertos: primer y segundo
+principio. 4.1.- Flujo permanente. 4.2.-
+Conservación de la masa. 4.3.- Conservación de la
+energía. 4.4.- Válvulas de estrangulamiento. 4.5.-
+Trabajo reversible de un flujo permanente. 4.6.- Energía
+disponible de un flujo. 4.7.- Exergía. 4.8.- Toberas y
+Difusores. 4.8.1.- Velocidad del sonido en un gas. Número de
+Mach. 4.8.2.- Flujo adiabático. 4.8.3.- Flujo
+isentrópico. Variación de la velocidad del fluido con
+el área del flujo.  4.8.4.- Toberas y difusores.
+4.8.5.- Relaciones teóricas entre propiedades de entrada y
+cuello para una tobera convergente-divergente. 4.8.6.- Flujo a
+través de Toberas y Difusores reales.
+
+Tema 5: Análisis
+exergético.- 5.1.- Introducción. 5.2.-
+Exergía. 5.2.1.- Ambiente. 5.2.2.- Estado muerto. 5.2.3.-
+Cálculo de la exergía. 5.2.4.- Otros aspectos de la
+exergía. 5.3.- Balance de exergía para sistemas
+cerrados. 5.3.1.- Desarrollo del balance de exergía. 5.4.-
+Exergía de flujo. 5.5.- Balance de exergía para
+volúmenes de control. 5.6.- Eficiencia termodinámica.
+5.6.1.- Eficiencias exergéticas de algunos equipos.
+
+Tema 6: Relaciones Termodinámicas. Gases
+Reales.-6.1.- Introducción  
+. 6.2.- Relaciones diferenciales
+parciales.  6.3.- Las relaciones de Maxwell. 6.3.1.-
+Relaciones entre propiedades a partir de diferenciales exactas.
+6.4.- Ecuación de Clapeyron. 6.5.-Relaciones generales para
+du, dh, ds, c  
+v y c  
+p en regiones de una sola fase. 6.5.1.- Cambios de
+la energía interna. 6.5.2.- Cambios de entalpía.
+6.5.3.- Cambios en la entropía. 6.5.4.- Calores
+específicos c  
+p  y  c  
+v. 6.6.- El coeficiente de Joule-Thomson. 6.7.- Factor
+de compresibilidad. 6.8.- Variación de entalpía,
+energía interna y entropía de gases ideales. 6.8.1.-
+Cambios de entalpía de gases reales. 6.8.2.- Cambios de
+energía interna de gases reales. 6.8.3.- Cambios de
+entropía de gases reales. 6.9.- Otras ecuaciones de estado.
+6.10.- Mezcla de gases sin reacción.
+6.11.-Composición de una mezcla de gases: masa y
+fracción molar. 6.12.- Comportamiento p-v-T de mezclas de
+gases: ideales y reales. 6.13.- Propiedades de mezcla de gases:
+ideales y reales .
+
+Tema 7: Ciclos de potencia de gas.- 7.1.-
+Conceptos generales. 7.2.- El Ciclo de aire estándar. 7.3.-
+Motores de combustión interna alternativos. 7.3.1.- Ciclo
+operativo del motor de 4 tiempos. 7.3.2.- Ciclo ideal OTTO. 7.3.3.-
+Ciclo ideal DIESEL. 7.3.4.- Ciclo ideal MIXTO o de SABATHE. 7.4.-
+Potencias y Rendimientos. 7.5.- Turbinas de gas. 7.5.1.-
+Descripción de los motores de turbinas de gas: de ciclo
+abierto simple; de ciclo cerrado. 7.5.2.- Ciclo Brayton ideal de
+aire. 7.5.3.- Ciclo Brayton real de aire. 7.6.- Otros ciclos en los
+motores de turbina de gas. 7.6.1.- Ciclo Ericsson. 7.6.2.- Ciclo
+Stirling.
+
+Tema 8: Ciclos de potencia de vapor y ciclos de
+refrigeración.- 8.1.- Introducción.
+8.2.- Ciclo de Carnot para vapor. 8.3.- Análisis
+energético del ciclo ideal. 8.4.- Mejora del rendimiento del
+ciclo de Rankine. 8.4.1.- Aumento de la temperatura media de
+absorción de calor. 8.4.2.- Disminución de la
+temperatura media de cesión de calor. 8.5.- Ciclo
+irreversible de Rankine. 8.6.- Ciclo mixto turbina de gas - turbina
+de vapor. 8.7.- La refrigeración: Máquina
+frigorífica y bomba de calor. 8.7.1.- Máquina
+frigorífica. 8.7.2.- Bomba de calor. 8.7.3.- Coeficientes de
+eficiencia. 8.8.- Ciclo de Carnot invertido. 8.9.- Ciclos en
+máquinas frigoríficas de vapor. 8.9.1.- Ciclo
+práctico en la máquina frigorífica de vapor
+(Rankine invertido). 8.9.2.- Mejoras del rendimiento. 8.9.2.1.-
+Subenfriamiento mediante agua de refrigeración. 8.9.2.2.-
+Subenfriamiento mediante intercambiador de calor. 8.9.3.-
+Pérdidas de exergía en la instalación
+frigorífica.
+
+Tema 9: Conceptos básicos de Transmisión de
+calor.- 9.1.- Introducción. 9.2.-
+Conducción. 9.3.- Convección. 9.4.- Radiación.
+9.5.- Requerimientos de conservación de la energía.
+9.5.1.- Conservación de la energía para un volumen de
+control. 9.5.2.- Balance de energía en una superficie.9.6.-
+Análisis de problemas de transferencia de calor.
+
+Tema 10: Conducción.- 10.1.-
+Introducción. 10.2.- El modelo para la conducción.
+10.2.1.- Ecuación de difusión de calor. 10.2.2.-
+Condiciones iniciales y de contorno.  10.3.- Conducción
+unidimensional de estado estable. 10.3.1.- La pared plana.
+10.3.1.1.- Distribución de temperatura. 10.3.1.2.-
+Resistencia térmica. 10.3.1.3.- Pared compuesta. 10.3.1.4.-
+Resistencia de contacto. 10.3.2.- Análisis de
+conducción con un método alternativo. 10.3.3.-
+Sistemas radiales. 10.3.3.1.- Pared cilíndrica. 10.3.3.2.-
+Pared esférica. 10.3.4.- Conducción con
+generación de energía térmica. 10.3.4.1.- La
+pared plana. 10.3.4.2.- Sistemas radiales.   
+ 
+
+Tema 11: Convección. Correlaciones
+empíricas.- 11.1.- Transferencia de calor por
+convección. 11.2.- Capas límite de convección.
+11.2.1.- Capa límite de velocidad o hidrodinámica.
+11.2.2.- Capa límite térmica. 11.2.3.- Capa
+límite de concentración. 11.2.4.- Significado de las
+capas límite.11.3.- Flujo laminar y turbulento. 11.4.-
+Correlaciones empíricas para convección. 11.5.-
+Ecuaciones Diferenciales de la convección. 11.5.1.-
+Convección forzada. 11.5.2.- Convección libre.
+11.5.3.- Transmisión de calor en los cambios de estado.
+11.6.- Correlaciones empíricas en convección.
+11.6.1.- Flujo externo, convección forzada, sin cambio de
+fase. 11.6.2.- Flujo interno, convección forzada, sin cambio
+de fase. 11.6.3.- Convección libre, sin cambio de estado.
+11.6.3.1.- Circulación alrededor de placas y tubos
+verticales (flujo externo). 11.6.3.2.- Circulación alrededor
+de placas horizontales e inclinadas (flujo externo). 11.6.3.3.-
+Circulación alrededor de cilindros horizontales (flujo
+externo).  11.6.3.4.- Convección natural entre
+cilindros concéntricos.
+
+Tema 12: Radiación.- 12.1.-
+Introducción.12.2.- Intensidad de la radiación.
+12.2.1.- Definiciones. 12.2.2 Relación con la
+emisión. 12.2.3 Relación con la irradiación.
+12.2.4 Relación con la radiosidad. 12.3.- Radiación
+de un cuerpo negro. 12.3.1 Distribución de Planck. 12.3.2
+Ley de desplazamiento de Wien. 12.3.3 Ley de Stefan-Boltzmann.
+12.3.4 Emisión de banda. 12.4.- Emisión superficial.
+12.5. Absorción, reflexión y Transmisión
+superficiales. 12.5.1 Absortividad. 12.5.2 Reflectividad. 12.5.3
+Transmisividad. 12.5.4 Consideraciones especiales. 12.6. Ley de
+Kirchhoff. 12.7. Superficie gris.
+
+Contenidos prácticos
+
+Se realizarán 5 prácticas de laboratorio, cada una
+con una duración de 2 h:
+Práctica 1. Análisis de procesos en sistemas
+cerrados.
+Práctica 2. Propiedades termodinámicas de las
+sustancias puras.
+Práctica 3. Relaciones termodinámicas.
+Práctica 4. Estudio experimental de la transferencia
+de calor por convección.
+Práctica 5. Confirmación experimental de la ley de
+radiación de cuerpo negro.
+'

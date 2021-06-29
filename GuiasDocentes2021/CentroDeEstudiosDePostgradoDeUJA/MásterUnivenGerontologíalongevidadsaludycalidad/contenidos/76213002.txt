@@ -1,0 +1,116 @@
+'
+
+1.- Mecanismos básicos del ADN, replicación,
+transcripción
+2.- Síntesis de proteinas
+3.- Mecanismos moleculares y celulares relacionados con los
+procesos del envejecimiento
+
+
+Bloque 1: ADN
+
+ 
+Tema 1 El ADN y su
+replicación. Enzimas y mecanismos implicados.
+Reparación del ADN. Errores y sus efectos. Regulación
+de la replicación y la regulación del ciclo
+celular
+Tema 2. Transcripción del
+ADN. Tipos de ARN y funciones. Mecanismos y enzimas implicados en
+la transcripción. Modificación
+post-biosíntesis de los ARN. Regulación de la
+expresión génica. Represores y activadores de la
+transcripción. Eucromatina y heterocromatina. Estabilidad
+del ARNm.
+Tema 3. Daños al ADN.
+Modificaciones estructurales y conformacionales. Proteínas
+implicadas en el reconocimiento del ADN. Interacciones de las
+polimerasas con moldes dañados. Reconocimiento del ADN
+dañado con proteínas simples y por complejos
+Multiproteicos.
+ 
+
+Bloque 2: Biosíntesis de proteínas
+
+
+ 
+
+Tema 4. Traducción del
+mensaje genético. El código genético. Rutas de
+la biosíntesis de proteínas.Evolución
+post-biosíntesis de las proteínas. Modificaciones
+estructurales cotraduccionales y post-traduccionales de las
+proteínas. Plegamiento y evolución de las
+proteínas intracelulares y de secreción.
+
+ 
+
+
+Bloque 3: Envejecimiento celular. Stress oxidativo y
+  telomerasa
+
+
+ 
+
+Tema 5. Telómeros,
+telomerasa y cáncer. El problema de la replicación de
+los extremos. Resolución del problema por la telomerasa.
+Tema 6. Oxidantes, antioxidantes y
+las enfermedades degenerativas del envejecimiento. Oxidación
+y daño al ADN, proteínas y lípidos. Fuentes y
+efectos de los oxidantes.
+Tema 7. Tabaco, cáncer y
+enfermedades del corazón.
+Tema 8.- Envejecimiento y
+restricciones dietéticas.Antioxidantes y protección
+contra las enfermedades. Niveles óptimos de
+antioxidantes.
+Tema 9. Reparación del
+daño oxidativo del ADN. ADN-glicosilasas. Endonucleasas y
+exonucleasas. Reparación general: excisión de
+nucleótidos y recombinación
+
+ 
+
+
+Bloque 4: Envejecimiento humano: apoptosis y
+  herencia
+
+
+ 
+
+Tema 10. Biología celular
+del envejecimiento humano. El envejecimiento celular: capacidad
+replicativa. Teorias del envejecimiento.
+Tema 11.Apoptosis y necrosis.
+Células apoptóticas. Envejecimiento y
+evolución. Control de la apoptosis: genes reguladores de la
+muerte celular. Señales que provocan el suicidio celular y
+señales de supervivencia.
+Tema 12. Herencia y duración
+de la vida. Expresión génica en el envejecimiento.
+Genética y Longevidad. Genética del Alzheimer y
+muerte celular. Las especies y las diferencias en longevidad
+según el modo de vida.
+ 
+
+Bloque 5: Técnicas experimentales
+
+ 
+Tema 13. Técnicas
+experimentales: Biotecnología y estudio de la actividad
+celular. Metodología del ADN recombinante. Clonación.
+PCR. Secuenciación. CRISPR.
+
+Bloque 6: estrategias antienvejecimiento
+
+ 
+Tema 14. Estrategias
+antienvejecimiento. Estrategias potenciales contra el deterioro del
+cerebro. Autoinmunomodulación. Parabiosis.
+Tema 15. Estrategias relacionadas
+con la dieta y farmacológicas.Restricción
+calórica y envejecimiento. Restricción
+calórica y reducción de la producción de
+radicales libres.
+'

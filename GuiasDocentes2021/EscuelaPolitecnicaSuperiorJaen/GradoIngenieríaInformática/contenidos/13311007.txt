@@ -1,0 +1,99 @@
+'
+
+Campo eléctrico y magnético. Inducción
+magnética. Ondas electromagnéticas. Teoría de
+circuitos. Semiconductores. Fundamento físico de
+dispositivos electrónicos.
+ 
+
+
+I: Campo eléctrico.
+
+ 1.- INTRODUCCIÓN: 1.1. La Física y sus
+métodos. 1.2. Magnitudes escalares y vectoriales. 1.3.
+Álgebra vectorial. 1.4. Funciones vectoriales. 1.5.
+Teoría elemental de campos. 1.6 Problemas propuestos.
+ 2.- CAMPO Y POTENCIAL ELÉCTRICOS: 2.1. Carga
+eléctrica. Ley de Coulomb. 2.2. Campo eléctrico. 2.3.
+Flujo eléctrico. Ley de Gauss: aplicaciones. 2.4. Dipolo
+eléctrico. 2.5. Potencial eléctrico. 2.6.
+Relación entre E y V. 2.7. Superficies equipotenciales. 2.8.
+Energía potencial eléctrica. 2.9. Problemas
+propuestos.
+ 3.- CONDUCTORES Y DIELÉCTRICOS: 3.1. Conductores en
+equilibrio electrostático. 3.2. Condensadores.
+Cálculo de capacidades. 3.3. Asociación de
+condensadores. 3.4. Energía de un condensador cargado. 3.5.
+Energía del campo electrostático. 3.6.
+Dieléctricos. 3.7. Problemas propuestos.
+  
+II: Teoría de Circuitos.
+ 4.- CORRIENTE ELÉCTRICA: 4.1. Intensidad y densidad
+de corriente. 4.2. Ley de Ohm. 4.3. Resistencia eléctrica.
+Asociación de resistencias. 4.4. Energía de la
+corriente eléctrica. Ley de Joule. 4.5. Problemas
+propuestos.
+ 5.- CIRCUITOS DE CORRIENTE CONINUA: 5.1. Fuerza
+electromotriz. 5.2. Reglas de Kirchhoff. 5.3. Métodos de
+análisis de circuitos. 5.4. Circuitos RC. 5.5. Problemas
+propuestos.
+  
+III: Campo magnético.
+ 6.- INTERACCIÓN MAGNÉTICA: 6.1. Campo
+magnético. Líneas de inducción. 6.2.
+Movimiento de partículas cargadas en campos
+magnéticos. 6.3. Fuerza sobre un conductor. 6.4. Fuerza
+sobre una espira. 6.5. Efecto Hall. 6.6. Problemas propuestos.
+ 7.- FUENTES DEL CAMPO MAGNÉTICO: 7.1.
+Introducción. 7.2. Campo magnético creado por
+corriente eléctrica: Ley de Biot y Savart. 7.3. Fuerza
+magnética entre corrientes. 7.4. Ley de Gauss para el campo
+magnético. 7.5. Ley de Ampère. 7.6. Corriente de
+desplazamiento. Ley de Ampère Generalizada. 7.7. Problemas
+propuestos.
+  
+IV: Inducción magnética. Ondas
+Electromagnéticas.
+ 8.- INDUCCIÓN ELECTROMAGNÉTICA: 8.1. Fuerza
+electromotriz inducida. 8.2. Leyes de Faraday y Lenz. 8.3.
+Aplicaciones de la ley de Faraday. 8.4. Inductores.
+Autoinducción. 8.5. Circuitos RL. Energía
+magnética. 8.6. Circuitos LC y RLC. 8.7. Magnetismo en la
+materia. 8.8. Problemas propuestos.
+ 9.- ECUACIONES DE MAXWELL Y ONDAS
+ELECTROMAGNÉTICAS: 10.1. Antecedentes. 10.2. Aportaciones de
+Maxwell. 10.3. Ondas electromagnéticas. 10.4. El espectro
+electromagnético. 10.5. Producción de ondas
+electromagnéticas.
+  
+V:  
+Circuitos de corriente alterna.
+Semiconductores.
+ 10.- CORRIENTE ALTERNA: 9.1. Magnitudes en corriente
+alterna. Valores medios y eficaces. 9.2. Resistencia y reactancia.
+9.3. Análisis de circuitos de corriente alterna. 9.4.
+Potencia en los circuitos de corriente alterna. 9.5. Problemas
+propuestos.
+ 11.- FUNDAMENTO FÍSICO DE DISPOSITIVOS
+ELECTRÓNICOS: 11.1. Introducción. 11.2.
+Fenómenos de transporte. 11.3. Unión 
+pn . 11.4. Diodos. Curva tensión-corriente
+característica de un diodo. 11.5. Problemas propuestos.
+
+
+Prácticas de Laboratorio.-
+
+
+Se realizarán cuatro
+  prácticas de laboratorio de entre las que se indican a
+  continuación: 1. Campo eléctrico y potencial entre
+  las placas de un condensador cargado. 2. Estudio de la
+  función de carga y descarga de un condensador. 3. Campo
+  magnético en espiras y bobinas. 4. Inductancia en
+  solenoides. 5. Ley de Ohm. Asociación de resistencias. 6.
+  Medida de la constante dieléctrica de diferentes
+  materiales. 7. Resonancia en circuitos RLC: Circuito
+  sintonizador.
+
+ 
+'

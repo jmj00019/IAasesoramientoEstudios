@@ -1,0 +1,74 @@
+'
+
+Analítica de negocio, exploración de datos,
+visualización, minería de datos. Inteligencia Web:
+recuperación de información, análisis de redes
+sociales, sistemas de recomendación y
+colaboración social.
+
+
+
+
+Teoría
+
+Módulo I.
+
+Tema 1: Personalización: Necesidad, procesos y
+  herramientas
+Tema 2: Sistemas de recomendación:
+  Técnicas colaborativas y basadas en contenido.
+  Aplicación de los sistemas de recomendación.
+
+Módulo II.
+
+Tema 1: Introducción a la Inteligencia de
+  Negocio.
+Tema 2: Exploración, depuración y calidad de
+  datos. Visualización de datos en inteligencia de
+  Negocio.
+Tema 3: Análisis predictivo.
+Tema 4: Segmentación de mercado.
+Tema 5: Análisis de transacciones y mercados.
+
+Módulo III.
+
+Tema 1: Introducción a la Inteligencia Web.
+Tema 2: Recuperación de información.
+  Análisis de redes sociales.
+
+
+
+Prácticas
+
+Módulo I.
+
+Práctica 1. Recomendación no personalizada
+Práctica 2 - (en grupo). Implementación de un
+  Sistema de Recomendación basado en Contenido
+Práctica 3 - (en grupo). Implementación de un
+  Sistema de Recomendación basado en Filtrado
+  Colaborativo
+Práctica 4 - (en grupo). Evaluación de sistemas
+  de Recomendación
+Práctica 5 - (individual). Sistema de
+  recomendación basado en filtrado Colaborativo usando
+  factorización de matrices (Voluntaria)
+
+Módulo II.
+
+Práctica 1. Herramientas de Inteligencia de
+  Negocio
+Práctica 2. Exploración, preparación y
+  visualización de datos
+Práctica 3. Segmentación del mercado
+Práctica 4. Análisis predictivo
+Práctica 5. Competición Kaggle
+
+Módulo III.
+
+Práctica 1. Elasticsearch
+Práctica 2. Mapping
+Práctica 3. Logstah
+Práctica 4. Kibana 
+
+'

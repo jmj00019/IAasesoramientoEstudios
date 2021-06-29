@@ -1,0 +1,21 @@
+'
+
+Normativa. Tipos de acero. Teoría de seguridad y bases de
+cálculo. Estados límites últimos. Estados
+Límites de servicio. Uniones. Estructuras mixtas.
+Aplicación a la obra pública y edificación.
+Mantenimiento.
+
+BLOQUE A: Normativa aplicable a la ingeniería civil.
+Tipologías estructurales.
+BLOQUE B: Propiedades tecnológicas de materiales.
+Conceptos básicos de resistencia aplicables a la estructura
+metálica. Teoría de los estados límites.
+BLOQUE C: Cálculo de elementos estructurales
+(tracción, compresión, flexión, cortante y
+esfuerzos combinados).
+BLOQUE D: Cálculo de elementos de unión.
+Clasificación. Uniones soldadas y atornilladas. Rigidez.
+BLOQUE E: Introducción a la estructura mixta.
+BLOQUE F: Ejecución y mantenimiento. Sostenibilidad.
+'

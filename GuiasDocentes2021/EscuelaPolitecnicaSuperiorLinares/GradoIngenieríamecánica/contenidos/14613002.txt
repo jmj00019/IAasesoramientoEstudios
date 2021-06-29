@@ -1,0 +1,128 @@
+'
+
+El vehículo automóvil.
+Componentes del vehículo automóvil.
+Cálculos de elementos del vehículo
+automóvil
+Reformas de importancia de vehículos de carretera ( 
+Real Decreto 736/88)
+
+Tema 1. Generalidades. 1.1. Generalidades. 1.2. Historia y
+evolución del vehículo automóvil. 1.3.
+Clasificación de vehículos. Tipos. Modelos. 1.4.
+Potencia y peso.
+Tema 2. Dinámica longitudinal: Prestaciones. 2.1.
+Resistencias al movimiento. 2.2. Ecuación fundamental del
+movimiento longitudinal. 2.3. Esfuerzo tractor. 2.4.
+Características del motor y tracción. 2.5.
+Predicción de las prestaciones: Velocidad máxima y
+aceleración. 2.6. Adherencia. Pendientes máximas para
+arrancar y superar, debido a la adherencia y al tipo de
+tracción: Delantera, trasera y total.
+Tema 3. Dinámica longitudinal: Frenado 3.1.
+Introducción. 3.2. Fuerzas y momentos que actúan en
+el proceso de frenado. 3.3. Condiciones impuestas por la
+adherencia. Reparto optimo de fuerzas de frenado. Curvas de
+adherencia. 3.4. Soluciones industriales de sistemas de frenos.
+Cálculo mecánico de dispositivos de frenado. 3.5.
+Sistema antibloqueo de frenos (ABS). 3.6. Legislación.
+Tema 4. Dinámica lateral: Dirección 4.4.
+Introducción. 4.5. Características de la
+dirección. 4.6. Estudio cinemático de la
+dirección. Trapecio de Ackerman. 4.7. Circulación en
+curva. Velocidad límite de derrape y de vuelco. 4.8.
+Soluciones industriales de sistemas de dirección. 4.9.
+Consideraciones al proyectar la cinemática de la
+dirección de un vehículo con eje delantero
+rígido (camiones). 4.10. Proceso de cálculo de la
+geometría de la dirección de un turismo.
+Ángulos y cotas de las ruedas directrices: Salida,
+caída y avance. Convergencia.
+Tema 5. Dinámica vertical: Suspensión. 5.1.
+Introducción. 5.2. El sistema de suspensión:
+Resorte-amortiguador. 5.3. Movimiento de cabeceo y vaivén.
+5.4. Configuración de la suspensión. Tipos. 5.5.
+Soluciones industriales de la suspensión: Ballestas, muelles
+helicoidales, barras de torsión, amortiguadores
+hidráulicos, etc. 5.6. Cálculo mecánico de
+elementos de la suspensión. 5.7. La electrónica en
+los sistemas de suspensión: Suspensión autonivelante
+e inteligente.
+Tema 6. Sistema de propulsión: El motopropulsor. 6.1.
+Motores de combustión interna. 6.1.1. Ciclo Otto 6.1.2.
+Ciclo Diesel. 6.1.3. Motores rotativos y turbinas. 6.2. Curvas
+características. 6.2.1. Curvas de potencia, par y consumo.
+6.2.2. Curvas de utilización. 6.3. Componentes
+básicos del motor. 6.3.1. Sistema de refrigeración.
+6.3.2. Sistema de la distribución. 6.3.3. Sistema de
+alimentación y escape. 6.4. Cálculo de la potencia
+necesaria del motor a instalar en un vehículo. 6.5.
+Cálculo de componentes del motor. 6.6. Alternativas
+energéticas futuras.
+Tema 7. Sistema de transmisión. 7.1. El embrague. 7.1.1.
+Tipos y características. 7.1.2. Cálculo de los
+elementos de un embrague. Límites en el proyecto de
+embrague. 7.2.1. La necesidad de la caja de velocidades y del grupo
+reductor. 7.2.2. Definición de las relaciones de la caja.
+Diagramas de velocidades. 7.2.3. Cajas de velocidades
+automáticas. 7.2.4. Doble tracción. 7.2.5. Detalles
+constructivos. Soluciones técnicas. 7.3. Árbol de
+transmisión. 7.3.1. Cálculo del árbol de
+transmisión longitudinal. 7.3.2. Velocidades
+críticas. 7.4. Mecanismo diferencial y ejes. 7.4.1. El
+mecanismo diferencial. Soluciones técnicas. 7.4.2. Ejes:
+Delanteros y traseros. Soluciones técnicas.
+Tema 8. Sistema eléctrico. 8.1. El sistema
+eléctrico 12/14 V. 8.1.1. El generador. 8.1.2. La
+batería. 8.1.3. Tipos de encendido. 8.1.4.
+Iluminación y controles. 8.1.5. La electrónica en el
+vehículo automóvil. 8.1.6. Soluciones futuras.
+¿Instalación a 42 V?
+Tema 9. Estructura-Carrocería-Bastidor. 9.1. Bastidor o
+chasis. 9.2. Carrocería. 9.2.1. Integral. 9.2.2.
+Autoportante. 9.3. Cálculo del bastidor. 9.4.
+Consideraciones en vehículos especiales. 9.5.
+Aerodinámica y estabilidad. 9.6. Interiores.
+Ergonomía.
+Tema 10. Reformas de importancia en vehículos de
+carretera. 10.1. Legislación. Real Decreto 
+866/2010 . 10.2.
+Transformaciones del vehículo básico y tipificadas en
+el R.D. 
+866/2010 .Ejemplos
+10.2.1. Vehículos volquete/basculante. 10.2.2.
+Vehículos grúas. 10.2.3. Otras configuraciones.
+Tema 11. Fiabilidad. La seguridad en el vehículo. 11.1.1.
+Fiabilidad y diseño. 11.1.2. Fiabilidad y
+fabricación. 11.1.3. Fiabilidad y garantías. 11.2.
+Base matemática de la Fiabilidad. 11.2.1. Estadística
+y probabilidad. 11.2.2. Curva de densidad de fallos. 11.2.3. Tasa
+de fallos. 11.2.4. La curva de la bañera. Tipos de fallos.
+11.2.5. Vida media y tiempo medio entre fallos. 11.2.6. Fiabilidad
+de un sistema. 11.3. Ensayos de Fiabilidad 11.3.1. Tipos de
+ensayos. 11.3.2. Plan de ensayos. 11.4. Aplicaciones
+prácticas. El gráfico de Weibull. 11.5. La seguridad
+en el vehículo automóvil. 11.5.1. Seguridad activa.
+11.5.1.1. Sistema de información y transmisión.
+11.5.1.2. Rendimiento operativo del vehículo. 11.5.1.3.
+Frenado. 11.5.1.4. Vehículo en adelantamiento. 11.5.1.5.
+Peso y dimensiones. 11.5.1.6. Velocidad y aceleración.
+Dirección y suspensión. Neumáticos. 11.5.2.
+Seguridad pasiva. 11.5.2.1. Conjunto de dispositivos con funciones
+de seguridad. 11.5.2.2. Choque frontal. Choque lateral. 11.6.
+Inspección Técnica de Vehículos.
+Tema 12. Impacto ambiental. Reciclaje. 12.1. Medio ambiente.
+12.2. Contaminación ambiental. 12.2.1. Emisión de
+gases. 12.2.2. Emisión acústica. 12.3.
+Vehículos ecológicos. 12.3.1. La pila de combustible.
+12.3.2. El vehículo eléctrico a baterías.
+12.4. Reciclabilidad 12.4.1. Proyecto de Directiva europea. 12.4.2.
+Tratamiento de los Vehículos Fuera de Uso. 12.4.2.1.
+Reducción o prevención. 12.4.2.2.
+Reutilización. 12.4.2.3. Reciclado. 12.4.2.4.
+Valorización. 12.4.3. Situación actual y esquema de
+futuro. 12.4.3.1. Fuentes de vehículos fuera de uso.
+12.4.3.2. Desguazadores. 12.4.3.3. Fragmentadores. 12.4.3.4.
+Recicladores. 12.4.3.5. Consideraciones de tipo económico.
+12.4.3.6. Conclusiones
+'

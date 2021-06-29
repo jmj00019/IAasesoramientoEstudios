@@ -1,0 +1,30 @@
+'
+
+Algebra Lineal
+Geometría
+Cálculo Diferencial e Integral para funciones de una
+variable
+
+Algebra Lineal
+Geometría
+Cálculo Diferencial e Integral para funciones de una
+variable
+CONTENIDOS TEÓRICOS.
+Tema 1. Introducción al conjunto de los números
+complejos.
+Tema 2. Funciones reales de variable real.  Límite.
+Continuidad.
+Tema 3. Funciones derivables.
+Tema 4. Integración.
+Tema 5. Matrices. Determinantes.
+Tema 6. Espacios vectoriales.
+Tema 7. Valores y vectores propios de una matriz.
+Tema 8. Geometría.
+CONTENIDOS PRÁCTICOS
+Se abordarán los problemas y cuestiones
+prácticas relacionados con los mismos contenidos que se han
+explicitado en los 8 temas de contenidos teóricos. Se
+utilizará el software Mathematica para el estudio y la
+resolución de dichos problemas y cuestiones
+prácticas.
+'

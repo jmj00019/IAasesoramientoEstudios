@@ -1,0 +1,239 @@
+'
+
+
+Revisión
+  de los fundamentos de control de sistemas continuos
+
+
+Modelado
+  de sistemas (mecánicos, hidráulicos,
+  eléctricos...). Linealización de Sistemas.
+
+
+Análisis
+  temporal de sistemas.
+
+
+Sistemas
+  realimentados. Errores en régimen Permanente. Lugar de las
+  raíces.
+
+
+Análisis
+  frecuencial. Diagrama de Bode.
+
+
+Diseño
+  de controladores.
+
+
+
+
+Fundamentos de
+  control de sistemas continuos
+
+
+Sistemas
+      dinámicos
+
+
+Control
+      Automático
+
+
+Realimentación
+
+
+Lazos de
+      control
+
+
+Estructura de
+      un sistema realimentado
+
+
+
+Herramientas de
+  representación externa
+
+
+Ecuaciones
+      diferenciales
+
+
+Linealización
+      de sistemas
+
+
+Transformada
+      de Laplace
+
+
+Función de
+      transferencia
+
+
+Álgebra de
+      bloques
+
+
+
+Modelado de
+  sistemas
+
+
+Introducción
+
+
+Modelado de
+      sistemas eléctricos
+
+
+Modelado de
+      sistemas mecánicos
+
+
+Modelado de
+      sistemas electromecánicos
+
+
+Modelado de
+      sistemas hidráulicos
+
+
+
+Análisis
+  en el tiempo de un sistema dinámico
+
+
+Introducción
+
+
+Sistemas de
+      primer orden
+
+
+Sistemas de
+      segundo orden
+
+
+Sistemas de
+      orden superior
+
+
+Cancelación
+      cero-polo
+
+
+
+Sistemas
+  realimentados
+
+
+Realimentación
+      de sistemas de primer orden
+
+
+Realimentación
+      de sistemas de segundo orden
+
+
+Realimentación
+      de sistemas de orden superior
+
+
+Estabilidad
+
+
+Errores en
+      régimen permanente
+
+
+Lugar
+      geómetrico de las ráices (LR)
+
+
+
+Diseño controladores
+
+
+Acciones
+      básicas de control
+
+
+Métodos
+      de sintonía experimentales
+
+
+Diseño
+      del controlador a través del LR
+
+
+
+Análisis
+  de respuesta en frecuencia de un sistema realimentado
+
+
+Función de
+      transferencia en el dominio de la frecuencia
+
+
+Representaciones
+    gráficas:
+
+
+Diagrama
+        Polar
+
+
+Diagrama de
+        Bode
+
+
+
+Estabilidad
+      Relativa
+
+
+Diseño
+      de un controlador en el dominio de la frecuencia
+
+
+
+
+Prácticas de
+  laboratorio:
+
+
+
+Práctica
+    1: Modelado e identificación de un sistema
+    dinámico
+
+
+Práctica
+    2: Análisis en el dominio temporal
+
+
+Práctica
+    3: Sistemas realimentados
+
+
+Práctica
+    4: Controladores PID 
+
+
+Práctica
+    5: Diseño controladores a través de LR
+
+
+Práctica
+    6: Diagrama de Bode
+
+
+Práctica
+    7: Diseño Compensador a través del dominio de la
+    frecuencia
+
+
+'

@@ -1,0 +1,78 @@
+'
+
+- Identificación de los diferentes bienes y
+categorías de ellos que hoy son considerados Patrimonio
+Histórico, en especial aquellos que constituyen el
+Patrimonio Arqueológico.
+- Desarrollo de un espíritu crítico en el alumno
+que le permita analizar y valorar las diferentes acciones ejercidas
+en lo que a gestión y puesta en valor del Patrimonio
+Arqueológico se refiere.
+- Iniciarse en los métodos y entrenar las herramientas
+utilizadas en el diseño y gestión de proyectos de
+intervención en el patrimonio arqueológico.
+- Desarrollo de habilidades relacionadas con los instrumentos a
+emplear por el profesional del Patrimonio Arqueológico en la
+labor de difusión y divulgación del mismo.
+- Desarrollo de las nuevas tecnologías aplicadas a la
+puesta en valor del patrimonio arqueológico en especial las
+referidas a las aplicaciones informáticas.
+
+
+
+Introducción: Preservación,
+    restauración y difusión del patrimonio
+    arqueológico mediante las tecnologías
+    digitales
+
+
+Arqueología virtual
+
+Conceptos, utilidad y campos de aplicación.
+    Tipos de intervención.
+Evolución histórica.
+Bases de la disciplina: Carta de Londres y Principios de
+    Sevilla.
+Proyectos de reconstrucción virtual.
+    Hipótesis virtual arqueológica.
+Difusión de proyectos de reconstrucción
+    virtual.
+
+
+
+
+Generación de modelos digitales del patrimonio
+  arqueológico
+
+Introducción a la Digitalización 2D y 3D.
+    Tecnologías. Procesos. Resultados.
+Principios de modelado 3D para reconstrucción
+    virtual.
+Visualización, impresión y
+    distribución de modelos 3D.
+
+
+
+
+Realidad Virtual y Aumentada
+
+Realidad virtual y aumentada para difusión del
+    patrimonio. Conceptos comunes. Limitaciones.
+Conceptos y tecnologías hardware para realidad
+    virtual.
+Conceptos y tecnologías hardware para realidad
+    aumentada. Realidad aumentada móvil.
+
+
+
+
+Difusión de contenidos en Internet
+
+Internet y la Web. Estándares y
+    tecnologías.
+Desarrollo de contenidos para la Web. Aplicaciones Web.
+    Herramientas para desarrollo
+Principios básicos de diseño Web
+
+
+'

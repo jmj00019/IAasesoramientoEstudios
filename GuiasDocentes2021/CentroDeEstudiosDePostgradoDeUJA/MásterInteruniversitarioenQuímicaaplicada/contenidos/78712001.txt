@@ -1,0 +1,108 @@
+'
+
+- Principios generales de la
+espectrometría de masas orgánicas e
+inorgánicas. Avances en instrumentación y
+acoplamientos de la espectrometría de masas. Aspectos
+aplicados (UHU, 1.25 ECTS).
+- Espectrometría de absorción atómica
+con fuente continua y alta resolución (HR-CS-AAS). Aspectos
+generales y características del muestreo de sólidos
+mediante el empleo de un horno de grafito (GF) (UMA, 1.25 ECTS).
+- Técnicas microfluídicas: Metodologías
+de la microfabricación y técnicas instrumentales
+asociadas a la microfluídica. Diseño de dispositivos
+microfluídicos basados en metodologías
+estáticas y dinámicas. Aplicaciones analíticas
+de las técnicas de microfluídicas en las áreas
+clínica, farmacéutica, ambiental y agroalimentaria
+(UCO, 1.25 ECTS).
+- Analizadores de flujo: Análisis de flujo segmentado
+(SFA), Análisis por inyección en flujo (FIA),
+análisis por inyección secuencial (SIA)
+Técnicas de flujo multiconmutado (MCFIA, MSFIA y MPFS) (UJA,
+1.25 ECTS).
+
+
+
+
+Tema 1-2. Principios generales de
+    la espectrometría de masas orgánicas e
+    inorgánicas. Avances en instrumentación y
+    acoplamientos de la espectrometría de 
+    Aspectos aplicados. ( 
+    Imparte UHU).
+
+
+Tema
+    3. Espectrometría de absorción atómica con
+    fuente continua y alta resolución (HR-CS-AAS).
+    Desarrollo histórico. Conceptos básicos.
+    Instrumentación. Características
+    analíticas especiales. Aplicaciones al análisis
+    multielemento y al análisis de pequeñas
+    moléculas. ( 
+    Imparte UMA).
+
+
+Tema
+    4. Aspectos generales y características del muestreo de
+    sólidos mediante el empleo de un horno de grafito (GF).
+    Muestreo directo de sólidos con HR-CS-GFAAS. Demandas
+    instrumentales para la eliminación de interferencias,
+    sensibilidad y rango de determinación. Experiencia con
+    análisis directo de sólidos. Aplicaciones
+    analíticas. ( 
+    Imparte UMA).
+
+
+Tema
+    5. Introducción a las técnicas
+    microfluídicas de análisis. Generalidades.
+    Sistemas microfluídicos. Clasificación de la
+    téncinca microfluídicas de análisis.
+    Técnicas separativas y determinativas. Materiales y
+    métodos para las Metodologías de la
+    microfabricación y técnicas instrumentales
+    asociadas a la microfluídica. 
+    (
+
+Imparte UCO).
+
+
+
+Tema 6. 
+Aplicaciones
+  analíticas de los sistemas microfluídicos.
+  Aplicaciones en áreas de interés en análisis
+  agroalimentario, ambiental, bioquímico y 
+  farmacéutico. Implicaciones
+  nanotecnológicas de los dispositivos
+  microfluídicos.  
+  (
+
+Imparte UCO).
+
+
+Tema 7. Analizadores de flujo.
+    Análisis de flujo segmentado (SFA), Análisis por
+    inyección en flujo (FIA), análisis por
+    inyección secuencial (SIA).
+    Instrumentación. Tipos de analizadores. Aplicaciones de
+    interés. 
+    (
+
+Imparte UJA).
+
+
+Tema
+    8. Técnicas de flujo multiconmutado (MCFIA, MSFIA y
+    MPFS). Principios generales. Instrumentación.
+    Diferencias entre las distintas técnicas. Aplicaciones
+    de interés. 
+    (
+
+Imparte UJA).
+
+
+'

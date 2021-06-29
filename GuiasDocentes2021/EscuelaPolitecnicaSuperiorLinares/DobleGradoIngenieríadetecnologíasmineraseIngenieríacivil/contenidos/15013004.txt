@@ -1,0 +1,283 @@
+'
+
+Bloque I: Generalidades Bloque II: Minería a cielo
+abierto Bloque III: Minería subterránea Bloque IV:
+Medio ambiente y otros temas complementarios.
+
+Bloque
+I: Generalidades
+Bloque
+II: Minería a cielo abierto
+Bloque
+III: Minería subterránea
+Bloque
+IV: Medio ambiente y otros temas complementarios.
+
+ BLOQUE I: GENERALIDADES
+ TEMA
+I.1.- GENERALIDADES Y LEGISLACIÓN. Generalidades: Concepto
+moderno de minería; definición de mineral;
+definición de mina; fases del proyecto minero. Vocabulario y
+definiciones. Estudio de Viabilidad Legislación: ley de
+minas; clasificación de recursos. Legislación de
+seguridad minera.
+
+TEMA I.2.- INVESTIGACIÓN Y EVALUACIÓN. Objetivos de
+la exploración e investigación minera. Medios de
+investigación: fotogeología, prospección
+geoquímica, prospección geofísica,
+excavaciones superficiales (calicatas y trincheras), sondeos, y
+minas piloto. Sistemas de evaluación y técnicas de
+cubicación.
+
+     TEMA I.3.- TIPOS DE YACIMIENTOS Y CLASES
+DE  
+LABORES
+MINERAS. Elección del método minero en función
+de: - las características del yacimiento y su
+relación con la superficie: minería a cielo abierto,
+subterránea o por sondeos. Clasificación de los
+yacimientos. - las condiciones del entorno: geográficas,
+climáticas, medioambientales, sociales. - los
+parámetros de explotación: límites de
+concesión, dimensiones y diseño de la
+excavación, organización del trabajo, ritmo de
+producción, inversión, restauración, etc.
+
+      TEMA I.4.- INFRAESTRUCTURAS. La
+energía. El agua: 
+
+       sistemas y técnicas de
+desagüe.
+     
+TEMA I.5.- DISEÑO DE EXPLOTACIONES.
+      
+Estabilidad de taludes: Tipos de movimientos y factores que los
+desencadenan; corrección de taludes, diseño de
+bancos, pistas y accesos.
+
+ BLOQUE II: MINERÍA A CIELO ABIERTO
+ TEMA
+II.1.- CLASIFICACION MÉTODOS EXPLOTACIÓN A CIELO
+ABIERTO. Canteras de áridos y rocas ornamentales; cortas o
+explotaciones profundas; descubiertas o transferencias;
+minerías especiales: hidráulica, química,
+otras.
+ TEMA
+II.2.- CANTERAS DE ÁRIDOS Y ROCAS ORNAMENTALES. Definiciones
+y tipos Canteras de áridos y graveras: tipos de
+áridos; tipos de canteras; métodos de
+extracción Rocas ornamentales: localización de
+emplazamientos; selección del método de
+explotación. Sistemas y técnicas de arranque:
+método finlandés (perforación), corte con
+hilo, rozadora de brazo, disco, lanza térmica, chorro de
+agua. Campo de aplicación. Características
+tecnológicas. Directrices para la seguridad.
+ TEMA
+II.3.- CORTAS O EXPLOTACIONES PROFUNDAS. Características,
+tipos de yacimientos, secuencia de trabajo, maquinaria. Secuencias
+de explotación: longitudinal, transversal, mixta.
+Diseño de cortas en función del ratio estéril
+/ mineral.
+ TEMA
+II.4.- DESCUBIERTAS O TRANSFERENCIAS. Condicionamientos de los
+yacimientos, problemas con el contenido de agua. El sistema
+americano, con dragalinas, ventajas e inconvenientes, factores
+geométricos de operación, secuencia operativa,
+cálculo de radios de vertido y altura de descarga,
+combinación con excavadoras y/o con otras dragalinas. El
+sistema alemán, con rotopalas, ventajas e inconvenientes,
+factores geométricos de operación, Secuencia
+operativa, combinación con excavadoras, dragaminas, y/o con
+otras rotopalas. El sistema de voladuras de máximo
+desplazamiento.
+TEMA
+II.5.- MINERÍAS ESPECIALES. Minería
+hidráulica. Minería química. Otras
+minerías especiales: minería mixta; minería
+por terrazas; minería de contorno; minería combinada
+y estructurada.
+ TEMA
+II.6.- MAQUINARIA DE ARRANQUE EN MINERÍA A CIELO ABIERTO.
+Criterios de selección de
+maquinaria:
+de diseño, de rendimiento, de servicio, económicos.
+Tecnología del arranque mecanizado; límite de
+ripabilidad; mecanismos de rotura. Maquinaria de arranque directo:
+rotopala, minador, monitor hidráulico, draga
+hidráulica. Maquinaria de arranque indirecto: tractor,
+excavadora de cables, excavadora hidráulica, pala cargadora,
+dragalina, Mototrailla.
+ TEMA
+II.7.- MAQUINARIA DE TRANSPORTE EN MINERÍA A CIELO ABIERTO.
+El volquete minero:
+convertidor
+de par, caja de cambio, diferencial. Cálculo de flotas. La
+cinta transportadora minera. El ferrocarril minero.
+Mineroductos.
+ TEMA
+II.8.- NORMATIVA DE SEGURIDAD EN MINERÍA A CIELO ABIERTO.
+Real decreto 1389 /
+1997:
+Disposiciones mínimas destinadas a proteger la seguridad y
+la salud de los trabajadores en las actividades mineras. Reglamento
+General de Normas Básicas de Seguridad Minera Instrucciones
+Técnicas Complementarias: Seguridad del Personal, Desarrollo
+de las Labores, y Condiciones Ambientales.
+
+ BLOQUE III: MINERÍA SUBTERRÁNEA
+ TEMA
+III.1.- SOSTENIMIENTO Y FORTIFICACIÓN. Propiedades
+físicas de las rocas; clasificación de las rocas;
+esfuerzos en las masas rocosas; estabilidad de huecos creados por
+explotaciones subterráneas. Elementos de
+fortificación en función del tipo de material
+empleado: madera, acero, mampostería, hormigón,
+materiales mixtos. Elementos de fortificación en
+función de los esfuerzos a los que serán
+sometidos.
+Elementos
+de fortificación en función del tipo de obra minera
+en que se usen: galería y transversal, chimenea, pozo,
+frente de producción, cámara, tolva, intersecciones.
+Elementos de fortificación en función del tipo de
+roca: A,B,C,D,E; entibación marchante o autodesplazable;
+ensamble tipo lemniscata. Pernos de anclaje.
+Tecnología del
+hormigón proyectado. El relleno como material de
+soporte.
+ TEMA III.2.- MEDIDA DE
+TENSIONES; CRITERIOS DE DISEÑO DE PILARES. Resistencia de
+pilares.
+Concepto
+de rigidez. Caso de rotura violenta y caso estable. Forma de rotura
+de los pilares. Medición de tensiones y control de su
+evolución: célula triaxial, inclusión
+rígida, medida de actividad microsísmica.
+Diseño de pilares: cálculo de la resistencia del
+pilar; cálculo de la carga del pilar mediante la
+teoría del área atribuida; factor de seguridad y tasa
+de extracción.
+ TEMA
+III.3.- CLASIFICACION MÉTODOS EXPLOTACIÓN
+SUBTERRÁNEOS. Factores determinantes del
+método
+de explotación: geometría del yacimiento, aspectos
+geomecánicos, aspectos económicos, seguridad y medio
+ambiente. Métodos: por soporte natural del terreno, por
+soporte artificial (relleno), y por hundimiento. Secuencia
+productiva: sostenimiento y fortificación, arranque, carga y
+desescombro, transporte, extracción, servicios
+auxiliares.
+ TEMA
+III.4.- MÉTODOS DE EXPLOTACIÓN POR SOPORTE NATURAL
+DEL TERRENO. Método de
+
+cámaras y pilares. Método de subniveles.
+ TEMA III.5.-
+MÉTODOS DE EXPLOTACIÓN POR SOPORTE ARTIFICIAL DEL
+TERRENO: RELLENO.
+Método
+de cámara-almacén. Método de corte y relleno
+ascendente. Método de corte y relleno descendente.
+Método de testeros.
+ TEMA
+III.6.- MÉTODOS DE EXPLOTACIÓN POR HUNDIMIENTO DEL
+TECHO. Método de hundimiento por
+bloques.
+Método de hundimiento por tajo largo. Método de
+hundimiento por subniveles. Método de sutiraje.
+ TEMA
+III.7.- MAQUINARIA DE ARRANQUE Y CARGA EN MINERÍA
+SUBTERRÁNEA. Condicionantes para la elección de un
+sistema de arranque, carga y transporte en el interior de la mina:
+Características de las rocas 
+(dureza,
+abrasividad, plasticidad, fracturación,
+granulometría), existencia de agua, suministro de
+energía, existencia de grisú, accesos e
+instalaciones, condicionantes económicos. Maquinaria de
+arranque: martillo picador, rozadora, cepillo, ariete, scraper,
+minador. Maquinaria de carga: carga manual, pala cargadora,
+cargadora de cadena o cinta, cargadora de azada o rastrillo,
+cargadora de pico de pato, cargadora de brazos articulados,
+cargadora de cuchara de arrastre, cargadora de rastras con
+pluma.
+
+ TEMA
+  III.8.- MAQUINARIA DE TRANSPORTE EN MINERÍA
+  SUBTERRÁNEA. Transporte interior: canal, cinta
+  transportadora, transportador blindado, transporte por vagones,
+  camiones. Transporte vertical (extracción):
+
+
+-
+  Extracción por pozos: plataforma de embarque en el
+  exterior, jaula, tambor de enrollamiento, polea, cable de
+  extracción, castillete, taquete y tablero oscilante,
+  guionaje, dispositivos de seguridad (paracaídas, salva-
+  poleas, dispositivos fin de carrera), señalización,
+  sala de máquinas, recepción de mineral en
+  superficie.
+
+
+Extracción
+  por planos inclinados: cintas transportadoras, vagones, skips. -
+  Extracción horizontal - Extracción por bombeo
+  hidráulico
+
+
+ TEMA
+  III.9..- NORMATIVA DE SEGURIDAD EN EXPLOTACIONES
+  SUBTERRÁNEAS. Normativa relativa a las labores
+  subterráneas. Normativa para minas 
+  subterráneas con riesgo de explosión. Normativa
+  para electricidad.
+
+
+ BLOQUE
+  IV: MEDIO AMBIENTE Y OTROS TEMAS COMPLEMENTARIOS
+
+
+ TEMA
+  IV.1.- AEREOLOGÍA. Gases tóxicos. Atmósferas
+  explosivas: grisú y polvo de carbón. Riesgos
+  derivados del polvo.
+
+
+ TEMA
+  IV.2.- DESAGÜE. Características de las aguas
+  subterráneas. Métodos de desagüe en
+  minería de interior. Tipos y cálculo de
+  bombas.
+
+
+ TEMA
+  IV.3.- IMPACTO AMBIENTAL. Desarrollo minero sostenible. La
+  gestión de los recursos minerales y el medio ambiente.
+  Herramientas para la mejora medioambiental continuada.
+
+
+ TEMA
+  IV.4.- ELECTRIFICACIÓN DE MINAS. Disfunciones o falsas
+  maniobras: Riesgos de accidentes; prevención. Incendios de
+  origen eléctrico: sobrecargas - cortocircuitos;
+  ubicación y regulación de las protecciones.
+  Electrocución: contactos directos e indirectos;
+  dispositivos de protección. Modos de protección
+  frente a explosiones de origen eléctrico.
+
+
+ TEMA
+  IV.5.- SISTEMAS DE GESTIÓN DE LA CALIDAD, MEDIO AMBIENTE,
+  Y PREVENCIÓN DE RIESGOS
+
+
+LABORALES.
+  Sistemas de gestión de la calidad según ISO-9000.
+  Sistemas de gestión del medio ambiente según
+  ISO-14000. Integración de sistemas.
+
+ 
+'

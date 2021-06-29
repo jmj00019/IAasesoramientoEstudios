@@ -1,0 +1,230 @@
+'
+
+El proceso analítico.
+La medida en Química Analítica.
+Química Analítica de las
+disoluciones. Análisis cualitativo.
+Identificación de especies
+químicas. Análisis cuantitativo,
+volumétrico y gravimétrico.
+Laboratorio de análisis de especies
+químicas.
+
+
+
+TEMA 1. Introducción a la Química
+  Analítica. El proceso analítico
+
+
+Química
+  Analítica: concepto, objeto y finalidad. Tipos de
+  análisis. El lenguaje de la química
+  analítica: conceptos fundamentales. Propiedades
+  analíticas. El proceso analítico:
+  etapas. 
+
+
+
+TEMA 2. Toma de Muestra
+
+
+Introducción
+  y tipos de muestras. Representatividad de la toma de muestra.
+  Diseño del plan de muestreo. Estrategias generales de toma
+  de muestra. Métodos y equipo para la toma de muestra:
+  líquidos, gases y sólidos. Almacenamiento y
+  conservación de muestras.
+
+
+
+TEMA 3. Preparación de la Muestra
+
+
+Operaciones
+  preliminares o pretratamiento de la muestra. Preparación
+  de la muestra: consideraciones generales. 
+  Tratamiento de muestras para determinación de analitos
+  inorgánicos. Disolución de muestras.
+  Mineralización de matrices orgánicas.  
+  Tratamiento de muestras para determinación de analitos
+  orgánicos. Extracción sólido-
+  líquido. Extracción líquido-líquido.
+  Extracción en fase sólida. 
+
+
+
+TEMA 4. Aspectos Cualitativos y Cuantitativos de las
+  mediciones analíticas
+
+
+La
+  señal analítica.  
+  Aspectos
+  cualitativos. Identificación basada en reacciones
+  químicas. Análisis cualitativo instrumental.
+  Estándares en análisis cualitativo. Errores: falsos
+  positivos y falsos negativos. La respuesta binaria y sus
+  implicaciones cuantitativas. 
+  Aspectos
+  cuantitativos
+.
+  Tipos de metodologías de cuantificación.
+  Métodos con y sin estándares analíticos.
+  Patrones y materiales de referencia. Calibración
+  analítica y calibración instrumental.
+
+
+
+TEMA 5.
+
+ 
+
+Tratamiento
+y evaluación de resultados
+analíticos
+
+Errores
+  asociados a las medidas analíticas: concepto y tipos.
+  Expresión de los resultados
+  analíticos: tratamiento estadístico y
+  límites de confianza. Test de hipótesis y rechazo
+  de resultados. Incertidumbre, precisión y
+  veracidad.
+
+
+
+TEMA 6. Métodos Gravimétricos de
+  Análisis
+
+
+Análisis
+  Gravimétrico: consideraciones generales.
+  Clasificación de los métodos gravimétricos.
+  Cálculos estequiométricos en análisis
+  gravimétrico. Errores. Operaciones generales del
+  análisis gravimétrico. Gravimetrías de
+  precipitación. Otros tipos de gravimetrías.
+
+
+
+TEMA 7. Fundamentos del Análisis
+  Volumétrico
+
+
+Análisis
+  Volumétrico: consideraciones generales.
+  Características de una reacción para su empleo en
+  volumetría. Clasificación de los métodos
+  volumétricos. Curvas de valoración. Punto final y
+  punto de equivalencia. Sistemas indicadores del punto final.
+  Error debido al indicador. Material volumétrico: uso y
+  calibración. Patrones primarios y secundarios.
+
+
+
+TEMA 8. Volumetrías de
+  Neutralización
+
+
+Curvas de
+  neutralización: a) ácido fuerte con base fuerte y
+  viceversa; b) base débil con ácido fuerte; c)
+  ácido débil con base fuerte; d) ácidos
+  polipróticos; e) mezclas de ácidos y bases.
+  Indicadores ácido-base. Intervalo de viraje y
+  selección del indicador apropiado. Preparación de
+  disoluciones valoradas de ácidos y bases: patrones
+  secundarios. Errores en volumetrías de
+  neutralización. Ejemplos de aplicación.
+
+
+
+
+TEMA 9.  Volumetrías de
+  Oxidación-Reducción
+
+
+Curvas de
+  valoración: características. Indicadores de
+  oxidación-reducción: tipos y selección.
+  Tratamientos previos de oxidación o reducción.
+  Permanganimetrías: sustancias patrón, aplicaciones.
+  Dicromatometrías: indicadores, sustancias
+  patrón, aplicaciones. Yodometrías y
+  Yodimetrías: sustancias patrón, indicadores,
+  fuentes de error, aplicaciones.
+
+
+ 
+
+
+
+
+TEMA
+  10. Volumetrías de Formación de
+  Complejos
+
+
+Curvas de
+  valoración. Indicadores del punto final: elección
+  del indicador. Errores en la valoración.
+  Volumetrías con ligandos monodentados. Volumetrías
+  con ligandos polidentados: valoraciones con complexonas (AEDT).
+  Aplicaciones y ejemplos.
+
+
+
+TEMA 11. Volumetrías de
+  Precipitación
+
+
+Curvas de
+  valoración: Factores que influyen en el punto final.
+  Detección de puntos finales en valoraciones
+  argentimétricas: indicadores químicos.
+  Métodos de Mohr, Fajans y Volhard. Aplicaciones de la
+  argentimetría.
+
+
+
+TEMA 12. La Calidad en los resultados
+  analíticos
+
+
+Concepto
+  de trazabilidad. Validación de procesos analíticos:
+  parámetros de desempeño del
+  método. Garantía de calidad: control interno
+  de la calidad. Ejercicios inter-laboratorios. 
+
+
+Programa
+  de prácticas:
+
+
+Determinación
+  gravimétrica de niquel en una aleación
+
+
+
+Volumetrías de
+  neutralización: uso de indicadores ácido-base y
+  estandarización de HCl
+
+
+
+Determinación de una
+  mezcla de bases
+
+
+
+Determinación de
+  vitamina C en preparados farmacéuticos
+
+
+
+Determinación de la
+  dureza del agua por complexometría
+
+ 
+'

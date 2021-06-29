@@ -1,0 +1,105 @@
+'
+
+
+Revisión
+  de los conceptos básicos de la teoría de control de
+  sistemas continuos.
+
+
+Introducción
+  al control de sistemas digitales. Justificación.
+
+
+Elementos
+  de un controlador digital.
+
+
+Análisis
+  de sistemas muestreados.
+
+
+Diseño
+  de sistemas de control discretos en el dominio del tiempo y
+  frecuencia.
+
+
+Diseño
+  de controladores digitales.
+
+
+Programación
+  de controladores digitales.
+
+
+TEMA 1. El ordenador como elemento de control
+Introducción.
+Esquema del control por ordenador
+Ventajas e inconvenientes de la
+utilización del ordenador como sistema de control.
+TEMA 2. Secuencias y sistemas discretos. Transformada Z
+Propiedades de las secuencias.
+Representación de los sistemas
+discretos mediante la ecuación en diferencias.
+Transformada de Laplace de una
+secuencia.
+La transformada Z
+Solución de ecuaciones en
+diferencias mediante la transformada Z
+Diagramas de bloques de los sistemas
+muestreados
+ 
+TEMA 3.  Muestreo y reconstrucción de
+señales
+Introducción
+Muestreo de señales
+Reconstrucción de
+señales
+Retenedores de orden 0 y
+superiores
+Implementación de filtros
+digitales
+TEMA 4.  Análisis en el plano Z de los sistemas de
+control en tiempo discreto
+Correspondencias entre el plano S y
+el plano Z
+Análisis de la estabilidad
+Criterio de Jury y Routh
+modificado
+Análisis de la respuesta
+transitoria
+Análisis de la respuesta en
+estado permanente.
+ 
+TEMA 5. Diseño de sistemas de control en tiempo
+discreto.
+Diseño mediante métodos
+convencionales
+Diseño basado en el
+método del lugar geométrico de las raíces
+Diseño basado en el
+método de la respuesta en frecuencia
+Discretización de reguladores
+continuos PID
+ 
+TEMA 6.  Diseño de sistemas de control por
+sístesis directa
+Síntesis Directa
+Método de asignación de
+polos
+Controladores de tiempo
+mínimo
+Controladores de tiempo finito
+ 
+PRÁCTICAS
+P1. Presentación objetivo del
+proyecto de controlador
+P2. Implementación
+hardware del controlador
+P3. Desarrollo firmware I
+P4. Desarrollo firmware II
+P5. Desarrollo firmware III
+P6. Diseño interface HMI
+P7. Test de funcionamiento del
+sistema completo
+ 
+'

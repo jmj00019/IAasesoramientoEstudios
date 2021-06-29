@@ -1,0 +1,144 @@
+'
+
+El alumno adquirirá conocimientos sobre procesamiento
+digital de señales multimedia. Producción de sonidos
+y fonética. El oído y la percepción de voz.
+Síntesis y reconocimiento de voz. Sistemas de
+diálogo: VoiceXML Se introducirán las técnicas
+avanzadas de procesamiento de música (patrones de ritmo,
+extracción de melodías, transcripción musical
+en señales polifónicas, análisis de fuentes
+sonoras, separación de fuentes,..). Aprenderá el
+procesamiento digital de imagen y sus principales aplicaciones.
+Mejora de las imágenes para interpretación humana
+como el realce y la restauración. Métodos de
+segmentación, procesamiento morfológico,
+reconocimiento e interpretación. Se analizarán
+diferentes transformadas y su aplicación a la
+compresión presión. Algoritmos de
+compresión con y sin pérdidas, tanto de imagen como
+de video. Procesamiento y edición de la señal de
+video. La edición lineal de video. El código de
+tiempo SMPTE/EBU. Configuraciones y controladoras de
+edición. La edición no lineal.
+Palabras Clave: Síntesis de voz, VoiceXML sonidos
+polifónicos, transcripción musical, ritmo, voz
+cantada, restauración, segmentación,
+compresión, JPEG, MPEG, TIFF, PNG, SMPTE/EBU, edición
+de video.
+
+
+El
+  alumno adquirirá conocimientos sobre las técnicas
+  de procesado de señales audiovisuales tanto de audio como
+  de vídeo y se obtendrá una visión general de
+  como se habrán de procesar las señales digitales de
+  contenido audiovisual. Además se dotará al alumno
+  de la capacidad para estar al día de las novedades en
+  cienca y tecnología sobre todo en este tipo e materias tan
+  ligadas a un entorno tan dinámico como son las
+  telecomunicaciones en genral y las técnicas de procesado
+  en particular.
+
+
+Los
+  contenidos de la asignatura se desarrollan en su parte
+  teórica y en su parte práctica de la siguiente
+  manera:
+
+
+
+Contenidos teóricos:
+
+
+Tema
+  1: Fundamentos de la imagen digital. Percepción,
+  relaciones entre pixels, geometría de imagen.
+
+
+Tema
+  2: Procesamiento 2D de señales Convolución 2D de
+  señales, Convolución circular,
+  máscaras.
+
+
+Tema
+  3: Trasformadas de señales audiovisuales. Fourier, FFT,
+  Walsh, Hadamard, coseno, Haar... Codificación JPEG.
+  Algoritmos de compresión de imagen.
+
+
+Tema
+  4: Mejora y análisis de imagen. Mejoras en los dominios
+  espacial. y temporal. Procesamiento morfológico.
+
+
+Tema
+  5: Detección de bordes y otras transformaciones.
+  Detección de bordes, extracción de
+  características, segmentación, reconocimiento,
+  interpretación, restauración.
+
+
+Tema
+  6: Procesamiento y edición de señales de audio y
+  video. La Edición lineal de video. Compresión de
+  vídeo.
+
+
+
+Contenidos prácticos:
+
+
+El
+  bloque práctico de la asignatura se compone de
+  prácticas de laboratorio y ejercicios resueltos en clase y
+  su carácter es obligatorio.
+
+
+Además,
+  se desarrollarán habilidades de comunicación
+  información, ideas, problemas y soluciones en el
+  ámbito de ingeniería y la sociedad en general a
+  través de procesos de entrega de documentación o
+  presentaciones orales.
+
+
+Con
+  respecto a la organización del trabajo, se
+  fomentará la colaboración y trabajo en equipo a
+  través del propio diseño de las
+  prácticas.
+
+ 
+
+Práctica
+  1: Toolbox para procesamiento audiovisual. Procesamiento
+  básico de señales de audio, imagen y video.
+  Convolucion 2D y filtrado espacial.
+
+
+Práctica
+  2: Procesamiento de imágenes en los dominios
+  transformados. Síntesis de señales. Aplicaciones
+  para compresión. Aplicaciones de reconocimiento e
+  interpretación.
+
+
+Práctica
+  3: Implementación de algoritmos de mejora,
+  restauración, segmentación y análisis de
+  imágenes.
+
+
+Práctica
+  4: Análisis y mejora de la imagen. Extracción de
+  bordes. Procesamiento morfológico y transformación
+  de imágenes.
+
+
+Práctica
+  5: Aplicaciones de edición, compresión y
+  codificación de video
+
+'

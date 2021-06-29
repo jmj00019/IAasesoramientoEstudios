@@ -1,0 +1,152 @@
+'
+
+Tecnología de Componentes
+Circuitos Impresos
+Simulación y Diseño de Prototipos
+Compatibilidad Electromagnética
+Proyecto Electrónico
+
+
+Contenidos
+  teóricos
+
+
+
+Introducción
+  al desarrollo de prototipos electrónicos.
+
+
+Evolución
+      de la tecnología electrónica.
+
+
+Ciclo
+      de desarrollo de circuitos electrónicos.
+
+
+
+Simulación
+  y Diseño de Prototipos
+
+
+Organización
+      y jerarquización del proyecto de diseño.
+
+
+Simulación
+      analógica, digital y funcional. Análisis de
+      resultados de simulación.
+
+
+Modelado
+      de dispositivos. Simulaciones con modelos de
+      fabricantes.
+
+
+Simulaciones
+      con tolerancias y efectos de la temperatura.
+
+
+
+Tecnologías
+  de fabricación de PCB.
+
+
+Tecnologías
+      y tipos. Fabricación de PCB multicapa.
+
+
+Componentes
+      tipo THD y SMD. Encapsulados.
+
+
+Tecnologías
+      de montaje, soldadura y test de PCB.
+
+
+Estándares
+      y directivas RoHS y WEEE.
+
+
+
+Diseño
+  de PCBs.
+
+
+Herramientas
+      de CAD y utilidades de diseño.
+
+
+Selección
+      de componentes de fabricantes y elaboración de hojas
+      de pedido.
+
+
+Restricciones
+      geométricas. Selección y edición de
+      footprints.
+
+
+Reglas
+      de diseño: colocación de componentes y
+      enrutado.
+
+
+Generación
+      de ficheros para fabricación
+
+
+
+Diseño
+  avanzado de PCBs
+
+
+Interferencia
+      Electromagnética: Fuentes de ruido y efectos.
+      Estándares.
+
+
+Técnicas
+      de desacoplo e integridad de la señal.
+      Colocación de componentes, enrutado y red de
+      alimentación. Adaptación de líneas de
+      transmisión.
+
+
+Distribución
+      de alimentación en sistemas mixtos (red digital,
+      analógica y de potencia). Condensadores de desacoplo.
+      Planos de potencia y blindajes.
+
+
+Protección
+      contra fenómenos de descarga electrostática
+      (ESD).
+
+
+
+
+Prácticas
+
+
+
+Introducción
+    al diseño de PCBs: entorno CAD, ejercicios de
+    iniciación al diseño.
+
+
+Diseño
+    de una PCB mixta con planos de masa y
+    alimentación.
+
+
+Diseño
+    de una PCB modular. Generación de Gerber y
+    validación en fabricantes.
+
+
+Proyecto
+    final.
+
+
+'

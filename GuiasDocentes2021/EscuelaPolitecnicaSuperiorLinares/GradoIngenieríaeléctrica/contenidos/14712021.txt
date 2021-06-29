@@ -1,0 +1,90 @@
+'
+
+Elementos del sistema eléctrico
+Flujo de cargas
+Análisis de faltas y contingencias
+Sobretensiones
+
+
+Tema 1.- Estructura de un sistema de energía
+  eléctrica.
+
+1.1.- Introducción.
+1.2.- Características tecnológicas de un sistema
+de energía eléctrica.
+1.3.- Aspectos económicos relacionados con los sistemas
+de energía eléctrica.
+1.4.- Requisitos de modelado de sistemas de energía
+eléctrica.
+1.5.- Retos y perspectivas de
+futuro.      
+1.6.-El Sistema de Energía Eléctrica en
+España.
+  
+Tema 2.- Componentes de un sistema de energía
+eléctrica.
+
+ 2.1.- Diseño de sistemas de
+energía eléctrica.
+2.2.- Magnitudes por unidad.
+2.3.- Líneas de transporte de energía
+eléctrica.
+2.4.- Transformadores de potencia.
+2.5.- La máquina síncrona.
+2.6.- El motor de inducción.
+2.7.- Consumos.
+  
+Tema 3.- El sistema de energía eléctrica en
+estado estacionario.
+ 3.1.- Clasificación de las líneas de
+transporte de energía eléctrica.
+3.2.- Modelado de una línea de transporte de longitud
+corta.
+3.3.- Modelado de una línea de transporte de longitud
+media.
+3.4.- Modelado de una línea de transporte de longitud
+larga.
+3.5.- Condiciones de funcionamiento de las líneas
+eléctricas.
+3.6.- Líneas de transporte de energía sin
+pérdidas.
+3.7.- Flujo máximo de potencia.
+3.8.- Compensación en las líneas de transporte de
+energía eléctrica.
+ 
+
+Tema 4.- Análisis de los flujos de carga.
+
+4.1.- Introducción.
+4.2.- Matriz de admitancias de barra de un sistema de
+energía eléctrica.
+4.3.- El problema del flujo de cargas.
+4.4.- Solución de ecuaciones algebraicas no lineales.
+4.5.- Solución del flujo de cargas mediante el
+método de Gauss-Seidel.
+4.6.- Solución del flujo de cargas mediante el
+método de Newton-Raphson.
+4.7.- Solución del flujo de cargas mediante el
+método desacoplado rápido.
+4.8.- Flujo de cargas y pérdidas de potencia en las
+líneas de transporte.
+
+Tema 5.- Análisis de cortocircuitos y
+  protección de los sistemas de energía
+  eléctrica.
+
+5.1.- Corrientes de cortocircuito y componentes
+simétricas.
+5.2.- Métodos matriciales para el análisis de
+cortocircuitos.
+5.3.- Circuito equivalente Thevenin aplicado al análisis
+de cortocircuitos.
+5.4.- Clasificación de los cortocircuitos en los sistemas
+de energía eléctrica.
+5.5.- Cálculo de cortocircuitos en función de la
+normativa IEC.
+5.6.- Cortocircuitos en las máquinas síncrona y
+asíncrona.
+5.7.- Técnicas de protección de un sistema de
+energía eléctrica.
+'

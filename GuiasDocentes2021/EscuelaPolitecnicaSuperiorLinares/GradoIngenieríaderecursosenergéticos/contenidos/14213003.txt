@@ -1,0 +1,76 @@
+'
+
+1. Conceptos básicos de diseño
+2. Funciones básicas 2D/3D
+3.Aplicaciones CAD en Ingeniería Civil
+
+
+
+Sistemas CAD en
+    Ingeniería Civil.
+
+
+Entorno Autocad.
+
+
+Entorno de trabajo.
+
+
+Plantillas de Dibujo.
+
+
+Operaciones básicas de
+    dibujo y visualización del dibujo.
+
+
+Edición y
+    modificación del dibujo.
+
+
+Organización del
+    dibujo: Capas.
+
+
+Textos y atributos.
+
+
+Las tablas en Autocad.
+
+
+Acotación del
+    dibujo.
+
+
+Las escalas en Autocad.
+
+
+Presentaciones y la
+    impresión de planos.
+
+
+Aplicaciones CAD en
+    internet.
+
+
+Conceptos básicos de
+    Autocad CIVIL 3D.
+
+
+
+CONTENIDO PRÁCTICO
+
+
+P01-DISEÑOS-2D
+
+
+P03-DISEÑOS-3D
+
+
+P03-MODELADO-3D
+
+
+P04-REPRESENTACIÓN PLANOS
+  NORMALIZADOS
+
+ 
+'

@@ -1,0 +1,51 @@
+'
+
+BLOQUE I: Conceptos generales. Toma de datos.
+BLOQUE II: Modelización en SIG
+BLOQUE III: SIG vectoriales y raster. Modelos digitales del
+terreno.
+BLOQUE IV: Análisis SIG y aplicaciones.
+
+PROGRAMA DE TEORIA
+BLOQUE I: Conceptos generales. Toma de datos.
+1.- El dato geográfico: concepto, escala y componentes
+2.- Adquisición de datos: datos georeferenciados y
+datos georeferenciables
+BLOQUE II: Modelización en SIG
+Página 3 de 7
+3.- Introducción a los modelos de datos. Datos
+vectoriales y datos raster
+4.- Datos alfanuméricos. Bases de datos relacionales y
+orientadas a objetos
+BLOQUE III: SIG vectoriales y raster. Modelos digitales del
+terreno.
+5.- Modelos digitales del Terreno: CN, RU, RTI.
+BLOQUE IV: Análisis SIG y aplicaciones.
+6.- Lenguajes de consulta estructurado: SQL2008 y SQL
+espacial
+7.- Análisis vectorial: algebra de mapas,
+análisis de vecindad, análisis de proximidad,
+análisis multicriterio y
+análisis de redes.
+8.- Análisis raster: algebra de mapas, visibilidad,
+flujos, volúmenes. 
+PROGRAMA DE PRÁCTICAS
+1.- Introducción de datos en un SIG: local, servicios
+WEB, ortofotos (2 horas)
+2.- Digitalización y edición de la
+información geográfica. (2 horas)
+3.- Georreferenciación (2 horas)
+4.- Mapas de calor (2 horas)
+5.-  Análisis vectorial (2 horas)
+6.- Análisis raster. Trabajar con un MDE (2 horas)
+7.- Construcción  de  modelos (2 horas)
+8.- Calculo  de  áreas  en desnivel (2
+horas)
+9.- Indicador  sintético (2 horas)
+10.- Línea  de  Mínima 
+pendiente (2 horas)
+11.- Calculo de volúmenes (2 horas)
+12.- Mejor localización raster (2 horas)
+13.- Mejor localización  vectorial (2 horas)
+14.- Análisis  de  redes (2 horas)
+'

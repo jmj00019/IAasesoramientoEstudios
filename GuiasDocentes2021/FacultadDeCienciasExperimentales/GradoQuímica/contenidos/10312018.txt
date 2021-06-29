@@ -1,0 +1,155 @@
+'
+
+Estructura y función de macromoléculas y membranas
+biológicas. Catálisis y control de las reacciones
+bioquímicas. La función de los metales en los
+procesos biológicos. Bioenergética. Metabolismo.
+Información genética. Estructura, propiedades y
+reactividad química de biomoléculas.
+Metodología en Bioquímica y Biología
+Molecular.
+
+
+PROGRAMA DE TEORÍA
+
+
+
+Bloque 1: Composición y
+  estructura de biomoléculas
+
+
+Tema 1: Introducción a la
+  Bioquímica y Biología Molecular. Bioelementos y
+  Biomoléculas.
+
+
+Tema 2: Glúcidos: Funciones
+  biológicas. Tipos.
+
+
+Tema 3: Lípidos. Funciones
+  biológicas. Tipos.
+
+
+Tema 4: Nucleótidos.
+  Ácidos nucleicos: ADN y ARN. Estructura de los
+  ácidos nucleicos.
+
+
+Tema 5: Experimentación con
+  ácidos nucleicos: Purificación. Hibridación.
+  Reacción en cadena de la polimerasa. Tecnología del
+  ADN recombinante. Genómica.
+
+
+Tema 6: Aminoácidos. Enlace
+  peptídico. Niveles estructurales de las
+  proteínas.
+
+
+Tema 7: Relaciones
+  estructura-función de proteínas.
+
+
+Tema 8: Proteómica:
+  Fundamento, técnicas y aplicaciones.
+
+
+
+Bloque 2: Enzimática y
+  metabolismo
+
+
+Tema 9: Enzimas:
+  Características generales, nomenclatura y
+  clasificación. Mecanismos catalíticos de las
+  enzimas. Coenzimas. Cinética enzimática y factores
+  que la modulan. Parámetros cinéticos
+  enzimáticos. Catálisis enzimática
+  multisustrato. Inhibidores de enzimas. Mecanismos reguladores de
+  la actividad enzimática. Isoenzimas.
+
+
+Tema 10: Termodinámica de los
+  procesos bioquímicos. Energía libre de Gibbs.
+  Energética de las reacciones de
+  óxido-reducción biológicas.
+
+
+Tema 11: Metabolismo: Generalidades.
+  Rutas metabólicas. Catabolismo y anabolismo. Compuestos
+  biológicos transferidores de energía química
+  y transferidores de electrones. Mecanismos generales de
+  regulación metabólica.
+
+
+Tema 12: El ciclo de Krebs.
+  Reacciones anapleróticas. Cuerpos cetónicos.
+
+
+Tema 13: Fosforilación
+  oxidativa: Cadena de transporte electrónico mitocondrial y
+  ATP sintasa. Fotofosforilación: Fotosistemas y transporte
+  electrónico en cloroplastos.
+
+
+Tema 14: Metabolismo de
+  glúcidos: Glucólisis. Fermentaciones.
+  Síntesis y degradación del glucógeno.
+  Gluconeogénesis. Ruta de las pentosas fosfato.
+  Regulación de las rutas metabólicas
+  glucídicas. Ciclo de Calvin-Beson.
+
+
+Tema 15: Metabolismo de
+  lípidos: Degradación y síntesis de
+  ácidos grasos. Síntesis de triacilglicéridos
+  y glicerofosfolípidos. Síntesis de colesterol.
+  Movilización de lípidos en humanos.
+  Lipoproteínas.
+
+
+ Tema 16: Metabolismo de los
+  compuestos nitrogenados: Degradación de proteínas y
+  aminoácidos. Transaminación y desaminación.
+  Ciclo de la urea. Síntesis y degradación de
+  nucleótidos.
+
+
+Tema 17: Metabolismo integral: Perfil
+  metabólico de los principales órganos humanos.
+  Metabolómica
+
+
+Tema 18: Replicación del ADN.
+  Mutaciones. Mecanismos de reparación.
+
+
+Tema 19: Transcripción:
+  Síntesis biológica de ARN
+
+
+ Tema 20: Traducción:
+  Síntesis biológica de proteínas.
+
+PROGRAMA DE PRÁCTICAS
+Sesión 1.
+Purificación de una proteína por cromatografía
+de afinidad.
+Sesión 2. Electroforesis en
+geles de poliacrilamida (SDS-PAGE).
+Sesión 3. Detección
+inmunológica de una proteína por Western-blot.
+Sesión 4.
+Caracterización cinética de la actividad
+enzimática glutatión transferasa.
+Sesión 5.
+Determinación del contenido de glucógeno
+hepático.
+Sesión 6. Análisis de
+lípidos: Determinación de TAGs y colesterol , y de
+derivados de peroxidación lipídica en sangre.
+Sesión 7.
+Amplificación de un fragmento de ADN mediante
+reacción en cadena de la polimerasa (PCR).
+'

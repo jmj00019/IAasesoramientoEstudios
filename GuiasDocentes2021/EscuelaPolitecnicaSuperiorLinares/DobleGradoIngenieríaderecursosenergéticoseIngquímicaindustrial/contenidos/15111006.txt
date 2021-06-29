@@ -1,0 +1,175 @@
+'
+
+El ciclo geodinámico.
+Procesos geológicos internos.
+Procesos geológicos externos.
+Geofísica y Geotectónica.
+El tiempo geológico.
+
+
+Programa de clases de teoría.
+
+ I. 
+Introducción.
+1.- 
+Introducción. Concepto de Geología.
+Su relación con otras ciencias. Aplicación del
+método científico en Geología.
+Evolución histórica del conocimiento
+geológico. Principios fundamentales.
+2.- 
+El ciclo geológico.  El ciclo
+Geodinámico Externo: agentes geológicos procesos y
+efectos. Erosión y meteorización. La erosión y
+el transporte. Acción de aguas superficiales. Acción
+eólica. Acción del hielo. Acción de olas,
+corrientes y mareas. El modelado del relieve. El ciclo
+hidrológico. La sedimentación: cuencas sedimentarias
+y estratos. Diagénesis. El Ciclo Geodinámico Interno:
+metamorfismo,  magmatismo y reajustes isostáticos.
+Ciclo de Wilson.
+ II. 
+Mineralogía, Petrología y procesos
+petrogenéticos.
+3.- 
+Mineralogía determinativa. Conceptos de
+cristal y mineral. Simetría cristalina. Métodos
+físicos de determinación: propiedades escalares y
+vectoriales. Investigación óptica. Métodos
+químicos de identificación. Cristalografía de
+rayos X. Microscopía electrónica y técnicas
+especiales.
+4.- 
+Minerales formadores de rocas. Clasificaciones
+mineralógicas. Conceptos de mineral y roca. Estructura y
+sistemática de los silicatos. Minerales no
+silicáticos.
+5.- 
+Procesos magmáticos I. Concepto de magma.
+Diferenciación magmática. Tipos de rocas
+ígneas. Composición química y
+mineralógica. Texturas. Rocas plutónicas:
+clasificación y estructuras. Procesos pegmatíticos e
+hidrotermales. Metasomatismo.
+6.- 
+Procesos magmáticos II. Rocas
+volcánicas: Composición química y
+mineralógica. Factores que influyen en la emisión:
+temperatura del fundido, composición, acidez-basicidad,
+contenido en agua, viscosidad. Estructuras. Textura y
+clasificación de las rocas volcánicas.
+Distribución geotectónica de las rocas
+ígneas.
+7.- 
+Procesos metamórficos. Definición.
+Factores. Límites del metamorfismo. Tipos de metamorfismo.
+Mineralogía de las rocas metamórficas. Texturas
+metamórficas. Clasificación de las rocas
+metamórficas. Distribución geotectónica de las
+rocas metamórficas.
+8.- 
+Procesos sedimentarios. Los procesos y agentes
+exógenos. Sedimentación: ambientes sedimentarios.
+Estrato. Diagénesis. Roca sedimentaria. Clasificación
+de las rocas sedimentarias. Rocas sedimentarias detríticas:
+ruditas, areniscas, lutitas. Rocas sedimentarias no
+detríticas: mecanismos de precipitación, rocas
+carbonáticas, rocas silíceas, rocas
+alumino-ferruginosas, evaporitas. Interés. Rocas
+organógenas: carbón y petróleo. Continuidad y
+concordancia.
+ III. 
+Fundamentos de Geofísica y
+Geotectónica.
+9.- 
+Principios de Geofísica. Forma, masa,
+volumen y densidad de la Tierra. El campo gravitatorio.
+Métodos gravimétricos. Isostasia. El campo
+geomagnético. Paleomagnetismo. Métodos
+eléctricos. Sismología.
+10.- 
+Estructura y composición de la Tierra.
+Fuentes de información. Datos sísmicos. La corteza:
+estructura y composición. La litosfera. Estructura y
+composición del manto: la astenosfera. Estructura y
+composición del núcleo.
+11.- 
+Deriva continental y tectónica de placas.
+Wegener y la deriva continental. Primeras ideas y evolución
+de la teoría. Las placas litosféricas. Tipos de
+límites entre placas. Causas del movimiento de las placas.
+Evolución de la litosfera: ciclo de Wilson.
+ 12.- 
+Las deformaciones de los materiales de la corteza.
+Comportamiento mecánico de las rocas. Deformación
+dúctil. Pliegues: anatomía de los pliegues, tipos de
+pliegues. Deformación frágil. Fallas:
+anatomía, tipos de fallas, criterios de reconocimiento.
+Otras estructuras de deformación: mantos de corrimiento,
+diapiros. Medida de las estructuras.
+ IV. 
+El tiempo en Geología.
+13.- 
+El tiempo en Geología. Coordenadas espacio
+y tiempo en Geología. Edades y dataciones relativas:
+métodos. Edades y dataciones absolutas (numéricas):
+métodos radioactivos. Otros métodos de
+datación absoluta. Grandes divisiones geológicas: la
+tabla del Tiempo Geológico y su calibración.
+ 
+
+Programa de prácticas
+
+
+ Bloque I. Estudio de los minerales
+  (petrogenéticos) y rocas más abundantes.
+
+1.- Uso del microscopio petrográfico, propiedades
+ópticas elementales.
+2.- Reconocimiento en muestra de mano de los principales
+minerales formadores de rocas.
+3.- Clasificación,  identificación y
+análisis textural elemental de las principales rocas
+ígneas.
+4.- Clasificación, identificación y
+análisis textural elemental de las principales rocas
+metamórficas.
+5.- Clasificación, identificación y
+análisis textural elemental de las principales rocas
+sedimentarias.
+  
+Bloque II. Interpretación de mapas
+topográficos, y geológicos.
+6.- Topografía y mapas topográficos. Escalas,
+sistemas de coordenadas más utilizados. Realización
+de perfiles.
+7.- Mapas geológicos: métodos de
+representación, contactos, simbología, etc.
+Interpretación de mapas geológicos con materiales
+horizontales. Elaboración de cortes geológicos.
+8,9,10.- Interpretación de mapas geológicos
+simples. Interpretación de mapas simples con materiales
+inclinados. Técnicas geométricas básicas para
+cálculo de dirección y buzamiento de superficies
+inclinadas. Deducción del régimen de las fallas.
+Elaboración de cortes geológicos.
+
+ Bloque III. Práctica de campo.
+
+Se realizará una salida al campo de un día,
+visitando los alrededores de Linares, Guarromán y La
+Carolina. Entre las actividades a realizar durante la
+excursión están:
+- Localización sobre mapa topográfico y
+geológico.
+- Reconocimiento 
+in situ de los distintos tipos de rocas observados y ya
+estudiados en las prácticas de laboratorio.
+- Observación e interpretación de distintas
+estructuras geológicas (pliegues, fallas...).
+- Manejo de la brújula (toma de medidas: superficies y
+líneas).
+- Elaboración de cortes geológicos.
+- Interpretación de la estructura geológica
+regional.
+'

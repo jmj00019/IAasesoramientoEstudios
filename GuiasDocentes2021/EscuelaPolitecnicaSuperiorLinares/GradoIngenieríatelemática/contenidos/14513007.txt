@@ -1,0 +1,160 @@
+'
+
+Bloque I.
+Fuentes de alimentación
+Bloque II.
+El amplificador operacional. Aplicaciones
+Bloque III.
+Fundamentos de la instrumentación electrónica
+Bloque IV.
+Fundamentos de los sistemas de alimentación en equipos de
+información y comunicaciones
+
+
+
+CONTENIDOS
+  TEÓRICOS: (Desarrollo de temas)
+
+
+
+Bloque
+1
+.
+Instrumentación electrónica
+
+ 
+  Tema 1. Fundamentos de la instrumentación
+  electrónica
+
+
+ 
+  Tema 2. Sensores
+
+
+ 
+  Tema 3. Amplificador operacional de instrumentación
+
+
+ 
+  Tema 4. Acondicionamiento de señal
+
+
+ 
+
+
+
+Bloque
+2
+.
+Adquisición de datos.
+
+
+ 
+Tema
+5
+.
+Fundamentos de la adquisición de datos.
+
+ 
+  Tema 6. 
+  Adquisición de datos en
+  plataformas de hardware libre. Arduino
+
+
+ 
+
+
+ 
+  
+  
+Bloque 3
+. Sistemas de
+  alimentación
+
+
+ 
+  Tema 7. Fuentes lineales
+
+
+ 
+  Tema 8. Fuentes conmutadas
+
+
+ 
+  Tema 9. Alimentación de equipos de información y
+  comunicaciones basados en FV
+
+ 
+
+
+CONTENIDOS
+  PRÁCTICOS: (Desarrollo de
+  prácticas)
+
+
+Bloque
+  1: Programas de simulación electrónica y
+  prototipado
+
+
+Práctica
+  1. Introducción Pspice (guiada-obligatoria)
+
+
+Práctica
+  2. Pspice Avanzado y PCB(guiada-obligatoria)
+
+
+Práctica
+  3. Prototipado PCB (guiada-puntuable)
+
+
+Práctica
+4. Diseño Global 
+
+Bloque
+  2: Acondicionamiento de señal
+
+
+Práctica
+  5. Amplificador de instrumentación y sensores
+  (guiada-obligatoria)
+
+
+Práctica
+  6. Sensores y plataformas hardware(guiada-obligatoria)
+
+
+Práctica
+  7. Diseño Global
+
+
+Práctica
+8. Diseño Global 
+
+Bloque
+  3: Adquisición de datos y fuentes de
+  alimentación
+
+
+Práctica
+  9. Adquisición y almacenamiento de datos
+  (guiada-obligatoria)
+
+
+Práctica
+  10. Fuentes de alimentación(guiada-obligatoria)
+
+
+Práctica
+  11. Diseño global
+
+
+Práctica
+  12. Diseño global
+
+
+Práctica
+  13. Presentación Diseño global (puntuable)
+
+'

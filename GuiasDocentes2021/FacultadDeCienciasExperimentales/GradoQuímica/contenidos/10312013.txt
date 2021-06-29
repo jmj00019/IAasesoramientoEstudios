@@ -1,0 +1,195 @@
+'
+
+Estructura y reactividad de los grupos funcionales
+orgánicos más comunes
+
+
+TEMA 1. ESTRUCTURA Y ESTEREOQUÍMICA DE
+ALCANOS.1. Clasificación de los hidrocarburos. 2.
+Propiedades físicas de alcanos: fuerzas intermoleculares. 3.
+Interés y aplicaciones de alcanos. 4. Estructura y
+conformación de alcanos. Representaciones de Newman. 5.
+Cicloalcanos. Estabilidad de ciclos: tensión de anillo. 6.
+Conformación de cicloalcanos. 7. Moléculas
+bicíclicas.
+
+TEMA 2. REACTIVIDAD DE ALCANOS. 1.
+Combustión de alcanos. 2. Craqueo. 3. Cloración del
+metano: perfiles de reacción, radicales libres 4.
+Halogenación selectiva de alcanos 5. Inhibidores de
+radicales.
+
+TEMA 3. ESTEREOQUÍMICA. 1. Isomería,
+tipos de isomería. 2. Quiralidad y enantiomería. 3.
+Nomenclatura (R) (S). 4. Actividad óptica. 5.
+Discriminación biológica de enantiómeros. 6.
+Mezclas racémicas. 7. Exceso enantiomérico y pureza
+óptica. 8. Quiralidad en sistemas conformacionalmente
+móviles. 9. Compuestos quirales sin átomo
+asimétrico. 10. Proyecciones de Fischer. 11.
+Diastereómeros. 12. Estereoquímica de
+moléculas con dos o más centros asimétricos.
+13. Configuración absoluta y configuración relativa.
+14. Resolución de enantiómeros. 15. Inducción
+asimétrica.
+
+TEMA 4. HALUROS DE ALQUILO. 1.
+Clasificación, nomenclatura y estructura de haluros. 2.
+Propiedades físicas. 3. Interés y aplicaciones de
+haluros de alquilo. 4. Preparación. 5. Reactividad de
+haluros de alquilo: sustitución nucleófila de segundo
+orden, SN2: mecanismo, estereoquímica y factores que la
+controlan (sustrato, saliente, nucleófilo, solvente). 6.
+Reactividad de haluros de alquilo: sustitución
+nucleófila de primer orden, SN1: mecanismo, carbocationes,
+reagrupamientos, estereoquímica y factores que la controlan.
+7. Competencia entre SN1 y SN2.
+
+TEMA 5. ESTRUCTURA Y SÍNTESIS DE ALQUENOS.
+1. Estructura de alquenos. 2. Nomenclatura, isómeros
+cis-trans, Z-E. 3. Propiedades físicas, relación con
+la geometría. 4. Interés y aplicaciones de alquenos.
+5. Síntesis de alquenos por eliminación de haluros de
+alquilo, reacciones E2 y E1: mecanismo, orientación,
+estereoquímica, bases voluminosas y competencia. 6.
+Competencia entre las reacciones de sustitución y
+eliminación. Utilidad sintética. 7.
+Debromación de dibromuros vecinales. 8. Síntesis de
+alquenos por deshidratación de alcoholes catalizada por
+ácidos. 9. Síntesis de alquenos mediante
+métodos industriales.
+
+TEMA 6. REACCIONES DE ALQUENOS. 1. Reactividad del
+doble enlace carbono-carbono. 2. Adición
+electrofílica: mecanismo, regioquímica. 3.
+Adición de haluros de hidrógeno. 4. Adición de
+agua: hidratación. 5.
+Oximercuración-desmercuración,
+alcoximercuración-desmercuración. 6.
+Hidroboración. 7. Adición de halógenos y
+formación de halohidrinas. 8. Hidrogenación
+catalítica. 9. Adición de carbenos. 10.
+Epoxidación, apertura de epóxidos. 11.
+Hidroxilación 
+sin. 12. Ruptura oxidativa. 13. Polimerización. 14.
+Metátesis de olefinas.
+
+TEMA 7. ALQUINOS. 1. Estructura y reactividad del
+triple enlace carbono-carbono. 2. Nomenclatura. 3. Propiedades
+físicas. 4. Interés y aplicaciones de alquinos. 5.
+Acidez de alquinos, iones acetiluro: utilidad sintética. 6.
+Síntesis de alquinos por reacciones de eliminación.
+7. Reacciones de adición a alquinos. 8. Oxidación de
+alquinos.
+
+TEMA 8. SISTEMAS CONJUGADOS. 1.
+Clasificación y nomenclatura de dienos. 2. Estructura y
+estabilidad de dienos conjugados. 3. Cationes alílicos. 4.
+Adiciones 1,2 y 1,4 a dienos conjugados. 5. Control cinético
+y control termodinámico en la adición de HBr a
+1.3-butadieno. 6. Radicales alílicos. 7. Estructura
+electrónica del radical, catión y anión alilo.
+8. Reacciones SN2 de haluros y tosilatos alílicos. 9. La
+reacción Diels-Alder como ejemplo de una reacción
+pericíclica.
+
+TEMA 9. ESTRUCTURA Y SÍNTESIS DE ALCOHOLES.
+1. Estructura y clasificación de alcoholes. 2. Nomenclatura.
+3. Propiedades físicas. 4. Interés y aplicaciones de
+alcoholes. 5. Acidez de alcoholes. 6. Síntesis previas de
+alcoholes. 7. Reactivos organometálicos para la
+síntesis de alcoholes. 8. Adición de reactivos
+organometálicos a compuestos carbonílicos. 9.
+Reacciones secundarias de reactivos organometálicos. 10.
+Reducción del grupo carbonilo en la síntesis de
+alcoholes. 11. Tioles.
+
+TEMA 10. REACCIONES DE LOS ALCOHOLES. 1. Estados
+de oxidación de los alcoholes y grupos funcionales
+relacionados. 2. Oxidación de alcoholes. 3. Oxidación
+biológica. 4. Alcoholes como nucleófilos y
+electrófilos. Formación de tosilatos. 5. Reacciones
+de alcoholes con haluros de hidrógeno. 6. Reacciones de
+alcoholes con haluros de fósforo. 7. Reacciones de alcoholes
+con cloruro de tionilo. 8. Reacciones de deshidratación. 9.
+Reacciones exclusivas de dioles. 10. Esterificación de
+alcoholes. 11. Reacciones de los alcóxidos.
+
+TEMA 11. ÉTERES, EPÓXIDOS Y
+SULFUROS. 1. Estructura, nomenclatura y propiedades
+físicas. 2. Síntesis de Williamson de los
+éteres. 3. Síntesis de éteres mediante
+alcoximercuración-desmercuración. 4. Síntesis
+industrial: deshidratación bimolecular de los alcoholes. 5.
+Ruptura de éteres causada por HBr y HI. 6.
+Autooxidación de éteres. 7. Sulfuros. 8.
+Síntesis de epóxidos. 9. Apertura del anillo de
+epóxidos catalizada por ácidos y por base. 10.
+Reacciones de los epóxidos con reactivos de Grignard y
+organolitios. 11. Resinas epóxicas.
+
+TEMA 12. COMPUESTOS NITROGENADOS. 1.
+Clasificación y nomenclatura de aminas. 2. Estructura. 3.
+Propiedades físicas. 4. Interés y aplicaciones de
+aminas. 5. Basicidad de aminas. 6. Sales de aminas:
+catálisis en transferencia de fase. 7. Alquilación de
+aminas por haluros de alquilo. 8. Acilación de aminas por
+haluros de ácido. 9. Formación de sulfonamidas. 10.
+Aminas como grupos salientes: eliminación de Hofmann. 11.
+Oxidación de aminas: eliminación de Cope. 12.
+Reacciones de aminas con ácido nitroso. 13. Síntesis
+de aminas mediante aminación reductiva. 14. Síntesis
+de aminas por acilación reducción. 15.
+Síntesis limitada a aminas primarias.
+
+TEMA 13. CETONAS Y ALDÉHIDOS. 1. Estructura
+del grupo carbonilo. 2. Nomenclatura de aldehídos y cetonas.
+3. Propiedades físicas. 4. Interés y aplicaciones de
+aldehídos y cetonas. 5. Equilibrio ceto-enólico. 6.
+Acidez de hidrógenos en posición alfa.
+Reacción aldólica. 7. Reacción
+aldólica. 8. Síntesis previas de aldehídos y
+cetonas. 9. Síntesis de aldehídos y cetonas
+utilizando ditiano. 10. Síntesis a partir de ácidos
+carboxílicos y derivados: ácidos, nitrilos y haluros
+de ácido. 11. Reacciones de aldehídos y cetonas:
+adición nucleófila al carbonilo. 12. Reacción
+de Wittig: utilidad sintética. 13. Hidratación de
+aldehídos y cetonas. 14. Formación de cianohidrinas.
+15. Formación de iminas. 16. Condensaciones con
+hidroxilamina e hidracinas. 17. Formación de acetales. 18.
+Uso de acetales como grupos protectores. 19. Oxidación de
+aldehídos. 20. Reducciones de aldehídos y
+cetonas.
+
+TEMA 14. ÁCIDOS CARBOXÍLICOS. 1.
+Estructura, nomenclatura y propiedades físicas de
+ácidos carboxílicos. 2. Acidez de los ácidos
+carboxílicos. 3. Sales de ácidos carboxílicos.
+4. Interés y aplicaciones. 5. Síntesis anteriores de
+ácidos carboxílicos. 6. Reacciones de ácidos
+carboxílicos y derivados: sustitución
+nucleófila de acilo. 7. Esterificación de Fischer. 8.
+Esterificación usando diazometano. 9. Condensación de
+ácidos con aminas: síntesis directa de amidas. 10.
+Reducción de ácidos carboxílicos. 11.
+Alquilación de ácidos para formar cetonas. 12.
+Síntesis y usos de cloruros de ácido.
+
+TEMA 15. DERIVADOS DE ÁCIDOS
+CARBOXÍLICOS. 1. Estructura y nomenclatura de los
+derivados de ácido. 2. Propiedades físicas. 3.
+Sustitución nucleófila de acilo: mecanismo de
+adición eliminación. Interconversión de los
+derivados de ácido y reactividad relativa. 4.
+Transesterificación. 5. Hidrólisis de los derivados
+de ácido. 6. Reducción de los derivados de
+ácido. 7. Reacciones de derivados de ácido con
+reactivos organometálicos. 8. Resumen de la química
+de los cloruros de ácido. 9. Resumen de la química de
+anhídridos. 10. Resumen de la química de
+ésteres. 11. Resumen de la química de amidas. 12.
+Resumen de la química de nitrilos. 13. Tioésteres.
+14. Ésteres y amidas del ácido carbónico. 15.
+Ácidos dicarboxílicos.
+'

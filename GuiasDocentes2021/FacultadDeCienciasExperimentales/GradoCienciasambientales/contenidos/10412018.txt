@@ -1,0 +1,176 @@
+'
+
+
+Teoría
+
+
+I. Introducción a los sistemas de
+  información ambiental.
+   II. Fuentes de datos ambientales, obtención y
+  organización de la información ambiental.
+   III. Análisis temático y espacial de la
+  información ambiental.
+   IV. Modelización de procesos y fenómenos
+  ambientales.
+
+
+ Prácticas
+
+
+I. Introducción
+
+
+II. Modelización SIG
+
+
+III. Cartografía Temática
+
+
+IV. Análisis Espacial de Datos
+
+
+
+UNIDAD I. INTRODUCCIÓN A LOS SISTEMAS DE
+  INFORMACIÓN AMBIENTAL 
+
+
+Tema 1: Introducción a la
+  Geomática.
+
+Geomática. Los Sistemas de Información
+Geográfica (SIG). Otras ramas de la Geomática. Globos
+virtuales e infraestructuras de datos espaciales.
+
+Tema 2: Tipos y características de la IG de
+  interés para el medio ambiente.
+
+La información geográfica. Resolución y
+escala. Sistema de referencia. Superficies de referencia.
+Proyecciones cartográficas: UTM. Tipos de
+cartografías, productores de datos e informaciones
+georreferenciadas. Informaciones georreferenciables.
+
+Tema 3: Modelos y estructuras de datos
+  espaciales.
+
+Introducción a los modelos base de la IG. Modelo
+ráster. Modelo vectorial. Modelos digitales del terreno.
+Bases de datos temáticas. Modelo relacional.
+ 
+
+UNIDAD II. FUENTES DE DATOS AMBIENTALES, OBTENCIÓN
+  Y ORGANIZACIÓN DE LA INFORMACIÓN
+  AMBIENTAL 
+
+
+Tema 4: Proceso SIG: Entrada, almacenamiento,
+  edición y modelizacion de datos ambientales.
+
+Ciclo de vida del dato. Fases: importación,
+depuración, edición, análisis y salidas.
+Entrada de datos. Formatos e intercambio de datos. Metadatos y
+preservación. Herramientas de análisis y
+modelización.
+
+Tema 5. Captura de puntos y nubes de puntos.
+
+Topografía clásica. Sistemas GNSS. Fundamento de
+los GNSS. Sectores. Instrumentación y presiones.
+Aplicaciones.
+
+Tema 6. Captura de imágenes.
+
+Radiación EM e interacción con la materia.
+Imágenes. Resolución. Captura mediante
+fotogrametría aérea. Captura desde satélites.
+Programas espaciales.
+
+Tema 7. Tratamientos geométricos y
+  radiométricos.
+
+Georrerefenciación y correcciones geométricas.
+Procesos de orientación fotogramétrica. Correcciones
+radiométricas. Contraste y color de imágenes.
+Filtrado de imágenes.
+
+Tema 8. Explotación de imágenes y
+  generación de productos.
+
+Niveles de explotación de imágenes. Productos
+fotogramétricos: restitución, modelos digitales del
+terreno, ortoimágenes. Análisis multiespectral.
+Clasificación digital. Análisis multitemporal.
+Aplicaciones.
+
+Tema 9. Toma de datos de campo para estudios
+  temáticos. Cartografía ambiental.
+
+El dato ambiental experimental de campo. Selección de
+datos espaciales disponibles. Recogida de datos de campo.
+Organización y pre-procesado de los datos.
+Cartografía geoambiental.
+ 
+
+UNIDAD III. ANÁLISIS TEMÁTICO Y ESPACIAL DE
+  LA INFORMACIÓN AMBIENTAL 
+
+
+Tema 10. Análisis espacial de datos ambientales
+  I.
+
+Visualización de la información. Análisis
+elemental. Transformaciones de datos espaciales.
+Reclasificación de mapas. Operaciones sobre tablas de
+atributos. Análisis de vecindad. Interpolación de
+variables.
+
+Tema 11. Análisis espacial de datos ambientales
+  II.
+
+Superposición de pares de mapas y modelización.
+Álgebra de mapas. Correlación entre dos mapas.
+Análisis y evaluación multicriterio.
+
+Tema 12. Análisis espacial de modelos digitales de
+  elevaciones en medio ambiente.
+
+Ontenicón de modelos digitales de elevaciones.
+Análisis del relieve. Modelos de pendientes, orientaciones,
+curvatura. Análisis hidrológico y de cuencas
+visuales. Modelos complejos.
+
+Tema 13. Resultados y errores en los estudios
+  ambientales.
+
+Introducción. Presentación de resultados. Calidad
+de los datos. Errores en las diferentes etapas de
+implementación del SIG.
+ 
+
+UNIDAD IV. MODELIZACIÓN DE PROCESOS Y
+  FENÓMENOS AMBIENTALES
+
+Tema 14. Casos y ejemplos en medio ambiente.
+Introducción. Ejemplos de aplicaciones climáticas.
+Ejemplos de aplicaciones en cartografía de coberturas y usos
+del suelo. Otras aplicaciones.
+
+Prácticas
+
+Práctica 1. Introducción I: Datos disponibles,
+IDES y sistemas de referencia.
+Práctica 2. Introducción II: Importación y
+edición básica de datos. Visualización y
+simbolización. Consultas.
+Práctica 3. Análisis espacial. Modelización
+SIG. 
+Práctica 4. Análisis de imágenes.
+Georreferenciación, color, índices. 
+Práctica 5. Prácticas de campo. Toma de datos.
+Práctica 6. Clasificación digital de
+imágenes. Integración en un SIG
+Práctica 7. Análisis espacial de datos I.
+Práctica 8. Análisis espacial de datos II.
+Práctica 9. Análisis espacial de datos III.
+Práctica 10. Análisis espacial de datos IV.
+'

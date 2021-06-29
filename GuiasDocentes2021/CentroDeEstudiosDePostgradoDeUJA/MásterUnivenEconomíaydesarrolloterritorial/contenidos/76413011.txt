@@ -1,0 +1,119 @@
+'
+
+
+Análisis de proyectos.
+Análisis coste-beneficio.
+Valoración de inversiones en el territorio 
+
+
+
+Tema 1. Introducción 
+
+1.1. La evaluación
+económica de políticas públicas y proyectos de
+inversión
+1.2. Análisis financiero y
+análisis coste-beneficio
+1.3. Evaluación
+económica de una política pública
+1.4. Etapas del análisis
+coste-beneficio
+
+Tema 2. Conceptos teóricos básicos
+
+2.1.
+Agentes sociales y bienestar social
+2.2. La
+valoración de los bienes: precio, valor y coste
+2.3.
+Eficiencia, coste de oportunidad y equidad
+2.4. La
+demanda, la oferta y el excedente social
+2.5.
+Externalidades
+2.6. Beneficio privado y beneficio
+social
+
+Tema 3. Valoración económica de los costes
+  y los beneficios 
+
+3.1.
+Introducción
+3.2.
+Medición de los beneficios y los costes de los proyectos
+3.3. Casos
+en la medición de los beneficios brutos directos
+3.4. Efectos indirectos
+
+Tema 4. Costes, precios de mercado y precios
+  sombra 
+
+4.1.
+Introducción
+4.2. Costes
+evitables y costes irrecuperables
+4.3. Coste
+incremental y coste medio
+4.4. Precio
+de mercado y coste de oportunidad
+4.5. El
+precio sombra de los fondos públicos
+4.6. Beneficio social y equilibrio
+financiero
+
+Tema 5. Valoración económica de los costes
+  y los beneficios: bienes para los que no hay
+  mercado 
+
+5.1.
+Introducción
+5.2.
+Definición de efectos externos, coste privado y coste
+social
+5.3.
+Cómo medir: disposición a pagar y disposición
+a aceptar
+5.4. Valoración de
+políticas que reducen la congestión
+
+Tema 6. Agregación, tasa de descuento y criterios
+  de decisión 
+
+6.1.
+Introducción
+6.2.
+Actualización de beneficios y costes
+6.3.
+Criterios de decisión
+6.4.
+Criterios de decisión con cambio de precios
+6.5. Tasa
+marginal de preferencia temporal, tipo de interés y
+productividad marginal del capital
+6.6. La
+tasa social de descuento
+6.7. El descuento del futuro y el
+bienestar de las generaciones futuras
+
+Tema 7. Valoración de inversiones en el
+  territorio
+
+7.1.
+Introducción
+7.2.
+Metodología  
+7.3. Fases
+de la valoración
+7.3.1.
+Diagnóstico sobre el statu quo del territorio antes de la
+inversión
+7.3.2.
+Valoración de la inversión
+7.3.3.
+Análisis de los efectos de la inversión sobre el
+territorio a través del análisis coste-eficiencia
+(ACE)
+7.4.
+Reflexiones sobre los problemas de la valoración de
+inversiones en el territorio.
+'

@@ -1,0 +1,329 @@
+'
+
+Fundamentos de gestión energética
+Fuentes de energía. Caracterización
+energética
+Generación de calor. Procesos y tecnologías
+Generación de trabajo. Procesos y tecnologías
+Ahorro energético
+Economía de la energía
+ 
+
+
+
+
+I 
+  :  Introducción a la Tecnología
+  Energética
+
+
+
+
+Tema 1: 
+  Introducción. Contexto
+  Energético.
+
+
+
+
+Tema 2: 
+  Producción y demanda de Energía,
+  Consumo.
+
+
+
+
+ 
+
+
+
+
+II :
+  Tecnología, Generación y Utilización
+  Energética.
+
+
+
+
+ 
+
+
+Tema 3: 
+Fuentes Energéticas
+
+
+
+Tema 4: 
+  Combustibles Fósiles.
+
+
+
+· 
+         
+Carbón
+
+· 
+         
+Petróleo y derivados.
+  GLP
+
+· 
+         
+Gas natural
+
+· 
+         
+Gas manufacturado
+
+
+
+
+ 
+
+
+Tema 5: 
+Energías Renovables.
+
+
+· 
+         
+Energía
+  hidráulica
+
+· 
+         
+Energía
+  geotérmica
+
+
+           
+· 
+       
+Energía solar
+
+
+· 
+         
+Energía de la
+  biomasa
+
+· 
+         
+Energía
+  eólica 
+
+· 
+         
+Energía de las Olas,
+  Mareomotriz y Térmica marina
+
+ 
+
+
+
+Tema 6: 
+  Energía Nuclear
+
+
+            
+· 
+       
+Energía de
+Fisión
+
+
+· 
+         
+Energía de
+  Fusión
+
+ 
+
+
+
+III 
+  :  Sistemas de Transformación de
+  Energía.
+
+
+
+
+Tema 7: 
+  Generación de energía
+  térmica.
+
+
+          ·
+
+        
+Combustión,
+Combustibles
+
+
+· 
+          
+Quemadores
+
+· 
+          
+Hogares
+
+· 
+          
+Distribución de
+  energía térmica: fluidos y redes de
+  transporte.
+
+· 
+          
+Intercambiadores de
+  calor.
+
+· 
+          
+Aplicaciones: Calderas, Hornos,
+  Secaderos.
+
+
+
+
+Tema
+8:
+
+Conceptos de energía y de
+exergía. Balances. Rendimientos.
+
+
+
+Tema 9: 
+  Máquinas térmicas y sus
+  aplicaciones.
+
+
+          ·
+
+        
+Máquinas Generadoras de
+Energía Térmica
+
+
+· 
+          
+Motores de combustión
+  interna alternativos
+
+· 
+          
+Turbomáquinas
+  térmicas
+
+· 
+          
+Máquinas
+  Frigoríficas
+
+
+
+
+Tema 10:
+  Máquinas hidráulicas y sus
+  aplicaciones.
+
+
+          ·
+
+        
+Máquinas generadoras
+hidráulicas
+
+
+· 
+          
+Aplicaciones: bombas,
+  compresores.
+
+· 
+          
+Máquinas motoras
+  hidráulicas. Aplicaciones
+
+
+
+
+Tema
+11:
+
+Cogeneración
+
+
+.
+
+
+· 
+          
+Clasificación de los
+  sistemas de cogeneración.
+
+· 
+          
+Cogeneración en el
+  sector industrial y terciario.
+
+
+
+
+Tema
+12:
+
+Energía y Medio
+Ambiente
+
+
+.
+
+
+· 
+          
+Formas de impacto
+  ambiental.
+
+· 
+          
+El efecto
+  invernadero.
+
+· 
+          
+La capa de ozono.
+
+· 
+          
+Estudios de impacto
+  ambiental.
+
+
+
+
+Tema
+13:
+
+La política de
+Gestión Energética
+
+
+.
+
+
+· 
+          
+Aspectos científicos:
+  termoeconomía.
+
+· 
+          
+Aspectos planificación
+  energética..
+
+ 
+ 
+'

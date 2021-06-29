@@ -1,0 +1,50 @@
+'
+
+Bloque I. Introducción: problemática de la
+generación de residuos
+Bloque II. Tratamiento de residuos sólidos urbanos:
+reciclaje
+Bloque III. Tratamiento de residuos industriales
+Bloque IV. Seminarios
+Bloque V. Prácticas de laboratorio.
+
+BLOQUE I. INTRODUCCIÓN: PROBLEMÁTICA DE LA
+GENERACIÓN DE RESIDUOS
+Generación de residuos y su
+problemática. Crecimiento económico sostenible y
+generación de residuos. Ciclo de vida de los materiales.
+Clasificación de los residuos. Normativas de residuos.
+Planes y programas de gestión de residuos
+BLOQUE II. TRATAMIENTO DE RESIDUOS SÓLIDOS URBANOS:
+RECICLAJE
+Residuos sólidos urbanos
+(RSU): definición y origen. Producción de RSU.
+Composición de los RSU. Características de los RSU.
+Gestión de RSU. Reciclaje de RSU. Impacto ambiental y
+socioeconómico de los RSU
+BLOQUE III. TRATAMIENTO DE RESIDUOS
+INDUSTRIALES
+Legislación.
+Caracterización de residuos. Gestión de residuos
+industriales. Minimización de residuos. Ejemplo:
+Gestión de Residuos de Construcción y
+Demolición
+BLOQUE IV. SEMINARIO DE
+ANÁLISIS DE CICLO DE VIDA (ACV)
+
+Introducción a la
+  Metodología del ACV y normativa de aplicación.
+  Estructura del ACV. Bases de datos. Metodologías de EICV.
+  Software para ACV. Caso Práctico: Áridos Ligeros
+  Artificiales. Caso Práctico: Ladrillos
+  Cerámicos
+
+
+BLOQUE V. PRÁCTICAS DE
+  LABORATORIO
+
+
+Caracterización de residuos
+  mediante Normas UNE-EN ISO
+
+'

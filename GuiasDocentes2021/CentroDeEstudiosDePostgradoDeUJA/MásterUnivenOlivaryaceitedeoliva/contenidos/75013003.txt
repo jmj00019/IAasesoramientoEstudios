@@ -1,0 +1,241 @@
+'
+
+
+
+Conceptos generales y
+  anatomía. Entomología agrícola. Plagas de
+  artrópodos en cultivos agrícolas.
+  Entomología forestal. Plagas de artrópodos y
+  métodos de control. Causas de las enfermedades de las
+  plantas y las condiciones ambientales que rodean la
+  relación patógeno - planta en el
+  momento en que el proceso se desarrolla
+
+
+
+
+CLASES
+  TEÓRICAS (2 ECTS)
+
+
+Clases magistrales
+  2 ECTS, utilizando las TICs y con el apoyo del material docente
+  en la plataforma de docencia virtual de la universidad,
+  biblioteca e internet.
+
+
+
+ACTIVIDADES
+  ACADÉMICAMENTE DIRIGIDAS (0,9 ECTS)
+
+
+Exposiciones y
+  seminarios para el estudio de casos utilizando las TICs y el
+  apoyo del material docente en la plataforma de docencia virtual
+  de la universidad, biblioteca e Internet. Contribuyen a que el
+  estudiante adquiera las competencias
+  correspondientes. 
+
+
+
+CLASES
+  PRÁCTICAS (1,1 ECTS)
+
+
+Prácticas
+  de laboratorio. Se realizarán con grupos reducidos de
+  trabajo.
+
+
+El profesor
+  explicará los fundamentos y desarrollo de las
+  prácticas. Los alumnos, con el apoyo del guión de
+  prácticas, realizarán los procedimientos
+  correspondientes para alcanzar unos resultados que deberán
+  analizar y discutir con el fin de obtener unas conclusiones
+  finales. El guión de prácticas estará
+  disponible en la plataforma de docencia virtual de la universidad
+  e incluirá los objetivos, el material y la
+  metodología experimental, y será utilizado
+  además para la recogida y tratamiento de los
+  resultados.
+
+
+Prácticas
+  de campo. Se realizarán con grupos reducidos de trabajo
+  fuera de las aulas. El profesor explicará los fundamentos
+  y desarrollo de las prácticas y los alumnos
+  realizarán los procedimientos correspondientes con el
+  apoyo del guión de prácticas disponible en la
+  plataforma de docencia virtual de la universidad. En dicho
+  guión deberán recoger los resultados de las
+  sesiones prácticas, analizarlos y discutirlos para obtener
+  conclusiones.
+
+
+
+BLOQUE I. ENTOMOLOGÍA
+  AGRÍCOLA
+
+
+
+Programa de
+  teoría
+
+
+
+TEMA 1.
+ Conceptos generales.
+Evolución de los métodos de control. El control
+integrado de plagas.
+
+TEMA 2. La polilla del olivo, 
+  Prays oleae (Lep., Praydidae).
+
+
+TEMA 3. La mosca del olivo, 
+  Bactrocera oleae (Dip., Tephritidae).
+
+
+TEMA 4. Homópteros I: Familias
+  Coccidae y Diaspididae del olivo (Hom., Coccoidea).
+
+
+TEMA 5. Barrenillos del olivo (Col.,
+  Curculionidae, Scolytinae).
+
+
+TEMA 6. Otros lepidópteros
+  plaga del olivo. 
+  Euzophera pinguis (Pyralidae); 
+  Cossus cossus (Cossidae) y 
+  Margaronia (Palpita) unionalis (Crambidae). 
+    
+
+
+TEMA 7. Homópteros II:
+  Familias Cicadidae, Psylidae, Fulgoridae y Aphrophoridae.
+
+
+
+Progama de
+  Prácticas
+
+
+
+Identificación, ciclo
+    biológico, daños y métodos de control de
+    las plagas que afectan a los frutos del olivo.
+
+
+Identificación, ciclo
+    biológico, daños y métodos de control de
+    las plagas que afectan a las flores del olivo.
+
+
+Identificación, ciclo
+    biológico, daños y métodos de control de
+    las plagas que afectan al troco y ramas principales del
+    olivo.
+
+
+Identificación, ciclo
+    biológico, daños y métodos de control de
+    las plagas que afectan a las ramas secundarias del
+    olivo.
+
+
+Identificación, ciclo
+    biológico, daños y métodos de control de
+    las plagas que afectan a las ramas terminales y brotes del
+    olivo.
+
+
+Identificación, ciclo
+    biológico, daños y métodos de control de
+    las plagas principales que afectan a raíz y zona baja
+    del tronco del olivo.
+
+
+Identificación, ciclo
+    biológico, daños y métodos de control de
+    las plagas que afectan a las hojas del olivo.
+
+
+
+
+BLOQUE II. PATOLOGÍA
+  VEGETAL
+
+
+
+TEMA 8.
+ 
+Enfermedades causadas por hongos (I).
+Spilocaea oleagina, y Pseudocercospora cladosporioides (repilos
+común y plomizo).
+
+
+TEMA 9.
+ 
+Enfermedades causadas por hongos (II).
+Colletotrichum gloeosporioides (aceituna jabonosa).
+
+
+TEMA 10
+. Enfermedades causadas por hongos
+(III). Verticillium dahliae (verticilosis).
+
+
+TEMA 11
+. Enfermedades causadas por hongos
+(IV). Camarosporium dalmaticum (escudete) y Capnodium elaeophilum
+(negrilla).
+
+
+TEMA 12.
+ 
+Enfermedades causadas por bacterias.
+Pseudomonas savastanoi (tuberculosis) y Xylella fastidiosa (seca
+rápida del olivo).
+
+
+TEMA 13.
+
+ 
+Enfermedades causadas por otros agentes
+bióticos.
+
+ 
+
+
+
+PROGRAMA DE
+  PRÁCTICAS
+
+
+-Diagnóstico de la
+  verticilosis del olivo
+
+
+-Aislamiento de patógenos a
+  partir de tejido vegetal enfermo
+
+
+-Práctica de
+  campo 
+
+
+
+ACTIVIDADES ACADEMICAMENTE
+  DIRIGIDAS
+
+
+-Generalidades sobre los
+  patógenos del olivo
+
+
+-Enfermedades abióticas del
+  olivo
+
+'

@@ -1,0 +1,92 @@
+'
+
+
+La ciencia.
+El método científico.
+Diseño experimental I.
+Diseño experimental II.
+Ventajas, viabilidad, inconvenientes y calidad del
+  diseño experimental.
+Valores científicos y ética.
+
+
+Clases teóricas al gran grupo:
+
+Unidad temática 1. La ciencia
+Historia de la ciencia. Ramas de la ciencia. Grandes hitos del
+descubrimiento científico. Organización actual de la
+ciencia; publicaciones, proyectos, patentes.
+
+Unidad temática 2. El método
+científico
+Bases conceptuales del método científico.
+Observación y generación de hipótesis.
+Contraste de hipótesis. Instrumentos de
+experimentación; generales y específicos de las ramas
+de la ciencia. Vias de comunicación de la Ciencia
+
+Unidad temática 3. Diseño experimental
+I.
+Teoría general de sistemas. Modelos
+experimentales. Diseño experimental en
+microbiología, ecología, fisiología,
+bioquímica y biología celular. Evaluación de
+muestra, estrategia experimental, error experimental y
+cálculo estadístico. 
+
+Unidad temática 4. Diseño experimental
+II.
+Diseño experimental en biomedicina. Evaluación de
+muestra, ensayos clínicos y cálculo
+estadístico. Modelos experimentales
+
+Unidad temática 5. Ventajas, viabilidad,
+inconvenientes y calidad del diseño experimental.
+El concepto de muestra. El concepto de error experimental.
+Causas y limitaciones. Aplicabilidad del diseño experimental
+y limitaciones. Perspectivas.
+
+Unidad temática 6. Valores científicos y
+ética
+Experimentación animal: legislación,
+valoración ética y moral. Modificación del
+acervo genético: animales genéticamente modificados:
+análisis, viabilidad e impacto. Alternativas a la
+experimentación animal. Experimentación en humanos;
+legislación, valoración ética y moral.
+Limitaciones. Fraude científico. 
+Prácticas de laboratorio (10 Sesiones)
+Screening de fármacos antivirales      
+   
+Diseño de un estudio
+de Inmunohistoquimica          
+Teléfonos móviles y cáncer: Test de Ames
+      
+Prevalencia de huevos de Toxocara canis en los parques de
+Jaén, implicaciones de salud pública 
+Prácticas en aula de informática (5 sesiones)
+        
+Introducción a la literatura
+científica     
+Farmacogenética del
+interferon             
+Efectos del aceite de oliva en los niveles de colesterol LDL en
+sangre   
+Líquenes y Perfumería. Localización
+topográfica de especies    
+Seminarios interactivos (7 sesiones)
+Biología evolutiva
+humana.       
+Caso práctico, diseño de un estudio de campo. Maiz
+Bt y medio
+ambiente        
+Impacto ambiental de las bombillas de bajo consumo. Problema
+del mercurio en los ecosistemas
+acuáticos. 
+Medicina convencional versus medicina alternativa.  
+ 
+
+Toxoplasma gondii : suicidios o comportamiento violento y
+agresivo en Homo sapiens
+Bioética e investigación biológica
+'

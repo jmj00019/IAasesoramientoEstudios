@@ -1,0 +1,82 @@
+'
+
+Bloque I. Introducción
+Bloque II. Caracterización y propiedades de los
+materiales
+Bloque III. Obtención y caracterización de
+materiales metálicos
+Bloque IV. Obtención y caracterización de
+materiales cerámicos
+Bloque V. Obtención y caracterización de
+materiales poliméricos
+Bloque VI. Obtención y caracterización de
+materiales compuestos
+Bloque VII. Reciclaje, selección y deterioro de
+materiales
+
+BLOQUE I.
+INTRODUCCIÓN
+Tema 1.
+Introducción. Concepto de los nuevos materiales. Necesidades
+de la introducción de Nuevos Materiales en la industria.
+Clasificación.
+BLOQUE II.
+CARACTERIZACIÓN Y PROPIEDADES DE LOS MATERIALES.
+Tema 2.
+TEMA 6.-Comportamiento físico de los materiales:
+relación entre estructura y propiedades. Comportamiento:
+elasticidad y plasticidad. Comportamientos mecánicos:
+fractura, dureza, fricción y desgaste.
+BLOQUE III.
+OBTENCIÓN Y CARACTERIZACIÓN DE MATERIALES
+METÁLICOS.
+Tema 3.
+Aceros y fundiciones. Procesos de fabricación. Propiedades
+mecánicas y físicas. Métodos de
+conformado.
+Tema 4.
+Aleaciones No férreas. Procesos de fabricación.
+Propiedades mecánicas y físicas. Métodos de
+conformado.
+Tema 5.
+Nuevos materiales metálicos. Comportamientos a temperaturas
+elevadas (oxidación y fluencia). Superaleaciones. Otros
+materiales metálicos.
+BLOQUE IV.
+OBTENCIÓN Y CARACTERIZACIÓN DE MATERIALES
+CERÁMICOS.
+Tema 6.
+Materiales cerámicos avanzados. Materiales cerámicos.
+Definición, teoría y propiedades.
+Tema 7.
+Cerámicas Avanzadas. Alúminas y mullitas. Nitruro de
+silicio. Vidrios y Vitrocerámicas. Cerámicas tenaces.
+Proceso de Conformado de cerámicas avanzadas.
+BLOQUE V.
+OBTENCIÓN Y CARACTERIZACIÓN DE MATERIALES
+POLIMÉRICOS.
+Tema 8.
+Definición. Teoría y propiedades. Procesos de
+fabricación. Clasificación. Aplicaciones
+BLOQUE VI.
+OBTENCIÓN Y CARACTERIZACIÓN DE MATERIALES
+COMPUESTOS.
+Tema 9.
+Definición de matriz-refuerzo. Teoría y propiedades.
+Materiales compuestos de matriz cerámica. Materiales
+compuestos de matriz metálica. Materiales compuestos de
+matriz polimérica.
+BLOQUE VII.
+RECICLAJE, SELECCIÓN Y DETERIORO DE MATERIALES.
+Tema 10.
+Reciclado y valorización de materiales. Minimización
+del consumo de materias primas. Ciclo de vida de los materiales.
+Uso de componentes y materiales renovables, reutilizados y/o
+reciclados. Incorporación de procesos de sustitución,
+desmontaje y recuperación selectiva de componentes y
+materiales.
+Tema 11.
+Selección y deterioro de materiales. Criterios de
+selección de materiales. Corrosión,
+degradación y protección de materiales.
+'

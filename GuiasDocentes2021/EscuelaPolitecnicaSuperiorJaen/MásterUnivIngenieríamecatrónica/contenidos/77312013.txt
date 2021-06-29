@@ -1,0 +1,195 @@
+'
+
+· Técnicas avanzadas de identificación de
+sistemas.
+· Control avanzado aplicado a sistemas
+mecatrónicos.
+· Diagnosis y sistemas tolerantes a fallos.
+· Integración de controladores inteligentes en
+sistemas de automatización.
+· Internet de las cosas aplicado a la industria.
+
+
+Tema
+  1: Control Automático: Conceptos Previos e
+  implementación de un lazo de control 
+
+
+
+Sistemas
+    dinámicos y estabilidad
+
+
+Realimentación
+    y ubicación de polos
+
+
+Variables
+    de interés en un lazo de control
+
+
+Efecto
+    de perturbaciones y ruido
+
+
+Hardwrae:
+    sensores,actuadores y computadores
+
+
+
+Tema
+  2: Identificación de sistemas 
+
+
+
+Identificación
+    en el dominio del tiempo
+
+
+Identificación
+    en el dominio de la frecuencia
+
+
+
+Tema
+  3: Control avanzado de dispositivos
+  mecatrónicos 
+
+
+
+Discretización
+    de controladores continuos
+
+
+Control
+    Digital Discreto
+
+
+Control
+    iterativo
+
+
+
+Tema
+  4. Automatización Industrial. Conceptos
+  Introductorios
+
+
+
+Evolución y tendencias en
+    Automatización: Industria 4.0
+
+
+Automatismos Combinacionales vs
+    Secuenciales
+
+
+Automatismos cableados
+
+
+Automatismos programados
+
+
+
+Tema
+  5. Diseño de Automatismos Secuenciales 
+
+
+
+Fases del ciclo de vida de un
+    proyecto de automatización
+
+
+Guía GEMMA
+
+
+GRAFCET
+
+
+AutomationML
+
+
+
+Tema
+  6: Proyectos de Automatización Industriales 
+
+
+
+Introducción. Proceso de
+    desarrollo del software
+
+
+Estándares en la
+    Automatización: IECA 61131,  IEC 61499, STEP
+    7
+
+
+TIA Portal (STEP 7)
+
+
+TwinCat  (IEC
+    61131)
+
+
+
+Práctica
+  1: Control de un motor de corriente continua 
+
+
+Diseño
+  e implementación del controlador mediante
+  discretización de control continuo
+
+
+Ensayo
+  de motor de corriente continua con tiempo de muestreo alto
+
+
+Diseño
+  e implementación del controlador mediante diseño
+  digital directo
+
+
+Práctica
+  2: Implementación de controlador iterativo para
+  seguimiento de trayectoria de robot móvil 
+
+
+Implementación
+  de controlador iterativo como actualización de referencias
+  pasadas al controlador de bajo nivel
+
+
+Práctica
+  3: Diseño y desarrollo del control de un sistema de
+  embotellado y etiquetado 
+
+
+Diseño
+  GRAFCET
+
+
+Codificación
+  en TIA-PORTAL
+
+
+Codificación
+  en TwinCat
+
+
+ Práctica
+  4: Diseño y desarrollo del control de estaciones de
+  célula de fabricación flexible FMS-200 
+
+
+Diseño:
+  GEMMA/GRAFCET
+
+
+Codificación
+  en TIA-PORTAL
+
+
+SCADA
+
+'

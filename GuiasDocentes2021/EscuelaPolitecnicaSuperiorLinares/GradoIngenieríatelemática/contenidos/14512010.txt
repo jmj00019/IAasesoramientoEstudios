@@ -1,0 +1,120 @@
+'
+
+Utilizando el modelo descendente, esta asignatura se centra en
+el estudio de los protocolos que ofrecen servicio a las
+aplicaciones en tiempo real. Se introducen las aplicaciones
+multimedia y el concepto de calidad de servicio.
+En la parte práctica se realiza la programación
+de distintas aplicaciones y servicios multimedia.
+Palabras Clave: Protocolos multimedia, Servicios
+diferenciados.
+
+En esta asignatura se dará al alumno una visión
+general de los protocolos de aplicación y transporte de
+datos multimedia. Además también se verán el
+conjunto de protocolos usados en la gestión de sesiones
+multimedia. Se dotará al alumno de la capacidad para estar
+al día en las novedades en ciencia y tecnología,
+sobre todo en este tipo de materias, tan ligadas a un entono tan
+dinámico como son las telecomunicaciones, y en concreto la
+Ingeniería Telemática.
+Unidades Teóricas
+
+Tema 1. Introducción a los servicios y
+  aplicaciones multimedia.
+
+1.1 Introducción.
+1.2 Características del tráfico multimedia.
+1.3 Servicios y aplicaciones multimedia.
+1.4 Tipos de contenidos multimedia.
+1.5 Codificadores de contenidos multimedia.
+1.6 Protocolos de soporte multimedia.
+
+Tema 2. Concepto y control de sesiones.
+
+2.1 Introducción y problemática
+2.2 Descripción de sesiones con SDP
+2.3 Anuncio de sesiones mediante el protocolo SAP
+2.4 Modelos de IETF para el control de sesiones
+
+Tema 3. Arquitectura SIP.
+
+3.1 Introducción
+3.2 El protocolo SIP para establecimiento de sesiones 
+
+Tema 4. Servicios multimedia.
+
+4.1 Problemática del servicio de streaming en
+Internet
+4.2 Real-Time Streaming Protocol (RTSP)
+
+Tema 5. Protocolos de Transporte en comunicaciones
+  multimedia.
+
+5.1 La pila de protocolos para comunicaciones multimedia en
+Internet
+5.2 Protocolos y modelos de servicio de Internet
+5.3Protocolos de transporte de tiempo real RTP y RTCP
+5.4 Sincronización de flujos multimedia de tiempo
+real
+
+Tema 6. Servicios multidestino.
+
+6.1 Introducción. Orígenes: MBONE.
+6.2 Modelo IP multicast. Señalización host-router:
+IGMP.
+6.3 Introducción a los algoritmos de entutamiento
+multicast
+
+
+Tema 7.
+  Compresión y Codificación de contenido
+  multimedia.
+
+
+7.1 Tipos de
+  señales
+
+
+7.2
+  Técnicas de codificación de voz
+
+
+7.3
+  Técnicas de codificación de audio
+
+
+7.4
+  Técnicas de codificación de imágenes
+
+
+7.5
+  Técnicas de codificación de vídeo
+
+Unidades Prácticas
+El bloque práctico de la asignatura se compone de
+prácticas en el laboratorio, y su carácter es
+obligatorio. Además, se desarrollarán habilidades de
+comunicación información, ideas, problemas y
+soluciones en el ámbito de ingeniería y la sociedad
+en general a través de procesos de entrega de
+documentación o presentaciones orales.
+Con respecto a la organización del trabajo, se
+fomentará la colaboración y trabajo en equipo a
+través del propio diseño de las prácticas.
+Práctica 1. Estudio y análisis de servicios de
+streaming sobre HTTP y RTSP usando plataformas gratuitas y software
+para analisis de protocolos. Utilización de plataformas de
+VoIP para estudio de intercambio de mensajes SIP.
+Práctica 2. Estudio y análisis de plataformas de
+TV a la carta.
+Práctica 3. Instalación, configuración y
+evaluación de servidores de streaming con RTP
+3.1 Configuración de sesiones multimedia
+3.2 Uso de distintos códec en la transmisión de
+contenidos multimedia y medidas de parámetros.
+3.3 Análisis de tráfico generado en la
+transmisión de contenidos multimedia
+Práctica 4. Configuración de multicasting en LAN
+y MAN
+'

@@ -1,0 +1,243 @@
+'
+
+Operaciones de separación basadas en la transferencia de
+materia.
+Operaciones de separación basadas en la
+interacción partícula-fluido.
+
+
+
+TEMA
+  1.- FUNDAMENTOS DE LAS OPERACIONES DE
+  SEPARACIÓN
+
+
+1.
+  
+  La importancia de las
+  separaciones
+
+
+2.
+  
+  Leyes de
+  conservación
+
+
+3.
+  
+  Aspectos
+para el diseño y
+  funcionamiento de
+equipos
+
+
+
+a)
+Etapas de
+  diseño
+
+
+
+b)
+Relaciones de
+  diseño
+
+
+4.
+  
+  Análisis de
+  variables
+
+
+5.
+  
+  Operaciones de separación
+  por transferencia de materia
+
+
+
+TEMA 2.- DESTILACIÓN DE
+  MEZCLAS BINARIAS
+
+
+1.
+  
+  Definición
+
+
+2.
+  
+  Equilibrio
+  líquido-vapor
+
+
+3.
+  
+  Representación gráfica
+  de los datos de equilibrio
+
+
+4.
+  
+  Volatilidad relativa y mezclas
+azeotrópicas
+
+
+5.
+  
+  Tipos de destilaciones
+
+
+6.
+  
+  Destilación simple continua o
+  de equilibrio
+
+
+7.
+  
+  Destiladores de equilibrio en
+  serie
+
+
+8.
+  
+  Destilación súbita o
+  flash
+
+
+
+TEMA 3.- RECTIFICACIÓN DE MEZCLAS
+  BINARIAS
+
+
+1.
+  
+  Introducción
+
+
+2.
+  
+  Método de
+  McCabe-Thiele
+
+
+
+a)
+Balances de materia
+
+
+b)
+  
+  Condición energética de
+  la alimentación
+
+
+c)
+  
+  Condiciones límite de
+  operación
+
+
+
+TEMA
+  4.- EXTRACCIÓN
+  LÍQUIDO-LÍQUIDO
+
+
+1.
+  
+  Definición. Conceptos
+  generales y campos de aplicación
+
+
+2.
+  
+  Equilibrio. Datos de equilibrio.
+  Diagramas de equilibrio
+
+
+3.
+  
+  Fases inmiscibles
+
+
+
+a)
+Unidad de equilibrio
+
+
+
+b)
+Unidades de equilibrio en
+  serie
+
+
+
+c)
+Cascada de etapas de equilibrio en
+  contracorriente
+
+
+4.
+  
+  Fases parcialmente
+  miscibles
+
+
+
+TEMA
+  5.- EXTRACCIÓN
+  SÓLIDO-LÍQUIDO
+
+
+1.
+  
+  Definición. Mecanismos. Campos
+  de aplicación
+
+
+2.
+  
+  Velocidad de
+  extracción
+
+
+3.
+  
+  Extracción en etapa
+  única
+
+
+4.
+  
+  Diagramas de equilibrio
+
+
+5.
+  
+  Extracción en etapa
+  múltiple
+
+
+
+
+TEMA 6.- ABSORCIÓN DE
+  GASES.
+
+
+1.Introducción.
+
+
+2.
+  Balances de materia.
+
+
+3.
+  Contacto discontinuo: Cálculo de torres de
+  absorción de múltiples etapas en
+  contracorriente.
+
+ 
+'

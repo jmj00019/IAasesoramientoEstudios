@@ -1,0 +1,169 @@
+'
+
+Generalidades sobre perforación de rocas. Manejo de
+explosivos industriales. Transporte y distribución de
+explosivos Ejecución de voladuras de rocas. Seguridad en el
+manejo, transporte y distribución de explosivos
+
+
+
+
+PROGRAMA
+  DE CLASES TEÓRICAS
+
+
+
+Bloque
+  I. Perforación de rocas
+
+
+Tema
+  1. Métodos de perforación de rocas
+
+
+Tema
+  2. Perforación a rotopercusión
+
+
+Tema
+  3. Perforación rotativa
+
+
+Tema
+  4. Métodos especiales de perforación.
+
+
+Tema
+  5. Selección del equipo de perforación.
+
+
+
+Bloque
+  II. Explosivos industriales y accesorios
+
+
+Tema
+  6. Fundamentos sobre explosivos.
+
+
+Tema
+  7. Productos explosivos, definición y
+  características generales.
+
+
+Tema
+  8. Explosivos industriales.
+
+
+Tema
+  9. Selección del explosivo.
+
+
+Tema
+  10. Sistemas de iniciación.
+
+
+ 
+
+Bloque
+III. Voladuras
+Tema
+11. 
+Forma
+de rotura de la roca.
+
+Tema
+  12. Voladuras a cielo abierto.
+
+
+Tema
+  13. Voladuras subterráneas.
+
+
+Tema
+  14. Voladuras especiales.
+
+
+Tema
+  15. Optimización de voladuras en operaciones
+  mineras.
+
+
+
+Bloque
+  IV. Efectos de las voladuras en el entorno
+
+
+Tema
+  16. Control de vibraciones producidas por voladuras
+
+
+Tema
+  17. Onda aérea producida por voladuras. Limitaciones y
+  control.
+
+
+Tema
+  18. Las proyecciones y su control.
+
+
+ 
+
+Bloque
+V.  Seguridad
+
+Tema
+  19. Medidas de seguridad en la utilización de los
+  explosivos
+
+
+Tema
+  20. Sistemas de destrucción de explosivos
+  industriales.
+
+
+Tema
+  21. Reglamento de explosivos.
+
+
+Tema
+  22. Reglamento General de Normas Básicas de Seguridad
+  Minera.
+  
+
+
+ 
+
+PROGRAMA
+  DE CLASES PRÁCTICAS
+
+
+Práctica
+  1. Práctica de perforación
+
+
+Práctica
+  2. Práctica de explosivos y sistemas de
+  iniciación
+
+
+Práctica
+  3. Práctica de cálculo de voladuras a cielo abierto
+  
+
+
+Práctica
+  4. Práctica de cálculo de voladuras
+  subterráneas
+  
+
+
+Práctica
+  5. Práctica de control de vibraciones producidas por
+  voladuras (UNE 22-381-93).
+
+
+Práctica
+  6. Modelización de voladuras mediante software.
+
+'

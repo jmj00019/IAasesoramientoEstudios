@@ -1,0 +1,44 @@
+'
+
+BLOQUE TEMÁTICO I - EL EJERCICIO DE LA INGENIERÍA
+BLOQUE TEMÁTICO II - EL PROCESO PROYECTUAL
+BLOQUE TEMÁTICO III- PLANIFICACIÓN Y
+ORGANIZACIÓN DE PROYECTOS
+BLOQUE TEMÁTICO IV- DIRECCIÓN,
+CONTRATACIÓN Y EJECUCIÓN DEL PROYECTO.
+
+BLOQUE 1 - ASPECTOS BÁSICOS
+Y METODOLOGÍA DE LOS PROYECTOS
+Tema 1 - Normalización
+Tema 2 - Trabajos en la Ingeniería
+Tema 3 - El Proyecto
+BLOQUE 2 - MORFOLOGÍA DE PROYECTOS Y OTROS DOCUMENTOS
+TÉCNICOS
+Tema 4 - La Memoria
+Tema 5 - Los Anexos del Proyectos
+Tema 6 - Planos
+Tema 7 - Pliego de Condiciones
+Tema 8 - Mediciones
+Tema 9 - Presupuesto
+BLOQUE 3 - DIRECCIÓN, CONTRATACIÓN Y
+EJECUCIÓN DE PROYECTOS
+Tema 10 - La Dirección de Obra
+Tema 11 - El Promotor
+Tema 12 - La Contrata
+CONTENIDOS DE PRÁCTICAS
+El Programa Práctico se desarrollará aplicando
+la metodología de aprendizaje basado en proyectos, de manera
+que se desarrollen en grupos de trabajo la redacción de un
+proyecto de Ingeniería, así como se ponen en
+práctica contenidos relacionados con la Evaluación,
+Planificación, Programación y Control de Proyectos
+(Bloque 4).
+Adicionalmente se realizarán dos seminarios
+específicos para el aprendizaje de dos herramientas usadas
+en la elaboración, gestión y
+planificación de Proyectos:
+* Seminario 1: Software para la Planificación y
+Evaluación de Proyectos (Ej. Project)
+* Seminario 2: Software para la confección de
+Presupuestos (Ej. Presto)
+'

@@ -1,0 +1,63 @@
+'
+
+Principios fundamentales de la luminotecnia
+Equipos utilizados en tecnología de la
+iluminación
+Diseño de instalaciones de alumbrado
+Ahorro energético en instalaciones de alumbrado
+
+ 
+Tema   1. Fundamentos
+Introducción
+Magnitudes y unidades radiométricas y
+fotométricas.
+Medida de las distintas magnitudes.
+Representación gráfica de magnitudes
+fotométricas
+Elementos que constituyen los sistemas de iluminación
+Tema 2.  Fuentes de luz.
+Clasificación de las fuentes de luz.
+Lámparas eléctricas. Tipos y fundamentos.
+Equipos eléctricos asociados a las lámparas
+eléctricas.
+Proceso de selección de fuentes de luz
+Tema 3.. Luminarias.
+Definición
+Elementos constituyentes.
+Luminarias para interior. Clasificación y
+características.
+Luminarias para alumbrado urbano y de viales.
+Clasificación y características.
+ Proyectores. Clasificación y
+características.
+Tema 4. Equipos auxiliares.
+Definición
+Tipología
+Selección de equipos auxiliares
+Tema 5. DIALUX.
+Interface
+Fundamentos
+Proyectos interior- exterior
+Tema 6. Alumbrado interior
+Tipos y clasificación.
+  Aspectos cuantitativos y cualitativos del alumbrado
+interior.
+  Criterios de diseño.
+  Proceso de cálculo.
+  Normativa.
+Tema 7. Alumbrado exterior
+Tipos y clasificación.
+ Aspectos cuantitativos y cualitativos del alumbrado
+urbano.
+Criterios de diseño.
+ Normativa.
+Tema 8. Eficiencia energética en instalaciones de
+alumbrado
+Eficiencia en instalaciones de alumbrado
+Código técnico de la Edificación
+Reglamento  de eficiencia energética en
+instalaciones de alumbrado publico
+ 
+ 
+ 
+'

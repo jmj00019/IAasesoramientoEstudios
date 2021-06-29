@@ -1,0 +1,375 @@
+'
+
+Aplicación de las transformadas de Laplace al modelado de
+sistemas.
+Modelado de sistemas térmicos, mecánicos,
+hidraulicos y eléctricos.
+Funciones de transferencia y diagrama de bloques.
+Respuesta temporal de sistemas.
+Aprender a sintonizar reguladores PID.
+Respuesta en el tiempo y diseño de compensadores.
+
+
+
+
+Fundamentos de
+      control de sistemas continuos
+
+
+
+ 
+
+
+
+
+Sistemas
+        dinámicos
+
+
+
+
+Control
+        Automático
+
+
+
+
+Realimentación
+
+
+
+
+Lazos de
+        control
+
+
+
+
+Estructura de
+        un sistema realimentado
+
+
+
+
+ 
+
+
+
+Herramientas de
+      representación externa
+
+
+
+ 
+
+
+
+
+Ecuaciones
+        diferenciales
+
+
+
+
+Linealización
+        de sistemas
+
+
+
+
+Transformada
+        de Laplace
+
+
+
+
+Función
+        de transferencia
+
+
+
+
+Álgebra
+        de bloques
+
+
+
+
+ 
+
+
+
+Modelado de
+      sistemas
+
+
+
+ 
+
+
+
+
+Introducción
+
+
+
+
+Modelado de
+        sistemas eléctricos
+
+
+
+
+Modelado de
+        sistemas mecánicos
+
+
+
+
+Modelado de
+        sistemas electromecánicos
+
+
+
+
+Modelado de
+        sistemas hidráulicos
+
+
+
+
+ 
+
+
+
+Análisis
+      en el tiempo de un sistema dinámico
+
+
+
+ 
+
+
+
+
+Introducción
+
+
+
+
+Sistemas de
+        primer orden
+
+
+
+
+Sistemas de
+        segundo orden
+
+
+
+
+Sistemas de
+        orden superior
+
+
+
+
+Cancelación
+        cero-polo
+
+
+
+
+ 
+
+
+
+Sistemas
+      realimentados
+
+
+
+ 
+
+
+
+
+Realimentación
+        de sistemas de primer orden
+
+
+
+
+Realimentación
+        de sistemas de segundo orden
+
+
+
+
+Realimentación
+        de sistemas de orden superior
+
+
+
+
+Estabilidad
+
+
+
+
+Errores en
+        régimen permanente
+
+
+
+
+Lugar
+        geométrico de las raíces (LR)
+
+
+
+
+ 
+
+
+
+Diseño de
+      un controlador PID
+
+
+
+ 
+
+
+
+
+Acciones
+        básicas de control
+
+
+
+
+Métodos
+        de sintonía experimentales
+
+
+
+
+Diseño
+        del controlador a través del LR
+
+
+
+
+ 
+
+
+
+Análisis
+      de respuesta en frecuencia de un sistema realimentado
+
+
+
+ 
+
+
+
+
+Función
+        de transferencia en el domino de la frecuencia
+
+
+
+
+Representaciones
+        gráficas:
+
+
+
+
+Diagrama
+            Polar
+
+
+
+
+Diagrama
+            de Bode
+
+
+
+
+
+
+Estabilidad
+        relativa
+
+
+
+
+Margen de
+            Fase
+
+
+
+
+Margen de
+            Ganancia
+
+
+
+
+
+
+Diseño
+        de un controlador en el dominio de la frecuencia
+
+
+
+
+ 
+
+Prácticas de
+  Laboratorio:
+
+
+
+
+Práctica
+      1: Modelado e identificación de un sistema
+      dinámico
+
+
+
+
+Práctica
+      2: Análisis en el dominio temporal
+
+
+
+
+Práctica
+      3: Sistemas Realimentados
+
+
+
+
+Práctica
+      4: Controladores PID
+
+
+
+
+Práctica
+      5: Diseño controladores a través de LR
+
+
+
+
+Práctica
+      6: Diagramas de Bode
+
+
+
+'

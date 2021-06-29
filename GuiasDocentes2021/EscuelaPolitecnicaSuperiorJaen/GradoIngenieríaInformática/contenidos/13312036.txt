@@ -1,0 +1,103 @@
+'
+
+Introducción a la multimedia. Generación y
+procesamiento de contenidos. Programación multimedia.
+Animación 2D ráster y vectorial. Animación en
+contenidos web. Accesibilidad.
+ 
+
+
+
+Módulo
+  1. Introducción a la multimedia
+
+
+
+Tema
+    0. Introducción a los sistemas multimedia.
+
+
+Tema
+    1. Tratamiento de datos multimedia. Procesamiento de la
+    señal. Dominios del tiempo y de la frecuencia.
+    Transformadas de Fourier y DCT. Muestreo y filtrado.
+
+
+Tema
+    2. Hardware multimedia.
+
+
+Tema
+    3. Compresión de datos. Taxonomía.
+    Compresión sin pérdida. Compresión con
+    pérdida.
+
+
+
+
+Módulo 2. Audio
+
+
+
+Tema
+    4. Procesamiento digital de sonido. Compresión de audio.
+    Formatos de audio. 
+    
+
+
+
+
+Módulo 3. Imágenes y Video
+
+
+
+Tema
+    5. Teoría del color.
+
+
+Tema
+    6. Imágenes raster. Compresión. Formatos.
+    Animación 2D.
+
+
+Tema
+    7. Imágenes vectoriales. Formatos y animación.
+    Tipografía.
+
+
+Tema
+    8. Codificación de video. Compensación de
+    movimiento. Compresión y formatos de video.
+
+
+  
+
+Módulo
+4. Programación de sistemas multimedia
+
+
+Tema
+    9. Aplicaciones multimedia. Transmisión e
+    integración de medios. Streaming.
+
+
+Tema
+    10. Generación y procesamiento de contenidos.
+    Herramientas de autor. Contenidos web y animación.
+    Accesibilidad. 
+
+
+  
+
+Prácticas.
+
+
+Procesamiento
+    digital de audio, imagen y video.
+
+
+Proyecto
+    software multimedia.
+
+
+'

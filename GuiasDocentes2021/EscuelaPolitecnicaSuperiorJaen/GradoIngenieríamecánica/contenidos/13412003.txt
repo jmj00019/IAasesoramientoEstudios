@@ -1,0 +1,78 @@
+'
+
+Cinemática de la partícula y cinemática de
+sólido.
+Teoría de mecanismos
+Cinética de la partícula, del sólido y
+de mecanismos planos.
+Fundamentos del análisis de vibraciones
+Fundamentos del diseño de engranajes y levas.
+
+La asignatura comprende cinco bloques temáticos:
+
+A.- Cinemática del sólido y sistemas
+mecánicos.
+
+B.- Teoría de mecanismos.
+
+C.- Dinámica del sólido y sistemas
+mecánicos.
+
+D.- Vibraciones de un grado de libertad.
+E.- Cinemática de Levas y Engranajes.
+
+
+A.- CINEMATICA:
+Tema 1: Introducción. Cinemática de la
+partícula y Movimiento relativo.
+Tema 2: Cinemática del sólido y
+cinemática de la partícula II.
+Tema 3: Cinemática de sistemas mecánicos
+planos.
+Tema 4: Cinemática de sólidos en movimiento
+tridimensional.
+
+B.- TEORIA DE MECANISMOS:
+Tema 5: Conceptos fundamentales, movilidad, centros de
+rotación y mecanismos básicos.
+Tema 6: Análisis del campo de desplazamiento y de
+velocidad de un mecanismo plano. Cálculo
+trigonométrico de posiciones, velocidades y aceleraciones.
+Tema 7: Síntesis dimensional de mecanismos planos
+elementales.
+
+C.- DINAMICA:
+Tema 8: Conceptos de cinética. Cinética de la
+partícula. Energía.
+Tema 9: Cinética del sólido y mecanismos
+planos: Fuerzas y aceleraciones. Métodos de la
+energía.
+Tema 10: Método de la Cantidad de Movimiento. Flujos
+de masa. Sistemas de partículas.
+
+D.- INTRODUCCION A LAS VIBRACIONES MECANICAS:
+Tema 11: Introducción al análisis de
+vibraciones. Movimiento periódico libre no amortiguado.
+Vibraciones amortiguadas. Tipos de amortiguamiento.
+Tema 12: Vibraciones forzadas: Factores de
+amplificación dinámica y Transmisibilidad. Medida de
+vibraciones y amortiguamiento.
+E: CINEMATICA DE LEVAS Y ENGRANAJES:
+ Tema 13: Diseño cinemático de levas y
+engranajes.
+
+Clases en grupos de prácticas:
+
+PR.1: Resolución de ejercicios de cinemática
+del sólido y movimiento relativo 2D.
+PR.2: Resolución de ejercicios de cinemática de
+sistemas mecánicos planos y movimiento relativo 3D.
+PR.3: Síntesis dimensional de mecanismos planos
+elementales: Mecanismos de retorno rápido de cuatro y seis
+barras. Síntesis de dos y tres posiciones de acoplador.
+PR.4: Resolución de ejercicios de Dinámica del
+sólido y de sistemas mecánicos planos.
+PR.5: Determinación experimental del tipo y
+coeficiente de amortiguación en un sistema vibrante real con
+vibración libre y forzada.
+'

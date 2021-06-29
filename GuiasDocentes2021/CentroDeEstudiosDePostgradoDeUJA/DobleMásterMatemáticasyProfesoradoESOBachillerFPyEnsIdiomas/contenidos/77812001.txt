@@ -1,0 +1,112 @@
+'
+
+Los contenidos serán variables para adaptarse a las
+necesidades formativas de los alumnos en cada momento.
+
+1.- 
+
+Taller avanzado de LATEX: Elaboración y
+presentación de artículos de investigación,
+tesis o conferencias.
+ 2.- 
+
+Seminarios de Actualización: en temas
+relacionados con la investigación,  docencia y
+aplicaciones de las matemáticas.
+
+Universidad de Almería:
+
+
+
+Título: Introducción a la teoría de
+  Ramsey
+
+
+Profesor: Juan Cuadra Díaz (jcdiaz@ual.es)
+
+
+Título: 
+Introducción
+  a la Teoría de Cópulas
+
+
+Profesor: Enrique de Amo Artero (edeamo@ual.es)
+
+Universidad de  Cádiz:
+
+
+
+Título: Lógica difusa y conexiones de
+  Galois. Introducción.
+
+
+Profesor:  Jesús Medina Moreno ( 
+jesus.medina@uca.es)
+
+
+Título: Técnicas analíticas y
+  geométricas en ecuaciones diferenciales: 
+  teoría clásica y últimos avances.
+
+
+Profesor: María Concepción Muriel Patino
+(concepcion.muriel@uca.es)
+  
+Universidad de Granada:
+
+
+Título: Polígonos y Poliedros. Tercer
+  Problema de Hilbert
+
+
+Profesor: Antonio Martínez López
+(amartine@ugr.es)
+
+
+Título: Matemática Electoral
+
+
+Profesor: Victoriano Ramírez González
+(vrmirez@ugr.es)
+  
+Universidad de Jaén:
+
+
+Título: Superficies de revolución de
+  tipo Weingarten
+
+
+Profesor:  Ildefonso Castro López
+(icastro@ujaen.es)
+
+
+Título: Las Pruebas sin Palabras (PWW): una
+  alternativa visual  de razonamiento en
+  Matemáticas.
+
+
+Profesor: Samuel Gómez Moreno (samuel@ujaen.es)
+
+ 
+Universidad de Málaga:
+
+
+Título: Teorema de Green, Teorema de Stokes,
+  Teorema de la Divergencia en \R^n (n=2,3)
+
+
+Profesor: José  Ángel Peláez
+Márquez (japelaez@uma.es)
+
+
+Título:  
+  Teoría
+  de la Relatividad
+
+
+Profesores:  
+Alicia
+Tocino Sánchez
+(alicia.tocino@uma.es), María Angustias
+Cañadas Pinedo (pinedo@uma.es).
+'

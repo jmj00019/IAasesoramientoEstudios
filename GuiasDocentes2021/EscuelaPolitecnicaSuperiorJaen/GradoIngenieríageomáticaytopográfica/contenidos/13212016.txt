@@ -1,0 +1,211 @@
+'
+
+Instrumentación en fotogrametría no
+cartográfica.
+Métodos en fotogrametría no cartográfica.
+Estereofotogrametría y fotogrametría
+monoscópica convergente. Transformación Lineal
+Directa (DLT) y autocalibración.
+Otros. Análisis de marcas de medida.
+Diseño y optimización de redes de trabajo en
+Fotogrametría no cartográfica.
+Aplicaciones. Fotogrametría industrial. Obras civiles,
+geotécnica, ciencias de la Tierra y medioambiente.
+Fotogrametría arquitectónica. Aplicaciones no
+convencionales.
+Técnicas topográficas auxiliares.
+Mobile Mapping
+Escáner láser terrestre.
+Otras instrumentaciones y metodologías.
+ 
+
+
+
+PROGRAMA DE TEORÍA
+
+
+
+TEMA 1. INTRODUCCIÓN
+
+
+1.1.
+  Introducción. Definiciones.
+
+
+1.2.
+  Desarrollo histórico.
+
+
+
+TEMA 2. INSTRUMENTACIÓN Y MÉTODOS EN
+  FOTOGRAMETRÍA NO CARTOGRÁFICA.
+
+
+2.1.
+  Instrumentación en fotogrametría no
+  cartográfica. Equipos de adquisición de datos:
+  cámaras (métricas y no métricas).
+
+
+2.2.
+  Equipos de medida. Equipos de bajo coste. Instrumentación
+  industrial ( 
+  Turn key systems).
+
+
+2.3.
+  Plataformas aéreas ligeras (sistemas aéreos no
+  tripulados, UAS). Legislación. Flujo de trabajo con
+  UAS.
+
+
+2.4.
+  Métodos en fotogrametría no
+  topográfica.
+
+
+2.4.1
+  Estereofotogrametría y fotogrametría
+  monoscópica convergente. Marcas de medida.
+
+
+2.4.2
+  Métodos de calibración de cámaras no
+  métricas.
+
+
+2.4.3
+  Transformación Lineal Directa (DLT). Algoritmos basados en
+  visión por computador: 
+  Structure from motion (SfM) y Multi-View Stereo
+  (MVS).
+
+
+2.4.4
+  Diseño de redes de trabajo en FNT. Ejemplo y desarrollo de
+  un algoritmo para un simulador de redes fotogramétricas
+  convergentes. Estudio de errores.
+
+
+2.4.5
+  Diseño, observación y cálculo de redes
+  auxiliares de apoyo.
+
+
+
+TEMA 3. APLICACIONES CONVENCIONALES DE LA
+  FOTOGRAMETRÍA NO CARTOGRÁFICA.
+
+
+3.1.
+  Fotogrametría industrial.
+
+
+3.2.
+  Fotogrametría aplicada a obras civiles, geotécnia y
+  ciencias de la Tierra, agricultura y medioambiente.
+
+
+3.3.
+  Fotogrametría aplicada a la arquitectura,
+  arqueología y restauración.
+
+
+3.4.
+  Fotogrametría forense.
+
+
+
+TEMA 4. NUEVAS TENDENCIAS Y APLICACIONES NO
+  CONVENCIONALES DE LA FOTOGRAMETRÍA NO
+  CARTOGRÁFICA.
+
+
+4.1.
+  Sistemas láser de barrido (terrestrial scanning
+  laser).
+
+
+4.1.1.
+  Fundamentos y tipos de equipos.
+
+
+4.1.2.
+  Metodologías de tomas de datos. Nubes de puntos.
+
+
+4.1.3.
+  Tratamiento de datos, registro y formación de modelos.
+  Georreferenciación.
+
+
+4.1.4.
+  Aplicaciones no topográficas.
+
+
+ 4.2.
+  Levantamientos en tiempo real ( 
+  mobile mapping).
+
+
+4.2.1
+  Fundamentos.
+
+
+4.2.2
+  Georreferenciación directa y tratamiento de datos.
+
+
+4.2.3
+  Aplicaciones
+
+
+ 4.3.
+  Otras: Fotogrametría submarina, aplicaciones
+  biomédicas, otras.
+
+
+ 
+
+
+
+PROGRAMA PRÁCTICAS
+
+
+Práctica
+  1. Calibración de cámaras: método de las
+  líneas rectas y autocalibración.
+
+
+Práctica
+  2. Marcas preseñalizadas y medidas automáticas
+  sobre imágenes digitales.
+
+
+Práctica
+  3. Fotogrametría monoscópica convergente
+  (DLT).
+
+
+Práctica
+  4. Simulación de redes.
+
+
+Práctica
+  5. Empleo de estaciones fotogramétricas de bajo
+  coste.
+
+
+Práctica
+  6. Escáner Láser Terrestre.
+
+
+Práctica
+  7. Planificación de vuelos UAS. 
+
+
+Práctica
+  8. Desarrollo de un caso real (diseño, ejecución,
+  obtención de productos finales).
+
+'

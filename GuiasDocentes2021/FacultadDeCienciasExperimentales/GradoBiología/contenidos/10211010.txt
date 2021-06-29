@@ -1,0 +1,114 @@
+'
+
+Bioinformática: consideraciones generales.
+Información biológica en formato electrónico.
+Análisis de secuencias. Filogenias y árboles
+filogenéticos. Dinámica de Sistemas en
+Biología. Análisis de imagen aplicado a la
+Biología.
+
+
+
+Contenidos
+    teóricos:
+
+
+
+Unidad 1 - Bioinformática:
+consideraciones generales. Información en biología.
+La explosión de la información
+biológica.
+Definición de bioinformática. Vías de acceso a
+la información según la
+problemática.
+
+Unidad 2 - Información
+biológica en formato electrónico. Aspectos
+computacionales básicos en
+bioinformática. La
+bioinformática y las bases de datos. Introducción a
+las bases de datos: características,
+acceso y principales
+herramientas de búsqueda. Formatos. Acceso a bases de datos
+web. Principales bases
+de datos
+biológicas.
+
+Unidad 3 - Análisis de
+secuencias. Análisis de secuencias basado en aspectos
+composicionales. Búsqueda
+de patrones y motivos en
+secuencias. Estrategias básicas para la búsqueda de
+similitud entre secuencias.
+Comparación entre pares
+de secuencias y alineamientos múltiples. Búsqueda de
+secuencias similares en
+bases de datos: BLAST,
+FASTA.
+
+Unidad 4 - Filogenias y
+árboles filogenéticos. Conceptos básicos de
+filogenia y evolución molecular.
+Filogenias basadas en datos
+morfológicos versus filogenias moleculares. Análisis
+filogenético basado en
+secuencias. Métodos de
+estimación de distancias evolutivas. Principales
+métodos para la construcción de
+árboles
+filogenéticos. Representación gráfica de
+árboles filogenéticos.
+
+Unidad 5 - Dinámica de
+Sistemas en Biología. La dinámica de sistemas. El
+problema biológico y la
+definición del sistema.
+El diagrama causal. Creación y simulación del modelo.
+Aplicaciones en biología
+.
+
+Unidad 6 - Análisis de
+imagen aplicado a la Biología. La imagen digital.
+Procesamiento y análisis de imagen.
+Manejo de información
+espacial y espectral en imágenes de interés
+biológico. Morfometría.
+
+ 
+
+
+
+Contenidos de prácticas
+    y seminarios:
+
+
+
+Bases de datos I
+
+
+Bases de datos II
+
+
+Bases de datos de ADN y
+  proteínas
+
+
+Análisis de secuencias
+  I
+
+
+Análisis de secuencias
+  II
+
+
+Filogenias moleculares
+
+
+Dinámica de
+  sistemas
+
+
+Análisis de
+  imágenes
+
+'

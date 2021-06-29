@@ -1,0 +1,82 @@
+'
+
+1. Infraestructura de Datos Espaciales. Aspectos
+tecnológicos
+2. Aspectos económicos y sociales y de
+regulación
+3. Normalización. Estándares ISO y OGC
+relativos a IDE
+4. Metadatos, Nomenclátores, Catálogos y
+Clearing-Houses para la Información Geográfica
+5. Servicios OGC (WMS, WFS, WPS, WCS, CWS, etc.)
+6. Integración de las redes de sensores en entornos
+SIG.
+7. Globos y mapas virtuales. Desarrollo de clientes ligeros.
+8. Minería de datos. Big Data.
+9. Cartografía voluntaria y colaborativa (VGI).
+
+
+TEMA 1.- Cartografía en la web. Servicios web
+  geoespaciales.
+
+1.1.- El
+contexto de la sociedad de la información.
+ 1.2.- Tendencias en Cartografía.
+ 1.3.- Usos y usuarios de Cartografía en la Web.
+ 1.4.- Principios cartográficos.
+(Simbolización). Diseño en la Web.
+
+TEMA 2.- Infraestructuras de datos espaciales.
+
+2.1.-
+Introducción.
+ 2.2.- Interoperabilidad.
+ 2.3.- Marco legal.
+ 2.4.- LISIGE.
+
+TEMA 3.- Aspectos tecnológicos.
+
+3.1.-
+Internet.
+ 3.2.- Comunicaciones, protocolos e identificación de
+recursos.
+ 3.3.- La arquitectura cliente/servidor.
+ 3.4.- XML.
+ 3.5.- HTML y CSS.
+ 3.6.- GML.
+ 3.7.- JAVASCRIPT.
+
+TEMA 4.- Normalización. Marco de referencia OGC, ISO
+e INSPIRE.
+4.1.- OGC.
+ 4.2.- ISO (TC211).
+ 4.3.- UML.
+ 4.4.- SERVICIOS ISO (19119).
+
+TEMA 5.- Servicios de Datos Espaciales (OGC).
+
+5.1.-
+Servicios de Visualización (WMS, SLD)
+ 5.2.- Servicios de Descarga (WFS).
+ 5.3.- Servicios de Descarga de Coberturas (WCS).
+ 5.4.- Servicios de Procesamiento en la Web (WPS).
+
+TEMA 6.- Metadatos.
+
+6.1.-
+Introducción.
+ 6.2.- Dublín Core, ISO 19115, NEM, etc.
+ 6.3.- Catálogo y Servicios de Catálogo (CSW).
+ 6.4.- Nomenclátor y servicios de nomenclátor
+(WFS-G)
+
+TEMA 7.- Globos virtuales y Cartografía de
+Información Geográfica Voluntaria y Colaborativa.
+Otras plataformas en la web.
+7.1.- Google
+(Google Earth y Google Maps).
+ 7.2.- Bing Maps
+ 7.3.- Wikimapia.
+ 7.4.- Openstreetmap.
+ 7.5.- Otras plataformas.
+'

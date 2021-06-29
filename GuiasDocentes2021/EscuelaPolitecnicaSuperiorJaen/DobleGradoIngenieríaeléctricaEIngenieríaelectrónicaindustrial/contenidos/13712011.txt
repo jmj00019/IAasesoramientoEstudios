@@ -1,0 +1,32 @@
+'
+
+Conceptos fundamentales y tipos de componentes
+electrónicos básicos
+Circuitos de polarización
+Conceptos fundamentales sobre amplificadores
+Respuesta en frecuencia de los amplificadores
+Amplificadores retroalimentados
+Amplificadores de potencia
+ 
+
+
+Teoría
+
+
+Diodos
+MOSFETs
+BJTs
+Amplificadores básicos
+Polarización de amplificadores
+Amplificadores diferenciales y multietapa
+Amplificadores de potencia y etapas de salida
+
+
+Práctica
+
+
+Problemas acerca de los conceptos teóricos
+Simulación y diseño de circuitos vistos en
+  teoría
+
+'

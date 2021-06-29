@@ -1,0 +1,54 @@
+'
+
+Sistemas de gestión de modelos de decisión.
+Modelos de decisión multicriterio. Modelos de
+decisión en grupo. Aplicaciones de decisión basadas
+en tecnología Web. Sistemas de recomendación.
+ 
+
+TEORICOS
+
+Módulo I: Introducción a la Toma de
+Decisiones
+
+Tema 1. Toma de decisiones
+1.1. Modelos de decisión
+1.2. Clasificación de los problemas de Toma de
+decisiones
+
+Módulo II: Modelos de Toma de
+  decisión
+
+
+Tema 2. Toma de Decisión Multi-Criterio
+2.1. Introducción
+2.2. Modelos de resolución
+2.3 Modelos de resolución para problemas de
+categorización
+
+Tema 3. Toma de Decisión en Grupo
+3.1. Introducción
+3.2. Modelos de resolución
+
+PRACTICOS
+
+Módulo I. Introducción a la Toma de
+Decisiones
+
+Tema 1. Herramientas básicas para la toma de
+decisiones
+
+Tema 2. Modelos de resolución de problema de toma de
+decisiones
+
+Módulo II. Sistemas de Ayuda a la toma de
+decisiones
+
+Tema 3. SAD Multi-criterio
+3.1. Introducción y uso
+3.2. Resolución de problemas
+
+Tema 4. SAD en Grupo
+4.1. Introducción y uso
+4.2. Resolución de problemas
+'

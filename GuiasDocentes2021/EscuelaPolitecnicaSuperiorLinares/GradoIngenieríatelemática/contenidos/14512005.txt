@@ -1,0 +1,125 @@
+'
+
+Esta asignatura proporciona a los alumnos los conocimientos
+teóricos, para dotarle de capacidad para poder gestionar
+redes de ordenadores y de telecomunicación. A tal fin se
+estudiarán aspectos organizativos de un centro de
+gestión de red, las áreas funcionales de
+gestión de red, los modelos de gestión de red en
+Internet y en OSI, el paradigma de gestión de red de la
+redes de telecomunicación.
+En la parte práctica, que le permita adquirir la
+capacidad para aprender de manera autónoma un conjunto de
+técnicas empleadas en la gestión de red, así
+como la familiarización con distintas plataformas de
+gestión de red.
+Palabras clave: áreas funcionales de gestión de
+red, modelos de gestión de red, protocolos de gestión
+de red.
+
+
+En
+  esta asignatura se dotará al alumno de la capacidad para
+  estar al día en las novedades en ciencia y
+  tecnología, sobre todo en este tipo de materias, tan
+  ligadas a un entono tan dinámico como son las
+  telecomunicaciones, y en concreto la Ingeniería
+  Telemática.
+
+
+Además,
+  se desarrollarán  habilidades de comunicación
+  información, ideas, problemas y soluciones en el
+  ámbito de ingeniería y la sociedad en general a
+  través de procesos de entrega de documentación o
+  presentaciones orales.
+
+
+Con 
+  respecto a la organización del trabajo, se
+  fomentará la colaboración y trabajo en equipo a
+  través del propio diseño de las
+  prácticas.
+
+ 
+
+Unidades Teóricas.
+
+Tema 1. Introducción a la
+gestión de red.
+1. Concepto de gestión de
+red.
+2. Objetivo de la gestión de
+red.
+3. Estructura organizativa de un
+centro de gestión de red.
+4. Evolución sufrida por la
+gestión de red.
+5. Recursos  utilizados en la
+gestión de red.
+6. Métodos de gestión
+de red.
+7. Arquitectura de un sistema de
+gestión de red.
+8. Áreas funcionales de
+gestión de red.
+9. Gestión de red
+distribuida.
+ 
+Tema 2. Gestión de red en
+internet.
+1. Introducción a la
+gestión de red en internet.
+2. Evolución de la
+gestión de red en Internet.
+3. Marco de la gestión de
+red en Internet.
+4. Estructura de la
+información de gestión.
+5. Bases de información de
+gestión (MIB).
+6. Protocolo simple de
+gestión de red (SNMP).
+7. Marco administrativo.
+8.  Conclusiones sobre
+SNMP.
+9. SNMPv2.
+10. SNMPv3.
+11. Monitorización de Red
+Remota (RMON).
+12.  Otros modelos: Netflow,
+NETCONF, IPFIX
+ 
+Tema 3. Tecnologías y
+tendencias en la gestión de red
+1. Tecnologías en la
+gestión de red
+2. Tendencias en la gestión
+de red
+3. Redes definidas por software
+(SDN).
+ 
+
+Unidades Prácticas.
+
+Práctica 1.
+Familiarización con herramientas de gestión y agentes
+SNMP.
+Práctica 2. Servicio para la
+gestión de red.
+Práctica 3. Redes definidas
+por software.
+Práctica 4. Gestión
+de flujo de datos.
+Práctica 5.
+Realización de un trabajo en el que el alumno se familiarize
+con alguna tecnología o herramienta de gestión de
+red. Elaboración de una memoría y exposición
+pública del trabajo.
+ 
+
+Seminario
+
+Introducción al lenguaje de
+programación Python.
+'

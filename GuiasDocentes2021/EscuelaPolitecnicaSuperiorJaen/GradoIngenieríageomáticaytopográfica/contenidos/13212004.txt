@@ -1,0 +1,194 @@
+'
+
+Introducción a la Fotogrametría y
+Teledetección.
+La imagen. Fotografía. Imagen digital. Tratamientos
+básicos.
+Sistemas de adquisición de imágenes. Sensores y
+plataformas.
+Geometría de la imagen. Instrumentos de medida. Errores
+de la imagen
+Estereoscopía. Paralaje.
+Geometría de las escenas de Teledetección.
+Fotointerpretación.
+El vuelo fotogramétrico. Planificación en gabinete
+y trabajos de campo.
+Proyectos espaciales de Teledetección.
+Flujo de trabajo en Fotogrametría analítica.
+Transformaciones entre sistemas 2D y 3D.
+Modelos matemáticos de orientación.
+Instrumentación fotogramétrica: restituidores
+analíticos y digitales
+Triangulación aérea.
+ 
+
+
+1. INTRODUCCIÓN.
+
+1.1. Conceptos básicos.
+Definiciones.
+1.2. Aplicaciones.
+1.3. Desarrollo histórico.
+
+
+Seminario 1. Laboratorio de
+  Fotogrametría y Teledetección. Aplicaciones. 
+  
+
+
+2. SISTEMAS DE ADQUISICIÓN DE
+  IMÁGENES.
+
+2.1. Cámaras métricas,
+semimétricas y no métricas.
+2.2. Cámaras métricas
+aéreas y terrestres.
+2.3. Otros sistemas de
+adquisición.
+  
+
+Seminario 2. Cámaras
+fotográficas.
+
+
+Práctica 1. Adquisición de
+  imágenes.
+
+
+3. INSTRUMENTOS DE RESTITUCIÓN.
+
+3.1. Haces perspectivos.
+Parámetros internos y externos.
+3.2. Métodos de ajuste de
+pares estereoscópicos.
+3.3. Instrumentos
+analógicos.
+3.4. Instrumentos
+analíticos.
+3.5. Instrumentos digitales.
+
+
+Práctica 2. Descripción y
+  manejo de los instrumentos de restitución.
+
+
+4. MEDIDA DE IMÁGENES Y CORRECCIÓN DE
+  ERRORES.
+
+4.1. Sistemas de coordenadas 2D.
+4.2. Transformaciones 2D.
+4.3. Errores de la imagen y proceso
+de corrección.
+
+
+Problemas. Transformaciones de coordenadas
+  2D y corrección de errores.
+
+
+
+Práctica 3. Medición,
+transformación y corrección de
+coordenadas. 
+
+5. GEOMETRÍA DE LA IMAGEN.
+
+5.1. Geometría de la imagen
+fotográfica aérea. Vertical e inclinada.
+5.2. Geometría de las
+imágenes de otros sensores.
+5.3. El caso normal de la
+estereofotogrametría.
+5.4. Estereoscopía natural y
+artificial.
+5.5. Paralaje
+estereoscópico.
+
+
+Problemas. Escalas, geometría de la
+  imagen, paralaje etc.
+
+
+
+Práctica 4. Análisis dimensional
+  de imágenes.
+
+
+ 6. EL PROYECTO FOTOGRAMÉTRICO.
+
+6.1. Tipos de levantamientos
+fotogramétricos y clasificación.
+6.2. Fases del levantamiento
+fotogramétrico.
+6.3. Previsión de errores.
+6.4. Planificación del vuelo
+fotogramétrico.
+  
+
+Problemas. Proyecto de vuelo
+fotogramétrico.
+
+
+Práctica 5. Proyecto de vuelo
+fotogramétrico.
+ 
+
+7. ORIENTACIÓN FOTOGRAMÉTRICA
+  NUMÉRICA. 
+  
+
+
+
+7.1. Sistemas de coordenadas 3D y
+transformaciones tridimensionales de coordenadas.
+7.2. Modelos matemáticos de
+orientación.
+7.3. Métodos de
+orientación de pares estereoscópicos.
+
+
+Problemas.Transformación de coordenadas
+  3D y modelos matemáticos de orientación
+
+
+
+Práctica 6. Orientación de
+  pares estereoscópicos en instrumentos analíticos y
+  digitales.
+
+
+8. CONTROL FOTOGRAMÉTRICO.
+
+8.1. Apoyo fotogramétrico.
+8.2. Principios de
+triangulación fotogramétrica.
+8.3. Clasificación de los
+métodos de triangulación.
+
+
+Práctica 7. Planificación del
+  apoyo fotogramétrico para un bloque reducido de
+  imágenes.
+
+
+9. PRODUCTOS FOTOGRAMÉTRICOS
+
+9.1. Restitución
+gráfica y numérica.
+9.2. Rectificación de
+imágenes
+9.3. Modelos digitales del
+terreno.
+9.4. Ortoimágenes y
+ortofotomapas.
+9.5. Ultimación de
+levantamientos fotogramétricos.
+
+
+Práctica 8. Rectificación de una
+  imagen y/o restitución de un par
+  estereoscópico.
+
+
+ 
+
+'

@@ -1,0 +1,157 @@
+'
+
+
+Contenidos básicos: Diseño
+estadístico completamente aleatorio. Diseños
+estadísticos en bloques aleatorizados. Diseños
+factoriales. Análisis de covarianza
+
+
+Introducción
+  al Diseño Estadístico de Experimentos
+
+
+
+Experimento
+    estadístico
+
+
+Diseño
+    de experimentos estadísticos
+
+
+Directrices
+    generales para el diseño de experimentos
+
+
+
+Diseño
+  estadístico completamente aleatorio
+
+
+
+Análisis
+    de la varianza para el modelo de efectos fijos
+
+
+Métodos
+    de comparación múltiple
+
+
+Análisis
+    de la varianza para el modelo de efectos aleatorios
+
+
+D
+    iagnosis del modelo
+
+
+Potencia
+    y tamaño muestral
+
+
+
+ 
+  Diseño estadístico en bloques
+  aleatorizados
+
+
+
+Análisis
+    estadístico del modelo de efectos fijos
+
+
+Otros
+    aspectos relacionados con los diseños en bloques
+
+
+Diagnosis
+    del modelo
+
+
+Extensiones:
+    diseños de cuadrados latinos y de cuadrados
+    greco-latinos
+
+
+
+Diseño
+  factorial
+
+
+
+Modelo
+    de efectos fijos
+
+
+Diagnosis
+    del modelo
+
+
+Modelos
+    de efectos aleatorios y mixtos
+
+
+Extensiones:
+    diseño factorial general
+
+
+
+Diseño
+  2 elevado a k
+
+
+
+
+El diseño 2 elevado a
+    2
+
+
+
+El diseño 2 elevado a
+    3
+
+
+
+El diseño general 2 elevado
+    a k
+
+
+
+Técnica de
+    confusión
+
+
+
+Experimentos factoriales
+    fraccionados
+ 
+
+
+
+
+Análisis de la
+  covarianza
+
+
+
+
+Análisis estadístico
+    del modelo unifactorial con una covariable
+
+
+
+Métodos de comparaciones
+    múltiples
+
+
+
+Diagnosis del modelo
+
+
+
+Introducción a otros modelos
+    de análisis de covarianza
+
+
+'

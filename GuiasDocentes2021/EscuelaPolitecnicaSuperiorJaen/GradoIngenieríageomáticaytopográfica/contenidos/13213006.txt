@@ -1,0 +1,66 @@
+'
+
+Adquisición, análisis y representación de
+datos geológicos de interés en ingeniería
+Esfuerzo y deformación en ingeniería
+geológica. Ensayos geotécnicos
+Descripción, clasificación y
+caracterización de suelos geotécnicos
+Mecánica de suelos: condiciones de estabilidad en
+suelos
+Mecánica de rocas: condiciones de estabilidad en macizos
+rocosos
+Caracterización geomecánica de macizos rocosos
+Análisis en campo de la fracturación.
+Mapas geotécnicos y cartografía de riesgos
+Interpretación de mapas geotécnicos y
+geológicos.
+Identificación en campo de problemas
+geotécnicos.
+Aplicaciones en cimentaciones, taludes, túneles, presas y
+estructuras de tierras
+Otras aplicaciones en el ámbito de la Geomática y
+Topografía.
+
+Tema 1.- Introducción. El papel del Ingeniero en
+Geomática y Topografía en las demás
+ingenierías del terreno.
+Tema 2.- La adquisición, análisis y
+representación de datos geológicos de interés
+en ingeniería. Datos escalares y datos con
+información tridimensional. Representación en
+cartografías vs representación en proyecciones.
+Eficacia, eficiencia y utilidad de los diferentes sistemas de
+proyecciones.
+Tema 3.-Introducción a la Geotecnia. Suelo y roca.
+Esfuerzo y deformación en ingeniería
+geológica. Ensayos geotécnicos.
+Tema 4.- Suelos geotécnicos: Descripción,
+clasificación y caracterización. Mecánica de
+suelos: condiciones de estabilidad.
+Tema 5.- Mecánica de rocas: condiciones de estabilidad en
+macizos rocosos. Caracterización geomecánica de
+macizos rocosos
+Tema 6.- Datos geológicos y su aplicación en
+cimentaciones, taludes, túneles, presas y estructuras de
+tierras
+Tema 7. Otras aplicaciones de la Geología a los
+ámbitos ingenieriles: el caso del medio submarino y el papel
+de la cartografía submarina en el desarrollo de
+infraestructuras, gestión de recursos naturales y
+protección del medioambiente.
+Práctico A.- Análisis de la fracturación:
+obtención de datos, representación e
+interpretación de resultados.
+Práctico B.- introducción al análisis de
+estabilidad de suelos y rocas
+Práctico C.- Mapas geotécnicos: tipos e
+interpretación. Tipos de mapas geológicos.
+Obtención de datos de interés ingenieril en los mapas
+geológicos. Interpretación y realización de
+cartografía de riesgos a partir de la información
+disponible geológica, topográfica y en general
+geomática.
+Práctico D.- Identificación en campo de problemas
+geotécnicos y otros riesgos geológicos.
+'

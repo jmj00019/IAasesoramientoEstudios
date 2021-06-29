@@ -1,0 +1,539 @@
+'
+
+Cinemática de la partícula y cinemática de
+sólido.
+Teoría de mecanismos
+Cinética de la partícula, del sólido y de
+mecanismos planos.
+Fundamentos del análisis de vibraciones
+Fundamentos del diseño de engranajes y levas.
+
+
+A.-
+  CINEMÁTICA:
+
+
+Tema
+  1: Introducción. Cinemática de la partícula
+  y movimiento relativo.
+
+
+
+Introducción.
+
+
+Movimiento
+  rectilíneo de partículas.
+
+
+Conceptos
+      básicos: posición, velocidad y
+      aceleración.
+
+
+Determinación
+      del movimiento de una partícula.
+
+
+Movimiento
+      rectilíneo uniforme.
+
+
+Movimiento
+      rectilíneo uniformemente acelerado.
+
+
+Movimiento
+      relativo de partículas.
+
+
+
+Movimiento
+  curvilíneo de partículas.
+
+
+Vector
+      posición, velocidad y aceleración.
+
+
+Derivadas
+      de funciones vectoriales.
+
+
+Componentes
+      rectangulares de la velocidad y la aceleración.
+
+
+Movimiento
+      relativo a un sistema de referencia en
+      traslación.
+
+
+Componentes
+      tangencial y normal.
+
+
+Componentes
+      polares.
+
+
+Movimiento
+      de una partícula en el espacio: coordenadas
+      cilíndricas.
+
+
+
+
+Tema2:
+  Cinemática del sólido y movimiento relativo.
+
+
+
+Introducción.
+    Tipos de movimiento de un sólido rígido.
+
+
+Traslación.
+
+
+Rotación
+    alrededor de un eje fijo.
+
+
+Movimiento
+    plano general
+
+
+Movimiento
+    alrededor de un punto fijo.
+
+
+Movimiento
+    general.
+
+
+Movimiento
+    relativo a un sistema de referencia en rotación.
+
+
+
+B.-
+  TEORIA DE MECANISMOS:
+
+
+Tema
+  3: Conceptos fundamentales de teoría de máquinas y
+  mecanismos.
+
+
+
+Introducción.
+
+
+Conceptos
+    básicos.
+
+
+Clasificación
+    de los movimientos.
+
+
+Determinación
+    del grado de libertad.
+
+
+Isómeros.
+
+
+Transformación
+    de eslabonamientos.
+
+
+Inversión
+    cinemática.
+
+
+Condición
+    de Grashof.
+
+
+Consideraciones
+    prácticas.
+
+
+
+Tema
+  4: Análisis cinemático de mecanismos planos.
+
+
+
+Análisis
+    gráfico de posición.
+
+
+Análisis
+    algebraico de posición.
+
+
+Ángulos
+    de transmisión.
+
+
+Posiciones
+    límite.
+
+
+Centros
+    instantáneos de rotación (CIR).
+
+
+Análisis
+    de velocidad con CIR.
+
+
+Soluciones
+    analíticas para la velocidad con lazo vectorial.
+
+
+Ventaja
+    mecánica.
+    
+
+
+Soluciones
+    analíticas para la aceleración con lazo
+    vectorial.
+
+
+Síntesis
+    dimensional de mecanismos planos elementales.
+
+
+
+C.-
+  DINAMICA:
+
+
+Tema
+  5: Cinética de la partícula I: Segunda ley de
+  Newton.
+
+
+
+Segunda
+    ley de Newton.
+
+
+Cantidad
+    de movimiento de una partícula.
+
+
+Ecuaciones
+    de movimiento.
+
+
+Equilibrio
+    dinámico.
+
+
+Momento
+    angular de una partícula.
+
+
+Movimiento
+    bajo una fuerza central. Conservación del momento
+    angular.
+
+
+Ley
+    de la gravitación universal de Newton. Peso en la
+    superficie de la Tierra.
+
+
+
+Tema
+  6: Cinética de la partícula II: Métodos de
+  la energía y la cantidad de movimiento.
+
+
+
+Trabajo
+    de una fuerza.
+
+
+Energía
+    cinética de una partícula. Principio del trabajo
+    y la energía.
+
+
+Potencia
+    y eficiencia.
+
+
+Conservación
+    de la energía.
+
+
+Principio
+    del impulso y la cantidad de movimiento.
+
+
+Movimiento
+    impulsivo.
+
+
+Impactos.
+
+
+
+Tema
+  7: Cinética de sistemas de partículas.
+
+
+
+Introducción.
+
+
+Segunda
+    ley de Newton.
+
+
+Cantidad
+    de movimiento y momento angular.
+
+
+Centro
+    de masas.
+
+
+Momento
+    angular de un sistema de partículas respecto a su centro
+    de masas.
+
+
+Energía
+    cinética y energía potencial. Conservación
+    de la energía.
+
+
+Principio
+    del impulso y la cantidad de movimiento.
+
+
+Sistemas
+    variables de partículas.
+
+
+
+Tema
+  8: Cinética del sólido I: Fuerzas y
+  aceleraciones
+
+
+
+Ecuaciones
+    de movimiento del sólido rígido.
+
+
+Momento
+    angular de un sólido rígido.
+
+
+Movimiento
+    plano del sólido rígido.
+
+
+Movimiento
+  plano restringido o vinculado.
+
+
+Rotación
+      no centroidal.
+
+
+Movimiento
+      de rodadura.
+
+
+
+
+Tema
+  9: Cinética del sólido II: Métodos de la
+  energía y la cantidad de movimiento.
+
+
+
+Trabajo
+    de fuerzas y pares que actúan sobre un
+    sólido.
+
+
+Energía
+    cinética de un sólido rígido. Principio
+    del trabajo y la energía.
+
+
+Potencia
+    de un sólido rígido.
+
+
+Conservación
+    de la energía.
+
+
+Principio
+    del impulso y la cantidad de movimiento para un sólido
+    rígido.
+
+
+Impacto
+    excéntrico.
+
+
+
+ 
+
+
+D.-
+  INTRODUCCION A LAS VIBRACIONES MECANICAS:
+
+
+Tema
+  10: Fundamentos de vibración.
+
+
+
+Introducción.
+
+
+Conceptos
+    básicos de la vibración.
+
+
+Clasificación
+    de las vibraciones.
+
+
+Elementos
+  de los sistemas vibratorios.
+
+
+Elementos
+      de rigidez o resorte.
+
+
+Elementos
+      de amortiguamiento.
+
+
+
+Procedimiento
+    de análisis de sistemas vibratorios.
+
+
+Movimiento
+  armónico.
+
+
+Representación
+      vectorial del movimiento armónico.
+
+
+Representación
+      mediante números complejos del movimiento
+      armónico.
+
+
+Definiciones
+      y terminología.
+
+
+
+
+Tema
+  11: Vibraciones libres de sistemas con un grado de
+  libertad.
+
+
+
+Vibración
+    libre de un sistema no amortiguado.
+
+
+Vibración
+    libre con amortiguamiento viscoso.
+
+
+Decremento
+    logarítmico.
+
+
+
+Tema
+  12: Vibraciones forzadas de sistemas con un grado de
+  libertad
+
+
+
+Ecuación
+    de movimiento.
+
+
+Respuesta
+    de un sistema no amortiguado sometido a una fuerza
+    armónica.
+
+
+Respuesta
+    de un sistema amortiguado sometido a una fuerza
+    armónica.
+
+
+
+E:
+  CINEMATICA DE LEVAS Y ENGRANAJES:
+
+
+Tema
+  13: Diseño cinemático de levas y engranajes.
+
+
+
+Diseño
+  de engranajes
+
+
+Cinemática
+      del engranaje: Ley de engrane.
+
+
+Clasificación
+      de los engranajes.
+
+
+Trenes
+      de engranajes.
+
+
+
+Diseño
+  de levas
+
+
+Introducción.
+
+
+Cinemática
+      de levas.
+
+
+Consideraciones
+      de fabricación y diseño de levas.
+
+
+Dinámica
+      de levas.
+
+
+
+'

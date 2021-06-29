@@ -1,0 +1,119 @@
+'
+
+· Métodos Numéricos de Punto Fijo
+· Métodos Numéricos para la
+resolución de EDO.
+· Métodos de los elementos Finitos.
+· Lógicas Clásicas y Difusas
+
+Asignatura
+obligatoria del primer curso del máster en Ingeniería
+de Minas, que pretende modelar matemáticamente y resolver
+numéricamente algunos problemas que se plantean en el mundo
+de la ingeniería. Una vez cursada, proporcionará
+algunas técnicas numéricas y de programación
+que serán de utilidad para resolver problemas que se
+plantean en la ingeniería en general.
+Métodos
+Numéricos de Punto Fijo.
+Métodos
+Numéricos para la resolución de EDO.
+Métodos
+de los elementos Finitos.
+Lógicas
+Clásicas y Difusas
+Nummerical
+methods  for fixed points problems.
+Nummerical
+methods for differential equations.
+Finite
+element method.
+Classical
+and Fuzzy logics.
+
+
+Temario Desarrollado
+
+
+1.- Introducción al lenguaje
+  Octave/Matlab 
+
+
+2.Introducción a los métodos
+  numéricos
+
+2.1. Análisis del error,
+solución aproximada y convergencia.
+2.2. Introducción a los
+métodos del punto fijo.
+2.3. Método de la
+Bisección.
+2.4. Método de la
+secante.
+2.5. Método Regula Falsi
+Transformada rápida de Fourier.
+2.6. Método Newton
+Raphson.
+2.7. Implantación en
+Octave/MatLab.
+
+3. Problemas de valor inicial para ecuaciones
+  diferenciales ordinarias.
+
+3.1. El método de Euler:
+descripción, convergencia y error de redondeo.
+3.2. Métodos de Taylor de
+orden mayor que uno.
+3.3. Métodos de
+Runge-Kutta.
+3.4. Control de error:
+métodos de Runge-Kutta-Fehberg.
+3.5. Métodos multipaso.
+3.6. Métodos de
+extrapolación
+3.7. Sistemas de ecuaciones
+diferenciales y ecuaciones de mayor orden.
+3.8. Implantación en
+Octave/MatLab.
+
+4. Métodos Numéricos para resolver Sistemas
+  de Ecuaciones Lineales.
+
+4.1. Motivación.
+4.2. Método de Jacovi.
+4.3. Método de
+Gauss-Seidel.
+4.4. Método de
+Relajación
+4.5. Implantación en
+Octave/MatLab.
+
+5. Método de los elementos finitos para
+  funcionales cuadráticos.
+
+5.1 Espacios de elementos
+finitos.
+5.2 Cálculos con el
+método de elementos finitos: triangulaciones, ensamblado de
+la matriz de rigidez, vector de carga y valores prescritos en la
+frontera.
+5.3. Implantación en
+Octave/MatLab.
+
+6. Lógicas Clásicas y Difusas.
+
+6.1. Introducción a la
+Lógica.
+6.2. Lógica
+proposicional.
+6.3. Lógica de predicados de
+primer orden.
+6.4. Programación
+lógica clásica.
+6.5. Introducción a las
+lógicas difusas.
+6.6. Programación
+lógica difusa.
+6.7. Implantación en
+Octave/MatLab.
+'

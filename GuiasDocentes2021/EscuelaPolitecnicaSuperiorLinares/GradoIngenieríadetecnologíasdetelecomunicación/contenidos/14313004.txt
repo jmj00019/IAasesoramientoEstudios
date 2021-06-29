@@ -1,0 +1,76 @@
+'
+
+En esta asignatura se profundiza en los protocolos habituales
+utilizados en redes TCP/IP en los niveles de enlace, red y
+transporte.
+En la parte práctica de la asignatura se lleva a cabo la
+configuración de equipos de comunicaciones que utilizan los
+protocolos anteriores.
+Palabras clave: TCP, UDP, IP, Protocolos de Acceso
+Múltiple.
+
+
+
+
+UNIDADES
+  TEÓRICAS
+
+
+Tema 1.
+  Introducción.
+
+
+Tema 2.
+  Protocolos y comunicaciones de red.
+
+
+Tema 3. Nivel
+  de enlace.
+
+
+Tema 4.
+  Ethernet.
+
+
+Tema 5. Nivel
+  de Red.
+
+
+Tema 6. Nivel
+  de Transporte.
+
+
+Tema 7. Nivel
+  de Aplicación.
+
+
+ 
+
+
+ 
+
+
+
+
+UNIDADES
+  PRÁCTICAS
+
+
+
+Configuración
+    de routers Cisco.
+
+
+Configuración
+    de switches Cisco.
+
+
+Programación
+    de dispositivos del IoT.
+
+
+Introducción
+    a la programación con sockets.
+
+
+'

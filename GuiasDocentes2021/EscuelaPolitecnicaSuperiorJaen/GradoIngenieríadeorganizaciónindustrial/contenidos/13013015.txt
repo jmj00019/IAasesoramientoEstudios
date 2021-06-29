@@ -1,0 +1,36 @@
+'
+
+Normalización en el dibujo industrial.
+· Creación de planos.
+· Dibujo geométrico bi-tridimensional en
+entorno CAD.
+· Creación de sólidos.
+· Modelado de superficies.
+· Introducción al diseño industrial.
+· Introducción al BIM
+ 
+
+TEMARIO TEÓRICO/PRÁCTICO:
+Normalización en el dibujo y creación de
+planos. 
+Dibujo geométrico bi-tridimensional en entorno
+CAD. 
+Creación de sólidos.  
+Tema 1.- Diseño de solidos CAD 
+1.1.- Croquis 
+1.2.- Operaciones de modelado 
+1.3.- Transformacion de solidos
+Tema 2.- Dibujo en el ámbito de la industria 
+2.1.Principios generales para la representación de
+elementos  
+2.2.- Representación de planos  
+Tema 3.- Generación de documentación
+gráfica mediante técnicas CAD 2D 
+Tema 4.- Dibujo tridimensional: entorno CAD propio del
+BIM.
+Tema 3.- Sistemas CAM/CAE
+3.1.- Fabricación Asistida por Ordenador. Sistemas
+CAM   
+3.2.- Ingeniería Asistida por Ordenador. Sistemas
+CAE. 
+'

@@ -1,0 +1,134 @@
+'
+
+Sistemas de ecuaciones lineales.
+Matrices y determinantes. Espacios vectoriales. Aplicaciones
+lineales. Espacio vectorial euclideo. Valores y vectores propios.
+Diagonalización. Descomposición en valores
+singulares. Inversas generalizadas.
+
+ 
+Tema 1. Sistemas de ecuaciones lineales. Matrices y
+determinantes.
+
+Sistemas de ecuaciones lineales.
+  Método de Gauss-Jordan. Matrices y sistemas de ecuaciones
+  lineales. Forma normal de Hermite. Rango de una matriz. Teorema
+  de Rouché-Fröbenius. Matrices elementales. Matrices
+  inversas. Determinantes y algunas aplicaciones.
+
+
+ 
+
+
+Tema 2. Espacios vectoriales y
+  espacio vectorial euclideo.
+
+
+Espacio vectorial. Dependencia e
+  independencia lineal. Bases y dimensión. Subespacios
+  vectoriales. Producto escalar y norma. Vectores ortogonales.
+   
+
+
+ 
+
+
+Tema 3. Aplicaciones
+  lineales.
+
+
+Aplicaciones lineales.
+  Núcleo e imagen. Expresión matricial de un
+  homomorfismo. Clasificación de una aplicación
+  lineal.
+
+
+ 
+
+
+Tema 4.
+  Diagonalización.
+
+
+Valores y vectores propios de un
+  endomorfismo. Polinomio característico.
+  Diagonalización de un endomorfismo por semejanza.
+  Descomposición en valores singulares. Aplicaciones.
+
+
+ 
+
+
+Tema 5. Inversas
+  generalizadas.
+
+
+Inversas laterales. Inversa
+  generalizada de Moore-Penrose. Factorización de rango
+  pleno. Solución mínimo cuadrática de norma
+  mínima.
+
+
+ 
+
+
+
+TEMARIO DE PRÁCTICAS
+
+
+Práctica
+  1. El entorno de trabajo: Mathematica. Sintaxis.
+  Aritmética básica.
+
+
+Práctica
+  2. Listas: tablas, matrices y vectores.
+
+
+Práctica
+  3. Matrices elementales. Forma normal de Hermite.
+
+
+Práctica
+  4. Determinantes. Rango e Inversas.
+
+
+Práctica
+  5. Sistemas de ecuaciones lineales.
+
+
+Práctica
+  6. Espacios vectoriales. Bases y coordenadas.
+
+
+Práctica
+  7. Subespacios vectoriales. 
+
+
+Práctica
+  8. Espacios vectoriales euclídeos.
+
+
+Práctica
+  9. Aplicaciones lineales. Matriz asociada.
+
+
+Práctica
+  10. Núcleo e imagen de una aplicación
+  lineal.
+
+
+Práctica
+  11. Diagonalización por semejanza. Aplicaciones.
+
+
+Práctica
+  12. Descomposición en valores singulares.
+
+
+
+Práctica
+  13. Inversas generalizadas. Solución
+  mínimo cuadrática de norma mínima.
+
+'

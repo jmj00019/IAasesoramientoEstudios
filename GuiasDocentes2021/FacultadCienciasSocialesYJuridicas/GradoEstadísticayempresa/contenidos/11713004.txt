@@ -1,0 +1,30 @@
+'
+
+Métodos de estimación indirectos.
+Muestreo por conglomerados.
+Muestreo bietápicos y polietápicos.
+ 
+
+
+Estimadores Indirectos I: Estimadores por diferencias y de
+  rarón. 
+  
+Descripción del diseño y estimadores de los
+    parámetros.
+Estimación de la varianza de los estimadores.
+
+Estimadores Indirectos II: Estimadores de regresión. 
+  
+Descripción del diseño y estimadores de los
+    parámetros.
+Estimación de la varianza de los estimadores.
+
+Muestreo doble.
+Muestreo por conglomerados. 
+  
+Descripción del diseño y estimadores de los
+    parámetros.
+Estimación de la varianza de los estimadores.
+
+
+'

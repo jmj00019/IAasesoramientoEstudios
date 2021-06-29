@@ -1,0 +1,68 @@
+'
+
+En esta asignatura se les proporciona a los alumnos las bases
+científicas de geomorfología, morfodinámica y
+sedimentología fluvial orientadas al aná- lisis de la
+dinámica fluvial de las inundaciones, con el objetivo de
+realizar modelos y predicciones espacio-temporales de las mismas.
+Así mismo, se revisan las aplicaciones de estas
+metodologías a la conservación y restauración
+de riberas.
+
+Bloque 1. Geomorfología y
+morfodinámica fluvial.
+
+Procesos de erosión,
+  transporte y sedimentación fluvial. Acción
+  geomorfológica de un río.
+Perfil longitudinal de un
+  río: perfil de equilibrio.
+Canales fluviales: elementos
+  comunes.
+Morfología en planta:
+  canales rectos, meandriformes y trenzados.
+Morfologías fluviales
+  según su perfil transversal: valles fluviales.
+
+Bloque 2. 
+Sedimentología fluvial.
+
+Procesos sedimentarios derivados
+  de inundaciones. Ejemplos.
+Evidencias y registros
+  geomorfológicos, documentales y dendrocronológicos
+  de avenidas.
+Aplicaciones a la
+  paleohidrología.
+Geonocronología de
+  inundaciones.
+Factores desencadenantes e
+  intensificadores de inundaciones fluviales.
+
+Bloque 3. Análisis de la
+dinámica fluvial de inundaciones.
+
+Fundamentos de hidráulica
+  y flujos en canales abiertos.
+Hidráulica computacional
+  para estudios de dinámica fluvial. Ecuaciones modelo y
+  técnicas de resolución.
+Programas informáticos de
+  cálculo numérico y diseño asistido por
+  ordenador.
+Criterios de erosión y
+  generación de formas de lecho.
+Modelos de transporte por carga
+  de fondo, suspensión y erosión de talud.
+
+Bloque 4. Aplicación a la
+conservación y restauración de riberas.
+
+Modelos dinámicos de
+  evolución riparia y su interacción con el ciclo
+  hidrológico.
+Simulación
+  numérica de procesos dinámicos en bosques de ribera
+  durante crecidas extremas.
+
+'

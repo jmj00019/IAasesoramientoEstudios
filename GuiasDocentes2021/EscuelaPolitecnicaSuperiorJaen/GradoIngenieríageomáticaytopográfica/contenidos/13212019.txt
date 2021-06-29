@@ -1,0 +1,91 @@
+'
+
+
+ 
+
+Tipos de redes topográficas.
+Observación, cálculo, ajuste y análisis de
+resultados de redes topográficas horizontales, redes
+verticales y redes tridimensionales.
+Levantamiento de detalle y elaboración de
+cartografía. Control de cartografía.
+Redes topográficas en la ingeniería.
+Métodos de control de desplazamientos y
+deformaciones.
+Levantamientos batimétricos.
+ 
+
+
+Tema 1. Ajuste de
+Redes Topográficas.
+Modelos Matemáticos. Observables y Parámetros.
+Modelo Funcional y Modelo Estocástico.  Modelos
+Regulares y Singulares. Modelos Matemáticos Regulares.
+Modelo de Ecuaciones de Observación. Modelo de Ecuaciones de
+Condición. Análisis Estadístico de
+resultados.
+
+Tema 2. Redes. Nociones Generales.
+Redes Nacionales. Densificación de Redes. Redes
+topográficas. 
+
+Tema 3. Redes Horizontales.
+Objetivos y características generales. Fases en su
+definición. Anteproyecto y proyecto de la Red Básica.
+Observación de la Red Básica. Cálculo y Ajuste
+de la Red Básica. Propagación de incertidumbres.
+Densificación de Redes horizontales. 
+
+Tema 4. Redes Verticales.
+Objetivos y características generales. Diseño
+de una red altimétrica. Proyecto y observación de
+redes altimétricas. Cálculo y ajuste
+altimétrico. Propagación de incertidumbres.
+Densificación de Redes verticales. 
+
+Tema 5. Redes Tridimensionales.
+Objetivos y características generales. Diseño
+de una red tridimensional. Proyecto y observación de la red.
+Cálculo y ajuste. Propagación de incertidumbres.
+Transformación de sistemas de referencia y conversión
+de coordenadas.
+
+Tema 6. Red de detalle.
+Representación altimétrica del terreno y formas
+elementales. Red de detalle: Normas del levantamiento.
+Métodos de observación: Topografía
+clásica, GNSS, Escáner láser, RPAs, etc.
+Representación gráfica. Diseño, dibujo y
+edición del levantamiento.
+
+Tema 7. Aplicaciones de Redes Topográficas.
+Aplicaciones en Ingeniería Civil, Topografía
+industrial, Fotogrametría, etc. Levantamientos
+batimétricos. Control de cartografía. Control de
+deformaciones.
+
+PC - Prácticas de Campo
+ PC1: Reconocimiento de la zona a levantar y
+Elaboración de reseñas.
+PC2: Red Planimétrica 1: Observación de
+distancias.
+PC3: Red Planimétrica 2: Observación de
+ángulos.
+PC4: Densificación de redes: Poligonales.
+PC5: Red Altimétrica: Nivelación de los
+vértices de la red básica.
+PC6: Red Tridimensional: Observación GPS.
+PC7: Levantamiento y representación de detalles.
+
+PG - Prácticas de Gabinete
+ PG1: Ajuste planimétrico de distancias.
+PG2: Ajuste planimétrico de direcciones.
+PG3: Ajuste planimétrico de ángulos.
+PG4: Ajuste altimétrico de desniveles.
+PG5: Ajuste de poligonales. Densificación de redes.
+PG6: Ajuste tridimensional GPS.
+PG7: Procesamiento automatizado de datos.
+PG8: 
+Descarga
+y Procesamiento de un levantamiento.
+'

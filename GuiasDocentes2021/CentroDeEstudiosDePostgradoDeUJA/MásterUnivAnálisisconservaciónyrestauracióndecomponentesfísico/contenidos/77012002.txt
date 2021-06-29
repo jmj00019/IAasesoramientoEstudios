@@ -1,0 +1,64 @@
+'
+
+En esta asignatura los alumnos explorarán el potencial
+que ofrecen los Sistemas de Información Geográfica
+(SIG) en la gestión de recursos naturales. En concreto
+estudiarán: técnicas geomáticas de captura de
+datos; integración de datos y georreferenciación;
+tratamiento digital y análisis de imágenes;
+desarrollo de modelos digitales del terreno y de superficies.
+Finalmente abordarán la aplicación de los SIGs para
+las cartografías geoambientales.
+
+
+
+Teoría:
+
+
+Tema 1. Introducción a la Geomática.
+Técnicas geomáticas: captura de la
+información, tratamiento y modelización de la
+información, servicios y aplicaciones geoespaciales.
+Sistemas de referencia. Sistemas globales de posicionamiento y
+navegación por satélite (GNSS).
+
+Tema 2. Sistemas de Información
+Geográfica. Modelos de datos vectoriales y raster.
+Modelos Digitales del Terreno. Integración de los datos.
+Infraestructuras de Datos Espaciales. Servicios OGC. Servidores de
+mapas.
+
+Tema 3. Técnicas de captura y tratamiento de
+imágenes. Sensores remotos. Programas espaciales.
+Análisis digital de imágenes. Fotogrametría
+terrestre y aerotransportada. Sistemas aéreos no tripulados
+(UAV).
+
+Tema 4. Técnicas de captura y tratamiento de nubes
+de puntos. Sistemas LiDAR terrestres y aéreos de
+captura de nubes de puntos. Integración de nubes de puntos e
+imágenes.
+
+Tema 5. Cartografía ambiental.
+Análisis SIG en estudios del medio natural.
+Representación cartográfica. Productos
+analógicos y digitales. Mapas ambientales. Mapas de
+riesgos.
+
+
+Prácticas:
+
+
+Práctica 1. Tratamiento y análisis
+digital de imágenes de satélite.
+
+Práctica 2. Integración de datos y
+análisis SIG. Producción cartográfica.
+
+Práctica 3. Procesamiento y
+obtención de productos fotogramétricos.
+
+Práctica 4. Observaciones de campo, captura
+de datos y elaboración de cartografía geoambiental.
+Incluye una jornada de campo.
+'

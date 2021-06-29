@@ -1,0 +1,31 @@
+'
+
+1. Teledetección de alta resolución. Sensores,
+tratamiento de los datos. Aplicaciones.
+2. Fotogrametría Oblicua, Aplicaciones a la
+modelización urbana. Modelos 3D ciudad.
+3. Sistemas de objeto cercano. Adquisición y
+tratamiento de los datos.
+4. Sistemas láser instalados en plataformas
+aéreas (ALS) o terrestres, tanto estáticas (TLS) como
+móviles (MMS).
+5. Sistemas mixtos. Láser e imagen.
+6. Tratamiento de la información. Procedimientos de
+orientación y generación de productos (SfM).
+7. Integración de datos. Control de calidad.
+
+ 
+1. Teledetección de alta resolución. Sensores,
+tratamiento de los datos. Aplicaciones.
+2. Fotogrametría Oblicua, Aplicaciones a la
+modelización urbana. Modelos 3D ciudad.
+3. Sistemas de objeto cercano. Adquisición y
+tratamiento de los datos.
+4. Sistemas láser instalados en plataformas
+aéreas (ALS) o terrestres, tanto estáticas (TLS) como
+móviles (MMS).
+5. Sistemas mixtos. Láser e imagen.
+6. Tratamiento de la información. Procedimientos
+deorientación y generación de productos (SfM).
+7. Integración de datos. Control de calidad.
+'

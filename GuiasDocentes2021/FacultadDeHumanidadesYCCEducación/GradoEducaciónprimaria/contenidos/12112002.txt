@@ -1,0 +1,107 @@
+'
+
+Transformaciones geométricas planas. Problemas que
+resuelven de la vida cotidiana y relación de los contenidos
+geométricos con las otras áreas del curriculum.
+Enseñanza y aprendizaje de la Geometría
+Educación Primaria. Propuestas de
+enseñanza-aprendizaje, diseño y
+evaluación.
+
+CONTENIDOS DESARROLLADOS:
+Tema 1. La Geometría como disciplina científica.
+CFDD14
+1.1. La experiencia, la intuición y la lógica en
+la génesis de la Ciencia.
+1.2. Edificación racional de la Geometría.
+1.3. Definición de Geometría. Tipos de
+Geometrías. Referencias históricas.
+1.4. Axiomática. Los cuatro grupos fundamentales de
+axiomas.
+1.5. Axiomas de enlace o incidencia.
+1.6. Axiomas de ordenación.
+1.7. Axiomas de congruencia o movimiento.
+1.8. Axioma de paralelismo.
+ 
+Tema 2. Razonamiento espacial y Geometría. CFDD14;
+CFDD16
+2.1. La problemática de los conocimientos espaciales y
+los conocimientos geométricos.
+2.1.1. Dos tipos de problemas: problema espacial, problema
+geométrico.
+2.1.2. Las relaciones entre los conocimientos espaciales y los
+conocimientos geométricos.
+2.1.3. Dos problemáticas para la resolución de
+problemas espaciales.
+2.2. La enseñanza del espacio y la geometría en la
+escuela primaria.
+2.2.1. Conocimientos espaciales básicos y
+espacio-geométricos.
+2.3. La variable tamaño del espacio.
+2.3.1. El microespacio.
+2.3.2. El mesoespacio.
+2.3.3. El macroespacio.
+2.4. Situaciones y recursos.
+ 
+Tema 3. La Geometría de la igualdad. CFDD14; CFDD16;
+CFDD17
+3.1. Ángulos y triángulos.
+3.2. Perpendicularidad y paralelismo.
+3.3. Polígonos.
+3.4. Circunferencia y círculo.
+3.5. Áreas de polígonos.
+3.6. Áreas del polígono regular y del
+círculo.
+3.7. Resolución de problemas.
+3.8. Materiales didácticos para la enseñanza.
+Construcción y exploración de polígonos.
+ 
+Tema 4. La Geometría de la p roporcionalidad. CFDD14;
+CFDD16; CFDD17
+4.1. Segmentos proporcionales.
+4.2. Polígonos semejantes.
+4.3. Teorema de Thales.
+4.4. Triángulos en posición de Thales.
+4.5. Semejanza de triángulos: Criterios.
+4.6. Relaciones métricas en los triángulos.
+4.7. Resolución de problemas.
+4.8. Materiales didácticos para la enseñanza.
+ 
+Tema 5. Transformaciones del plano. CFDD14; CFDD16; CFDD17
+5.1. Transformaciones del plano.
+5.2. Simetrías de figuras. Generación de figuras
+simétricas.
+5.3. Traslación.
+5.4. Rotaciones.
+5.5. Composición de movimientos en el plano.
+5.6. Resolución de problemas.
+5.7. Materiales didácticos para la enseñanza.
+ 
+Tema 6. Geometría del espacio. CFDD14; CFDD16; CFDD17
+6.1. Poliedros. Sus elementos y clasificación.
+6.2. Prisma. Definiciones.
+6.3. Área y volumen del prisma.
+6.4. Pirámide. Definiciones.
+6.5. Área y volumen de una pirámide.
+6.6. Cilindro de revolución. Definiciones.
+6.7. Área y volumen del cilindro.
+6.8. Cono de revolución. Definiciones.
+6.9. Área y volumen del cono.
+6.10. Área y volumen de la esfera.
+6.11. Resolución de problemas.
+6.12. Materiales didácticos para la enseñanza.
+ 
+Tema 7. Aprendizaje y enseñanza de la Geometría en
+Educación Primaria. CFDD15; CFDD19
+7.1. La conducta de los estudiantes en Geometría.
+7.2. Aprendizaje y enseñanza de la Geometría,
+teorías de Piaget y Van Hiele.
+7.3. La modelización geométrica.
+7.4. El currículo de Geometría en Educación
+Primaria.
+7.4.1. La competencia matemática.
+7.4.2. Los contenidos de Geometría en el
+currículo.
+7.5. Recursos tecnológicos para la Geometría
+escolar.
+'

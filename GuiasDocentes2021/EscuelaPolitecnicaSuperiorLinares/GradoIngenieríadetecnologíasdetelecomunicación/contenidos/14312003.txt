@@ -1,0 +1,238 @@
+'
+
+Introducción a los conceptos necesarios para el
+desarrollo y estudio de sistemas de comunicaciones móviles.
+Descripción de los sistemas de comunicaciones móviles
+más relevantes: GSM, GPRS, UMTS, HSDPA, LTE, 5G.
+Se realizarán practicas sobre propagación de
+canales móviles, cálculos de coberturas mediante
+herramientas de planificación radio, y dimensionamiento de
+redes celulares
+
+En esta asignatura se dará al alumno una visión
+general de los sistemas de comunicaciones móviles,
+particularizando en aquellos que, por su importancia y uso,
+conforman el conjunto de sistemas más usados en la
+actualidad, sin olvidar la próxima generación de
+sistemas móviles.
+Además , se dotará al alumno de la capacidad para
+estar al día en las novedades en ciencia y
+tecnología, principalmente en este tipo de materias tan
+ligadas a un entono tan dinámico como son las
+telecomunicaciones.
+El programa se divide en dos partes:
+
+BLOQUE TEÓRICO:
+
+
+1. Introducción a los Sistemas Móviles de
+  Comunicaciones
+  
+
+
+Conceptos generales. 
+Estructura de un sistema de comunicaciones
+  móviles.
+Clasificación. Bandas de frecuencias.
+Cobertura, calidad y capacidad. 
+Evolución y panorámica del sector de las
+  comunicaciones móviles.
+
+ 
+
+2. Fundamentos de la interfaz radio
+
+
+Modelo energético. 
+Modulaciones utilizadas en comunicaciones
+  móviles. 
+Codificación de canal en comunicaciones
+  móviles. 
+Acceso múltiple y duplexación.
+
+
+3. Propagación en comunicaciones
+  móviles
+
+
+Caracterización del fenómeno de
+  propagación. 
+Atenuación. Modelos.
+Variabilidad de la propagación.
+Desvanecimiento por sombra.
+Desvanecimiento multitrayecto. Diversidad.
+  Distorsión.
+
+
+4. Sistemas celulares clásicos
+  (FDMA/TDMA)
+
+
+Concepto celular clásico.
+Estructura celular.
+Cálculo de interferencias. 
+Dimensionamiento. 
+Arquitectura general. Funciones relacionadas con la
+  movilidad.
+
+
+5. Sistema GSM
+
+
+Organismos de estandarización. Evolución de los
+  sistemas de comunicaciones móviles: generaciones. Origen
+  del GSM.
+Arquitectura de red. Entidades funcionales. Zonas e
+  identidades.
+Interfaz radio: características generales. Canales
+  físicos y lógicos. Estructura TDMA. Estructura de
+  las ráfagas.
+Modulación, codificación,
+  entrelazado. 
+Procesos asociados a la transmisión: avance temporal,
+  control de potencia, transmisión discontinua, salto de
+  frecuencia. 
+Protocolos. Gestión de recursos radio. Funcionamiento
+  de los canales radio. Gestión de movilidad. Gestión
+  de la comunicación. Servicios.
+Planificación. Balance de enlace.
+Evolución de GSM: HSCSD, EDGE.
+
+6 
+. Sistema GPRS
+
+Origen del GPRS.
+Arquitectura de la red GPRS. 
+Interfaz radio. Canales físicos y lógicos.
+  Estructura TDMA. 
+Métodos de codificación.
+Protocolos. Gestión de recursos radio, de movilidad y
+  de sesión. 
+Planificación.
+
+
+7. Sistemas celulares CDMA
+
+
+Fundamentos de espectro ensanchado. 
+Fundamentos de CDMA. 
+Características de los sistemas celulares CDMA.
+
+
+8. Sistema UMTS
+
+
+Origen del UMTS. Características de la Tercera
+  Generación.
+Arquitectura de la red UMTS. 
+Interfaz radio: características generales.
+  Ensanchamiento espectral. Canales físicos, lógicos
+  y de transporte. Estructura de tramas.
+Adaptación de tasa, modulación,
+  codificación, entrelazado. 
+Procesos asociados a la transmisión: control de
+  potencia, traspaso con continuidad, modo comprimido, uso de PCH y
+  PICH, uso de PRACH y AICH, diversidad de
+  transmisión. 
+Protocolos. Estados de conexión. Gestión de
+  movilidad. Servicios. 
+Capacidad en UMTS.
+Planificación. Caracterización del enlace
+  radio. Balances de enlace.
+
+
+9. Sistemas celulares: evolución de 3G
+
+
+OFDM.
+HARQ con combinación de retransmisiones.
+Adaptación al canal radio.
+Planificación de usuarios dependiente del canal
+  radio.
+MIMO.
+
+
+10. Sistema HSDPA
+
+
+Origen de HSDPA. Diferencias respecto a UMTS.
+Modificaciones en la red.
+Canales físicos.
+Modulación, codificación, adaptación de
+  tasa.
+Procesos asociados a la transmisión: HARQ con
+  combinación, adaptación de tasa binaria al estado
+  del canal, planificación de usuarios, traspaso.
+Protocolos.
+HSDPA+.
+Planificación.
+
+
+11. Sistema HSUPA
+
+
+Origen de HSUPA. Diferencias respecto a UMTS.
+Modificaciones en la red.
+Canales físicos. Ensanchamiento.
+Adaptación de tasa, codificación.
+Procesos asociados a la transmisión: HARQ con
+  combinación, planificación de usuarios,
+  elección del formato de transporte.
+Protocolos.
+Planificación.
+
+
+12. Sistema LTE
+
+
+Origen de LTE.
+Arquitectura de red.
+Interfaz radio: características generales. 
+Canales en la interfaz radio. 
+Transmisión multiantena, MBSFN.
+Procesos asociados a la transmisión: adaptación
+  de tasa binaria al estado del canal, control de potencia,
+  planificación de usuarios.
+Planificación radio.
+
+ 
+
+13. Introducción a 5G
+
+
+Introducción.
+Características de 5G.
+Modalidades de 5G. 
+Situación actual de 5G.
+
+
+SEMINARIO
+
+Seminario 1.- Seminario sobre Software Defined Radio (SDR).
+ 
+
+BLOQUE PRÁCTICO
+
+El bloque práctico de la asignatura se compone de
+prácticas en el laboratorio, y su carácter es
+obligatorio.
+Se usarán los conceptos teóricos estudiados para
+planificar y caracterizar el funcionamiento de un sistema de
+comunicaciones móviles.
+Además, se desarrollarán  habilidades de
+comunicar información, ideas, problemas y soluciones en el
+ámbito de ingeniería y la sociedad en general a
+través de procesos de entrega de documentación o
+presentaciones orales.
+Con  respecto a la organización del trabajo, se
+fomentará la colaboración y trabajo en equipo a
+través del propio diseño de las prácticas.
+Práctica 1.- Práctica con la tarjeta BladeRF
+(Software Defined Radio). Uso de GNU-Radio.
+Práctica 2.- Estudio comparativo de los modelos de
+propagación usando Matlab.
+Práctica 3.- Familiarización y uso del software
+profesional XIRIOonline.
+ 
+ 
+'

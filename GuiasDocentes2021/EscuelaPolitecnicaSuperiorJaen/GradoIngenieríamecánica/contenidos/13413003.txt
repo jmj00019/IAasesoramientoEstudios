@@ -1,0 +1,68 @@
+'
+
+El material Hormigón Armado: Componentes,
+dosificación, propiedades y ensayos.
+Puesta en Obra: Adherencia, disposición, anclajes y
+empalmes. Preparación y transporte del hormigón.
+Colocación y curado.
+Cálculo en Estados Límite: Calculo de secciones
+en Estados Límite Últimos. Cuantías. Diagramas
+de pivotes y de interacción. Utilización de tablas,
+ábacos y diagramas adimensionales. Cálculo a
+pandeo. Cálculo a cortadura. Estados
+Límite de Servicio.
+Otros Elementos Estructurales de Hormigón Armado:
+Cimentaciones Superficiales, Forjados, Muros de Contención
+de Tierras. Depósitos, Pavimentos
+de Hormigón.
+
+
+BLOQUE TEMÁTICO A:MATERIALES, EJECUCIÓN Y
+  PRINCIPIOS GENERALES DE CÁLCULO
+
+ 
+Tema 1.- Principios fundamentales.
+Tema 2.- Cementos.
+Tema 3.- Agua, áridos y aditivos.
+Tema 4.- Armaduras.
+Tema 5.- Propiedades del hormigón.
+Tema 6.- Ensayos del hormigón.
+Tema 7.- Adherencia. Disposición, anclaje y empalme de
+armaduras.
+Tema 8.- Preparación y transporte del
+hormigón.
+Tema 9.- Colocación y curado del hormigón.
+Tema 10.- La seguridad en las estructuras.
+Tema 11.- Teoría de los estados límite. Bases de
+cálculo.
+Tema 12.- Características de los materiales.
+ 
+
+BLOQUE TEMÁTICO B: CÁLCULO EN ESTADOS
+  LÍMITE.
+
+
+ 
+
+Tema 13.- Cálculo de secciones en
+agotamiento.Cuantías límites de armaduras.
+Tema 14.- Hipótesis básicas. Diagrama de
+pivotes.
+Tema 15.- Diagramas de interacción.
+Tema 16.- Tablas, ábacos y diagramas adimensionales.
+Tema 17.- Consideraciones generales sobre pandeo.
+Tema 18.- Métodos prácticos de cálculo a
+pandeo.
+Tema 19.- Esfuerzo cortante.
+Tema 20.- Estados límite de servicio.
+ 
+
+BLOQUE TEMÁTICO C: ELEMENTOS ESTRUCTURALES
+
+ 
+Tema 21.- Cimentaciones superficiales.
+Tema 22.- Forjados.
+Tema 23.- Muros de contención de tierras.
+Tema 24.- Depósitos.
+Tema 25.- Pavimentos de hormigón.
+'

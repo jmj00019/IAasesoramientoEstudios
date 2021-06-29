@@ -1,0 +1,127 @@
+'
+
+Materiales para la Ingeniería.
+Tecnología de la fabricación.
+Comportamiento en servicio.
+Control de Calidad.
+
+BLOQUE 1: MATERIALES PARA LA INGENIERÍA
+BLOQUE 2: PROCESOS DE CONFORMACIÓN
+BLOQUE 3: COMPORTAMIENTO EN SERVICIO
+BLOQUE 4: CONTROL DE CALIDAD
+BLOQUE 1: MATERIALES PARA LA INGENIERÍA
+Tema 1.ACEROS Y SU TRATAMIENTO TÉRMICO.
+Estructuras cristalinas y sol.sol. en el Fe. Diagrama Fe-C.
+Influencia de elementos de aleación. Transformaciones de la
+austerita. Tratamientos térmicos: recocidos, normalizado,
+temples y revenidos.Tratamientos termoquímicos/superficiales
+e isotérmicos. Aceros al carbono. Aceros de baja
+aleación. Aceros de baja/media aleación.
+Tema 2. ACEROS DE ALTA ALEACIÓN.
+Aceros inoxidables. Sistema Fe-Cr. Influencia del Cr, C, Ni y
+otros. Ac. Inox. Martensíticos. Ac. Inox. Ferríticos.
+Ac. Inox. Austeníticos. Ac. Inox. Austenoferríticos.
+Ac. PH. Ac. Maraging. Ac. TRIP. Aceros de herramientas. Aceros
+rápidos. Otros tipos de Aceros.
+Tema 3. FUNDICIONES FÉRREAS.
+Diagrama de equilibrio estable Fe-Grafito. Fases y
+microconstituyentes en las fundiciones. Tipos de fundiciones.
+Tratamientos térmicos. Influencia de la composición
+química y de la velocidad de enfriamiento. Fundiciones:
+blanca, maleables, grises y esferoidal.
+Tema 4.MATERIALES METÁLICOS NO FÉRREOS.
+El cobre y sus aleaciones. Latones y bronces. Aleaciones
+ligeras: El aluminio y sus aleaciones. Otros metales y aleaciones
+ligeras. Otras aleaciones no férreas de amplio uso
+industrial.
+Tema 5. MATERIALES NO METÁLICOS. MATERIALES
+COMPUESTOS.
+Cerámica tradicional y cerámica moderna.
+Materiales cerámicos: vidrios, productos de la arcilla,
+refractarios, abrasivos, cementos y cerámicas avanzadas.
+Materiales poliméricos. Tipos: termoplásticos de uso
+general, plásticos ingenieriles, polímeros
+termoestables y elastómeros. Materiales compuestos.
+BLOQUE 2: PROCESOS DE CONFORMACIÓN
+Tema 6. CONFORMADO POR MOLDEO.
+Macroestructura de solidificación. Estructura granular.
+Contracción de solidificación: rechupes. Efecto de
+los gases. Aceros calmados y efervescentes. Aptitud para el moldeo.
+Heterogeneidades químicas: segregaciones.
+Solidificación por zonas.
+Tema 7. CONFORMADO POR DEFORMACIÓN PLÁSTICA DE LOS
+METALES.
+Efectos de la deformación plástica sobre las
+propiedades de los metales. Trabajo en frío y en caliente.
+Hechurado en frío. Recocido contra acritud. Texturas de
+deformación. Hechurado en caliente: efecto de la velocidad
+de deformación. Afino de grano en la forja en caliente.
+Laminación controlada. Defectología asociada a las
+piezas conformadas por deformación plástica.
+Tema 8.CONFORMADO POR SINTERIZACIÓN.
+Principales tipos de materiales sinterizados.
+Características de los polvos. Fabricación de los
+polvos. Procesado convencional. Teoría del prensado.
+Sinterización de materiales monofásicos.
+Sinterización en fase líquida. Características
+de los compactos finales. Modernas tecnologías en
+pulvimetalurgia.
+Tema 9.TÉCNICAS DE UNIÓN.
+Métodos de unión. Unión por adhesivos.
+Factores de adhesión. Tipos de adhesivos. Soldadura de
+metales. Factores metalúrgicos en la soldadura. Soldabilidad
+de los aceros. Carbono equivalente. Soldadura de los
+termoplásticos. Sellantes.
+BLOQUE 3: COMPORTAMIENTO EN SERVICIO
+Tema 10. DETERIORO DE LOS MATERIALES. CORROSIÓN.
+Tipos de fallos. Corrosión seca y húmeda.
+Corrosión a alta temperatura. Fundamento de los
+fenómenos de corrosión húmeda. Formas de la
+corrosión. Protección contra la corrosión.
+Degradación de cerámicas y polímeros.
+Daño por radiación.
+Tema 11. FATIGA.
+Tensiones cíclicas. Ensayos de fatiga. Curvas de fatiga.
+Límite de fatiga. Iniciación y propagación de
+grietas. Fractografía de las roturas. Factores influyentes
+sobre la resistencia a la fatiga.
+Tema 12. TERMOFLUENCIA.
+Concepto. Ensayos. Mecanismos de creep en los metales.
+Predicción del comportamiento. Diseño de materiales
+metálicos refractarios. Materiales para alta temperatura.
+Comportamiento de cerámicas y plásticos.
+Tema 13. FRICCIÓN Y DESGASTE.
+Fricción. Coeficiente de rozamiento. Desgaste. Mecanismos
+de desgaste. Ensayos de desgaste. Protección contra la
+fricción y el desgaste.
+Tema 14. FRACTURA.
+Tipos de fractura. Fractura frágil. Teoría de
+Griffith. Fractura frágil en materiales cristalinos.
+Mecánica de la fractura. Tenacidad de fractura. Importancia
+de la tenacidad de fractura en el diseño. Fractura
+dúctil. Teorías de iniciación de las grietas.
+Fractografía. Materiales resistentes a bajas
+temperaturas.
+BLOQUE 4: CONTROL DE CALIDAD
+Tema 15. CALIDAD. INSPECCIÓN. ENSAYOS.
+Calidad. Especificaciones técnicas. Normalización.
+Inspección. Ensayos no destructivos. Líquidos
+penetrantes. Métodos magnéticos. Inspección
+por ultrasonidos. Radiografía industrial. Otros END.
+PRÁCTICAS
+Práctica 1. Procesos de deformación
+plástica en metales
+Práctica 2. Metalografía de aleaciones
+industriales.
+Práctica 3. Defectología de uniones soldadas.
+Inspección por Rayos X Microestructura de las uniones
+soldadas
+Práctica 4. Inspección por ultrasonidos
+Práctica 5. Inspección por líquidos
+penetrantes.
+Práctica 6. Ensayos en polímeros
+Práctica 7. Ensayos en cerámicas
+ 
+ 
+ 
+'

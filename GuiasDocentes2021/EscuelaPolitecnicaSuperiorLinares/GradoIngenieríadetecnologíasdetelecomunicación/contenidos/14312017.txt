@@ -1,0 +1,137 @@
+'
+
+La asignatura comienza con un análisis de sistemas
+mediante la transformada z introduciendo los sistemas inverso, paso
+todo, de fase mínima y de fase lineal generalizada. Tras
+esta revisión se tratan los filtros digitales, tanto sus
+estructuras de implementación como los métodos de
+diseño más comunes. El siguiente bloque versa sobre
+el análisis espectral, se revisan los métodos no
+paramétricos basados en la DFT para, a continuación,
+explicar con detalle los métodos paramétricos basados
+en modelos. Después, se estudia la predicción lineal
+analizando las soluciones basadas en el gradiente a este problema
+para introducir el filtrado lineal adaptativo. Se tratan casos
+prácticos y aplicaciones reales de cada una de las
+técnicas estudiadas. Por último, se realizan
+simulaciones en relación al contenido teórico como la
+programación de un analizador espectral de voz en tiempo
+real o de un igualador de canales.
+Palabras Clave: polo, cero, plano Z, filtro FIR, filtro IIR,
+ventana de Kaiser, método Parks-McClellan, estructuras de
+implementación, efectos numéricos de precisión
+finita, modelos ARMA, filtro de Wiener, LMS.
+
+
+CONTENIDOS TEÓRICOS
+
+
+TEMA 1: INTRODUCCIÓN AL PROCESADO DIGITAL DE
+  SEÑALES
+
+
+ Tipos de señales
+Señales en tiempo discreto: secuencias discretas
+Sistemas en tiempo discreto: propiedades
+
+
+TEMA 2: LA TRANSFORMADA Z
+
+
+La transformada Z directa y su ROC.
+Relación entre la transformada Z y la transformada de
+  Fourier.
+Propiedades de la transformada Z.
+La transformada Z inversa.
+Transformadas Z racionales. Polos y ceros.
+
+
+TEMA 3: ANÁLISIS EN EL DOMINIO
+TRANSFORMADO
+ Z DE SISTEMAS LTI
+
+Distorsión de amplitud y fase en filtros
+  digitales.
+Sistemas de ecuaciones en diferencias con coeficientes
+  constantes.
+Tipos de sistemas en tiempo discreto: inverso, paso-todo, de
+  fase mínima y de fase lineal.
+Sistemas de fase lineal generalizada.
+
+
+TEMA 4: FILTROS DIGITALES: MÉTODOS DE
+  DISEÑO
+
+
+Diseño de filtros IIR en tiempo discreto.
+Diseño de filtros FIR mediante enventanado: ventana de
+  Kaiser y algoritmo Parks-McClellan.
+Aplicaciones: filtros paso bajo, paso alto, paso banda y
+  multibanda.
+
+
+TEMA 5: FILTROS DIGITALES: ESTRUCTURAS DE
+  IMPLEMENTACIÓN
+
+
+Realización de sistemas. Representación
+  mediante grafos.
+Estructuras IIR: formas directa, en paralelo, en cascada y
+  traspuesta.
+Estructuras FIR: formas directa, en cascada, para fase
+  lineal, para interpolación y diezmado y en
+  celosía.
+Revisión de los efectos numéricos de
+  precisión finita: cuantificación de coeficientes,
+  ruido de redondeo, desbordamiento y ciclos límite.
+Criterios de selección entre diferentes
+  estructuras.
+
+
+TEMA 6: ANÁLISIS ESPECTRAL
+
+
+Planteamiento del problema. Estimación de la
+  correlación.
+Métodos clásicos. Análisis espectral de
+  señales deterministas con DFT. Comparación de
+  diferentes ventanas. Estimación directa del espectro de
+  potencia con DFT: Periodograma.
+Métodos paramétricos. Modelos: AR, MA y ARMA.
+  Solución de las ecuaciones.
+Aplicaciones.
+
+
+TEMA 7: PREDICCIÓN LINEAL
+
+
+Modelo de predicción lineal.
+Estructura en celosía.
+Algoritmo de Levinson-Durbin para la resolución de
+  ecuaciones normales.
+Aplicaciones.
+
+
+TEMA 8: FILTRADO ADAPTATIVO
+
+
+Configuración general. 
+El algoritmo LMS.
+Aplicaciones.
+
+
+PRÁCTICAS
+
+Práctica 1. Las señales discretas.
+Práctica 2. La transformada Z y sus aplicaciones.
+Práctica 3. Filtros digitales.
+Práctica 4. Efectos de precisión finita en filtros
+digitales.
+Práctica 5. Estimación espectral
+paramétrica. El vocoder de voz.
+Práctica 6. Filtrado adaptativo.
+ 
+
+ 
+
+'

@@ -1,0 +1,110 @@
+'
+
+Principios de teoría de la medida y equipos de
+medida.
+Principios sobre sistemas de adquisición de datos
+Sensores y transductores
+Circuitos de acondicionamiento para instrumentación de
+medida electrónica.
+Circuitos de conversión de datos.
+ 
+
+
+ 
+
+Programa
+de Teoría
+
+ 
+
+Tema
+1: Introducción a los sistemas de
+medida.
+
+Estructura
+  y componentes de un sistema de medida. Instrumentos como sistemas
+  de medida.
+
+
+ 
+
+Tema
+2: Instrumentos de medida electrónicos
+
+Consideraciones
+  de aplicación, diseño y operación con
+  Multímetros Digitales, Osciloscopios Digitales y otros
+  instrumentos electrónicos.
+
+
+ 
+
+Tema
+3: Acondicionadores de señal
+
+Amplificación
+  y circuitos con amplificadores operacionales. Amplificadores de
+  instrumentación. Circuitos de medida: Rectificación
+  activa, medida AC/DC, Valor medio, de pico, eficaz. Circuitos de
+  conversión: Tensión/ Corriente (V/I),
+  Corriente/Tensión (I/V),
+
+
+
+Tema
+  4: Medición de variables físicas.
+
+
+
+ 
+(Transductores y sensores) Principios de funcionamiento.
+Características estáticas y dinámicas.
+Circuitos de medida.
+
+ 
+
+Tema
+5: Conversión de señal
+
+Fundamentos
+  Muestreo y retención. Multiplexión.
+  Conversión Analógico/Digital (A/D) y Digital/
+  analógica (D/A).
+
+
+ 
+
+Tema
+6: Introducción a los sistemas de adquisición de
+datos.
+
+Constitución
+  de sistemas de adquisición de datos. Tipos de SAD's.
+  Adquisición de datos mediante P.C.`s,
+
+
+ 
+
+ 
+ Tema 7: Ruido e interferencias en los sistemas de
+instrumentación electrónica
+
+ 
+
+Programa
+de PRÁCTICAS:
+-
+
+ P1-P2
+Diseño de circuitos de medida y adaptación de
+señal.
+P3-P4
+Cálculo y diseño de circuitos atenuadores,
+amplificadores, valor eficaz, convertidores V/I - I/V, etc.
+P5-P7
+Acondicionamiento de señal: diferencial y amplificador de
+instrumentación.
+P8-P10
+Diseño de sistemas de medida de variables físicas
+mediante transductores de temperatura, luminosidad, etc.
+'

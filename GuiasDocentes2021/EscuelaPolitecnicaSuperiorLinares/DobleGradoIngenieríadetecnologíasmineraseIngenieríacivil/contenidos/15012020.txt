@@ -1,0 +1,151 @@
+'
+
+Cartografía temática: cartografía para la
+ordenación del territorio, urbanismo, recursos naturales y
+medio ambiente. Planes de Ordenación Territorial.
+Integración ambiental y paisajística de las
+infraestructuras en su entorno.
+
+
+
+
+TEORIA
+
+  
+
+
+
+
+
+
+BLOQUE I: CARTOGRAFÍA
+  TEMÁTICA.
+
+
+
+Tema 1.- INTRODUCCIÓN A LA CARTOGRAFÍA
+  TEMÁTICA
+
+
+
+Tema 2.- LAS VARIABLES VISUALES
+
+
+
+Tema 3.- CARTOGRAFÍA
+  TEMÁTICA
+
+
+3.1. Cartografía
+  temática cualitativa.
+   3.2. Cartografía temática
+  cuantitativa.
+
+
+
+Tema 4.- SIMBOLIZACIÓN CARTOGRÁFICA
+  
+
+
+
+Tema 5.- ELEMENTOS DE UN MAPA
+  TEMÁTICO
+
+
+
+BLOQUE II: ORDENACIÓN DEL
+  TERRITORIO. PLANIFICACIÓN Y
+  URBANISMO.
+
+
+
+Tema 6-
+LA ORDENACIÓN DEL TERRITORIO
+
+
+6.1. La ordenación del
+  territorio.
+   6.2. Legislación sobre ordenación del
+  territorio.
+   6.3. La planificación territorial.
+
+
+
+Tema 7.- EL SISTEMA TERRITORIAL.
+  
+
+
+7.1. Subsistema medio
+  físico - natural.
+   7.2. Subsistema núcleos e infraestructuras.
+   7.3. Subsistema población y actividades.
+   7.4. Ordenación del territorio en
+  Andalucía
+
+
+
+Tema 8.- DIAGNÓSTICOS DE POTENCIALIDADES.
+  TÉCNICAS DE VALORACIÓN Y
+  DIAGNOSTICO.
+
+
+
+Tema 9.- CONCEPTO DE URBANISMO
+
+
+9.1. La ordenación
+  urbanística.
+   9.2. Ordenación urbanística en
+  Andalucía.
+   9.3. Regimen urbanístico del suelo.
+   9.4. La disciplina urbanística.
+
+
+ 
+
+
+
+
+BLOQUE III:
+  INTEGRACIÓN AMBIENTAL.
+
+
+
+Tema 10.- IMPACTO AMBIENTAL. INGENIERÍSA DEL
+  PAISAJE.
+
+
+ 
+
+
+ 
+
+
+
+TEMARIO DE PRÁCTICAS
+
+
+
+PRÁCTICA 1. TRATAMIENTO DE DATOS EN
+  CARTOGRAFÍA TEMÁTICA
+
+
+
+PRÁCTICA 2. GENERACIÓN DE
+  CARTOGRAFÍA TEMÁTICA.
+
+
+
+PRÁCTICA 3. PLANIFICACIÓN
+  TERRITORIAL.
+
+
+
+
+
+3.1. Resolución de un caso
+(ejemplo)
+
+3.2. Ejercicio final de
+planificación territorial.
+'

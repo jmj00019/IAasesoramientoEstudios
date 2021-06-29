@@ -1,0 +1,405 @@
+'
+
+Termodinámica Técnica. Ciclos
+termodinámicos avanzados de potencia y refrigeración.
+Tecnologías
+Introducción a las turbomáquinas
+térmicas
+Generación de calor. Procesos, caracterización
+y tecnologías
+Complementos de termotecnia.
+Cargas térmicas y Psicrometría.
+Diseño de intercambiadores de calor
+
+
+
+TEMA 1: FUENTES DE
+  ENERGÍA PARA USO TÉRMICO     
+   
+
+
+1.1.- Introducción. 
+  1.2.- Características de los combustibles fósiles y
+  biomásicos.1.2.1.- Análisis inmediato. 1.2.1.1.-
+  Densidad. 1.2.1.2.- Humedad. 1.2.1.3.- Materias volátiles.
+  1.2.1.4.- Contenido en carbono. 1.2.1.5.- Cenizas. 1.2.2.-
+  Análisis elemental. 1.2.3.- Otras propiedades. 1.2.3.1.-
+  Poder calorífico. 1.2.3.2.- Exergía química.
+  1.2.3.3.- Viscosidad. 1.2.3.4. Limites de inflamabilidad.
+  1.2.3.5.- Temperatura de inflamación y de ignición.
+  1.2.3.6.- Temperatura teórica de la combustión.
+  1.3.- Combustibles sólidos. 1.3.1.- Combustibles
+  sólidos naturales. 1.3.1.1.- Biomasa. 1.3.1.2.-  El
+  carbón. 1.3.2.- Combustibles sólidos artificiales.
+  1.4.- Combustibles líquidos. 1.4.1.- Actividades de los
+  hidrocarburos. 1.4.2.- Otros combustibles líquidos. 1.5.-
+  Combustibles gaseosos. 1.5.1.- Tipos de gases combustibles.
+  1.5.1.1.- Gas Natural (GN). 1.5.1.2.- Gases Licuados del
+  Petróleo (GLP). 1.5.1.3.- Aire propanado. 1.5.1.4.- Gases
+  Manufacturados (GAS CIUDAD). 1.5.1.5.- Gasificación del
+  carbón. 1.6.- Biomasa. 1.6.1.- Tipos de biomasa. 1.6.1.1.-
+  Cultivos energéticos y excedentes agrícolas.
+  1.6.1.2.- Residuos biodegradables. 1.6.1.3.- Residuos urbanos.
+  1.7.- Almacenamiento, transporte y distribución de los
+  combustibles. 1.7.1.- Combustibles sólidos. 1.7.2.-
+  Combustibles líquidos. 1.7.3.- Combustibles gaseosos.
+  1.8.- Combustibles nucleares. 1.8.1.- El uranio. 1.8.2. - El
+  plutonio. 1.8.3.- Ciclo de combustible. 1.8.3.1. Materias primas
+  y concentraciones. 1.8.3.2.- Conversión. 1.8.3.3.-
+  Enriquecimiento. 1.8.3.4.- Refino o reconversión.
+  1.8.3.5.- Fabricación. 1.8.3.6.- Quemado en el reactor.
+  1.8.3.7.- Almacenamiento. 1.8.3.8.- Reelaboración.
+  1.8.3.9.- Refabricación. 1.8.3.10.- Gestión de
+  residuos. 1.8.4.- Almacenamiento de residuos radiactivos. 1.9.-
+  Energía solar. 1.10.- Energía geotérmica.
+  1.11.- Fusión nuclear. 1.12. Otras fuentes de
+  energía. 1.13.- Evaluación de energía
+  primaria.
+
+
+
+TEMA 2: SISTEMAS PARA
+  TRANSFORMACIONES TÉRMICAS I 
+
+2.1.-
+Balances y rendimientos de equipos de sistemas. 2.1.1.-
+Producción de calor y frío. 2.1.2.- Balances y
+rendimientos en plantas de potencia. 2.2.- Quemadores. 2.2.1.-
+Quemadores de combustibles sólidos. 2.2.1.1.-
+Combustión sobre parrillas. 2.2.1.2.- Combustión del
+carbón pulverizado. 2.2.1.3.- Combustión en lecho
+fluido. 2.2.2.- Quemadores para combustibles líquidos.
+2.2.3.- Quemadores para combustibles gaseosos. 2.2.4.- Llamas.
+2.2.5.- Rendimiento de la combustión. 2.3.- Hogares. 2.3.1.-
+Temperaturas y Rendimiento. 2.4.- Hornos industriales. 2.5.-
+Secaderos. 2.6.- Calderas. 2.4.1.- Calderas de vapor. 2.4.2.-
+Calderas de fluido térmico y agua sobrecalentada. 2.4.3.-
+Calderas de condensación. 2.4.4.- Calderas de
+recuperación de calor residual. 2.4.5.- Evaluación
+del rendimiento de las calderas. Método indirecto.
+2.5.-  Tiro y chimeneas. 2.6.- Almacenamiento del calor ( y
+frio). 2.7. Torres de refrigeración. 2.7.1.- Elementos
+principales de una torre evaporativa. 2.7.1.1.- Separador de gotas
+de agua. 2.7.1.2.- Entrada y pulverización de agua caliente.
+2.7.1.3.- Relleno. 2.7.1.4.- Depósito de agua fría o
+aljibe. 2.8.- Frío industrial y aire acondicionado. 2.8.1.-
+Refrigeración sin compresor. 2.8.2.- Ciclos
+criogénicos. 2.9.- Intercambiadores de calor. 2.10.-
+Transporte y distribución del calor y frío.
+
+
+TEMA 3: SISTEMAS PARA
+TRANSFORMACIONES TÉRMICAS II
+ 
+
+3.1.- Calderas de vapor. 3.1.1.-
+  Generador de vapor. 3.1.2.- Sobrecalentador y recalentador.
+  3.1.3.- Precalentadores del agua de alimentación. 3.1.4.-
+  Calentador de aire para la combustión. 3.1.5.- Accesorios
+  en el circuito de agua en las calderas de vapor. 3.1.6.-
+  Circuitos adicionales en calderas de vapor. 3.2.- Reactores
+  nucleares. 3.2.1.- Objeto y composición del reactor.
+  3.2.1.1.- Moderador. 3.2.1.2.- Disposición del combustible
+  en el reactor. 3.2.1.3.- Refrigerante. 3.2.1.4.- Reflector.
+  3.2.1.5.- Barras o varillas de control. 3.2.1.6.- Otras
+  consideraciones. 3.2.2.- Clasificación de los reactores
+  nucleares de fisión. 3.3.- Obtención de calor por
+  energía solar. 3.3.1.- Sistemas para baja temperatura.
+  3.3.1.1.- Subsistema colector. 3.3.1.2.- Subsistema de
+  almacenamiento-intercambio. 3.3.1.3.- Consideraciones al
+  diseño. 3.3.2.- Media temperatura. 3.3.3.- Energía
+  solar de elevada temperatura. 3.3.4.- Circuito HTF en centrales
+  termosolares. 3.4.- Centrales térmicas de vapor. 3.4.1.
+  Elementos adicionales del circuito agua-vapor. 3.5.- Turbinas de
+  gas. 3.5.1.- Balance energético y rendimientos. 3.5.2.-
+  Ciclo mixto turbina de gas-turbina de vapor (centrales de ciclo
+  combinado).
+
+
+
+TEMA 4: PRODUCCIÓN DE
+CALOR
+         
+                 
+               
+  
+
+4.1.- Introducción. 4.2.-
+  Combustión. 4.2.1.- Aire mínimo para la
+  combustión. 4.2.2.- Coeficiente de exceso de aire. 4.2.3.-
+  Volumen y composición de los humos. 4.2.4.- Diagramas de
+  la combustión. 4.2.4.1.- La recta de la combustión
+  completa. 4.2.4.2.- El triángulo de la combustión
+  incompleta. 4.2.4.3.- Empleo del triángulo de la
+  combustión. 4.4.4.- Tipos de diagramas de
+  combustión. 4.2.5.- Exergía química.
+  4.2.5.1.- Exergía química en sistemas no reactivos.
+  4.2.5.2.- Exergía en sistemas reactivos. 4.2.6.-
+  Rendimiento de la combustión. 4.2.7.- Intercambio de calor
+  y rendimiento del sistema completo de generación de calor.
+  4.3.- Obtención de energía térmica por
+  reacciones nucleares. 4.3.1.- Fundamentos. 4.3.1.1.-
+  Constitución de la materia. La radiactividad. 4.3.1.2.-
+  Leyes fundamentales de la radiactividad y series radiactivas.
+  4.3.1.3.- Defecto de masa - energía de enlace. 4.3.2.-
+  Reacciones nucleares. 4.3.2.1.- Sección eficaz. 4.3.2.2.-
+  La Fisión. Reacción en cadena en el reactor
+  nuclear. 4.3.3.- Generación de calor por reacciones de
+  fisión. 4.3.4.- Termotransferencia a lo largo del
+  núcleo. 4.4.- Obtención de calor por energía
+  solar. 4.4.1. Radiación sobre superficie horizontal.
+  4.4.2.- Radiación solar sobre superficie inclinada.
+  4.4.3.- Factores para seguimiento de la trayectoria solar.
+  4.4.4.- Balances energéticos y rendimiento de sistemas
+  solares térmicos.
+
+
+
+TEMA 5: COMPLEMENTOS DE
+TERMODINÁMICA
+
+             
+ 
+5.1.-
+Introducción. 5.2.- Ciclos avanzados de potencia con vapor.
+5.2.1.- Ciclo de Rankine con recalentamiento intermedio. 5.2.2.-
+Ciclo ideal de Rankine con regeneración. 5.2.3.- Otras
+consideraciones. 5.3.- Ciclos avanzados de potencia de gas. 5.3.1.-
+Ciclo Brayton regenerativo. 5.3.2.- Motores de turbinas de gas
+regenerativa con recalentamiento. 5.3.3.- Motores de turbinas de
+gas regenerativa con refrigeración. 5.3.4.- Motores de TG
+con refrigeración, recalentamiento y regeneración.
+5.4.- Ciclos avanzados de refrigeración. 5.4.1.-
+Método de cascada sin intercambio másico. 5.4.2.-
+Método de cascada con intercambio másico. 5.4.3.-
+Método de multicompresión con refrigeración
+intermedia. 5.4.4.- Sistemas de refrigeración sin compresor.
+5.4.4.1.- Refrigeración por eyección de vapor
+(refrigeración por vacío). 5.4.4.2.-
+Refrigeración por absorción. 5.4.5.- Ciclos
+criogénicos. 5.4.5.1.- Ciclo Linde (de
+refrigeración). 5.4.5.2.- Ciclo Linde para
+licuefacción del aire. 5.4.5.3.- Licuefacción con
+obtención de trabajo (Ciclo Claude). 5.5.- Análisis
+de flujo transitorio. 5.5.1.- Conservación de la masa.
+5.5.2.- Conservación de la energía. 5.5.3.- Caso
+especial: Procesos de flujo uniforme. 5.5.4.- Segundo principio en
+sistemas de flujo transitorio. 5.5.4.1.- Procesos de flujo
+uniforme. 5.5.4.2.- Procesos generales de flujo no permanente.
+5.5.5.- Aplicación del régimen transitorio en
+calderínes.
+
+
+TEMA 6:
+PSICROMETRÍA
+         
+                 
+                 
+               
+ 
+6.1.-
+Psicrometría. Mezcla de gas-vapor. 6.2.- Aire seco y
+atmosférico. 6.3.- Humedad específica y relativa del
+aire. 6.4.- Temperatura de punto de rocío. 6.5.-
+Saturación adiabática y temperatura de bulbo
+húmedo. 6.6.- Diagrama psicrométrico. 6.7.-
+Análisis de procesos de acondicionamiento de aire. 6.11.1.-
+Calentamiento y enfriamiento simples. 6.11.2.- Calentamiento con
+humidificación. 6.7.3.- Enfriamiento con
+deshumidificación. 6.7.4.- Enfriamiento evaporativo. 6.7.5.-
+Mezcla adiabática de corrientes de aire húmedo.
+6.7.6.- Torres de refrigeración. 6.8.- Equipos de aire
+acondicionado. 6.9.- Instalaciones de aire acondicionado. 6.10.-
+Cálculo de instalaciones. 6.10.1.- Acondicionamiento de aire
+en invierno sin recirculación. 6.10.2.- Acondicionamiento de
+aire en invierno con recirculación. 6.10.3.-
+Acondicionamiento de aire en verano sin recirculación.
+6.10.4.- Acondicionamiento de aire en verano con
+recirculación.
+
+
+TEMA 7: CARGAS
+  TÉRMICAS 
+
+
+7.1.- Introducción. 7.2.-
+Cálculo de la demanda energética  de
+verano.
+7.2.1.- Condiciones del proyecto.
+7.2.1.1.- Condiciones exteriores del proyecto.
+7.2.1.2.- Condiciones interiores
+del proyecto. 7.2.1.3.- Otras condiciones a tener en cuenta.
+7.2.2.- Composición de la carga térmica (verano).
+7.2.2.1.- Partidas de calor sensible. 7.2.2.2.- Partidas de calor
+latente. 7.2.2.3.- Partida aportadas por el aire de
+ventilación. 7.2.3.1.-Calor sensible por 
+radiación solar en vidrios, ventanas y claraboyas (A1).
+7.2.3.2.- Calor sensible de radiación y transmisión
+por paredes y techos (A2). 7.2.3.3.- Calor sensible a través
+de paredes y techos no exteriores (Partida A3). 7.2.3.4.- Calor
+sensible debido al aire de infiltraciones (Partida A4).
+7.2.3.5.-Calor sensible generado por las personas que ocupan el
+local (Partida A5). 7.2.3.6.- Calor sensible debido a la
+iluminación del local (Partida A6). 7.2.3.7.- Calor sensible
+generado por los motores instalados en el local  (Partida A7).
+7.2.3.8.- Calor latente introducido por el aire de las
+infiltraciones (Partida B1). 7.2.3.9.- Calor latente generado por
+las personas que ocupan el local (Partida B2). 7.2.3.10.- Calor
+latente generado por otras causas (Partida B3). 7.2.4.- Aportes de
+calor sensible  y calor latente [(A8)  y  (B4)] al
+local procedentes del aire de ventilación. 7.2.5.-
+Cálculo de la carga suplementaria. 7.2.5.1.- Calor sensible
+generado por el ventilador de impulsión. 7.2.5.2.- Calor
+generado por las ganancias en los conductos.
+7.2.5.3.- Compensación por
+fugas en la impulsión. 7.2.5.4.- Recalentamiento y entradas
+de aire en los conductos de retorno.
+7.2.6.-Cálculo de las
+cargas totales
+efectivas de verano. 7.2.6.1.-
+Acumulación de calor radiante en las estructuras. 7.2.7.-
+Hoja de carga.
+7.3.-
+Cálculo de cargas
+térmicas de invierno. 7.3.1.- Perdidas de calor por
+transmisión a través de cerramientos externos.
+7.3.1.1.- Ventanas y puertas. 7.3.1.2.- Suplementos por
+interrupción nocturna del servicio y por orientación.
+7.3.2.- Pérdidas de calor por causa del aire. 7.3.2.1.-
+Infiltraciones. 7.3.3.- Ganancias de calor. 7.3.4.- Carga
+térmica total de calefacción. 7.3.4.1.-
+Humidificación cuando el aire tratado es en parte de
+recirculación. 7.3.4.2.- Humidificación cuando el
+aire tratado es todo del exterior. 7.4.- Cálculo de cargas
+térmicas en cámaras frigoríficas. 7.4.1.-
+Cálculo de las cargas térmicas. 7.4.1.1.-
+Transmisión de calor a través de paredes y techos.
+7.4.1.2.- Aire exterior entrante en la cámara. 7.4.1.3.-
+Calor liberado por la iluminación. 7.4.1.4.- Calor liberado
+por el personal. 7.4.1.5.- Calor liberado por los
+ventiladores
+. 7.4.1.6.- Refrigeración
+del producto. 7.4.1.6.1.- Refrigeración de los alimentos.
+7.4.1.6.2.- Calor de congelación. 7.4.1.6.3.- Calor de
+respiración del género. 7.4.1.7.- Calor total de
+refrigeración.
+
+
+TEMA 8: INTERCAMBIADORES DE
+  CALOR  
+
+
+8.1.- Introducción. 8.2.-
+  Tipos de intercambiadores de calor. 8.3.- Coeficiente global de
+  transferencia de calor. 8.4.- Análisis del intercambiador
+  de calor: Uso de la diferencia de temperatura media
+  logarítmica (DTML). 8.4.1.- Intercambiador de calor de
+  flujo paralelo. 8.4.2.- Intercambiador de calor en contraflujo.
+  8.4.3.- Condiciones especiales de operación. 8.4.4.-
+  Intercambiadores de calor de pasos múltiples y de flujo
+  cruzado. 8.5.- Análisis del intercambiador de calor:
+  Método de la eficiencia NUT. 8.5.1.- Definiciones. 8.5.2.-
+  Relaciones de eficiencia NUT. 8.6.- Metodología del
+  cálculo de un intercambiador de calor. 8.7.-
+  Intercambiadores de calor compactos.
+
+
+
+ 
+
+
+
+TEMA 9: PROCESOS TÉRMICOS
+  CON TRANSPORTE DE FLUIDOS 
+
+
+9.1.- Introducción. 9.2.-
+  Transferencia de calor con cambios de estado. 9.2.1.-
+  Generalidades sobre convección en los cambios de estado.
+  9.2.2.- Condensación. 9.2.3.- Ebullición. 9.2.3.1.-
+  Ebullición en alberca. 9.2.3.2.- Ebullición por
+  convección forzada. 9.2.4.- Diseño de equipos de
+  intercambio térmico con cambio de estado. 9.3.-
+  Transferencia de materia. 9.3.1.- Generalidades. 9.3.2.-
+  Análisis de torres de refrigeración. 9.3.3.-
+  Diseño y selección de una torre de enfriamiento.
+  9.4.- Circulación de fluidos.
+
+
+
+TEMA 10: COMPLEMENTOS DE
+  CONDUCCIÓN             
+            
+
+
+10.1.- Fundamentos para el
+  análisis de la conducción de calor. 10.2.-
+  Soluciones analíticas.  10.2.1.- Procedimiento y
+  análisis genérico (aplicado a pared plana con
+  convección). 10.2.2.- Resistencia interna despreciable.
+  10.2.3.- Sistemas radiales.  10.2.4.- Sólido
+  semi-infinito. 10.2.5.- Efectos multidimensionales. 10.2.6.-
+  Régimen Variable Periódico Unidimensional. 10.3.-
+  Métodos analógicos. 10.3.1.- Analogía
+  Eléctrica de Beucken. 10.4.- Métodos
+  gráficos. 10.5.- Métodos numéricos. 10.5.1.-
+  Método de Diferencias Finitas (FDM) aplicado a la
+  conducción de calor bidimensional.
+
+
+
+TEMA 11: INTERCAMBIO DE
+RADIACIÓN
+ 
+
+11.1.- Introducción.
+   11.2.- Factor de forma o de visión. 11.3.-
+  Intercambio de radiación entre superficies grises. 11.4-
+  Efectos volumétricos. 11.4.1.- Fundamentos. 11.4.2.-
+  Transmisión en vidrios. 11.4.3.- Medios participantes.
+  11.5.- Intercambio de radiación en medio participante.
+  11.5.1.- Intercambio radiativo en medio gris. 11.5.2.-
+  Intercambio radiativo en medio no gris. 11.5.3.- Métodos
+  numéricos para intercambio radiativo. 11.6. Balances
+  energéticos en la captación solar.
+
+
+ 
+
+
+TRABAJOS
+  DIRIGIDOS
+
+
+Trabajo dirigido
+  1: Prácticas de laboratorio
+
+
+
+Práctica
+    1: Estudio central térmica de Vapor
+
+
+Práctica
+    2: Análisis de la Combustión
+
+
+Práctica
+    3: Mezclas de gases sin reacción. Diagrama
+    Psicrométrico
+
+
+Práctica
+    4: Estudio de Torre de Refrigeración
+
+
+Práctica
+    5: Estudio de intercambiadores: tubo en tubo, placas y carcasa
+    y tubos.
+
+
+
+ Trabajo
+  dirigido 2: Modelado de sistemas térmicos con PC
+
+'

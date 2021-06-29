@@ -1,0 +1,30 @@
+'
+
+Amplificadores Operacionales y Comparadores
+Osciladores
+Filtros
+Reguladores Integrados
+C.I. Analógicos de aplicación especifica
+ 
+
+
+Teoría
+
+
+Circuitos con OA
+Respuesta en frecuencia
+Retroalimentación
+Filtros activos
+Osciladores
+Circuitos de OA
+Reguladores de DC lineales
+
+
+Práctica
+
+
+Problemas acerca de los conceptos teóricos
+Simulación y diseño de circuitos vistos en
+  teoría
+
+'

@@ -1,0 +1,200 @@
+'
+
+Esta asignatura se iniciará
+con una breve introducción a los sistemas lineales, para dar
+lugar a la presentación del Desarrollo en serie de Fourier
+de señales continuas y discretas y de la Transformada de
+Fourier de señales continuas y discretas. A partir de este
+conocimiento, se presentarán al alumno los modelos de
+Respuesta en frecuencia de Sistemas. Una vez sentadas las bases de
+la teoría del Análisis de Fourier, se
+realizará una presentación de las técnicas de
+Muestreo. El siguiente tema será la presentación de
+la Transformada Z, cuya teoría dará lugar a la
+presentación de técnicas de Síntesis de
+Filtros analógico y digital.
+Palabras clave:
+Series de Fourier, Transformada de Fourier, Filtros,
+Transformada Z, Muestreo.
+
+ 
+
+BLOQUE
+  TEÓRICO
+
+
+
+Tema 1. Señales y Sistemas
+  Continuos.
+
+
+
+Introducción
+    a las señales en tiempo continuo.
+
+
+Operaciones
+    básicas con señales continuas.
+
+
+Clasificación
+    de señales continuas.
+
+
+Sistemas
+    lineales invariantes en el tiempo (LTI) continuos.
+
+
+Respuesta al
+    impulso en sistemas continuos.
+
+
+Operación
+    de convolución en tiempo continuo.
+
+
+
+
+Tema 2. Análisis de Fourier de Señales
+  Continuas.
+
+
+
+Respuesta de
+    un sistema LTI  a una entrada exponencial compleja
+    continua.
+
+
+Desarrollo
+    en Serie de Fourier de señales continuas.
+
+
+Transformada
+    de Fourier de señales continuas. Definición y
+    propiedades.
+
+
+Función
+    de transferencias de un sistema continuo. Sistema continuo como
+    filtro. 
+     
+
+
+Respuesta en
+    frecuencia de sistemas continuos.
+
+
+
+
+Tema 3. Señales y Sistemas
+  Discretos.
+
+
+
+Introdución
+    a las señales en tiempo discreto.
+
+
+Operaciones
+    básicas con señales discretas.
+
+
+Clasificación
+    de señales discretas.
+
+
+Sistemas
+    lineales invariantes en el tiempo (LTI) en variable
+    discreta.
+
+
+Respuesta al
+    impulso en sistemas discretos.
+
+
+Operación
+    de convolución en variable discreta.
+
+
+
+Tema
+  4. Análisis de Fourier de Señales
+  Discretas.
+
+
+
+Respuesta de
+    un sistema LTI  a una entrada exponencial compleja
+    discreta.
+
+
+Desarrollo
+    en Serie de Fourier de señales periódicas
+    discretas.
+
+
+Transformada
+    de Fourier de señales discretas. Definición y
+    propiedades.
+
+
+Función
+    de transferencias de un sistema discreto. Sistema discreto como
+    filtro. 
+
+
+Respuesta en
+    frecuencia de sistemas discretos.
+
+
+
+Tema
+  5. Muestreo y Filtrado. Transformada Z. 
+
+
+
+Teorema de
+    muestreo. Frecuencia de Nyquist.
+
+
+Conceptos
+    fundamentales de filtrado.
+
+
+Conceptos y
+    definiciones fundamentales de Transformada Z.
+
+
+Introducción
+    a las técnicas de filtros analógicos y
+    digitales.
+
+
+ 
+
+
+BLOQUE PRÁCTICO
+
+
+
+Bloque 1. Señales y sistemas en el
+  dominio temporal.
+
+
+
+Bloque 2. Señales y sistemas en el dominio de
+la frecuencia. 
+Muestreo
+y filtrado.
+ 
+
+
+SEMINARIOS
+
+
+
+Seminario. Conceptos matemáticos básicos en
+  comunicaciones.
+
+ 
+'

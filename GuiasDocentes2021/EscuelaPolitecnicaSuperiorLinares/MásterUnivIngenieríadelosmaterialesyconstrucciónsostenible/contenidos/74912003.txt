@@ -1,0 +1,125 @@
+'
+
+Introducción. Relación propiedades
+cerámicas funcionales y estructurales avanzadas. Defectos en
+sólidos. Métodos de obtención.
+Superconductores de alta temperatura crítica. Conductores
+Iónicos. Compuestos de intercalación. Dispositivos
+Electroquímicos. Biocerámicas. Cerámicas
+Ferroeléctricas. Casos Prácticos.
+
+BLOQUE DE TEORÍA
+TEMA 1:
+Introducción
+Introducción a las cerámicas funcionales:
+conceptos básicos y aplicaciones. Propiedades de
+interés en los materiales. Requisitos de respuesta en los
+diferentes campos de aplicación. Parámetros
+críticos en el diseño del material.
+TEMA 2:
+Procesamiento de cerámicas funcionales.
+Métodos de síntesis: síntesis por
+métodos mecánicos en estado sólido,
+síntesis por vía química en disolución,
+síntesis asistida por presión y/o campos
+electromagnéticos. Procesos de conformado. Conformado de
+dispositivos discretos. Conformado en forma de lámina o
+recubrimiento para integración. Sistemas coloidales.
+Técnicas de caracterización física,
+química y de superficie.
+TEMA3:
+Consolidación de cerámicas funcionales.
+Procesos de sinterización y/o consolidación de la
+cerámica funcional. Defectos y crecimiento de grano.
+Parámetros críticos de la microestructura.
+Relación entre la microestructura y las propiedades.
+Generación de nuevas propiedades moduladas por la
+microestructura. Técnicas de caracterización
+microestructural.
+TEMA 4:
+Cerámicas conductoras eléctricas.
+Tipos de conducción: electrónica, iónica y
+protónica. Aplicaciones de los diferentes tipos de
+conductores en pilas de combustible y baterías para
+generación y almacenamiento de energía. Óxidos
+conductores transparentes.
+TEMA 5:
+Cerámicas dieléctricas.
+Constante dieléctrica y microestructura. Aislantes.
+Dieléctricos de alta capacidad. Cerámicas
+ferroeléctricas. Piezocerámicas.
+TEMA 6:
+Cerámicas magnéticas.
+Ferritas. Magnetoeléctricos y Multiferroicos.
+Superconductores de alta temperatura.
+TEMA 7:
+Sensores, catalizadores y otras aplicaciones.
+Sensores químicos basados en óxidos
+semiconductores. Componentes NTC, PTC y varistores.
+Nanopartículas de óxidos para aplicaciones
+catalíticas. Cerámicas para aplicaciones
+ópticas.
+ Casos Prácticos.
+HISTORIA DEL VIDRIO Y LOS VITRALES
+"La vidriera en
+la arquitectura. Desde el gótico hasta nuestros
+días"
+LA ARQUITECTURA
+EN VIDRIO EN EL SIGLO XXI. TENDENCIAS TECNOLÓGICAS,
+ESTÉTICAS Y CONSTRUCTIVAS
+"El vidrio:
+naturaleza, composición y mecanismos de
+coloración"
+"El vidrio en
+las corrientes y estilos arquitectónicos"
+"El vidrio como
+elemento estructural: propiedades y aplicaciones"
+"El vidrio y la
+arquitectura bioclimática: ahorro energético"
+BLOQUE DE
+PRÁCTICAS LABORATORIO:
+
+
+1) Humedad
+
+
+2) Plasticidad de las arcillas
+  mediante el límite de Atterberg, siguiendo el
+  procedimiento especificado en las normas 
+UNE-103-103
+  (1994)y  
+  UNE-103-104
+  (1993)
+ .
+3)
+  Determinación de las dimensiones mediante la norma UNE-EN
+  772-16. A las piezas en verde y tras sinterizado para poder
+  determinar el % contracción.
+4)
+  Determinación de la pérdida de peso.
+5)
+  Determinación de la absorción de agua mediante la
+  norma UNE-EN 772-21.
+6)
+  Determinación de la absorción en agua hirviendo,
+  densidad aparente y porosidad abierta mediante la norma
+  ASTM-C373.
+7)
+  Determinación de la resistencia a la compresión
+  mediante la norma UNE-EN 772-1:2011+A1.
+
+
+SERIE
+  1. INFLUENCIA DEL TAMAÑO DE PARTÍCULA
+
+
+SERIE
+  2. INFLUENCIA PRESIÓN DE TRABAJO
+
+
+SERIE
+  3. INFLUENCIA TEMPERATURA
+
+ 
+ 
+'

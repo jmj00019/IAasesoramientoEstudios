@@ -1,0 +1,56 @@
+'
+
+
+Control estadístico de procesos
+Gráficos de control
+Análisis de capacidad
+Muestreo para la aceptación
+
+
+1.- Control estadístico de procesos
+
+Introducción histórica
+¿En qué consiste el control estadístico
+  de la calidad?
+Causas naturales y atribuibles
+Funcionamiento  de un gráfico de control
+Estabilidad del proceso
+Límites de aviso
+
+2.- Gráficos de control de atributos
+
+Introducción
+Gráfico p
+Gráfico np
+Gráficos de control de disconformidades
+
+3.- Gráficos de control para variables
+
+Introducción
+Gráficos de control
+
+4.- Procedimientos especiales de control de procesos
+
+Otros gráficos de control de variables
+Gráficos de memoria
+
+5.- Análisis de capacidad del proceso
+
+Introducción
+Estimación de la variabilidad del proceso
+Estimación de la proporción de
+  disconformes
+Índices de capacidad
+Errores de medida e índices de
+  capacidad 
+
+6.- Muestreo para la aceptación
+
+Introducción
+Planes de muestreo único para atributos
+Inspección  de rectificación
+Muestreo doble y múltiple
+Planes de muestreo para variables
+
+ 
+'

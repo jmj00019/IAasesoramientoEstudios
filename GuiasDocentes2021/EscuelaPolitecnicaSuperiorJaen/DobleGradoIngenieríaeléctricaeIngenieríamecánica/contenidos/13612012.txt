@@ -1,0 +1,82 @@
+'
+
+Conceptos básicos sobre medidas e instrumentos de medida
+Conceptos básicos sobre Electrónica Analógica
+Conceptos básicos sobre Electrónica Digital
+ 
+
+TEORÍA
+
+Bloque I. Señales y componentes.
+Tipos de señales. Componentes básicos de los
+circuitos eléctricos: Fuentes, Resistencias, Condensadores,
+Bobinas, Transformadores. Otros componentes. Teoremas
+básicos para la resolución de circuitos
+
+Bloque II. Semiconductores. Diodo y Transistor Bipolar.
+Introducción. Definición de Semiconductor.
+Obtención del Silicio. Cristales de Silicio. Tipos de Flujos
+en los Semiconductores. Teoría de Bandas. Tipos de
+Semiconductores: Intrínsecos y Extrínsecos. La
+Unión PN: Polarización Directa y Polarización
+Inversa. Concepto de Diodo. Curva V-I del Diodo.
+Características Eléctricas del Diodo.
+Linealización de la curva V-I con Diodos ideales. Circuitos
+Básicos con Diodos. Otros parámetros
+característicos del Diodo. Hoja de características
+del Diodo. Otros Diodos. Transistores. Tipos de componentes basados
+en semiconductores.
+
+Bloque III. Amplificador Operacional.
+Concepto de amplificador. Modelo de amplificador de
+tensión. Conexión en cascada de amplificadores.
+ Concepto de Amplificador Diferencial.  El Amplificador
+Operacional (AO) Ideal. Circuitos lineales usando Amplificadores
+Operacionales. Circuitos lineales con AO. El AO
+real.  
+
+Bloque IV. Electrónica Digital.
+Señales y sistemas (recordatorio). Señales
+digitales vs. Señales analógicas.
+Representación de la información. Necesidad y
+justificación. Representación de magnitudes
+NATURALES. Representación de magnitudes ENTERAS.
+Representación de magnitudes REALES. Códigos
+binarios. Álgebra de Boole:  definción. Teoremas
+y propiedades. Puertas Lógicas. Funciones combinacionales:
+definición. Tablas de verdad. Formas Canónicas:
+definición. Definición de Minitérmino y
+Maxitérmino. Primera Forma Canónica. Segunda Forma
+Canónica. Implementación NAND. Implementación
+NOR. Funciones con indiferencias. Simplificación de
+Funciones Lógicas. Mapas de Veitch-Karnaugh (V-K).
+Simplificación con V-K. Diseño de circuitos
+combinacionales.
+ 
+
+PRÁCTICAS
+
+Bloque Práctico I. Instrumentación.
+Aprendizaje del manejo de los instrumentos de un puesto
+básico de Laboratorio de electrónica:
+multímetro, fuente de alimentación, generador de
+funciones y osciloscopio. Medida de desfasajes en tensiones de un
+circuito R-C.
+
+Bloque Práctico II. Electrónica
+Analógica.
+Identificación y caracterización eléctrica
+de distintos tipos de diodos. Diseño, montaje y medida de
+rectificador de media onda y de onda completa. Diseño,
+montaje y medida de amplificador inversor basado en un amplificador
+operacional. Diseño, montaje y medida de amplificador no
+inversor basado en un amplificador operacional. Medida experimental
+del slew rate.
+
+Bloque Práctico III. Electrónica Digital.
+Identificación y comprobación del funcionamiento
+de circuitos integrados con puertas lógicas AND, OR y NAND.
+Diseño, montaje y comprobación de tabla de verdad de
+funciones combinacionales a partir del circuito integrado 7400
+(puertas NAND)
+'

@@ -1,0 +1,133 @@
+'
+
+Empresario, empresa y sociedad.
+Clases de empresas. Formas jurídicas.
+Toma de decisiones en la empresa.
+Las funciones directivas en la empresa.
+Las áreas funcionales de la empresa.
+Organización de la producción.
+ 
+
+
+Bloque 1. Introdución a la empresa como
+  sistema
+
+
+Tema 1. La empresa
+
+1.1. El concepto de empresa
+1.2. Principios de la actividad empresarial
+1.3. Tipos de empresas
+1.4. La empresa como sistema
+ Parte Práctica: Análisis de una empresa de
+ingenieria Geomática real   
+
+Tema 2. El entorno de la empresa
+
+2.1. Concepto y tipos de entorno
+2.2. El entorno general
+2.3. El entorno específico de la empresa
+2.4. Características y análisis del entorno
+2.5. La responsabilidad social corporativa
+Parte práctica: Análisis del entorno competitivo
+de la empresa elegida en el anterior ejercicio
+
+Tema 3. El gobierno y la administración de la
+  empresa
+
+3.1. Organos de gobierno. Propiedad y dirección
+3.2. La función de administración
+3.3. La dirección estratégica
+Parte práctica: Presentación de un informe sobre
+las caracteristicas y valores un empresario que da una charla en
+clase. 
+
+Tema 4. La empresa y sus subsistemas
+
+4.1. Introducción
+4.2. La division del sistema empresa en subsistemas
+4.3. Conceptos y elementos de la estructura organizativa de la
+empresa
+4.4. Los recursos y las capacidades de la empresa
+ Parte práctica: Resolución de un caso
+práctico propuesto sobre la problematica de los subsistemas
+empresariales
+
+Bloque 2. Areas funcionales de la empresa
+
+
+Tema 5. El subsistema de operaciones I: Concepto y
+  decisiones estratégicas
+
+5.1. La dirección de las operaciones en la empresa
+5.2. Tipos de procesos productivos
+5.3. Objetivos y tipo de decisiones del subsistema de
+operaciones.
+5.4. El diseño del subsistema de operaciones
+Parte práctica: Resolución de varios casos
+propuestos en relación a las toma de decisiones en el
+subsistema de operaciones
+  
+Tema 6.- El subsistema de operaciones II. decisones
+operativas
+6.1. La planificación de la producción
+6.2 La gestión de los inventarios
+6.3.La programación de proyectos
+6.4. Avances en la planificación y control de la
+producción
+Parte práctica: resolución de ejercicios sobre
+gestión de inventarios, productividad y PERT
+   
+Tema 7. El subsistema de marketing I. Concepto y decisiones
+estratégicas
+7.1. Concepto y elementos del marketing
+7.2 El mercado y la demanda
+7.3 Comportamiento del consumidor, segmentación y
+posicionamiento
+7.4. La gestión de marketing. El marketing
+estratégico
+Parte práctica: Resolución de caso propuesto sobre
+decisiones estratégicas en el subsistema comercial
+  
+Tema 8. El Subsistema de marketing II. El
+marketing-Mix
+8.1. Introducción.
+8.2. Decisiones sobre el producto
+8.3. Decisiones sobre el precio
+8.4 Decisiones sobre la distribución comercial
+8.5. Decisiones sobre comunicación comercial
+Parte práctica: Elaboración de un plan de
+marketing de una empresa de nueva creación o  ya
+existente. 
+  
+Tem 9. El subsistema financiero I. La función
+financiera de la empresa
+9.1. La función financiera de la empresa.
+9.2. Los ciclos económicos de la empresa
+9.3 La rentabilidad de la empresa
+9.4 La solvencia de la empresa
+Parte Práctica: Propuesta de un caso para la
+elaboración de los principales estados contables
+  
+Tema 10. El subsistema fiananciero de la empresa II.
+Analisis de inversiones
+10.1. Introducción
+10.2. Concepto, tipos y elementos de una inversión
+10.3 La selección de inversiones.
+10.4 Las fuentes de financiación
+Parte práctica: Planteamiento de un proyecto de
+inversión real y su valoración
+económico-financiera 
+
+ 
+Bloque 3. La evolución de la empresa
+
+Tema 11. La evolución de la empresa
+
+11.1. La creación y el crecimiento de la empresa
+11.2. Estrategias de crecimiento
+11.3. Internacionalización
+11.4. Innovación
+ 
+ 
+'

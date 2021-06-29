@@ -1,0 +1,37 @@
+'
+
+Bloque 1. Introducción a los sistemas fotovoltaicos
+aislados de la red.
+Bloque 2. El generador fotovoltaico y sus particularidades en
+sistemas fotovoltaicos autónomos. Bloque 3. Acumuladores
+electroquímicos. Función, tipos,
+características y criterios de selección.
+Bloque 4. Control y acondicionamiento de potencia en sistemas
+fotovoltaicos autónomos
+Bloque 5. Cargas. Tipos de cargas recomendadas en este tipo
+de sistemas.
+Bloque 6. Cableado y protecciones. Normativa vigente para
+este tipo de sistemas.
+Bloque 7. Diseño y dimensionado de sistemas
+fotovoltaicos aislados.
+Bloque 8. Otras aplicaciones de la tecnología
+fotovoltaica en ausencia de red convencional.
+
+Bloque 1. Introducción a los sistemas fotovoltaicos
+aislados de la red.
+Bloque 2. El generador fotovoltaico y sus particularidades en
+sistemas fotovoltaicos autónomos.
+Bloque 3. Acumuladores electroquímicos. Función,
+ti-pos, características y criterios de selección.
+Bloque 4. Control y acondicionamiento de potencia en sistemas
+fotovoltaicos autónomos.
+Bloque 5. Cargas. Tipos de cargas recomendadas en este tipo de
+sistemas.
+Bloque 6. Cableado y protecciones. Normativa vigente para este
+tipo de sistemas.
+Bloque 7. Diseño y dimensionado de sistemas fotovoltaicos
+aislados.
+Bloque 8. Otras aplicaciones de la tecnología
+fotovoltaica en ausencia de red convencional.
+Bloque 9. Sistemas Fotovoltaicos de Autoconsumo 
+'

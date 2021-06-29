@@ -1,0 +1,94 @@
+'
+
+Fundamentos científicos de la investigación en
+turismo
+
+Técnicas cualitativas de investigación
+aplicadas al turismo
+
+Técnicas cuantitativas de investigación
+aplicadas al turismo
+
+TÉCNICAS CUALITATIVAS DE INVESTIGACIÓN APLICADAS
+AL TURISMO
+
+    Conceptos básicos de
+metodología: Perspectiva cualitativa versus cuantitativa
+
+              
+1.1. Características epistemológicas de las
+CienciasSociales
+
+              
+2.2. Diferencias entre lo cualitativo y lo cuantitativo
+
+              
+2.3. Perspectivas de la investigación cualitativa
+
+              
+2.4. Etapas de la investigación cualitativa
+
+    La investigación social
+cualitativa: técnicas
+
+              
+2.1. La entrevista
+
+              
+2.2. El focus-group
+
+              
+2.3. La técnica Delphi
+
+              
+2.4. La observación directa
+
+              
+2.5. Otras técnicas
+
+    La eficacia de la investigación
+cualitativa
+    Análisis de datos cualitativos
+
+              
+4.1. Análisis tradicional
+
+              
+4.2. Software para el análisis cualitativo: Atlas.ti,etc.
+
+ 
+
+PROGRAMA PRÁCTICO
+
+    Elección de un tema de
+investigación. Sobre ese tema se realizará:
+    Diseño de la investigación.
+    Diseño de una muestra para realizar
+entrevistas.
+    Elaboración de una guía de
+entrevista.
+    Realización de entrevistas.
+Transcripción.
+    Diseño de un grupo de
+discusión. Muestra y selección de participantes.
+    Aplicación de la técnica
+Delphi.
+
+TÉCNICAS CUANTITATIVAS DE INVESTIGACIÓN
+APLICADAS AL TURISMO
+
+Concepto de indicador.
+
+Medidas cuantitativas básicas de un
+indicadorturístico: media y desviación típica.
+
+Relación entre variables
+turísticas:correlación y regresión.
+
+Índices turísticos.
+
+Series temporales de indicadores turísticos.
+
+Técnicas de análisis multivariante en
+turismo.
+'

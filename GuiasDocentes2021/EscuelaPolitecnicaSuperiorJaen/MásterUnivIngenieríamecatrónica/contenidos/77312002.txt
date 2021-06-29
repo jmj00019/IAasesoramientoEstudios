@@ -1,0 +1,216 @@
+'
+
+- Diseño con CAD.
+- Bocetos 2D en diseño paramétrico.
+- Restricciones geométricas y dimensionales.
+- Operaciones en el diseño de sólidos.
+- Operaciones en el diseño de superficies.
+- Propiedades de la pieza diseñada con CAD.
+- Ensamblaje de piezas. Elaboración de conjuntos y
+mecanismos.
+- Restricciones geométricas y dimensionales en
+ensamblajes.
+
+
+Tema
+  1. Diseño con CAD.
+
+
+
+Diseño
+    Asistido por Ordenador. Introducción
+
+
+Descripción
+    de las operaciones de creación de sólidos.
+
+
+Descripción
+    de las operaciones de creación de superficies.
+
+
+Descripción
+    de las operaciones de creación de ensamblajes.
+
+
+
+Tema
+  2. Bocetos 2D en diseño paramétrico.
+
+
+
+Trazado
+    de entidades 2D en croquis planos.
+
+
+Modificación
+    de entidades 2D.
+
+
+Operaciones
+    bidimensionales de simetría, desplazamiento, copia, giro
+    y matriz.
+
+
+
+Tema
+  3. Restricciones geométricas y dimensionales.
+
+
+
+Vinculaciones
+    geométricas entre elementos lineales.
+
+
+Dimensionamiento
+    paramétrico
+
+
+Creación
+    de relaciones dimensionales
+
+
+
+Tema
+  4. Operaciones en el diseño de sólidos.
+
+
+
+Extrusion,
+    Revolución. Barrido.
+
+
+Multisección,
+    nervio.
+
+
+Vaciado.
+    Operaciones booleanas
+
+
+
+Tema
+  5. Operaciones en el diseño de superficies.
+
+
+
+Creación
+    y operaciones de elementos alámbricos
+
+
+Superficies
+    de Extrusión, revolución y empalme.
+
+
+Superficies
+    de barrido y multisección.
+
+
+Operaciones
+    y transformación de superficies
+
+
+
+Tema
+  6. Propiedades de la pieza diseñada con CAD.
+
+
+
+Infraestructura
+    del modelo.
+
+
+Gestión
+    de las operaciones de creación del modelo
+
+
+Modificación
+    de vínculos geométricos y dimensionales
+
+
+
+Tema
+  7. Ensamblaje de piezas. Elaboración de conjuntos y
+  mecanismos.
+
+
+
+Infraestructura
+    de ensamblajes.
+
+
+Inserción
+    y manipulación de componentes
+
+
+Gestión
+    de componentes
+
+
+
+Tema
+  8. Restricciones geométricas y dimensionales en
+  ensamblajes.
+
+
+
+Restricciones
+    geométricas entre componentes
+
+
+Restricciones
+    dimensionales en ensamblajes
+
+
+Creación
+    de variables
+
+
+Generalización
+    del diseño paramétrico: Tablas de
+    diseño
+
+
+
+ 
+
+
+
+CONTENIDOS PRÁCTICOS: (Desarrollo de
+  prácticas)
+
+
+Práctica
+  1. Bocetos 2D (3 horas).
+
+
+Práctica
+  2. Bocetos 2D. Restricciones geométricas y dimensionales
+  (3 horas).
+
+
+Práctica
+  3. Diseño de sólidos (3 horas).
+
+
+Práctica
+  4. Diseño de sólidos (3 horas).
+
+
+Práctica
+  5. Diseño de superficies  (3 horas).
+
+
+Práctica
+  6. Ensamblajes (3 horas).
+
+
+Práctica
+  7. Ensamblajes (3 horas).
+
+
+Práctica
+  8. Diseño paramétrico. Tablas de diseño (3
+  horas).
+
+'

@@ -1,0 +1,58 @@
+'
+
+Bloque 1. Características Generales del Sol
+Bloque 2. Medidas y bases de datos de Radiación Solar
+Bloque 3. Radiación Solar sobre superficies inclinadas
+y sombreamiento
+
+Tema 1. El Sol. Características Generales
+1.1.- Importancia de la Radiación Solar
+1.2.- El Sol. Datos Generales
+1.3.- Geometría Sol-Tierra
+1.3.1.- Movimiento Sol-Tierra Real
+1.3.2.- Movimiento Sol-Tierra Aparente
+1.4.- Parámetros fundamentales
+1.4.1.- Declinación Solar. Excentricidad Solar
+1.4.2.- Altura Solar. Azimut Solar
+1.5.- Hora Solar
+1.6.- Introducción a las componentes solares
+Tema 2. La radiación solar como onda
+electromagnética y su interacción con la
+atmósfera
+2.1.- Radiación Solar : Onda Electromagética
+2.1.1- Naturaleza de la radiación
+electromagnética.
+2.1.2.- Origen de la radiación electromagnética
+2.1.3.- Ecuaciones de una onda electromagnética
+2.1.4.- Parámetros de una onda electromagnética
+2.1.5.- El espectro de la REM
+2.1.6- El cuerpo negro
+2.1.7.- El Sol como un cuerpo negro
+2.1.8.- Radiación Solar Extraterrestre
+2.2.- Radiación Solar. Interacción con la
+atmósfera
+2.2.1.- Radiación Térmica
+2.2.2.- La Constante Solar
+2.2.3.- Fenómenos de Absorción y
+Dispersión
+2.2.4.- Atenuación de la Radiación Solar
+2.2.5.- Componentes de la Radiación Solar
+Tema 3. Medida de la Radiación Solar
+3.1.- Medidas Directas. Aparatos de Medida Directa
+3.2.- Medidas Indirectas. Aparatos de Medida Indirecta
+3.3.- Estimaciones
+Tema 4. Cálculo de la Radiación Solar sobre
+Superficies Inclinadas
+4.1.-Cálculo de la Radiación Solar sobre
+Superficies Inclinadas
+4.1.1.-Método General de Cálculo
+4.1.2.- Algoritmos Particulares
+4.1.3.- ORIENTSOL 2.0
+Tema 5. Estudio de Sombreamiento
+5.1.- Diagramas de Sombras
+5.2.- Cálculo de Pérdidas por Sombreamiento
+Tema 6. Bases de Datos de Radiación Solar
+6.1.- Bases de Datos Españolas
+6.2.- Bases de Datos Europeas
+6.3.- Bases de Datos Mundiales
+'

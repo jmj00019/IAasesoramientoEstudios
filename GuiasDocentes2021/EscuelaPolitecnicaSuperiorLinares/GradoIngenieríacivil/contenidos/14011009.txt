@@ -1,0 +1,23 @@
+'
+
+1. Funciones de varias variables. Extremos libres y
+condicionados.
+2. Integración en varias variables.
+3. Geometría diferencial.
+4. Introducción a las ecuaciones diferenciales y en
+derivadas parciales.
+5. Introducción a la estadística descriptiva.
+
+Desarrollo del temario:
+
+Funciones de varias variables.
+Diferenciación en varias variables.
+Geometría diferencial.
+Integral doble.
+Integral triple.
+Ecuaciones diferenciales.
+Introducción a las ecuaciones en derivadas
+  parciales.
+Estadística descriptiva
+
+'

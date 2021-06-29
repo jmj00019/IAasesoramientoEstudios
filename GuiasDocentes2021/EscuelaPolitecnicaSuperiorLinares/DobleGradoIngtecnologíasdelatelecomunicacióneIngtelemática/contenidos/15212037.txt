@@ -1,0 +1,109 @@
+'
+
+Se inicia por una descripción de sistema y
+aplicación multimedia, analizando las peculiaridades de este
+tipo de sistemas. A continuación, se explican las
+técnicas de codificación y estándares
+más destacadas para audio, imagen y video, así como
+las técnicas de modulación y transmisión
+más usuales.
+También se estudian los diferentes formatos de
+almacenamiento de audio, imagen y vídeo, especificando los
+elementos de adquisición y procesado de esta
+información. El siguiente paso consiste en describir los
+distintos subsistemas de los sistemas multimedia, de los
+subsistemas/procesados principales de una cadena digital multimedia
+y de los conectores más importantes para la
+interconexión digital de equipos.
+También se presentan los sistemas de
+representación de imagen y video más utilizados en la
+actualidad: las tecnologías de las pantallas planas y los
+videoproyectores.
+Se introducen los distintos soportes físicos de
+almacenamiento multimedia, desde discos ópticos a tarjetas
+de memoria. Se hará un repaso de distintos ejemplos
+prácticos de sistemas multimedia. Se pretende que la
+asignatura tenga un carácter altamente práctico, ya
+que se busca que el alumno conozca con bastante detalle el
+funcionamiento de los distintos elementos y sistemas multimedia
+más utilizados en la actualidad (y también de cara al
+futuro).
+Palabras Clave: MPEG, JPEG, tarjeta de audio, tarjeta de video,
+tarjeta de memoria, conectores, equipos, subsistemas multimedia,
+LCD, DVD, Bluray, HD. 
+
+Contenidos teóricos:
+Se distingue un bloque teórico y bloque
+problemas/práctico.
+En el bloque teórico se desglosa en una serie de
+temáticas agrupadas donde se presenta el estado actual de
+diferentes tecnologías multimedia. Adicionalmente, se
+presentan las tendencias existentes así como se proponen
+actividades que ahonden en la búsqueda y estudio de
+tecnologías multimedia emergentes. De esta forma, se dota al
+alumnado de la capacidad para estar al día en las novedades
+en ciencia y tecnología. De igual forma se desarrolla la
+capacidad de reconocer la necesidad de la formación continua
+propia y de emprender esta actividad a lo largo de su vida
+profesional de forma independiente. 
+Desarrollo del bloque teórico:
+Tema 1. Introducción a los sistemas multimedia.
+Definición de sistemas multimedia. Cadena digital
+multimedia. Contenidos multimedia.Técnica de
+codificación, modulación y transmisión
+utilizadas en señales multimedia.
+Tema 2. Sistemas de almacenamiento. Almacenamiento óptico
+(DVD, CD, BR...). Almacenamiento en cinta (miniDV, DV, Betacam...).
+Almacenamiento estado sólido (flash, compact flash, SD,...).
+Almacenamiento en la red, almacenamiento en la nube.
+Tema 3. Estandares de distribución/conexión de
+video y audio. IE31394, video compuesto, SCART, HDMI, DVI, VGA,
+USB, FIREWIRE, SDI, ASI...)
+Tema 4. Dipositivos portátiles multimedia (media juke
+box, tablets, smart phones...). Aplicaciones de distribución
+y almacenamiento de contenidos multimedia.
+Tema 5. Sistemas de representación. Pantallas,
+proyectores, retroproyectores). Tecnologías de pantallas
+planas (plasma, LCD, LED, 3D). TV 3D. Pantallas de tinta
+electrónica. Sistemas de representacion transparentes para
+exteriores y grandes superficies.
+Tema 6. Sistemas de adquisición: cámaras.
+Clasificación, accesorios e interfaces.
+Tema 7. Sistemas AR y VR. Dispositivos para AR/VR. Aplicaciones
+y entornos de desarrollo AR/VR. 
+En el bloque problemas/práctico se desglosa en una serie
+de actividades agrupadas para diferentes sistemas multimedia en los
+campos de iluminación, sistemas de representación
+multimedia, distribución de contenidos miltimedia y
+generación de contidos audiovisuales. Una vez aprendidos
+estos elementos de forma aislada, deben integrarse en sistemas
+más complejos que permitan la interconexión de los
+mismos en un proyecto global.  De esta forma, se dota al
+alumnado de la capacidad de gestionar complejas actividades
+técnicas o profesionales o proyectos de su especialidad,
+responsabilizándose de la toma de decisiones.
+Desarrollo del bloque problemas/prácticos:
+Actividad 1. Software para la creación de DVD, BR.
+Manipulación de menús, videos, audios, subtitulos.
+Sistemas de transcodificación de fuentes multimedia.
+Subsistemas multimedia.
+Actividad 2. Control de sistema de iluminación
+(focos) mediantes diferentes herramientas SW y HW. Control MIDI y
+musica. Protocolo DMX.
+Actividad 3. Grabación/repreducción de audio
+en sistemas portátiles. Sistema multimedia de
+grabación multicanal. Utilización de
+cámaras de video profesionales para la captación en
+diferentes soportes de almacenamiento, formatos y
+utilización de interfaces.
+Actividad 4. Estudio, instalación y
+configuración de un sistema multimedia de
+distribución de señales multimedia.
+Utilización de diferentes sistemas de
+representación.
+Actividad 5. Sistemas de AR/VR. Herramientas de desarrollo,
+aplicaciones de AR/VR, puesta en funcionamiento de dispositivos
+AR/VR
+Actividad 6: Sistema global de integración de
+sistemas multimedia desarrollado como proyecto profesional.
+'
